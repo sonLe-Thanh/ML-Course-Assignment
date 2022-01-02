@@ -1,0 +1,35 @@
+     Royal Holloway's team have been central to bringing about the first       successful co-operation between European TV archives to open up their       holdings to the general public, represented in the successful launch of       EUscreen in 2010.
+The research has shaped the new co-operative culture         amongst European broadcaster archives, enabling substantial public       access and defining the terms of engagement with audio-visual content for       the European digital library, Europeana.
+VideoActive paved the way and       made possible the far larger www.euscreen.eu       project which now encompasses 22 broadcaster archives.
+Ellis and Turnock       continue to guide this project.
+EUscreen provides universal public access       to already-digitised historic television material.
+It enabled many       archives to develop an access policy for the first time; and some (like       RTBF in Belgium) to develop their first systematic digitisation.
+The       project is unique in its comparative aspect, promoting searches across       output from different European broadcasters.
+The EUscreen website is universally accessible and averaged       41,550 unique visitors per month in 2013 (up from 9000 per month in 2012)       with almost 120,000 page views per month.
+EUscreen has been referred to in       108 print and online publications, as well as 1684 mentions on Twitter,       where EUscreen has 445 followers.
+There have also been 101,000 web       references via Google, 1,080 on Bing and 7,290 through Yahoo.
+It is       currently included as an integral part of courses at 36 educational       institutions across Europe, and has reached target stakeholders in 196       Higher and Further Education institutions.
+The EUscreen collection will       contain more than 45,000 items by 2016.
+The design of a straightforward       interface involved the Royal Holloway team who articulated the needs of       different potential users based on the underpinning research into       judgements of cultural value.
+The software developers also substantially       altered their `advanced search' design to accommodate the requirements of       scholarly as well as generalist research at the urging of the Royal       Holloway team.
+Europeana (the EC-funded digital library and museum) appointed EUscreen         as its sole aggregator for audiovisual content, despite the       existence of other sites such as the European Film Gateway.
+EUscreen will       provide one million metadata items to Europeana by 2016.
+VideoActive's       metadata model was adopted by EUscreen with only minor changes, and is now       the standard for participating broadcasters from most of the new accession       states of Eastern Europe.
+EUscreen has become a unique forum for archives       across Europe, ranging from the INA in France, with its advanced access       programmes, to Romania, Poland and Denmark with no other sustained public       access programmes.
+Royal Holloway's research reputation in this area led       to its selection, along with co-ordinators Utrecht University, as the sole       research institution partners in these projects.
+The majority partners are       broadcaster archives (now almost 30 are involved) and two technology       providers.
+EUscreen developed and expanded the VideoActive prototype by adding       research-informed commentary on its holdings through the creation of       `virtual collections'.
+Royal Holloway took responsibility for the       development of a series of themed `virtual exhibitions' of EUscreen         material, applying in practice the findings of the underpinning       research to develop curated collections drawing on a wide range of       academic research and the work of archivists.
+This co-operative working       has been further developed by the creation of VIEW: Journal of         European Television History and Culture, an online peer-reviewed       journal with both Johnson and Ellis on the editorial board       (http://journal.euscreen.eu/index.php/view).
+In both cases, archivists are       central contributors, using and developing the overall perspectives on TV       history developed by the Royal Holloway group.
+VideoActive and EUscreen       have therefore enabled a direct dialogue between Royal Holloway's research       in the field and the preservation and cataloguing practices of the       archives of public and commercial broadcasters across Europe.
+As previously indicated, the underpinning research emphasised the       enduring cultural value of archival television, arguing for the preservation         of television flow rather than just isolated programmes.
+As a       conference paper, Ellis (2006) (Output 2) led directly to a change in the       preservation practice of the UK National Film and TV Archive (NFTVA).
+The       NFTVA now includes examples of interstitial material (trails, idents,       adverts and so on) as well as sampled nights to demonstrate the nature of       broadcast flow.
+Ellis has also led the team developing a consolidated search         interface for the nine separate databases of more than 13 million       records of audio-visual content (particularly news content) held by BUFVC.
+The search interface has many novel features (e.g.
+indication of how easy       it is obtain the footage) and at launch in April 2012 showed a marked       increase on the first three months of the year: 81,635 page views compared       with the previous high of 5,035 in February; 82, 953 total searches       against 12,163 in March; and 17,891 unique visitors compared with 284 in       January 2012.
+Extensive user testing demonstrated the utility of the       concepts developed in the underpinning research to the development of       search criteria.
+In 2001 it was possible for one commentator to write: `It is doubtful...       that the publication of TV archives on the Internet will soon become a       general practice: copyright issues, not to speak of the technical costs,       will still be the major obstacle for on-line transmission of such       material... it is not difficult to bet that the access to archives will       remain for a long time the privilege of a small number of researchers.'
+(Andr&#233; Lange, The Historian, Television and Television History,       2001, p. 43).
+The impact of Royal Holloway's research has been to prove       this wrong.

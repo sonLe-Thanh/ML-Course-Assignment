@@ -1,0 +1,48 @@
+     Barr realised that the graphics capabilities and wide usage of       smartphones offered groundbreaking possibilities for engagement with       science.
+A prototype smartphone application, "LHSee", was created by Barr       and Boddy with support from a STFC small award (ST/I507069/1).
+The app       shows users real collision events from ATLAS, rendered in 3D, necessarily       simplified for clarity and bandwidth.
+Just as in the tools used within       ATLAS, the detector elements can be shown, as can 2D projections.
+With the       guidance provided, the user can learn to use these displays to interpret       the events using logic analogous to the processes used in the ATLAS       collaboration.
+The technical implementation and educational potential was       presented in Physics Education [A].
+A collision event in the ATLAS experiment rendered with LHSee.
+The app was launched through Android Marketplace, now Google Play, on 7th       October 2011, and is described there as "LHSee makes the         Hadron Collider accessible to anybody with an Android smartphone or         tablet PC.
+... For the first time you can now grab live collision events         from the underground detectors in Geneva, and beam them direct to your         own device."
+[B].
+By including some test data, it also allowed users       to "Hunt the Higgs", and thus gain a conception of what `discovery'       entails.
+Concurrent with the CERN press conference in July 2012 on the       discovery of the new particle, real data from observed candidate Higgs       events was made available in LHSee.
+This was given publicity by CERN and       resulted in several thousand new downloads.
+Development of this app required (i) the reduction of each large event       dataset to something that is feasible to transmit to a smartphone and (ii)       the trust of the ATLAS collaboration to access live events without       conveying meaningful numerical data.
+Neither would have been possible       without a detailed knowledge of the ATLAS detectors, an understanding of       the physics that could be appreciated from a simplified rendering of the       event, and a respected role in the collaboration.
+Barr, Hays and Boddy's       research, and the wider context of the Oxford ATLAS group, thus directly       underpins both the conception and implementation of this app.
+Barr's roles on this project were as application content advisor, project       manager, and liaison with CERN, ATLAS and STFC.
+Boddy was the lead content       and software developer.
+They were advised by a wide range of other       experts, including commercial smartphone application developers, the ATLAS       outreach group, the ATLAS UK collaboration, the STFC media team, the CERN       press office, and &#8212; at the time of release &#8212; various contacts in the       popular press.
+Text for the app has been translated into six languages by       volunteers from the ATLAS collaboration.
+Reach       One week after release, the app had been downloaded by over 25,000 people       across the world: only 12% of downloads were from the UK.
+The app       incorporates a feedback form, from which analysis of a set of 1000       responses indicated a wide user age range: 10% were aged 18 or under; 45%       19-35, 20% 36-50 and 11% 51 or over [C].
+Downloads had increased to over       60,000 by June 2012 [B].
+Comments from users indicate that the reach has been widened further by       teachers, and practising or aspiring particle physicists who had used or       intended to use it to explain the experiment to others [B,C], for example:       "I have been showing all my non technical friends" [C].
+The report       in Physics Education has been downloaded over 500 times [A] and       LHSee was identified as an educational `app of the week' in October 2011       [D].
+The app also featured in the exhibit `Higgs Boson' at the Royal Society       Summer Science Exhibition in July 2013, which was presented by members of       the ATLAS collaboration from a number of UK universities and visited by an       estimated 7000 people.
+It allowed visitors to investigate ATLAS events       themselves, to plot mass distributions for W and Z bosons and to identify       candidate Higgs boson events.
+Significance to users       At January 2013, LHSee had an average user rating of 4.8 out of 5 "stars"       from 520 reviews on Google Play [B], which was the highest rating of the       100 most-downloaded free apps [E].
+Free-text responses were also obtained       through the app's own feedback [C].
+From these sources, benefits to users       fall into three principal categories:     Raising interest and inspiration: User comments include "Glorious         beyond words" [B], `LHSee is an excellent effort to make us feel         a part of grand discovery' and `its like being able to reach out         and lay a hand on the pulse of super science' [C].
+Many users were       sufficiently engaged to suggest extra features they would like to see,       some of which have since been implemented.
+Understanding the experiment: Free-text responses included some       confirmation that users had used the app to gain a better understanding of       how events are analysed: `I almost felt like I was working beside the         physicists while analysing those real-time events'; `Quite complicated,         but I understand the basics now'; `It only took me a few tries to be         able to discern the types of events described' and `Thank you for         helping us visualize what the LHC is.'
+[C]     Encouragement to study further: 73% of those aged 18 or under in       the feedback forms analysed agreed or strongly agreed that the app       `encouraged them to study physics at a higher level' [C].
+Free-text       responses included `It has rekindled an interest in science and         mathematics.
+I do intend on studying the subject now' and `Wish         [I] was part of the team.
+Wish I could continue my higher education in         particle physics.'
+[C]     Press and media coverage       LHSee has been featured in a number of publications and websites,       including positive reviews in The Times [F], the Daily Mail       [G], a Guardian blog, Forbes [H] and other international       media.
+It has also been flagged specifically for its educational value       e.g.
+[D,I].
+A detailed review on the AndroidTapp website noted, "you         really have to apply and learn how things work to get the most out of         the app" and "given a little time, you can really begin to         understand how important the work is that they are doing" [I].
+The       Gizmodo site awarded it `App of the Day', commenting, "The LHC is .. a         very important part of human history and...
+I know so very little about         it.
+This app presents the LHC's mission and various experiments in a         much more digestible package."
+[J].
+Sustainability and third-party support       The version described here was limited to a single application, containing       only a few key `demonstrator' features and available only to users with       Android devices.
+To ensure engagement can be widened further and to       support greater understanding of the Higgs discovery, a follow-on STFC       Large Award was secured in April 2012 (ST/K000462/1, &#163;43k).
+This funded       development of a subsequent version, `Collider', including creation of a       version for iPhone/iPad, and extension to a wider range of educational and       outreach application resources.
+This project is ongoing.

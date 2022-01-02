@@ -1,0 +1,51 @@
+     Manchester has been at the heart of the science arguments and the       technical development programme which has established the viability of the       SKA.
+Over the past decade the concept has been defined both scientifically       and technically by hundreds of astronomers and engineers in over 60       research institutions in a dozen countries with some outputs in Section 3.
+The sites have been selected; precursor instruments have been constructed       in several countries; the international organisation has been formed;       pre-construction design funding is in place and international industry is       closely involved in the planning.
+Impact from the scientific and technical       research programmes is in four areas: international science policy and       priorities; human capacity building outside UK academia; economic impact       from contracts for non-UK infrastructures; economic impact from the       establishment of the international SKA Organisation as a limited company       in the UK to lead the design and construction of the SKA.
+4.1 Science policy and priorities [A]: The policy impact began       when the coordinating international "SKA Organisation" (SKAO) was formed       in 2011.
+The SKAO has representatives from Australia, Canada, China,       Germany, Italy, Netherlands, New Zealand, South Africa, Sweden and the UK       (chair) with India as an associate member.
+These partners together       committed a total budget of &#8364;120M for the "pre-construction" design phase       in 2012Q2-2016Q3, On a pro rata basis ~25% (&#8364;30M of which &#8364;3.9M is for the       SKAO see Section 4.4) can be attributed up to 31 July 2013.
+The site       decision was taken in May 2012 and broke new ground in that the SKA will       be the first fully international science infrastructure to be embedded in       Africa.
+The higher frequency "dish" array will be built in the Northern       Cape Province, South Africa and there will be SKA telescope outstations in       Namibia, Botswana, Zambia, Mozambique, Kenya, Ghana, Madagascar and       Mauritius.
+Complementary lower frequency and "survey" arrays will be built       in Australia.
+Europe-South Africa [B]: The South African SKA programme has been       directly influential in creating new political links between Africa and       Europe.
+The African-European Radio Astronomy Platform (AERAP) was set up       in May 2012 as a response to the European Parliament's Written Declaration       45/2011 `on Science Capacity Building in Africa: promoting       European-African radio astronomy partnerships'.
+This call was repeated by       the Heads of State of the African Union, in their decision       `Assembly/AU/Dec.407 CXVIII', for radio astronomy to be a priority focus       area for Africa-EU cooperation.
+AERAP's aim is to "enable major research       and technological advances that will drive socioeconomic development and       competitiveness in both Africa and Europe".
+The European Parliament's       AERAP Group was established in November 2012 to secure on-going political       support for its activities.
+AERAP is now coordinating a strategic       "Framework Programme for Cooperation" shaped around European investment in       science infrastructure; human capital development; ICT and big data;       education and public awareness.
+4.2 Human Capacity Building in Africa [C,D,E,F]: The importance of       the SKA project to South Africa can be judged from the address to the       National Assembly by the Science and Technology Minister Derek Hanekom in       May 2013.
+"[the decision] to host the greatest portion of the Square       Kilometre Array radio telescope [in South Africa], was a massive       acknowledgement of the capabilities of our scientists and engineers, and       the advances our country has made in science and technology...The       construction of the 64-dish MeerKAT has commenced, and will be completed       by 2016.
+On its own, the MeerKAT will be the largest radio telescope in       the Southern Hemisphere."
+Minister Hanekom's immediate predecessor Naledi       Pandor said "Radio astronomy partnerships with Africa can make a valuable       contribution to economic development... By training a new generation of       highly qualified scientists to work on African projects, they can boost       the region's human capital and keep many of Africa's brightest young minds       in Africa."
+A significant part of the build-up of scientific/technical       education and training in Africa can be directly attributed to the SKA.
+The approach to "bottom up" scientific and technical capacity-building       associated with SKA South Africa is impressive and multifaceted.
+In the       period 2008-13, 401 young people benefited from SKA South Africa bursaries       and scholarships, including many students from other African countries,       comprising: Post-Doctoral Fellowships (39); Bursaries for Post-graduate       (207), Undergraduate (103), BTech and National Diploma (28) students       together with Internships (10) and Artisan programmes (14).
+The total is       currently growing at over 90 per year.
+At the top level five new research       chairs dedicated to science and instrumentation of astronomy have been       established: at Rhodes University, Stellenbosch University, the University       of Cape Town, the University of the Western Cape and the University of the       Witwatersrand.
+A new generation of scientists is growing in Southern       Africa&#8212;in 2003 there were 12 practising radio astronomers, while already       by 2011 this had grown to over 60.
+The SKA has also stimulated interest in astronomy undergraduate education       in the African partner nations with developments in Madagascar, Botswana       and Ghana; however Kenya has taken a lead.
+Since 2009 the University of       Nairobi has enrolled 53 undergraduate students in Astronomy &amp;       Astrophysics, and in 2013 the first cohort of 14 graduated with a BSc.
+These students are largely inspired by the SKA and many hope to get SKA or       other scholarships to enable them pursue postgraduate studies.
+4.3 National infrastructures [A,G,H]: Starting after 2008 and as       pivotal components of their strategies for winning the site competition,       both South Africa and Australia began to construct &#8364;150M SKA "precursor"       radio telescopes (KAT-7/MeerKAT and ASKAP respectively).
+Constructing       these new national infrastructures has opened up new areas of business       resulting in commercial contracts for both local and international       companies and new local employment within the projects.
+The construction       of KAT-7 has been completed, while that of ASKAP is largely completed and       that of MeerKAT is well underway.
+Over 120 young scientists and engineers are working on the MeerKAT       project, based at the engineering office in Cape Town, and at universities       and companies across South Africa and Africa.
+75% of the total contract       will be spent in South Africa.
+Project delivery is led by Aurecon       (infrastructure); Stratostat Datacom (antennas, with technical help from       General Dynamics SATCOM Technologies); Brink &amp; Heath Civils (roads);       EMSS Antennas (receivers).
+The project has added 800 construction jobs in       an area with 25% unemployment.
+The site infrastructure work alone has       created jobs for 269 adults and 191 youths.
+As well as those of       construction, the project has demanded that South African companies       acquire new skills.
+LJ du Toit, EMSS managing director, has stated       "MeerKAT's electromagnetic (EM) requirements have grown significantly       since [2005], and I am proud to say that we as a company have grown with       it, and have managed to keep up with the technology needs".
+Stratostat       Datacom's owner Alan Geldenhuys' focus is to engage local industry,       especially in terms of local content, skills transfer and the upliftment       of surrounding communities: "We foresee a great sense of community with       the local towns' people".
+The economic effects on the North Cape Province       reach down to local levels.
+For example in the town of Carnarvon, MeerKAT       contracts to the value of &#8364;400k from eight "emerging contractors" and       orders to the value of &#8364;2.5M from 30 suppliers have been awarded.
+These       emerging contractors have obligatory participation goals which require       worker training and they have been assisted in registering with South       African Construction Industry Development Board and with registering       workers with the Department of Labour.
+MeerKAT is also providing further       business and entrepreneurship training to local suppliers/contractors.
+It       should be noted that normal issues of economic displacement are much less       relevant in developing economies.
+4.4 Employment and the local economy in Cheshire [I,J]: The SKAO       is now constituted as an independent UK company, limited by guarantee.
+Its       Office moved to a new building at Jodrell Bank Observatory in November       2012.
+The successful UK (Manchester, Cambridge and Oxford) proposal to       host the Office attracted letters of support from 19 UK companies, from       the Minister for Universities &amp; Science, from MPs and representatives       of Regional Government (available on request).
+The Office is supported       entirely by the International Organisation with funding totalling &#8364;22.8M       through 2015 of which 17% (~&#8364;3.9M) had been spent by 31 July 2013.
+The       final staff target is 49 FTE, 19.6 of whom, drawn from the international       community, were in place by 31 July 2013.
+The impact on the local economy       is greater than the up-front spend; the net multiplier is ~1.5, giving a       total economic impact to 31 July 2013 of ~&#163;4.5M (&#8364;5.3M).

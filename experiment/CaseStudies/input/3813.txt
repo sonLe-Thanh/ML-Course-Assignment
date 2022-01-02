@@ -1,0 +1,24 @@
+     Exeter's storm risk research has had a clear impact on risk       quantification practices in the insurance sector.
+Notable impacts include:     1.
+Improved mathematical tools which have been adopted by industry           for better pricing of storm insurance.
+Research publications [1-3] led in 2009 to storm clustering being         incorporated for the first time into the Integrated Financial Platform         (iFM) at Willis.
+Willis is a major global insurance and reinsurance         broker that employs around 20,000 people worldwide and arranges         protection for around US$5 trillion of exposed risk every year.
+The         clustering methodology accounts for the increased clustering of more         extreme storms [3] and is routinely used by the Chief Actuary and other         brokers at Willis to design more robust reinsurance contracts and to         better price windstorm risk.
+Local spatial calibration of tropical         cyclones simulated by climate models was also successfully implemented         on the platform in 2009 and provides Willis with a useful tool for         exploring the tropical cyclone risk especially in regions where there         have been few cyclone observations (e.g.
+western Pacific near E. Asia).
+Willis Re have quoted Stephenson's research `....as the most           significant contributor of of any WRN [Willis Research Network]           partner in terms of applicable research' they further add that `the           studies of clustering of clustering that they [Stephenson's group]           produced allowed Willis to lead the market in providing better           quantification of the additional risk, and demonstrate to our clients           that we are the leading insurance broker' and `clustering has           now been built into commercially availible models for windstorm risk           following the Exeter work' [evidence item i].
+2.
+Raised awareness in storm clustering that has stimulated           improvements in the commercial vendor catastrophe models used by the           insurance industry.
+Exeter's storm risk research has raised awareness in the importance of         storm clustering throughout the insurance industry.
+Three major         catastrophe modelling companies (AIR, EQECAT and RMS) have now         explicitly incorporated clustering in their most recent windstorm models         for Europe [see evidence items a-d].
+Thanks in part to Exeter's         research, storm clustering has also become a subject of much research         and development at major reinsurance companies, e.g.
+SCOR [evidence item           f].
+Exeter's research on storm clustering is often cited and         quoted in company technical reports (see evidence item e and         evidence item g).
+3.
+Expert dialogue on storm risk with global insurers and insurance           brokers       As world-leading experts in storm risk, Professor Stephenson and his         team are in frequent demand to provide expert advice to insurance on         storms.
+For example,                 The PhD research [2] supervised by Professor Stephenson led to the           creation in 2006 of the Willis Research Network (WRN) &#8212; the world's           largest partnership between academia and the insurance industry           (www.willisresearchnetwork.com).
+The WRN is a unique open forum for           the advancement of the science of extreme catastrophic events through           close collaboration between universities, insurers, reinsurers,           catastrophe modelling companies, government research institutions and           non-governmental organisations.
+As one of the world's major brokers,           Willis is able to use the expert advice to better inform its clients,           which include most of the world's major insurance companies and           several national governments.
+Exeter continues to play a pivotal role           in the success of this network [evidence item i].
+In 2010, Professor Stephenson was invited to serve as the windstorm           expert on the Natural Catastrophe Advisory Council of Zurich &#8212; one of           the world's largest insurance companies.
+He provides expert advice at           annual council meetings;          The work of Prof. Stephenson and Dr. Economou supported by the AXA           research fund has featured heavily in AXA's outreach and 2013 brand           campaign [evidence items h].

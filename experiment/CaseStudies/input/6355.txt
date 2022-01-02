@@ -1,0 +1,29 @@
+     The UK hip and knee registry details the number and types of knee       implants being utilised in knee operations in the UK; the data reflects       the general trends observed worldwide [5.1].
+The 2011 register shows that       81,979 knee replacements were implanted in 2010 in the UK alone; the       predecessor DePuy knee design, the PFC sigma, was noted as the market       leader between 2003-2010, being used in 36% of these procedures [5.2].
+Historically, the development of new orthopaedic devices has relied on       accumulated knowledge from clinical practice and limited empirical testing       (either numerical or experimental).
+Pre-clinical evaluation has typically       occurred late in the process when design is close to being fixed and when       physical parts existed.
+The advances in numerical modelling conducted at       Southampton (to assess polyethylene wear and account for the influence of       surgical variability) has meant that screening of potential designs can be       performed much earlier in the design phase before physical prototypes       exist.
+Since 2000, DePuy have been involved in a technology partnership with the       University of Southampton, with the objective of developing numerical       tools to help assess the performance of total joint replacements.
+Based on       the maturity of the developed techniques, in 2007 DePuy took the decision       to integrate Southampton's tools into the design process of a new total       knee joint replacement [5.3].
+This work was carried out solely within the Bioengineering Group at       Southampton.
+The design phase was split into two distinct parts, an       initial screening of potential designs followed by refining of candidate       designs.
+In the initial phase, between 2008-2009, the wear simulation tool       was used to assess DePuy's existing products as well as those of       competitors.
+These data acted as a bench mark and informed the direction       of design process for DePuy.
+A range of parameters thought to control both the kinematics and wear of       the new design were then investigated; this was the first time that DePuy       had exploited numerical modelling to this extent.
+As a result of using       this tool, a much larger number of design variants could be explored, and       a greater understanding of the effect of design changes on the performance       of the implant was realised.
+In addition, a significant reduction of time       in the design cycle was achieved.
+In the second phase, between 2009-2010, Southampton's probabilistic       modelling techniques were used to assess the robustness of existing       designs and potential new designs to surgical variability.
+The research was used by DePuy to show that that the final design was       more robust to surgical variability than their existing designs and those       of their competitors [5.3].
+The information gained was also used to inform the design of the       instrumentation required to implant the new design.
+Knee development team       leader at DePuy US states "The techniques that were employed in         collaboration with Southampton allowed us to first of all evaluate         analytically our component design against various options in manners         that we would never have been able to mechanically test in any         reasonable amount of time.
+For example, the wear modeller was used to         assess a variety of testing conditions to challenge the robustness of         the design variants and allow us to choose the most robust solution to         progress to full mechanical testing.
+To have performed the same work         mechanically would have added years to the development program."
+[5.3]     There have been pre-launch implantations of the new device which was       launched to a wider audience of users in Q2 of 2013.
+DePuy states: "The         new knee will be DePuy's flagship brand for the future and as such is a         critical component of our business.
+More than half of the DePuy Joint         Reconstruction sales are from total knees and so clearly it is an         important part of our business since the new knee will represent more         than 80% of that within 5 years' time".
+[5.3]     The new knee implant is central to DePuy's business in the UK and abroad.
+DePuy states: "The techniques developed at Southampton for analysis         were central in the design evaluation process allowing us to distinguish         between designs and be selective about features to ensure a good robust         design solution.
+The product will ultimately become a major part of our         sales generating multiple millions of dollars of revenue and returning         even greater value to the patients who receive the product since they         will have the confidence in the design and its robustness to withstand         the rigors of use.
+The company has invested 10's of millions of dollars         in developing the new product and will invest 10 times that again in         deploying the product over the next several years and then we will         invest millions again in further developing and completing the product         line so that our customers will have a full line solution to all the         challenges they face in surgery for total knees.
+The product we hope         will return us to the lead position in the marketplace ahead of our main         competitors."
+[5.3]

@@ -1,0 +1,45 @@
+     The distance sampling methods developed at the University of St Andrews       are widely used for       managing the catch or cull of natural resources (e.g.
+fisheries, deer),       for monitoring the status of       populations of conservation concern (e.g.
+elephants, apes, whales, polar       bears), and for routine,       often statutory, monitoring (e.g.
+UK Breeding Bird Survey, which feeds       into the Wild Bird Indicator,       one of 15 headline Quality of Life Indicators adopted by Defra).
+Organisations that have       sponsored the development of our software Distance include the US       Navy (US$455K during 2008-13),       and, prior to 2008, the US Office of Naval Research, US National Park       Service, Fisheries and       Oceans Canada, and the Wildlife Conservation Society.
+Distance is       the global industry standard       with over 30,000 registered users from around 115 countries.
+[S6]     The Distance team at St Andrews has disseminated its work through a       multi-pronged strategy:       1.
+Publish methodological developments in top journals.
+2.
+Publish       introductory and advanced       texts.
+3.
+Provide user-friendly software Distance.
+4.
+Provide       training workshops (42 workshops       during 1999-2012, attended by 833 participants &#8212; mostly non-academic &#8212;       from 73 countries).
+5.
+Publish papers in ecology and taxon-specific journals, targeting wildlife       managers, that promote       best practice, e.g.
+for dung and nest surveys (primarily used to assess       deer and ape populations       respectively, two papers in J App Ecol), primate surveys (two papers in       Int J Primatology), bird       surveys (two papers in The Auk and one in Bird Conservation       International), whale surveys in       geographically-complex regions (J Cetacean Res &amp; Mgt), aerial surveys       of seabirds (J App Ecol),       and acoustic surveys (Biological Reviews).
+As a result of this extensive dissemination, our Distance       software and distance sampling methods       are used for a wide range of surveys.
+In an editorial in J Appl Ecol[S7],       the large number of citations       to the paper describing Distance software (Thomas et al., 2010) is       noted, and the editors state:       "This academic impact is likely to translate into improved assessment of       population densities by       scientists worldwide and thence to better management decision-making."
+Here, we list just a few       surveys that use our methods and software.
+For cetaceans, these include       ongoing cetacean       surveys conducted by NOAA in North America (e.g.
+[S8]) and under       the auspices of the International       Whaling Commission.
+Examples of surveys of endangered populations, for       which abundance       estimates are needed both to assess the risk of extinction and to monitor       the success or otherwise       of management action, and for which we developed tailor-made methods,       include cotton-top       tamarins (first large-scale surveys, results published in Nature         Communications in 2010); passive       acoustic surveys of North Pacific right whales (published in Endangered         Species Research in       2011); and Key Largo woodrat surveys (published in Methods in Ecology         and Evolution in 2012).
+Large-scale terrestrial surveys include the Pan Africa Great Ape Program       (launched in 2010) and       the ongoing Monitoring the Illegal Killing of Elephants Project.
+In the       UK, the ongoing national       Breeding Bird Survey (http://www.bto.org/volunteer-surveys/bbs)       is analysed using our methods[S9].
+Acoustic distance sampling methods are beginning to see wide use &#8212; e.g.
+the US$1.5m DECAF       project (completed 2011) was jointly funded by the US government       environmental regulation       agency NOAA and by the International Association of Oil and Gas       Industries, as the methods are       needed for monitoring seismic exploration and oil production fields.
+Our       methods also form the       basis of the &#8364;4.2 million EU-Life funded SAMBAH project (started 2010),       which aims to use a grid       of 300 static acoustic monitoring devices to estimate, for the first time,       density and distribution of       the endangered Baltic harbour porpoise population.
+The US Office of Naval Research has sponsored the Distance       software, and continues to fund the       development of acoustic survey methods.
+The Head, Marine Science Branch,       Energy and       Environmental Readiness Division, US Navy[S1] comments: "The       CREEM group's work on survey       design and analysis has found widespread application in addressing       important research and       environmental stewardship issues by several US federal Government       agencies, including the Navy... a sign of the strength and merit of Distance       is the adaptability of distance methods to the       assessment of environmental risk from a wide range of human activities,       including naval training       and exercise.
+...
+The CREEM group's clever and innovative adaptations of       distance methods to       passive acoustic sensing has opened an entirely new and highly exciting       field of research and       environmental monitoring that will pay huge dividends for decades to come.
+...
+Thank you for this       opportunity to document the tremendous impacts that distance methods and       the combined       expertise of the CREEM group have had on the way the US Navy, and many       others, now address       their environmental stewardship responsibilities ..."     The Chief Science Advisor and Director of Scientific Programs at the US       National Marine Fisheries       Service (NOAA)[S2] confirms the importance of our work in       enabling them to complete mandatory       assessments: "Under the US Marine Mammal Protection Act, NOAA Fisheries is       mandated to       maintain marine mammal populations ... You ... have had a profound impact       on our ability to fulfil       our mandates through your research, software development and support, and       training.
+The       software Distance is used throughout our organization ...
+Your       research on acoustic applications of       distance sampling and double-observer surveys has been particularly       important ..."     The Head of Science, International Whaling Commission[S3],       confirms the impact of our work on the       conservation and management of cetacean populations: "Key developments by       CREEM       scientists, together with incorporation of these developments into later       versions of your software,       have ensured that abundance estimation for most stocks is now relatively       uncontroversial.
+... the       work of CREEM on matters related to cetacean abundance estimation using       distance sampling       techniques has been of immeasurable value to our work and cetacean       conservation.
+The       theoretical and practical developments that have arisen from CREEM       scientists represent a       remarkable degree of innovation from a single group.
+In my opinion this is       unrivalled by any other       group working in the field.
+The impact on the conservation and management       has been profound       and I look forward to continued collaboration between us in the future."
+The Director, Conservation Support at the Wildlife Conservation Society[S4],       notes that they use our       methods and software to assess diverse populations, including elephants,       great apes and other       species at risk of poaching in Central Africa, primates, ungulates and       cranes in Asia, and       cetaceans in Africa and Asia.
+He concludes: "We pride ourselves in using       rigorous science to       inform our conservation work.
+The continuously improving wildlife       estimation techniques and       associated software that results from the research done by you and your       colleagues at St Andrews       helps us to do this well."
+The Scientific Secretary, North Atlantic Marine Mammal Commission[S5],       comments: "... work       carried out at CREEM has had a significant impact on the efficiency of       stock management within       the NAMMCO countries.
+Reliable and improved methods for providing       estimates of abundance ...       form the essential tool using which NAMMCO scientists provide management       advice on the stocks       under NAMMCO jurisdiction."

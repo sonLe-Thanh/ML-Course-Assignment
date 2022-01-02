@@ -1,0 +1,89 @@
+     1.
+Context     The spin out of Articulate Instruments Ltd. from QMU in September 2003       was an impact-oriented strategic move to facilitate the eventual uptake of       EPG in healthcare.
+The insight was that independence from QMU as an HEI       was necessary to obtain and retain "CE marking" of products (especially       EPG).
+Without CE marking, EPG cannot be sold, used or supported as a       clinical device in the European Union, i.e.
+for non-research, clinical       diagnosis and therapy in the NHS.
+Long term, impact requires that EPG is       not just be a research tool but a certified medical device.
+CE marking was       obtained in 2004.
+Prior to this process, sales of EPG were only for       research purposes (albeit including clinical research), not clinical       treatment, which had precluded many routes to impact.
+The main evidence       for impact, along with levels of uptake of products in the census period       clinically and internationally, is the ongoing financial health of the       spin-out company.
+2.
+Baseline figures     EPG is a well-known technology in academic phonetics.
+It has existed in a       number of formats for several decades.
+Older sales figures of our unique       systems will give some baseline context to current impact.
+The older       system EPG2 (1983-1992) gave rise to the sale of 72 systems (17 to       hospitals and clinics for clinical linguistic research).
+EPG3 (1993-1998)       had 52 sales (12 to hospitals etc.
+for clinical research).
+From 1998-2003,       just 23 EPG3 were sold.
+The Personal Training Unit (PTU) was a standalone       product aimed at therapy use, of which around 30 were sold in the UK and       Ireland from its launch in 1998 till 2003.
+These sales covered basic costs       and were handled from Reading University, then QMU.
+Articulate Instruments took over in 2003.
+From 2003-2008 there were 126       customers, 46 (37%) in the UK.
+Thirty of these were non-academic: 21 in       the UK, 9 in Europe and Canada.
+Turnover was approximately &#163;130k per year.
+Initially, most customers were buying EPG systems but from 2008 onwards       UTI (Ultrasound Tongue Imaging) products have been added and sales have       increased.
+An increased level of sales was seen when Articulate       Instruments Ltd. was formed.
+This enhanced level of impact has been       sustained over the census period with further new products added.
+Some products, mainly the new EPG "Articulate" palate (see below), were       designed by WRENCH alone.
+EPG palates exist in tandem with EPG analysis       systems.
+We will note EPG palate sales separately below, which are largely       of value to other companies.
+The new palate sales are an impact of       underpinning QMU research into EPG systems and of WRENCH's palate       research.
+Number and Distribution of Sales, Turnover, and Profitability         2008-2013     Figures are from audited accounts and internal financial returns of the       company.
+Average turnover was ~&#163;109k in the census period.
+The company is       profitable and sustainable and is supported through sales of goods and       services.
+There have been 98 new customers &#8212; mostly universities &#8212; across       21 countries in addition to the UK (Fig 1) since January 1, 2008.
+There       have been 27 non-academic customers &#8212; mostly hospitals &#8212; either from the       UK (14) or Europe (13).
+The products are not licensed for clinical use in       the USA at this time for reasons of cost of the licensing process.
+Year end (July 31st)           Turnover (&#163;)                             2008 (ie from 01.08.07)           125,856                             2009           126,729                             2010           55,863                             2011           77,885                             2012           105,491                             2013 (unaudited)           160,381                             total           652,205                          Table 1.
+Financial summary of turnover 	     Figure 1.
+Number (and %) of UK customers and overseas customers by         continent (n=98)          4.
+Effect on the UK economy via expenditure     The company's receipts have supported WRENCH since 2003 and through the       impact census period (i.e.
+he received no salary from QMU).
+The company       also supports SMEs through contracts to supply parts and services.
+This       flow-through to the wider economy differentially favours high-technology       SMEs, such as a local Musselburgh company ZOT, and freelance software       programmers.
+The customisable ultrasonic system underlying the high-speed       system is manufactured by Ultrasonix from Vancouver, Canada.
+Thus, the       main related businesses are:            ZOT for circuit boards, electronics and containment boxes for EPG.
+ZOT for shaped and prepared aluminium components for UTI headset.
+Local freelance software programmer.
+EPG palate manufacturers, supported directly by their own customers.
+5.
+EPG palates     These are a necessary part of EPG use &#8212; they are custom-built from a       personal palate mould and are unique for each speaker using EPG.
+In       addition to the traditional "Reading" palate, designed at Reading       University, there is a new "Articulate" design arising from research by       WRENCH.
+We could cite sales of all palates for use with EPG as part of the       financial impact, since the underpinning research was into a new       generation of EPG, and all EPG use requires palates of one type or the       other.
+From 2008-2013, most were manufactured in Frenchay Hospital,       Bristol, by Incidental, Reading, or by individual hospitals or dental       clinics, e.g.
+in Sweden or Japan.
+We estimate that over 80 of the Reading       palates were made during the census period annually, at ~&#163;400 each (~&#163;200k       total).
+Since the 2007 launch, 85 new Articulate palates have been made       (~&#163;34k).
+These figures are additional to the company turnover &#8212; customers       get palates made by a local dentist and purchase them direct from one of       the dental technician companies mentioned or use their own staff time to       manufacture them.
+Articulate Instruments Ltd. merely supplies printed       circuits for the Articulate palate (~&#163;8k income in total, included above).
+6.
+Synergistic research/impact activity, clinical activity     The company has contributed in financial terms (&#163;20k) and in staff-time       (approx.
+3 months) as formal contributions to the ULTRAX EPSRC-funded       project.
+The company has also contributed time and resources to       implementing alterations to its software to reflect the developing       research needs of its beta-testers in CASL Research Centre.
+The       commissioned work for the ESPF dual-EMA facility contributed an EMA       module to the AAA software and synchronisation components.
+Articulate       Instruments and CASL collaborate both for research purposes and to achieve       impact.
+The latter is facilitated by and embodied in activities such as       clinician workshops, beta-testing, consultancy, physical collocation,       seminars, technical support and applied research.
+We secured funding as part of ULTRAX and a QMU PhD bursary to do clinical       UTI research.
+Eight children were treated in the census period, providing       invaluable applied research experience, case data for clinician workshops,       and ideas for clinically-relevant improvements to AAA.
+Results were       positive: Parent A said of her son's treatment: "using the         visual seemed to help [him] position his tongue."
+Parent B said: "I         was initially sceptical &#8212; especially when I saw the helmet!
+His         confidence has increased and he is now able to communicate clearly,         without anxiety."
+7.
+Leadership and expansion of use of UTI     UTI was used by around a half-dozen laboratories across the world in       2001.
+QMU and Articulate Instruments have been involved in this community       since the 2nd by-invitation-only international Ultrafest at       UBC, Vancouver (2004).
+We know of no laboratories in the UK or Europe       using UTI before QMU.
+The combination of underpinning research, falling       costs and the promise of consistent reliable support from a specialist       software/hardware company has helped in the expansion of UTI.
+We believe       critical elements in this expansion are the leadership, commercial       independence, longevity, and specialist support offered by Articulate       Instruments Ltd.
+The company announced in 2012 that it would co-organise       Ultrafest VI in Edinburgh and attracted 88 non-QMU registrations.
+An       associated clinical workshop attracted 17 registrations.
+In the UK,       video-UTI equipment with AAA is now being used in universities in Glasgow,       Manchester and Newcastle.
+AAA software is available in Edinburgh, London,       Aberdeen and Strathclyde.
+High-speed Ultrasonix systems, with associated       AAA hardware and software, have been ordered or purchased by universities       in Germany, Brazil, England and Italy, with more hardware in the USA.
+Of       the 50 phonetic laboratories we know of worldwide in 2013 using UTI, 25       are using Articulate Instruments hardware and software.
+Even more       institutions - 39 - use the headset.
+Company A states that QMU's ultrasound research in collaboration with       Articulate Instruments Ltd "has been commercially useful for our           company ...
+The phonetic research done at QMU has solved         problems with acoustic synchronization and demonstrates the benefits of         high speed ultrasound for linguistic analysis.
+Our first sale           for phonetics research was to QMU, but we have now sold 7 systems       of that type of scanner to phonetics research labs in Europe, the UK,         and North America, who are following their lead.
+We look forward to continuing our partnership with QMU and expanding our         portfolio into this unique research area."
+(our emphasis, quoted       from a letter on file at QMU, cf.
+the private list of named       corroborators.)

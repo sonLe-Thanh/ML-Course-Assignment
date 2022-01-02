@@ -1,0 +1,26 @@
+     Mars missions cost in excess of $1bn and historically many have failed.
+An important variable in the success of entry, descent, landing and       operation is the climate on Mars and especially the behaviour of dust,       which varies widely.
+The Mars Climate Database (MCD) described in [5] was made available for       wider use in December 2006.
+The MCD is freely available on the internet       through an online version that is intended for light use only.
+Access to       the full database and dedicated software can be requested by advanced       users, and is also free of charge.
+Since 2008, the full database has been       provided to 112 users including space agencies NASA and ESA, and       contractors Astrium and Thales Alenia Space.
+The MCD has been used to produce simulations of spacecraft flight through       the Mars atmosphere as well as simulations for surface operations.
+The MCD       can produce profiles of atmospheric density versus height, which is key       for producing simulations of flight.
+It can also produce profiles of the       surface temperature and surface pressure over the course of a day and over       the seasonal cycle.
+Dust scenarios are included, providing the ability to       account for different dust concentrations and dust storms.
+Mars Science Laboratory and Curiosity Mars         Rover (launched 2011)     In 2011, NASA launched the Mars Science Laboratory (MSL) that       successfully landed the Curiosity Mars Rover on Mars in 2012.
+The       MSL project cost an estimated $2.5bn and collected information about the       habitability, climate and geology of Mars.
+The MCD contributed to the       success of the Curiosity Mars Rover by narrowing the options for       landing sites without the need for expensive and time-consuming customised       models.
+NASA Jet Propulsion Laboratory used MCD extensively in the early       design phase to produce simulations of the MSL's flight through the Mars       atmosphere.
+They also used the MCD to model the surface conditions, and       inform the landing site location for Curiosity.
+NASA say that "the MCD plays a unique role in providing an easily         accessible database, and very importantly one that is constructed and         validated by leading Mars atmospheric scientists.
+This combination         allows the engineering teams (with scientific guidance) to quickly         narrow the design space.
+It allows the science team to assess a number         of different landing site latitude[s] and elevations, with an idea of         the potential consequences to mission operations."
+At the final stages of design, NASA used customised modelling studies but       they say that "such studies are expensive and time consuming, and         would not be possible during the design phase when many options are         being explored."
+[A]     ExoMars (currently in development, due for launch 2015)     ExoMars is a Mars mission that will search for biosignatures of Martian       life, past and present.
+The project, expected to cost a total of $1.3bn,       is led by the European Space Agency (ESA), who have used the MCD directly       to analyse different atmospheric and dust scenarios to confirm mission       feasibility.
+ESA required Astrium, the lead contractor on ExoMars, to use the MCD.
+Astrium used it to develop their aerobraking, a spaceflight manoeuvre that       results in drag to slow a vehicle by flying it through the atmosphere to       save fuel.
+At ESA's direct request, Astrium have integrated the MCD with       an existing aerobraking simulator enabling them to produce realistic       values for density, dynamic pressure and heat flux.
+Astrium say that "this         allowed tuning [of] the design and demonstrating the viability of         onboard algorithms aimed at improving the autonomy level of         aerobraking."
+[B]     Thales Alenia Space is also a contractor for the ExoMars project and has       used the MCD extensively for precision landing studies.

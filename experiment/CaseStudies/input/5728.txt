@@ -1,0 +1,50 @@
+     The main impact-related insights from the research are as       follows.
+The estimated trends provide evidence for increased defoliation of the         main species, spruce,         between 2004 and 2009, compared to previous years since 1985 (Fig.
+),         with a similar trend for         beech, the second most common species [E].
+Results also suggest that there has been a switch in the primary         drivers of damage: initial         damage can be associated solely with pollution, while more recent damage         is also associated with         drought years due to climate change.
+In addition to pollution, climate         change has become the most         severe threat to forest health in Europe, as some of the main species no         longer thrive in the         changed climatic conditions.
+The spatial trends highlight areas where intervention to improve         forest health is required, such as         liming to control acidity or planting species which are better suited to         the new climate conditions.
+The research has led to improved forest health monitoring and           management, and we give four       examples below.
+(a) Spatio-temporal models developed in Bath are used for           monitoring and management.
+The       methodology has been adopted for the yearly official report on forest       health of the federal state BW,       the 'Waldzustandsbericht/Report on Forest condition in BW' [A-E], which       drives the policy of the       Ministry of Rural Affairs and Consumer Protection, BW, Germany.
+In the       foreword of the 2012       report, the BW Minister for Rural Affairs and Consumer Protection,       Alexander Bonde, refers to the       Bath-developed methodology and results [E, pp 3-4].
+"The Waldzustandsbericht makes it possible ... [for us] to make         management recommendations.
+...
+This is how trends can be recognised and strategies for sustainability         of our multi-functional forests         can be developed.
+... [It] is the basis for counteractive measures         including policy on air pollution         control, ground liming and the creation of robust mixed forest stands.
+... We use modern and         scientifically backed methods and instruments of forest ecosystem         monitoring to secure         sustainability of species diversity [and] wood production as well as the         protective and recreational         function of our forests, so that we can benefit from it in future."
+(translation by Augustin)     (b) Improved sampling scheme in terms of cost-efficiency and           precision.
+Funded by [2, 3],       Augustin carried out a simulation study to optimise the sampling scheme       based on the spatio-       temporal model developed in Bath [1, A, B].
+In particular, this work       results in a substantial cost       saving.
+"The spatio-temporal model developed by Dr Augustin in collaboration         with the FRI BW and others         (see [1]) was crucial in assessing the cost-efficiency of the sampling         scheme for monitoring tree         health in BW.
+After about 20 years of changing sampling grids between         resolutions 4x4km, 8x8km         and 16x16km depending on available survey funds, a sampling grid of         8x8km is now used in BW.
+This change in policy was a direct consequence of a simulation study         carried out by Dr Augustin         which in turn was based on [1].
+This study showed that the much cheaper         and EU-wide used         16x16km grid resolution was not adequate in terms of detecting changes         in defoliation at a relevant         magnitude.
+The results also showed that the 4x4km grid resolution was         unnecessarily low for         achieving the required precision, and hence wasteful in terms of         resources.
+This resulted in a           yearly cost-saving of 100,000 Euros.
+[Our emphasis.]
+The         simulation study also showed up         problem areas with very high prediction errors which could then be dealt         with by inserting additional         sampling locations."
+[G]     (c) Improvement of forest growth conditions by reversion and           mitigation of pollution effects           on the soil through a forest liming programme.
+Spatial trend       estimates of defoliation produced       in Bath [A, B] were used by forest health managers to establish the need       and planning of a forest       liming programme in BW [C, F p.23].
+"Moreover the reduction of sampling density in the crown condition         survey enabled direct linking of         the survey schemes on crown condition, forest nutrition and soil         condition.
+Thus synoptic         evaluation of data from these diverse monitoring schemes have been         enabled [H] which are a         sound basis for practical countermeasures of harmful effects of         environmental change, like e.g.
+increasing deficiency in forest nutrition caused by acid rain and         subsequent soil acidification.
+A         central strategy for mitigating the effects of acidification is soil         protective liming.
+Since 2006 Dr Augustin has produced spatio-temporal trend estimates of         defoliation based         on [1] for the yearly Report on Forest Condition / Waldzustandsbericht         published by the Forstliche         Versuchs- und Forschungsanstalt BW (FVA), Freiburg available at         http://www.fva-bw.de/ ).
+The         spatial trends she produced in 2008 and 2009 [A, B] established the need         for a forest liming         programme, and were used by the FVA in its plans for such a programme in         Baden-W&#252;rttemberg         [C, F].
+The aim of the forest liming programme is in the long term not only to         reverse the acidification         of the soil, but also to reduce the acid stored in the soil.
+The liming         programme entails on average         a yearly liming of 15,000 ha with a dosage of 3t/ha.
+This is altogether         45,000 t of lime which is         applied by turbine blowers from tractors or helicopters.
+In order to         reverse the effects of         acidification in the soil caused by pollution and improve growth         condition a long-term yearly liming         programme over the next 30 years is envisaged.
+Without           Augustin's work [1] it would have           been more difficult to convince the state government to fund the           programme, and we would           have much less confidence in a positive outcome."
+[G].
+[Our       emphasis.]
+(d) Adaptation to climate change.
+"The spatio-temporal         trends of tree health produced in Bath         highlighted particular areas where tree health is deteriorating due to a         combination of climate         change and soil condition.
+This contributed to a change in forest         management to plant better suited         trees and robust mixed stands.
+The spatio-temporal model of Augustin et         al.
+[1] on crown condition         allowed for proper identification of the spatial "hotspots" of crown         damages and revealed that they         changed from areas with soils, most susceptible to acidification (e.g.
+Black Forest) to lowland areas         which are most susceptible for drought.
+This new spatial pattern of         severe crown damages is         observed since the year 2000 and is a strong indication for new, climate         change-related drought         stress."
+[G]     The research contributes to the conservation of the natural forest       environment in BW.
+Forest       managers, policy makers and members of the public will therefore benefit       from securing the       economic production, recreational opportunities, ecological features and       ecosystem services of the       forest, including its biodiversity and its role as a sink for atmospheric       carbon dioxide.

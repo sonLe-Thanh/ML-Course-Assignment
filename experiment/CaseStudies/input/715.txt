@@ -1,0 +1,30 @@
+     Spectral 360&#174;, integrated into adaptive video analytics       tools (referred to herein as "AVA software"), has had the impacts listed       below.
+4.1 Impacts on public services       Improved delivery of a public service (increased speed and quality;         lower labour cost): AVA software significantly speeded up and       reduced the cost of investigations undertaken by law enforcement officers.
+In two examples, AVA software automated the extraction of video evidence       (much shorter than the original footage of the event under investigation);       retaining only evidence of criminal activity by removing all segments       which could not possibly contain any evidence.
+A case investigated by Staffordshire Police in 2012 illustrates the       labour savings which can be achieved with AVA software [3] (source listed       in Section 5).
+Without AVA software, investigators would have been       required to trawl manually through the 4,032 hours of video footage for       this case; an error-prone and costly labour-intensive task.
+AVA software       reduced the video to only about 30 hours to be manually reviewed by an       investigator.
+This selective reduction enabled the investigator to prepare       efficiently and accurately the evidence to go to court.
+The       greater-than-hundredfold reduction of video viewing translated into a       significant saving, estimated to be at least &#163;24,000.00 for this case       alone.
+The investigating officer concluded that "The benefits observed in       this case has [sic] given us the opportunity to consider a review       of our procedures and investigative options, in future cases involving       CCTV and video footage where changes in illumination and other conditions       are likely to be a factor.
+The use of the 360TM Video       Analytical [sic] methodology will be considered" [3] (source listed       in Section 5).
+In another example involving a smaller volume of video evidence,       Leicestershire Police halved the length of their investigation of a case       in 2013, through the use of AVA software.
+To quote the investigating       officer: "This software helps eliminate wasted time viewing unrelated       material, which can both speed up an investigation and save the force both       man hours and money.
+[...] This 17 hour saving on time could free up an       officer to conduct other enquiries for both this and other investigations,       presenting more of a community impact instead of sat looking at a screen       in the office" [3] (source listed in Section 5).
+4.2 Impacts on society       Public benefits arising from the reduction of a factor associated with         increased crime rates or legal costs: AVA software indirectly       reduces crime rates.
+The significant reduction of the length of police       investigations enables speedy prosecution, or simply a prosecution to       happen, which (depending on resources available) may not have happened if       staff were not available for the long periods of time required to analyse       the videos.
+That, in turn reduces the likelihood of suspects being       released on bail, while waiting for the Police to complete the lengthy       manual review of the full video footage.
+By reducing the likelihood of       suspects being released on bail and subsequently re-offending or       absconding while on bail, AVA software indirectly contributes to the       reduction crime rates and legal costs.
+It also releases police to       undertake other work (as stated by the investigating officer at       Leicestershire Police [3] (source listed in Section 5)).
+4.3 Impacts on practitioners       Improved productivity and effectiveness of investigators: The       automation provided by AVA software increases the productivity of       investigators and the accuracy of their work, and boosts the confidence of       investigators that no video evidence has been missed, as remarked by the       investigator from Leicestershire Police [3] (source listed in Section 5).
+4.4 Health impacts       Mitigation of potential physical or psychological harm: AVA       software shortens significantly the length of time that investigators view       video material.
+At best, such material is very tedious to watch; at worst,       it may contain long static but very unpleasant imagery which, itself, can       be harmful to the mental health of the investigator.
+The reduction of       video viewing time also lowers the usage time of Display Screen Equipment       which can cause injury or further tiredness for the user.
+Hence, by       shortening viewing time, AVA software mitigates potential physical or       psychological trauma.
+4.5 Impacts on business       Creation of a spin-out company: Adaptive Video Analytics       Technologies Ltd (Company number: 07451691; Registration date: 25 Nov       2010) was created during the assessment period, for the commercial       exploitation of Spectral 360&#174;.
+The start-up company is       currently conducting further development of its products, moving towards       full scale commercialisation.
+It recently secured &#163;79k from TSB and Dstl       (details are given in Section 3.2).
+It currently employs a Technical       Director, a Senior Researcher, a Researcher and a Software Developer.
+It       has business premises at the Staffordshire University Business Village, in       Stafford.
+Influence on management decisions about technology choices: AVA       software has influenced the strategic thinking of managers about the       adoption of new technology within Serco Group plc (custodial services -       HMP Dovegate), a leading private-sector provider of custodial services       around the world.
+Steered by research-informed consultancy delivered by       CIISS, Serco management installed closed-circuit television (CCTV)       equipment at HMP Dovegate as a first step (feasibility study) towards       adopting CCTV and AVA software across prisons administered by the Group.

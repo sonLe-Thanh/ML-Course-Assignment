@@ -1,0 +1,37 @@
+The__O work__O of__O the__O Applied__B-ORG Optics__I-ORG Group__I-ORG has__O had__O a__O direct__O impact__O on__O the__O health__O of__O some__O 5__O million__O people__O worldwide,__O thanks__O to__O accelerated__O diagnosis__O of__O eye__O diseases__O such__O as__O age__O related__O macula__O degeneration__O and__O diabetes.__O
+Research__O at__O Kent__B-ORG has__O led__O to__O commercial__O instruments__O that__O provide__O the__O only__O real__O time__O SLO__B-ORG image__O in__O pixel-to-pixel__O correspondence__O with__O the__O OCT__O image.__O
+Other__O OCT__O systems__O use__O an__O SLR__O camera__O (Topcon)__O or__O infer__O the__O SLO__B-ORG image__O using__O software__O from__O OCT__B-ORG images__O after__O the__O OCT__B-ORG acquisition__O (Zeiss).__B-ORG
+The__O provision__O of__O these__O directly__O related__O SLO/OCT__B-ORG images__O is__O crucial__O in__O guiding__O ophthalmologists__O in__O choosing__O the__O retina__O areas__O to__O be__O "sampled"__O by__O OCT.__O
+The__O technology__O developed__O by__O the__O AOG__B-ORG was__O translated__O to__O industry__O through__O four__O licence__O agreements.__O
+The__O first__O two__O below__O were__O to__O the__O benefit__O of__O patients__O with__O eye__O disease,__O with__O the__O second__O in__O current__O commercial__O exploitation__O and__O used__O by__O clinics__O worldwide.__O
+The__O latter__O two__O are__O at__O an__O earlier__O stage__O of__O development,__O but__O demonstrate__O that__O researchers__O at__O Kent__B-ORG are__O continuing__O to__O explore__O new__O ways__O of__O exploiting__O these__O technologies__O to__O create__O worldwide__O impact__O in__O ophthalmology/optometry.__O
+Patent__O US5975697__O by__O A.__B-PER Podoleanu__I-PER and__O D.A.__B-PER
+Jackson__B-PER (1998)__O has__O been__O assigned__O to__O OTI,__B-ORG followed__O by__O a__O family__O of__O patents__O (A.__B-LOC Podoleanu__I-LOC plus__O AOG__O members).__O
+This__O led__O to__O commercialisation__O of__O the__O OCT/SLO__B-ORG instrument__O by__O OTI__B-ORG worldwide,__O leading__O to__O revenue__O to__O the__O University__O and__O inventors__O exceeding__O $300K__O in__O the__O period.__O
+The__O patent__O on__O a__O sequential__O spectral__O OCT__O with__O SLO__B-ORG was__O the__O subject__O of__O an__O agreement__O with__O OPKO__B-ORG in__O 2011__O [6],__O with__O technology__O transferred__O to__O Optos.__B-LOC
+They__O continue__O to__O exploit__O the__O technology__O commercially__O and__O maintain__O the__O patent__O in__O good__O standing.__O
+The__O implications__O of__O these__O instruments__O on__O health__O care__O professionals__O and__O patients__O cannot__O be__O overstated__O [1].__O
+The__O technology__O delivers__O new__O insight__O into__O eye__O diseases__O by__O providing__O recognisable__O en-face__O patterns__O of__O specific__O diseases__O [2],__B-MISC for__O example__O diabetic__O retinopathy,__O age-__O related__O macular__O degeneration,__O glaucoma,__O stroke__O and__O heart__O disease__O [3].__B-ORG
+Instruments__O based__O on__O the__O technology__O covered__O by__O these__O patents__O are__O in__O use__O in__O eye__O clinics__O worldwide.__O
+OCT__O SLO__O is__O a__O central__O product__O for__O Optos__O plc,__O whose__O shares__O have__O grown__O by__O a__O factor__O 3__O since__O 2008__O and__O currently__O operates__O at__O around__O &#163;125__O million__O annual__O revenue__O and__O 16m__O profit.__O
+A__O rise__O in__O revenue__O of__O 37%__O in__O the__O past__O two__O years__O bringing__O valuable__O employment__O to__O Scotland.__B-LOC
+The__O company__O has__O over__O 5,000__O clinical__O users__O worldwide__O [5],__B-ORG although__O it__O does__O not__O make__O public__O details__O on__O the__O price__O and__O exact__O numbers__O of__O OCT__B-ORG instruments__O described__O above__O these__O can__O be__O checked__O [4]__B-ORG and__O cross-referenced__O with__O income__O from__O the__O patent__O agreements__O to__O the__O university.__O
+This__O shoes__O that__O a__O large__O percentage__O of__O these__O clinics__O have__O instruments__O produced__O directly__O as__O a__O result__O of__O the__O research__O done__O by__O the__O Kent__B-ORG academics__O and__O covered__O by__O Kent__B-ORG patents__O and__O that__O on__O average__O they__O have__O been__O installed__O for__O five__O years.__O
+Each__O instrument__O typically__O treats__O around__O 1,000__O patients__O per__O year.__O
+It__O is__O estimated__O that__O around__O 5__O million__O patient__O diagnoses__O was__O aided__O by__O the__O application__O of__O our__O research__O [4].__O
+The__O other__O two__O licence__O agreements__O are__O at__O an__O earlier__O stage__O of__O development.__O
+They__O demonstrate__O that__O researchers__O at__O Kent__B-ORG are__O continuing__O to__O explore__O ways__O of__O developing__O these__O technologies__O to__O create__O worldwide__O impact__O in__O ophthalmology/optometry.__O
+Adaptive__O Optics__O technology__O applied__O to__O the__O OCT/SLO__B-ORG has__O been__O developed,__O assisted__O by__O EPSRC__B-ORG funding__O with__O input__O from__O the__O National__B-ORG University__I-ORG of__I-ORG Ireland,__I-ORG Galway__I-ORG (Prof.__I-ORG C.__I-ORG Dainty).__I-ORG
+This__O has__O been__O licensed__O to__O OTI__O for__O ophthalmology/optometry.__O
+Optos__O plc__O maintains__O the__O patent__O and__O there__O is__O on-going__O discussion__O between__O the__O parties__O on__O development__O and__O commercialisation__O of__O the__O technology.__O
+A__O method__O of__O spectral__O OCT__O without__O disturbing__O mirror__O terms__O has__O been__O invented__O by__O A.__B-PER Podoleanu.__I-PER
+Spin-off__O company__O Optopod__B-ORG was__O created__O in__O 2005__O by__O Podoleanu,__B-ORG (Director).__I-ORG
+Optopod__O has__O obtained__O University__O approval__O to__O sub-license__O the__O technology__O for__O Ophthalmology/optometry__O to__O OTI__B-ORG in__O return__O for__O prosecution__O of__O the__O patent__O in__O three__O territories,__O USA,__B-ORG Europe__I-ORG and__O Japan.__B-LOC
+The__O patent__O was__O filed__O in__O 2004__O and__O only__O awarded__O in__O 2011.__O
+This__O technology__O has__O not__O yet__O been__O exploited__O commercially__O by__O OPKO/Optos.__B-ORG
+Twenty-two__O PhD__O students__O have__O been__O trained__O within__O the__O OCT__B-ORG research__O programme.__O
+All__O 22__O have__O found__O employment__O commensurate__O with__O their__O qualification__O level.__O
+e.g.__O
+M.__B-PER Hathaway__I-PER and__O J.__B-PER Rogers,__I-PER as__O Directors__O of__O OCT__B-ORG research__O at__O OPKO__B-ORG (now__I-ORG Optos__I-ORG plc).__O
+G.__B-PER Dobre__I-PER was__O a__O PDRA__B-MISC supported__O by__O EPSRC__B-ORG and__O NYEEI__B-ORG grants,__O becoming__O a__O lecturer__O in__O the__O AOG__B-ORG in__O 2003.__O
+D.__B-PER Woods__I-PER is__O now__O employed__O by__O Michelson__B-MISC Diagnostics__I-MISC Ltd,__I-MISC which__O commercialises__O OCT__O instrumentation__O for__O skin__O imaging.__O

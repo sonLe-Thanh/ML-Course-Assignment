@@ -1,0 +1,35 @@
+     The primary impact of this research is official (government and operator)       guidance and policies on transport forecasting and appraisal, both in the       UK and internationally.
+Consequently, through adoption of these processes,       the ITS Leeds research has contributed to the underlying evidence base and       analysis framework for many high profile practical applications since       2008.
+The table below is a list of official guidance documents which       contain specific contributions made by ITS Leeds based on the underpinning       research described in Section 2 above.
+User/Beneficiary             Reach             Guidance Manual                              The World Bank           Global           Economic Evaluation of Transport Projects Toolkit [A]                             European Commission           EU           Guide to Cost-Benefit Analysis of Investment Projects [B]                             Association of Train Operating Companies           UK           Passenger Demand Forecasting Handbook (PDFH) [C]                             Department for Transport           UK           WebTAG [D]                          WebTAG     WebTAG is the Manual which the appraisal of all UK publicly funded       transport projects is required to follow.
+Explicit references to the       research cited here are found in Units 3.3.2 and 3.5.6 of WebTAG, and have       been retained in all updates of these units since 2008 [D].
+Unit 3.3.2,       regarding appraisal of noise, refers to work by Nellthorp et al.
+[7] as       the basis for calculating official values of traffic noise.
+Mackie et       al.
+'s report [3] led directly to the re-setting of official UK appraisal       values for changes in travel time which are still used today; Unit 3.5.6       on the value of travel time refers directly to [3] stating: "Values         for non-working time are....based on research conducted by ITS for DfT         reported in 2003".
+Since compliance with WebTAG is mandatory for       major scheme appraisals, the ITS Leeds work has influenced the appraisal       of all major road and transport schemes submitted for funding approval       to/by DfT since 2008; this impact is corroborated by the DfT [E].
+When the       DfT undertook the `New Approach to Appraisal (NATA) Refresh' review in       2009, Mackie chaired the Peer Review panel of academics and practitioners.
+PDFH and rail industry regulation     The PDFH [C] contains the officially recommended demand forecasting       procedures of the rail industry in Great Britain.
+Research which leads to       changes to its recommended parameters therefore impacts on real world       decision making.
+ITS Leeds work on understanding the causes of trends in       rail travel [5] has underpinned the recommended elasticities to GDP in the       2002, 2005, 2009 and 2013 versions of PDFH.
+The latest update of PDFH in       2013 also uses generalised journey time (GJT) elasticities from [2].
+These       GJT elasticities entail a significant departure from previous values,       impacting upon demand forecasts of changes to not only journey time,       service frequency and through-train provision, but also to other       elasticities derived from the GJT elasticities, such as crowding,       reliability, accessibility to stations and rolling stock.
+In addition, a       recent ITS Leeds review informed by [6] has led to major changes in the       parameters used to forecast changes in reliability; these updated       parameters have been implemented within the Office of Rail Regulation's       2013 update to Schedule 8, affecting millions of pounds of compensation       payments concerning train punctuality.
+Finally, ITS Leeds created the       DfT's Strategic Fares Model, and updated it in 2010 and 2013; this is used       to inform how rail fares in Britain are regulated and was subsequently a       feature of PDFH [iv].
+ATOC's letter of corroboration [F] states that: "ITS         has played a leading role in developing the body of evidence and the         framework contained within the PDFH, which is a key component of the         commercial and regulatory framework of the rail sector".
+An Illustrative Example - High Speed 2 (HS2)     The valuation and forecasting strands described above come together in       the economic appraisal of the HS2 rail project.
+The demand forecasting and       economic appraisal of this project has been consciously set up to be       compliant with PDFH and WebTAG.
+So, for example, the demand growth over       time is influenced by Wardman's work on GDP elasticities [5], the       modelling of reliability benefits and crowding relief on the West Coast       Main Line by Batley et al.
+[6], the valuation of non-work travel time       savings by Mackie et al.
+[3], and the valuation of noise by Nellthorp et       al.
+[7].
+These pieces of work undertaken at ITS Leeds all influence the       assessment of value for money of HS2 [G], and research on the value of       travel time is a particular focus of the strategic case for HS2 [H].
+World Bank toolkit     The ITS Leeds work for UK government and industry has provided the       foundation for more internationally-focused work which has extended the       reach of the research impacts.
+In 2003, ITS was commissioned by the World       Bank to develop a transport appraisal toolkit, which draws heavily on ITS       research outputs.
+This toolkit has been available to consultants around       the world from 2003 to date [A].
+The responsible officer in the World Bank       states that the toolkit "...has been instrumental in improving the         quality of economic evaluation in the transport sector in the World         Bank.
+Over the period 2008-12 there were 261 investment projects         financed by the World Bank either in the transport sector or with a         substantial transport component.
+These Guidelines made a substantive         contribution to improving the quality of the economic evaluation of         these projects' [I].
+European Cost-Benefit Analysis     In 2008, the European Commission adopted its Guide to Cost-Benefit       Analysis of Investment Projects [B], incorporating the methods and values       developed by the HEATCO project.
+The ITS Leeds research has therefore       served as a reference point for value of time calculations in appraisals       of trans-European network projects.
+The same values are also recommended       for calculating congestion costs in the `Handbook on estimation of       external costs in the transport sector' [J], co- financed by the European       Commission.

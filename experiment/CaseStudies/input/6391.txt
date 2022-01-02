@@ -1,0 +1,46 @@
+     Before SPM there was no principled framework or easily usable software       that could be used to analyse and report functional brain images in the       scientific literature or elsewhere.
+By creating that ability in a       principled and extensible theoretical framework, the underpinning research       led to the establishment and dramatic growth of an entirely new scientific       field, imaging neuroscience.
+Establishing a new scientific field       has created a wide range of beneficiaries, including commercial       manufacturers (such as Siemens, Phillips and GE Healthcare) who provide       the brain scanners to such a new field.
+SPM is used by academic neuroscientists, healthcare professionals and       neuroimaging consultants to analyse brain-imaging data.
+The basic       operations, of describing the imaging experiment in the form of a GLM and       interrogating the statistical results, are usually implemented via a       simple Graphical User Interface.
+Maps showing regions of significant       change can then be surfed in an interactive viewer.
+The SPM software is released under a General Public Licence (GPL),       meaning that users are free to run the software, as well as to share       (copy, distribute), study and modify it.
+This greatly simplifies code       transparency and provides a software platform for the brain imaging       community to develop new technologies.
+A broad community of academic       neuroscientists and healthcare professionals has adopted SPM which is       disseminated using a proven delivery pipeline comprising (I) release of       open source software (II) delivery of specialised short courses (III)       collaborative research (IV) email support [a].
+SPM is currently       the most widely used software package globally for brain imaging analysis       and now has 4,500 subscribers on its mailing list.
+A recent systematic       study of methods used to analyse brain imaging data showed SPM to be the       most popular software worldwide, used in 64% of studies (compared to 13.9%       for each of its two nearest rivals) [b].
+Clinical Applications     SPM has been used by the neuroimaging company Imagilys to develop       a commercial product, BrainMagix, for use in brain surgery [c].
+People with brain tumours, for example, may require surgery to remove       malignant tissue.
+The goal of surgery is to remove cancerous tissue       without damaging important parts of the brain.
+If structural imaging shows       damage close to language areas, for example, then patients will have fMRI       scans prior to surgery to map more precisely which regions that person       uses when speaking or understanding language.
+Surgeons will make reference       to the resulting SPM images before surgery to ensure these critical       regions will not be excised.
+Such presurgical planning has been used to       deliver impact in many neurological disorders including drug-resistant       epilepsy (as illustrated in case study UCL04-DUN).
+New approaches to drug development in the pharmaceutical industry     All pharmaceutical companies use medical imaging in the drug development       process and recent years have seen attempts to develop drugs for many of       the major health issues today, from depression and dementia to epilepsy       and schizophrenia.
+Brain imaging is used here as a `biomarker' &#8212; if drugs       are effective they will change activity in specific brain regions.
+The SPM       software is used to assess whether this change is statistically       significant.
+A factor in the transfer of SPM technology to industry has been the role       of two SPM co-authors, Dr Tom Nichols and Dr Andrew Holmes, who have had       extended periods working in the pharmaceutical industry (at GSK       and AstraZeneca respectively).
+Along with the fact that SPM is       distributed under GPL, this has resulted in SPM being widely used in       global drug research.
+Dr Nichols became the Director of Imaging Research       at GSK's Clinical Imaging Centre that used SPM approaches to measure brain       activity and structural changes associated with disease and the neural       effects of pharmacological agents in drug development [d].
+Imanova       Ltd was established as a spin-out imaging provider company in 2011 and now       owns and manages the renowned Clinical Imaging Centre; this state of the       art facility was developed by GSK, and has benefitted from &#163;47m of       investment in equipment and infrastructure since opening in 2007.
+SPM       approaches are used routinely throughout Imanova [d].
+SPM's use has now spread to many other companies involved in the drug       development process.
+These include other major pharmaceutical companies,       such as Eli Lilly and consultancies such as Mango Solutions         [e].
+New software products     SPM has contributed to the development and use of commercial software       packages.
+SPM is built on the commercial programming language `MATLAB'       developed by MathWorks.
+SPM is one of MATLAB's core applications [f].
+Each of the thousands of SPM users requires a MATLAB licence to run SPM       with significant commercial benefit to MathWorks.
+Several companies have       developed commercial software products based, in part, on the ideas and       framework underlying SPM.
+This includes software installed on all the       major MRI scanners now sold globally, for instance the inline BOLD imaging       software of the Siemens MAGNETOM Tim Trio (a commonly sold MRI       scanner) that provides basic real-time analysis of fMRI data [g].
+Brain Innovation BV has developed BrainVoyager QX based on SPM for       fMRI, MEG and EEG data analysis [h].
+It is now being used by       approximately 2,000 scientists and clinicians and a single licence is       currently available for about &#8364;5,000.
+These developments would not have       been possible without the SPM framework.
+Creation of new sectors and companies     The emerging field of neuromarketing, an approach in which Professor Read       Montague (jointly appointed between Virginia Tech and UCL) was a pioneer,       proposes that the decisions people make are influenced by subconscious       brain activity, for example in brain regions dealing with emotional       responses, and this activity can be accessed using fMRI.
+SPM is used as       the basis of such an industry to detect, for example, which sets of       advertising stimuli produce significantly larger responses in these brain       regions.
+This approach has been developed commercially by Neurosense         [i].
+Statistical parametric mapping approaches have also enabled the       creation of commercial companies that seek to detect deception such as No       Lie MRI (http://www.noliemri.com),       and those that support investigators such as Neurometrika [j].
+SPM       has also been used to help provide part of the new evidence base to       evaluate illegal drugs (as illustrated in case study UCL04-CUR).
+Training of non-academic professionals     UCL researchers have facilitated the development of a range of short       courses held over three days that explain SPM's main theoretical concepts,       and provide hands-on tuition in small groups to academic and non-academic       end users, which is now delivered across the world.
+Most of these courses       are run by universities, but some also by commercial enterprises such as       Neurometrika, who run several SPM courses primarily in the US but also       Brazil, Canada and China, for training academic neuroscientists and       healthcare professionals [j].
+UCL run courses every year (two in       2008, and three per year since then), organised by academics from the       WTCN.
+There is one course per year in Zurich, Lausanne, Hamburg, Utrecht       and Edinburgh organised by local academics but including UCL faculty.
+These courses have ~40 students each and fees vary from &#163;100 to &#163;1,000 [k].

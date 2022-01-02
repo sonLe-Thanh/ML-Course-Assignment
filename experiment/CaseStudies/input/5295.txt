@@ -1,0 +1,31 @@
+     Surface Measurement Systems Limited (SMS) was formed by Drs.
+Briscoe and       Williams from the Department of Chemical Engineering and in 1994, working       in collaboration with Pfizer Research UK, invented a novel gravimetric       instrument for water sorption analysis of powders called Dynamic Vapour       Sorption (DVS).
+The DVS instrumentation approach is closely linked to the       IGC research work pioneered by Dr Williams at Imperial College funded by       an industrial research contract with Du Pont Fibres.
+Dr Williams remains       the Managing Director of SMS and in 1997-1999 spent 0.5 FTE working with       SMS (the balance of FTE in post at Imperial College), promoting the DVS       product and working on its commercialisation.
+This new DVS approach allowed water sorption isotherms to be obtained 20       times faster, using 20 times less sample and 20 times more accurately [7]       than traditional measurement approaches, thus transforming laboratory       practice in this domain.
+This advance allowed stability testing,       formulation development and polymorph screening studies to not only be       significantly accelerated, but to be performed with a much higher degree       of scientific certainty.
+The DVS method has now become a standard method       used by all major pharmaceutical companies throughout the world, and has       been formally adopted within the German DIN 66138 "Isotherm Measurement       for Solids using Vapour Sorption" standard [8].
+Advances in IGC research at Imperial College resulted in further       developments at SMS.
+In 2000 SMS successfully released the world's first       commercial IGC instrument.
+In 2011 a second generation instrument, called       the Surface Energy Analyser (SEA) which incorporated many of the more       recent scientific discoveries published by researchers at Imperial College       [5,6], was launched.
+Over 50 of the new SEA systems have been sold in the       first 24 months of sales.
+Based upon Imperial College's research on the adsorption characterisation       of solid state materials, instruments subsequently developed by SMS can       now be found in over 500 research laboratories in over 25 different       countries.
+All 20 of the world's largest pharmaceutical companies use SMS       instruments as do over 100 universities globally.
+SMS instruments have       accelerated the testing, formulation and development of new solid state       pharmaceutical products for nearly 20 years.
+Research described in       [1],[4],[5] and [6] highlights some of the critical pharmaceutical       research problems which have led the industrial demand for SMS products.
+These scientific applications are a key contribution to the commercial       success of SMS, with SMS selling 60% of their instruments into the       pharmaceutical industry.
+SMS has contributed to the innovation capital of the UK, as the global       technological market leader in sorption characterisation instruments.
+It       has a significant patent portfolio [9, 10,11] as well as a significant       proprietary base in key instrumentation technologies.
+SMS is an ISO       9001:2008 registered firm, and currently employs 50 staff globally, with       offices in London, France, Germany and the USA.
+Manufacturing operations       are based in the UK and the USA, with R&amp;D activity based in West       London.
+The company currently has 10 PhD qualified staff on the payroll,       including a number of Imperial College graduates.
+It currently invests       &gt;15% of turnover in research and development and has an audited       turnover of ~&#163;5M.
+90% of sales are exported from the UK.
+During the REF       period of Jan. 1st 2008 to 31st July 2013, SMS has contributed &gt; 270       man years of employment, generated &#163;27M of turnover, &#163;24M of export income       and sold &gt; 400 scientific instruments.
+It is within the pharmaceutical sector that the instruments from SMS have       had the greatest scientific and commercial impact.
+For the past 15 years       many of the research and regulatory submissions globally on new drugs       relating to moisture uptake and moisture stability will include data       generated or elucidated using SMS instruments [12].
+The impact of these       instruments on the accelerating the development time for bringing new       drugs entering market or in mitigating the risks of bring unstable       products or formulations to market is best reflected by the fact that that       every solid state and pre-formulation group in every major pharmaceutical       company in the world will have DVS type instruments in daily operation;       over 60% of these instruments are manufactured by SMS [7].
+Senior Fellow at Novartis states [12]:     "DVS has been established over the past 15 years at Novartis         development in Basel as a standard technique to measure water sorption         in order to support physical stability studies and increase the         understanding of phase transitions such as glass transition/ re         crystallization and polymorphic changes, especially with the advent of         the high throughput version."
+To estimate the economic impact of SMS instruments, one can use a       commercial day price for 1 day of DVS or IGC contract test work of &#163;500       (as charged by many universities as well as SMS to industry).
+Combined       with the practical knowledge that DVS or IGC instruments are run 365/7/24       globally, and assuming a conservative 50% effectiveness, we can estimate       that the current installed base of 700 SMS instruments generates an       economic impact of over &#163;60M annually.
+During the REF period this       translates globally to over &#163;300M of economic value being generated by SMS       products.

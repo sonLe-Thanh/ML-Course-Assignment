@@ -1,0 +1,26 @@
+     The impact of the research so far has been twofold: informing European       policy and guidelines in       terms of European offshore electricity grid transmission networks, and       leading to practitioners in       industry changing their development strategies as a direct result of new       research.
+The research findings of the Aberdeen group on offshore grid development       using DC/DC       transformers have been directly cited in the European Coordinator's 3rd       Annual Report submitted to       the EU parliament, "Projects of European Interest: Connection to         offshore wind power in Northern         Europe (North Sea &#8212; Baltic Sea)" (2010) authored by the EU       Co-ordinator George Adamowitsch.
+Since 2010 Professor Jovcic sits on the EU Working Group for       Onshore/Offshore Grid       Development, part of the Energy Infrastructure Package &#8212; North Seas       Countries' Offshore Grid       Initiative.
+This group is developing plans for HVDC inter-connection       systems for the European       supergrid.
+Specifically, the group was appointed by the EU parliament to       deal with the regulatory,       economic and planning law challenges involved in linking the offshore wind       capacities with the       European high-voltage network.
+The DC transmission network requires a       significant investment in       the order of &#163;50-100bn, with construction commencing around 2020.
+The       Aberdeen DC grid       prototype has provided early stage demonstration of technical feasibility       and cost-effectiveness of       the underlying technologies for DC grid to the Adamowitsch group.
+Source       to corroborate 1).
+The professional association the International Council on Large Electric       Systems (CIGRE by its       acronym in French) established a Working Group B4.52 in 2009 looking at an       "HVDC grid       feasibility study".
+Professor Jovcic is one of the two invited members       from UK.
+The group       completed its work in 2012, and has prepared a technical brochure (no 533,       published in April       2013).
+The Aberdeen DC grid work contributes significantly to the       brochure, with Professor Jovcic       being the author of a main chapter and several appendices.
+As a result of       the findings of this       working group, 5 new working groups on DC grids were established by CIGRE       in 2011.
+Professor       Jovcic is one of two UK members in new WG B4.58 "Devices for power flow       control and       methodologies for direct voltage control in a meshed HVDC Grid", where he       leads the topic on       DC/DC converters.
+CIGRE brochures have traditionally been very influential       in industry and       frequently provide background for many standards.
+Source to corroborate       2).
+As an example of direct industrial impact, Aberdeen's research findings       have been analysed by the       French power company RTE since late 2011.
+RTE are interested in DC grids       as the means to       connect numerous offshore wind farms in the Mediterranean and the North       Sea with the French       electricity transmission system.
+DC grid concepts developed in Aberdeen       have directly influenced       the RTE DC grid strategy, and as a result the company have adapted their       approach to the       planning of a major offshore wind farm development.
+While the original       approach was based on       using DC Circuit breakers for DC grids, the development strategy has       expanded towards       developing DC grids based solely on DC/DC converters.
+The company have       therefore decided in       2012 to invest in an 18 month project at Aberdeen to study the suitability       of Aberdeen DC/DC       converters for the French DC grid topologies.
+The initial findings have       demonstrated technical       feasibility, and the cost comparisons are also encouraging.
+As a result       the company is re-considering       its DC grid development strategy with a programme installation date of       2020.
+Source       to corroborate 3).
+The breadth of impact on the engineering community has been large since       highly influential       science journal Nature writes about Aberdeen DC grid research and       also other popular articles like       The Engineer have published similar articles.
+Sources to       corroborate 4) and 5).

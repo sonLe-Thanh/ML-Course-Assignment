@@ -1,0 +1,29 @@
+     29,000 people die prematurely each year in Britain from man-made air         pollution, mostly from vehicle exhausts, with London being one of the         worst cities in Europe#.
+QUB technology is now being         utilised to reduce this pollution.
+Wrightbus is the UK's largest bus manufacturer producing a range of         buses which it now exports globally.
+Wrightbus used the models and       capability arising from this QUB research to improve their range of hybrid       buses, resulting in contracts of more than &#163;230M for 600 buses and         growth in the company to a workforce of over 1400 high value         manufacturing jobs.
+Most notably the work helped Wrightbus secure       the contract to replace the iconic Routemaster for Transport for London.
+In tests at Millbrook Proving Ground, the engineering test vehicle emitted       only 640 grams per kilometre (g/km) of CO2 and 3.96 g/km of       Oxides of nitrogen (NOx) &#8212; less than half of the CO2       emitted by a current diesel bus (1295g/km) and under half of the NOx       emitted by a current diesel bus (9.3g/km).
+In testing, fuel economy         was also better than twice that of a standard diesel bus at 11.6mpg.
+The hybrid bus model is a simulation of the complete vehicle which allows       designers to assess the performance of the bus (power and fuel usage) over       the whole drive cycle in a city, with its numerous stops, starts,       accelerations and decelerations.
+It was developed with the express aim of       assisting in the design of hybrid drivelines for city buses, to specify       components and to optimise control strategies.
+The model has almost 50       person years of research embedded within based on extensive theoretical       work and experimental validation.
+The pivotal capability is that the model       works reliability over the whole drive cycle allowing designers to tune       engine and powertrain performance at all points.
+This was directly introduced to Wrightbus, Ballymena initially through         a Knowledge Transfer Partnership (KTP, commenced 2010) to implement       the model into their design process for new hybrid buses.
+It is now routinely         used by their engineers for specification of hybrid buses and has been         applied in a series of projects.
+It is accepted as an important       design tool and has been well validated for accurate prediction of fuel       economy and emissions of the Wrightbus product range.
+This key capability       allowed partner company Revolve Technologies Ltd., working with Wrightbus,       to develop an engine management system which controls performance and       doubles the efficiency of the vehicle.
+As well as the modelling and design of hybrid bus systems, this approach       is now being applied to evaluate the performance of new technologies and       for optimising non-hybrid powertrains.
+Wrightbus is continually searching       for lower fuel economy and better efficiency as their global market grows.
+They have now employed one of the QUB research team members who developed       the vehicle model as their technology specialist.
+The economic impact of this research has therefore been more widespread       throughout the global bus industry through the vehicle modelling work in collaboration         with Wrightbus Ltd, the leading manufacturer of city buses in the UK       and an exporter across the world from Singapore and Hong Kong to Las         Vegas.
+The research contribution has assisted Wrightbus in improving       their range of hybrid buses, in evaluating various technologies for fuel       economy improvement.
+The New Bus for London had star billing during the London Olympics         with the first 4 prototypes operating and on display throughout 2012.
+The Lord Mayor of London, Boris Johnson, has acclaimed "Christmas         has arrived early in the form of this revolutionary new bus...it is the       latest, greatest masterpiece of British engineering and design,         and I am certain it will become a much loved and iconic vehicle akin to         the legendary Routemaster from which it draws so much inspiration".
+Since 2012 buses have been gradually introduced to Central London routes       and being operated by Arriva.
+Moreover the bus is seen as a way to improve London's air quality.
+The       full fleet will reduce NOx emissions by 57% and an astounding       230,000 tonnes of CO2 every year.
+Air pollution costs the UK       &#163;15bn per year, mainly from the cost of treating respiratory diseases       (e.g.
+asthma) and heart attacks that air pollution causes#.
+The success is now attracting further investment from the partners in the       TSB supported project "The Total Thermal Management of a Hybrid         Diesel-Electric Bus" with Douglas and McCullough leading the QUB       team, and in 2012, a new development project was set up in collaboration       with Flybrid Automotive Ltd to apply the flywheel storage as used in       Formula 1 cars to city buses.
+#Guardian article "All Choked Up-Why is our         air so dirty" 20th March 2013

@@ -1,0 +1,32 @@
+     Maxsys Fuel Systems Ltd have exploited advanced mathematical techniques       developed at Aston for modelling the influence of turbulence on fluid flow       in their industrial heating systems.
+The impacts created are therefore       business benefits to Maxsys and Selas, particularly through sales of their       processing equipment, plus the consequential impacts of reduced fuel       consumption for major international companies using the equipment with the       associated benefits to the environment.
+Timeline and process       Maxsys developed a product where magnetic fields modify the flow field       upstream of a furnace burner to save fuel (5.1-5.3).
+Following initial       success with this technology, they wished to improve the efficiency of       their industrial burners for economic and environmental reasons.
+Maxsys       sought academic expertise to understand and improve the technology and to       help communicate its benefits to customers.
+In May 2007, Advantage West       Midlands introduced Maxsys MD / Commercial Director (5.1) to Dr Generalis       via Aston's Business Partnership Unit.
+Dr Generalis was able to describe       the flows in the device and explain the underlying physical phenomena.
+Advantage West Midlands EnviroINNOVATE funded Aston to perform a       feasibility study for Maxsys, paving the way for the EPSRC CASE       Studentship.
+The knowledge gained through the collaborations helped Maxsys       to expand their customer base such that orders grew to &#163;1M in 2011 (5.4).
+Nature and extent of the impact       The impact is from understanding how turbulent flow phenomena can improve       the operation and efficiency of commercial products &#8212; in this case       enabling Maxsys to understand how their pre-combustion treater reduced       fuel usage (5.2-5.3).
+The Aston in-house numerical toolbox (3.2) further       enabled the researchers to advise on optimising configurations of the       magnets acting on the fluid flowing through the treater upstream of the       burner (5.5).
+This is because the software toolbox used and developed by       Generalis and his team can determine the influence of different forces in       turbulent flow with far greater accuracy than commercial software       packages.
+The application of a magnetic field to the flow modifies the       velocity profile by making it more uniform across the pipe diameter and it       also increases the stability of the flow (5.5).
+By elucidating this       mechanism, the studies enabled Maxsys to fine tune the magnetic field to       give a cleaner, hotter burn yielding reductions of 5-8% in fuel       consumption and in carbon emissions (5.3, 5.6).
+Beneficiaries Concerning Environmental Impact       Significant fuel savings of both gas and oil concomitantly reduced carbon       emissions and gave quick returns on investments with payback in 24 months       (5.3, 5.6).
+Maxsys audits fuel usage before and after installation to       assess the environmental and economic impacts of their customers' fuel use       and carbon emissions (5.6).
+The audited fuel savings also contribute to       reductions in the Climate Change Levy and meeting emissions reduction       targets for the Emissions Trading Scheme and the National Allocation Plan       (5.6).
+Therefore, besides reporting precise financial benefits, users of       Maxsys burners are helping to meet national targets and to provide       environmental benefits to society.
+Economic Impact       On the back of nearly &#163;1M of orders in 2011, Maxsys was purchased by Selas       Heat Technology Company LLC in November 2011 for an initial investment of       &#163;500,000.
+This allowed Maxsys to fulfil orders placed and secure its       future with a truly global market reach.
+Selas Heat Technology Company now       markets Maxsys Fuel Systems in America, as one of their branded products       (5.4).
+Maxsys has offices in North America, Benelux, Germany and Japan       (5.7).
+The improved product has sold in many industrial sectors including       automotive, brewing, chemicals, dairy, food and drink, insulation,       minerals, health care providers, packaging and paper, pharmaceuticals,       plastics, steel and textiles (5.6).
+Using the technology has allowed       individual end users to make significant fuel savings worth up to &#163;240k       per year (5.3).
+Customer Testimonies Overview (5.6)            Heavy users of fuel such as Mondi and Union Papertech, who produce         packaging and paper, reported savings up to 7430 MWh and 85000 m3         per year of gas, respectively.
+Mondi reported that their annual savings         were equivalent to CO2 emissions reductions of nearly 1500         tonnes.
+Goonvean, who extract kaolin as their main product, installed twenty         systems on their gas-fired dryers and reduced their CO2         emission by about 560 tonnes per year (equivalent to 1000 MWh of gas).
+Toray Textiles reported a 5% reduction of gas used per tonne of steam         produced, which in the 20 day monitoring period corresponded to a         reduction of 12400 m3 of gas.
+Tensar, which produces ground stabilisation technology, reported         savings of up to &#163;10000 per year in fuel costs.
+Ford Motor reported annual savings of 2.4 MWh of gas.
+Findus saved 6.6% of their pre-fitted annual consumption of 2.4         million m3 of gas per year.
+Dow Chemical Company cited a 5% reduction in fuel use and payback in         10 months &#8212; a significant step towards meeting their ambitious emission         reduction targets.

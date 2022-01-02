@@ -1,0 +1,36 @@
+     European Extremely Large Telescope (E-ELT)     The European Southern Observatory's planned European Extremely Large       Telescope (E-ELT) to be sited in Chile will have a 39m primary mirror with       798 hexagonal 1.4 m mirror segments and will be the largest       optical/near-infrared telescope in the world.
+At its meeting on 11th       June 2012, the ESO Council gave its approval for the construction       programme to proceed [reference a] following review of preparatory       work.
+Two 5 M&#8364; contracts were placed in 2008 with Sagem (France) and OpTIC       Technium (acquired by Glynd&#373;r University in 2009 and renamed Optic       Glynd&#373;r) for the provision of seven aspheric prototype segments for the       primary mirror as part of the detailed design phase (phase B) during which       critical components have been prototyped.
+These contracts include test       setups and the necessary tooling and process development for the       polishing.
+The research enabling the avoidance of rolling edges down has       underpinned the implementation of Glyndwr's contract.
+The requirements       were so demanding that this required the development of a unique polishing       process and measurement system.
+In the UK, the E-ELT project is supported       by the Science and Technology Facilities Council.
+According to the STFC, `the         team at Glynd&#373;r University St Asaph working with Leicestershire-based         technology company Zeeko have become the first collaboration in the         world to polish right to the edge of hexagonal-shaped mirror using         direct mechanical polishing methods and at a scale of ten thousand times         smaller than the diameter of a human hair'.
+The STFC predicts that       the project will generate contracts for UK industry worth some &#163;90       million.
+[reference e]     The E-ELT News &amp; Events newsletter for November 2013 includes the       statement, `5.
+UK collaboration successfully polishes a prototype E-ELT         mirror segment to ESO specifications A collaboration between Glyndwr         University St Asaph, Zeeko, and others have met the &lt;15 nanometer         compliance surface accuracy over the entire optical aperture, and out to         the edges, of a prototype 1.4m hexagonal mirror segment using direct         mechanical polishing methods.
+Achieving this milestone demonstrates         potential for manufacturing E-ELT mirror segments as well as other uses         for large high-precision mirrors in ground and space applications'.
+[reference h]     The E-ELT Construction Proposal: Executive Summary &amp; Proposal Digest       [reference b] states that `The work carried out to date,         primarily with industry, has reduced the risk for both the technical         demands and the management of the programme.
+Following successful         technical and financial reviews, the programme is in an excellent         position to move into construction.
+This position is underpinned by       ESO's recent acceptance of the first prototype segment manufactured by       Glyndwr [reference d].
+This provides an additional process-chain       and manufacturing capability which results in de-risking for the E-ELT       project.
+At the outset, ESO warned us that we could anticipate numerous technical       challenges, and that proved the case.
+Under Glynd&#373;r, the project has made       consistent progress.
+In certain respects results have exceeded ESO       expectations, and in several key areas process capability is comparable       with or exceeds that of global competitors:            Glynd&#373;r's interferomtric test is the only test system in the world         able to meet ESO specification and provides accuracy over 2x better than         that of the main competitor       Glynd&#373;r has polished surfaces having 5x worse input quality than         envisaged by ESO, thus providing an effective de-risking of the prior         grinding processes       Glyndwr's prototype project has provided a positive influence on the         UK's decision to subscribe &#163;88m to the E-ELT construction-phase.
+This is         reinforced by a recent unsolicited request by STFC to visit         OpTIC-Glyndwr and Zeeko Ltd to discuss the UK's potential involvement in         segment fabrication [reference f].
+Commercial impact on Zeeko Ltd     Zeeko Ltd (Company No.
+03990080, www.zeeko.co.uk)       was established in 2000 to commercialize Walker's research into advanced       surface-removal processes and measurement techniques.
+The company       manufacturers CNC polishing machines (50mm to 2m capacity) and metrology       instrumentation.
+It exports almost all its products, to 15 countries       spanning Europe, North America and Asia, mostly for the astronomy,       defence, automotive, consumer, aerospace, remote-sensing,       semiconductor-photolithography markets.
+The ESO research enabling the avoidance of rolling edges down led       directly to Zeeko's design and manufacture of the first 1.6m CNC polishing       machine, thereby extending the company's product- range and ability to       meet more demanding customer requirements [reference g].
+Edge-control has also recently enabled Zeeko to make its first sale into       the emerging EUV photolithography photomask market (Japan).
+The customer       was previously unable to meet the flatness specification over a sufficient       large area on these rectangular fused silica parts, using conventional CMP       processes.
+[reference g]     The ESO mirror segments were pre-ground aspheric on the BoX       Ultra-precision grinder (built by Cinetic Landis) at Cranfield University.
+The Zeeko staff participating in the ESO project were thereby exposed to       the performance of an ultra-precision grinding machine.
+A key insight was       the impact that the input-quality to polishing has on the polishing       process-chain, in regard to total process time and control of mid spatial       frequency defects.
+Following on from this experience, Cinetic Landis and       Zeeko have agreed an exclusive agreement to sell a jointly developed       Optical Grinding Machine in the Optics Market.
+This has brought to market       a "total process solution" for medium-large optics, which can be traced to       the segment project.
+[reference g]     Zeeko's operation and growth between 2009 and 2013 is directly       underpinned by the past and current research of Walker's group.
+The number       of employees almost doubled from around 28 in 2009 to around 50 in 2012,       whilst turnover has increased from &#163;3.5 million in 2009 to &#163;4 million in       2012 (excluding the 1.6 metre &#163;1.5m machine built for Glyndwr's ESO       segment project).
+Zeeko Innovations Ltd was formed in 2012 based at Optic       as a direct result of Glynd&#373;r research programme and has created three       jobs.
+[reference g]

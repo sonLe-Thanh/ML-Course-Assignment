@@ -1,0 +1,55 @@
+     BNCT is a non-invasive treatment of locally invasive malignant tumours       such as primary brain tumours.
+It involves the injection with a tumour       localising drug containing boron (boron-10) and subsequently the patient       is exposed to a flux of epithermal neutrons which are scattered (reduced       in energy) and then preferentially captured by the boron.
+The boron-11       produced then undergoes fission efficiently, depositing a large amount of       energy within the tumour cells, destroying them.
+The impact of the research undertaken by the Birmingham group has been       through identifying an effective accelerator-based neutron source (ABNS).
+Without such a source, the use of the therapy would continue to be limited       to the small number of suitable nuclear research reactors.
+The Birmingham       Group's pioneering research has enabled and encouraged clinicians at       University Hospital Birmingham and in other countries, such as Japan,       Argentina and Israel, to progress towards the introduction of       hospital-sited BNCT treatments, developments that have extended over the       period 2008 to 2013.
+There is strong evidence to indicate that this       advance would not have taken place without the Birmingham Group's research       findings.
+The most advanced stage of hospital-based application of BNCT has been       achieved in Japan and it has been confirmed that the first clinical trial       of the therapy using an accelerator-based neutron source began in Kyoto in       October 2012.
+Contribution of Birmingham's research to the development of         accelerator-based sources: The key contribution made by researchers       at Birmingham was to demonstrate the possibility for real clinical       treatments using an accelerator-based source.
+This was crucial in       encouraging developments from other research groups and manufacturers       alike in different parts of the world.
+The initial idea of accelerator       BNCT came from Prof Jacqueline Yanch at MIT and by Prof Thomas Blue at       Ohio State University in the 1990s.
+However, the key to its application       was to demonstrate that these ideas were practical and this work was       performed by Prof Derek Beynon's group in Birmingham.
+The paper by Allen       and Beynon published in 1995 in Physics in Medicine has been cited over 50       times in the subsequent scientific literature.
+It was this practical       demonstration that was necessary to engage a wider clinical interest.
+The       paper by Culbertson et al from the Birmingham group in 2004 showed       experimental data at realistic (although still lower than desirable)       clinical beam powers.
+The treatment times shown in the Culbertson paper       are similar to those experienced by approximately 30 patients treated with       the reactor beam at MIT.
+This was a crucial step in opening up the option       of hospital-based treatment using BNCT, thereby encouraging further       clinical interest.
+Importance of accelerator-based neutron sources (ABNS) in adoption of         BNCT: Assessments of the application of BNCT now acknowledge that       availability of accelerator-based sources are essential if the treatment       is to be widely applied; for instance, a recent review of 20 years'       experience of BNCT in Finland published in Physica Medica       concluded: "... we recognise that there is no doubt that realizing         ABNS is one of the determining factors in how fast BNCT will be         established as routine clinical treatment."
+[1] A review undertaken       in 2007 for the Australian government had noted the extremely prohibitive       costs of providing the treatment if this was reliant on access to a       reactor-source.
+[2]     International take-up of the Birmingham findings: Currently       (2013), the most advanced stage in the hospital-based application of BNCT       is being achieved in Japan, and this progress has been explicitly       linked by the development team there to the Birmingham findings.
+The         first patients have now been treated (since October 2012) on the Sumiton         cyclotron system in Kyoto [3].
+,     [text removed for publication] President of the International Society for       Neutron Capture Therapy and Chairman, Department of Neurosurgery,       University of Tsukuba, has said: "Owing to the Birmingham research         activity, several new projects on accelerator based BNCT has been         recently started.
+There are now three accelerator projects in Japan,         namely, KURRI with Sumitomo Heavy Industrial Co Ltd, University of         Tsukuba+KEK+JAEA with Mitsubishi Heavy Industrial Co Ltd and National         Cancer Research Center with a venture company".
+[4] The construction       of these facilities was completed in 2013.
+The Japanese government is investing heavily in BNCT, with a vision to       treat the most difficult cancers in a single treatment session.
+Gaining       high level support for such a vision requires strong clinical leadership,       which comes from some excellent clinicians in Japan, and an understanding       that what is required is actually deliverable, which comes from the       pioneering work in Birmingham.
+Investment is made to construct BNCT       treatment facilities in Universities, research laboratories and hospitals       across Japan.
+For example, in March 2013 an accelerator has been ordered       from Sumitomo Heavy Industries, Ltd for installation in Fukushima for BNCT       treatment.
+The cost of construction of the BNCT facility is estimated to       be at least &#163;19M [5].
+An Israeli team at the Soreq Applied Research Accelerator         Facility has reached the stage of a viable liquid lithium       accelerator target and are now constructing the accelerator facility that       will exploit this.
+In Argentina efforts continue to develop a new accelerator device       to deliver BNCT which has been supported by Birmingham's work [text       removed for publication] Professor of Physics and Head Accelerator       Technology and Applications Department, Comision Nacional de Energia       Atomica has confirmed that "the Birmingham machine has been for many         years the only one delivering an intense proton beam and hence a         sufficiently strong neutron beam to make realistic work in AB-BNCT.
+This attracted our attention and finally led to a fruitful collaboration         between Birmingham and Buenos Aires around the possibility of developing         a SPECT system specifically designed for BNCT".
+The results of this       work have been published by the Argentine team [6].
+Clinical Work in the UK: Clinical research has focussed on the       optimisation of boron uptake in tumours.
+This has included clinical       research studies involving patients already undergoing treatment at the       University Hospital Birmingham.
+Currently, clinical studies are on-going       at the hospital into a new form of the boron carrier compound boron       phenylalanine which has been specially re-formulated for studies in       Birmingham by Cancer Research UK.
+While this is still a research study       with important outputs in the scientific literature (see for example Detta       and Cruickshank, Cancer Res 2009), the studies take place in the       neurosurgery theatres of University Hospital Birmingham and involve       patient volunteers.
+The existence of these studies show the on-going       impact of the Birmingham research through continued interest in the       various aspects necessary to eventually introduce the treatment.
+Without       the relationship between the Birmingham Physics Group and the University       Hospital it is doubtful that there would be active BNCT programme in the       UK.
+There is a close relationship between the Birmingham Group and University       Hospital Birmingham.
+As a result of this collaboration, the University is       using its Dynamitron accelerator, manufactured by IBA (a Belgian company),       adapted for BNCT by the Birmingham team.
+This has enabled the University       to attract external support from Cancer-Research UK for the only on-going       research in Britain on the hospital-based application of BNCT.
+The       accelerator is currently being adapted for clinical trials.
+Overall impact: The Birmingham group was the first to show       practically that it was possible to use an accelerator to produce a beam       with the necessary characteristics for these purposes.
+The impact has been       felt across the development community where there is now documented       acknowledgement that accelerator-based sources are part of the primary       development route for this therapy.
+The Birmingham research has made the       treatment economically viable and equivalent to existing radiotherapy       facilities &#8212;  which would not have been the case with a reactor based       facility.
+The significance of the Birmingham group's work has been in       demonstrating a practical method of using BNCT in clinical settings with       evidence set out here that this approach is now being actively applied in       a number of countries.
+The key beneficiaries of this research will be       patients treated with BNCT from an accelerator neutron source.
+Patients         have now been treated on the Sumiton cyclotron system in Kyoto.
+This       should also happen soon in both Tokyo and Fukushima.
+In the "West", high       grade gliomas account for around 1% of cancer diagnoses, so 2000-2500 per       year in the UK.
+The potential of this treatment will be even higher if it       is extended to other tumours (e.g.
+in head and neck and lung).
+There is       thus significant societal benefit from the developments described here.
+There is also demonstrable commercial impact within the REF period is to       companies such as Sumitomo Heavy Industrial Co Ltd and Mitsubishi Heavy       Industrial Co Ltd who constructed the facilities which will perform the       treatment, with each facility estimated to cost at least &#163;19M [5].

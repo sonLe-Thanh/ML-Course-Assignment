@@ -1,0 +1,23 @@
+ In the area of STEM subjects, the general belief is that the trend of the steadily increasing importance of High Performance Computing will continue for decades.
+It is likely that the highest levels of computing performance will be achieved through distributed hardware resources, such as computer nodes or web-data storage.
+The performance of cloud computing critically hinges on both the performance of individual nodes and the ability to pass information between them and, to a certain extent, on the performance of the network between head node and end user.
+Benchmark testing for supercomputer architectures, such as LINPACK, has been available for many years.
+Generically, these benchmark suites do not differentiate between the relative importance of communication (RAM, inter-core, inter-node, network) or local computational power.
+We have developed a benchmarking suite, BSMBench, which bridges this gap.
+The unique feature of our benchmarking tool is that it allows the relative weight of memory communication against single-core computational resource to be changed.
+This makes BSMBench a perfect tool for comparing different computing architectures, which may range from home computers to large cluster installations.
+This versatility makes BSMBench an attractive tool for a wide range of end-users.
+The code BSMBench is the only publicly available suite based on a BSM Particle Physics simulation environment.
+By changing fermion representation and colour number, BSMBench offers the unique possibility of changing the relative weight of memory communication against CPU computations.
+IBM (see source [1]) is using the code suite BSMBench to both assess the performance of new generation machines, including BlueGene/Q, and evolve future hardware.
+A third-party company, BSMBench Ltd [2,3] (featuring the name of our code suite), was created in 2012 to promote and make the best use of know-how gained during the development of the code BSMBench.
+Currently, this company is developing general-purpose parallel software based on BSMBench that can be used in High Performance Computing applications in the finance, aerospace engineering, weather forecasting and oil extraction sectors, among others.
+In early 2013, Fujitsu [4] started collaborating with the developer of the code suite BSMBench and the company BSMBench Ltd to adapt our code suite and create a benchmarking tool on mainframes used for virtualization.
+The main idea is to unravel unused resources during a virtualization run, and to understand the underpinning restrictions of their usage.
+Fujitsu is enhancing the BSMBench code suite by embedding a facility for measuring specific hardware metrics, such as the L2/L3 filling level and the throughput cache.
+BSMBench has been made available to third parties and the general public via GitHub [5].
+This has been announced to the computing community in a presentation at the International Supercomputing Conference 2012 [6].
+BSMBench has also featured in the IT magazine `Linux Format', and been distributed to its readers via more than 20,000 copies on DVD [7,8,9].
+The HPC-assisted research already carried out by our group was the subject of an INTEL case study in 2010 [10].
+This case study was also presented at the 21st meeting of the Machine Evaluation Workshop (MEW) organised by STFC in Runcorn, in November 2010.
+Here, the Plymouth HPC installation served as a showcase illustrating how supercomputer environments can be efficiently used for complex engineering problems.

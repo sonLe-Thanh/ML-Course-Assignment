@@ -1,0 +1,36 @@
+     Routes to impact       The most important routes to industrial impact since 2003 have been       through RCNDE and the       linked Engineering Doctorate NDE Centre.
+These routes have enabled the       major end-users of NDT       in the UK to be intimately involved throughout the development of the       technology.
+The result has       been industrially-funded trials, application-specific development, inward       and outward secondments       and the continued, rapid transfer of the new technology into industry.
+A       second route to impact has       been through academic publications stimulating interest from companies       outside RCNDE seeking       to solve particular NDT problems, most significantly Ontario Power       Generation.
+The main end-users of NDT tend to be large multi-national companies (e.g.
+in the power       generation, aerospace, petro-chemical or defence sectors) while NDT       equipment tends to be       manufactured by specialist SMEs.
+The U&amp;NDT group's work       on ultrasonic arrays has impacted on       (1) the NDT supply chain, (2) the end-users of NDT and (3) the NDT       workforce.
+Key examples are       detailed in the following sections.
+Impact on the NDT supply chain             Sonatest have an exclusive license to the patented [2]         wheel array probe technology         developed in the U&amp;NDT group.
+Sales of the wheel         array probe (marketed as RapidScan)         have been [text removed for publication] [a].
+Peak NDT Ltd. was one of the first companies to realise the         potential of the Group's FMC         concept and provide an array controller instrument (MicroPulse PA) that         could perform FMC         without modification.
+As demand for FMC capability has grown, they have         developed a special         instrument optimised for acquiring FMC data (MicroPulse FMC).
+[text           removed for publication].
+Impact on the end-users of NDT            Since 2009, Airbus has endorsed the RapidScan instrument for various         in-service inspection         procedures performed on its aircraft, including, for example, A320         trailing edge corrosion: ten         RapidScan devices held within the Airbus maintenance store in Hamburg         are loaned to         maintenance facilities worldwide to perform this inspection procedure.
+RapidScan enables         large areas to be scanned with a 50-75% reduction in inspection time         compared with         conventional methods and provides added benefits such as the ability to         record data.
+Since         2011, Airbus has also permitted a number of its suppliers of Carbon         Fibre Reinforced Plastic         (CFRP) components to use RapidScan as a post-production inspection tool;         previously such         inspections would have been performed on expensive         automated/semi-automated immersion         scanning facilities [d].
+[text removed for publication].
+Shortly after the publication of the early work [3, 4] a team from Ontario Power Generation         (OPG) visited the U&amp;NDT group to gain understanding         of FMC/TFM.
+In their CANDU         (CANadian Deuterium Uranium) reactors there was an urgent need to map         wall thickness         around welds in several hundred reactor feed-water pipes with complex 3D         geometries.
+Working with UK array-controller manufacturer Peak NDT Ltd., they         subsequently developed a         complete FMC/TFM system.
+This was deployed in two inspection campaigns         on the Pickering         power station Units 1 and 4 in 2010-1 where a total of 66 welds were         completely mapped [f,g].
+The in situ detection of cracks in gas turbine blade roots is critical         for the efficient operation of         aircraft fleets by Rolls-Royce Aerospace.
+Although a turbine         blade failure is not safety-critical         (as it is contained) the estimated cost is &#163;5M per incident.
+Prior to         using arrays for blade root         inspection Rolls-Royce suffered about three such failures per year but         with inspection and a         new design of blade there have not been any [h].
+In particular, a         special 2D array system using         FMC and a modified form of the TFM algorithm was created through the         doctoral work of a         former Bristol EngD Research Engineer (now a Rolls-Royce employee).
+This         work developed         an auto-focus technique to deduce blade crystallographic orientation         from the measured FMC         data prior to imaging.
+A paper describing one aspect of this work [6]         won the John Grimwade         Medal for best paper published in the NDT journal Insight in 2010 and         the Research Engineer         won the John Bush award for "engineers in the early part of their           career who have made an           outstanding technical contribution of value to Rolls-Royce" [h].
+The work has impacted on the activities of QinetiQ in several areas         where advanced NDT         inspections have been required to keep military aircraft flying beyond         their initial design lives.
+In those cases, the enhanced resolution achievable with the Total         Focusing Method (TFM) has         allowed smaller cracks to be detectable in wing spar flanges under a         wing skin layer.
+This has         been applied to three different aircraft types in the UK, enabling them         to achieve the required         life extensions and bringing a total of &#163;450k of extra business to         QinetiQ to implement fleet-wide 		surveys in two cases, the third being on-going.
+Another programme         to look at ply-wrinkling that exploits FMC has been worth &#163;90k to QinetiQ so far, in         funding from Rolls-Royce and Airbus.
+QinetiQ estimate the benefit to the industry to be at         least &#163;10M per year         after the initial implementation phase [i].
+Impact on the NDT workforce            In the Engineering Doctorate Centre in NDE (led by Imperial College)         Bristol has so far trained         four research engineers who have worked / are working on industrial         projects to develop FMC         capability for specific applications (three with Rolls-Royce, one with         BAE Systems).
+The Argentinian company Tenaris, which manufactures high grade         pipes for the petrochemical         industry seconded an employee to the U&amp;NDT group for         three months in 2012 to learn how         FMC could be applied to improve the inspection of safety-critical         pipework at manufacture.
+A post-doctoral research associate from the U&amp;NDT         group was seconded to the Inspection         Validation Centre at AMEC (formerly Serco Assurance) to develop         a procedure for the         application of FMC/TFM to reactor pressure vessel welds in the nuclear         industry.
+This         secondment was funded by the University Impact Acceleration Account and         AMEC.

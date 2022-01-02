@@ -1,0 +1,42 @@
+     (i) Impact of core theory and methodology on clinical trial           practice     As outlined in Section 2, the theory in [1] and its application in [2]       are fundamental to a unified treatment of stopping rules for the       termination of a clinical trial.
+Early stopping in favour of a new therapy       benefits patients beyond the trial by making an effective new       treatment available sooner and increases the financial return to the         manufacturer.
+Halting a trial early when a new treatment performs       poorly releases resources for studies of other promising       therapies.
+The unified theory in [1] and [2] has found wide applicability and met       practical needs.
+The book [2] also synthesises a large volume of research       into a form accessible to statisticians responsible for the design of       clinical trials in the pharmaceutical industry.
+It has sold 3,669 copies,       had over 2,100 chapter downloads (A), been translated into Japanese [2],       and become the standard reference work for the industry.
+Google Scholar       shows that since 2008, over 40 medical journal publications have cited [2]       as the source of methodology used in specific clinical trials: the       outcomes of these trials have affected treatment of patients in the REF       period (with more rapid effect when early stopping occurred); in later       examples, the trials were conducted wholly in the REF period.
+We now give some specific examples of clinical trials.
+Publications (B)       and (C) report trials that relied on [1] to design a group sequential       trial with special types of response.
+In (B), analysis of covariance is       used to adjust for baseline variables while (C) has a survival response.
+The report in publication (D) is of a trial using the methodology in       Chapter 7 of [2] and the article states explicitly that "Jennison and         Turnbull's Rho stopping boundary (03c1 = 3.0) was used".
+Economic benefit accrues also to producers of statistical software.
+Cytel's East software for the design and analysis of sequential       trials draws on Jennison's work in its implementation of group sequential       designs (E).
+In his letter (F), the president of Cytel states     "We have annual revenues of about $27,000,000.
+Our flagship software         package East&#169; is used by almost all major         pharmaceutical companies (e.g., GSK, Novartis, Pfizer, Merck, Amgen,         Lilly, Genentech), numerous smaller pharma and biotech companies ... and         governmental agencies (e.g., FDA, NIH).
+A heavily used module in East is         the "Survival Module" for the design and interim monitoring of trials         with mortality endpoints ...
+The statistical methodology that we have         implemented in East for such trials relies on the theory that was         published by Jennison and Turnbull (JASA, 1997).
+This seminal paper has         had a huge impact on clinical trials and has facilitated the use of         group sequential and adaptive methods that can save patient resources         and bring new drugs to market faster.
+It is fair to say that many         companies have purchased East almost entirely because of its Survival         Module.
+The reason that the methodology developed by Jennison and         Turnbull (JASA, 1997) has been so influential is that it provides a         unified group sequential theory that covers normal, binomial and         survival distributions, with or without covariates."
+(ii) Impact of research into optimal group sequential and adaptive           design on FDA policy Research at Bath has shaped the policy of the         US Food and Drug Administration (FDA).
+Jennison's results on the       optimisation of clinical trial designs for particular objectives have       informed regulators who make policy for pharmaceutical companies to       follow.
+The "Guidance for Industry" of February 2010 (G) describes FDA         policy on adaptive designs in Phase III trials.
+This document cites       [2], [4] and two further articles by Jennison which draw on results in [3]       and [5].
+The conclusions in [3] and [5] are re-iterated in the statement       (G, Section VI C):     " ... one adaptive design approach is to allow an increase in the         initially planned study sample size based on knowledge of the unblinded         treatment-effect sizes at an interim stage ...
+In general, using this         approach late in the study is not advisable ...
+The potential to         decrease the sample size is best achieved through group sequential         designs with well-understood alpha spending rules ...
+."
+The Associate Director for Adaptive Design and Pharmacogenomics in the       FDA's Office of Biostatistics, writes (H)     "Jennison's work has been invaluable in providing benchmarks by which         to judge group sequential designs, in appraising the benefits of novel         proposals for adaptive designs, and in extending adaptive methods to         overcome impediments to their application."
+(iii) Use of a new combination test for survival data in an         adaptive clinical trial     The new form of combination test defined in [6] provides a sound basis       for adaptive designs with survival endpoints and guarantees the crucial       property, insisted upon by regulators, that the type I error rate is       controlled unequivocally.
+Previous proposals failed to do this.
+The impact       of this research output has already been seen in Hoffman-La Roche's GATSBY       trial (study BO27952), a multi-national trial of treatments for advanced       gastric cancer.
+The adaptive design of this Phase III trial relies       fundamentally on results in [6].
+The trial starts by comparing two       treatment formulations against a control then, at an interim analysis,       just one of these formulations is chosen for comparison with the control       in the remainder of the study.
+Combining treatment selection and testing       in a single trial achieves the statistical requirements with fewer         patients.
+Our new form of combination test is used to analyse data       from the two phases of the trial in a way which guarantees full control of       the type I error rate.
+The letter from Hoffman-La Roche's Associate       Director of Biostatistics (J) quotes the reference to [6] in the trial       protocol:     "As discussed in Jenkins et al.
+(2011), as the extent of follow up of         Stage 1 patients remains unchanged, the final testing procedure         described within the Roche study BO27952 guarantees full control of the         Type I error rate."
+Communication of research findings     Jennison has enhanced the impact of his research by communicating results       to practitioners.
+Since 2008, he has presented 10 short courses on group       sequential and adaptive methods, from half a day to 2 days in length, at       conferences and to companies.
+He speaks frequently at conferences with a       high proportion of industrial participants; see the listing of around 10       talks per year at http://people.bath.ac.uk/mascj.
+He also provides consultancy to companies on the design of individual       trials with innovative group sequential or adaptive features.

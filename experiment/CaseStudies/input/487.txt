@@ -1,0 +1,17 @@
+     Diffuse Large B cell Lymphoma (DLBCL) is the most common       non-Hodgkin's lymphoma.
+It accounts for approximately a third of       lymphomas, and is the seventh most common cancer, with an annual incidence       of 25,000 cases in the USA.
+Despite recent improvements in therapies,       fewer than 50% of patients survive for more than 5 years.
+Gene expression profiling has identified two different types of DLBCL,       the germinal centre-subtype and the more aggressive activated B-cell       derived subtype, which is associated with markedly inferior survival rates7.
+Accurate identification of these DLBCL subtypes in patients allows more       specific targeted therapy, and will ultimately improve a patient's chance       of survival.
+Although gene expression profiling had linked FOXP1 expression to the       activated B-cell DLBCL subtype (associated with inferior survival rates)8,       this technique was not found suitable for routine clinical use.
+This paved       the way for the accurate detection of FOXP1 using simple and reproducible       immunostaining methods.
+Research performed at Oxford showed a good correlation between results       obtained from gene expression profiling and the use of antibody JC12 in       immunocytochemical staining9, leading to this methodology being       used in clinics worldwide for routine diagnostic procedures.
+Major steps in achieving worldwide use of JC12 in routine diagnostics       include the following series of trials:            A collaboration initiated by Professor Banham demonstrating that         immunolabelling with the monoclonal antibody JC12, identified patients         with poor prognosis activated B-cell subtype of DLBCL, under the new         gold standard treatment, CHOP-R10.
+Clinical collaborations between Professor Banham (Oxford) and the         French Groupe d'Etudes des Lymphomes de l'Adulte supported the clinical         relevance of FOXP1 expression in CHOP-R treated DLBCL, in two randomised         trials LNH98-5 and LNH01-5B11.
+The international CORAL study identified FOXP1 as being of prognostic         relevance for predicting progression free disease in DLBCL12.
+In 2012 the International DLBCL Rituximab-CHOP Consortium Program         Study recognised that FOXP1 expression was one of the three most         significant molecules for predicting outcome in DLBCL.
+Significantly,         they confirmed that the addition of a FOXP1 antibody to a panel of         antibodies used in routine immunostaining purposes constituted a highly         effective panel for defining clinically relevant DLBCL subtypes13.
+The anti-FOXP1 monoclonal antibody, JC12, has since been licensed for       research and in vitro diagnostic use worldwide14.
+The       JC12 antibody is routinely used to classify DLBCL and to identify patients       who require, and those who do not require, more intensive treatment       regimes.
+The successful development and assessment of new DLBCL drugs by the       pharmaceutical industry continues to require the accurate classification       of tumour sub-types.
+As one example, the Oxford University researchers are       currently collaborating with the UK REMoDL-B Clinical Trial Management       Group15 to explore the use of FOXP1 and its isoforms as markers       of a potential response to the proteasome inhibitor Bortezomib in DLBCL.

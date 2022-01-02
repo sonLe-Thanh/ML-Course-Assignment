@@ -1,0 +1,25 @@
+     Context     Correlation plays a fundamental part in any financial model dealing with       more than one asset e.g.
+CAPM, Markowitz portfolio theory, the LIBOR       market model, or any multi-asset extension of the various market models       used.
+However estimating correlation is notoriously difficult: in practice       market data is often missing or stale; different assets are sampled at       different time points (e.g.
+some daily and others weekly); and the data       may even contain arbitrages due to averaging of bid and offer quotes.
+As a       result, estimated correlation matrices are frequently not positive       semidefinite, with the consequence that variances are negative, which is       forbidden by definition.
+There is a real need to correct the non-positive       semi-definiteness of estimated correlation matrices, while at the same       time staying true to the correlations implied by the market data &#8212; in       other words, not changing the estimated matrix too much, but just enough       to make it mathematically sound.
+This is what the NCM routines do, and       this is why they are crucial in the financial industry and in many other       contexts.
+Prior to our research, ad-hoc methods had been developed in an attempt to       compute the nearest correlation matrix, but none were guaranteed to       compute it and some were not even guaranteed to converge.
+Our work has       provided fast and reliable algorithms for computing the unique nearest       correlation matrix in the Frobenius norm.
+Pathways to Impact     The Numerical Algorithms Group (NAG) Ltd. has been a world leader in the       development and distribution of numerical software for more than 40 years,       and has offices in Oxford and Manchester and subsidiaries in Chicago,       Tokyo and Taipei.
+Higham has long-standing professional relationships with       colleagues from NAG going back to the 1980s.
+As a result of these links,       the research reported here has been strongly influenced by the needs of       NAG and indeed NAG provided partial funding for Borsdorf`s PhD studies in       Manchester.
+The Manchester researchers have assisted in translation of the       algorithm in [2] into NAG software, and NAG has been in a position to       rapidly incorporate the software into their products.
+In order to maximise impact in the financial sector, NAG is devoting       significant effort to promote the developed software using marketing       material, brochures [S1], web videos, targeted site visits and publication       via seminars and Trade shows.
+Higham has joined NAG representatives on       visits to BNP-Paribas (London) and Barclays Capital (London), both in June       2011, at Standard and Poors (New York, December 2011), and at       Credit-Suisse and Morgan Stanley in March 2013.
+He gave seminars on the       NCM problem at all these venues and at the Institute of Actuaries in March       2013.
+In addition, the algorithm of [1] is freely available in implementations       in MATLAB, R, and SAS.
+Reach and Significance of the Impact     The key user base is the financial industry and at least six of the top       ten Tier 1 Investment Banks are using NAG nearest correlation matrix (NCM)       codes [S3] that implement the preconditioned Newton algorithm [2].
+The       codes can be directly incorporated into customers' existing financial       models because they can be called from Fortran or C, from MATLAB via the       NAG Toolbox for MATLAB, and from Excel.
+In particular, the link to Excel       allows the research to reach practitioners who are not necessarily       programmers, such as those from the actuarial community [S2].
+Due to the importance of the codes, and based on feedback from NAG       customers, NAG has worked with Higham and Borsdorf to improve the codes,       gaining a factor two increase in the speed since their first introduction       [S4].
+The nearest correlation matrix codes in the NAG Library are helping NAG       to gain more revenue across all sectors, both from new customers and from       existing users who are more likely to renew with the new features.
+The       estimated total additional income to NAG as a consequence of the inclusion       of our codes into the library (new licenses plus renewals) in the period       January 2010-July 2013 is &#163;250,000 [S3]; this is very significant for a       company with about 70 FTE staff.
+Commercial sensitivity means that the Tier 1 Banks are unwilling to       disclose any revenue increases as a consequence of using these algorithms,       but, for context, Morgan Stanley report assets of US$347 billion under       management or supervision (June 30, 2013) [S5], and Credit Suisse report       CHF 408 billion under management at the end of 2011 [S6].
+Thus, if used in       management of 1% of the assets (a conservative estimate) our algorithms       would still inform financial decisions on the scale of billions of       dollars.

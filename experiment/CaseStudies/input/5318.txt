@@ -1,0 +1,36 @@
+     WIA is now being used clinically to diagnose narrowing ("stenosis") of       coronary arteries.
+This narrowing is the underlying pathology of Coronary       Heart Disease (CHD), and is the cause of most heart attacks.
+In the UK, a       heart attack occurs every 2 minutes and around half of them are fatal,       accounting for approximately one third of all deaths.
+CHD is also a common       cause of severe morbidity.
+Non-pharmaceutical, non-surgical treatment consists of making a small       incision in an artery in the groin, guiding a catheter up the arterial       system into the stenosed area of the coronary artery, and then temporarily       inflating a balloon and/or permanently inserting a stent (a cylindrical       tube made of wire mesh) to open up the lumen of the vessel.
+About 90,000       procedures of this type are carried out in the UK each year.
+However, they       are expensive and carry risk for the patient, including precipitation of a       heart attack, re-narrowing of the vessel, or occlusion of the stent; the       risk of a serious adverse event at the time of the procedure is 1%, and       around 3% of cases suffer in-stent restenosis in the longer term.
+It is       therefore important not to use them unnecessarily.
+On the other hand, the       procedures substantially reduce symptoms when the disease is severe so it       is also important to use them in patients who do need them.
+Patient stratification was traditionally carried out by X-ray imaging of       the stenosis.
+However, many stenoses that appear significant by such       anatomical criteria are not functionally significant, and stenting them       worsens patient outcomes.
+Fractional Flow Reserve (FFR) is a functional       method for assessing stenosis, introduced in 1995 [A].
+In this method, the       ratio of the mean pressure downstream and upstream of the stenosis is       measured as an indicator of the severity of the stenosis.
+FFR is replacing       image-based methods; for example, the "appropriate use" criteria in the       USA now require a measure of ischaemia (impaired blood supply) in all       patients before stenting.
+However, during FFR measurements, it is       necessary to stabilise and minimise the resistance of the smaller blood       vessels supplied through the coronary artery by administering a potent       dilating drug.
+That carries serious practical difficulties and adverse       consequences.
+The drugs are unavailable or precipitously expensive (up to       US$500 per case) in some countries.
+Even if the cost is acceptable for a       single vessel, multi-vessel assessment in the same patient is usually not       feasible.
+Administration of the drug takes time (about 12 minutes of a       20-30 minute procedure) and requires catheterisation of the femoral vein.
+Furthermore, the drug is very unpleasant, causing a sensation of       "impending doom."
+For these reasons, the procedure is inadvisable for some       patient groups (children, asthmatics, hypotensives and people with heart       block) who therefore have to rely on the less invasive but unreliable       imaging-based methods, and patient throughput is reduced with consequent       increase in cost.
+WIA has permitted the development of an alternative method &#8212;       instantaneous wave-free ratio (iFR) &#8212; that does not require dilating       drugs.
+WIA is used to identify a wave-free period during the cardiac cycle       where resistance of the small vessels is naturally low and stable.
+At that       point, the pressure ratio across the stenosis can be used to assess the       resistance caused by the stenosis, as in FFR after drug administration.
+iFR requires hardware that is already in place in many catheterization       clinics &#8212; a fine-wire catheter system simultaneously measuring pressure at       two locations and flow.
+Only new software is required; this is based on       algorithms developed by Professor Parker and Dr Justin Davies of the       National Heart and Lung Institute at Imperial.
+First-in-man cases using       the on-line system were conducted at Hammersmith Hospital London in       January 2013.
+Since then the system, manufactured by Volcano, has been       placed in 20 centres, in 3 continents around the world [B].
+The updated       software was initially distributed for research purposes, and used in the       multi-centre international clinical trial ADVISE (ADenosine Vasodilator       Independent Stenosis Evaluation), which concluded that iFR gave a       drug-free index of stenosis severity comparable to FFR [C].
+(The most       recent study [D] found in 1500 patients that iFR can achieve a 95% overall       match with FFR.)
+The system is now available commercially and is in       regular clinical use; by July 2013, real-time measurements had been made       in around 650 cases [D].
+Ongoing clinical trials include ADVISE II, an FDA-sanctioned trial to       further compare iFR with FFR in 900 patients.
+Provisional results of       ADVISE II were presented at EuroPCR [E]; they showed that the use of iFR       alone was sufficient for diagnosis in more than half of patients.
+Although       such clinical trials continue, the technique is already changing routine       clinical practice.
+For example, Dr Sharp, Interventional Cardiologist at       Royal Devon &amp; Exeter Hospital, has stated [F]: "After using iFR in       real world clinical practice, its simplicity is clearly its strength.
+In a       busy cath lab, saving time is important and the results in my early       experience have been consistent and clinically useful."

@@ -1,0 +1,30 @@
+     Since 2008, major turbomachinery manufacturers have adopted ADT's       TURBOdesign&#8482; software suite in ever increasing numbers, as they sought to       achieve improvements in their design processes and manufacturing methods,       and thus unlock benefits such as increased efficiency of their       turbo-machinery and reductions in CO2 emissions.
+Some of the       key impacts arising from the UCL research are summarised below.
+Delivering more efficient design methods for the turbomachinery           industry:     A number of the leading turbomachinery manufacturers have changed their       design systems to access the benefits that arise from the use of ADT's 3D       inverse design approach.
+For example, in pumps manufacturing, four of the       top ten global manufacturers, including Ebara Corporation, use       TURBOdesign&#8482; in their design workflow [a].
+Also the world's leading fan       manufacturer, ebm-papst, uses TURBOdesign&#8482; in most of its divisions; one       of the company's engineers noted: "Our experience shows that         TURBOdesign&#8482; can reduce development / design time, improve efficiency         and reduce noise of fan blades" [b].
+Other leading companies in       turbomachinery application areas such as aeroengines, automotive cooling,       Central Processing Unit (CPU) cooling, cryogenic and air-conditioning       applications and power generation have switched to using TURBOdesign&#8482; in       their design systems [c].
+Many of these manufacturers are finding that using the code reduces the       development and design time for their new designs and improves       performance.
+For example, the Director of R&amp;D at Andritz Group said in       a March 2013 article in Pumps and Systems magazine that the "the [ADT]         software considerably supported the pump manufacturers to accelerate the         hydraulic design process" [d].
+In another article in Machine Design,       Mr Toru Iwata of Daikin Industries said: "The software helped us reduce         development time and slash material use, as well as develop new models         of high-efficiency fans" [e].
+Enabling improvements in manufacturing methods in the           turbomachinery industry: In the turbomachinery industry       various methods are used for manufacturing the vanes and blades.
+For low       volume vane and blade manufacture within aerospace applications, it is       usual that CNC machines are utilised.
+For high-volume applications, such       as turbochargers, it is customary to use casting or in some cases a flank       milling process for blades with straight filaments, as these approaches       result in lower manufacturing costs.
+In 2011, Cummins Turbo Technology, one of the leading manufacturers of       heavy-duty diesel turbochargers globally, decided to take into high-volume       production a turbocharger compressor with 3D blades.
+This was designed       using the 3D inverse design method TURBOdesign&#8482; and machined by using a       5-axis point milling process.
+The point milling process can add between       15-20 per cent to manufacturing costs compared to flank milling or       casting.
+The main impetus for the company to make such a substantial       change in its manufacturing process was the fact that for 10 years they       had not been able to make any improvement in the performance of a baseline       turbocharger compressor, which had straight filaments, with direct design       methods.
+By using the inverse design approach an impeller could be       designed that was up to 3 points more efficient through most of the       compressor map.
+However, this impeller had a 3D geometry and required a       significant change in manufacturing process.
+The significant improvement       in performance of the new compressor, in the eyes of Cummins Turbo and its       major engine manufacturers, more than justified the additional costs       associated with the changes to manufacturing method [f].
+The TURBODesign&#8482; software makes it easier to design 3D blade and vane       geometries with high efficiency, and with the current rate of reduction in       the cost of the point milling process it can create important       possibilities for further improvement in turbomachinery component       efficiencies.
+Increased turbomachinery efficiency and reduction of CO2           emissions: One of the major impacts of industry's adoption of       ADT's inverse design method is a significant improvement in the efficiency       of turbomachinery.
+Earlier research had shown that breakthrough designs       made possible by this approach can lead to significant improvements in       pump stage efficiency of up to 6 points (see outputs [5] and [6], above).
+Similar levels of performance improvement are being achieved by industrial       use of the inverse design method.
+For example, in 2013, Daikin Industries       confirmed that they had improved the efficiency of an air-conditioning fan       by 10% by using the inverse design method [e].
+Likewise, performance improvements have been achieved in other industries       such as pumps, automotive and power generation through the adoption of       this technology.
+For example in 2008, RR Marine, a major manufacturer of       large-scale marine waterjets, was able to improve the propulsive       efficiency of their marine waterjets by 3-5% by using ADT's software       TURBOdesign&#8482; [g].
+Furthermore, they obtained a significant reduction in       manufacturing cost of their waterjets, which came on the market in 2013       [g].
+These efficiency savings have consequent environmental benefits by       reducing CO2 emissions.
+ebm papst has been using the inverse       design method since 2006, and claimed in a 2008 advert in The Economist       magazine that "If for ventilation, refrigeration and airconditioning,         European industry switches to the latest generation of fans (designed by         ebm-papst), 16 Million tons of CO2 emission         will be cut and 4 coal fired power stations will be made redundant"       [h].
+[text removed for publication]

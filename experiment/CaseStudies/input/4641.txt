@@ -1,0 +1,48 @@
+     In 2010, a Defra survey of approved processing plants in the UK showed       that 78% of plants were using electrical water bath stunners insufficient       to induce unconsciousness in chickens [a].
+These stunning protocols were       also widely used in commercial poultry plants in Europe.
+This was exposing       millions of birds to a potentially painful death.
+Considering the very       large number of animals (minimum 9,350,000 birds per week), this was a       major animal welfare concern.
+However, since 1st January 2013,       a new European regulation [b] requires that all abattoirs in Europe must       now stun chickens using protocols shown to be effective by Bristol       research.
+The new regulation ensures that billions of birds in Europe are       adequately stunned prior to slaughter; a major positive impact on poultry       welfare.
+The Bristol research into the optimum use of water bath electrical       stunner parameters has been widely disseminated to the industry by two       main routes; i) inclusion within European legislation and, ii) training         Animal Welfare Officers in abattoirs by University of Bristol staff.
+i) Impact on Legislation: The Bristol findings on electric water       bath stunning parameters were of sufficient welfare significance to be       directly incorporated into European legislation [b].
+Implementation of these findings into legislation was rapid.
+On 4th April       2007, The Humane Slaughter Association (HSA) held a workshop to discuss       electrical water bath stunning parameters where the results from Raj and       colleagues [1, 2, and 3] were presented.
+The workshop brought together       representatives from the poultry industry, retailers and scientists from       across Europe.
+The potential welfare significance of the findings were       highlighted and a recommendation for the research work to be urgently       corroborated was subsequently undertaken by Prinz et al in Germany [c, d       and e].
+In the light of the new Bristol research, the European Commission       received information and requests from the UK authorities to amend the       electrical requirements specified in the previous opinions [f].
+The UK       authority requested that the high-range frequency band should cover 600 to       800 Hz and that it should not extend to 1500 Hz, due to the concerns that       frequencies above 800 Hz lead to electro-immobilisation and do not produce       an effective stun.
+The new frequencies were incorporated into the EFSA       Scientific Opinion on the electrical requirements for water-bath stunning       equipment applicable to poultry [g].
+EFSA stated that when insufficient       current passes through a bird only certain areas of the brain are       affected.
+Consequently it is possible to induce partial epilepsy that       leaves a bird conscious and sensible even though it shows seizures and       convulsions that are indistinguishable from those shown after an effective       stun [1].
+Therefore, the occurrence of seizures and convulsions is not a       reliable indicator of unconsciousness and insensibility.
+Fifteen out of 21       studies used to present data for the EFSA document [g] were conducted by       members of the University of Bristol, and 14 out of 30 references that       were used for the relevant report section had authors from the University.
+In 2009, the research findings were adopted in the new EC Council       regulation No 1099/2009 of 24 September 2009 (1/1/2013) on the protection       of animals at the time of killing.
+ii) Impact on training and function of industry personnel: In       recognition of the need for complex technical requirements such as       stunning parameters to be well understood by those actually operating       slaughter equipment, the European Commission has also enshrined the role       of the Animal Welfare Officer (AWO) into the EC regulation.
+The       crucial knowledge transfer role of the AWO has been described in the       Council Regulation [b] as follows: "The appointment of a specifically         qualified person as an animal welfare officer to coordinate and follow         up the implementation of animal welfare operating procedures in         slaughterhouses has provided positive welfare benefits.
+This measure         should therefore be applied throughout the Community.
+The animal welfare         officer should have sufficient authority and technical competence         (provided by the course) to provide relevant guidance to line         personnel."
+This technical competence includes a need to understand       the welfare significance of the stunning protocols previously developed by       the Bristol research team [1, 2, 3].
+AWO training courses, initiated and       run by the University of Bristol, are now available in Europe, and have       ensured that these important research findings have been disseminated to       those directly responsible for controlling stunning parameters.
+Bristol       played a pivotal role in embedding this robust knowledge transfer       mechanism within the poultry industry in Europe, thus providing a       long-term sustainable route for translation of future welfare science into       practice.
+Direct involvement of Bristol in delivering impact     Active involvement of Bristol researchers in policy and dissemination       activities has made an important contribution to the impact in this area.
+Bristol researchers gave evidence for and assistance with the Farm Animal       Welfare Council (FAWC) report on welfare of farmed animals at killing [h].
+Raj is a member of the working group that contributed to the scientific       opinion on the electrical requirements for water bath stunning equipment       applicable to poultry, and leads the Scientific and Technical Advisory       Board of the farm assurance scheme "Animal Welfare Approved".
+In July       2012, members of the Bristol stunning and slaughter group (Knowles, Lines,       O'Callaghan, Raj, Wilkins and Wotton) received an award from the Humane       Slaughter Association for "Major contributions to the science underpinning       humane livestock slaughter".
+In particular, Bristol has actively promoted dissemination of science by       developing the Animal Welfare Officer concept.
+This was acknowledged by       FAWC when it commented that "The Animal Welfare Officer Course developed       by the University of Bristol Department of Animal Science has attained a       high level of recognition" [h].
+Steve Wotton, who developed the concept,       was awarded an MBE for services to animal welfare in 2007.
+This influence       is not limited to Europe.
+Largely driven by the technical specifications       of UK retailers, major exporters of poultry in the Asia and Central and       South America now also insist upon Animal Welfare Officer training for       managers within plants.
+Since 2008, Bristol researchers have run 61       courses which have trained over 800 delegates working in abattoirs in UK       and internationally.
+Other implications for industry arising from Bristol research     Despite the significant welfare benefits of the modified stunning       parameters, further research carried out at Bristol University [i and j]       indicated that the new current/frequency requirements would significantly       adversely affect meat quality.
+As a result, it has been suggested that       slaughter plants might make a move towards CO2 stunning.
+As       discussed by FAWC [h], gas stunning has further welfare advantages since,       unlike electrical stunning, it does not require shackling, which is a       significant aversive experience for birds.
+Two out of four UK       poultry-processing plants contacted for a survey of stunning practices had       switched to biphasic CO2 in January 2013.
+An alternative method of dealing with the potential conflict between       using the newly stipulated electrical parameters and the need to control       carcass and meat quality, is a new `head-only' water bath stunning       technique developed in a collaboration between the University of Bristol,       Silsoe Livestock Systems Ltd, Cargill Meats and the Humane Slaughter       Association (HAS) [k].
+The project was funded by Defra and the Scottish       Government under the Sustainable Livestock Production LINK Programme.
+The       new technique involves the use of two currents &#8212; one across the head to       cause immediate insensibility and a smaller one through the body to       suppress involuntary wing flapping.
+The results of two studies [j, k]       carried out at Bristol indicate that head-only stunning is an effective       method of stunning birds using the criteria developed by Raj and others       and may represent a very significant improvement in carcass quality       compared with conventional water bath stunning.
+The application of       head-only stunning current to birds will encourage processors to apply       sufficient current that will guarantee good welfare, without significant       effect on carcass and meat quality.
+Head-only electric stunning therefore       has the potential to meet the commercial requirements of the processing       industry for high quality meat and a high standard of animal welfare at       slaughter.
+The LINK Programme Management Committee considered the       collaborative project "...an outstanding project", awarding a       score of 9 out of 10 for scientific content and 10 out of 10 for relevance       to the industry.

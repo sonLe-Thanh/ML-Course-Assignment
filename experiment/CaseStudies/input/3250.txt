@@ -1,0 +1,26 @@
+     PREDICT is implemented online as a national resource with the web       interface being hosted on a       NHS web-server at www.predict.nhs.uk.
+The monthly hits (&gt; 4,000) on the website indicate clearly       the impact of the tool.
+One of the key decisions in the management of women with early breast       cancer is whether or not       to offer adjuvant chemotherapy in conjunction with primary surgery and       radiotherapy.
+The key       output of PREDICT is the expected absolute reduction in mortality at five       and ten years associated       with adjuvant chemotherapy.
+Cambridge Breast Unit (CBU)     Until 2010 the CBU estimated absolute benefits of chemotherapy were       estimated using Adjuvant!
+Online.
+During 2010 and 2011 both PREDICT and Adjuvant!
+Online were used       in parallel.
+Clinical audit     Demographically, the use of PREDICT could benefit 18% of women worldwide.
+The Cambridge       Breast Unit carried out an audit of the first 200 patients discussed when       both Adjuvant!
+Online and       PREDICT were used by the multi-disciplinary team [1].
+The chemotherapy       recommendations that       would have been made based on the output from each model were then       compared.
+In 163       patients (82 per cent) the chemotherapy decision would have been the same       whichever model was       used.
+A different recommendation would have occurred for 37 patients (18       per cent), which would       benefit them, some women avoiding unnecessary chemotherapy, others having       effective treatment       which would not otherwise have been given.
+Change in practice     Since 2012 PREDICT has been the only model used routinely in Cambridge       for all patients being       discussed at the weekly multi-disciplinary team meeting.
+The absolute       benefit of adjuvant       chemotherapy estimated by PREDICT is used to guide the use of adjuvant       chemotherapy       according to the guideline described in section 2.
+Other clinical departments in the UK     We have had multiple requests from clinicians for the incorporation of       additional features indicating       that the model is being widely used.
+PREDICT is used by the       multi-disciplinary clinical teams in       Belfast, Brighton, Derby, Dundee, Oxford and Sheffield, but the web usage       statistics from 2011       suggest that PREDICT is also being used widely across the country.
+The impact of PREDICT on clinical practice is clearly demonstrated from       the extensive use of the       web interface (see below).
+Public, Patient Partnership     PREDICT has been widely reported in regional and national media including       ITV, The Times and       The Daily Mail (ref 2).
+We have clear evidence that women with early       breast cancer are accessing       the interface in order to determine their own risk and to help them in       their discussion with their       oncologists about treatment options &#8212; this is very much in keeping with       current thinking to       empower patients through knowledge to play an important role in their own       care.
+Web usage data     PREDICT was designed to have a user-friendly interface to help clinicians       in making clinical       management decisions.
+Informal feedback from clinicians from both       Cambridge and elsewhere       has indicated that the interface is easy to use.
+The number of visits to the web site each month has increased steadily       since its launch in January       2011, with 3,266 visits in April 2013.
+Monthly web usage statistics for the PREDICT website, Jan 2011-Jan         2013 	       There have been 43,870 visits to the web site with 70 per cent of the       visits (30,563) being       accessed from UK and ten per cent (4,468) from USA.
+The web site is       visited from all over the UK,       with London accounting for 17 per cent and Cambridge accounting for just 1       per cent of all traffic       on the web site (ref 3).

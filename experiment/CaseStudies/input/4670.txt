@@ -1,0 +1,42 @@
+     The impact of the University's work on developing new structural concepts       and structural methods has been the use of the results and the tools by       industry on a variety of aerospace applications.
+Here, we present six       examples.
+1) A new structural concept that is now in-flight       Lemanski and Weaver's unique anisotropic composite design [4] was used in       the development of the BERP IV helicopter rotor blade in 2005-06 for       AgustaWestland's EH101 helicopter.
+The Principal Rotor Engineer from       AgustaWestland reported that "the design, which uses unbalanced         anisotropic angle plies at a specific fibre orientation, gives         performance enhancement by coupling bending and torsion within the blade         to reduce the loads experienced by the rotor control system.
+Eighty five         of these blades, each with typical value of &#163;100k, have been purchased         by the UK MoD as part of an Urgent Operational Requirement in order to         enhance the range and capability of the EH101 aircraft in Theatre"       [a].
+Note that of the 85 blades, worth approximately &#163;8.5M, 70 were       ordered since 2008.
+They all continue to be flown and are used in       situations where a heavy lift capability is required.
+2) A new analysis tool that influenced Airbus's A380 wing design       Miller and Weaver's thermoelastic analysis [1] has been developed into a       new structural analysis tool for Airbus.
+When designing the A3XX (which       subsequently became the A380) aircraft, Airbus considered both aluminium       and hybrid CFRP/aluminium wing designs.
+The Bristol-based tool was used by       Airbus to inform the decision to use a largely aluminium, rather than       hybrid, wing design [b].
+As of July 2013 there have been firm orders for       262 A380s [c] with a market value of over $105B, based on an average list       cost of $404M each [d].
+3) A new beam section analysis tool for AgustaWestland and then         LUSAS's software       Hill and Weaver's beam section analysis [2], for calculating 6x6 stiffness       matrices for helicopter rotor blade sections, and the subsequent       optimisation method [3] have been incorporated into AgustaWestland       Helicopter's internal design codes (BSAP) [a].
+The inclusion of these       tools allows AgustaWestland to predict the response of rotor blades more       accurately such that flight performance is improved via a reduction in       deleterious vibration response whilst maintaining structural integrity.
+In       addition to this improvement, Bristol's optimisation technique reduced the       work of an engineer that previously took two weeks, to a matter of minutes       [a].
+Bristol's beam section analysis, which provides the 6x6 stiffness       properties for finite element beams, was an improvement on the then       current state-of-the-art techniques used in commercial finite element       packages.
+It was incorporated into LUSAS's finite element software in 2008       [e], giving LUSAS the commercial advantage of being able to model the       structural response of complicated multi-material beam sections.
+4) New buckling analysis tool for Cassidian       Weaver's closed-form buckling solutions for plates and shells [5-6] are       now a key part of Cassidian's LAGRANGE multidisciplinary optimisation       software.
+The work was transferred to Cassidian via a &#163;10k consultancy in       2006, and allows rapid analysis of the buckling capability of thin-walled       sections such as wings and fuselages.
+As an example application, it has       been used to help design the Airbus A350XWB aircraft structure [f].
+The       Airbus A350XWB is the first commercial Airbus aircraft to be mostly       designed with composite materials.
+It had its maiden flight in July 2013       and first delivery is expected in mid 2014.
+So far 682 firm orders have       been received [g] with a value of circa $173B, based on an A350-800       average list price of $254M [d].
+Cassidian also intends to use these       structural analysis models in the design of a European Unmanned Air       Vehicle in 2014 [f].
+5.
+New structural failure analysis led to new structural concept for         Airbus       New analytical expressions for predicting the structural failure of       stiffened wing panel structures [6] have been adopted in Airbus' design       codes.
+Specifically the Senior Lead Stress for the A350-1000 Midbox states       that "the in depth understanding and methods developed during my PhD       [at Bristol] helped Airbus refine their stringer runout design.
+The         knowledge has been transferred transnationally throughout Airbus and         Bristol's expertise is acknowledged.
+Furthermore, the papers published         have been used as a starting point to define methods and allowables,         helping Airbus prepare comprehensive Aircraft Certification Documents         minimising the need for large tests" [b].
+These methods have supported the design of wings in commercial aircraft       variants of the A350XWB: A350-900 and A350-1000 as well as the military       aircraft A400M.
+As of August 2013, when it had its maiden flight, 174       A400M aircraft have been ordered [h].
+Current savings of over &#163;700k from       virtual testing are estimated based on a typical cost of &#163;35k per test.
+In       addition to this cost saving, the new design based on Bristol's methods       reduces the weight of a wing by approximately 10kg per wing [b] giving       operational savings of around &#163;14M based on the orders for A350XWB and       A400M using a &#163;800/kg cost to weight value.
+This analysis subsequently allowed a new stringer-to-skin, aircraft wing       joint design to be proposed [6]: "Compound joints have become part of         the certification training material.
+[Bristol's] 2 and 1/2         dimension model was used for A380 checkstress.
+The way the Mode 1 and 2         contributions are decomposed in Stringer Run Out is used as a bonded         joint pre-sizing method" [b].
+6.
+New structural analysis for shells exploited by NASA       NASA's Shell Buckling Knockdown Factor (SBKF) project was set up to "help         future heavy-lift launch vehicles weigh less and reduce development         costs" by generating new shell-buckling knockdown factors replacing       the existing ones which "date back to pre-Apollo-era studies &#8212; well         before modern composite materials, manufacturing processes and advanced         computer modeling" [i].
+New, more accurate and less conservative       methods have now been developed for the design of shell structures for       space launch vehicles.
+Estimated savings of the order of &#163;10M/launch are       expected with the first launch based upon these new design methods       anticipated from NASA Wallops in 2014.
+Weaver was consultant for NASA from 2001-2010 with support funds from       NASA totalling around $450k.
+[text removed for publication].
+[j].

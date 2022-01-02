@@ -1,0 +1,36 @@
+     The research has had profound impacts during the 2008-2013 qualifying       period:            Economic impact through contributions to innovative product         development.
+Access to the expertise of the Birmingham group enabled JLR         to cut the time to market significantly and has provided a competitive         edge in a market of great significance to the company.
+(Confidential         quantitative details are in source [5.1].)
+Wider economic impact resulting from the cascading of automotive radar         technology and products from the luxury end of the vehicle market         downwards.
+Impacts on practitioners and professional services, through         contributions to new technical standards ([5.4] and [5.5]) and through         professional, research informed training courses.
+Impacts on the safety of road users through the development of         automotive radar systems and their standardisation ([5.4] and [5.5]).
+4.1 Economic Impact     4.1.1.
+Adaptive Cruise Control (ACC) radar     JLR has been equipping vehicles with ACC as an option since 1999.
+The       currently advertised list price for this popular option is &#163;1275.
+ACC capability in both Ford and JLR is built on the underpinning research       described above.
+The automotive radar research experience was shared with       parent company Ford and assisted the design of the production systems for       both brands by Delphi.
+These systems are now in full scale       production.
+Ford, having acquired Jaguar Cars in 1989, formed a World-Wide Radar       Evaluation Committee in 1998.
+It visited all major potential automotive       radar developers and suppliers in the US, Europe and Japan to evaluate       performance, quality, production time, costs and reliability and to       establish a suitable production supplier.
+Hoare was appointed to this       panel as the sole radar expert and the sole member external to the       company, by virtue of his expertise built up during research work at       Birmingham.
+4.1.2.
+Blind Spot monitor     This product was launched by Jaguar in 2008.
+The current list price for       the option is &#163;460.
+Initial work was started in 2006 with road trials       undertaken by Jaguar and Birmingham University in 2007.
+Research at       Birmingham resolved deep practical issues, such as the penetration of       radar signals through the painted bumper (radars are mounted behind the       bumper material), and the interaction of the signals with the body of the       vehicle.
+Birmingham provided expertise in resolving manufacturing issues       with the supplier of switched beam antennas, and in the performance       evaluation and vehicle integration.
+4.1.3.
+Lane Change Merge Aid     Research has continued and evolved into the development of a long range       (80m) mm-wave Lane Changing Merge Aid radar system.
+This rear looking       radar system measures range, velocity and angle, providing information in       the blind spot and beyond, to assist a driver when changing lanes and       merging into traffic.
+Full development at JLR has led, within the REF       qualifying period, to prototype systems.
+Full scale production will begin       in 2014.
+4.2 Contributions to Technical Standards     Hoare sat on the EU automotive radar committee setting International       radio standards to enable mm-wave radars to be operated within radio       spectrum management regulations, as well as personally reporting at the       International Telecommunications Union in Geneva.
+The committee ran for 4       years with experts from Birmingham, BMW, Daimler Benz, Fiat, Volvo, and       GEC Plessey.
+The resulting EN 301-091 [5.4] set the standard for Europe       and was used as the template for the FCC standard for North America.
+Hoare also sat on the EU committee setting standards for 24GHz radar       systems.
+The committee, comprising experts from Birmingham, BMW, Daimler       Benz, Fiat, Volvo and Siemens, set the spectrum occupancy standard and       addressed objections from existing users of the 24 GHz band.
+The resulting       standard, EN 302 288 [5.5] remains in force until 2016.
+4.3 Professional Practitioner Training     A dedicated 3-day course, "Understanding Automotive Radar, Theory,       Practice and Current Development," was developed and delivered by Hoare at       Birmingham, at Jaguar Cars, and at Ford Detroit between 1999 and 2009,       with approximately 30 attendees per course.
+The course is for automotive       engineers with no formal background in radar to enable them to understand       the capabilities of radar systems and issues associated with their       deployment.
+The impact arises from the fact that many participants are now       in management positions with responsibility for radar sensing within JLR.
+4.4 Ongoing Impacts     Research described at the end of section 2 is paving the way for further       novel, technologically advanced, cost effective and saleable features       which will increase vehicle sales revenues and contribute further to       improving the safety of all road users in accordance with EU directives.

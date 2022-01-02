@@ -1,0 +1,26 @@
+ Changes in the industry Thornalley presented his findings regarding protein damage with first-generation PD fluids and improved clinical outcomes with low-GDP PD fluids at several international meetings, including the 5th EuroPD conference in 2002, the American Society Nephrology Annual Renal Week meetings in 1999, 2002, and 2005, and the 12th Congress of the International Society for Peritoneal Dialysis in 2008.
+These meetings are attended by representatives from the major global manufacturers of dialysis fluids, including Baxter Healthcare, Gambro AB (part of Baxter Healthcare from 2013) and Frenesius.
+With funding from Baxter Healthcare, Cancer Research UK, Dynamis Therapeutics Inc., Fresenius Medical Care AG, Gambro AB, GlaxoSmithKline, TransGenic Inc., Woerwag Pharma, and Chroma Therapeutics, Thornalley organized a colloquium on GDP researcha (entitled "Enzymatic defence against glycation in health, disease and therapeutics"), which was presented at the 679th Meeting of the Biochemical Society held in Colchester in 2003.
+Approximately 100 clinicians, industry researchers and academics attended the colloquium.
+From 2002 onwards, in light of the data presented by Thornalley, major manufacturers of PD fluids, including Baxter Healthcare, Gambro AB, and Fresenius Medical Care AG, developed second-generation and third- generation PD fluids and conducted clinical trials to assess clinical outcomes such as residual renal function, risk of peritonitis, and fluid infusion pain.
+Second-generation PD fluids with reduced GDP content were produced using two-compartment dialysis fluid bags, which separate glucose from buffer salts during heat sterilization.
+Third-generation PD fluids, with even lower GDP counts, were then produced from osmolyte that is resistant to GDP formation, such as icodextrin.
+All of the major companies that manufacture PD fluids, including Baxter Healthcare, Gambro AB, and Fresenius Medical Care AG, have developed and marketed low-GDP solutions, and Gambro AB now produce only low-GDP PD fluids.
+The most recently developed PD fluids are designed to be resistant to GDP formation during transport to sites of use and storage.
+Clinical benefits Clinical evidence of the benefits of low-GDP PD fluids has emerged since 2008b,c, including data to show improved preservation of residual renal function and decreased peritonitis, fluid infusion pain, and vascular inflammation.
+The British Renal Society now recommends that all patients experiencing infusion pain, and preferably all other patients (provided there is no cost penalty), should be given low-GDP PD solutions.
+The European Pediatric Dialysis Working Groupd recommends low-GDP fluid use in all paediatric patients receiving PD.
+Current usage of low-PD fluids in Europe is 60% of patients receiving PD dialysis, although all patients receiving dialysis would probably benefit from the use of low-GDP PD fluids.
+The use of PD therapy for patients with renal failure is likely to increase at the rate of 5-6% per annum as diseases linked to renal failure become more prevalent and access to dialysis improves, highlighting the continued importance of PD fluid development.
+An additional benefit to patients is that PD treatment with low-GDP PD fluids allows PD to continue for longer, reducing the need for haemodialysis.
+Economic benefits The total global market for PD therapy is around US$2.7 billion per year, for the dialysis of approximately 240,000 patients.
+The use of low-GDP PD fluids has been shown to reduce treatment costs and increase efficacy.
+Other benefits In addition to their impact on PD fluid composition, Thornalley's findings led the food industry to develop glyoxalase-1-inducer-based foods for healthy ageing (Technology Strategy Board project with Unilever; funding &#163;1.1 million).
+Selected dietary bioactive compounds at dietary exposure levels induce glyoxalase 1 through Nrf2 transcriptional signalling (Xue, M., Rabbani, N., Momiji, H., Imbasi, P., Anwar, M. M., Kitteringham, N. R., Park, B. K., Souma, T., Moriguchi, T., Yamamoto, M. and Thornalley, P. J.
+2012 Transcriptional control of glyoxalase 1 by Nrf2 provides a stress responsive defence against dicarbonyl glycation.
+Biochem.
+J.
+443, 213-222).
+[This is not to be confused with certain other dietary bioactive compounds at markedly higher exposures/doses than dietary, which have been reported to inhibit glyoxalase 1 in some cell model systems in vitro].
+Other research from Thornalley identified glyoxalase amplification in multidrug resistant (MDR) tumours and sensitivity of such tumours to glyoxalase 1 inhibitors.
+This led pharmaceutical companies such as AstraZeneca to develop glyoxalase 1 inhibitors for the treatment of multidrug- resistant tumours.e

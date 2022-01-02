@@ -1,0 +1,27 @@
+     The research and instrumental development described above gave rise to a       new tool for the Earth Science community &#8212; namely the laser-ablation       system `RESOlution series'.
+A laser-ablation system utilizes high-energy       (up to GW/cm2), deep-UV (e.g.
+193 nm) photons for the       controlled removal (ablation) of material at &#181;m-spatial resolution (&lt;10       - &gt;300 &#181;m).
+Ablation takes place in a He-atmosphere inside a gas-tight       LA cell that contains variously shaped and sized samples and produces       nanometer-sized particles.
+These are transported into a plasma-based ion       source (ICP), where they are atomized and ionized, and then analysed in       the attached mass spectrometer (MS), hence (MC-(ICPMS).
+The geometry         and (small) volume of the LA sample cell is critical as the LA system         must maintain exactly the same performance characteristics irrespective         of sample size / shape (e.g.
+a long stalagmite, a tiny zircon or a         single foraminifer).
+For the first time, the RESOlution LA systems with         their two-volume LA cells guarantee such a performance for a         commercially available instrument (M&#252;ller et al., 2009), applicable       to essentially all solids (diamonds, ice, minerals (carbonates,       phosphates, silicates, ores), metals, wood, polymers etc.).
+The performance metrics of the new system include superior analytical       precision via much improved LA-ICPMS signal stability (~fivefold; M&#252;ller       et al.
+(2009)), excellent accuracy especially for high- precision isotope       ratio analysis (e.g.
+Hf; Sr isotopes), and significantly shortened       analysis time due to very rapid signal washout of the two-volume LA cell.
+The latter also enables reliable and routine depth- profiling (e.g.
+Griffiths et al., 2013), which facilitates sub-&#181;m spatial       resolution since a single laser pulse removes &lt;100 nm (&lt;0.1&#181;m) of       material.
+The leading role of Royal Holloway Earth Sciences in LA system       development is highlighted by having been invited to organize and host the       forthcoming (12th) European Workshop on Laser Ablation (EWLA)       in July 2014, a biennial international conference on laser-based       microanalysis (http://ewla.rhul.ac.uk/       ).
+M&#252;ller chairs the organizing committee.
+The impact of this instrument development can be clearly demonstrated in       several areas:     1) Resonetics (USA) &amp; Laurin Technic (Australia) The       commercialization and continued development of the Royal Holloway       prototype via the joint venture between Laurin Technic (Canberra,         Australia) and led by Resonetics LLC (Nashua, NH, USA) has         created an entirely new area of commercial activity for Resonetics (The       President/Director of Resonetics 2011/12).
+Resonetics was       previously not active in the Geoscience sector but since ~2009 are       considered a key player, driving innovation in laser-ablation.
+The       laser-ablation market since 2007 has changed almost beyond recognition,       because the new competitors such as Resonetics or Photon Machines (on the       market with their two-volume cell ~2 years after Resonetics) have removed       the earlier market dominance of NewWave Research and driven innovation       significantly forward.
+For Resonetics, this has resulted in a US$7         million turnover and the direct support for eight to ten employees to         manufacture the "RESOlution series" LA-ICPMS based on the Royal Holloway         prototype, with research money being returned to Royal Holloway ( see           Sections 3 &amp; 5).
+The continued construction of highly         specialized two-volume LA cells in Canberra by Laurin Technic also         strongly supports the local specialist engineering and machining         industry there.
+Further impact at Resonetics is evident in their         biomedical application areas, as documented in a letter from the President/Director         of Resonetics in 2013: `...Resonetics was able to utilize some of         the core technology from the RESOlution on laser manufacturing equipment         for CGM devices.
+CGM devices are utilized to allow diabetics to monitor         their blood sugar levels [...]'.
+`[...] use some of the technology         developed for the RESOlution and expand it for use with producing next         generation stents.
+Stents are used to heal either blocked or damaged         arteries [...]'.
+2) Geochemical microanalysis worldwide the introduction of much       more sophisticated hardware integrated with (MC-)ICPMS and controlled by       user-friendly software.
+In addition this high-end instrument has resulted       in 20+ sales worldwide in ~3 years and the details are documented in       section 5 below.
+Apart from the two-volume LA cell, further instrumental       breakthroughs that substantially enhance the types of material that can be       analyzed and the analytical capabilities include     (a) a cryogenic sample holder compatible with the two-volume cell,     (b) a rotating rectangular aperture for analysis of curved, layered       samples (e.g., speleothems, corals) at maximum spatial resolution       combined with maximum sensitivity,     (c) development in sophisticated gas plumbing including a debris exhaust       valve activated during pre-analysis cleaning.

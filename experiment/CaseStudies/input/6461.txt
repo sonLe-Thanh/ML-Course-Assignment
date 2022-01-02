@@ -1,0 +1,40 @@
+     The viability of the business case for an engine rests, among other       things, on whether it meets reliability requirements.
+By improving and       automating the ease of use and communication of results, 4Cast allows       engineers and designers to do many more analyses.
+The Weibull continuous       probability distribution is used as a standard to characterise reliability       in the aerospace and defence sectors: 4Cast provides a simple and       efficient means of performing Weibull analysis.
+4Cast graphics show the       prior lifetime distributions and the predicted lifetime distributions and       provide a visual comparison of the achieved reliability and required       Reliability Target Line (RTL).
+The collaboration with Rolls-Royce extended       across several global sectors of the business, originating with the       Rolls-Royce Safety and Reliability group and extending to both the       Aerospace and Energy sectors of the company.
+Improved working practices     The design process at Rolls-Royce Aerospace is highly detailed and       requires designers and engineers to make reliability assessments for many       systems, subsystems and components at each milestone in a project.
+Typically a design is broken down into subsystems and components: for       example, an engine contains several compressor discs and a compressor disc       consists of several blades anchored in a disc.
+4cast allows the behaviour of each component and subsystem to be       modelled, taking into account design decisions and expected operating       conditions.
+Outputs are combined to model the failure behaviour of the       whole engine.
+4Cast is embedded within the Rolls-Royce `Airlines Local       Procedure' (ALP C.2.6/13) Reliability Target Lines, issued in July       2009.
+The Reliability Target Lines (RTL) is determined as a minimum       reliability that still gives a profitable business case.
+In the RTL       procedure the overall reliability is shared across the components based on       service experience with other engines.
+The procedure compares the       predicted or achieved reliability with the target component by component,       allowing the design to be accepted without change, managed or rejected       depending on whether it meets the requirements of the business case.
+The       Trent XWB (the engine for Airbus 350) project was the first to adopt this       approach in 2008 and uses 4Cast extensively.
+An example is given in the Reliability         Target Lines for the Trent XWB LP Turbine.1     Assessing reliability requires as much data from users' experiences as       objective data.
+4Cast allows users to input all kinds of relevant data.
+Through instant feedback and the ability to explore scenarios designers       are able to experiment with alternatives.
+As objective data become       available in later stages, so the prediction of reliability improves and       certainty increases.
+The modelling and software make explicit the       assumptions, the quality of data and the level of uncertainty to support       the designer.
+Analyses of historical data carried out using 4Cast have       also identified formerly unrecognised risk factors in engine failures.
+Scenarios based on design choices then feed into the modelling of       lifecycle costs and maintenance planning which in turn are the basis for       contract pricing used in the "Power by the hour" approach, Rolls-Royce's       pioneering approach to engine maintenance management, which forms the       basis of the company's market-leading CorporateCare&#174; service.2, 3, 5     4Cast uses formal design methodologies and problem structuring techniques       supplemented by generic and company databases of component data and       engineering parameters.
+The explicit incorporation of these formal       methodologies force design teams to record accurately the basis of their       models and the roles of those involved in the design choices.
+This       formality improves the traceability of design changes and provides version       control to avoid errors, for example a choice of incompatible materials or       components.
+The simplicity of use also puts the control of modelling and analysis in       the ownership of the project team and so improves teamwork.
+Previously       teams were dependent on specialist skill and resource owners to carry out       the modelling.
+4Cast software has been used throughout the Rolls-Royce group since 2006.
+The software has been deployed to model and improve the performance of       combustion chambers in Rolls-Royce's family of Trent engines, used in       electricity generation4.
+In response to the analysis, the       design of the combustion chambers was adapted to reduce the effects of       thermal fatigue and extend the working life.
+The software has also       provided graphics and illustrations to communicate the results to       designers and clients.
+Economic Impact     The capital goods industry has changed from one in which the product is       sold (often below cost) and profit is generated by after-sales service and       support, to a service model in which all after-sales support is included       in an initial price and contract.
+This change requires risk assessment and       life cycle costs to be estimated from the outset of a project in order to       sustain returns to the company.
+The determinant of economic success is the       availability of the system: the proportion of time that the system can       earn revenue.
+Interruptions to service reduce earnings and incur costs for       maintenance and compensation.
+Rolls-Royce measures loss of engine       availability and its consequences in a Disruption Index.
+The 4Cast       software is used as part of a programme to reduce the Disruption Index2       to 20% of its current value with a potential saving of around $8M per       month.
+The software has had a significant impact on the business performance and       consequent economic achievement of Rolls-Royce, a global company       supporting the civil and defence aerospace, marine and energy markets       worldwide.
+Their Chief Safety and Reliability Engineer says: "The         importance of [using 4Cast to determine acceptability of the reliability         characterisation of our latest engine designs] is that the results from         this exercise have now been used in life-cycle cost estimations that         underpin the business case for the engine type being evaluated.
+Decisions are being made based on results which 4Cast has contributed.
+...
+The importance of gaining confidence in the engine before entry into         service cannot be stressed enough and ... the role that 4Cast plays in         Rolls- Royce in achieving this is evident."

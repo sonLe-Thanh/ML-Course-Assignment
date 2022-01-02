@@ -1,0 +1,48 @@
+     The extraordinary volatility that has swept the financial markets since       2000 has led to massive economic and financial dislocation and a deep       mistrust of long-term saving.
+Pension funds have experienced significant       devaluation and the practice of conventional asset management is seen as       unpredictable and of dubious social value.
+Professors Clare and Thomas       have had significant commercial impact on the investor community in the UK       and beyond by creating, developing and distributing investible tradable       products generated from their research.
+In 2010, Paul Wilcox, Chairman and Founder of the WAY Group, approached       the lead researchers, having seen their work presented at conferences, to       see if it could be used to construct an investible product,.
+A successful       collaboration followed and in March 2011, WAY Fund Managers, the       investment professional division, launched WAY Global Momentum Fund [1].
+The fund is based on a range of developed equity markets and comprises 14       equally-weighted ETFs spanning this market.
+If the market is above its       moving average the fund holds the ETF but if it is below, the fund sells       the ETF and moves into cash or cash funds.
+Back-tests have been run to see       how a portfolio investing using such principles would have performed over       the past few years.
+The fund moves in and out of markets as they       progressively rise or fall, rather than the moment they rise or fall, so       it will lag markets when they bounce [2].
+The fund attracted &#163;12M very quickly from retail investors, despite       hugely volatile markets over the summer and autumn of 2011 caused by such       events as the Fukushima nuclear disaster and the US credit downgrade.
+However, despite these headwinds, the strategy worked in exactly the way       the researchers intended and that their research had suggested.
+Over its       two-and-a-half-year life it has produced an impressive performance, with       less than half the volatility of the FTSE100 and with a maximum drawdown       of less than half that of the FTSE100 (its natural comparator for UK       financial advisors).
+The `live' two-and-a-half-year period showed that       trend following and diversification can work effectively in practice to       protect investors from unwanted volatility and in particular from large,       multi-month drawdowns, as predicted by the research [3].
+Eddie O'Gorman of The WAY Group [4] described the fund as: "the first         step in a series of launches likely to alter the UK investment         landscape.
+There are some outstanding creative investment opportunities         out there and, with this powerhouse of academic research as a dynamic         driving force behind WAY/Hasley investment protocols, we believe         investors will genuinely be provided with something fresh and beneficial         to begin 2011" [5].
+The Financial Times reviewed the product       and concluded that "three academics have devised a fund that offers         exposure to equity markets in a risk controlled fashion" [6].
+The       WAY Global Momentum Fund was the winner of the Innovation Award at the       Moneyfacts Investment Life and Pensions Awards 2011.
+For a fund that was       less than one year old at the time, this demonstrates the quality of its       proposition [7].
+The success of the WAY Global Momentum Fund has led to the creation of       two further applications of this research.
+The first is a multi-asset       class fund in partnership with Credit Suisse and the second is a range of       other single-asset class indices developed with Goldman Sachs.
+The first extension of the original commercialisation of trend following       strategies is based on multiple asset classes and is a direct extension of       the Thomas et al.
+2012b research paper.
+The asset classes are       developed and emerging economy equities; commodities; bonds; and property.
+It is being made available to retail investors in one form and to       institutions and high net worth individuals in another.
+The retail version       of the strategy was launched as an open-ended investment company (OEIC) on       1st March 2013 as a product of WAY Fund Managers.
+It is based       upon 22 ETFs that represent the range of five asset classes and       sub-components of them.
+The second version of the strategy is available as       an investible index.
+It was launched in February 2013 and has Bloomberg       ticker CSEATMTG (Index).
+Given the inherent low volatility of this       approach, Credit Suisse (CS) has created guaranteed (structured) products       based upon the underlying index and upon a version of the index with a       target volatility of 10% per annum.
+So far CS has constructed a ten year       Delta 1 Note, a five year deposit and a six year 90% Protected Note based       upon the underlying index.
+These products will be distributed by       specialist organisations such as Meteor [8].
+Crucially for Cass Business       School, the underlying index is called the Cass Trend Master Index and is       the first example in the UK of an academic institution agreeing to       associate its brand with investment strategies.
+It offers investors some       comfort on transparency of investment strategy and the integrity of the       research-driven investment process.
+As mentioned above, it does not offer       a promise of investment performance.
+Robert Dale [9], Head of Structured       Products at Credit Suisse said: "The methodologies the Cass Professors         have provided are a robust intellectual framework resulting from         research into causality of financial markets and an indisputably unique         proposition for our investors."
+Credit Suisse currently offers a       series of investible indices based on the trend following rules devised by       the City research team, in several different currencies.
+The products are       aimed at institutions (pension funds, Investment Trusts, sovereign wealth       funds) and are distributed by both Credit Suisse itself and investment       product specialist distributors such as Meteor in the Middle East, Europe,       Africa and Asia [10].
+A second collaboration, with Goldman Sachs [11], has led to the       development of three further Cass-branded indices: the Cass-Goldman Sachs       Alternative Strategy Indices.
+Using the same commercial model, our trend       following strategies have been applied to create a developed economy       equity index, an index comprising emerging market equity indices and one       based upon a range of commodities.
+Retail investors will be able to invest       in these indices in the form of an OEIC distributed by Indexx Markets, a       specialist index provider (www.indexxmarkets.com)       [12].
+Goldman Sachs is able to replicate the multi-asset class strategy in       an efficient manner, but it can only really be made available to       institutions and high net worth individuals.
+However, by "wrapping" the       single-asset class Cass indices developed for Goldman Sachs into an OEIC,       the benefits of the trend following strategy become more accessible to a       wider retail audience.
+Retail investors will be able to invest in these       indices in the form of an OEIC developed and distributed by Indexx       Markets.
+Once again, the indices will bear the Cass name.
+These strategies will be available to the mass market in low but regular       contribution guaranteed long-term savings products such as personal       pensions and ISAs.
+This is consistent with the Government's aim to make       low cost, regular savings products available in the general marketplace,       see for example the Government consultation on NEST (National Employment       Savings Trust).
+The research is widely available, published freely, totally transparent       in its technology and is a direct challenge to business model and       entrenched interests in the investment management industry.
+The investment       funds underpinned by our research offer investors lower fees, low       volatility and protection against down-side risk.

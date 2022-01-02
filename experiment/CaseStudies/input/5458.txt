@@ -1,0 +1,50 @@
+     Process from research to impact:       The ITI Techmedia funded Condition Based Monitoring programme (CBM) was a       collaboration between the University of Strathclyde, the Royal Dick Vet       School (RDVS), Scottish Agriculture College (SAC), The Technology       Partnership (TTP) and Plexus.
+The research contribution of the Scottish       Agricultural College and The Royal (Dick) School of Veterinary Studies was       to identify behaviour changes that relate to the onset of oestrus in cows.
+The Strathclyde research focussed on decision support methodologies       combining animal behaviour analysis with information technology,       communications, signal processing and artificial Intelligence (AI) for PLF       support tools.
+On completion of the Condition Based Monitoring programme in 2009, Prof       Andonovic, Dr Michie and Dr B Stephen (also a researcher at the University       of Strathclyde) founded Embedded Technology Solutions (ETS) Ltd. to       engineer a proof of concept demonstrator into a commercially viable       product, a collar which would monitor animal behaviour, now marketed as       the Silent Herdsman&#174;.
+Ahead of the launch, ETS carried out a trial with       the Scottish Agricultural College at Acrehead farm, Dumfries.
+The trail       tested 150 cows over an eight week period and successfully demonstrated       Silent Herdsman's ability to detect accurately Oestrus events in dairy       cows.
+In many instances, the Silent Herdsman detected the events up to two       days earlier than competing solutions.
+Types of Impact       Commercially successful spin out company:       Embedded Technology Solutions (Source A) was formed in 2009 to market       Silent Herdsman collars, and now employs 7 full time staff.
+Within its       first year ETS formed a strategic partnership National Milk Records, NMR       (Sources B and C) who are the primary channel to market and who have a       team of around 20 to support this activity.
+NMR deliver milk analysis       services covering 1.8M cows in the UK.
+The total addressable market       worldwide stands at 110M dairy and 450M beef cattle.
+Collar based       monitoring systems will not be deployed over all of these but 10%       penetration of collar deployments equates to a market in excess of       $1billion; ETS projects that a realistic target market is 10% of the       collar market segment, which translates into a company of net worth in       excess of $100M.
+In the UK there are ~2M dairy cows, ~9M in the US and in       both geographies, the average herd size is increasing; hence the reliance       on technology is compelling.
+Adoption of new technology:       The technology platform consists of an electronic collar recording       individual cow neck movements continuously using a 3-axis accelerometer.
+The activity data is processed on-collar using artificial intelligence       software to identify behaviour changes related to welfare conditions, e.g.
+the onset of oestrus or heat.
+This heat event is downloaded to a PC       wirelessly whenever a cow enters the receiving area of a base station,       usually located near the milking parlour.
+Cows entering heat are displayed       on a local PC enabling the farmer to schedule insemination.
+Accurate heat       detection significantly increases the likelihood of pregnancy.
+Oestrus       detection is difficult in modern dairy herds and can be as low as 40%.
+Often visible signs are manifest for a short, 2 hour period, between       22.00hrs and 06.00 hrs.
+A missed insemination window can cost a farmer       upwards of &#163;100 per cow.
+The Silent Herdsman&#174; detects around 95% of heats       and thus has helped farmers to optimise their fertility programmes and       consequently milk yield.
+Rigorous validation [Reference 6] indicated that the signature algorithm       predicts with an accuracy of 95% of all oestrus events, including some       that on visual inspection, are not demonstrably displayed by the cow.
+Competitor technologies process data off line and are therefore vulnerable       to data gaps.
+Silent Herdsman&#174;, processes data on the collar and sends       alerts which are retained on the collar until acknowledged by the decision       support interface, resulting in a profound reduction of the volume of data       required to be downloaded to the application and a more robust       implementation.
+Economic benefits to farmers:       Most profit in dairy farming goes to the supermarkets, leaving farmers to       balance rising feed, labour and infrastructure costs.
+In the UK alone, an       average of two farms per day abandon dairy farming and those that remain       operate increasingly larger herds to maximise profit through scale.
+An       important factor in increasing milk yields is oestrus detection, which       identifies the most appropriate time for insemination in the reproductive       process, leading to calving and in turn higher milk yields.
+Dairy farmers       worldwide consider oestrus detection to be the most labour intensive and       skilled task their staff have to perform.
+It is estimated that $2 Billion       a year is lost in global milk supply revenue due to missed heat detection.
+From 2010, the Silent Herdsman&#174; system has been installed in over 250       farms in the UK and Europe.
+The cost benefit to the farmer using the Silent Herdsman collar in a       dairy herd is estimated at approximately &#163;10k per 100 cows per annum       (Source D) achieved through a combination of increased milk revenue (&#163;5       per day for 21 days), feed costs (non-producing cows still require feed)       reduced insemination cost (&#163;25 unit cost) and reduced vet costs (fewer       examinations).
+Farms of 100 or more cows have already demonstrated an       increased milk yield of more than 10,000 litres per annum.
+The largest       farm deploying the system has 1100 cows.
+A farmer from Leicestershire       (Source E) states that `With Silent Herdsman I often find positive         heat detection results in certain animals I would have missed when         solely relying on observation.
+Now we can pin point the exact time for         insemination with Silent Herdsman&#174; allowing a cost effective solution         overall.'
+Another farmer from Northern Ireland states that "With         a large herd like mine I cannot afford the time to be standing over         every single animal to observe heat detection.
+I was looking for an easy         to use solution that could take care of this farm management issue for         me.... Silent Herdsman is the solution."
+While the immediate application of Silent Herdsman&#174; is to detect oestrus,       other aspects of animal health are indicated by activity measures from the       collar.
+The system is also able to predict the onset of illness which       could potentially be core to stopping the damaging spread of diseases such       as BSE which cost the industry ~&#163;7B on the last occasion it occurred.
+General improved detection of other health problems will also deliver       higher quality milk and reduce costs.
+Improving performance of existing businesses:       The Silent Herdsman&#174; is manufactured locally within Scotland at Dynamic       EMS (Source F), using a component supply chain also based in Scotland.
+NMR       plc supplies dairy management services, including the market leading       software system InterHerd, to around 50% of dairy producers in Britain and       the majority of leading dairy vets and consultants.
+The Managing Director       has noted that "Silent Herdsman brings enviable accuracy levels and         significant advances to fertility monitoring on our dairy farms...         Movement technology has advanced considerably and, at the same time,         heat detection is becoming far more challenging.
+Priced competitively,         we are confident that the system will be attractive to many progressive         producers in Britain.
+And looking ahead, we are keen to see the         technology develop, linking in with our current software systems and         being applied to other important management functions" (Source G).
+More recently partnerships have been formed with Semex Ltd. (Source H) to       grow the opportunity within Europe beginning in Germany with 50 farms in       2012, and with Micro Beef Technologies, owned by MWI (Source I), taking       the system into a high value market in the US.
+The link with MWI also aids       penetration of the beef market and the company has captured 60% of a total       USA market of 9M beef cattle.
+Each of the above partners have benefitted       directly through sales of the Silent Herdsman&#174; product.

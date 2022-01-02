@@ -1,0 +1,39 @@
+     The correct use of threaded fasteners is a critical element in health and       safety, environmental protection and sound economic operation of plant and       equipment and we are committed to distributing our expertise on this       topic, particularly with a view to accident prevention.
+This UoAs close       working relationship with Bolt Science is both longstanding and on-going       and we are co- partners in developing a campaign which aims to highlight       the outcomes of this research to an even wider commercial audience through       the IMechE.
+Some details of this work has already been highlighted in       trade press (1) and on the Bolt Science web site (2), but the main       significance of the research is that it has informed commercial and       industrial practice through the training and consultancy activities of       Bolt Science.
+Consultancy Activity:       Not all consultancy activities can be revealed here due to the nature of       confidentiality agreements between clients and Bolt Science.
+However,       three Case Studies of consultancy activities which highlight the       significance of the knowledge gained during the research cited are given       below.
+Consultancy 1: Greyrigg Rail Accident Enquiry / Network Rail       In February 2007 a Virgin West Coast Pendolino service suffered a serious       derailment in a fatal accident at Greyrigg, Cumbria during a journey from       London Euston to Glasgow.
+In a Public Inquiry in 2011 the cause of the       accident was traced to the condition of a "stretcher bar" in points at a       "crossover" which had nuts that had become detached from the bolts.
+The       derailment was a direct result of the failure of the bolts/nuts to hold       the rail structure together.
+Former PhD student Bill Eccles (as Bolt Science) acted as a consultant to       the Rail Accident Investigation Branch (RAIB) and then subsequently to the       Office of Rail Regulation to assist in establishing the root causes of the       accident and assessing the effectiveness of proposals to rectify the       issues on the rest of the points in the rail network.
+This involved       working with these organisations completing analyses to determine the       structural integrity of the joints and explaining, quoting when       appropriate published research, the cause of the joint failures.
+Bill       Eccles was also requested to look at the proposals to implement changes to       the rail network to prevent a recurrence of the failure.
+Prevailing type       nuts were on the original installation and the research cited above in (2)       provided an explanation of why these nuts became detached from the bolts.
+The research in (2) above was also used to guide the selection of a       locking fastener to be used in this application by Network Rail to prevent       a recurrence of the accident.
+[text removed for publication]     Consultancy 2: Electricity Supply Board (ESB) for Ireland       ESB use special four wheel drive [text removed for publication] trucks for       the maintenance of the electricity network in Ireland.
+For a number of       years there had been issues with the wheel fixing.
+Due to the failure of       the wheel fixing, the wheels can become detached leading to significant       risk to the occupants of the vehicle as well as other road users.
+This was       an on-going problem for a number of years with the manufacturer contesting       that it was a maintenance issue.
+There was strong evidence to indicate       that relative movement has occurred on some vehicles resulting in wear and       failure of the wheel bolts.
+The manufacturer's recommendation included a       specific torque value applied to dry nuts.
+Based upon the research completed at UCLan and cited in (1) above it was       recognised that repeated tightening of the same nut would result in a loss       of bolt load due to frictional changes.
+Tests were completed to       investigate the effect based upon the methodology from the UCLan research.
+The tests show that without any lubrication applied, there is a       significant drop off in the load provided by the bolt for a given       tightening torque.
+The drop off in the clamp force is significant, with       the nut dry, by the 20th tightening the bolt load was a third of the first       tightening.
+To prevent recurrence of the problem, lubrication of the nuts       is now being conducted together with an increase to the tightening torque       specification.
+Consultancy 3: [text removed for publication]       A number of cases of wheel detachment have occurred on a [text removed for       publication].
+Based upon anecdotal evidence the wheel detachment generally       occurred following the wheel being removed and re-secured.
+The existing       bolts had a 60&#176; cone connection with an electro-zinc plated (EZP) finish.
+Based upon the findings of the UCLAN research cited in (1) above, it was       suspected that the use of an EZP finish would lead to an increase in       friction when the bolts were re-tightened and a subsequently drop-off in       the clamping load provided by the bolts.
+Subsequent tests proved that this       was the case.
+To resolve the problem the fastener finish was changed to a       zinc flake finish with a dry lubricant top coat.
+The tightening torque was       also adjusted.
+The new finish had a lower and more repeatable friction       characteristics which together with the modified tightening torque allowed       a doubling in the load provided by the bolts.
+This was implemented as a       service fix and onto new production.
+[text removed for publication].
+Training Courses:       One of the main activities of Bolt Science in to deliver training courses       to engineering practioners and decision makers worldwide.
+Some of this       training is delivered on a confidential basis, but customers include:       [text removed for publication].
+The training courses are generally delivered to Engineers and in       particular, Design Engineers, working in organisations that are end users       of fasteners.
+Since January 2010 approximately 40 training courses have       been completed to roughly 600 Engineers.
+[text removed for publication].

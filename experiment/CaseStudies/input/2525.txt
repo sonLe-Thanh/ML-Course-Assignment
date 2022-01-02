@@ -1,0 +1,33 @@
+     4.1.
+Quantitative overview     NLTK is widely used in higher education courses, covering topics such as       natural language processing, computational linguistics, empirical       linguistics, cognitive science, artificial intelligence, information       retrieval, and machine learning.
+NLTK has been used in more than 150       different courses, distributed across universities in 23 different       countries as reported on the NLTK web site at         https://sites.google.com/site/naturallanguagetoolkit/courses.
+Two specific examples involving NLTK's semantics components are Stanford       University's Natural Language Understanding course and Robin Cooper's       Computational Semantics course at the University of Gothenburg.
+4.2.
+Dissemination of NLTK     In July 2007, the NLTK project leaders (who were in California presenting       a three-week course at the LSA Summer School, Stanford) were invited to       give a presentation at the Bay Area Python Interest Group (BayPIGgies),       held in Google's Mountainview headquarters.
+This attracted an audience of       70 non-academics and initiated a dialogue with non-academic users of NLTK       that continues today.
+4.3.
+Route to impact     NLTK enthusiasts in academia have taken the toolkit on to their       subsequent work in industry.
+In 2007, Nitin Madnani, then a PhD student at       the University of Maryland, published an article in ACM Crossroads       magazine [A] reporting on his positive experiences with using the Natural       Language Toolkit.
+In 2010, he took up a position with the Text, Language       and Computation group of the Educational Testing Service (ETS, http://www.ets.org/)       at Princeton, New Jersey and continued to work with NLTK there.
+The       Educational Testing Service is a non-profit organization, which operates       across more than 180 countries.
+NLTK performs core NLP tasks at ETS and       forms an integral part of their TextEvaluator project.
+Nitin Madnani       revised his ACM Crossroads article when at the ETS, making an updated       version of his ACM Crossroads paper available on his web page in August       2012 [B].
+4.4.
+Importance of NLTK to the Python community     In November 2012, the Python Software Foundation awarded funding to help       port NLTK to Python 3, and made the following comments to explain its       decision [C]:     For many, NLTK is one of the major remaining roadblocks to Python 3         adoption.
+As many projects have been ported and many more are working on         it, getting NLTK on Python 3 will be huge for the community.
+...Not only will the NTLK port be a boon to wider Python 3 adoption,         but it should provide a good story for others to lean on when porting         large codebases, especially when it comes to working with Python 3's         Unicode implementation.
+This support led to the release of the NLTK 3.0 alpha version in January       2013.
+4.5.
+Availability and use of NLTK     NLTK code is available under the Apache License, Version 2.0, and the       documentation is available under the Creative Commons       Attribution-Noncommercial-No Derivative Works 3.0 United States license.
+NLTK is distributed via numerous routes, including            PyPI &#8212; http://pypi.python.org/pypi/nltk/2.0.4        Ubuntu &#8212; http://packages.ubuntu.com/lucid/python-nltk         and       Github &#8212; http://github.com/nltk/nltk.
+Between 1st January 2008 and end of July 2013, we have       evidence of 546,936 downloads of the code (in both source and binary       formats), comprising:            50,854 downloads from Sourceforge as reported on the web page http://sourceforge.net/projects/nltk/files/stats/timeline?dates=2008-01-01+to+2013-07-31        217,471 downloads from Google Code  as reported on the web         page http://code.google.com/p/nltk/downloads/list         and       278,611 downloads from PyPI.
+This figure is obtained by appending each         of the version numbers 2.04, 2.0.3, 2.0.2, 2.0.1, 2.0.1rc4, 2.0.1rc3,         2.0.1rc2-git, 2.0.1rc1, 2.0b9, 2.0b8, 2.0b7, 2.0b6, 2.0b5 and 2.0b4 to         the URL http://pypi.python.org/pypi/nltk/           These download figures do not include project downloads from Github,       since the relevant information is not made available.
+4.6.
+Reach of the NLTK project     The publication of the book Natural Language Processing in Python       [6] greatly aided the dissemination of NLTK.
+The book has undergone its       third printing.
+A Japanese translation is available [D].
+Independently, a       developer in the NLTK community has written a companion NLTK `cookbook'       [E].
+The website stackoverflow.com is a popular forum where users can       post technical questions about software and receive answers from relevant       experts.
+It lists more than 2,400 questions concerning uses of NLTK, the       earliest of which is from August 2008 [F].
+The mailing lists that are specifically for NLTK users and developers are       active and the list maintainers see a steady stream of requests to join       these groups.
+Between 14 December 2011 and 12 December 2012, 964 people       joined the NLTK-users mailing list [G], and since 11 November 2011, 240       have joined the mailing list for NLTK developers [H].

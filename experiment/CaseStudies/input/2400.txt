@@ -1,0 +1,36 @@
+     Impact on Animal Welfare / 3Rs:            The number of animals used in biomedical research relating to         polygenic diseases has been substantially reduced as a result of         Nichols' work.
+In order to calculate the impact of this new method on         the number of animal lives saved, Nichols contacted all those whom she         has trained in the technique, and/or who have received relevant ES cell         lines and protocols from her lab.
+Of 80 people contacted, 36 responded         (45% response rate).
+Since the protocol's release, 149 transgenic         modifications have been developed in vitro by those who         responded to the survey, using ES cells derived directly from the mouse         strain/genotype of interest (using only 20 mice per gene), rather than         through backcrossing to the required strain (requiring 10 generations,         and around 200 mice per gene).
+Hence per gene, 180 fewer mice needed to be used: so in total an         estimated 26820 (149x180) mice were saved due to Dr Nichols'         methodology.
+In reality the number is likely to be greater, when taking         into consideration the research of those who did not respond.
+Ref.
+1 in Section 5 provides evidence of where the technology has been       taken up.
+In 2009, in recognition of her original contribution to scientific and         technological advances in the 3Rs, Dr Nichols was awarded the annual         prize of the National Centre for the Replacement, Refinement and         Reduction of Animals in Research (NC3Rs; an independent scientific         organisation, tasked by Government to encourage and reward high quality         research which has a positive impact on the use of animals in the life         sciences) (Ref.
+2, Section 5).
+Impact on Practitioners:       Dr Nichols has since 2009 trained practitioners from biomedical companies,       transgenic facilities and research institutions, teaching the new       methodology both to individual external visitors to her lab, and through       bespoke courses (Refs 3-5, Section 5).
+Training activities with global       reach (Europe, North and Latin America) included:            `Derivation of ES cells in 2i medium' workshop, Cambridge 5-7 July         2010 (Ref.
+3, Section 5): Dr Nichols' NC3Rs prize included a grant of         &#163;10k, and she used these funds to run a workshop at the Department of         Pathology and Clare College to train 28 delegates (7 from industry, 21         from research institutes) across the world in this ground-breaking         technique.
+The participants comprised:         Managers who provide transgenic expertise in international companies:         Polygene (Switzerland; 1 participant), Stem Cell Sciences (US and         Europe; 2 participants), Regeneron (US; 1 participant) other industry         representatives at the workshop included Leica (1 participant),         Millipore (1 participant) and HamiltonThorne (1 participant) Transgenic         Facility Managers from Spain, the UK, the US, Switzerland, Hungary,         Italy, the Netherlands, Sweden, Finland, Germany, Denmark and Austria       Latin American "ES cells as a model system for embryonic development"         courses, Brazil 6-21 February 2009 &amp; Mexico 27 February-17 March         2011 (Refs 4-5, Section 5): a total of 44 delegates from research         institutions were trained by Dr Nichols during these two-week long         courses.
+8 visitors to CSCR have been trained in the technique by Dr Nichols         since 2009 (Ref.
+1, Section 5).
+Dr Nichols contacted all those who have participated in the above       training activities (80 in total); of the 36 respondents 30 indicated that       they are now using the 2i protocol (83%), and one has included the methods       taught by Dr Nichols into their own teaching programmes (Ref.
+1, Section       5).
+Commerce and economy       A business has adopted a new technology; performance and operation have         been improved The company Polygene have been trained by Nichols in       the 2i methodology, and now use it routinely.
+They testify that "this has       saved the use of ca 16200 mice for us [...] 2i helped to improve the       success rate of ES cell derivation [...] we were able to reduce injection       days per project [...], since using 2i we are able to give guarantees on       [..] germline transmission."
+(Ref.
+6, Section 5)       New products commercialised; positive impact on performance and         employment       The work of Dr Nichols and colleagues on the 2i methodology enabled the       company Stem Cell Science in 2009 to bring two new 2i-based culture media       products to market (GS1-R and GS2-M).
+They testify that this has had a       positive effect on business performance and employment in their company       (Ref.
+7, Section 5).
+A business has invested into R&amp;D       The biotech company Crescendo Biologics Ltd have generated ES cells using       the 2i method, and are evaluating their use for screening and for       cryostorage of transgenic lines, as an addition to embryo cryopreservation       (Ref.
+8, Section 5).
+Cost savings in medical R&amp;D       Because mice with the required genetic profile for studying the link       between genotypes and disease mechanisms can now be bred within a single       generation (ie in 10 weeks, compared to ~100 weeks previously for       backcrossing, needing 10 generations), the associated research costs have       also been reduced by a factor of 10.
+Based on the data available from the       responses to our survey (Ref.
+1, Section 5), and on cage costs in       Cambridge, a minimum of &#163;529k within the eligible period is estimated to       have been saved.
+This was calculated as follows:       Previously, using back-crossing, for each gene 20 mice had to be housed       for 100 weeks, now only for 10 weeks.
+This saves 90 weeks of cage       costs for 20 mice per gene.
+To provide a conservative estimate, full       occupancy is assumed (5 mice/cage), ie 4 cages for 20 mice.
+Ie the       cost of 90*4=360 cage-weeks has been saved per gene.
+A cage-week in       Cambridge costs &#163;10 (this number will vary between institutions and       countries, but serves as an indicative value), ie &#163;3600 have been       saved per gene.
+As indicated above, our survey has identified that so far 149 genes       have been bred into mice models using Nichols' 2i methodology.
+This equals       &#163;3600*149=&#163;536400 in cage costs alone that have been saved.

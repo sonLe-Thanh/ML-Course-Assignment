@@ -1,0 +1,27 @@
+     TgK Scientific Ltd is a Wiltshire-based SME that employs six people and       produces instrumentation for transient kinetics and spectroscopy.
+This       company has commercialised a new instrument that allows the study of fast       biological reactions by rapid scanning Fourier Transform Infrared       Spectroscopy.
+This FT-IR Stopped-Flow instrument is the only instrument on       the market to fulfil this role.
+It is able to meet customer needs by       incorporating the cuvette designed and fabricated at the University of       Birmingham.
+"The innovative cuvette design has made it possible for TgK         to commercialise an IR stopped flow instrument, responding to customer         demand" (s1).
+The company specialise in products used to characterise fast reactions in       solution:- stopped-flow, temperature-jump, rapid quench-flow and other       more specialised variants of these such as high pressure stopped-flow, low       temperature stopped-flow and stopped-flow for FT-IR.
+They had an initial       request from researchers at the University of Manchester (Professor Nigel       Scrutton, Faculty of Life Sciences) for an instrument to study specific       enzyme reactions by IR spectroscopy.
+TgK were aware of Wharton's work, and       were able to combine his cuvette with their sample delivery technology and       the Bruker VERTEX 80 FT-IR spectrometer to produce an innovative Stopped-       Flow instrument that has been successful in the market.
+Since 2008, there have been nine sales of the instrument: two in the UK,       two in South Africa, one in the USA, three in Germany and one in China;       hence seven of the nine have been exported.
+This has produced sales income       of around ~&#163;200,000 over the four-year period.
+Four of the sales were in       2012, with these generating around 10% of the company's &#163;800,000 turnover       in that year.
+The product has enabled TgK to extend their product       portfolio and boost sales performance at a time when the instrument market       was under pressure.
+The Birmingham contribution to instrument is the cuvette; the unique       design enables biological materials to be mixed and observed after 2-3 ms.       Two incoming liquids are rapidly mixed and uniformly spread across the       observation chamber within the cuvette whilst displacing evenly the liquid       that is already present.
+This allows enzyme-catalysed reactions which have       non- chromophoric substrates to be studied in physiological conditions.
+The flow cuvette which is central to this product was designed by       Wharton's group with the support of engineering colleagues at Birmingham.
+The cuvettes continue to be fabricated in the workshop in the School of       Bioscience, and have generated an income of &#163;47,811 for the University       since 2008.
+TgK believe that this collaboration has allowed a novel product to be       commercialised.
+IR as a technique is particularly useful for studying       molecules that have no chromophore.
+It is also a very complementary       technique to CD in studying protein structure.
+Applications have varied       from protein folding and enzyme kinetics to inorganic chemistry including       studies in transition metal catalysis and novel energy production.
+Feedback from TgK customers demonstrates the value of this product to       them and its unique nature (s2, s3, s4).
+A customer at the       University of East Anglia said "We make very regular use of the         stopped-fb02ow system, which allows us to follow organometallic         reactions in a sub-second timeframe.
+Only stopped-fb02ow methods offer         the possibility to examine reactions in this way, and for the systems we         are most interested in only stopped-fb02ow IR offers the detail we need.
+To the best of my knowledge, the Tgk Scientifb01c system featuring the         University of Birmingham cell is the only commercial set up available to         carry out this work."
+(s3)     Another customer at the Manchester Institute of Biotechnology has       confirmed that they do use the cell in their stopped-flow IR instrument.to       analyse any intermediates and products that are formed during reactions       catalysed by enzymes.
+He said "In some cases it is only possible to         study these species by using IR light.....As far as I know this is the         only instrument that is capable of these measurements."
+(s4)

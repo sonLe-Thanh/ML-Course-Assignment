@@ -1,0 +1,31 @@
+     Research at the University of Liverpool has collectively improved       understanding of the genetic basis of drug-induced hypersensitivity and       provided "proof of principle" for the clinical use of genetic testing       before prescribing drug therapy.
+UoL research has contributed to changes         in the prescribing information for two widely used drugs,       carbamazepine and abacavir.
+The prescribing information has been revised       to include information on the genetic predisposing factors to       hypersensitivity reactions caused by these two drugs; clinical         guidelines have also been changed for abacavir to reflect the need       for genotyping prior to drug administration.
+The research has impacted on       the clinical care and lives of patients with chronic diseases such as       epilepsy, bipolar disorder, neuropathic pain and AIDS.
+Therapy has been       optimised by individualising drug prescription to a patient based on key       characteristics such as genetic factors.
+This reduces the risk of severe       and potentially fatal ADRs.
+Abacavir hypersensitivity     The study showed that it would be cost-effective to undertake       pre-treatment screening for HLA- B*57:01 to predict susceptibility       to abacavir hypersensitivity [2].
+This has led to the following impacts.
+Clinical guidelines from societies, e.g.
+the British HIV Association,         were changed in 2008 to recommend testing for HLA-B*57:01 before         the use of abacavir [7].
+This is now well established in NHS practice.
+The drug labels (i.e.
+prescribing information) were changed in the US,         EU and Australia after 2008 to recommend the use of HLA-B*57:01         genotyping prior to the use of abacavir [8-10].
+The evidence from the UoL study was used by the NHS to implement the         use of the HLA-B*57:01 testing in HIV clinics from 2006.
+This has led to         a marked reduction of the incidence of abacavir hypersensitivity (from         7.8% to 2% [11]).
+It is now rare to see any cases of abacavir         hypersensitivity in clinical practice to the benefit of patients &#8212; this         has been demonstrated in a publication from the Chelsea and Westminster         HIV clinic which showed that the incidence of hypersensitivity had gone         down from 7.8% to 2% [11]       The number of HLA-B*57:01 genetic tests undertaken in the NHS rose         sharply after 2006, and at the same time the use of abacavir also         increased (see figure), and continues to the present day.
+Most of the HLA-B*57:01 testing was provided by Delphic       Diagnostics, a University of Liverpool spin-out company (co-founders were       Prof Khoo and Back, Dept of Pharmacology, UoL).
+Delphic was bought out by       Lab21 in 2009.
+Total number of tests in 2007-08 and 2008-09 were 3,493       (revenue &#163;186,850) and 1,908 (&#163;100,630) respectively.
+Figure: The increase in HLA testing and at the same time, the rise in the use of abacavir (kivexa)      The importance of this work is confirmed by a case study by The Academy       of Medical Sciences in 2012 [12].
+Pre-prescription genotyping for HLA-B*57:01       is now used in most countries and has also been shown to improve clinical       outcomes (i.e.
+reduce hypersensitivity) in Australia and France, and has       been shown to be cost-effective in several countries including the US and       Germany.
+Carbamazepine hypersensitivity     UoL research showed susceptibility to carbamazepine hypersensitivity       reactions in Caucasian patients was localised to the MHC, but that the       risk factor in Caucasians was distinct to that demonstrated in Chinese       patients [3].
+Thus, in Caucasians, HLA-B*1502, is not a risk       factor for SJS/TEN and for hypersensitivity syndrome, two distinct       phenotypes associated with carbamazepine treatment.
+This publication was       utilised by the FDA, who in December 2007, recommended that patients of       Asian ancestry, but not Caucasians, should be tested for HLA-B*1502       prior to the start of carbamazepine therapy [13].
+The drug label was also       changed in the EU in 2008, again recommending the use of testing in Asian       patients, but not in Caucasians [14].
+The continuing work of UoL in this area has recently identified HLA-A*31:01       as a genetic risk factor for carbamazepine-induced hypersensitivity       reactions in Caucasians [5].
+The prescribing information for carbamazepine       has been changed in Japan, in the EU and in the US since 2011 making       prescribers aware of the association between this allele and carbamazepine       hypersensitivity in Caucasians [15].
+In 2010, the UoL became the global co-ordinating centre for the       International Consortium on Drug Hypersensitivity (ITCH), sponsored by the       International Serious Adverse Events Consortium (iSAEC) (http://www.saeconsortium.org/).
+We have now recruited 1500 patients with hypersensitivity reactions from       12 international centres, and 50 UK centres.
+In 2013, we were awarded an i4i grant from the NIHR in collaboration with       MC Diagnostics to develop a HLA-testing biomarker panel which can       simultaneously test for multiple HLA alleles at a low cost (&lt;&#163;20) with       turnaround time of &lt;48h.

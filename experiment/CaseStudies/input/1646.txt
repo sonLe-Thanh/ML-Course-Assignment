@@ -1,0 +1,26 @@
+     The research has had significant impacts through summer schools and       public engagement, and the most significant impact has been through the       development (by Dalziel Research Partners) of commercially-available,       user-friendly, flexible software tools.
+The development of particle tracking velocimetry and dye attenuation       techniques drove the development (by Dalziel Research Partners) and       marketing (through Cambridge Environmental Research Consultants Ltd.) of       DigImage, a video-recorder based image processing system designed       specifically for analysing fluid mechanics laboratory experiments.
+DigImage incorporated both specific techniques from Dalziel's published       research and solutions to many technological hurdles that Dalziel       overcame.
+Although development of DigImage ceased in 1999, its impact on       the community was such that it continues to be used in at least three       laboratories outside Cambridge and has had continued impact as new results       obtained using it continue to be published (e.g.
+Ansong &amp; Sutherland       2010; Corner et al.
+2011; Read &amp; Risch 2011) and otherwise influence       science and technology (e.g.
+the incorporation of ideas originating in       DigImage in a recent patent; Dey et al.
+2010).
+To accommodate the development of synthetic schlieren along with the       transitions to digital video and 32-bit Windows, Dalziel replaced DigImage       with DigiFlow in 2005.
+This new system (now available directly from       Dalziel Research Partners with licences costing up to &#163;14,000) has been       widely adopted internationally, with in excess of 370 licences being       issued to research laboratories at 163 sites across 36 countries (around       160 of these over the period 2008 to June 2013).
+Based on the Times Higher       Education Rankings for in 2012/13, DigiFlow is used in seven of the top       ten and over half of the top twenty universities (these figures apply       whether considering the rankings for Engineering, Physical Sciences or       Reputation).
+The installed base of DigiFlow users continues to grow with       major new installations during 2012 in China, Russia and two Baltic       States, in addition to the more traditional western economies.
+The flexibility and capability of the tools developed through Dalziel's       research is also reflected in recent publications by DigiFlow users.
+These       span the range of fluid flows ranging from natural ventilation to oceanic       internal waves.
+They continue to exploit Dalziel's key underpinning       research of velocity measurement (Drazen et al.
+2011; Park et         al.
+2012), dye attenuation (e.g.
+Hunt &amp; Coffey 2010) and       synthetic schlieren (Peacock et al.
+2008; Wang et al.
+2012), although a complete list of the uses to which DigiFlow is put is       much broader.
+The influence of Dalziel's research, through its commercialisation by       Dalziel Research partners, has had an enduring impact.
+As one academic       user (Professor of Fluid Dynamics, University of Dundee) says, "I have         colleagues and collaborators at other institutions across the UK and all         over the world who have had a similar experience and come to utilise or         rely on DigiFlow for many of their laboratory diagnostics.... the use of         DigImage and DigiFlow has had a profound, continuing impact not only on         my own research, but the geophysical and environmental fluid dynamics         communities as a whole across the world".
+This influence extends       beyond academia, with industrial use of DigiFlow ranging from the oil       industry to ship building.
+Here, the advanced algorithms and pioneering       techniques developed by Dalziel are particularly valued: "We have         invested in very expensive equipment and software for Particle Image         Velocimetry, but have additionally chosen to invest in DigiFlow on the         grounds of a higher quality software with superior capabilities and         better access to support... We are applying this technique [synthetic         schlieren] to measure both surfactants and crystals... which are of         extremely high industrial importance in many process systems."
+(Department Head, Process Technology and Fluid Flow, Institute for Energy       Technology, Norway).
+Indeed, even the first techniques developed by       Dalziel are finding new uses in industry as illustrated by       Schlumberger-Doll Research Center's recent purchase (July 2013) of       DigiFlow to undertake particle tracking measurements.

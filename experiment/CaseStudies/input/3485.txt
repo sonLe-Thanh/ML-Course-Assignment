@@ -1,0 +1,33 @@
+     Design thinking in business       Roy's early studies of design and creativity (Reference 3.2) and Cross's       work (Reference 3.1) in the Design Thinking symposia, particularly the       Delft Protocols Workshop of 1994, provided persuasive, foundational       arguments on the value of design thinking to economic performance.
+IDEO,       one of the world's largest design consultancies, used these findings and       developed design thinking as a major thread of its business.
+This thread       was led by David Kelly, one of IDEO's cofounders in 1991, and applied by       the CEO Tim Brown in 2003 to transform IDEO's core business; replacing       `design' with `design thinking' in a move from designed object to design       process.
+These principles (Source 5.1) remain at the core of IDEO's       business.
+More broadly, several practitioners have applied design thinking       as a major element in their business.
+Specifically we point to Liz Sanders       (Source 5.2), founder of MakeTools, and recently at SonicRim, a global       design consultancy.
+In 2004 David Kelly founded Stanford University's cross-disciplinary       design `d.school', where design thinking is an underlying theme.
+The       impacts of design thinking on business are further exemplified through the       fact that a major force behind the d-school was Hasso Plattner, cofounder       of global IT solutions company SAP.
+Further evidence for the wide uptake       in business are two Radio 4 In Business programmes on the theme of       design thinking in the last 4 years (Source 5.3).
+Industrial strategy and public policy       Key concepts in design thinking, especially those in creativity and the       exploration of problem-solution pairs, arose from industry case studies on       expert designers such as James Dyson (Reference 3.2) and formula one       designer Gordon Murray (Reference 3.3).
+These and other industry cases       have been pivotal in changing how design is taught and practised in a       range of domains, including software design (see below).
+In 2002 Steven Kyffin (then Senior Director of the Design Research and       Innovation at Philips Design, Eindhoven), when presenting industry cases       for a OU course T211 Design and Designing (2005-2012), emphasised the       impact of Nigel Cross' work on Philips' product development       strategy.
+Currently, as Dean of Design at Northumbria University, he       champions design thinking in educating new generations of design       practitioners.
+Many designers, for example Kenneth Grange (Source 5.4), can attest to       the influence of the OU's design thinking research on professional       practice.
+Wider influence on public policy is evident in several ways.
+including the role of Kees Dorst (co-author with Cross of 3.1.and 3.4) as       a policy advisor to Barak Obama's 2012 presidential election campaign on       the applications of design thinking to societal problems (Source 5.5).
+Creativity and design thinking are now recognised as important elements in       policies for economic growth both nationally and internationally: for       example, the UK Design Commissions 2012 report on design education and       growth (Source 5.6) and the discussion by Tim Brown at IDEO of the role of       design thinking at the Davos World Economic Forum in 2008 (http://designthinking.ideo.com/?p=95).
+Public engagement and awareness of design in everyday life       Design thinking research has changed public awareness of design,       connecting the professional and practice concerns of designers with the       perceptions and needs of design users and consumers.
+For example, the       Gordon Murray case detailed by Nigel Cross (reference 3.3) figures       on the widely accessed public AutomotiveForums (Source 5.7) discussion       lists under a `Winning by Design' thread.
+Also OU researchers have a wide       reach through public access to extensive OpenLearn and iTunesU design       materials (Source 5.8).
+The Design Thinking symposium series continues to be an influential force       across the discipline, both in practice and public domains.
+Its evolution       from a focus on individual designing towards social contexts and       collaboration has lifted it into the public domain.
+Data from real-world       social aspects of design thinking in architecture and engineering came to       the fore in the 2008 DTRS 7 symposium.
+The building that formed the       subject of the study in architecture &#8212; Milton Keynes crematorium &#8212; has       since won national awards.
+These ideas, through Peter Lloyd as OU       series advisor, strongly influenced the production, by Mike Christie at       Renegade, (Source 5.9), of the Channel 4 television series The Secret         Life of Buildings, watched by 3 million people and achieving       national media coverage (Channel 4,Evening Standard).
+Cross-over between disciplines       The application of design thinking in the domain of software engineering       has changed its professional practice and education.
+In particular DTRS       methods were directly applied at the US National Science Foundation funded       `Studying Professional Software Design' (SPSD) workshop in 2010 at UC       Irvine, co-chaired by Andre van der Hoek (Source 5.10).
+This impact can be       traced through the Design Thinking symposium series, especially DTRS7       where Fred Brooks made significant contributions.
+He references design       thinking in his 2010 book The Design of Design: essays from a computer         scientist (Source 5.11).
+This served to confirm an original aim of       design thinking, namely to cross discipline boundaries through       establishing principles of design which are independent of domain.
+This       impact was validated in SPSD with contributions by leading design thinking       researchers including Nigel Cross.
+More indirectly SAP through       supporting the Hasso Plattner Institute at the Stanford d-school,       evidences that design thinking underpins the design of major software       products and services.
+Such transformation of a professional practice       through analysis and reflection by researchers and practitioners has been       a feature of the impact of design thinking across discipline boundaries.

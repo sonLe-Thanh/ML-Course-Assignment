@@ -1,0 +1,19 @@
+     The unique properties of PCFs (described above) open up new ways to       manipulate and control light, benefiting applications such as medical       imaging (eg.
+fluorescence lifetime imaging, optical coherence tomography       and optical molecular imaging) [6], spectroscopy, physical and biomedical       sensing [7], laser gyroscopes (used in critical navigation and defence       systems) [8] and materials processing.
+Commercial activity at Bath began with several key patents filed from       1998 with Birks, Knight and Russell as inventors [9].
+Together with a Bath       spin-out company BlazePhotonics, these patents were sold to Danish firm       "Crystal Fibre" for $3.3M in 2004.
+Now part of NKT Photonics [10], Crystal       Fibre's capability also derived directly from Bath know-how following our       collaboration with its co- founder Broeng [2,11].
+The PCFs sold by NKT       Photonics during the REF period were therefore based on our original       expertise and patents.
+The company also incorporate PCF as a key enabling       component in many of their fibre laser products.
+In their 2010 Annual       Report, NKT state that the "addressable market for crystal fibers is       valued at around 200-400 mDKK annually" [12], equivalent to $35M-$70M       annually.
+"Addressable market" is the total size of a market [13].
+CPPM remain engaged with the needs of industry and indeed some of NKT       Photonics's newest custom fibre products were supplied directly by us       under contract.
+Commenting on this deal, the CEO of NKT Photonics said "We       are pleased that we can continue to serve our customers with these leading       edge fibers, and along with the help and expertise of the University of       Bath, demonstrate our continued leadership and commitment in the area of       hollow core fibers" [11].
+Several other companies sell systems incorporating types of PCFs       invented, designed and demonstrated by the Bath team, such as Leukos SA       (France) [14] and B&amp;W Tek (USA) [15].
+A major PCF application is       microscopy, and the market leading Leica TCS SP8 X confocal microscope       employs PCF in the excitation source [16].
+Another key application is the       optical comb marketed by Menlo Systems for precision metrology and       standardisation [17].
+Menlo itself arose from the laboratory of one of our       German collaborators, in part because of our contribution to the work for       which he was awarded the Nobel Prize in 2005 [18].
+The US military uses       PCF for high-power military sensors and gyroscopes [19].
+Throughout the REF period, the leading optical components vendors Newport       Corporation [20] and Thorlabs [21] sold "off-the-roll" PCFs made by       BlazePhotonics and NKT Photonics and based on our designs.
+They offered 15       and 25 PCF products respectively, priced between &#163;80 and &#163;1100 per metre,       for a variety of industrial and academic applications such as those       described above.
+PCF on a spool, sold by Newport Corporation 	       In summary:            Photonic crystal fibres represent a revolutionary waveguide technology         that was pioneered and developed by the University of Bath team       Their unique properties have a multitude of applications       Businesses derived directly or indirectly from our research outputs         serve a worldwide market worth several tens of millions of dollars         annually

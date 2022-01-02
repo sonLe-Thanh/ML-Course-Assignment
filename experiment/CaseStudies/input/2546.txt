@@ -1,0 +1,27 @@
+     The research findings were used by Laurie to design, test and implement       the Good Governance       Framework (GGF) for SHIP.
+This is based on a series of principles and       instances of best practice.
+The GGF was successfully launched in 2012.
+The principal users of the GGF are: (i) custodians of health data, such       as NHS Scotland, National       Records Scotland (NRS), and Caldicott Guardians with special remit for       patient confidential data,       and (ii) medical and statistical researchers seeking to link data.
+All       were involved in the design of       the GGF.
+Accordingly, the impact can be considered (1) at the level of the       governance community,       and (2) at the level of the researcher community (5.1, 5.2 and 5.3).
+A       central feature of the claim to       impact has been success in overcoming a prevailing `culture of caution'       concerning data linkages.
+There are three elements to impact.
+(1) Impact on the governance community     Laurie was uniquely placed to act as a conduit between the academy and       the governance       environment because of his position as Chair of the Privacy Advisory       Committee (2005-2013)       (5.7).
+Scottish Chief Scientist (Health), Professor Andrew Morris, has       said: `In concrete terms,       Laurie's research since 2009 led to the adoption of entirely novel       proportionate governance       mechanisms by key data linkage decision-making bodies within Scotland,       such as the Privacy       Advisory Committee which acts as sole advisor to NHS National Services       Scotland and National       Records of Scotland &#8212; two of the largest and most influential data       custodians in the country.
+This       has resulted not only in faster turn-around times for linkage approvals,       but also to greater       transparency and accountability of the governance systems, leading &#8212; we       believe &#8212; to more trust in       health-related research as a crucial dimension of public benefit and       economic growth in Scotland.
+These changes have been directly instrumental in securing Scotland's       position as a Go-To country       for safe, secure and effective health-research' (5.1).
+(2) Impact on the health researcher community     The implementation of the SHIP GGF delivers faster, more transparent and       consistent access to       researchers, within and beyond the NHS.
+Furthermore, the research       identified an unmet need for       training on the legal, ethical and governance issues related to data       sharing in medical research.
+This resulted in the design and delivery of an online training module to       accredited researchers to       use SHIP.
+This was piloted by Laurie and Sethi with twenty members of the       active research       community in March 2012 and launched in the same year.
+It has since       accredited 56 researchers       (5.8 and 5.9).
+Dr Hester Ward, Medical Director in NHS Scotland National Services said:       `The online SHIP       Information Governance Training Course, which was developed by Professor       Laurie and       colleagues, has become integral to the process of becoming a "SHIP       approved researcher".
+Completion of this course helps NSS to ensure that only "safe people" who       have been trained       appropriately and understand their legal obligations, gain access to       sensitive information.
+Professor Laurie's work has helped NSS to both develop our information       governance processes       and ensure that researchers are aware of their legal obligations.
+These       contributions have had a       significant impact on making sure that research, which is in the public       interest takes place, whilst       also ensuring the ongoing maintenance of the privacy of citizens'       information' (5.2).
+Since       deployment of the GGF and to 31 July 2013, NHS Scotland National Services       had received 344       applications for data linkage to be subject to the GGF proportionate       approach.
+(3) Impact beyond the health sector     The GGF has been recognised for its transferable value as a model to       promote data linkage and       key features have been taken up outside the health sector.
+The Scottish       Government public       consultation on a proposal for a National Data Linkage Centre focused on       the founding principles       for the Centre.
+These were directly taken and adapted from the Principles       and Best Practices       developed by Laurie (5.4, 5.5, and 5.6).
+According to Dr Sara Grainger, Head of Statistics Policy, Scottish       Government: `The arguments       set out by Professor Laurie and colleagues in the SHIP Working Papers on       Good Governance       formed a crucial part of the evidence-base used in developing Scottish       Government policy on data       access and analysis, published in November 2012 as "Joined Up Data for       Better Decisions".
+The       specific influence can be seen in what is now Scottish Government policy       to encourage all public       bodies to a) adopt a more proportionate approach to managing the risks       associated with data       sharing and linkage and b) place more emphasis on safe people and safe       environments, rather       than over-reliance on consent and anonymisation (safe data)' (5.3).

@@ -1,0 +1,39 @@
+     The research described above has underpinned the formation of a very       successful company, Oxford Nanopore Technology (ONT), which has attracted       more than &#163; 105M investment, &#163; 97.8M of this since 1st January 2008.
+This       very high level of investment arises as a direct result of ONT's       pioneering technology, which has the potential to revolutionise the fields       of DNA sequencing and single-molecule analysis.
+ONT was spun-out of the Department of Chemistry in 2005, founded on       intellectual property from the University of Oxford, to exploit the       technology developed by the Bayley laboratory and develop it into a       robust, commercial product.
+From the outset the company aimed to create       `disruptive technology' (one that establishes an entirely new market or       new behaviours in an existing market, thus disrupting the old one).
+From       2008 onwards, ONT forged collaborations with leading nanopore researchers       at other institutions including Harvard University, the University of       California Santa Cruz and Boston University, in addition to the company's       existing relationship with the University of Oxford.
+This work has       generated an IP portfolio for the company comprising &gt;300 issued       patents and patent applications in &gt;80 patent families, including 12       key patents arising from Bayley's work at Oxford [7].
+A new agreement in       2010, renewed in 2012, strengthened ONT's collaboration with the       University of Oxford through funding (&gt;&#163; 2M) for the Bayley laboratory.
+The deliberate decision to engage multiple institutions with relevant IP       has given ONT a world-leading position in nanopore sensing and ensured       that a UK-based company stands to profit from the enormous potential of       this technology, with associated benefits to the UK economy.
+In February 2012, ONT revealed the GridION system at the Advances in       Genome Biology and Technology conference in Florida.
+GridION is a       nanopore-based platform that utilises key elements of Bayley's research,       in addition to research from other ONT partners.
+The primary emphasis of       GridION is efficient DNA/RNA strand sequencing (efficient both in time and       cost), but it can also be adapted for the direct electronic analysis of       target proteins, with applications in the discovery and validation of       disease biomarkers and the development of subsequent diagnostics (e.g.
+in       relation to drug response or status of a disease).
+ONT has revealed that       the technology within the GridION platform can be miniaturised into       MinION, a portable device for electronic single-molecule sensing that       plugs into a PC and is the size of a USB memory stick.
+These devices       measure single molecules directly, without the need for amplification of       the target molecule, fluorescent or chemical labelling, or optical       instrumentation; in addition analysis of data can be performed in real       time, and multiple nanopore measurements can be made in parallel, making       it both cheaper and faster than current sequencing technologies [8].
+MinION will be made available to selected researchers to use, assess and       evaluate from late November 2013 [9].
+Currently, ONT's nanopore-sensing technology is the only near-market       method which looks set to break the $ 1,000 barrier (it is expected that       MinION will be marketed at around $ 900), and importantly it will provide       extremely fast and robust sequencing, differentiating it from other       sequencing technologies [9].
+ONT calculates that if 20 of its       second-generation GridION nodes were used together, a human genome could       be sequenced in 15 minutes at a highly competitive cost (since the       single-molecule techniques developed at ONT do not require the cyclic       addition of reagents) [9].
+Application of this technology will not just be       in human health and personalised medicine but also in agriculture and crop       science, environmental science (e.g.
+detection of toxins in water), energy       and defence (e.g.
+detection of explosives).
+The potential global market       for `next generation sequencing' is significant: in 2012 it stood at $       232M and is expected by market researchers such as BCC Research to be       approximately $ 7.6bn by 2018.
+The announcement of GridION and MinION       attracted considerable worldwide media attention from national and       international newspapers including the New York Times, Guardian, Sunday       Times and Financial Times, as well as from scientific journals including       Science.
+These reports highlighted the low cost and high speed of ONT's       devices, and the two sequencers were described as `impressive, credible,       possibly amazing' and as a potential `game-changer' [10, 11].
+The enormous potential of ONT's new technology, coupled with its wide       intellectual property portfolio and product pipeline, has generated a very       high level of investment during the impact period.
+Seed funding that       enabled ONT to be established was obtained in two rounds from IP Group in       2005, and in June 2006 the company raised &#163; 7.75M.
+Since 1st January 2008,       ONT has raised a further &#163; 97.8M (representing 92% of total investment       since company start-up) from a range of sources in the UK and the US.
+Over       a third of this (&#163; 34.1M) was raised in May 2012 almost entirely from       existing investors in the company &#8212; a clear indication of the extent to       which investors see the potential for GridION and MinION to become highly       successful.
+ONT is currently well funded for the next phase of corporate       development [12].
+The success of ONT is also reflected in its workforce.
+During the impact       period the number of people ONT employed increased nearly 6-fold, from 25       in 2008 to 145 in July 2013.
+The vast majority of current staff are       employed in research and development; they have backgrounds in multiple       disciplines including nanopore science, molecular biology and       applications, informatics, engineering, electronics, manufacturing and       commercialisation.
+ONT has UK offices in Oxford and Cambridge and US       offices in Boston and New York, and is building a commercial team in       advance of the launch of the products.
+Since 2008, ONT has also benefited       from the transfer of 3 highly-skilled staff from the Bayley laboratory.
+Two of these bring academic research expertise to an industrial R&amp;D       setting and work in application development and advanced research, and the       third works for ONT's IP team [9].
+The company was valued at $ 2bn by a       Numis Securities analyst in November 2012 [13].
+ONT made an important contribution to the 2008 - 09 House of Lords       Science and Technology Committee session on Genomic Medicine.
+ONT provided       evidence to the effect that the new technologies were advancing so rapidly       that the government needed to take action.
+This evidence helped to shape       the recommendations in the 2009 final report [14], which are now being       taken forward by the Government (for example, via the Human Genomics       Strategy Group, established by the government to address questions raised       by the report [15]).
+This influence further reflects ONT as a pioneering       leader in the field of new generation sequencing.

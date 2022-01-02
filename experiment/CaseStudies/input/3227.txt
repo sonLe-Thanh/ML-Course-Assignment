@@ -1,0 +1,48 @@
+     Since 2008, the adoption of FpML by the financial services sector has       become widespread, with 95% of the financial market participants who deal       in over-the-counter derivatives now using it at some stage in their       trading process [a], benefiting from reduced costs and risks in their       trading.
+Moreover, 22% of the non-financial market participants, such as       vendors, implement the FpML validation rules defined with xlinkit.
+These       firms have seen new revenue streams open for providing tools and services       for FpML validation.
+The current Version 5.3 of the FpML Standard that is available for these       market participants to use free of charge was released in October 2012.
+It       now defines some 500 validation rules for a large number of equity,       interest rate, credit, energy and foreign exchange derivatives.
+The first       version of FpML to include validation rules was Version 4, which was       released in April 2004.
+It had included some 15 validation rules for       interest rate derivatives.
+These validation rules help clarify the meaning       of derivative transactions defined in FpML and provide precise and       unambiguous means for market participants who use FpML to electronically       trade derivatives to validate the correctness of these transactions.
+The validation rules are included in the normative part of the standard,       which means that the financial market participants that have adopted FpML       will have to comply with these validation rules in their FpML messages.
+MessageAutomation provides a reference implementation of these rules using       its xlinkit technology, which continues to be included in Version 5.3 of       the FpML standard as an informative reference.
+As such it has informed         the adoption of electronic processing between 2008 and 2013.
+The key beneficiaries of this impact are financial services         institutions who trade in over-the- counter derivatives.
+ISDA found       the volume of these transactions in the 12 months to July 2012 was $440       trillion, about 200 times the annual GDP of the UK [b].
+These participants       benefit from the clarity and unambiguity introduced through the validation       rules defined using UCL's consistency-checking technology.
+The ability to check whether a trade meets all relevant constraints       automatically and therefore with minimal cost leads to a significant         reduction in the time it takes to confirm these transactions, with       fewer operations staff required.
+Financial market participants are exposed       to market and credit risk during the period between a trade being agreed       and its confirmation.
+This is why the time required to confirm trades is       used as a key indicator of the operational efficiency of market       participants in the ISDA's annual Operations Benchmark Surveys.
+The state of practice in derivatives processing at the beginning of the       REF impact period is characterised in the 2007 ISDA Operations       Benchmarking Survey [c].
+The survey shows the distribution of confirmation       delay, with between just 56-88% (depending on asset class) of trades being       confirmed on the day after the trade had been agreed.
+Even after five days       only 79-98% of trades had been confirmed.
+The 2007 survey did not       distinguish between electronic and manual confirmations, and stated that       many market participants were only planning the adoption of FpML for       electronic confirmation in the near future.
+It is the manual confirmation       processes, which include manual validation of these trades, which delay       the confirmation.
+The impact of the widespread adoption of FpML during the REF period is       demonstrated by the 2013 ISDA Operations Benchmarking Survey [d].
+ISDA       found a significant level of adoption of electronic confirmations       for different classes of OTC derivatives.
+The 2013 survey shows that the       adoption rate of electronic confirmations for all market participants was       92% for interest rates derivatives, 100% for credit derivatives, 76% for       equity derivatives, 82% for currency derivatives and 77% for commodity       derivatives.
+It then shows that confirmation occurred on the same day for       between 75-85% of the transactions, depending on asset class and that for       all but credit derivatives 100% of the confirmations had been sent the       following day.
+For credit derivatives 98% were confirmed the following day       and 100% the day after.
+The survey also states that the time for manual       confirmations takes between six and ten days depending on asset class.
+Thus the substantial introduction of electronic confirmation with FpML,       which can be validated automatically, has reduced manual effort and         brought down the time required to confirm derivative transactions from         up to 10 days to at most one day.
+This reduction means there is also       a substantial reduction in the period during which a financial market         participant is subject to market and credit risk because a contract       is not yet confirmed.
+Given the value of these transactions confirmed by       the FpML surveys, this risk reduction is very significant.
+Some financial market participants have stated these benefits publicly.
+In a press release issued on 25 April 2010, Citigroup announced its       adoption of FpML and stated "Benefits include ease of validation for         correctness and completeness of data, ease of processing, ease of         deployment and lower processing costs" [e].
+In 2007, the Society for       Worldwide Interchange of Financial Transactions (SWIFT), announced the       adoption of FpML for derivative messaging on its SwiftNet and confirmed       validation as one of its benefits.
+The first FpML message was traded and       validated on SwiftNet in July 2008, enabling firms that use their products       to reduce costs and risks.
+A senior vice president at SwiftNet's       client Brown Brothers Harriman said: "The primary benefit we have achieved       is improved operational risk management... Manually keying in       instructions is fraught with risk of errors, where incorrect information       could go into an accounting system and be used to strike a NAV [net asset       value] for a fund."
+[f]     Many financial market participants have implemented the FpML validation       rules in a proprietary manner.
+In addition, there are at least six       commercially available implementations of the rules.
+One of these       implementations was built by Systemwire, the UCL spinout.
+Systemwire's       FpML validator became ISDA's reference implementation, which has informed       a number of FpML implementation projects between 2008-2013 that were       required to achieve the benefit of reduced trade confirmation times [g].
+In 2004, Systemwire was acquired through trade sale by Message       Automation, a London-based specialist in financial trading systems.
+Message Automation still markets the implementation of the FpML validation       rules in a product called Validator, part of its futureLANDSCAPE solution.
+This enables the financial community to significantly reduce operational       risk and cost by imposing market standard and internal controls on the       quality of data moving around an organisation.
+The CEO of Message       Automation says: "The Validator tool was launched in 2008 as part of the       Message Automation solution set which has been adopted by several leading       international financial institutions.
+These include HSBC, Lloyds Banking       Group, Nomura, Credit Suisse, Royal Bank of Canada, Fidelity Investments,       Deutsche Bank and RBS.
+The futureLANDSCAPE solution set has generated in       excess of &#163;3 million of revenues for Message Automation Ltd., with a       significant percentage in the form of exports."
+[h].
+[text removed for       publication]

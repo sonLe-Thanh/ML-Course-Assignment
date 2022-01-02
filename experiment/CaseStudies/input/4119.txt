@@ -1,0 +1,52 @@
+     The eruption that began on Montserrat in 1995, and continues to date, has       resulted in 19 deaths (all in 1997), the emigration of two thirds of the       population and an estimated &#163;1bn in economic costs 7, mainly       borne by the UK government.
+Over this 18-year period, the scientific, governmental and social       responses to the volcano have evolved.
+At the start of the eruption there       was no observatory on the island, but now the MVO has a custom-built home       and a sophisticated network of monitoring instruments, that now includes       the radars developed by UoR, and warning procedures.
+The activity at the       volcano has waxed and waned, but one constant is that the main threat to       life has been from pyroclastic flows produced by collapses of the lava       dome that can grow for years on end.
+The short-term threat from these       flows largely changes depending on how fast the dome is growing (the       faster the more dangerous) and in which direction (the remaining populated       areas lie to the north and west of the volcano).
+MVO faced a major problem       in assessing these two hazard factors operationally: the lava dome at the       top of the Soufriere Hills Volcano is often covered in cloud, sometimes       for weeks on end.
+The Unit recognised the significance of this at an early       stage.
+Satellite radar data, that were of sufficiently high resolution to       play a useful role, were available only infrequently and under very       limited access.
+By 2000, the Unit had identified that some type of       ground-based, cloud-penetrating radar was required that could be focused       on the most dangerous parts of the lava dome.
+The development of AVTIS in       conjunction with MVO followed from that need.13 The development       to a second- generation operational version of this entirely new class of       instrument took ten years.
+The ability to demonstrate an impact with AVTIS and with the       high-resolution civilian satellite radars (TerraSAR-X) has varied       depending on the state of activity at the volcano and the state of       development of the instruments.
+A well-documented example of impact comes from July-August 2008.
+After       several days of earthquakes, a major explosion occurred on 29 July       depositing ash on inhabited areas of Montserrat.
+Unfortunately, cloud       covered the upper part of the volcano and MVO initiated an evacuation of       part of the island closest to the volcano until the state of the volcanic       dome could be determined, and asked for help from us to do this.
+AVTIS was       under development in the UK at that time, so we used satellite radar data       instead.
+Wadge invoked the International Charter on Space &amp; Major       Disasters8,9 via the UK Cabinet Office on MVO's behalf.
+This       Charter gives privileged access to satellite remote sensing instruments       (radars mainly in this case) owned by all the major space agencies across       the world, to immediately focus on the crisis (Montserrat in this case)       and provide free data.
+In association with the British Geological Survey       these data were interrogated by us.15.
+The TerraSAR-X data       proved the most valuable and within 3 days of the explosion we were able       to provide MVO with clear evidence that the explosion had produced a new       vent but that this vent had not destabilised the dome as had been feared.
+MVO reported this to the civil authorities on Montserrat and the       evacuation was revoked.
+It took another 10 days before the cloud lifted       sufficiently to confirm radar observations.
+This early "all-clear" was       welcomed by the evacuated inhabitants and boosted confidence in the       technique and the public's confidence in MVO.
+It also demonstrated the       UK's continued commitment to international disaster response and in       particular the application of space technology to this domain.
+It was       always the intention of this work to effectively transfer the technology       to MVO.
+As of 2011 both the space-borne and the ground-based radar       techniques are a routine part of MVO operations.
+No event has yet tested       the eruption early- warning capability but the deployment of a permanent,       operational instrument on Montserrat shows that the system provides a       capability for more advanced and timely warnings than was available during       the last major eruption in 2010.
+The main beneficiaries of the impact are the people and the businesses of       Montserrat.
+In 2008 the government's Disaster Management Coordination       Agency (DMCA) deployed a radio-based early warning system to disseminate       information on the risk posed by the volcano to everybody in the areas at       risk.11 The island's population is estimated to be just over       5000 and is now growing by about 400 p.a.
+but has yet to recover to the       over 12000 estimated before the 1995 eruption.12 Prior to       then, the island had an export economy based on agriculture, clothing,       electronic parts, tourism, building sand and plants, with a GDP of &#163;30m.
+After the eruption GDP is now at about &#163;15m and the DFID support for       2012/3 was &#163;15m, which finances roughly half of all expenditure.12       It is very difficult to put a figure on the monetary impact of our       research because there has been no official audit of the impact of the       eruption from the Government of Montserrat and our work is, rightly, bound       up in the operations of MVO.
+The economic benefits in avoiding false       alarms and in the ability to generate earlier safe all-clears are       considerable as evacuations cause relocation costs and emergency       provisions costs and the commercial activities in affected areas to cease.
+Since 1997 there have been no deaths due to the volcano.
+The constant       effort at MVO to forecast impending hazards and judge local risks has been       helped by our work both to avoid tragedies and engender justified       confidence in public safety.
+As noted in a report10 financed by       the European Commission (EuropeAid Cooperation Office) "The Montserrat       Volcano Observatory provides the Government with an organisation for       managing this [volcanic] environmental hazard, and ensuring the continuing       safety of the island's inhabitants."
+The importance of the volcano early       warning capability is stressed in the Montserrat Sustainable Development       Plan.16     Social science studies in relation to Montserrat show the advances in       monitoring and prediction have led to an improved quality of life for many       inhabitants, given they now have the knowledge that they will receive       reliable early warnings of a major eruption and will not be subject to       unnecessary evacuations: for example in 2004 57% of respondents felt that       "the scientists have shown in the long-term that their advice has been       justified".17 Most residents are relieved that the volcano is       monitored and MVO can initiate better warnings and there is better       acceptance of the need for forced evacuations.
+However, building the       required trust and a working co-operation between scientists, local       government and inhabitants has not been straightforward.
+There is now       considerable local awareness of the uncertainty inherent in the science       and appreciation that it helps avoid the unpopular decisions giving long,       and apparently unnecessary, evacuations before the new systems were in       place.18,19     The techniques we have developed have, to date, been mainly applied to       Montserrat.
+However, their use is now being extended to Latin America and       Papua New Guinea.
+We have run workshops to explain our techniques in Costa       Rica (October 2012), Ecuador and Colombia (June 2013).
+In these cases, the       impact on local inhabitants and commerce is yet to occur; however, the       existence and proven capabilities of the techniques developed by the Unit       are beginning to have an impact on local policy and planning in each case,       as knowledge of them and their potential application is spread.
+Background information:       7.
+Clay.
+E., et al.
+(1999) An Evaluation of HMG's Response to the         Montserrat Volcanic Emergency.
+Evaluation Report EV635, December 1999.
+DfID, 94 Victoria St, London SW1 5JL.
+http://www.dfid.gov.uk/Documents/publications1/evaluation/ev635.pdf.
+8. http://bit.ly/17ANT3A(On the         invoking of International Charter for Space and Major Disasters)       9.
+NERC COMET report: http://comet.nerc.ac.uk/current_research_soufriere.html       10.
+Overseas countries and territories environmental profile, Part 2 -         Detailed Report, Section A - Caribbean region, (prepared by J.Pearse and         H. Berends) European Commission (EuropeAid Cooperation Office), 2007 http://bit.ly/1axtug7       11.
+Public Early Warning System (EWS) Case Studies: Volcanic Alerts http://bit.ly/18QhG1X       12. International Monetary Fund Country Report No.
+12/9 United Kingdom:         Montserrat: British Overseas Territory, January 2012. http://www.imf.org/external/pubs/ft/scr/2012/cr1209.pdf

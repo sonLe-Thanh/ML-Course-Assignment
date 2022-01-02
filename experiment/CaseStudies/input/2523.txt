@@ -1,0 +1,28 @@
+     4.1.
+Impact on communities       Between late 2007 and summer of 2008, we deployed the experimental Tegola       network based on long distance WiFi with active community involvement.
+It       connected the residents of Arnisdale and Corran villages to the Internet,       most of them for the first time in their lives.
+Local communities through       their active participation in the installation and upkeep of the network       contributed greatly to its sustenance.
+The Tegola network demonstrated the       suitability of long-distance WiFi technology even for rural Scotland       scenario when combined with certain engineering measures (e.g., planned       redundancy, use of solar and wind power for self-powered masts).
+Even more       crucially, it has become a replicable model for community-driven local       access network deployments in Scotland.
+It has also inspired research into       tools, systems and techniques to aid communities in deploying and       maintaining rural networks like that of Tegola, e.g., for simplifying       network management, adaptive spectrum use for robust and high performance       operation.
+Tegola has attracted substantial press coverage.
+The BBC technology       correspondent Rory Cellan-Jones made a series of short television       programmes in 2008 [A] and 2012 [B].
+In 2011, Tegola was used for emergency medical services when a lightning       strike knocked out the telephones to a wider area.
+The head of BT Scotland       had expressed the opinion that mesh networks like Tegola were not       "robust".
+Experience has shown otherwise: to date, the Tegola downtime on       Knoydart has been about three days whereas the BT telephones have been       down for over a month.
+Subsequently, Tegola won the NextGen Challege award       for community broadband [C].
+As a result of this award, a motion in the       Scottish Parliament cited Tegola [D].
+Another community wireless network       started by Tegola in 2010, Hebnet (http://hebnet.co.uk/),       was shortlisted for the NextGen 2012 Award for Rural Leadership and       Community Development.
+The Royal Society of Edinburgh commissioned a short       documentary on the Tegola and Hebnet projects in 2010 [E].
+4.2.
+Impact on public policy       Tegola was a stimulus for, and is mentioned in, the Royal Society of       Edinburgh Digital Scotland report [2].
+Since early 2010, Fourman       has chaired the Digital Scotland working group of the Royal Society of       Edinburgh, and has been the principal author of its reports.
+Buneman is a       member of this working group.
+A draft Digital Scotland report was       circulated for comment in July 2010, and formally acknowledged by the       Scottish Government in August 2010 [F].
+The final Digital Scotland report       was published in October 2010 [2].
+This has led to a sustained programme       of engagement with both the Scottish Government and Scottish Parliament.
+The Digital Scotland report was cited in the Scottish Government's       strategy document "Scotland's Digital Future: A Strategy for Scotland"       [G].
+On 31 January 2012, the Scottish Government published "Scotland's Digital       Future &#8212; Infrastructure Action Plan".
+On 2 February, the Scottish       Parliament passed a resolution calling for action "to deliver open access       future-proofed infrastructure and to support measures to increase take-up       and participation in the digital economy" [H].
+The Digital Scotland       report, Professor Fourman's evidence on behalf of RSE, and the Tegola       project were cited in the debates leading to the resolution [I].
+In 2012       Fourman was Specialist Adviser to the House of Lords' Communications       Committee for their `Broadband for All' inquiry, leading to the House of       Lords' report Broadband for all &#8212; an alternative vision [J].

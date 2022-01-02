@@ -1,0 +1,36 @@
+     Maplesoft is an innovative software company with over 120 employees that       has been developing and marketing mathematical software for over 25 years,       starting as a spin-out from the research group at U. Waterloo (Canada).
+Their flagship product, Maple, is used in universities and industrial       research institutes around the world, and has achieved an excellent       reputation in the academic community.
+It is a significant piece of       software, retailing at around &#163;1,000 per individual licence.
+Maple       technology is employed by several million users world-wide, in many areas       of science and engineering.
+Maple is the computation engine used by       Maplesoft's engineering simulation product MapleSim, which provides       engineers with physical modelling tools to analyze, test, improve, and       optimize designs before actually building the physical system.
+According to a Maplesoft press release [9] Maple has customers "covering       diverse sectors including automotive, aerospace and defense, electronics,       energy, financial services, consumer products, and entertainment, basic       research and teaching.
+Over 90% of advanced research institutions and       universities worldwide, including MIT, Stanford, Oxford, the NASA Jet       Propulsion Laboratory, RWTH Aachen, the University of Stuttgart, and the       U.S. Department of Energy, have adopted Maplesoft solutions to enhance       their education and research activities."
+Customers include Ford, BMW,       Bosch, Boeing, NASA, Canadian Space Agency, Canon, Motorola, Microsoft       Research, Bloomberg, and DreamWorks.
+[10]     One of the major uses for computer algebra systems is solving systems of       equations.
+Such systems may have solutions in both complex numbers and       real numbers, and in many applications one is only interested in the real       solutions, and moreover one may wish to know how the existence of such       real solutions depends on parameters.
+Since 2010, Maplesoft has been       incorporating the research of Bradford, Davenport and colleagues into       their product.
+As a result, Maple is now able to:            Correctly solve systems of equations when it previously returned a         warning, and few, or sometimes no, actual solutions;       Correctly handle correlation between solutions, e.g.
+instead of saying             x=&#177;&#8730;2,                   y=&#177;&#8730;2             (four solutions), it can now say x=&#177;&#8730;2,               y=-x         (two solutions);       Extend this to real-only solutions, of great practical importance to         engineers;       Correctly handle case analysis when the number of real solutions         depends on the parameters.
+As explained by the Director of Research at Maplesoft [11]     "The team have contributed work to our flagship product, the computer         algebra package Maple, which in turn is used by our engineering         simulation product MapleSim and teaching and assessment product MapleTA.
+Bath's first contribution was in Maple 14 (released in Spring 2010) with         contributions to each subsequent release including our most recent,         Maple 17 (released Spring 2013).
+Davenport contributed to algorithms for solving parametric polynomial         equations in real variables.
+This led to solutions which were not         previously available displayed in an optimal way to the user.
+We valued         this work to the extent that our Senior Developer embedded it into the         core tools for solving polynomial systems.
+This means that users can         benefit from the new algorithms when appropriate without having to have         knowledge of the mathematics involved, or even knowledge that the         algorithm exists.
+In relation to this Davenport assisted with the         development of a new output format for displaying such solutions which         has since found use elsewhere in Maple."
+Adoption timeline     The interaction of the Davenport team with Maplesoft developed from       Davenport's collaboration with researchers at U.
+Western Ontario, which in       turn grew from his Visiting Professorship at U. Waterloo, the birthplace       of Maplesoft, in 2009.
+The work in [3] made its appearance in Maple 14 (2010) and was a major       feature of the Maple 14 launch at ISSAC 2010 (Munich).
+Part of the work in       [2] appeared in Maple 14, and the rest, and some successor work, in Maple       15 (2011).
+Marc Moreno Maza's demonstration of this technology won the       "Distinguished Software Demonstration" award at ISSAC 2011       (http://www.sigsam.org/awards/).
+The interactive help functions in Maple 15 [12] refer to [2] as a primary       reference in the documentation of the RealTriangularize function.
+Further work from [2]'s successors, some currently unpublished work, and       work from [7], has been incorporated in Maple 16.
+Further work building on [7] (code developed at Bath funded by EPSRC and       described in [8]) has appeared in Maple 17, which was released in March       2013.
+In an announcement to Maple beta-users of 27/1/2013, Maplesoft's       Research Fellow described new features as "very nice work by the group         of Prof. James Davenport [...] in collaboration with us at Maplesoft."
+[13] This means that Maple 17 gives explicit (rather than merely implicit)       and more accurate information on branch cuts than its predecessors.
+For       example, when querying the branch cuts of log (-&#8730;x),       previous versions indicated branch cuts when -&#8730;x         is negative, from which the user has to infer&#160; x         &gt; 0, while Maple 17 returns this directly, along with the cut       x &lt; 0 (due to the &#8730;x       ) which had been missed before.
+The new code also provides visual output       as well as algebraic descriptions.
+Usage     The new solving algorithms have already found industrial application.
+Maplesoft's Director of Research states that "In 2012, we were able to         employ the parametric real-solving algorithms developed by Moreno Maza         and Davenport and their students for an industrial application that was         done as part of a multi-year research and consulting project about         symbolic methods in control theory for a Japanese automotive         manufacturer."
+[11]     Thanks to the work of a Maplesoft Senior Developer, as described by their       Director of Research above, Maple 17 also integrates the above features       into the mainstream: users asking Maple to solve systems of equations       benefit from the improved functionality transparently [14].
+The potential       reach of this work therefore includes all users of Maple and MapleSim who       require real solutions to systems of equations.

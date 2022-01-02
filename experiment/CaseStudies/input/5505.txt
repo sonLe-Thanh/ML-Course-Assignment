@@ -1,0 +1,43 @@
+     Impact of ROLE project       The way in which the internet is used is changing.
+Once, websites were       used passively to view       content already created.
+Now users are interacting and collaborating with       each other in social       media dialogue within virtual communities.
+Examples of this so-called Web       2.0 concept include       social networking sites, blogs, wikis, video sharing sites, hosted       services, web applications,       mashups and folksonomies.
+The ROLE research project explored the place of e-learning in this new       context.
+Its main objective       has been to support teachers in developing open personal learning         environments for their       students.
+The project has created resources and tools for teachers which       give them the ability to       create such technology-driven learning environments for their       students, which they are able to       adapt to their own specialisms and needs, irrespective of individual       operating systems.
+These       resources and tools include software applications with which teachers and       trainers can build their       own online learning environments, and widget bundles to support a specific       learning or teaching       task.
+It has also developed a mash-up collaboration system called Graasp,       which enables teachers       and students to link different social media applications into their       personal learning environment.
+Most of the technological solutions developed as part of the ROLE project       are shared with the       open-source community &#8212; that is they are freely available to anyone to       download.
+Access points have recorded more than 100,000 page views.
+The       users/beneficiaries include:     HEIs and Schools &#8212; creating effective e-learning environments for         students &#8212; The open access       software and tools created by ROLE have been used by RWTH Aachen       University in Germany in a       Computer Science course.
+They created an electronic reference book, the       Web 2.0 Knowledge       Map, as a kind of improved Wikipedia system.
+The application supports       students in looking up       factual knowledge needed in their homework assignments to design computer       software.
+Students       can search for knowledge articles by entering topic keywords and navigate       from the current article       to related articles using hyperlinks.
+It is based on semantic net       technology, where hyperlinks are       not just links, but belong to predefined categories, each bearing a       meaning, as a named relation.
+The Knowledge Map tool won the second prize in the 2010 International       E-Learning Association       Awards, in the category "Academic Blended Learning".
+IMC AG &#8212; developing commercial products for the e-learning sector       &#8212; The international company       IMC AG is based in Germany and provides technology-enhanced solutions for       learning and       training.
+IMC has integrated ROLE technologies into their R&amp;D       programme.
+They have been used       to underpin and improve their products for teachers and trainers,       including an award-winning       learning management system called CLIX.
+It has also underpinned a MOOC       (Massive Open       Online Course) platform called OpenCourseWorld &#8212; this is an online       course aiming at large-scale       interactive participation and open access via the web.
+The company is also       working on the       development of a mobile learning infrastructure for tablet- technologies.
+It is designed to implement       the use of social media in the classroom to create a useful and efficient       learning environment.
+POLO is still at the developmental stage but the R&amp;D programme at IMC       AG is underpinned by       ROLE technologies and insight.
+(5.5)     Festo &#8212; enhancing employee training through more effective e-learning         tools &#8212; Festo is a leading       world-wide supplier of automation technology and the performance leader in       industrial training and       education programs.
+The company uses the CLIX learning management system       and was one of       the five main test-beds for ROLE, to evaluate the project's solutions for       technology-enhanced       workplace lifelong learning.
+(5.6)     Impact of Go-Lab project       The EU Go-Lab project &#8212; Global Online Science Labs for Inquiry Learning at       School opens up       remote science laboratories and their online models (online labs) for       large-scale use in education.
+Students from around the world can perform personalized scientific       experiments with online labs,       and teachers can enrich their classroom activities with demonstrations and       disseminate best       practice in a web-based pedagogic community.
+It also gives the owners of       the labs the chance to       promote their scientific activities.
+As of Sept 2013, 43 students and 685       teachers have used Go-       Lab, inspiring young people to enjoy and pursue careers in science &#8212; a key       priority in both the UK       and European Union, to support future knowledge-based economies.
+(5.7)     Impact of the 80-Days project       During the 80Days project, researchers worked with the games       developer community to develop       psycho-pedagogical and technological foundations for successful computer       games in terms of       educational efficacy as well as financial turnovers.
+(5.1, 5.2)     Economic impact on SME partners       Two game developer companies were involved with the 80-Days project &#8212;       "learning games"       specialists TAKOMAT GmbH, of Germany, and "serious games" experts       Testaluna, of Italy.
+Involvement in the 80Days project enhanced both companies' know-how in       designing and       developing complex and high-quality learning games.
+Both companies use       their involvement with       leading-edge research has a "unique selling point" when marketing       themselves.
+Both companies used the 80Days demonstrator game &#8212; Lizard 3.0 (developed       at Leicester) &#8212; and       the scalable 80Days game concept for acquisition of other learning game       projects and the search       for investors and/or publishers to realize the 80Days game concept and       turn it into a full game title.
+TAKOMAT also used the demonstrator game for the successful acquisition of       a commercial       serious game project &#8212; Energetika, the winner in the Best Serious Game       category in the 2010       German Game Prize.
+(5.3)     TESTALUNA also used involvement in the research to win a contract for the       development of a       serious game.
+The company is developing two separate lines of products:       one for medium-sized       educational products, in association with national public bodies, and the       other for small educational       serious games, to be launched by free games portals.
+(5.4)     Awareness raising within the games developer community       The 80-Days project team from Leicester were involved in several       international events which       raised the awareness of techniques that support high-quality learning       games to game developers.
+These included the Montr&#233;al International Game Summit 2008 (1,300+       participants) and       Gamescom 2009 (circa 245,000 participants).
+Awareness raising within the potential beneficiary community       The Leicester team contributed to a number of initiatives for raising the       awareness of scientists,       politicians, professionals, teachers and pupils to the role and       opportunities of video games for       learning experience.
+These included the World Cyber Games 2008 and 3rd       Youth Forum North-Rhine-Westphalia,       Cologne, Germany, 07-08.11.2008.
+More than 5,000 people attended including       schools teachers, e-learning professionals and politicians.

@@ -1,0 +1,32 @@
+     The WHO estimates that insecticide resistance in African malaria vectors,       if left unchecked, could potentially result in an additional 120,000       childhood deaths, rising to 250,000 as current vector control tools are       scaled up [9].
+LSTM's research is working to prevent this       eventuality.
+Its approach to resistance analysis has contributed to the       greater understanding of insecticide resistance, and has led to proactive       decisions being made on insecticide use to avoid control relapses by       malaria control programmes in Bioko, Zambia, Mozambique Uganda and       Zanzibar.
+Global Malaria Programme at the World Health Organization has       stated "As part of the global malaria community, LSTM has made significant       contribution through their research efforts to the prevention and control       measures in addressing the problem of insecticide resistance in the WHO       African Region" leading to the 25% reduction in malaria mortality rates       since 2000 and by 33% in the WHO African Region [10].
+LSTM technical input was sought for the WHO Global Plan for Insecticide       Resistance Management in Malaria Vectors 2012 (GPIRM) [9] and the       recommendations for action in the GPIRM are substantially based on the       research output of LSTM in identifying resistance mechanisms and means to       track resistance in the field, and in helping countries to generate an       evidence base for resistance management strategies.
+LSTM managed the only       large-scale public health insecticide resistance management programme with       a 7-year trial in Mexico, sponsored by industry which demonstrated that       Indoor Residual Spraying (IRS) in either an annual rotation system or a       village scale mosaic maintained control and extended the useful life of       the insecticides.
+LSTM worked directly with National Malaria Control Programmes in Malawi,       Bioko, South Africa, Swaziland, Mozambique and Zambia between 2001 and       present day advising on the optimal resistance management strategies.
+Changes in insecticide use in malaria control have occurred in each of       these countries as a direct result.
+LSTM also supported entomological       monitoring and evaluation in a further six African countries (Zanzibar,       Liberia, Uganda, DRC, Ethiopia, Ghana, Mozambique and Zambia), through       technical assistance to the PMI and, again, several of these countries,       including Zanzibar and Uganda, have changed the class of insecticide used       in as a direct result.
+The Co-Chair of the Roll Back Malaria Vector       Control Working Group, has highlighted the increased urgency for routine       monitoring of resistance and acknowledged LSTM's leading position in       driving this forward, in working with country programmes, conducting       evidence based monitoring and evaluation and insecticide selection [11].
+Impact of product development partnership:       a.
+Kits for monitoring insecticide residues on insecticide treated         materials.
+Sub-standard spraying, loss of insecticidal activity in       the field and even fake bednets are all major problems facing malaria       control programmes.
+The diagnostic insecticide quantification systems       developed by LSTM are undergoing trials by AVIMA Pty (SA) for commercial       production in Africa, under the brand name "Assure" [12].
+They cost       &lt;$1, are easy to use and have a unique ability to provide a rapid       assessment of spray team performance, so that any problems can be       rectified promptly, whether by re-spraying, retraining or improved       supervision.
+The IQK TM have undergone fields trials in Bioko       Island (Dec 2010), Vanuatu (Nov 2010) and Ethiopia (Aug 2013).
+Based on       the success of the Bioko trial, approximately 2000 prototype kits were       ordered for the subsequent spray rounds in 2011.     b.
+New insecticides.
+The first longer lasting insecticide       formulations (Actellic, Syngenta) became commercially available in 2012       and a second set was launched in 2013 (K-Othrine, BayerCropScience).
+These       new formulations increase the residual performance of the insecticide.
+IVCC and AvecNet funded and managed all of the efficacy trials, both in       the Laboratory (LITE) and in the African field trials sites.
+The new       formulations make the insecticide more effective on traditional muds used       in house building in rural African communities, and reduces IRS programme       costs by increasing the required interval between applications (e.g       Syngenta's original formulation, Actellic EC, was effective for two to       three months, whereas the new Actellic CS formulation lasts for 4 - 6       months).
+Actellic CS is now being used in Ghana and Zambia.
+K-Othrine,       Bayer's long lasting formulation of Deltamethrin, is now being used in       Equatorial Guinea.
+Syngenta's Actellic CS country registrations are       accessible for Ghana, Equatorial Guinea [13].
+The IVCC annual       report includes further information on industry investment in research and       development.
+[14]     c. New software for assessing malaria control programmes.
+The DDMS       software enables managers in countries to monitor interventions and       evaluate impact in ways they have not been able to do before.
+They operate       in both resource-poor and resource-rich environments and can be tailored       to operate as a single database to an integrated system, combining data       from several resources, producing maps, reports and alerts for disease       outbreaks.
+DDMS is being implemented in Ethiopia, Mozambique and Zambia.
+A       Spanish version of the software was produced by LSTM in 2012 and is being       used by the Bioko Island Malaria Control Programme, Equatorial Guinea.
+This highly successful programme has reduced transmission of malaria in       Bioko by more than 80% [15].

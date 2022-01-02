@@ -1,0 +1,31 @@
+     The impact of the GRANIT research has been twofold: firstly, economic       impact through the       generation of commercial returns to Halcrow via the technology licence;       secondly, in the adoption       of such methods in the wider industry in terms of Impact on practitioners       and professional services.
+The Impact described here is interim in nature, in that the licence       arrangements with Halcrow have       now been terminated.
+The technology is now in the process of being       relicensed with discussion       being held with Rio Tinto Zinc (RTZ) and other groups with a view to       penetrating the mining sector.
+GRANIT is the first fully commercial system for testing rock bolts and       ground anchorage systems.
+Rock bolts and ground anchors are used to support tunnels, mines, dams and       other large       structures and in the past it has been difficult to test these to ensure       they are functioning correctly       and holding the correct load.
+The GRANIT system can be used to estimate       the load in the       bolt/anchor, the un-bonded length, and to identify bolts which respond in       a markedly different       manner to those around them (exception testing).
+The measurement of these       parameters is       important in assessing the condition of bolts/anchors and ensuring the       safety of the structure they       support.
+In mines, literally millions of rock bolts are used to support       roadways.
+The effective       grouting of these into the surrounding strata is important in ensuring the       integrity of the roof       structure, and so to prevent potentially fatal rock falls.
+Early testing of rock bolts supporting the roof in UK Coal's Thoresby       mine, during development       with Amec, identified a number of bolts which were "different" from the       others and which the       research team identified as either being bonded inadequately into the       strata or damaged.
+Subsequently these bolts were exhumed and all were found to either have       been poorly bonded or       broken, validating the method [1].
+Identification of these bolts allows       remedial measures to be       taken before the occurrence of failure of the roof structure.
+Deployment in Rio Tinto's North Parkes mine in Australia to test the       cable bolts holding up a       cavern for processing equipment, resulted in the identification of       incorrect bolt installation in the       cavern roof.
+The specification had called for 6m bolts in the walls with       10m bolts supporting the       roof.
+Instead, 6m bolts had been used throughout leaving the roof with       insufficient support.
+This       would have been impossible to identify visually and would not have been       detected without use of       the GRANIT system.
+[2]     During 2012 and early 2013, detailed discussions were undertaken with RT       regarding application       of the technology within mining operations in Indonesia and Mongolia.
+This       has involved the       discussion of an integrity inspection programme to ensure the installation       quality of the 10 million       bolts to be installed within RT mining operation over the next 10 years.
+The capital cost of installing       these bolts will exceed $1B as an integral part of the operation.
+The       support they provide is an       integral part of the operation represent ensuring personnel can work       safely in the various mine       openings and the tunnel functionality and reliability.
+The failure of       support systems and the       subsequent impact on operations can be very be severe.
+At one operation it       is estimated that over       $500M of ore has been left behind because of premature bolt failure.
+A       number of assessments       have been made that up to 20% of the installed support (bolts) are       ineffective either due to poor       quality installation or wrong location.
+The potential cost savings and       safety improvements that a       system such as GRANIT would provides due to improved maintenance and       replacement regimes       are substantial and are estimated to be in excess of $300M for RT       operations alone.
+[1] The       interest in the research outcomes from GRANIT and the perceived benefits       to RT are in ensuring       the quality of the installed support system and indicating where       modifications additional support is       needed.
+During the REF period (2008-2012) the system was licensed to Halcrow who       provided the service       from their Australia, United Arab Emirates and USA offices.
+Halcrow       received the New Civil       Engineer Tunnelling Awards Technical Innovation Award for GRANIT in 2010       [3].
+The license       included the use of copyrighted software (an Integrated Analysis System)       produced by the       University of Aberdeen, based on the model developed by Ivanovi&#263; and the       neural network       approach developed by Starkey.
+This automates the process and allows       Halcrow operatives to       build a model of the anchor system and use this for analysis in cases       where it is not possible to       undertake testing on reference bolts/anchors.
+The significance of GRANIT is in its ability both to improve workers'       safety and potentially to       reduce costs associated with remedial work or failure of a structure.
+The       reach of the system has       been global with deployment in Canada, Greece, UK and Australia.

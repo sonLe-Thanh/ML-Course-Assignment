@@ -1,0 +1,21 @@
+     The importance of the embedding of ethical considerations into design       processes for technology       and software has remained relatively neglected and it is the seminal work       of Dr Penny Duquenoy       that has helped introduce and establish the need for such approaches.
+The impacts of the embedding of ethics in technology is observable by       noting the routine use of       ethics expert reviewers and evaluators and on Advisory Boards in EU funded       projects since 2007.
+Further, this has been replicated by the EPSRC who also now include input       from ethics experts       into their forthcoming programmes such as the RCUK `Global Uncertainties'       initiative.
+While peer       review of proposals is an expected contribution of academics, the specific       input on the appropriate       design of ethical concerns is a recent development.
+The reach of the impact extends to the professional IT community, as at a       professional level, ethics       has also become a core consideration for the British Computer Society and       its representations to       the community it serves.
+This is evidenced by the formulation of BCS       Ethics Group that reports to       the BCS Trustee Board through the Institute's Professionalism Board and is       chaired by Dr       Duquenoy.
+(http://www.bcs.org/category/8620).
+More recently, a report co-authored by Dr Duquenoy has been made       available on BCS Ethics       Group website (http://www.bcs.org/upload/pdf/ethical-assessment.pdf).
+The report provides a       detailed ethical assessment of technologies using a new meta methodology       developed by Dr       Duquenoy and others [S1].
+Direct beneficiaries of the research include various funding bodies such       as the EU, National       Science Foundation and EPSRC.
+They have utilised the specific knowledge       and skills arising from       the research to provide Expert evaluations for ethics for projects such as       those for DG Information       Society and Media, 2007 and on-going evaluations of ethics work packages       for European funded       projects.
+Dr Duquenoy has provided review expertise for ethical considerations for       projects funded under the       NSF (2012) and the Norwegian Research Council programmes such as the ICT       programme       (Information Security, Identity management, Privacy) 2008, 2010; VERDIKT       (Future Internet) 2011.
+Dr Duquenoy has also provided expert knowledge as member of Ethics       Advisory Board for various       completed projects (EU FP6, FP7) and a new EU project started in October       2012 &#8212; `Accountability       for Cloud' (A4Cloud).
+The ISIS project [A], developed software to help police track paedophiles       who masquerade as       children in internet chat-rooms.
+This was reported in British media in       2010 [S4] and the BBC report       quotes Det.
+Chief Superintendent Graham Hill, Child Exploitation &amp;       Online Protection Centre:       `it's probably going to be used at the early stages of the Investigation       to identify people that are       misrepresenting themselves on-line which is a common technique for people       with a sexual interest       in children, to misrepresent themselves, to ingratiate themselves into a       particular group or       particular child'.
+Other news items include the Telegraph reporting on the       ISIS project [S5].
+Impact beyond the normal outcomes expected from the research arising the       EGAIS project [6]       included a request by DG Research (EU) to provide training to funded EU       projects on the ethical       governance of emerging technologies.
+[S6].
+The research has also helped shape government policy following the       submission to the UK       Parliamentary Joint Committee on the Draft Communications Data Bill on       behalf of the BCS ICT       Ethics Specialist Group and BCS Ethics Group.
+[S3].

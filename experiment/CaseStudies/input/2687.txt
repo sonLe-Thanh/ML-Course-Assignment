@@ -1,0 +1,33 @@
+       The primary impact of our work has been ongoing performance         improvements on FHC plants.
+This         has delivered substantial economic benefits to FHC and indirectly         improved National Grid Stability.
+Through the establishment of a company Gwefr Cyf Co in October 2007,         (5.1) the research         continues to feed directly into information technology consultancy         activities and benefit a range of         local and national companies.
+FHC's Dinorwig plant is the largest pump storage station in the UK (the         second largest in Europe)         and therefore is vital to the National Grid infrastructure, ensuring         stability of electricity supply         nationally under highly dynamic grid-load perturbations.
+By generating         up to 1.8GW within 16         seconds upon demand from the grid, the plant gives the grid fast         effective energy storage.
+The         increasing emphasis on renewables such as wind power within the national         energy strategy,         places additional focus on the importance of FHC plants.
+The latter has         been highlighted by the         Chief Scientific Adviser, who has suggested that the UK needs more pump         storage plants in order         to balance the power supplied by wind turbines (5.2).
+Ongoing impacts of interventions carried out 1999-2008         Our model has been utilised for numerous projects at Dinorwig since         1999.
+The initial modelling         [3.1], for example, was used to investigate a serious incident on the         Grid in 1999 involving         unwanted oscillations in the range 49.9 - 50.1 HZ.
+We demonstrated that         this was incorrectly         attributed to a problem at Dinorwig.
+The National Grid Regulator         originally attributed blame to FHC         and as a consequence FHC was liable for substantial contractual         penalties.
+The Regulator         accepted our findings however, and new control procedures were put in         place to prevent similar         events occurring in future [3.3].
+This demonstrates a direct and ongoing         impact of our model on the         improved control and regulation of National Grid oscillations (5.3).
+Additionally, the model has provided insight into complex interactions         between different         components of plant operating dynamics.
+As a direct result a new         operational strategy was put in         place using our control parameter recommendations.
+This lead directly to         an improvement of         around 10% to the plant's response time.
+Without the availability of our         modelling and simulation         techniques to develop and test it would not have been feasible to         explore new control strategies         due to operating constraints.
+The resulting improved performance         continues to provide direct         financial benefits to FHC and a permanent improvement to maintaining         grid stability (5.3).
+Real time simulator impacts on FHC performance         In 2008, our research was used by FHC to upgrade the control system at         the Ffestiniog power         station.
+Prior to commissioning, the new hardware needed testing to         ensure its correct operation.
+Without this reassurance, FHC could not commit to any upgrade due to the         unacceptable costs         involved with a potential failure.
+Our real time hardware in the loop         simulation platform         demonstrated that the proposed platform produced the same response as         the real plant across         different operating conditions [3.6].
+This gave the company the         necessary confidence to         commission a new control unit in June 2008 (5.3).
+In 2010, FHC planned to upgrade the control system at Dinorwig.
+A new         simulator platform was         developed in collaboration with Gwefr Cyf Co. [3.6], it was able to         accurately reproduce the         response of the real plant, and therefore could be used to validate the         new hardware.
+This lead to         the commissioning and installation of a new control unit in May 2012         (5.4).
+Our findings have a direct, ongoing and fundamental impact on the FHC         plants.
+Without the         simulator the time required to test the new unit would be prohibitively         long and the process would         be dangerous as it could cause serious damage to the plant.
+Without this         work commissioning         becomes prohibitively expensive.
+In addition to this direct financial         impact from reduced         commissioning time-- one unit generating at 300MW for 8 hours produces         about &#163;36,000 revenue         per day.
+The simulator is also being used by FHC for training purposes,         providing direct benefits in         staff knowledge and skills (5.3).
+In addition, Mansoor et al.
+have jointly published Modelling and         Controlling Hydropower Plants; a         book that provides both practising professionals and academics with         necessary information on         models used for simulation and control analysis of hydropower stations,         enhancing the reach of the         applications and wider use of their models (ISBN 978-1-4471-2291-3         Springer 2012, see (5.1)).

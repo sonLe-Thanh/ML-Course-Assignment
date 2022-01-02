@@ -1,0 +1,35 @@
+     Age-related macular degeneration (AMD) is the most common cause of       blindness in Western populations, reducing the quality of life of tens of       millions of older people worldwide.
+It affects the central macular region       of the retina causing loss of central vision which has devastating       consequences, preventing patients from reading, writing, driving or even       recognising faces.
+The macular changes develop slowly and are asymptomatic       in the early stages.
+There are two end stage forms of the disease that       affect vision, namely geographic atrophy and choroidal neovascularisation,       commonly referred to as `dry' and `wet' AMD respectively.
+The wet form is       more likely to cause blindness but can be treated with anti-VEGF antibody       therapy.
+This treatment is most successful if instituted early before       there is irreversible damage to the retina.
+Susceptibility to AMD is influenced by several genetic variants and DNA       testing can be used to determine an individual's risk of developing the       disease (1).
+Those found to be at high risk can be offered regular eye       examinations to detect early development of wet AMD.
+The common functional       variant rs2230199 in the C3 gene discovered by Professor Yates and       colleagues in 2007 has a major influence on AMD susceptibility.
+This       variant is therefore an essential component of genetic tests to determine       AMD risk and it has been included in all the AMD tests currently on the       market.
+Cambridge Enterprise Limited on behalf of the University of       Cambridge submitted a provisional US patent application based on the C3       discovery and its potential use in a genetic test for AMD in March 2008       leading to the granting of a US patent in February 2012 (2).
+In July 2008       Cambridge Enterprise granted a licence to the Canadian company ArcticDx to       use the finding to develop a genetic test for AMD.
+Their Macula Risk test       (3) determines the genotypes for rs2230199 and three other variants which       together with smoking status are used to assign an individual to one of       five risk categories for AMD.
+The test was launched in North America in       2009 and subsequently in Europe and India.
+AMD is a major public health problem and all the more so as the elderly       population grows.
+As a measure of the magnitude of the issue, it has been       estimated that in Europe and North America some 10,000 individuals       progress from dry to wet AMD every day.
+It has been shown that genetic       variants determining susceptibility to AMD including rs2230199 also       influence the risk of progression (4) and ArcticDx have promoted the       Macula Risk test as a means of planning the management of patients who are       identified by ophthalmologists, optometrists and others as having early or       intermediate disease.
+On their website, ArcticDx offer recommendations for the frequency and       nature of follow up based on the patient's current stage of disease, age       and Macular Risk test result (3).
+This programme, referred to as the       Nashville Protocol, has been developed by a group of ophthalmologists in       Tennessee and aims to make the best use of health care resources by       targeting those at highest risk for intensive surveillance.
+Patients who       go on to develop wet AMD and receive prompt treatment will have a better       outcome.
+This should also save money since anti-VEGF therapy is expensive       and most effective when given early.
+A health economic study carried out       by ArcticDx has shown that around $300,000 per patient can be saved in       those identified early in their conversion to wet AMD (5).
+However,       independent cost benefit studies will be needed to confirm that the       Nashville Protocol achieves the expected health care and resource       benefits.
+In any event, it is likely that genetic testing for AMD       susceptibility will have an important role in reducing the impact of AMD       on the elderly.
+This breakthrough has generated considerable public       interest and been welcomed by organisations representing blind people (6).
+ArcticDx reports that 3,500 health care professionals were using the       Macula Risk test as of April, 2013 with over 50,000 tests carried out (5).
+Utilization of the test is increasing by 30% every quarter.
+In the USA the       test is covered by most insurance providers, including Medicare, for the       ICD-9 diagnostic codes 362.50 (non-specific AMD), 362.51 (non-exudative       senile macular degeneration), 362.52 (exudative senile macular       degeneration) and 362.57 (drusen).
+To meet the demand for the Macular Risk       test in the USA, a new $1.9m molecular genetics laboratory employing 6       full-time staff has been opened in Grand Rapids, Michigan by the company       ArcticAx US Ltd, an offshoot of Toronto-based ArcticDx.
+Cambridge       Enterprise Ltd is benefitting from the licence fees received from ArcticDx       and has recovered all patenting expenses and is entitled to a royalty       revenue stream that is expected to exceed &#163;1m in 2013 (5).
+ArcticDx has recently launched the Macular Risk PGx test which predicts a       patient's risk of progression to advanced AMD with vision loss within 2, 5       and 10 years based on 15 genetic variants in 12 AMD associated genes       (including rs2230199 in C3) and taking into account age, extent of early       changes of AMD, smoking history, body mass index and educational status       (7).
+A subset of the genetic test results are intended for use to identify       patients who would benefit from treatment with a combination of high dose       vitamins and minerals (8).
+An alternative genetic test for AMD is being marketed by Sequenom CMM.
+Their RetnaGene test uses 13 genetic variants in the major AMD associated       genes (including rs2230199 in C3) to predict the risk of choroidal       neovascularisation, based on a study by Hageman et al (9).
+The importance       of including rs2230199 in genetic tests for AMD has led to Sequenom       mounting a legal challenge to the Cambridge patent (2).

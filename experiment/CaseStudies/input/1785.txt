@@ -1,0 +1,31 @@
+     The work carried out in Queen Mary's Rubber Research Group has informed       the development of automotive engineering processes, leading to direct       economic impacts for a number of manufacturing companies.
+The collaboration between Red Bull F1 and QMUL allowed tyre models to be       made as building block components of a state-of-the-art vehicle simulator,       which included for the first time an accurate tyre model.
+A former Vehicle       Dynamics Engineer at RedBull F1, who is currently the Tyre Team Leader at       Caterham F1, sponsored a research project whilst at Red Bull F1 that       involved QMUL developing a realistic friction model commented "The model       is still used and has clearly contributed to Red Bull's world championship       successes in F1".
+He went on to say "A particular benefit of our       collaboration with Queen Mary was the access we gained to their other       research activities.
+Specifically, Queen Mary has been at the forefront of       research into tyre `graining' [5].
+This is an especially difficult problem       to analyse, and Queen Mary's work in this area has given great insight.
+I       have several papers published by Queen Mary, on subjects such as rubber       crack growth [1], rubber abrasion [5], rubber friction, and the rubber to       surface interface.
+I regularly refer to these, and use them in my current       role within the Caterham F1 team".
+Ken Yamaguchi of Bridgestone has commented that: "The greatest       contribution [from Queen Mary] has been in helping us understand how to       develop lower rolling resistance tyres [3] to reduce fuel consumption.
+In       particular the detailed microstructural and micromechanics models [2,6]       have provided a significant stimulus which has resulted in us undertaking       extensive work in house using a similar approach to the one at QMUL of       adopting a computational model to help design rubber compounds at the       nano-scale".
+Through this approach Bridgestone became the first tyre       manufacturer to gain the new EU A/A rating for their Ecopia         EP tyres in October 2012, with top A grades on both fuel efficiency       and wet grip.
+By switching to Bridgestone Ecopia tyres the average       European car can save up to 70 litres of fuel per year (9,000 miles/year)       which will reduce CO2 emissions by 160 kg.
+Or in other words if all new       cars registered in Europe (15 million) ran on Ecopia EP tyres this would       save up to 1 billion litres of fuel and reduce total CO2 emissions by 2,3       million tons per year (equivalent to 0.5% annual UK CO2 emissions).
+The Materials Development and Testing Manager of Dunlop         Aircraft Tyres has commented that the project collaborating with       QMUL has helped them make significant progress in their efforts to develop       radial tyres for civil and military aircraft and bring them to market.
+He       comments that, "Adopting the fracture mechanics characterisation based       upon earlier work done at QMUL [4] and coupled with finite element       modelling, they were able to resolve many problems and build tyres capable       of meeting the stringent qualification testing required prior to       installation on aircraft.
+These efforts have resulted in our radial tyres       for Embraer 190 and ATR 42 aircraft being widely used".
+It is anticipated       that tyres for the Embraer 170, ATR 72, JSF and Airbus A320 will be       installed on aircraft in the near future creating a solid platform for       further development on radial tyres for a range of other aircraft in the       coming years.
+He adds, "This has helped us generate significant new       business for the UK in the design and manufacture of radial aircraft       tyres".
+Rubber research at QMUL has assisted in the development of Bridgestone's           Ecopia tyre (left) that combines A rated wet grip with A rated         fuel economy, and Dunlop's           radial aircraft tyre (right).
+The Head of the Engineering Design Group at TARRC, commented that: "Our       collaborations with QMUL have allowed TARRC to make much more effective       use of finite element analysis techniques to predict the behaviour of       components in service.
+This knowledge allows us to design rubber       components ranging from vibration mounts that support large engineering       structures such as the new Penang Bridge in Malaysia, to much smaller       anti-vibration mounts used in automotive applications".
+A former chief R&amp;D Engineer at SuperAguri F1 who now works at       Mercedes F1 has commented that the collaboration with QMUL allowed a       detailed understanding of how tyre road interactions are developed in F1       for the first time.
+This impacted SuperAguri's understanding of how to       optimise the suspension configuration to improve performance.
+He goes on       to say: "The project was extended at SuperAguri using a Queen Mary PhD       graduate to undertake track side analysis.
+This type of modelling was       pioneering at the time and is now standard practice amongst most F1       teams".
+The fact that a QMUL graduate was employed by SuperAguri F1 as a       result of successful research collaboration leads to the significant       secondary impact described in this case.
+Many QMUL researchers have taken       up roles at Queen Mary's industrial partners, facilitating knowledge       transfer and benefiting the UK economy.
+Drs Keizo Akutagawa, Katsuhiko Tsunoda and Ken Yamaguchi joined       Bridgestone after completing their research project at QMUL.
+By 2010 all       three had been promoted to the highest senior research position (Research       Fellow), of which there are fewer than 20 within the company, which has       140,0000 employees.
+All three have gone on and continue to develop the       techniques that were initiated as part of their studies at QMUL and have       embedded their use in materials development processes that are used at       Bridgestone.
+TARRC also employs two former Rubber Research Group researchers, Julia       Gough (2000) and David Lowe (2012) and is in contact regularly with two       further former researchers Azura Rashid (2003) and Asri Ahmad (2002) who       work with or for their parent company (RRIM in Malaysia).

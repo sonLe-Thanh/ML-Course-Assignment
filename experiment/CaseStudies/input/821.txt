@@ -1,0 +1,31 @@
+     The emergence of commercially viable Raman microscope technology has       produced a very broad spectrum of impact, that can be divided into two       classes: (i) impact of the technology itself - Raman technology is now       used for a very wide range of applications; (ii) economic impact, as       demonstrated by the success of Renishaw plc through their sales of the       technology.
+Pathway to Impact and (i) Wide-Ranging Applications of Raman         Technology     The underpinning research at Leeds led directly to a range of commercial       Raman technology for Renishaw plc, clearly incorporating the innovations       of Batchelder et al.
+[A-C].
+This technology is now widely       used in many applications, some of which also link directly back to the       work of Batchelder et al.
+on explosives detection [2] and       drug identification [6].
+Current Raman technology applications include:     - Pharmaceuticals [D]: Raman spectra are used to generate chemical images       and thus for applications such as rapid screening and polymorph       discrimination.
+- Carbon and Diamond [E]: Raman spectroscopy is used for quality control       of carbon and diamond coatings.
+- Materials Science [F]: Raman analysis is used extensively, for many       materials such as composites, polymers and catalyst reagents.
+- Geosciences and Gemology [G]: Raman spectroscopy is used widely for       analysis of geological materials and also for the classification and       valuation of gem stones.
+- Forensic Science [H]: Raman techniques are employed widely in evidence       analysis, for their ability to identify without contamination very small       samples of substances such as drugs, gunshot residue, paint chips, ink,       etc..
+In particular, the use of Raman spectroscopy for the identification       of gunshot residue is on the increase due to the introduction of       "non-toxic/lead-free" ammunition increasing the chances of false positives       from previously applied methods.
+- Nanotechnology [I]: Novel Raman techniques enable analysis below micron       scales and thus characterisation of nanomaterials such as carbon       nanotubes.
+- Art and Heritage [J]: Raman spectra can identify pigments and       authenticate works of art.
+The technology has been used for investigation       of the Turin Shroud, the Lindisfarne Gospels and demonstrating the Vinland       Map as a fake.
+- Semiconductors and Devices [K]: Raman analysis can reveal stress,       strain and impurity or dopant levels in semiconductors and devices,       providing a tool for R&amp;D and quality control during manufacturing.
+(ii) Economic Impact during the REF period     Major economic impact has arisen from the creation of new Raman       microscope technology that is commercially viable, based on the       underpinning R&amp;D work by Batchelder et al..
+This       technology generated expansion of the Renishaw product range to include       Raman microscopes, with all the accompanying jobs and economic benefits.
+The Raman Spectroscopy Division now represents a multi-million pound pa       revenue stream within Renishaw plc.
+The major economic impact of Raman lies predominantly within the       Healthcare section of the Renishaw group.
+Renishaw Healthcare contributed       &#163;21.7 million to the revenue of Renishaw in 2011, amounting to 8% of the       group's total income, with the predominant income source being the       spectroscopic instrument range based on the patents and technology       developed by Batchelder [L].
+The first half of 2012 saw a       streamlining of Renishaw Healthcare but nevertheless still with growth in       the Raman spectroscopy range (Raman AFM package introduced) leading to a       27% increase in revenue compared with the same period of 2011 [M].
+Furthermore, from [P]: The Healthcare section of the group contributed         &#163;29 million to the revenue of Renishaw in 2013, some 9% of Renishaw         total turnover.
+The Chairman's statement on Healthcare for the 2013         annual report stated "Spectroscopy sales continued to be the main driver         in this business segment and were at a record level."
+Renishaw offer a product line including a very large number of flexible       configurations of a fundamental Raman microscope device, within which the       innovations of Batchelder et al.
+are highly visible in the       optical setup of all the available Raman configurations [C-E].
+From       2008-13, Renishaw have produced the world's best selling research Raman       microscope, the inVia [N].
+As evidenced from [P]: The innovations of       Batchelder et al.
+have been incorporated in the inVia         microsope product which has been the world's best-selling research Raman         system 2008-13.
+New Directions and Applications     Raman analysis continues to have growing impact as a research tool.
+For       example, Renishaw Raman microscopes based on the work of Batchelder       et al.
+have been used by Oxford, Cambridge and other leading       universities to research the role of defects in graphene [O], paving the       way towards industrial manufacture and application of graphene in the       future.

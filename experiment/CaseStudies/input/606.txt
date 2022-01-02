@@ -1,0 +1,18 @@
+     This section covers the impact of the research (1) on non-academic       communities through exploitation, by joint working with others, and (2) by       other institutes who have taken up the work (from publication or other       dissemination) and applied it without further direct Plymouth involvement.
+Song was the international collaborator of the research grant awarded to       Prof. Qiushuang Chen at Nankai University in China ("Coordination         Mechanism and Cooperative Optimization and Scheduling in Green Container         Shipping Supply Chains", funded by National Science Foundation of       China).
+Song's research work on container fleet management and liner       shipping scheduling in the context of multiple uncertainties and ship       emissions has been further developed in the above project, and exploited       through application to the operations of industrial partners including       Tianjin Port, and the EAS International Shipping Cooperation.
+This has       helped industrial partners (1) improve their container inventory       management through better coordination and (2) improve their operational       activities by optimising and balancing multiple objectives (economic and       environmental performance) (cf.
+Source 1).
+Song was invited as a visiting researcher at the Hong Kong University of       Science &amp; Technology in April 2011 and led a research seminar: "CO2         emission from container shipping services".
+An outcome of the       collaboration between Professor Song and Professor Xiangtong Qi involved       the design of robust containership scheduling with uncertainty and       emission minimization.
+This has been explicitly exploited as a significant       part of the project, "Transforming Hong Kong's Ocean Container         Transport Logistics Network" (funded by the Research Grants Council       of Hong Kong), which emphasized local practical impact by providing       prototypes for the industry and managerial guidance for policy makers (cf.
+Source 2).
+Pusan National University independently took up Song's research on       container fleet management and empty container repositioning.
+This was the       basis of their work that was exploited by the Korean liner shipping       company, Hyundai Merchant Marine, and the software company, Softship Data       AG, Germany.
+The research has benefited both companies by providing them       with the tools for understanding and modelling resource utilization (cf.
+Source 3).
+Singapore National University took up Song's work on container shipping,       as the basis for collaboration with industrial partners.
+For example, the       project "Liner Shipping Network Design: Model Development, Algorithm         Design and Applications", used some of Song's results (e.g.
+containership routing and scheduling, and empty container repositioning)       to change practice in the major Singapore-based shipping line, APL Co Pte       Ltd. (a unit of the multi-national Neptune Orient Lines, the 7th       largest container shipping company in the world).
+(cf.
+Source 4).

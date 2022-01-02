@@ -1,0 +1,33 @@
+     Much progress has been made in developing high pressure, knock-resistant,       engines through a range of industrial collaborations with high value       returns.
+In parallel, the Team's fundamental studies have made major       contributions to reductions in fire and explosion hazards throughout the       automotive, aviation, and energy sectors.
+Energy efficient engines.
+Engines with high burn rates are generally cleaner and more efficient,       provided knock is avoided.
+As a result of extensive collaborations with       Jaguar Land-Rover (JLR), Lotus, Rolls-Royce (R-R), and VW, the Leeds       experimental and modelling insights into burning rates have had a       widespread influence on reciprocating engine and gas turbine design.
+The       R-R collaboration led to improved igniters and prevention of high-altitude       flame-out in aero-turbines, as well as the prevention of auto-ignition and       flash-back in land-based turbines.
+A long term collaboration with JLR [A]       and, latterly, GE Precision Engineering [B] has led to improved control of       fuel/air mixing, ignition, burn rates, and knock suppression, together       with reductions in the uncontrolled variations in working cycles.
+The       Leeds computer modelling code was incorporated by JLR into its internal       engine system modelling packages [A].
+These fundamental improvements in       the design and engineering of the companies' engines [A,B] have       contributed to their development, in the UK, of commercially very       successful, high pressure, knock-free, turbo-charged, engines.
+These are       characterised by their reduced size, yet with higher power, combined with       consequent impressive improvements in efficiency and reductions in       emissions.
+Both of these savings amount to up to approximately 30% of       previous values [A].
+Since 2010, collaborations to this end were       consolidated in the UltraBoost project [vi], which included JLR, GE       Precision, Shell, the Universities of Bath and Imperial College, with       Leeds making its major contributions in the key area of       carefully-controlled high pressure combustion, just short of the knock       limit.
+JLR has invested &#163;355M to manufacture the engines into production       [C] and has created 10,700 new jobs in UK since 2008.
+Data in [D] indicate       the huge savings from even a 1% improvement in efficiency.
+Energy efficient fuels     The detailed observations and modelling of high-pressure combustion and       auto-ignition, not only showed the widely used Octane Number criteria to       be misleading for modern engines, but it also led to the development of       alternative design approaches [E].
+These, combined with fuel tests in the       Leeds bomb, supported Shell's development of a new vehicle fuel formula       with increased burn rate and minimised auto-ignition [F].
+This world-wide       FuelSave range, launched in 2010, improved engine efficiency by up to 2%,       with consequent reduction in carbon emissions.
+Specialist support was       given also to the development of Shell's Formula One fuels and       fuel-blending laws with Sasol.
+Fuel explosions &#8212; contributions to inquiries and safety         recommendations     Following the vapour cloud explosion at Buncefield oil storage terminal       in 2005, Bradley was asked to advise the late Lord Newton's Major       Incident Investigation Board [G] into the Buncefield disaster, through       membership of its Explosion Mechanism Group.
+Findings from the Leeds Team,       along with input from others members of the expert group, were used to       explain the cause and damage from this huge explosion [H].
+From this       assessment of the explosion dynamics, the Inquiry recommended specific       measures to prevent a recurrence [G].
+The introduction of new safety       standards, site layouts and technologies [F], informed in part from a       scientific understanding of the explosion, has had a significant impact       for the UK.
+The new safety measures will have helped to avert a similar       explosion which had a total economic cost of around &#163;1billion [G].
+The       implementation cost of all the recommendations was calculated at       approximately &#163;82M, with an estimated benefit through the reduction of       risk "in the region of &#163;162million" [G].
+Jet-Flames     The Team's jet-flame model has been used in the important area of flare       design by Shell [F] and validated in tests at the South West Research       Institute.
+The Team's correlation of jet-flame data, with parameters drawn       from the computer model, is invaluable for estimating the magnitude of oil       field blow-outs, and designing non-polluting flares.
+After Bradley's       earlier involvement in the Concorde fire Inquiry, Qinetiq asked him to use       the Leeds jet-flame model to quantify upstream fuel leaks from the       observed sizes of the fire plume from the Nimrod aircraft over       Afghanistan.
+This confirmed magnitudes of fuel leakage after in-flight       re-fueling.
+The subsequent Haddon-Cave Report [I] resulted in the Nimrod       being withdrawn from service, averting the possibility of further crashes       and potential loss of life.
+Impact on Society, Culture and Creativity     The stretched turbulent flame codes are freely available and are being       used by other groups.
+They are embodied in the THOR fluid dynamics code of       the Daresbury Laboratory, developed in collaboration with the Leeds group.
+The Team contributed to BBC programmes, for radio on oil field blow-outs       and for TV on the Olympic flame (2012).
+The findings on the limitations of       Octane Numbers have had international repercussions throughout the       automotive and oil industries.

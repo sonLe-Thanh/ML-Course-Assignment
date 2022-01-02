@@ -1,0 +1,27 @@
+     During flight through clouds, suspended super-cooled water droplets       impact onto the wings and all       forward facing parts of an aircraft, and then turn to ice.
+Unchecked, this       icing can lead to loss of lift       and ultimately control, with very serious safety implications.
+The total       loss of an ATR72 of       American Eagle flight 4184 in 1995 at Roselawn which killed all 68 people       on board, was primarily       due to aircraft icing.
+This was despite the aircraft being certified as       safe to fly in the weather       conditions of the time, and the anti-icing systems being fully functional.
+It was ultimately       understood that, while the existing certification and icing models were       effective in conditions with       clouds of small droplets (~20 microns), they were not valid for larger       droplets (up to 1500 microns).
+Although rare, this is not an isolated incident.
+A similar fate befell       Aero Caribbean flight 883 in 2010       where icing caused by large droplets was again the primary cause of the       accident, with the loss of       68 lives.
+The added complications of larger droplets, such as droplet distortion       and, especially, of splashing       meant the predictions of existing trusted models were wrong.
+They       significantly over-predicted the       rate of ice growth and did not predict ice formation as far back on the       wing as seen in practice.
+Initial attempts to include simple empirical models failed to       significantly improve the situation.
+Since       2003, much research effort worldwide has been focussed towards       understanding the fundamental       problems in large droplet impacts and how they relate to icing.
+The impact of the research described here has been primarily achieved       through collaboration with       AeroTex UK.
+This is an SME established out of the aircraft icing       and rotorcraft group at QinetiQ, a       large defence company that originated from the Defence Evaluation and       Research Agency       (DERA).
+AeroTex offer consultancy to the aircraft industry in the       field of aircraft icing, including ice       prediction, icing protection and design.
+They develop icing prediction       codes, and help to design       and certify ice protection systems.
+Whilst details of their customer base       are confidential, they have       confirmed that it includes several major aircraft manufacturers and       equipment suppliers (see       corroborating source [A]).
+Our fundamental research on large droplet impacts and splashing has       enhanced understanding       and offered crucial insight into a critical, and previously little       understood, aspect of aircraft icing.
+It       has fed into and informed AeroTex expertise, helping them to       establish themselves as leading       consultants in their field.
+The knowledge garnered from our research has       enabled AeroTex to       improve the products they can offer their clients by more accurately       incorporating the influence of       splashing into their prediction codes.
+The value of the UEA research to AeroTex is confirmed in a       supporting letter from the founder of       AeroTex UK and Aircraft Icing Consultant:     "The research undertaken at UEA has contributed to an improved knowledge       of large       droplet and splashing dynamics and has enhanced AeroTex expertise.
+It helped us to       produce improved numerical models.
+As a result we can offer ice prediction       and icing       protection design software which is better than our competitors.
+Specifically we provide       prediction codes, AID (Aircraft Icing Design) and DRT (Droplet Residence       Time), which       include aspects of super-cooled large droplet behaviour that the UEA       research, along with       other theoretical and experimental investigations, has helped inform."
+Additionally, Hicks spent a year working at AeroTex UK, helping       to develop further numerical       models.
+Hicks' research and expertise in aircraft icing was developed       during his postdoctoral       position at UEA, making him ideally placed to help AeroTex UK with       their product portfolio.
+This       resulted directly in the development of new design tools, particularly for       thermal and mechanical       anti-icing systems (see corroborating source [B]).
+By providing fundamental insights into the basic physics of droplet       impacts and splashing, UEA       research has aided industry to further their understanding of aircraft       icing and to develop better       design tools, ultimately leading to improved air safety.

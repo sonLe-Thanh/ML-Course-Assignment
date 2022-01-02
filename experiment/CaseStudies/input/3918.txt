@@ -1,0 +1,12 @@
+     The original and rigorous research at Loughborough University by       Professor Grimshaw and colleagues since 2000 has resulted in a new       modelling paradigm for non-linear oceanic waves.
+This research has had       impact not only for fundamental science, but also for the marine engineers       and ship operators worldwide who are concerned with the effect of these       waves on offshore structures and submersibles.
+This has given tools to       experimentalists and numerical modellers to find theoretical       interpretations of their observations and results.
+The research means that the KdV model, with its various extensions and     modifications, is now routinely used as the basic paradigm for the dynamical     understanding of the nonlinear internal waves commonly found in the coastal     oceans.
+The large number of keynote presentations by Grimshaw, for example [5.1-5.3],     provide evidence of the widespread dissemination of this research to end     users and the interest the work has attracted.
+This major change extends to end-users such as marine and oil industry       engineers, and to the navy scientists concerned with submersibles and       acoustic signalling [5.4].
+Examples of applications of our       research comes from funded experimental work from the Office of Naval       Research (ONR).
+Professor Louis Goodman, now at the School for Marine       Science at the University of Massachusetts has carried out considerable       work for the ONR using the theories of Grimshaw, [5.5].
+Oil       companies, such as BP, Exxon Mobil, StatOil, have also benefitted from       this work as working offshore needs the capacity to predict the occurrence       of these large waves, and to assess the impact of waves on structures and       pipe lines.
+Submersibles routinely communicate using sound signals, which       are hugely distorted by internal waves.
+For this reason the US Navy       through ONR has conducted several major ocean experiments, utilising       theory first developed at Loughborough University.
+The benefits to these users include the better prediction of the       occurrence of large waves leading to an improved assessment of the impact       of the waves on under-sea structures and pipelines; and improved       communication for submersibles whose communication is largely disrupted.

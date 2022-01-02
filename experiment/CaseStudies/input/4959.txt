@@ -1,0 +1,37 @@
+     Policy and Economic Impact.
+Pioneering work at the Unit [A]       and close collaboration with NNL       [A,B,C] has resulted directly in a clear policy decision by the UK       government to further invest       &#163;18.4M in a programme focused on enabling technologies for innovative       space missions including       space nuclear power [E].
+The work of the Unit, NNL and UK space       industry has hence resulted in       the creation of a new industry in the field of space nuclear power.
+New       missions are being       considered which will be powered by radioisotope systems.
+On 21 November       2012 16:00, a       Department for Business, Innovation and Skills press release included the       following statement:         "...this optional technology programme will see the UK take the           leadership in developing         nuclear power sources for space missions in synergy with the future           civil nuclear power         programme...This complements the work on future international           missions to succeed the         current ExoMars mission, and could potentially demonstrate strong           spin-out technology in         the terrestrial economy.
+This part of the press release       refers to the policy decision by UK       government at the ESA Ministerial meeting in November 2012 to invest &#163;18.4       million in an optional       ESA programme, which includes space nuclear power [A,B,E].
+This impact is a result of a sustained campaign by the Unit and NNL to       inform and educate policy       makers [A,B,D,E] about the role that these systems can make in       leveraging a position for UK       industry and academia in future space missions together with the wider       benefits from technology       spinouts, e.g.
+new materials and material processing methods applied to       the nuclear industry for       radioisotope containment safety and fuel form.
+The outputs of the research       by the Unit in the form       of working prototype systems, novel safer radioisotope encapsulation and       containment systems       were demonstrated as examples of the benefits that sustained investment in       technology can have.
+The total investment in technology development including: RTGs, isotope       production and       containment and Stirling engine conversion systems in the UK between 2008       and 2012 has been       in excess of &gt;&#163;4M.
+In industry and academia this has had a very       significant impact by sustaining       and creating tens high-value jobs [A].
+The confirmation [April 2013, A, B, E] of the release of a yet       further ~&#163;2M will see further       investment in space nuclear power systems in industry and academia.
+Spin Offs.
+Americium is extensively used in production of       smoke alarms, oil well logging systems,       gamma-ray and neutron radiation sources [4].
+The policy decision made by       the UK government       which is referred to above is also aimed at producing a competitive UK       supply of americium-241 for       a terrestrial market currently dominated by Russia.
+The development of a       novel radioisotope       containment method using spark plasma sintering in refractory metals by       the Unit to create a       composite of the metal and americium has been shown experimentally [1, 5,       6] to reduce the need       to process the radioisotope thus reducing the risk to radiation workers to       immobilise and disperse       the radioisotope in a metal structure to reduce the risk of exposure,       impact on the environment and       improve prevention of release.
+This method will be adopted as part of the       study on fuel form       fabrication that will be led by the NNL as part of the policy decision by       government to invest in       space nuclear power.
+Technology.
+First generation European radioisotope       thermoelectric generator prototype system       (producing 80 watts of heat to generate 5 W of electrical power)       development led by the Unit.
+Working prototype delivered to ESA in 2012 [B].
+Evolution of Impact.
+The Unit and NNL, led a number of       initiatives [A, D] to engage with and inform       MPs and Ministers of the work being carried out in the UK, future benefits       to space and technology       transfer activities.
+These initiatives are highlighted in sequence below.
+An independent ESA funded study (&#8364;150,000) by NNL and SEA Ltd follows         the Unit         pioneering work funded by the EPSRC (as mentioned above) and in         collaboration with Centre         for Space Nuclear Research, Idaho, USA, and concludes in 2010 that         americium-241 is the         isotope of choice for Europe's space nuclear power programme.
+The early work done by the Unit leads to an ESA contract award to lead         the development of a         RTG (&#8364;660,000).
+Collaboration established with Astrium UK.
+A working         prototype system is         developed.
+ESA, in 2010, award a contract (&#8364;200,000) to SEA Ltd, the Unit,         Lockheed Martin UK and         National Nuclear Laboratory to develop two concepts for radioisotope         containment and safety,         one being a pioneering method developed by Leicester.
+A prototype         containment method is         developed.
+NNL win an ESA contract in 2011 (&#8364;1,000,000) to lead and develop the         extraction process for         americium from the UK's separated civil plutonium stocks.
+The Unit and         SEA Ltd are included         in that programme.
+Representatives from NASA and US Department of Energy travel to the UK         and visit the NNL         and the Unit to explore areas for collaboration as part of a series of         planned exchanges.
+This         is direct result of NNL and the Unit strategy to engage in discussions         with US e.g.
+by         participating in key conferences between 2009 and 2012 [C].
+UKSA award a contract (&#163;100,000) to Astrium UK, SEA Ltd and the Unit         to develop a roadmap         for the future, explore mission opportunities and requirements by         building on current activities         and existing knowledge.
+ESA award a contract (&#8364;200,000) to Astrium UK and the Unit in 2013 to         explore a new mission         concept that will use space nuclear power and a novel propulsion system.
+Large Mars Hopper         vehicle concept is designed [3].

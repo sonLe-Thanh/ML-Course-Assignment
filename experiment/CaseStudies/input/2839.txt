@@ -1,0 +1,46 @@
+     There are two primary and four secondary impact items.
+I1.
+2011.
+The research on semantic data integration       (STELLAR) provided tools and techniques that enabled the Archaeology Data       Service (ADS http://archaeologydataservice.ac.uk/)       to extract and publish Linked Data from major commercial archaeology       units' excavation datasets, integrated semantically via mapping to the       CIDOC CRM ontology.
+It is envisaged this will serve as a catalyst for       further production of archaeological Linked Data by ADS and others.
+Building on this work, we are leading the FP7 ARIADNE archaeology       e-infrastructure Work Package, Linking Archaeology Data.
+The research enabled ADS (non-specialists in semantic technologies) first       foray into Linked Data and represents a major development in practice and       capability by ADS and in UK archaeological data publication.
+It has       generated considerable attention &#8212; from June 2012 over roughly 12 months,       41,110 requests were made to the SPARQL endpoint to the Linked Data which       averages approximately 3425 requests per month.
+Lee (2012) positively       refers to non-specialist STELLAR tools in an English Heritage Practitioner       article.
+The significance also derives from the importance       of the published datasets and the exemplar.
+The Linked Data includes       datasets drawn the Channel Tunnel Rail Link and the Aggregates Levy       Sustainability Fund, major archaeological programmes with excavations       undertaken by two of the largest commercial units in England (Oxford       Archaeology Ltd and Wessex Archaeology Ltd).
+Other datasets included an       excavation database with details of the earliest ironworking yet known in       Britain.
+As the only record of unrepeatable fieldwork, it is essential       that these data are preserved and made available for re-use and       re-interpretation.
+Commercial archaeology units benefit from wider exposure of their data       and the ability to cross search across different datasets from different       units and for reuse of data (with potential economic benefit).
+The reach       is amplified by the key strategic role played by the ADS nationally and       internationally.
+The ADS is a national repository for digital data from       the UK historic environment sector, crosscutting the academic and public       and private sectors.
+It provides online access to over one million       metadata records on behalf of national government agencies, local       government Historic Environment Records, and amenity and period societies       and other specialist databases.
+The ADS user community includes national       and local government archaeologists and cultural heritage managers,       museums and commercial archaeologists and members of the public.
+I2.
+July 2013.
+We (and the vocabulary partners in       the SENESCHAL project) published as (SKOS) Linked Data the nationally       recognised cultural heritage thesauri standards from English Heritage, the       Royal Commission on the Ancient and Historical Monuments of Scotland and       the Royal Commission on the Ancient and Historical Monuments of Wales.
+This includes concepts widely used for indexing relating to monument       types, archaeological events and time periods.
+The significance is that previously the vocabulary       providers lacked the ability to facilitate uniquely identified semantic       indexing of data.
+Major thesauri can act as vocabulary hubs for the Web of       Data (as suggested by W3C Library Linked Data Incubator Group).
+For       example, the availability of the Thesaurus of Monument Terms in this way       is seen as a major development for the ADS archive metadata Linked       Data (ADS Blog).
+This Linked Data publication of the English Heritage       thesauri is a significant development in their vocabulary standards       practice and their information access strategy.
+The potential reach is wide since it is a core activity of       ADS, English Heritage, The Royal Commissions on the Ancient and Historical       Monuments of Scotland/Wales to promote and disseminate best practice to       the heritage sectors, as well as providing guidance on appropriate data       standards including thesauri.
+The linked data vocabularies and web       services will be integrated into the widely used ADS reporting/archiving       tool, OASIS, which is in near universal use by commercial and local       government archaeologists.
+Adoption of linked data based vocabulary       management in this tool will immediately affect how all sectors engage in       archaeological field practice and development control planning.
+I3.
+2010.
+We represented the English Heritage       archaeological extension to the CRM ontology in RDF and as Linked Data.
+This allowed it to be a key ontology hub in the ADS archaeology Linked       Data [I1].
+This is another important step in English Heritage's strategic       plans for information standards.
+I4.
+2012.
+The Deutsches Arch&#228;ologisches Institut       have used STELLAR research tools to make a SKOS version of the DAI       Archaeological Thesaurus (German language).
+I5.
+2011.
+We supplied the UK Data Archive (Essex)       with their first SKOS version of HASSET, the pre-eminent social science       thesaurus.
+This was very helpful for their development of HASSET.
+I6.
+March 2013.
+ISO 25964-2 published &#8212; Tudhope was       a member of the ISO Working Group.
+Building on previous work for the       British Thesaurus Standard BS 8723, the research focus on complementary       use of thesauri and ontologies has contributed to the chapter on thesaurus       &#8212; ontology interoperability for the new thesaurus standard, ISO 25964       (part 2).
+The ISO thesaurus standard has been widely influential and the       potential audience includes all commercial information system designers       and developers making of thesauri or related vocabularies.

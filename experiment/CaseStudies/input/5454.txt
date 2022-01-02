@@ -1,0 +1,45 @@
+     Process/events from research to impact:       Diagnostic Monitoring Systems (DMS) Ltd was founded in 1995 by key       researchers Farish,       Hampton and Pearson to commercialise UHF technology for monitoring gas       insulated substations,       initially as a joint venture between Scottish Power, National Grid and the       University of Strathclyde.
+Fundamental research during 1993-1999 yielded key innovations, laying the       foundation for market       leadership.
+Growing rapidly, DMS came to dominate the world market,       ousting rival UHF products       including systems introduced by ABB and Siemens.
+DMS' early business       successes were       recognised through awards such as the Scottish Council for Development       &amp; Industry's Award for       Outstanding Achievements in Exports (2005) and the Queen's Award for       Enterprise (International       Trade, 2006).
+Types of Impact       Expansion of spin out company: In 2009, DMS was acquired by       Qualitrol Company LLC, part of       the giant US-based Danaher Corp, which owns many well-known international       engineering brands       such as Tektronix, Fluke, Keithley Instruments, Leica Microsystems and       Gilbarco.
+Danaher has a       track record of growth through strategic technology acquisitions and       global business development &#8212;       its total sales in 2012 exceeded US $18B (Source A).
+In 2010, with this       backing, DMS expanded       into substantial new premises in the heart of Glasgow, which were fully       refurbished as a state-of-the-art       manufacturing / R&amp;D facility.
+Qualitrol itself is a well-established       supplier of components       and monitoring equipment for power transformers.
+Consequently,       Qualitrol-DMS has been able to       reinforce its position as the leading provider of monitoring technologies       and services globally within       a much expanded market for UHF-based systems.
+(Source B corroborates all       information on       Qualitrol-DMS.)
+Employment: Skilled jobs have been created in Glasgow as DMS has       grown.
+For example,       between 2010 and 2012, the workforce increased from 37 to 56 staff, which       included 8 new R&amp;D       posts and 5 additional production staff.
+Provision of KE and consultancy: Recognising a growing need for       monitoring of power       transformers and the pioneering research in this field being carried out       at Strathclyde, DMS set up       a Knowledge Transfer Partnership with the University (KTP ref.
+6231, UHF         monitoring and partial         discharge location system for power transformers; Judd, Moore;       &#163;159k; 2007-2009).
+This       delivered the first practical UHF-based system for detecting, locating and       visualising in three       dimensions PD sources inside large power transformers.
+From the KTP, the       on-going partnership       between Strathclyde and DMS led to the introduction of new UHF sensor       technologies and       calibration systems, and has opened up the power transformer monitoring       field to UHF PD       detection technology.
+Strathclyde has played a leading role in discovering       the capabilities and       advantages of UHF monitoring for power transformers and disseminated the       findings through       publications, contributions to international working groups and knowledge       exchange activities.
+In       April 2008 Judd was a member of a group of international transformer       experts producing a final       report for the International Council on Large Electric Systems (CIGRE), a       non-profit association for       promoting collaboration with experts from around the world.
+The report       (Technical Brochure 343)       recognised the role of UHF PD detection and location and recommended that       additional valves for       installing UHF sensors be specified on transformers that form important       links in the transmission       network.
+Consultancy services were provided to DMS by Judd to evaluate UHF PD       location trials during       factory tests at ALSTOM (Stafford, 2008), Brush Transformers       (Loughborough, 2009), VonRoll (Tel       Aviv, 2010) and Sunbelt (Texas, 2013) and consultancy services were       provided by Judd at the       request of Singapore PowerGrid in 2010/11 (Source C).
+International sales and market penetration: Qualitrol-DMS is the       preferred supplier of PD       monitoring systems to major international manufacturers of gas insulated       substations including       Siemens, ABB, Areva and Hyundai.
+By 2012 sales had increased by 82% to       &#163;11.1M, compared       with &#163;6.1M at the end of 2007.
+More than 90% of sales value represents       exports from the UK.
+By       2012, the company had doubled its annual profits compared with pre-2008       figures and total       exports for 2008 - 2013 have exceeded &#163;45M (Source B).
+Further growth is       ensured through       expansion into the transformer monitoring market, fostered by       Strathclyde's pioneering research       activities in this field.
+Notable examples of penetration into the       transformer market include:            UHF sensors and monitoring system have been installed on gas-insulated         transformers at         Scottish Power's flagship Dewar Place substation in Edinburgh, which         supplies the capital's         financial district.
+The SF6-filled transformers and reactors         manufactured by Toshiba Corp are         the first of their kind to be installed in the northern hemisphere and         the first to be equipped with         UHF monitoring.
+Ten individual gas-insulated units are fitted with a         total of 36 UHF sensors to a         design based on the original capacitive sensors developed at         Strathclyde.
+All of these were         calibrated on Strathclyde's frequency response measurement system.
+AEP (American Electric Power), the largest US Transmission company,         spread over 11 states,         operating 3500 substations and 5500 transformers, has adopted the UHF PD         monitoring         technique within its evolving smart grid strategy.
+Six transformers         manufactured in 2012 were         equipped with 4 UHF sensors each to enable continuous monitoring once in         service.
+These         units are the first of an initial batch of 42 large power transformers         with a `built-in' UHF         monitoring capability that AEP is deploying as part of its network         upgrade strategy.
+SP Energy Networks (SPEN) policy document for Lifecycle Management of         Large Power         Transformers (rev.
+Feb. 2013) states that, "All new large power           transformers will be fitted with           four additional 50DN ball valves fitted with blanking plates for the           possible installation of through           tank probes utilised in PD monitoring" and goes on to define the         positioning of the probes based         on recommendations for sensor location deriving from Strathclyde         research (Source D and E).
+SPEN has also deployed continuous UHF monitoring on 4 power         transformers at its Clyde         North wind farm substation.
+One of these units is also equipped with the         first on-line monitoring         system that allows PD location to be carried out using time-of-flight         measurements inside the         tank.
+This system was developed collaboratively between Strathclyde and         Qualitrol-DMS within         a KTP project, originally as a diagnostic tool used by an expert         on-site.
+This new         implementation provides a platform for complete automation of the         process.
+Benefits to the consumer: UHF PD monitoring technology resulting       from Strathclyde research       and commercialised through DMS is providing diagnostic services for       electrical equipment in 27       countries that include Brazil, China, Russia, USA, Korea, Singapore,       Malaysia, India, Australia and       six Gulf states (Source F).
+In these nations, electrical utilities that       use the UHF technology benefit       financially by avoiding unplanned outages of these critical gas insulated       substations, which result       in emergency repair costs, damage to corporate reputation and can often       lead to regulatory       financial penalties for causing loss of supply to customers.
+Consumers       (both domestic and       commercial) who depend upon a continual source of electrical power also       benefit from improved       quality and reliability of supply.
+Power disruption has potentially severe       consequences for industrial       processes (e.g.
+semiconductor foundries) and society (e.g.
+hospitals,       computing installations).
+UHF       monitoring technology contributes to the maintenance of a continual       electricity supply by providing       early warning of developing insulation defects in HV equipment, allowing       maintenance to be       scheduled in a way that avoids supply disruption.

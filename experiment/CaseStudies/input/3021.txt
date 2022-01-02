@@ -1,0 +1,53 @@
+     Context     Chemical sensors for process industries including water, oil &amp; gas       and manufacturing are prone to       failure due to the harsh environments in which they have to operate.
+Environmental managers are       increasingly required to detect and quantify trace gases and vapours of       land, air and water sites in-order       to meet the regulatory and legal requirements concerning environmental       pollution.
+Prior to       our research, industry was unable to monitor trace levels of gaseous       contaminants, odours, or       other chemicals as available instrumentation was not sufficiently       sensitive to detect the low       concentrations involved.
+Our research led to the introduction of a new       non-contact technology,       based on monitoring the headspace vapours and provided the relevant       industries with a viable       solution.
+The non-contact approach is vital to providing the highest level       of protection of plant,       equipment, customers and the environment.
+Furthermore it decreases       dramatically (by a factor of       12) the service costs associated with the use of other technologies       involving direct contact with the       media.
+Pathways to impact     The research was published in leading journals (see Section 3) and       presented at international       conferences, where it was possible to demonstrate the advantages of the       instrument over existing       technology.
+This exposure generated significant interest within the UK and       from international       countries including USA, Korea and Japan.
+Proof of principle funding from       The University of       Manchester allowed the E-nose sensor to be patented, developed, tested and       endorsed.
+Testing       and endorsement was carried out by the Water Research Council UK.
+The       E-nose was       subsequently spun-out as Multisensor Systems Ltd in 2007.
+Reach and Significance of the Impact     Multisensor Systems Ltd     From 2008 pilot sales of E-nose to UK Water companies generated sales       revenue worth &#163;150k.
+Achieving CE marking &amp; compliance testing certification led to sales       of instruments (ca.
+60) to       companies including the major UK water companies and the US Airforce.
+In       2010, independent       investor funding allowed the hiring of the first full time employees, and       today 6 people are       employed.
+Multisensor Systems Ltd began to subcontract instrument       manufacture, which provided       two further positions within a small company based in Yorkshire.
+During       this time more than 200       units are now in use with turnover for financial year 2012/2013 (31/7/13)       reaching &#163;435k.
+Currently,       distribution networks exist in Asia, USA and Canada.
+With plans to expand       into Australasia and       South America, it is anticipated that sales will continue to grow rapidly       [i].
+Impact on Users:     Water Industry     Clean and waste-water monitoring is essential for the water industry to       protect the environment       and comply with regulations.
+From 2005 to 2010 the UK water and sewerage       utilities collectively       invested a total of &#163;20bn in their infrastructure and will invest a       similar amount in the period 2010 to       2015.
+E-nose provides an effective, on-line, real-time monitoring and       alarm generation for the       protection of raw water intakes, alerting users to fuel leaks by       monitoring oil levels in water.
+In 2008       Multisensor Ltd collaborated with Yorkshire Water to develop the Volatile       Organic Compound       (VOC) sensor system which can be used on both wastewater and water       treatment plants.
+Following the successful implementation of the sensor in North Yorkshire,       the major UK water       companies now use this sensor.
+Anglian Water Services Ltd is the largest water and wastewater company in       England and Wales       servicing six million domestic and business customers and delivering ca.
+1.2 billion litres of water       each day.
+It uses several VOC monitoring systems originally developed       using the innovative       E-nose research carried out at The University of Manchester.
+Peter       Barratt, senior water quality       specialist, says "The E-nose technology we use has provided a         significant reduction in risk to plant         and customer water supplies; intake protection on higher risk lower         abstraction cost sources will         save operational expenditure and may prevent or delay capital         expenditure."
+[ii].
+In addition, per       installation, the costs of servicing a conventional monitoring unit would       be typically around &#163;4,800       compared with just &#163;400 for the Multisensor system.
+With more than 200       units currently installed,       the savings in servicing alone are considerable [i].
+Regulations limiting the levels of Trihalomethanes (THMs), a carcinogenic       by-product of       disinfectants, in drinking water have made it essential, throughout the       distribution network, to have       the ability to measure low levels of these compounds.
+Multisensor's THM       monitor provides that       facility efficiently and accurately, with users in the UK, Europe and the       rest of the world.
+Mejoras       Energeticas, a major water quality control company in Spain, refer to the       impact of the Multisensor       system in process analysis: "being able to measure online makes it         possible to control the process         and the risk.
+The non-use of chemicals means zero waste and maintenance         free technology [iii].
+Heyward Inc., USA, have also used Multisensor's THM monitor since 2010       throughout their       distribution network (the entire southeast and mid-Atlantic United States)       to ensure that their clients       are meeting the regulatory and legal requirements.
+Michael Ping, Heyward       Inc.
+Engineer, says       "The E-nose technology is used to monitor and minimise chemical dosage         at our water treatment         plants.
+This reduces our potential liability as we meet regulations and         the system offers effective         cost savings to our company" [iv].
+Energy savings in THM reduction       systems, brought about       through the use of the THM monitor, are estimated to be in excess of &#163;300k       per annum for each       system.
+Associated reductions in chemical usage are estimated to be 31%       (equivalent to ca.
+&#163;45k       per year).
+In addition to these direct savings, the value of regulatory       compliance is clearly       significant [i, v].
+Manufacturing Industry     In 2010 Cummins Engineering Company, a global diesel engine manufacturer       implemented       Multisensor System's VOC detection instrument at their Darlington engine       test facility.
+Paul       Malpass Technical Specialist at Cummins' engine test facility said "The         new emergency spillage         containment system using Multisensor's VOC detection instrument provides         the security which         Cummins demands to protect the local environment and infrastructure to         the highest level."
+[vi].
+In       2012 the VOC instrument saved Cummins' Diesel in excess of &#163;50k as there       was a fuel line failure       during the Christmas shutdown.
+Cost savings are associated with clean up       and fuel (ca.
+&#163;20k),       fines from Environmental Agency (tens of thousands), and legal costs (ca.
+&#163;20k) [i].
+The E-nose instrument can provide early detection and potential future       losses have been mitigated       by improved methods of risk assessment and management avoiding scenarios       such as; in 2010 an       Insulation Firm was fined &#163;12,000 after washing spilt oil down the drains       (Barbourne Brook at       Gheluvelt Park and into the River Severn) [vii], in 2012 Bradford Council       were fined &#163;250k       following a Diesel Spill [viii] and Enbridge Energy incurred a record fine       of US$3.7m in 2012, for       crude oil leakage during 2010 in Marshall USA where an undetected       malfunction resulted in       877,000 US gallons of oil reaching a river.
+The clean-up operation is       still on-going with costs       already in excess of $765m [ix].
+With 50 VOC units active, if each unit       has prevented just one       incident, the value to the water companies has been at least &#163;100m [i].

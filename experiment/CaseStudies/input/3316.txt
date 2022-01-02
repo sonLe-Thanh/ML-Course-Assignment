@@ -1,0 +1,31 @@
+     The primary beneficiary of our impact is OIN, and through them to a wider       community of scientists and industrial facilities that require ULT       platforms and reliable, convenient thermometry.
+The CSNT has also had       direct impact on the NMIs that maintain and disseminate the temperature       scales.
+A strong program of collaboration and joint development with Oxford         Instruments Nanoscience, has led to the creation of new innovative         products.
+OIN is a global company that creates high performance       cryogenic and cryogen-free environments for ultra-low temperature and high       magnetic field applications in physics, chemistry and materials science.
+The importance of these products has been recognised through a Queens         Award to Industry 2010, and the IoP Gold Medal in Business and         Innovation (Dr Graham Batey, 2011).
+These products have contributed       to OIN maintaining its leading world market share.
+The Technical Director       of OIN states in a letter of support: "By identifying key areas of         collaboration and joint development it is clear that RHUL and OIN have         been able to use a strong and fruitful partnership for the benefit of         the wider scientific community by developing new products, the UK         economy by providing employment and commerce and the local scientific         community by providing training, collaboration and career development."
+This partnership was formalised through a 2010 Memorandum of Understanding       (MoU) between Royal Holloway and OIN.
+OIN has invested in Royal Holloway       through a &#163;200k contribution to a &#163;800k low temperature infrastructure       upgrade in 2010.
+This consisted of a new nuclear demagnetisation cryostat       for the study of semi-conductor samples at ULT and a cryogen-free dilution       refrigerator which provided the platform for the first demonstration of       nuclear cooling below 1 mK on a cryogen-free system.
+This activity is       supported by a matched funding Impact PhD studentship.
+The impact of the specific products developed is:     (1) The 1994 development of the cryogenic cycling fridge led directly to       the 1997 product launch of the Kelvinox AST.
+OIN built and delivered over       15 such systems up until 2003, with a combined revenue of &#163;1.3M.
+Most of       these systems are still in use today.
+(2) The Kelvinox 400HA was developed based upon the prototype produced       through the EPSRC Joint Research Equipment Initiative [G1].
+This product       has been on sale since 1998 and plays an active part in OIN's current       portfolio with over 50 systems delivered, with a combined revenue of over       &#163;7M.
+(3) Based on the prototype microkelvin cryogen-free experimental       platform, OIN have launched in July 2013 the first such product,       responding to demand from the Quantum Information Processing community.
+OIN are projecting that this field will develop into a global market worth       $1B by 2025.
+Practical primary thermometry for ULT applications.
+The impact of       the development of the Current Sensing Noise Thermometer comes through its       influence on the policies of NMIs such as PTB (Berlin) and NPL (London)       and changing the procedures of OIN.
+Disseminating the PLTS-2000 scale, where noise thermometry plays a       critical role, was achieved through the FP5 funded programme [G5]       supported by a Royal Society Study visit [G3].
+This emphasized       discrepancies in PLTS-2000 [4,5], which are being addressed by the       EMRP-funded programme JRP-s13 "Implementing the new Kelvin" [G8].
+This       EMRP project will arrive at a better determination of thermodynamic       temperature.
+Through the EMRP project and building on earlier research [2,3], and       subsequent development partly funded by the West Focus PARK Fund [G6], in       2009 we developed a practical, fast and user friendly noise thermometer.
+This provides a practical route for disseminating thermodynamic       temperatures to end users.
+The impact is to enable industrial suppliers of       low temperature platforms to factory test the performance, to test on site       as part of commissioning, and importantly to allow users/customers       themselves to confirm continued operation.
+Our set-up was successfully       tested on the OIN factory site at Tubney Woods, and future OIN       cryogen-free systems will be delivered with a current sensing noise       thermometer for onsite performance tests, replacing the Cobalt-60       thermometer currently used.
+Via our collaboration with PTB [G2, G7 and G9] our work has stimulated       the production of a related noise thermometer by Magnicon GmbH, a spin-off       company of PTB.
+Their product, the MFFT-1 (magnetic field fluctuation       thermometer), was launched in 2008 at ULT2008, "Frontiers of Low       Temperature Physics", a conference organised at Royal Holloway.
+The long standing relationship with OIN has also helped supply their need       for high quality postgraduate level staff.
+Royal Holloway students and       staff who went on to work for Oxford Instruments: Marcio Siqueira,       formerly of OIN, founder of Almax easyLab; Vladimir Mikheev, until       recently a consultant engineer at OIN involved in development of       cryogen-free dilution refrigerators; Simon Kingsley, now ULT       engineer at OIN; Junyun Li of OIN China; Hetal Patel,       development engineer at OI Molecular Biotools.

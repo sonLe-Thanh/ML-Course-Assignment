@@ -1,0 +1,35 @@
+     Boujou was the first automatic camera tracking system developed       worldwide, and has delivered a step change in the way that visual effects       are incorporated into films, adverts, games, TV programmes and other       environments where virtualisation plays a core role.
+Societal Impact &#8212; quicker, cheaper production of more convincing         special effects     By eliminating the need to rely on ponderous, expensive ways of computing       a camera's movement, Boujou has made it simple and affordable to add       sophisticated computer graphics to film: "on long, complex shots, using       Boujou can cut two to three weeks off the completion time" [6(a)].
+The       software won a Technical and Engineering Emmy in 2002 [7] for its       "revolutionary impact on the creation of complex visual effects".
+Since       then, it has established itself as the preferred software for numerous       film and visual effects companies and is used on almost every cinema film       with CGI content.
+Key examples in the period 2008 to 2013 include:                                Film           Awards/quotes                             The Curious Case of Benjamin Button (2008)           [2009] Oscar for Best Visual Effects [8].
+Tropic Thunder (2008)           Visual Effects Supervisor, CIS Vancouver [9]: &#8220;There were around             110 shots that required tracking.
+There was one shot in particular             with Robert Downey Jr. coming in via helicopter and it crashes.
+The             final edit looks seamless.
+Boujou has always been my weapon of             choice                             Angels and Demons (2008)           Nominated for a Visual Effects Society award in 2010.
+Harry Potter and the Deathly Hallows Part 1 (2010)             &amp; Part 2 (2011)           Both won Oscars for Best Visual Effects.
+Part 2 also             won a Best Special Visual Effects BAFTA.
+Boujou's ubiquity is also reflected in its extensive use by individuals       making their own films.
+Videos from all over the world acknowledge its       contribution (see http://vimeo.com/tag:boujou)       and many YouTube videos show how to use it (e.g.
+http://www.youtube.com/watch?v=7PsGdjwht_A).
+In addition,       Hollywood's Gnomon School of visual effects offers professional training       for users (see teaching DVDs for sale at http://www.robots.ox.ac.uk/~vgg/publications/2000/Torr00/torr00.pdf).
+Economic Impact &#8212; commercial success and wealth creation     Software libraries developed as part of the underpinning research were       licensed to 2d3, a company created in 1999 by Vicon (part of the Oxford       Metrics Group) to sell Boujou to the film industry.
+In 2009, Vicon took       over direct ownership of Boujou and, to date, has secured &#163;1.37 million in       revenue through sales of 654 licences for the software [10], purchased by:     - Post-production companies in the film and advertising industries, with       Boujou making a key contribution to a 2009 Kleenex advertisement, for       instance [11].
+- High-profile television companies such as the BBC and CNN [10].
+- Companies active in the computer game and architectural markets, e.g.
+Ubisoft and EA Games.
+- Universities, where it has been used as a teaching tool, in sectors       outside science and engineering, e.g.
+the Univ.
+of York, Dept.
+of       Theatre, Film and Television http://www.york.ac.uk/tftv/about/building-facilities/equipment/;       Florida State Univ., College of Motion Picture Arts http://film.fsu.edu/About/Facilities/Visual-Effects-Lab.
+The commercial benefits of using Boujou, have continue to affect the       worldwide entertainment industry.
+By using it, special effects sequences       have become cheaper to produce and therefore much more ubiquitous,       enhancing the entertainment value of films, TV shows etc., and       translating into increased audiences and higher profits.
+Endorsements       include:     - "We are constantly amazed at what Boujou is able to track.
+In fact, it       has become a verb in the jargon at Ring of Fire: `Let's Boujou it!'"
+[6(b)].
+- "Ease of use is a hallmark of Boujou, yet the software can do       incredible things.
+The beauty of the application is that it just does what       it needs to do: produce a moving camera from film or video without the       need for the artist to track input manually" [6(c)].
+- "Every 3D project that comes here, including Benjamin Button, starts       with Boujou in our tracking department.
+Once shots are tracked, we can       export cameras into Maya and use those 3D cameras as if we were on set       with the director" [12].
+Outrunning a dinosaur!
+Without Boujou, striking sequences like this         (from a 2008 Daihatsu advert) would cost more to produce and so would be         less common.

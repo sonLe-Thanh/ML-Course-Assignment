@@ -1,0 +1,42 @@
+     Adding Value to Multi-media Collections:     We have worked with several holders of collections of multi-media       content, including the BBC, to use our algorithms to make more powerful       and flexible content-based search engines and interfaces.
+Some of this       work has been done with, and for, Yahoo!
+and Google.
+As Slaney, now a       Principal Research Scientist at Microsoft, writes of his time at Yahoo!
+:     "We set out to find technology that would leverage Yahoo's success at         building web-scale search engines, and apply the ideas to music.
+Michael         Casey and his team were instrumental to the work....
+The optimal         algorithm work is highly novel, game changing (I believe) and helps make         LSH [Local Sensitivity Hashing] practical.
+LSH is now the basis of many         applications, including the television discovery and identification         algorithms fielded by Yahoo, and (I understand) the copyright detection         algorithm used by Google."
+(see [1])     The Yahoo!
+implementation acknowledging Casey's work, is on github       [2], accompanying a research paper by Yahoo!
+which extends the Minimum       Distances algorithm [Optimal LSH by Yahoo!
+Researchers Slaney, Lifshits,       and He, in Proceedings of the IEEE (2012)] (see [2]).
+Creating tools for sensory-deprived children:     The participatory design work continues to be developed in collaboration       with Whitefield School.
+The LumiSonic system is distributed by the arts       organisation Soundandmusic.org and featured in a BBC online news article       [3].
+The children in the Whitefield School continue to contribute to the       design of Noisebear and other systems for making music in installations       and workshops.
+This work is in collaboration with Whitefield teacher       Nicole Whitelaw and continues to this day [4].
+Giving a voice to disabled musicians:     Grierson carried this work forward through an international collaboration       with disabled artists, "The Dean Rodney Singers".
+Dean Rodney, a       21-year-old artist, rapper and musician who is also autistic, travelled       with representatives from the production company Heart n Soul to       seven countries to write and record an album with musicians, many of whom       had disabilities.
+Grierson was technical lead for the project.
+The       hardware and software drew directly on the Maximilian library and the       experience and designs developed in the research trajectory described       above.
+Sound was visualised through the extraction of low-level features.
+Interactive music-making devices were informed by adaptations of       wheelchair controls developed in the research described above, and made       more accessible through the use of sensors.
+This collaboration formed the basis of an audiovisual installation at       London's Royal Festival Hall from August 31st to September 9th 2012, as       part of the Paralympics Unlimited festival of arts, culture and sport by       deaf and disabled people.
+It was one of 29 commissions awarded throughout       the UK, and the only digital artwork.
+The methodology of working with the       singers to make the installation drew on the experience of Grierson's       participatory design research.
+At the installation, members of the public       created their own music tracks using the interactive technology and the       sounds created by the Dean Rodney Singers and uploaded them to the Dean       Rodney Singers YouTube channel.
+The installation featured six different       interactive music stations for singing, DJ'ing, dancing and other musical       activities.
+Over 2,000 videos were recorded in the week-long exhibition &#8212;       approximately 300 per day.
+The Dean Rodney Singers event received       extensive coverage in print and other media, including The Guardian [6],       Wired [7], Metro [8], TNT [9], News Shopper [10], BBC London [11], and       Lauren Laverne's `Spacepod' podcast [12].
+The installation was complemented by the `Dean Rodney Singers App' for       iPhone, iPod Touch and iPad, based on Grierson's `Sonic Tag' on the Apple       app store.
+A further grant of &#163;15,000 from Creativeworks resulted in Dean       Rodney releasing a second app to promote his band's single, `Fish Water'.
+The app was again built with Grierson's technology and released in October       2013.
+The impact of this work is not only on the performers themselves finding       a very public and collective artistic voice but also on the public       perception of people with disabilities and people with severe disabilities       in particular.
+This was so important a feature of the spirit of the London       Olympic and Paralympic Games.
+Games and Media Companies:     Grierson &#8212; in partnership with soundandmusic.org and a games       company, Roll7 &#8212; received knowledge transfer funding from the AHRC to       create a closed-source music visualisation library.
+The library contains       code that extracts low-level features from music and sound effects, and       uses them to inform gameplay.
+This led to the development of three       prototypes and one commercial game, `Ollie Ollie'.
+This game was       commissioned by SONY entertainment, who specifically requested that it       feature the audio analysis.
+It is due to be released on the portable       PlayStation VITA in 2014 [5].
+The collaboration with Roll7 also led to       further funding of about &#163;40K, from the Abertay Proof of Concept       programme, for the development of sound-based games: Grierson's library       analyses music in real time providing information that links the music to       the game by changing the game in time and pace with the music [5].
+In 2011 the co-founder of the multi-million pound company search-space       and CEO of Bodymetrics visited Goldsmiths and met with Grierson       for the first time.
+After a series of recent discussions they have formed       a legal partnership (though outside the impact reporting period),       including the ex-head of Universal Music Worldwide and the founding member       of the Band Aid Trust, aimed specifically at exploiting the expertise       developed through Grierson's research on music software and sensor       technology [13].

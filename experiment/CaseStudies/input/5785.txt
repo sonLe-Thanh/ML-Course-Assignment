@@ -1,0 +1,31 @@
+     The models and modelling approaches developed by Fletcher and Blake have       fed into the development of tourism-related and general economic policies       by a number of international organisations, national governments and       public authorities of various ranks.
+This is evidenced through a series of       examples.
+Blake's work on dynamic modelling of tourism demand during the Olympics       (P3) developed new methodologies for estimating the impact of future       events.
+This accounts for the fact that businesses and other actors in the       economy anticipate these events and make changes to their activity many       years in advance.
+The model developed by Blake was used to estimate the       value of the London 2012 Olympics to the UK.
+It also showed the value of       the post-Olympic tourism legacy and economic gains that would be made by       London partly at the expense of the rest of the UK.
+These findings       contributed to the evidence base that led to policy changes, such as       promoting the need for destination image building during the Games and of       spreading the tourism benefits around the UK.
+This was delivered through       the work of the Nations and Regions Group, which identified opportunities       for tourism outside of London.
+In 2010, Blake led a research project commissioned by the Scottish       Government (R1) to estimate the size and economic contribution of wildlife       tourism in Scotland (G3).
+This involved the estimation of net impacts of       tourism, taking account of displacement (P1 &amp; P2).
+This project       estimated that wildlife tourists spent &#163;276 million in Scotland during       2009, which contributed &#163;65 million to Scotland's gross domestic product       (GDP) and 2,763 full-time equivalent jobs.
+This provided the evidence base       that led to VisitScotland naming 2013 the `Year of Natural Scotland' (R2       &amp; R3).
+In 2010-11, Blake led a research project commissioned by UK Music &#8212; the       umbrella organisation for different elements of the UK music industry       (G5).
+The resulting publication Destination: Music (R4)       demonstrated that 7.7 million tourists travel to or within the UK to       attend music festivals or concerts.
+They spend &#163;1.4 billion during the       course of their trips, contributing &#163;864 million to the UK economy and       providing the equivalent of almost 20,000 full-time jobs.
+This project       took displacement into account in estimating the economic contribution of       this activity (P1 &amp; P2).
+This report was discussed in Parliament on 22       November 2011 (R5), and has led to the formation of a UK live music group       with representation by CEOs from music and events companies (R6).
+The       evidence base contained in this report also provided the basis for       increased lobbying by the industry for a greater representation of music       in VisitBritain's marketing, which has since included iconic music images       in its `Great Britain' campaign (R7).
+In 2012, Blake conducted research for Tourism Respect to estimate the       economic impacts of implementing a reduced rate of VAT for accommodation       and visitor attractions (G8).
+This involved the construction of a CGE       model to estimate the net impact of displacement.
+This was in a dynamic       setting to show how activity changes in advance of any tax-change taking       place (P3).
+The results from this research demonstrate that such a policy       would boost GDP by between &#163;3 billion and &#163;4 billion per year while being       broadly revenue neutral.
+These results were presented to HM Treasury       officials in September 2012 (R8) who have used them in a briefing note to       ministers for possible consideration in future budgets.
+It has also been       used as the basis for industry lobbying (R9 &amp; R10) and is a key source       in the current debate on the levels of VAT in these sectors.
+Since the 1980s, the UK Government and the Government of Gibraltar have       used the economic models developed by Fletcher to determine the impact of       various changes.
+These include the closure of HMS Dockyard, the closure of       the Royal Naval Hospital, the development of Gibraltar Ship Repair, the       opening of the frontier with Spain, the appeal against EU judgements on       regional selectivity with respect to Corporation Tax Rates, the operation       of off-shore economic activities, and the management of its online gaming       industry (G4).
+In a letter to BU's Vice-Chancellor, the Chief Minister for Gibraltar       says the research by Fletcher has "provided invaluable policy insights,       enabling appropriate planning and negotiating approaches to be made"       (R11).
+He continues: "Specifically since 2008, Professor John Fletcher's       input-output model, suitably updated, has provided robust evidence for the       EU to support Gibraltar's offshore business, its right to determine its       own corporate tax rates and the current issues with respect to the online       gaming tax changes proposed by the UK.
+Furthermore, Professor Fletcher's       research into the economic impact of Gibraltar on the Campo de Gibraltar,       provided invaluable insights into the relationship between the two       economies and were welcomed by both sides of the frontier" (R11).
+To summarise, the economic modelling techniques developed by Blake and       Fletcher more accurately predict the outcome of events, policy changes or       other major economic decisions.
+The technique has been used in a range of       applications including informing estimates of the value of the 2012       Olympic Games and subsequent tourism legacy; providing the evidence base       for VisitScotland naming 2013 the `Year of Natural Scotland'; informing a       Parliamentary debate on music tourism and establishing greater       representation of music in VisitBritain marketing material; and informing       the Government of Gibraltar of the impact of changes.

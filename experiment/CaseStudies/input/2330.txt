@@ -1,0 +1,40 @@
+     Failing to recruit enough students or properly tailoring graduates for       jobs has caused increased unemployment and a widening skills gap in the       computing science industry.
+In particular, employers report a lack of       programming skills.
+The University of Glasgow research led by Quintin       Cutts has developed methods of teaching students at school and university       levels which address this gap, and aim to improve the number of students       taking computing science at university.
+Computing Science Education in the United States     Cutts' work in the US has influenced the development of three National       Science Foundation projects aiming to improve computing science education:       CS10k (training 10,000 new teachers by 2020); CE21 (developing computing       education to meet 21st century needs); and CS Principles       (developing courses in Computational Thinking at secondary school level).
+All three programmes were launched in 2009-10.
+In 2010-11, Cutts       co-designed and evaluated a CS Principles pilot course delivered to over       1,000 non-specialist university students at the University of California,       San Diego (UCSD).
+The course is currently (2013) being trialled in 20-30       secondary schools in the San Diego area and has received extensive       publicity in the US, including distribution through Association of       Computing Machinery publications.
+The course is contributing to the       development of an Advanced Placement course: a college-entry level       qualification undertaken by secondary school students (20% in 2012).
+In       the US, each state runs its own curriculum and qualification requirements;       the Advanced Placement courses are unique in being standardised across the       country.
+Cleveland State, in collaboration with UCSD has also been funded       by the CE-21 programme to use the course in the development of       professional training for 30-40 teachers across the state.
+Computing Science Inside: UK Student Activities and Teacher Workshops     In the UK, the EPSRC-funded `Computing Science Inside' project aimed to       demonstrate the true nature of computing science to pupils as a subject to       be studied at school and university.
+The project also hoped to have a       strong influence on teachers and their approach to current teaching       practices.
+The project (available at http://csi.dcs.gla.ac.uk)       delivered continuing professional development (CPD) to UK teachers and       developed 15 workshop resources for teachers worldwide.
+`Computing Science       Inside' ran from September 2005-September 2009, but teachers are still       able to register, access and utilise the site.
+During the 4-year project, over 5,500 pupils in Scotland participated         in at least one workshop, with many attending 6 or more (~2,400 from the         start of the impact period Jan 2008).
+At the formal conclusion of the project in 2009 there were 92 schools         from the rest of the UK (rUK) involved.
+As of July 2013, another 100 rUK         schools have registered and utilised the site.
+(These numbers do not         account for the sharing of resources between schools independently of         the website.)
+Outside the UK, ~1600 teachers from over 250 schools in 20         countries are currently registered on the website.
+The project provided over 1,300 person hours of CPD to teachers and         trainee teachers.
+One said "I simply didn't know you could teach         computing science this way", referring to the active and engaged         kinaesthetic teaching and learning methods used.
+Written feedback from         over 50 teachers was all positive, with comments including: "Hands-on         interactive approach made understanding the concepts easy for the         pupils"; "One or two of the weaker pupils made unexpected contributions         showing insights that they had not managed before"; and "One very bright         girl is now considering doing Computing at university".
+The programme lives on in a University of Glasgow initiative which is         being replicated elsewhere in Scotland.
+University students spend 10         half-days in local schools, presenting existing and creating new         workshops in the `Computing Science Inside' style.
+Over the past six         years (2007-13) the initiative has directly reached a further 5,800         pupils and 150 teachers.
+In 2008 the course was replicated at         Heriot-Watt and Glasgow Caledonian Universities; efforts are underway to         do the same at the Universities of Dundee and Edinburgh.
+Scottish Curriculum for Excellence     In 2010, Cutts drove the effort to ensure that Computing Science appeared       as a specific curriculum area within Scotland's new national Curriculum       for Excellence.
+The key issue, as identified in the Royal Society `Shut       Down or Restart' report on the state of computing education in the UK, is       to separate the teaching of how to use computers (Information and         Communications Technology) from the teaching of how to understand       computation and create programs (Computing Science).
+In 2010 the       Higher Education Academy recognised Cutts' efforts with a 2010 National       Award for Teaching of Information and Computing Science in Higher       Education.
+In further recognition of his success in building a rapport between       higher education institutions and schools, in 2011 Cutts became one of two       academic members of the Qualification Design Team for the Scottish       Qualifications Authority (SQA) with a remit of overseeing new       qualifications in Computing Science.
+The National 5 qualification is       scheduled for implementation in the school year 2013/14, Higher in       2014/15, and Advanced Higher in 2015/16.
+Cutts also became a board member       of the Royal Society of Edinburgh Computing exemplification project,       supporting the development of materials for the new Scottish curriculum       and qualifications.
+The materials have been widely acclaimed by Scottish       teachers, Education Scotland, the SQA, as well as luminaries in the       computing science education community, including Hal Abelson at MIT.
+Cutts' impact was to emphasise that understanding of programs and       programming concepts is at least as important as being able to develop       programs.
+Furthermore, he has instilled research-proven methods of       formative and summative assessment of programming skills that go beyond       the typical `submit a program and mark it', giving greater insight into       the learner's progress.
+Cutts has been instrumental in negotiating with the SQA to raise the       rigour of their examinations.
+Cutts developed the pseudo-code `Haggis',       with Professor Michaelson of Heriot-Watt University, to alleviate the       problem of setting exam questions for students who will have studied any       one of a number of programming languages.
+`Haggis' was adopted by the SQA       in January 2013 for use in nationwide computing science exam papers in       summer 2014.
+Most recently, as a member of the Scottish Government's       Computing in the Curriculum Group, he authored a proposal for CPD in       Computing Science (computational thinking and computing science pedagogy)       for the ~700 computing teachers in Scotland.
+This has now been funded by       the Scottish Government for two years (&#163;400,000), and Cutts is seconded       three days per week to lead the project.

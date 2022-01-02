@@ -1,0 +1,20 @@
+     In this section we present evidence that the research cited in s2 and s3       has had the following three major impacts:            economic benefit (reduced running costs) in the haulage industry       environmental benefit (reduced emissions) nationally and         internationally       change in approach to new fuel systems in industrial production.
+Impact 1: Economic benefits to haulage sector       The optical diagnostics applied by Hargrave in the period from 2006-2010       and the theory developed by Clarke from 2001 [3.3, 3.4] allowed       Hardstaff to introduce their innovative new Oil-Ignition-Gas-Injection       (OIGI&#174;) system in 2008.
+The research allowed the average Diesel       substitution rate (by energy) to be increased from about 45% to a natural       gas content of about 60%.
+The immediate impact of this was reduced running       costs for the Hardstaff haulage business that operates a fleet of more       than 100 heavy goods vehicles in the UK.
+At current pricing the increased       substitution rate offers a saving of &#163;406k p.a.
+and compared to a similar       sized fleet operating on 100% Diesel fuel a saving of &#163;1.6M p.a.
+[5.1].
+The application of the theory developed by Clarke [3.3, 3.4] has       allowed the OIGI&#174; system to be reconfigured for other engines and has       reduced the experimental time necessary to re-map the control system from       around two weeks to one day [5.1].
+This has created a further       revenue stream.
+The Hardstaff Group is now an approved Mercedes-Benz       Dealer that supplies the OIGI&#174; system as an approved retro-fit or OEM       system on all Axor and Actros long haul trucks in the UK.
+In 2012 this       business was worth approximately &#163;2.8M and with current orders is expected       to double in 2013 [5.1].
+In addition a Scandinavian subsidiary,       Hardstaff AB, located in G&#246;teborg Sweden, was opened in 2010 to provide       OIGI&#174; systems for Volvo FL and FE trucks.
+This business was worth       approximately &#163;1.3M in 2013 [5.1].
+Impact 2: Environmental benefits       The precise control that is afforded by the OIGI&#174; system means that it can       be optimised to reduce emissions and adjusted to run on carbon neutral       biogas and other biofuels [5.1, 5.2].
+The &#163;694k       Hardstaff/Loughborough University full scale test facility funded by East       Midlands Development Agency was commissioned in 2009 and allowed the       environmental impact of dual fuel technology to be assessed particularly       under transient loads.
+Relative to a comparable Diesel engine, dual fuel       offers a 15% reduction in carbon dioxide and at least 30% reduction in       harmful nitrogen oxides, smoke and particulate emissions [5.1].
+The environmental impact of dual fuel technology is considerable in the       UK, Europe and beyond and resulted in Hardstaff and Loughborough       University winning the prestigious Lord Stafford Award in 2010 for       "Innovation for Sustainability" [5.3] and Hardstaff Group being       runner-up in the industry's Low Carbon Champions Awards hosted by the       Institute of Mechanical Engineers [5.4].
+Impact 3: Changing approaches in industry       As a result of the work of Johnson and Clarke and work conducted under the       TSB/EPSRC Grant "High Speed Dual Fuel Direct Injection Engines with       Advanced EGR and Injection Strategies to Reduce Carbon Dioxide Emissions"       a state-of-the-art computer model of the dual fuel combustion process has       been developed [G3.4].
+It has been shown that with multiple Diesel       injection events, it is possible to increase the substitution rates in       small, high speed engines.
+This work paves the way for the exploitation of       dual fuel systems in passenger cars and small/medium commercial vehicles.

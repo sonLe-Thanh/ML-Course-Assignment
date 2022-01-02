@@ -1,0 +1,23 @@
+     Context     Camera tracking, as provided by PFTrack, is central to modern film       post-production, enabling the merging of real footage with       computer-generated effects, and the removal of unwanted objects visible in       the footage, such as unwanted street furniture, telegraph poles, etc.
+Accurate camera calibration enables a seamless inclusion of such changes.
+By extracting 3D structure from footage, background detail can be       re-inserted where objects have been deleted.
+Tracking also underpins other       areas of application, such as removal of scratches from archive film.
+Design and development of ICARUS commenced in 1998.
+At that time,       pioneering work on automatic tracking and reconstruction was underway at       the University of Oxford in the UK (Zisserman, Hartley et al.
+),       and the University of Leuven in Belgium (van Gool, Pollefeys).
+Whilst this       work had laid the foundations, software capable of constructing real       environments with structure (e.g.
+named parts), or reliably tracking       commercial video and film sequences, did not really exist in a usable       form.
+Pathways to Impact     By 2002, considerable interest was being shown in ICARUS by the research       community and by companies, and a decision was reached to release a free,       binary-only version of the software for non-commercial use.
+In the first       three months, this received over 10,000 downloads.
+In 2003, ICARUS was       licensed to The Pixel Farm, a UK start-up company, for exclusive use in       the film and video post-production industries, and the free version of the       software was withdrawn.
+Initially, the University provided consultancy and       software support to the company.
+In September 2004, Dr Simon Gibson (RA),       the originator of many novel aspects of ICARUS, joined The Pixel Farm as       their Research Director, and Jon Cook (RA) joined as a software engineer;       both still work for the company.
+Notable early successes were the use of ICARUS &#8212; by then rebadged by the       company as PFTrack &#8212; in the Academy Award winning film Cold Mountain       (Miramax Films, 2003) [A], and the film Fantastic Four (20th       Century Fox, 2005).
+Reach and Significance of Impact     Today, PFTrack is used extensively in industry in the USA and Europe.
+Recent film credits (within 2008-2013) include: Watchmen (Warner Bros,       Paramount Pictures), the Harry Potter films (Warner Bros), Battle Los       Angeles (Columbia Pictures), The Boat that Rocked (Universal Pictures),       The Hunt for Gollum (Independent Online Cinema), and TV series such as       Smallville (BB Studios, Canada for USA TV networks), Doctor Who (BBC),       Grandpa in my Pocket (Dinamo for BBC), The Wrong Door (BBC), Kia Motors       Pro_Cee'd TV advert (The Mill, UK).
+Details of these and other examples       where PFTrack has been used can be found at [B].
+PFTrack is also used at       the UK's National Film and Television School in its Digital Effects MSc       course [C].
+Examples of high grossing films during the REF period in which       PFTrack has been used include Battle: Los Angeles (over $200m) and       Watchmen (over $185m) [D].
+The Pixel Farm has grown to become a leading provider worldwide of this       type of software within a highly competitive industry, employing 10       people, and with a turnover exceeding &#163;1m annually [E].
+Major partner       companies include Cooke Optics and FilmLight [E].
+It should be noted that this list is partial: many companies in the         film industry are secretive about the post-production facilities and         software that they employ and will not allow any publicity, even under a         non-disclosure agreement.

@@ -1,0 +1,41 @@
+     The research outcomes of our underpinning research give those who need       decision support under uncertainty a new tool-box with enhanced       capabilities of solving more complex problems and of judging reliably       whether these solutions are trustworthy.
+The transfer of this knowledge       and technology is recent and on-going, but it has already had some       measurable impact, which is detailed below for each of the five       aforementioned impacts:     1.
+Axioma: Robust decision models require the       specification of the set in which the realized value of uncertainty is       expected to reside.
+Our research in [1, 2] now gives similar robustness       guarantees when the uncertainty is realized outside of that       specified uncertainty set.
+Since these outcomes were put into the public       domain for free usage, Axioma was able to immediately implement       and market software based on the model developed in [1].
+Axioma "creates         flexible tools to help portfolio managers quickly and accurately         implement their strategies"[A] Its flagship product is the Axioma         Portfolio Optimizer TM.
+According to the June 2011 Axioma Advisor,       [B], the extension of a risk measure to portfolios containing options       produced in [2] is now implemented and used on that flagship product.
+Axioma is a software company whose clients are financial institutions that       manage trillions of dollars using these tools.
+2.
+Commerzbank: COG's research results on minimax       and optimization [2] are currently used in financial products by research       collaborators from Commerzbank's Indices &amp; Strategies team.
+The mission of that team is to design proprietary indices for products       such as funds and options.
+These are large institutional funds whose       clients are professional investors such as pension funds, hedge funds, and       very wealthy individuals.
+COG's research has had direct impact on the       management of these funds, as evidenced in [C, D] where the Managing       Director, Commerzbank states "The robust optimization concepts         described in your papers ... have been carefully studied and some of         them are incorporated within several proprietary indices and tool".
+He goes on to say that "Investors regard these risk management tools         as an absolute prerequisite".
+The latter suggests indirect impact of       COG's research outcomes as they provide better assurance of risk       modelling.
+Although Commerzbank cannot reveal even the order of       magnitude of the value of these managed funds the Managing Director has       stated that "The actual value of the funds being managed by these         tools ... is respectable."
+3.
+Decision Trees offers commercial software and       consultancy to those who produce or trade in energy.
+They achieve this by       transferring scientific research into usable methods in the energy sector.
+One of the recent challenges in this sector is the high degree of       uncertainty in pricing and reserves of energy, caused by the increased use       of renewable but less predictable energy.
+They therefore recognize the       value of stochastic optimization for dealing with such uncertainty in the       creation of client plans that can increase profits whilst minimizing risk       under such uncertainty.
+A Manager of Decision Trees GmbH [E] makes clear       that our research [3] was instrumental for the creation of one of Decision         Tree's products when he states: "we were able to implement         scenario tree based stochastic optimization models for a whole variety         of practical decision making problems in the energy industry.
+Mainly,         our implementation has been based on your publication in the paper ... "       which refers to paper [3].
+COG's research then led to indirect impact as       suggested by the quote "we have enhanced our stochastic optimization         software towards the valuation and operational optimization of natural         gas storage and natural gas contracts.
+... Amongst these customers is         Trianel (Germany), Salzburg AG (Austria), OMW (Austria), and ExxonMobil         (UK)."
+The direct impact COG's research has had in the acquisition       of Salzburg AG as a client is described as "We have achieved this         great success by the practical application of your original pioneering         work on scenario tree based valuation of swing options."
+4.
+Trianel is a German utility provider.
+Its mission       is to coordinate and bundle the interests of municipal and communal energy       providers in order to strengthen their independence and competitiveness.
+They operate a combined cycle gas turbine (CCGT) power plant in       Hamm-Uentrop in Northern Germany.
+Some of the shares of the plant are       operated based on deterministic optimization [F][G].
+Decision         Trees was thus able to apply the stochastic optimization tool       described above (see 3) on another share to compare its       effectiveness to the standard alternative, noting that "stochastic         optimization has achieved 1,4% more profit as compared to the best         deterministic optimization.
+This is equivalent to approximately 2         Million Euros additional profit in 2008 yielded by stochastic         optimization" [D].
+This is an indirect impact of research outputs in       [3-5].
+5. e&amp;t is the trading company of Energie       Allianz.
+e&amp;t trades bilaterally and through brokers with all important       European power traders on the energy exchanges EEX, EXAA, OTE and IPEX as       well as on the European Climate Exchange ECX.
+Two important services which       e&amp;t provides are risk management (which has to deal with uncertainty)       and energy wholesales trading (where the use of swing options and       stochastic optimization can maintain efficient trades and production).
+In       that context, e&amp;t has purchased a suite of software tools based on       [3-5] for the operation of the new 750 MW unit in the coal-fired power       plant Walsum in Duisburg [H].
+On a daily basis this software assesses       plans for yearly coal purchases and the associated purchase contracts.
+To summarize, the underpinning research has documented impact in the       financial and energy sector, and in companies that provide services for       these sectors.
+That impact is also on-going and likely to persist in the       years to come.

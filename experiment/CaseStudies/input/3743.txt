@@ -1,0 +1,56 @@
+     The underpinning research carried out by SMRU on the abundance,       distribution and behaviour of marine mammals has been translated during       the REF period to enable a wide range of commercial activity that impinges       on the marine environment to take place.
+The benefits are both       environmental and economic and the beneficiaries include marine wildlife,       renewable energy companies, oil and gas companies and major engineering       projects.
+a) SOI Group Ltd: products and services     The main impact of the research has been delivered through the       establishment of 6 spin-out companies (SOI Ltd, SMRU Ltd, Marine       Instrumentation Ltd, SMRU Ltd (Canada), SMRU Ltd (USA) and SMRU Ltd (Hong       Kong)) operating under the umbrella company SOI Group Ltd.
+These are the       translational mechanism used to deliver products, in the form of bespoke       instruments and software, and services, in the form of advice about       environmental impacts or data analysis, to a broad range of customers       including oil and gas companies, electrical utilities, and developers such       as The Crown Estate in the UK.
+More than 70 industry customers have been       serviced since 2008.
+Direct company sales totalled ~&#163;6 million (2008-2012)       with a compound annualised growth rate of 16% and this supported 24       employees (with 16 skilled specialists) [S6].
+Products derived from       the research include:     i) Environmental impact assessments [S6]; ii) data collection,       management and analysis [S6]; iii) PAMGuard open access       software for acoustic detection of marine mammals, recognised by the       Technical Director of the International Association of Oil and Gas       Producers as a "highly successful product" that is "now widely         used in the industry across the world" [S5].
+iv) PAMBuoy       for the automated detection and transmission of data concerning underwater       acoustic targets in the marine environment.
+b) Managing risks of anthropogenic marine noise in EU waters     The European Union Marine Strategy Framework Directive (MSFD) of 2010       requires each member state to achieve good environmental status of their       marine habitats, including the requirement that "introduction of energy         (including underwater noise) does not adversely affect the ecosystem."
+[S7]     In some circumstances, intense sound generation is unavoidable.
+Regulations require these activities to desist when marine animals are       present within a danger zone.
+The development of real-time passive       acoustic monitoring (PAMGuard) allows detection of marine mammals       in many circumstances where they cannot be sighted.
+In the words of the       Head of Marine Advice for the UK Joint Nature Conservation Committee in       2013:     "St Andrews researchers have developed techniques for establishing the         presence of marine mammals in an area using passive monitoring for         underwater sounds made by the mammals.
+These techniques are now part of         standard mitigation around seismic surveys (...) in UK and some other EU         waters."
+[S4]     Oil and Gas Industries     The beneficial impact of PAMGuard on both marine life and the operating       costs of the offshore oil and gas industries has been clearly stated by       the President of the International Association of Geophysical Contractors       in 2013:     "it is usually a condition of operating licenses that operators         mitigate potential negative effects of seismic surveys on marine         mammals.
+This tool not only allows operators to comply with their         licenses, but to also minimize potential negative effects on any marine         mammals in the vicinity.
+The (PAMGuard) tool has evolved into a highly         successful product that enables a wide range of operators in the global         offshore oil and gas sector to conduct seismic surveys to the         satisfaction of regulators.
+It can cost &gt;$500k per day to operate our most complex and involved         surveys.
+We have documented cases where PAMGuard has saved many days of         downtime on such surveys.
+In such cases its use has resulted in millions         of dollars in savings.
+While not all surveys are this elaborate and         expensive, we conservatively estimate that on a global scale, PAMGuard           saves hundreds of days of down-time each year, resulting in downtime           savings approaching $100 million per year.
+This estimate does not         include the cost that could be incurred if operating licences were         withheld due to inability to effectively mitigate potential negative         effects from our operations.
+Indeed there are some circumstances in         which the industry would simply be unable to operate effectively without         PAMGuard."
+[S3]     Renewable energy     The underpinning research allows measurement of marine mammal location       and abundance before, during and after commission of offshore energy       installations.
+The translation of the research has enabled renewable       energy operators to comply with the requirements of environmental       regulations.
+The Crown Estate is charged with developing the marine estate       (seabed) around the UK and as such is a "major facilitator for the         development of renewable energy from the marine environment" [S1].
+The Chef Scientist for The Crown Estate asserts that "the long-term         activities of SMRU, as a genuine world centre of excellence in the         understanding of marine mammals, continue to be very important to the         Crown Estate's business" and that "the on-going efforts at St         Andrews to understand the population consequences of developments is         particularly important at this time" [S1].
+SMRU Ltd (UK) has       used this to supply environmental impact assessments and mitigation of       potential impacts of the offshore wind industry and the emerging tidal       power generation industry [S2].
+Examples of impact include the       delivery of pre-development assessments for the Aberdeen Wind Farm (AOWDC         Vattenfall), Forth and Tay wind farms (InchCape Offshore Ltd),       and the tidal arrays at Ramsey Sound (Tidal Energy Ltd), Sound of       Islay (SSE renewables) and Anglesey, Kyle Rhea, and the Pentland       Firth for MCT Ltd [S6].
+SeaGen &#8212; the world's largest operational tidal stream turbine.
+Marine Current Turbines (MCT) developed the world's first commercial       scale tidal-stream power station, which was installed in April 2008 in       Strangford Lough, Northern Ireland (fig 2).
+As a new technology, perceived       environmental risks could easily have halted the project.
+SMRU developed       and implemented the environmental risk management for marine mammals.
+This       included undertaking monitoring of the engineering activities during       installation and operation using a novel active sonar to detect marine       mammals and thus avoid collisions.
+An independent report by DTZ Consulting       in 2011 stated that SMRU "played a crucial role in reassuring the         regulator that the risk to marine mammals from the installation of the         turbine would be low, allowing the project to go ahead."
+[S8].
+SMRU provided the evidence required for a successful defence of infraction       proceedings (essentially prosecution of a member state for infringing       European Law) initiated by the European Commission.
+This evidence was used       "to reassure the EC that environmental interests in the area are being         respected."
+[S8].
+As a result the EC dropped the infraction.
+This project represents a "huge step in derisking SeaGen and making it         a more attractive proposition for large-scale investors in the future."
+[S8].
+MCT has recently been bought bY Siemens and now plans to       deploy 500-1000 SeaGens in UK Waters by 2020.
+The MCT Business Development       Director envisages "a similar kind of support from SMRU for         developments at Anglesey, Kyle Rhea and the Pentland Firth" [S2].
+Figure 2.
+SeaGen installed at Strangford Lough      Current Major Engineering Projects [S6]     SOI Group Ltd is delivering environmental impact assessments, monitoring       and risk management advice for a number of current major engineering       projects.
+These inputs are an essential component of these construction       projects, mandated by legislation from state authorities to minimise the       environmental risks.
+The Hong Kong &#8212; Macao Bridge.
+This 54 km bridge threatens the       endangered population of Chinese White Dolphins.
+SOI Group has deployed       PAMBuoy technology to provide assurance of minimal disturbance to dolphin       populations.
+The New Forth Road Bridge.
+This is currently under construction       and one condition imposed by the Government is that underwater noise       levels be controlled to protect salmon and lampreys.
+SOI Group have       installed PAMBuoy technology to measure underwater noise levels in       real-time on site, allowing engineers to act should the noise thresholds       be breached.
+Vancouver Metro Harbor.
+The extension of this harbour by 25% could       threaten the resident population of Orca (Killer Whales).
+Construction       beginning in summer 2013 utilises PAMBuoy technology to mitigate this       danger.

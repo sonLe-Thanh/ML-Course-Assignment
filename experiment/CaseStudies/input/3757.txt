@@ -1,0 +1,27 @@
+     The breadth of impact of the mm-wave activity is mainly evidenced by the       commercial success associated with the EPR program, but we would also       point to the success and societal impact of the more general mm-wave       outreach program that arose from the EPSRC Public Understanding funding.
+Economic Impact.
+Commercialisation of EPR instrumentation is performed under licence by       our partner Thomas Keating Ltd.
+Examples of these systems can be seen on       the front page of the Thomas Keating we site [S1].
+These high Field EPR       and DNP systems (or components) have been sold around the world, and cost       between &#163;50K &#8212; to over &#163;1M depending on the specification.
+They can be       found at the United States National High Magnetic Field Laboratory (NHMFL)       in Tallahasee; European High Magnetic Field Lab, Grenoble; Max-Plank       Institute, Mulheim; Santa Barbara; Cornell; MIT; North Eastern University;       Budapest; Lausanne; Warwick &amp; Nottingham amongst other groups.
+The       most recent orders [text removed for publication] for the pulse       spectrometer include both the US Pacific Northwest National Laboratory       (PNNL) and the US National High Magnetic Field Laboratory in Tallahassee.
+Both these systems have now been delivered to specification.
+The mm-wave components developed by PHYESTA have also contributed to       sales at Thomas Keating in the international metrology, space, earth       resource, fusion diagnostics and security industries.
+Thomas Keating Ltd is based in Billingshurst in West Sussex, and employs       approximately 40 people.
+The Managing Director has been actively       collaborating with the mm-wave group throughout the assessment period.
+He       attributes the early existence of his company to the initial interactions       our mm-wave group.
+Thomas Keating is now widely recognised as "...perhaps         the leading supplier of front end systems for high field Electron         Paramagnetic Resonance and Dynamic Nuclear Polarisations .." and a       leading mm-wave component supplier for whom the collaboration with PHYESTA       has "...played a major role in winning international orders in the         space, metrology, fusion diagnostic and earth resource communities."
+[F1]     Prior to this work the UK had no presence and virtually no recognition       for EPR instrumentation development.
+After Bruker and JEOL, Thomas       Keating has now probably supplied more systems than any other currently       operating company.
+In 2012, Thomas Keating won the Queens Award for       Enterprise: International Trade [S2].
+Sales of mm-wave instrumentation       based on the original research by Smith made a major contribution to       that success, with Pacific Northwest National Laboratory providing       supporting evidence.
+[F1]     The technologies developed have also impacted on many other mm-wave       programs within the group.
+These are largely associated with imaging       radars for security applications (funding and contracts from DSTL, Home       Office, US Army Research Labs, Millivision, Qinetiq, Alfa Imaging), medical 	  imaging (funding from EPSRC) and for imaging volcanoes in low       visibility situations (funding from NERC with a permanent installation at       the UK Monserrat Volcano Observatory).
+Societal Impact     The mm-wave outreach program during the evaluation period has currently       reached approximately 115,000 people across Scotland.
+This audience figure       is made up from ~82,000 as a touring exhibition (Major airshows, BA       festival, gala days), ~28,000 in Scottish Science Centres and 4,600 over       133 events in schools (~15% primary : 85% secondary).
+The touring       exhibition displayed at 6 public events before being adapted for       stand-alone exhibition and has been on display to the public since       November 2012, first at Dundee, then Aberdeen Science Centres.
+The programme has also delivered 4 CPD (Continuing Professional       Development) events including secondary school physics teachers (~40)       [F2], oil industry staff (~20) and St Andrews staff (4).
+The associated       website [S3] continues to be very popular, receiving nearly 10,000 visits       in the past 12 months.
+In her supporting statement, the development officer of the Scottish       Schools Education Research Centre states "...By involving subject         matter like yourselves in our CPD programme, we are able to offer the         highest quality training to teachers.
+As a result of the CPD courses to         which you contributed, the feedback we obtained from the 39 visiting         teachers indicated that 75% of the teachers who undertook the CPD         training rated the Vision for the Future material as `very useful...".
+[F2]     Our work in outreach is of particular relevance to the Scottish secondary       school curriculum directly addressing outcomes SCN 3-11b and SCN 4-11b       [F2, S4].

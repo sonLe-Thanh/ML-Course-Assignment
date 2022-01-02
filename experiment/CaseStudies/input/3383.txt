@@ -1,0 +1,28 @@
+     The significance of the research findings, their impact on the AEC       industry and their extensive dissemination in peer reviewed journals,       international conferences and workshops have led to the research outcomes       being adopted by a number of major industrial players.
+The work featured       on the UK Prime Minister's Website and in the media [1].
+For the       organisations involved, the tools developed from the work produced       economic benefits, arising from shortened project timeframes, more       reliable planning and end dates and consequent minimisation of associated       penalties and equipment hire costs; whilst the improved communication       efficiency enables improved productivity through reductions in design lead       time and wastages associated with design changes.
+The details of the       impact on five organisations is summarised below.
+Dealim Industrial (South Korea), one of the largest       industrial conglomerates in South Korea, is using the nDCCIR package on       large infrastructure projects (e.g.
+the 2nd Geumgang Bridge-       see company's rehearsal of the bridge using nDCCIR, opposite).
+The company       has also adopted the KPI assessment tools developed by Prof. Dawood       enabling them to evaluate the impact.
+The company achieved a 95%         increase in schedule hit rate leading to decreased penalty         payments and equipment hire costs, 30% decrease in meeting time, and 5%         decrease in wastage related to reduced design changes and rework on       site, leading to a &#163;178,500 increase in profit [2].
+Ryder Architecture (UK) is a large architectural company.
+Between 2009 and 2011 under a KTP project (Partnership Number 7304) the         company adopted the multi-constraint planning methodology to       facilitate improved coordination and management of their design processes.
+As a result, Ryder achieved an increase of &#163;249,500 in their       turnover, provided employment to 10 new staff members, and       established a new spin out company (BIM Academy) to provide new       consultancy services to the AEC industry [3].
+Datum360 (UK) has been collaborating since 2010 with CCIR       researchers under a 3-year KTP project (Partnership Number 8668).
+During       this collaboration the software tools were further developed to       incorporate asset management (using class libraries) and commercialised       for application in the oil and gas industry.
+Through the use of this tool,       significant business was won with major oil &amp; gas companies such as       BP, Tullow, GDF Suez E&amp;P UK Ltd, Chevron and Woodside.
+This work       resulted in increased turnover for Datum360 of &#163;448,000 over 2012 and         2013 [4].
+Additionally in 2012, as a result of this development, the       company received &#163;500,000 in investment from the Finance for       Business North East Technology Fund managed by IP Group [5].
+The reach of       the work in the oil and gas sector has been extended by collaborative work       with the management consultancy, Faithful+Gould, to develop a bespoke       visual 5D CAD tool (3D + time + cost) for the oil and gas industry (see       opposite) [6].
+Deepdale Solutions Ltd (UK) utilised the multi-constraint       and visualisation tools for planning and site simulation of a prestigious       development in Stratford in 2011/2012 (M8 Hotel).
+The project was required       to deliver a completed building envelope in time to meet the constrained       Olympic timetable with the added constraint that simultaneous access to       complete the building of the ground and first floor shopping centre was       required.
+These tools enabled Deepdale to identify an alternative       installation methodology with prefabricated (unitised) panels for the       entire envelope.
+This led to an estimated reduction of 30% in site         time compared to their previous norms, and a saving of         &#163;140,000 in time-related activities (i.e.
+reduction in the number of       site operatives; reduction of manual handling and its associated health       and safety implications; elimination of the need for external means of       access/scaffolding as well as managing the complex constraints operating       at the site).
+In addition, use of the planning tools reduced the number of       interfaces between dissimilar materials/technologies allowing improved quality         control on site, and improved product quality arising from       the maximisation of finished assemblies under factory controlled       conditions [7].
+A planning expert and Vice President of WEN Qatar W.L.L.
+gave the       following testimonial: "Managing the numerous constraints posed by us         internally and by our interface with other stakeholders is an extremely         complex and challenging issue.
+We have identified the theories and         concepts for multi-constraint management developed by CCIR researchers         and are currently using them on most of our projects.
+We found these         concepts extremely effective and they contributed to increase           the efficiency of our projects' delivery; decrease wastages         on site, and integrate our operation with our projects' partners.
+There       are among the first and fewest concepts in Project         Management to provide a holistic and integrated management of the         multiple constraints involved in projects" [8].

@@ -1,0 +1,41 @@
+     iSpot was developed as part of Open Air Laboratories (OPAL).
+It is a       social learning community       website where the public participate in real science through recording       nature observations.
+Its       development was supported by a &#163;2 million National Lottery for England       grant.
+It drew on       understandings from our earlier PEARL research, notably the importance of       enabling collaborative       learning experience where participants actively gather data in the field,       and build on feedback from       peers, to reach scientific conclusions.
+It extends PEARL's approach by       using technology to support       interactions between learners, science experts and the natural world.
+iSpot has developed technical skills and understanding of species       identification amongst the iSpot       user community.
+Sir David Attenborough, broadcaster and naturalist,       commented: `Learning the       names of animals and plants is great fun.
+[...] iSpot has already had a       great success in       encouraging people of all ages and all backgrounds, to take this first       step.'
+The website has       received over 1.4m visits by 500,000 unique visitors and over 24,000 user       registrations making,       between them, 250,000 nature observations.
+There are also more than 100       different UK natural       history organisations accredited representatives on the site.
+Face-to-face       outreach work       has reached over 55,000 beneficiaries, over 10,000 from hard-to-reach       groups, whilst over 800       participants have used iSpot at local `bioblitz' events, including       schools, local government and       voluntary sector organisations.
+A new iSpot Android app has been launched       to widen reach and       increase mobility.
+iSpot is a key element of the new OpenScience Lab, a       joint project between the       OU and The Wolfson Foundation.
+The key impact is increased engagement in       field biology,       resulting in not only more data gatherers, but more data.
+iSpot observations have been significant, including the first UK       sightings of two species of insects.
+More fundamentally, iSpot has significantly contributed to a       transformation of practice in       biodiversity monitoring.
+Professor Sir Neil Chalmers, while Chair of the       National Biodiversity       Network (NBN), commented: `iSpot has been taken up enthusiastically and       has already proved its       worth.
+[...] The information from iSpot is made even more valuable by       being fed, once validated,       into the UK's National Biodiversity Network'.
+iSpot is recognised       in a Department for Environment,       Food and Rural Affairs White Paper as a tool for the public to engage in       nature monitoring (HMG,       2011, p. 56) whilst excellence and impact was recognised by winning the       Panda Award in the New       Media category in 2010.
+The impact of iSpot is increasingly international:       a sister site for Southern       Africa was launched in June 2012 in partnership with the South African       National Biodiversity       Institute and has already attracted more than 66,000 nature observations.
+The Out There In Here (OTIH) system, developed through workshops with       Microsoft, combines       mobile and static technologies to support effective collaboration across       distributed teams.
+In one       application, participants combined fieldwork and laboratory comparisons to       identify mistakes in the       British Geological Survey (BGS) Map, which the BGS then corrected.
+This       success inspired further       input from Microsoft into community engagement projects, notably work to       explore the learning       potential of a Cambridge cemetery.
+The OTIH system supported diverse local       groups as they       investigated the cemetery, including a local history group, a biodiversity       group of local students,       and a drama group from Parkside School.
+This work has led to sustained       changes, influencing       ongoing work around the cemetery by Cambridge Council.
+At Parkside School       a follow-up       evaluation one year later revealed sustained changes in teachers'       practices and students'       perceptions of technology-supported field trips (Van der linden et al.,       2013).
+OTIH has also had an impact on national government policymakers.
+Adams       was invited to give a       keynote to the UK Government's INSTINCT group (Innovation Science and       Technology in Counter       Terrorism).
+This led to security policy makers changing their perspectives       on how to coordinate       `mission control' with security operatives in the field.
+Using the       conceptual framework developed by       Coughlan et al.
+(2012), they identified the need to reduce information       overload for those in the       field, such as police officers, by identifying and sequencing key situated       knowledge of relevance to       the task.
+The software, nQuire, resulted from design and testing work with teachers       during the Personal       Inquiry (PI) project.
+It draws on research findings by incorporating       structured activities linked by the       Inquiry Cycle, data probes, visualisation of data, and means of       communication.
+During the project,       nQuire was used by 300 children, aged 11-14 years, and seven teachers on a       range of       personalised scientific inquiries, such as urban heat islands, heart rate       and fitness, and       microclimates.
+Evaluations identified positive learning outcomes which       were significantly greater       than those of a control class, alongside an increase in the enjoyment of       science.
+Work by Kerawalla used the PI project's `Inquiry Cycle' to support Girl       Guides in developing and       conducting small local inquiries, leading to the UK Girl Guides'       Association's decision to award a       new `Neighbourhood Researcher' badge, now available nationally.
+Impact on       the Guides       themselves is addressed in our `Empowering children and young people' case       study.
+nQuire is       available for free download, including for mobile devices, from www.nquire.org.uk.
+It has attracted       1900 separate visitors with software installed 70 times in educational       institutions.
+nQuire has also       been integrated into the OpenScience Lab, where it has been combined with       a virtual microscope       to enable the public to investigate samples of moon rock.
+Its authoring       tool allows investigations to       be set up in new areas, providing a platform for citizen-led science       investigations.

@@ -1,0 +1,41 @@
+     The interaction between OWEL and Surrey began in August 2011, when a       member of the research       and team at OWEL contacted Surrey.
+They had seen the sloshing website,       with its published       papers and reports on shallow water sloshing in three-dimensional rotating       and translating vessels.
+It was exactly what was needed for their project.
+At the time, OWEL was using CFD (Computational Fluid Dynamics) for fully       3D simulations.
+However CFD is very time consuming.
+The Chief Technical Officer at OWEL       writes "It takes         between 3 and 9 days to get a simple CFD model to run and, as we have 60         odd load cases, it is         too long by far.
+CFD is also a bit of an unknown in terms of quality,         and validating it against         physical models has been tricky and is on-going."
+The principal CFD       researcher at OWEL adds "...       and we need to increase the real time in simulations by a factor of 10!
+This is clearly impractical."
+"The interaction with Surrey has changed our research programme into         the modelling of the OWEL         WEC.
+This new approach to modelling is being used to (a) optimise the         power conversion         performance by simulating various naval architectural layouts and         control strategies ...; (b) cross-validate         the CFD models; (c) provide direction for new experiments ....
+These         tasks ... are         essential to the commercial success of the machine."
+OWEL was interested in a more refined mathematical model built around the       shallow water       equations (SWEs) for the interior flow.
+By comparison the Surrey shallow       water code has run       times of the order of minutes.
+The OWEL CFD researcher writes "With the         speedup obtained         using the SWEs, it will become the basis of an optimisation tool, which         is needed to identify optimal         physical geometry, mooring characteristics, and implementing control         systems."
+Initially the Surrey team sent the SWE codes to OWEL and advised them on       shallow water       hydrodynamics.
+This interaction was low key for the first year.
+When one       of the main research       engineers departed from the OWEL project, a plan was set in motion to       obtain funding for a large-scale       Surrey input into the project.
+An EPSRC grant, awarded in Spring 2013, has       provided the       infrastructure to make this happen.
+The department also provided bridging       funds, and the post-doc       (Alemi Ardakani) starting working on the project in March 2013.
+The principal impact, going back to the initial interaction, has been       that the Surrey team has       changed the way OWEL/ITPower approach the problem of using theory and       simulation to       understand the problem.
+CFD has enormous value, but is insufficient as a       design tool.
+The       approach based on the shallow water equations is now a firm part of the       OWEL R&amp;D strategy.
+The inventor of the original OWEL WEC configuration and founder member of       the company OWEL       remarked: "This is just the kind of underpinning research that I wish         we had when we started the         project ten years ago!"
+"I believe development of the OWEL WEC would have progressed at a much         faster rate if the         modelling capabilities of the Surrey team had been available ten years         ago.
+However, their study         is still timely in that it is complementary to the extensive         tank-testing result already collected by the         OWEL team."
+And "In my view, the improvement in efficiency that I expect         to follow from the Surrey         study is likely to lead to the design of the first wave energy device         that is commercially viable."
+The research interaction is now fully developed.
+In addition to the       shallow water approach, the       project has expanded in two other directions: linear and nonlinear       implications of resonance in the       OWEL WEC coupled system, the stabilisation and control (the more stable       the OWEL WEC is       when at sea, the higher the efficiency in the PTO).
+The Surrey-OWEL interaction is planned for the long term.
+The EPSRC grant       runs to 2016, the       Surrey team has secured funding for a 3.5 year PhD studentship starting in       October 2013, and       OWEL has a 20 year plan for implementing successively more refined wave       energy extraction       devices, so the Surrey team is impacting R&amp;D at an early stage of the       project.
+A test prototype       (called the "Marine Demonstrator") has been designed and, subject to       construction scheduling, is       expected to be deployed at "WaveHub" in summer 2014.
+The current OWEL WEC       has       deficiencies, and it is the analysis and optimisation to remove these       deficiencies that is the       principal aim of the Surrey and OWEL teams, in preparation for the next       generation prototype.
+The impact on the environment and economy is expected to be significant.
+Approximately 35% of       the wave energy available to Europe is directed at the UK, which is       therefore well-positioned to       lead wave energy extraction research in the region.
+A strong combined       industry-government-academia       initiative is underway and gathering momentum.
+As of March 2011 the UK has       3.4MW of       installed marine energy capacity, with an additional 23MW in planning:       potentially 2.17GW of       marine energy projects can be in place by 2020.
+Indeed, it is predicted       that marine energy could       ultimately provide 20% of UK electricity consumption.
+In preparation the       government has       supported the design and construction of "WaveHub" which is an offshore       test bed which WECs       can plug into and feed generated electricity into the grid.
+On-going impact on the ocean industry includes a "Water Waves in Industry       Day" organised by       Bridges which will be part of the Newton Institute programme on "Theory of       Water Waves" in July       2014, where a range of speakers from the ocean industry are invited to       speak about the role of the       theory of water waves in their industry.
+The principal speakers are from       the ocean wave energy       industry.

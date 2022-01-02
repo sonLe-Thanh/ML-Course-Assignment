@@ -1,0 +1,33 @@
+     Engineering applications that require the investigation of material       properties use software packages which make use of `finite element' (FE)       methods.
+These packages are used extensively worldwide and considered       indispensible by professional engineers who undertake design calculations       and stress analysis, particularly in the automotive and aerospace       industries where rubberlike materials are employed in many components.
+Such materials can deform significantly, and the underlying mathematical       models therefore play a crucial role in design decisions which are central       to the safe and successful operation of the end products, and associated       with substantial financial investments.
+There are several industry-standard commercially available systems,       including Abaqus, ADINA, ALGOR, ANSYS and MARC.
+All of these systems       incorporate Prof. Ogden's models as core standard tools for the analysis       of hyperelastic behaviour and the properties of rubberlike materials.
+Given the widespread use of materials of this type in manufacturing and       the very high volume of associated engineering design and analysis       activity, the industrial impact of these models is difficult to quantify       precisely but is clearly enormous.
+The methods are key in automotive and       aeronautical engineering and, from these industries alone, the economic       impact is therefore extremely high.
+The software designers of Abaqus, ADINA and ANSYS, the three most widely       used FE software packages, adopted the Ogden-Roxburgh model from published       literature and incorporated it into their systems.
+(In particular, the       Abaqus system incorporates all the Ogden models.)
+These FE packages are       used for calculations involving solid materials in mechanics problems, and       the models are essential to these calculations because they give the       fundamental constitutive relationships needed to represent the properties       of the materials proposed for use in the product being designed.
+These       software packages, all utilising the Ogden models, are standard core tools       in industrial design.
+Abaqus Unified FEA is a suite of simulation software in the SIMULIA brand       of Dassault Syst&#232;mes, an international company with over 11,000 employees       with headquarters in Paris, France.
+Dassault Syst&#232;mes is one of the       industry leaders in the provision of tools to facilitate realistic       simulation in product design and manufacturing, which reduces       manufacturing costs by cutting design time and prototype costs.
+The Abaqus       manual gives comprehensive and detailed descriptions of the methods       available for implementation.
+Chapter 18 deals with `Elastic mechanical       properties' and section 18.5 with `hyperelasticity'.
+In section 18.6.1       where the `Mullins effect in rubberlike materials' is discussed, the       methods described are based on the Ogden-Roxburgh model and [1] is the       only referenced paper.
+Under `Anisotropic hyperelastic behavior' the       Holzapfel-Gasser-Ogden model is one of only two specific options listed.
+Similar evidence of the impact of these models is provided in the manuals       of the other major finite element systems.
+It is therefore clear that       professional engineers worldwide are making extremely wide use of these       methods to solve a whole variety of problems in a very wide range of       application areas.
+Two quotes from Endurica [1], an industrial consulting and software       company:     "Although I had been aware of several alternative approaches to         modeling the [Mullins] effect prior to encountering your model, I found         all of these to be out of reach for our applications for various         reasons.
+I was immediately impressed by the simplicity of the         Ogden-Roxburgh model, its compatibility with approaches we were already         investing in, and its effectiveness in accurately representing the main         features of the effect.
+Recognizing these advantages, and what they         would mean to modeling efforts in the tire industry and beyond, I was         able to persuade my management to fund a project with HKS (now Dassault         Systemes) to implement the Ogden-Roxburgh model in the Abaqus Finite         Element code."
+"The Ogden-Roxburgh model is continuing to grow in its impact.
+I have         noticed other workers building various additional effects on top of the         Ogden-Roxburgh model (permanent set and cyclic softening, for example).
+For my part, I have implemented the Ogden-Roxburgh model to represent         rubber's cyclic stress-strain behavior in the world's first commercially         available fatigue analysis software."
+From Abaqus [2]:     "This [the Ogden-Roxburgh] model was also implemented in Abaqus and         serves as the only way to capture this Mullins effect, stress softening         behavior, especially noticeable in filled rubber.
+Capturing this stress         softening behavior in elastomers eliminates a key approximation that FEA         users have had to make for many years, and leads to a much higher         fidelity material model, and thus a much more realistic simulation         model."
+From ANSYS [3]:     "Without this material model, accurate representation of the rubber         behavior is very difficult.
+Because of this, it is a popular practice         for rubber product design in the ANSYS user community."
+From Abaqus [2] again:     "More recently, another significant contribution from Professor Ogden         and colleagues made its way into the commercial Abaqus FEA software.
+This was a proposed model for capturing the anisotropy in biological         soft tissues.
+This micromechanically based anisotropic strain energy         potential (Holzapfel, Gasser, and Ogden, 2000 and also, Gasser, Ogden,         and Holzapfel, 2006) is now available in Abaqus for modeling biological         tissues and other anisotropic elastomeric materials.
+This anisotropic         strain energy potential is commonly used by life sciences researchers."

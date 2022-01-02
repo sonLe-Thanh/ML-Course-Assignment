@@ -1,0 +1,43 @@
+     Southampton's research into microfluidic systems has led to both economic       and health impacts.
+The research has been responsible for the creation and       expansion of new business activities within two established multinational       corporations, Philips and Sharp Corporation, evidenced by substantial       investment and new product developments.
+This has led to the creation of       entirely new portable diagnostic and monitoring systems, which are       improving the quality of life of patients and will reduce the cost of       healthcare.
+Economic Impacts: Creation of a new business activity within Philips     Southampton's pioneering research led to an industrial collaboration with       Philips in 2006.
+The encouraging results highlighted the commercial       potential for the microfluidic technologies and lab-on-a-chip to provide       low-cost high volume solutions for consumer diagnostics.
+In 2009, as a       direct consequence of their collaboration with Southampton, Philips       established a new Biomedical Diagnostics unit at their Cambridge-based       research facilities.
+The lab-on-a-chip technology is now a core part of       Philips Home Care Solutions long term strategy and Philips' annual       research and development spend in the area around this technology has       grown to approximately &#163;5m [5.1].
+This unit now employs 12 full-time       employees (including one Southampton PhD graduate, Dr Catia Bernabini, who       worked for two years in this unit) who collaborate with Southampton in a       range of healthcare focused research and development.
+Among the tools developed at Southampton with Philips, of particular note       is the microfluidic technology for full blood counting.
+Philips have       commercialised the technology and developed a product for the home       monitoring of chemotherapy.
+This product allows the early diagnosis of       neutropenia (loss of white blood cells) through analysis of a finger-prick       blood sample and sends the results back to the healthcare provider [5.2,       5.3].
+The product will be launched commercially in Europe in 2014.
+A       second portable palm-sized device is also being developed into a Philips       product.
+The "chemoinformer" allows patients undergoing chemotherapy to       remotely upload data which is then communicated to their nurse on a daily       basis.
+The chemoinformer is being trialled by 18 patients undergoing       chemotherapy treatment for small cell lung cancer at Southampton General       Hospital.
+The trial is managed by Dr Christian Ottensmeier [5.4] and is       due to finish at the end of 2013.
+The importance of the technology and the collaboration with Southampton       is evidenced by &#163;250,000 direct industrial research funding from Philips       since 2008.
+In addition, Philips provided &#163;730,355 financial support for       the EPSRC/TSB Technologies for Health project "Point of Care Blood Cell       Analysis" (TS/G001405/1).
+The collaboration has led to 5 publications with       Philips researchers as co-authors.
+The IP from a world patent       (WO/2010/140127) [5.5] was transferred to Philips at a cost of &#163;12,000       plus royalties and 2 further patents have been filed.
+Economic Impacts: Creation of a new business activity within the Sharp         Corporation     Southampton's ground breaking research in electrowetting for fluid       control has led to a similar impact on the business activities of the       Sharp Corporation.
+Sharp have collaborated with Southampton to jointly       develop a miniature electronic fluid-handling platform now being       commercialised for use in bioassays and immunoassays for the rapid       analysis of viral and bacterial infections.
+The collaboration with       Southampton led in 2009 to the creation of Sharp's `Health and Energy'       group at its research labs in Oxford.
+Following Southampton's successful       demonstration of bioassays (3.6), this group expanded from six full-time       employees (2012) to 10.5 (2013).
+Since the start of this collaboration,       Sharp's annual research and development spend in this technology has grown       to approximately &#163;1.47m with plans to double this to &#163;3m by the end of       2014 [5.6].
+A further proposal has been submitted to the board of Sharp       Corporation for a total investment of &#8364;27m over 6 years for product       development and launch.
+This is a rapidly progressing impact case and the       importance of this new business activity to Sharp and the significance of       the collaboration with Southampton is evidenced by the numerous on-going       joint projects.
+Morgan was recently awarded a Royal Society Industry       Fellowship to work with Sharp Labs Europe from January 2013 to 2017.
+The       collaboration has led to one patent filed with Southampton inventors       [5.7].
+Health Impacts     The medical technology developed has enhanced the quality of life of       patients.
+The Philips home monitor improves quality of life for cancer       patients (particularly the terminally ill) by improving the timing of       treatment and providing an early diagnosis of potential complications       without the patient leaving their home.
+Worldwide 9 million people live       with cancer and half of them will receive chemotherapy; approximately half       of these suffer some degree of neutropenia.
+Unfortunately, up to 70% of       those infected require hospitalisation, and over 40% suffer delay to their       chemotherapy.
+These patients are vulnerable to serious infections that can       lead to overwhelming sepsis and death; the morbidity rate from septic       neutropenia is up to 10%.
+Early detection of neutropenia can therefore       avoid patient readmission, improve outcome and significantly reduce the       cost of healthcare.
+Southampton research is also improving the quality of life in developing       countries.
+The technology has been disseminated to medical professionals       through events such as the Glycomic Centre's 'Kenya Workshop' (June 25-29,       2012), a conference workshop aimed at Sub-Saharan healthcare       practitioners.
+Morgan oversaw hands-on sessions and visited local health       clinics to demonstrate how to use Southampton-developed low-cost       diagnostics.
+Feedback from Thomas Kariuki, Director of the Institute of       Primate Research (a Nairobi biomedical facility) testified to the value of       the technology: "Through quality diagnosis, public health effort to reduce       disease impacts on Kenyans' lives can be realised, as illness means paying       for treatment and lost earnings, which impacts on the entire economy."
+[5.8]     Impact on Society and Culture     Such is the pioneering nature of the lab-on-a-chip technology that the       Southampton research has regularly received international news and media       attention since 2009.
+Articles have appeared, among others, in: Science       Daily (US science news website, 3m monthly visitors, 29/8/09), Nursing         Times and 'nursing times.net' (magazine circulation: 12,601; 616,500       unique website users, 25/09/09), CQ News (the Chinese news website,       10 million hits daily, 09/04/10) and The Huffington Post       (25/06/2012) [5.8].
+Summary     This impact case study describes significant industrial investment in new       business activities that would not have occurred without the underpinning       research in microfluidics carried out at Southampton.
+These activities are       leading to new products for medical diagnostics, providing patient       benefits and cost savings.

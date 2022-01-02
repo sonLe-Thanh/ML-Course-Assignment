@@ -1,0 +1,29 @@
+     Corpora developed at Lancaster have had a notable impact on the English       Language Teaching (ELT) industry.
+Most of this impact has been achieved       via the BNC.
+The UK ELT industry has been estimated by the Department for       Business, Innovation and Skills to be worth &#163;1,996.2 million annually to       the British economy while the ELT publishing industry adds another &#163;304       million to that sum [C1].
+The impact of our work on ELT is substantial and       includes:            The Oxford Advanced Learner's Dictionary (OALD), a major basis for         which is the BNC, has sold over 35 million copies worldwide and is the         world's best-selling advanced learner's dictionary.
+It remains the         best-selling title at Oxford University Press [C2].
+OALD is now         available as an app, website and CD Rom and is on its 8th         edition with two million (hard) copies sold since the edition's 2010         release.
+The BNC is also used as a basis for OUP's web based teaching         resources.
+All Longman dictionaries are compiled using the Longman Corpus Network         (which includes the BNC and the Lancaster/Longman corpus).
+This corpus         network has been massively influential across the full range of         Longman's ELT material including their learner dictionaries and Longman         Language Activator series [C3].
+Longman see the corpora as essential to         their range, saying that they provide "the wealth of information for         writing coursebooks and dictionaries that both accurately represent the         English language and satisfy students' needs at every level."
+[C4]         Longman-Pearson's ELT products are important to the company &#8212; in 2012         Longman-Pearson's ELT products led to its International Education         division being both its source of its (i) highest growth in sales (10%)         and (ii) greatest increase in operating profit (21%) [C5].
+Between 1980         and 2011 Geoffrey Leech was the Vice Chair of Pearson's LINGLEX advisory         group which advises Longman-Pearson on their ELT research and         publication strategy.
+The BNC was used by Cambridge University Press to update its Cambridge         ESOL Business English, Key English and Preliminary English Test         Vocabulary List.
+These lists are vital preparation for students taking         the Cambridge English exams [C6], an important part of the UK ELT         industry &#8212; 2010 saw entries for the Cambridge English exams grow to         nearly 3.5 million, with more than 11,500 universities, employers and         government departments worldwide recognising and using Cambridge English         qualifications.
+Fostering innovation in other, principally commercial, users, including:            The BNC is licensed to 1,581 institutions, including the following         non-academic users: Toyota Motor Europe, Budweiser Budvar UK, Deutsche         Bank, Canon Information Technology (Beijing) Co., BAE Systems and         Ordnance Survey.
+Additionally 1,811 users access the BNC via Lancaster's         online interface, BNCweb.
+192 of these users originate from non-academic         bodies, including Microsoft, Sony, HSBC and the British Council.
+In 2012 the Indian government launched a series of bilingual         dictionaries which couple English with one of the following South Asian         languages: Bengali, Hindi, Kannada, Malayalam, Oriya and Tamil.
+The         12,000 words and phrases covered by the dictionaries have been culled         from the BNC.
+The South Asian language examples are furnished by corpora         provided by the Central Institute of Indian Languages, who were helped         in building the corpora by the Enabling Minority Language Engineering         project at Lancaster.
+[G3][C7]       Kielikone Oy, a Finnish company, has customers in over 100 countries         and is one of the world's leading providers of digital dictionary         solutions.
+[C8] Kielikone uses the semantic taggers developed by         Lancaster in almost all current services provided by them, including         their MOT dictionary [C9].
+This software has also been utilised in         mobile applications of the dictionary [C10].
+McEnery and Hardie have recently undertaken contracted work for RIM,         manufacturers of the BlackBerry device, to solve specific         language-related problems (further details cannot be disclosed due to a         commercial confidentiality agreement).
+The Nelralec project [G5] has had impact parallel to these commercial         impacts producing a popular dictionary of Nepali (see http://www.nepalisabdakos.com/).
+Given that Nepal is a developing country, this activity has been         third-sector, not commercial.
+The Lancaster Edition of the Callhome Chinese Corpus has been         distributed via the Linguistic Data Consortium to industrial research         laboratories between 2009 and 2011 to enable the development of Natural         Language Processing involving Chinese (e.g.
+machine translation).
+These         users are based around the world and include: Autonomy Systems Ltd., UK;         IBM, USA; NTT Communication Science Laboratories, Japan; and Loquendo         SpA, Italy.

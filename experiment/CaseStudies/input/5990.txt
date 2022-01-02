@@ -1,0 +1,38 @@
+     The research at Loughborough University contributed to an overall       significant reduction in the uncertainty in the photovoltaic market by       transforming research work into international standards.
+The impact has       been on reduced uncertainties in calibration and energy yield prediction.
+The impact of calibration or power measurements is largely on the retail       value of photovoltaics.
+Energy impacts on the operation and finance side       of the business.
+Photovoltaics (PV) is a new energy technology, and one of the key factors       slowing down market developments is a perceived risk in the installation       of these technologies.
+There are several different technologies competing       for market shares in the field.
+The devices are rated at standard test       conditions and one watt at these conditions would be termed watt-peak, Wp.
+The overall market size in 2012 is of more than 28 GWp annual installation       in 2012, with an installation cost of slightly under 1&#163;/Wp in the majority       of markets.
+Calibration uncertainty is a risk in the value of the overall market.
+In       today's market (June 2013), one percent uncertainty equates to 750M$/a       [5.1].
+The team (Prof Gottschalg, Dr. Betts) was instrumental in reducing       this as demonstrated e.g.
+in the EU project Performance where the       calibration uncertainty of leading test laboratories was reduced from 5%       to less than 2% in standardised power measurements for crystalline silicon       and from more than 10% to about 5% for thin film photovoltaics [5.8].
+The       underlying research which contributed to this was carried out during the       Fellowship and the FENRA project and was published amongst other papers in       [3.3, 3.5].
+The transfer into standards was achieved by contributing to       the standard development and the participating bi-annual meetings and       appropriate working groups.
+Prof Gottschalg led the project team for       IEC60904-5, which is the most accurate method to extract the cell       temperature.
+Each degree measurement uncertainty in the temperature       contributes about 0.5% to the calibration uncertainty, the standard is       capable of sub-degree accuracy, while external measurements result in 2-3oC       temperature uncertainty.
+Prof Gottschalg was also on the project team for       IEC60904-7, IEC60904-3, IEC60904-9, IEC60904-10 and IEC60891.
+Each of       these standards is a crucial element of the calibration process and has       distinct elements linking to work carried out by the team in one of the       research projects.
+It can be assumed that at least 95% of the PV modules       produced in the world have been assessed based on the IEC60904 series of       characterisation standards and corrected to standard test conditions using       IEC60891.
+Most subsidy schemes require these numbers making the       application of these standards mandatory.
+Energy yield uncertainty is a risk on the income generated from an       installation and thus the financial viability of any investment.
+The       impact claimed here is the better understanding of uncertainties [3.2,       3.6] and better measurements [3.5] and paving the way for standard       datasets [3.4].
+The impact is difficult to quantify, as production and       costs vary for different countries.
+There are about 100 GWp installed       world-wide [5.9], and about 2.5 GWp in the UK.
+In the UK a system produces       around 850 kWh/kWp and the value of a kWh (FIT + self-consumption/ or       generation credit) around 0.2&#163;.
+Thus the impact of one percent uncertainty       in production is well in the order of 34M&#163;/a in the UK alone.
+Uncertainty       exists because of a lack of standardised simulations, lack of standardised       environmental inputs and lack of validation of existing methodologies on       statistical numbers of installations.
+The work of the team has been utilised in the published standards       IEC61853-1 and the FDIS IEC61853-2.
+The work on mapping together with Huld       et al [3.4] is the foundation of the standard datasets (IEC61853-3).
+The       transfer of research work has been achieved by Prof Gottschalg being part       of the project teams and a general recognition of the work by the team.
+Overall, the work carried out by the team or managed by the team       (PV-Performance, PV-Catapult) have resulted in an enhanced understanding       of the uncertainties involved and a subsequent reduction of the simulation       uncertainty by 2% [5.8].
+Key in achieving this impact was participation in the international       standards body of Prof Gottschalg.
+Standards are developed by the       International Electrotechnical Commission (IEC) and CENELEC in Europe,       with collaborations between the two standard bodies.
+These normally get       mirrored by national standards, which is the responsibility of the British       Standards Institution (BSi) in the UK.
+Prof Gottschalg is active on all       these bodies as confirmed by [5.1-5.6].
+These standards have been elemental in the market growth.
+Without these       standards enabling the PV deployment, the market would not have grown at       the current speed as other technologies have demonstrated with less       rigorous standards.
+In terms of overall market acceleration, the body of       work has been essential to further this sustainable technology.

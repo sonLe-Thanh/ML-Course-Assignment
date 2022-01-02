@@ -1,0 +1,44 @@
+     ICR research has made a major contribution to the international search       for inhibitors of the key lipid signalling enzymes known as the PI3       kinases (PI3Ks), which have a critical involvement in cancer.
+ICR's       research programmes in this area have had strong impacts on health and on       commerce, arising not only from the novel therapeutics developed in the       ICR drug discovery programme, but also from the influence of its research       outcomes on the advancement of research programmes by pharmaceutical       companies.
+Impacts on Health     The discovery of the tool compound PI-103 which has been made           available worldwide and has contributed to drug discovery programmes           internationally.
+Over 25 PI3 kinase inhibitors are now in clinical trial sponsored by over       15 companies (ClinicalTrials.gov).
+Patients are benefiting by being able       to participate in these trials.
+The tool compound PI-103, discovered by       the ICR and its collaborators, has been a valuable resource that has       supported this international drug discovery effort.
+Currently, 10 chemical       vendors supply this compound (Pubchem, NCBI).
+Eighteen international       pharmaceutical companies have subsequently cited the publication       describing this compound (Research Ref 1 above), indicating that it has       facilitated drug discovery programmes (data from Web of Science).
+The discovery of the novel therapeutic GDC-0941     The ICR and its collaborators, working with the company that they formed,       Piramed Pharma, discovered the PI3K inhibitor GDC-0941, which was licensed       to Genentech in 2006 and then, in 2009, became the first selective class I       PI3K inhibitor to enter Phase I clinical trials [1].
+The ICR has played a       key role in the clinical development of GDC-0941 together with its partner       The Royal Marsden NHS Foundation Trust (RM) (Research Ref 4 above).
+Since       2008, 4 clinical trials have been completed, involving over 150 patients,       and 8 trials are ongoing with an estimated enrolment of 1146 patients [2].
+The drug is now in Phase II trials in 27 different countries.
+GDC-0941 has       already demonstrated clinical efficacy (Research Ref 4 above).
+Patients       are benefiting by being able to participate in these clinical trials.
+The development of the novel therapeutic GDC-0980     Genentech licensed GDC-0941, the compound that the ICR and its       collaborators discovered, and then, in collaboration with Piramed Pharma,       went on to develop the dual class I PI3K/mTOR inhibitor GDC-0980, based on       the same chemical scaffold as PI-103 and GDC-0941 [3].
+GDC-0980 is       therefore a direct result of ICR's research.
+It should also be noted that       the tool compound PI-103, discovered by the ICR and its collaborators, is       a combined inhibitor of class I PI3K and mTOR; the ICR exemplified the       value of this dual activity in their work on this molecule (see Research       Ref 1 above).
+When the first clinical candidate, GDC-0941, was created,       the team improved the solubility and decreased the metabolism seen with       PI-103, and also removed the mTOR activity.
+In the case of GDC-0980, the       mTOR activity has been reinstated, building on ICR's initial research       findings with PI-103.
+GDC-0980 began clinical trials in 2009 and is now showing promising       clinical activity in Phase II clinical trials.
+As of 2013, 1 clinical       trial involving more than 100 patients is nearing completion, with this       drug having antitumour activity in mesothelioma.
+8 trials are ongoing       worldwide with an estimated enrolment of over 900 patients [4].
+Patients       are benefiting from being able to participate in these trials.
+Stimulation of the international drug discovery effort to find PI3           kinase inhibitors through publication of results.
+ICR's PI3K drug discovery programme led to a number of publications       showing results in biology models and identification of possible       biomarkers.
+This has had a worldwide impact as it has stimulated other       PI3K drug discovery programmes in the pharmaceutical industry.
+Over 40       different commercial companies have cited the ICR's work (Research Refs       1-3 above, data from Web of Science), showing the impact that the ICR has       had on international drug development.
+Over 25 PI3K inhibitors are now in       clinical trial sponsored by over 15 companies.
+Patients are benefiting       from being able to participate in these clinical trials.
+Impacts on commerce     Formation of the company Piramed Pharma and its sale to Roche.
+The ICR, with its collaborators, formed the company Piramed Pharma in       2003 to accelerate development of its novel PI3K inhibitors.
+Piramed was       sold to Roche in 2008 for $160 million, plus a milestone payment of $15       million on the commencement of Phase II trials, providing a very       satisfactory return to the investors [5].
+The scale of the financial       investment made by Roche in acquiring Piramed Pharma illustrates the major       commercial impact of this spin-out company established by the ICR.
+The compounds GDC-0941 and GDC-0980 are part of the Genentech           development pipeline.
+Genentech has created shareholder value by adding the compounds GDC-0941       and GDC-0980 to its development pipeline.
+GDC-0941 was discovered by the       ICR and its collaborators, and GDC-0980 resulted directly from ICR's       research.
+International pharmaceutical companies have added shareholder value           by adding PI3 kinase inhibitors to their development pipelines.
+The ICR and its collaborators have facilitated the international effort       to identify PI3K inhibitors through the discovery of the tool compound       PI-103 and the publication of their results and identification of possible       biomarkers.
+There are 254 clinical trials of PI3K inhibitors listed on the       NIH clinical trials database ClinicalTrials.gov.
+These clinical trials       have included patients with a wide range of cancers and unmet medical       needs.
+Development by Roche of PI3K delta inhibitors     ICR's collaboration with Piramed Pharma identified selective PI3K delta       inhibitors based on the same scaffold as GDC-0941.
+One factor influencing       the acquisition of Piramed Pharma by Roche was the access it provided to       the PI3K delta programme [6], indicating that this programme was of       commercial value.
+Roche has continued to carry out research on these       specific PI3K delta inhibitors.
+This work has resulted in compounds that       are being developed by Roche for treatment of rheumatoid arthritis [6, 7].

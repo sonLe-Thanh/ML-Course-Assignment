@@ -1,0 +1,39 @@
+     The new AVADA catalyst developed by BP (EP0757027, 1997) consists of a       bed of silica beads impregnated with silicotungstic HPA.
+The catalyst       showed excellent initial activity in the synthesis of ethyl acetate, but       unfortunately deactivated very quickly and with irreversible loss of       activity.
+The main cause of deactivation was extensive catalyst coking       which blocked catalyst acid sites leading to the loss of acidity.
+As a       result, the catalyst life was too short to be economically viable, which       put the AVADA project at risk of closure.
+Kozhevnikov made the crucial suggestion of an alternative approach to the       problem of catalyst deactivation, viz prevention of catalyst coking and       poisoning by adding n-donors to the reaction feed, rather than attempting       a `cure' (regeneration).
+Kozhevnikov demonstrated that addition of water       to the olefin feedstock was an extremely effective coke inhibitor over HPA       catalysts (Appl.
+Catal.
+A 214, 47-58 (2001)).
+Based on these results, the first advance implemented was co-feeding 3-8%       of water (steam) together with ethylene and acetic acid to the catalytic       reactor.
+This reduced dramatically the amount of coke deposited on the       catalyst surface.
+It also improved the stability of the heteropoly acid on       the silica surface.
+The second measure developed was the installation of a       silico-alumina guard bed to protect the HPA catalyst from poisoning by       basic impurities in the feed and corrosion metal ions.
+Altogether these       measures, originating from collaborative research between Kozhevnikov's       group and BP Chemicals, allowed significant prolongation of catalyst life       to about one year and were crucial to the commercial success of the AVADA       process.
+The ethyl acetate plant at Hull achieved continuous sustained operation       during its first year in commercial production.
+The purity of the product       was excellent - 99.98%, the best ever.
+The low volatility of the HPA       helped the catalyst to survive the reactor's extremes of heat and       pressure, thus allowing long periods of uninterrupted operation for the       plant.
+Interestingly, the HPA catalyst, which is now produced by Johnson       Matthey, is practically unchanged from the one used in the initial stage       of process development.
+It is the implementation of the right process       conditions, based on fundamental research, that has made the great       improvement to the process efficiency.
+Regarding its environmental friendliness, the AVADA process is by far       ahead of conventional ethyl acetate syntheses (Green Chemistry,       2003, 5, G78-C81; DOI: 10.1039/b304290c).
+Traditional ethanol       esterification units produce as much water as they do ethyl acetate and       therefore require treatment and disposal of this waste stream.
+In the       AVADA process, elimination of ethanol as intermediate eliminated the       transport of some 60,000 tonnes of ethanol by road and removed more than       100,000 tonnes p.a.
+of wastewater stream.
+The other main technology in the       market, Tischenko condensation, uses an acetaldehyde feedstock.
+This is       less efficient than producing ethyl acetate directly from a modern       ethylene cracker and also produces waste streams from the aluminium salts       used as catalyst.
+Compared to conventional processes, AVADA's energy       consumption is about 20% lower and feedstock losses are some 35% less than       in conventional esterification with benefits to CO2 emissions (Green         Chemistry, 2003, 5, G78-C81).
+The AVADA technology is potentially interesting for other acid-catalysed       processes such as the manufacturing of fuels, detergents and lubricants       using heterogeneous acid catalysis.
+The AVADA process won the AstraZeneca       Award in Green Chemistry and Engineering in 2002 (Green Chemistry,       5, G78-C81 (2003)).
+In 2008, BP sold the ethyl acetate and related vinyl acetate monomer       businesses to INEOS Enterprise, a Swiss headquartered petrochemical group,       for an undisclosed amount.
+At that time each facility had 250,000 tonnes       p.a.
+capacity and together employed around 40 people (www.knak.jp/big/ineos.htm).
+According to the recent ICIS Chemical Business report (October 2011), the       INEOS (former BP) plant at Hull (245,000 tonnes p.a.
+production capacity,       $340m p.a.
+factory gate value) by far dominates ethyl acetate production       in Europe (56% of the total 440,000 tonnes p.a.
+), being the second largest       in the world after the Zhenjiang 270,000 tonnes p.a.
+capacity ethyl       acetate plant in China (http://www.icis.com/Articles/2011/10/24/9501870/european+chemical+profile+ethyl+acetate.html).
+Over the REF period from 2008 to 2013, the AVADA process produced 1.2       million tonnes of ethyl acetate of the total value of $1.7 billion and       reduced the wastewater stream by 0.5 million tonnes compared to the       conventional ethanol esterification process.
+In his letter of corroboration, Dr Mark Howard, Technology Vice       President, Conversion Technology Centre, BP International Ltd., Saltend,       Hull, states "Kozhevnikov's group, in close cooperation with BP's team         at Sunbury, set out to investigate coking and regeneration of HPA         catalysts.
+This contributed to the development of effective strategies         for maintaining the stability of the HPA catalyst which were implemented         to achieve economically viable catalyst lifetime.
+Recently sold to INEOS         as part of BP's rationalisation of its portfolio, the AVADA plant is         still in operation."

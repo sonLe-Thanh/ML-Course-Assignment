@@ -1,0 +1,14 @@
+     The work on application of MBPC algorithms in different industries has       continued in Kingston since 2006.
+Several application areas have been       considered as described above.
+In those application areas, the commercial       implementation of the algorithms is currently at a range of developmental       stages.
+The most advanced application is in automotive power train       control.
+In automotive power-train applications, the theoretical results       stimulated collaboration with MAN Truck &amp; Bus AG in Germany.
+The       project started in 2007 and has now reached the stage when the       implementation of the algorithms has been successfully completed and the       fuel savings have been documented.
+In extensive trials performed by MAN, the system achieved fuel savings of       between 6.5% and 8.3%.
+Their estimate of the average fuel saving over       their total fleet of vehicles on the European motorway network is 4%.
+Based on these test results, MAN began to introduce this system into       their trucks and buses in early 2013.
+With yearly production of long       distance vehicles at MAN being around 30,000 vehicles, and average fuel       consumption of these vehicles being 38,700 litres/year, the estimated fuel       savings are approximately 1550 litres/year per long distance vehicle.
+This       amounts to over 46 million litres per year for the long distance fleet.
+Economic benefits include the reduction of the costs of public transport       and transportation of goods.
+Environmental impacts are emission reductions of around 4%.
+Two patents have been granted, in collaboration with MAN:            DE102005050540A1 Optimisation for ecologic and economic operation of         vehicles       Vehicle parameter adaption Predictive speed and gear adaption for         vehicles EU 1792810s

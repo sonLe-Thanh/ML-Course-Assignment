@@ -1,0 +1,33 @@
+     The impact of our research is of a societal nature, by enabling visually       and print impaired users' access to scientific and mathematical literature       from which they were previously excluded.
+Making scientific and teaching       material accessible for visually impaired students is essential in an       inclusive teaching and learning environment.
+However, it is still very       difficult and expensive to make mathematical documents accessible, making       this a major obstacle for visually impaired learners wanting to pursue       subjects such as Mathematics, Physics, or Computer Science in both further       and higher education.
+As a consequence, our research provides a novel       means to further inclusion of the visually impaired in the mathematical       sciences.
+Text to Speech for Mathematics, Google, Inc., Mountain View, USA.
+From September 2012 to September 2013 Sorge spent a sabbatical year       working with the accessibility engineering group at Google, Inc. to enable       full text to speech translation of mathematics with the ChromeVox screen-       reader.
+The initial release of the work has been launched at Google IO in       May 2013 [7] and a further release in September 2013 provides enhanced       semantic interpretation and an API for customisation of the rule engine       [8].
+ChromeVox is open source [9] and a web-based screen-reader for       Chrome on all platforms.
+As of 11/10/2013 it has been downloaded 31,518       times from the ChromeStore [10].
+ChromeVox is also the screen reading       solution for web content on Android devices via WebViews.
+While there have       been over 1 billion Android activations, the exact number of users of       accessibility services on these devices is confidential.
+Furthermore, the WebViews API is also used by ePub3 readers to make       content accessible.
+An example is the Ideal Group Reader [11] which       concentrates on STEM material that has been installed in beta around       35,000 times as of 9th July 2013.
+From PDF to Accessible Mathematics via MaxTract.
+MaxTract is       available as a free web service at http://www.cs.bham.ac.uk/research/groupings/reasoning/sdag/submit.php.
+It allows users to upload PDF documents and get the document in an       accessible format back.
+We have also worked directly with users via email       support and at specialist workshops on e-inclusion for sciences and       mathematics.
+To obtain feedback to both enhance the system and assess its       impact we have conducted a case study with a number of blind students and       researchers at Johannes Kepler University, Linz, Austria and the Karlsruhe       Institute of Technology (KIT), Karlsruhe, Germany, where two of the       foremost European Centres for Integrated Studies are located.
+The       following are two quotes from questionnaire replies:     "Before MaxTract, if I wanted to access a PDF document with         mathematical contents I needed to hire a person who scanned the document         and wrote the mathematical formulae into it by hand.
+This is now         eliminated &#8212; I have digital access, although not yet optimal one, which         eliminates the expense of hiring a person to do the work mentioned."
+"It is faster.
+As I already said, without MaxTract other people are         involved for me to receive accessible material.
+[...] Using MaxTract         does convert when I submit a document within a few minutes.
+It is cheaper &#8212; not for me in person but for the university.
+[...]         Using MaxTract is free.
+And it is easier.
+I submit a document         and after a few minutes I get a converted one back.
+No-one has to be         asked, no checking for errors, no waiting."
+[sources 12-16]     In addition, we are deploying the results of our research in knowledge       transfer projects, which demonstrate the impact of our work outside the       immediate scientific community.
+European Digital Mathematics Library [5] This is a project under       the CIP-ICT programme (a programme which is explicit about being for       knowledge transfer only, not allowing for new research in a project) with       the aim of assembling the European Digital Mathematics Library (EuDML)       that offers working mathematicians a central portal to access a large       collection of mathematical literature as well as provides functionality       that is specific to mathematics.
+We were a technology provider in the       project, integrating MaxTract into the EuDML workflow for enhancement of       over 5000 documents to enable advanced search features on mathematical       formulas to support research mathematicians and engineers and provide       accessibility for some of the content for visually impaired users [4].
+Improving Accessibility to Mathematical Teaching Resources [6] was       a JISC OER Rapid Innovation grant, classified as teaching only, with the       aim to develop MaxTract from the research prototype into an assistive       technology tool that meets the identifiable needs of accessibility support       practitioners for providing access to mathematical teaching material in       higher and further education.
+The resulting assistive technology tool has       been successfully used in the OERPUB project (http://kefletcher.blogspot.com/).

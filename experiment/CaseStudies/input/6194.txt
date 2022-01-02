@@ -1,0 +1,24 @@
+     The impact of the research during the assessment period of 2008 - 2013 is       notable for its broad reach and significance for a number of       beneficiaries.
+The e-Petitioner system has been used by the Scottish       parliament (Section 5, evidence 1) and the Bundestag in Germany (Section       5, evidence 1).
+It is currently used by 24 local authorities across the UK       (Section 5, evidence 6).
+It is used by the student union at King's       College, London (Section 5, evidence 3) and by local authorities across       Europe (Section 5, evidence 4).
+The software company Public-I built an       open source e-petitions system for Bristol City Council, based on the ITC       system and supported by ITC consultancy (Section 5, evidence 5).
+The Scottish Parliament used the ITC e-petitions until August 2012 and       are still using the system to track petitions submitted up to August 2011.
+A total of 1344 petitions were processed by the system.
+A report on the       use of the e-petitioner system for the Bundestag (Section 5, Evidence 1)       states:     "The Scottish Parliament was the first elected assembly in the world to       introduce an electronic petition system and integrate it into       parliamentary procedure.
+In particular, the technological functionalities       of internet-based signing and discussion of petitions on the E-Petitioner       system have attracted considerable international attention and recognition       by academics and politicians alike. "
+ITC translated and adapted e-Petitioner for the German Bundestag.
+This       was used during the assessment period and received a very positive review       by Riehm, B&#246;hle and Linder (Section 5, Evidence 1).
+They comment "Judging       by the popularity of the e-petition platform alone, public petitions can       be seen as an unqualified success.
+The share of electronically submitted       petitions to the German Bundestag rose from 17% in 2006 to 34% in 2010.
+At       the same time, public petitions appear to be particularly attractive for       citizens, since their share of submitted petitions rose from 5% to 24%.
+Overall, from September 2005 to the end of 2010, more than 3 million       signatures were counted for about 2,100 public petitions, and more than       100,000 written contributions to discussions were posted on the forums."
+As stated above, the e-Petitioner system is used by 24 local authorities       across the UK (See Section 5, Evidence 6).
+For example, the Royal Borough       of Kingston were using the e-Petitioner service in April 2009 and 17       petitions, with a total of 561 signatures were raised between 1/01/2008       and 31/03/2009.
+Birmingham City Council have a very active e-petitioner       site and Bristol has 255 petitions at various stages of being processed.
+The e-petition web site gives this example:     "Bristol City Council was one of the first councils to use our ePetition       system and has seen significant participation since the system started in       January 2008.
+One petition has seen more than 30,000 signatories, while       another has seen in excess of 10,000. Notable petitions have included:-       Better lighting and more police patrols on the cycle path: a petition       pressed for a safer cycle route to encourage greater cycle use into the       city and improvements in related environmental and community safety       issues.
+Keep Banksy: a petition called for a piece of street art by artist Banksy       to be kept following demands for its removal.
+Following widespread,       support the piece was preserved."
+(Reference from Evidence 6)     Figures supplied by the data controller at Public-I for the assessment       period 2008 - 2013 lists 1185 petitions at 32 institutions across Europe       with 124,569 unique signatories (Evidence 8).
+Thus there is considerable       reach and significance of this case study for society and culture and for       the empowerment of individual citizens.

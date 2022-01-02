@@ -1,0 +1,52 @@
+     The technological innovations described above have the following       benefits:     1) Improvement to the health and wellbeing of patients, along with       greater peace of mind for parents in the case of babies and children       undergoing treatment     2) Provision of target monitoring of organs     3) Enhanced accuracy of diagnosis, leading to the delivery of optimum       treatment     4) Contribution to more cost-effective healthcare     5) Generation of new clinical knowledge of current unresolved chronic       diseases.
+All of the sensors and instrumentation were designed and fabricated in       the Biomedical Research Laboratory at City University London, led by       Professor Kyriacou.
+The optical sensors and instrumentation were all       rigorously evaluated in clinical trials ongoing since 2008 in the       collaborating hospitals which included Great Ormond Street Hospital for       Children, St Bartholomew's Hospital, The Royal London Hospital, The Royal       Brompton Hospital and St Andrew's Centre for Plastic Surgery and Burns,       Broomfield Hospital.
+The sensors have already benefited more than 200       patients.
+Clinical trials were carried out in different populations of patients       (neonates, children, adults) with different clinical conditions and       pathologies (intensive care patients, surgery patients, etc.).
+The sensors       were customised for each situation and patient population, including       suites of sensors as follows:            Optical and fibre optic oesophageal sensors for adult patients         undergoing cardiothoracic bypass graft surgery       Optical and fibre optic oesophageal sensors for adult patients         undergoing general surgery       Optical oesophageal sensors for intensive care patients with severe         burns       Optical oesophageal sensors for intensive care neonates and children       Optical and fibre optic sensors for abdominal organ monitoring during         surgery       Optical fontanelle sensor for monitoring brain oxygenation in neonates         in intensive care       Optical sensors for monitoring survivability of flaps in plastic         reconstructive surgery.
+The sensors are designed for minimal discomfort to the patient.
+In the       majority of applications the placement of the sensors is completely       non-invasive or semi-invasive: for example, in newborn babies the probe is       placed on the skull.
+Some are semi-invasive, for example, where the sensor       is placed in the oesophagus and where sensors to detect oxygen in organs       and tissues are used during surgery in the unconscious patient.
+The       sensors do not require extraction of blood to give readings.
+Oesophageal and organ sensors     Oesophageal sensors were fabricated in the laboratory utilising       miniaturised monochromatic light emitting diodes and photodetectors       sensitive to specific absorbers (i.e.
+oxyhaemoglobin in blood) in blood or       tissue.
+The sensor's geometry was custom-made for each anatomical       placement.
+For example, the oesophageal sensors (adult, paediatric,       neonatal) were designed and fabricated in the laboratory to be cylindrical       and small enough to be placed in the human oesophagus with relative ease       (e.g., the neonatal oesophageal sensors has a cross diameter of about       2mm).
+Encapsulation of the sensors was carefully designed to include       biocompatible materials in order to ensure the safety of the patient       during the clinical trials.
+The fibre optic oesophageal sensors used       fibres of sizes down to 150 microns.
+These have pushed the limits of       current design capabilities, as they have incorporated miniature prisms at       the end of the probe to shine light at the wall of the oesophagus       (reflectance pulse oximetry).
+All custom-made oesophageal optical sensors were evaluated in clinical       trials in over 100 healthy and critically ill patients at St Bartholomew's       Hospital, The Royal London Hospital, Great Ormond Street Hospital for       Children and St Andrew's Centre for Plastic Surgery and Burns.
+The abdominal organ sensors were similarly custom-designed for specific       application.
+Different probe geometries were utilised in the Biomedical       Laboratory again using monochromatic light emitting diodes and       photodetectors.
+A spatula-shaped optical reflectance probe developed on a       flexible printed circuit board was used for placement on solid organs such       as the liver and kidney.
+A pencil-shaped hand-held optical and fibre optic       probe (with a footprint of approximately 1.5cm) was developed for spot       measurements on top of solid and hollow organs during open laparotomy       surgical operations.
+The custom-made abdominal organ optical sensors were used in clinical       trials in approximately 50 adult patients at St Bartholomew's and The       Royal London Hospitals undergoing open laparotomy operations.
+During these       measurements arterial oxygen saturation measurements for each organ were       displayed continuously and in real time on a computer screen.
+For the       first time surgeons and anaesthesiologists were able to observe direct       oxygenation measurements from specific organs, revealing their state of       health before and after the surgical procedure.
+The clinical trials showed       that it is feasible to provide valuable information at the bedside       regarding the adequacy of the blood supply to the gut and other vital       organs.
+Ultimately the oesophageal and organ sensors can be used to reduce stays       in intensive care or death from sepsis and Multiple Organ Dysfunction       Syndrome.
+They have provided clinical and physiological knowledge of how       different organs perfused in different diseased states or conditions.
+They       have demonstrated that monitoring specific organs can be superior to and       more specific than global monitoring, which is currently the gold standard       in measuring oxygen in the blood.
+This specific monitoring leads to more       targeted therapy and better treatment.
+The new sensors proved that the       oesophagus is a better place to monitor oxygenation when the patients are       very ill.
+The results of the oesophageal sensor minimised the use of       invasive blood sampling, which is much better for critically ill patients       and more economical for the healthcare provider.
+The oesophageal sensor is       also a more reliable monitor than the current state-of-the-art pulse       oximeters (devices that measure oxygen levels in the blood), especially       when patients are critically ill.
+The oesophageal technology helped the       clinicians using it to optimise the management and therapy of the       patients.
+This will have a direct effect on the time spent in intensive       care for patients.
+Free flap sensors for reconstructive surgery     Pilot clinical investigations involving 20 patients, in collaboration       with St Andrew's Centre for Plastic Surgery and Burns, allowed the       continuous and non-invasive measurement of the oxygenation in the free       flap in reconstructive surgery for the first time.
+This optical sensor was also custom built in the Biomedical Engineering       laboratory at City, where academic staff worked in partnership with       clinicians.
+It was designed as a reflectance circular optical sensor with       a very small size and thickness in order to comfortably be placed and       secured on the free flap during measurements.
+Plastic surgeons used the       sensor from the beginning of the operation before the harvesting of a       suitable flap.
+The sensor was used to confirm the suitability (good       vasculature) of the flap, as it was capable of indicating good blood flow       and blood oxygenation of the tissue on the donor site.
+After the       completion of the reconstructive surgery the probe was placed and secured       (taped) on the free flap in order to monitor the viability of the flap       continuously and in real time.
+It is critical to ensure that the flap       receives adequate oxygenated blood at the initial stages following       surgical procedure.
+Results from these clinical trials enable surgeons to understand the       behaviour of free flaps during and after operations, thereby accurately       assessing the survivability of the flap.
+This technology will be       established as a gold standard in monitoring free flaps in plastic surgery       as there is clearly a gap in monitoring technology for such applications.
+The continuous monitoring and non-invasive nature of the sensors enables       surgeons to optimise their surgical procedures.
+The sensor is capable of       detecting early complication in the flaps, allowing surgeons to       reinvestigate the flap in good time and maximise their survivability.
+The       development of the free flap sensor provides security and confidence to       patients, knowing that they can be monitored accurately and effectively     All sensors are still in use within the NHS (St Bartholomew's Hospital,       Great Ormond Street Hospital for Children and St Andrew's Centre for       Plastic Surgery and Burns) as research tools in further clinical trials.
+Clinicians have confirmed that the trials have demonstrated the       suitability of the opto-electronic sensors for use in patients where       commercial medical devices do not yet exist or where they fail to provide       an accurate measurement of arterial oxygen saturation; and of the optical       free flap pulse oximeter as an alternative technique for monitoring       perfusion in various types of flaps at all operative periods.
+There is no       medical device currently available with the capability of       monitoring splanchnic perfusion continuously; this important       application is addressed by the development of the splanchnic optical       sensor.
+Completion of clinical trials will led to the commercialisation of       the sensors.
+The sensor technologies have now attracted the attention of companies in       the medical devices industry, such as GE Healthcare, Samsung, Philips,       Masimo, Covidien and Intelligent Fabric Technologies plc.
+Following an       expression of interest by these companies, discussions are underway with       their research groups and non-disclosure agreements are in place.

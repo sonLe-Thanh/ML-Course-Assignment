@@ -1,0 +1,44 @@
+     Mobile phones are currently the biggest selling piece of electronic       equipment and have changed the way society interacts, from the one to one       level, to their use to gather large groups of people together for       political purposes.
+Today they are much more than a phone, but       communications remains at the centre of their capabilities, through mobile       connection to the Internet and other data services.
+This revolution was primarily enabled by the introduction of the 3G       standard in 2000/2001.
+As part of this, governments around the world       auctioned new spectrum.
+For example, the major operators in the UK       invested over &#163;22bn as part of this process.
+Like the second GSM band,       this increase in bands again placed high demands on antenna design.
+Achieving small size for four or more bands with high efficiency was the       goal and the Birmingham concept was again used in the design process.
+Due       to the high investment for 3G, lead time was even more significant.
+The initial response to the need for additional band coverage, [5.1], is       to fit an extra antenna into the handset case.
+However the number of other       components, such as the camera and accelerometers for example, mean that       there is an increasing demand on internal handset volume.
+Having two       antennas means that the size of each must be smaller.
+A reduction of the       antenna size results in reduced antenna efficiency, with a significant       reduction on battery life, which also significantly increases the       environmental impact of owning a phone, due to increased charging times.
+The only solution is to make the antenna multi-band.
+After the publication of the first Birmingham paper, [3.1], many       industrial groups around the world began work on the problem, such as,       Nokia, Lucent, Filtronic, Motorola and Sony-Ericsson.
+The nature of mobile       phone design is that all phones are different in small or large ways.
+Whilst some differences may be software based and use the same hardware,       many relate to handset size and shape, the inclusion of additional       hardware and the capability to operate over the various bands available.
+The availability of RF front end chipsets and digital processor chipsets       also changed during the period.
+This means that the internal layout of the       phones change regularly and as a consequence the antennas need to be       redesigned for each phone.
+In addition, companies need to protect their       intellectual property, by finding variations on the basic principle.
+The       process of antenna redesign and variation can be seen in the patents for       multi-band antennas.
+Patents must refer to previous publications and patents, but need not       describe the subsequent exploitation of the ideas described.
+Many of the       patents noted in [5.2] reference one of the Birmingham papers.
+Although       other papers are quoted, they are on other aspects of antenna design, and       thus the Birmingham papers are the prime source of the slot concept for       mobile phone antennas.
+Some of the companies that have filed patents do       not make handsets, and it is difficult to trace the on-going path from       those patents to market.
+However 21 of those patents are from Nokia, who       had by far the biggest share of the handset market during the REF impact       period.
+Patents for both dual band antennas, for the two 2G GSM bands and       four or more bands for 3G, are described in [5.2].
+Antennas that are close       in form to the drawings in these patents have been identified by Professor       Hall's group by disassembly of actual handsets.
+Patents describing other methods of achieving multi-band antenna action       in a small size are also given in [5.2].
+In some sense, they also owe       something to the Birmingham papers, but a direct relationship is hard to       show, as no references are made.
+In addition these are from companies that       have much lower market share than Nokia, and are much less influential in       terms of total impact.
+In Corroborating Source [5.3], the Head of Motorola Antenna Group,       Florida, USA, writes, "The conception and dissemination .... of the       multi-band planar inverted F antenna, by Prof Hall.... has been a key       enabler for the development of ever more capable .... mobile phones" and       "An even stronger indication is the frequent reference to PIFAs as prior       art in patents ... clear testament of the seminal value of the original       concept developed by Prof Hall..."     In Corroborating Source [5.4] the Sony Ericsson designated expert in       terminal antenna technologies writes, "I knew your work very well, this       paper was the first academic paper to tell how to design a dual band PIFA       antenna system" and "Your work is definite the first paper to guide       industry to realize it in the practical products."
+The value of the multi-band antennas in Nokia phones can be estimated       from the market share and market size, [5.5].
+Trefis.com, a business       analysis organisation, states that "We estimate that Nokia will have 2011       market share of 30% in the 1.1 billion mobile phone market within emerging       markets and 17% market share in the 500 million mobile phone market within       developed markets."
+Forbes, indicate an approximately linear variation of       the Nokia market share over the period, from 45% in 2008 to 23% in 2012.
+At the time of writing data for 2013 was not available.
+The typical value       of each antenna can be estimated from the costs as advertised in web based       catalogues from Chinese companies.
+For example, the antenna for the Nokia       N6300 costs $0.75 and for the N76 cost $1.35.
+From this data the likely value of antennas in all Nokia phones over the       period can be estimated.
+The equation below has two parts, as the total       market share is the sum of the shares in the developed and emerging       markets.
+A market share is averaged over the period.
+An average antenna       value of around $ 1 is used.
+Value = (developed market size x market share x average antenna value x       period)     + (emerging market size x market share x average antenna value x period)     = (1.1 billion x 30 % x 1 $ x 5 years)     + (0.5 billion x 17 % x 1 $ x 5 years)     = $ 415 million     With an average market share of 30% for Nokia, it could be assumed that       the total value of antennas designed using the Birmingham concept could be       double this amount.
+In addition, it is difficult to extend the above       calculation to the impact on Nokia's turnover during the REF period,       However, since Nokia was in profit during this period, it is reasonable to       assume that this had a direct impact on their revenues and, assuming no       margin, this equates to a revenue contribution in excess of $400M and a       global contribution of twice this.
+Whilst this is only indicative, it does       serve to illustrate the magnitude of the impact.

@@ -1,0 +1,16 @@
+     The research has had an impact on health and welfare, by informing NICE       guidance on treatment to prevent fractures due to osteoporosis in       post-menopausal women and thereby influencing treatment for this patient       group.
+Process to impact:     The model, developed by the University of Sheffield researchers, was used       to draw up the NICE guidance TA87, released in 2005.
+Prior to this,       prescribing patterns and the use of bone mineral density tests were not       standardised across the country and had not been subjected to       cost-effectiveness analyses.
+In 2008, NICE released new guidance, TA160       and TA161 [S1 and S2], which used the same cost-effectiveness model       developed in Sheffield, updated by the Sheffield team to include the new       treatment, strontium ranelate.
+In 2009, the guidance was taken to judicial review following complaints       by a number of stakeholders, and NICE was asked to review the model on       which their decisions had been based.
+NICE concluded that the model was       sound and so it remains the basis for their current guidance, updated in       2011.
+Impact on health and welfare:     The research has had impact on health and welfare by informing the       decisions made by a regulatory authority, namely NICE.
+The NICE guidance (TA160 and TA161) says: `The Committee concluded that       the Assessment Group [named as ScHARR in para 1.4.1 p14] had provided an       executable economic model ...
+The Committee confirmed that the model       provided a suitable framework to allow it to make recommendations on the       cost-effective use of treatment for women at risk of fracture...
+Therefore       the Committee concluded that the recommendations based on the Assessment       Group's model were appropriate, and that the recommendations should remain       unchanged.'
+(TA160, para 4.3.65 pp78-9; TA161, para 4.3.66 pp83-4) [S1,       S2].
+NICE estimate that there are more than 2 million women with osteoporosis       in England and Wales (TA161 amended, p9).
+As NICE guidance is mandatory,       the research &#8212; through TA160 and TA161 &#8212; has influenced the treatment of       all post-menopausal women with osteoporosis in England and Wales since the       initial guidance was released in October 2008.
+NICE guidance identifies which women should be offered a bone mineral       density scan, and based on the result of the scan, which women should be       offered treatment with alendronate.
+Where women are unable to take       alendronate, the guidance specifies whether alternative treatments can be       prescribed based on age, clinical risk factor and bone mineral density       characteristics (T-Score).
+Without the algorithm developed through the       Sheffield research, it would not be possible for NICE to issue guidance to       this level of granularity in terms of age, T-Score and clinical risk       factor combinations.

@@ -1,0 +1,22 @@
+     Modern automotive brakes have to provide consistently high performance       over a wide range of       operating conditions including high temperatures and high speeds.
+It is a       technologically       challenging area of automotive engineering, and vehicle and brake       manufacturers are continually       required to improve their designs.
+We have worked closely with many       companies (a,b,c,d,e) so       that our research into road vehicle brakes and braking systems has enabled       them to understand       better the underpinning scientific principles, and implement new knowledge       and methods.
+The       result for the industry is improved customer satisfaction and reduced       warranty costs, for example       by 50% for JLR since 2010 (a).
+On-going promulgation of research knowledge and expertise in the field is       achieved via the annual       "Braking of Road Vehicles" short course run at Bradford since 1997.
+Delegates attend this course       each year from all over the world, and it is internationally regarded as       the `industry-standard' short       course for the road vehicle and braking industries.
+It is also delivered       in-house to several       companies including JLR (a) where it is part of their Masters level       professional training programme.
+Since 2008 we have trained over 250 engineers in advanced knowledge and       expertise (e.g.
+in       brake NVH) and have substantially improved the knowledge and understanding       of staff.
+For       example, in JLR's Brakes Engineering Department (a) this training is       already enabling new CAE       procedures to be developed e.g.
+in the minimisation of brake noise       propensity at the design stage       (2,a).
+Concerns relating to brake noise and vibration within JLR have       decreased as a result of       better understanding of brake noise among braking systems design engineers       which has resulted       in a saving of 471 days, and 3800 hours amongst the Brakes Engineering       Department staff (a).
+For       example, JLR took the decision to lower their in-house standard friction       level to 0.38, reducing       noise propensity because of the reduced leading contact offset (2).
+Associated with other design       improvements, the result has been that since 2009 the number of identified       concerns relating to       brake noise and vibration has halved, warranty costs have been       substantially reduced, and       customer satisfaction has increased (a).
+The advanced techniques of holographic interferometry developed by the       team have revealed       details of noisy brake systems that were previously unknown (3).
+Our       results have been       disseminated internationally and have been used to validate predictive       Finite Element (FE)       analysis procedures for brake design which have been adopted and used by       many brake and       vehicle manufacturers for noise prediction (a,b,c,d,e).
+Our predictive       tool for brake NVH is currently       being used by four vehicle and brake system manufacturers to support       understanding of how brake       noise is generated and to propose design improvements to avoid it.
+Currently two UK car       manufacturers are using noise counter measures that were originally       proposed by the Bradford       team (Bentley and JLR).
+Prior to successful application of the       countermeasure, new Bentley       vehicles were unable to be released for production because of brake noise       (b).
+We have worked closely with Bentley (5,6,b) over many years to advance       their understanding of       brake judder.
+This has resulted in their adopting stress relieving of       brake discs to ensure that       warranty claims arising from judder are minimised.
+The research is also       being used to direct       Bentley's future disc design and selection.

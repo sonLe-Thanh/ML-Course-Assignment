@@ -1,0 +1,26 @@
+     Work by Bayford and Tizzard on the development of algorithms and the       generation of geometrical finite element forward models, applied to       imaging impedance changes inside the human brain, has led to impact in       three areas.
+Firstly, the availability of the software has led to its       adoption in commercial software.
+Secondly, work on neonate lung function       monitoring has generated a patent.
+Thirdly, the software has been used by       both industrial and academic research groups for the provision of further       imaging solutions such as in improving breast tumour images.
+Some of this       work is commercially confidential.
+(i) The algorithm is in the process of undergoing adoption by commercial       companies involved in product development research of EIT systems and has       led to a significant improvement to the only existing commercial medical       EIT system originally developed by Viasys.
+(now Carefusion).
+Dr&#228;ger, a       leading international company in the fields of medical and safety       technology (http://campaigns.draeger.com/pulmovista500/en/) has also       adopted the EIDORS software (Sources 1, 2, 6 and 7).
+(ii) Work on neonate lung function monitoring by Middlesex and its       collaborators at UCL and City University has led to a patent being filed       that describes a flexible wearable device to extract boundary information       for the warping algorithm to dynamically generate and modify subject       specific forward models in real time.
+This work addresses the urgent need       for objective, non-invasive measures of lung maturity and development,       oxygen requirements and lung function, suitable for use in small,       unsedated infants, to define the nature and severity of lung dysfunction.
+We have signed an NDA with Swisstom to develop the wearable device [note:       this is commercially confidential information] and have a       provisional patent in place (61/867,904: US; Source 3).
+Use of the research outcomes for imaging neonate lung function will       significantly reduce the cost of patient care and mortality by allowing       systematic monitoring of child lung function for time-critical       intervention.
+There is an urgent need to improve ventilation strategies in       children with acute lung injury (ALI), which has a high mortality (22%)       compared with the overall mortality of paediatric intensive care unit       patients.
+Disorders of lung growth, maturation and control of breathing       are among the most important problems faced by the neonatologist.
+Although       it is not yet used clinically to monitor lung function in neonates, EIT is       being used for adult patients (see link to Dr&#228;ger above) using some of the       developments created for neonate imaging.
+(iii) The models generated have also been used extensively       internationally by other groups focused on the development of imaging       solutions.
+For example, clinicians at Dartmouth College and Florida       University in the USA are developing EIT and optical tomography imaging of       both adult and neonate human heads, making extensive use of our algorithms       downloaded from EIDORS (Source 7, eidors3d.sourceforge.net/).
+Further work       on the automatic generation of subject-specific forward models, namely the       warping algorithm, has formed the basis of extending the process to       imaging lung function, specifically in neonates, in collaboration with       Prof. Andreas Demosthenous, Dept.
+Electronic and Electrical Engineering,       UCL, Prof. Panos Liatsis, City University and Prof. Janet Stocks, Great       Ormond St. Hospital (2007 - 2009).
+At Dartmouth College, the work is also       being used to improve breast tumour imaging in collaboration with Prof.       Alex Hartov's team that includes Dr Andrea Borsic and Prof. Ryan Halter       (2010 ongoing; Source 4).
+This work is based on using elastic deformation       to warp standard or idealised geometry - all of which is intended to       provide extensions of the public domain toolset.
+(iv) We are also working with Midatech Ltd (source 5) to extend the       application of EIT for the detection of cancer.
+The imaging method may be       used to visualise primary lesions in cancers such as colon, prostate,       breast and brain cancer, and in the early location of metastases and may       also have an application as a mechanism killing tumour cells.
+Using EIT,       especially MfEIT, has the advantage that the imaging technique does not       emit potentially harmful ionising radiation like CT or X-Rays, and is       highly portable and inexpensive.
+A joint patent (WO/2010/052503; Detection       of Cancer) is in place with this company, which is led by Prof. Rademacher       (Source 5).
+This work is also subject to an NDA, which limits the       information we are allowed to disclose in this document.

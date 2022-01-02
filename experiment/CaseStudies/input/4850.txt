@@ -1,0 +1,37 @@
+     The foregoing research has influenced monetary policy in several emerging       economies; indicating       significant impact and reach.
+Since 2008, CIMS researchers have worked       with the subjects of this       case study (in Nigeria and Pakistan), as well as the IMF in Peru, and the       National Institute of Public       Finance and Policy in Delhi.
+The case study arose from the State Bank of       Pakistan recruiting a       member of CIMS to be Research Director in 2008, and the Central Bank of       Nigeria's recruitment of       one of our PhD students; both led to Levine's lecture invitations.
+The       Nigerians have subsequently       participated in our DSGE Training Courses, generating a strong       relationship and channel for       impact between us.
+Several examples illustrate our impact:     (a) Impact on the foundation of a new survey centre in the State Bank of       Pakistan, specifically for       collection of micro-founded data.
+(b) Impact on the design of macro models at the Central Bank of Nigeria       and the State Bank of       Pakistan.
+(c) Impact on monetary policy in Nigeria and Pakistan.
+(a) Impact on the foundation of a new survey centre in the State           Bank of Pakistan (SBP)     Our research identifies accurate data on forward-looking inflationary       expectations and measures of       the informal sector as key to building models of emerging economies.
+Neither was available in       Pakistan until the SBP established a new Centre for Survey Research in       2011.
+Employing 11 full-time equivalent staff, this collects such data in support monetary policy       making.
+[C1] confirms our       role: "influenced by CIMS researchers, [SBP] taken much more seriously the       need for good data in       order to implement such models, and conduct robustness analysis, in the       presence of an informal       sector.
+As a result, we have invested in a designated Centre for Survey       Research."
+Our support       with the "theoretical background, development and implementation" of the       Centre is publicly       acknowledged in [C2]; in particular we provided conceptual underpinnings,       and Vasco Gabriel       advised on sample and questionnaire design.
+Notably, the Centre's planning       and implementation       has happened "under the guidance" [C1] of a former full-time member of       CIMS (see above), who       "brought a number of ideas from CIMS", and excellent lines of       communication between ourselves       and the Bank.
+The Centre collects bi-monthly data on inflation expectations from 2,000       households and organizes       national data collection on prices and wages from 1,000 firms.
+Crucially,       approaching individual       firms rather than observing purchases captures the informal sector's role       in price formation [C3].
+(b) Impact on the design of macro models at the Central Bank of           Nigeria (CBN) and the State           Bank of Pakistan (SBP)     At the CBN, [C4] reports that Levine's 2009 lecture to them and a       subsequent presentation to       research staff and top management, "brought a completely new foresight to       our modelling       framework and policy analysis."
+Through an ongoing "collaborative       initiative" (including attendance       at our DSGE Training Courses), the CBN has "learnt to avoid the previous       constraints of using       single &#8212; large macro models and [is] now trying to develop micro DSGE       models that are designed       around interest rate rules that are robust across rival models."
+(See       papers (1)-(3).)
+"Based on       CIMS research" the models include distinctive features of Nigeria: "oil,       dollarization, financial       frictions and a large informal economy".
+[C4] recognises our research "has       had a considerable       influence on the way we are now modelling the Nigerian economy" and       believes this has "improved... our monetary policy through its       country-specific structure and ability to deal with uncertainty."
+At the SBP, [C1] describes a new "research program that uses the       probability models       recommended in Prof Levine's lecture and in CIMS' publications" and       mentions papers (1), (5) and       (6)).
+"Because of this, the [SBP] is developing a series of ... DSGE       models for Pakistan".
+[C1]       continues: "We have developed our models to incorporate the informal       sector, as recommended by       Levine's invited lecture."
+The first model was publicised in [C5] in 2012.
+[C6] describes a       "macroeconomic model incorporating the microeconomic features of the       informal sector of the       Pakistan economy" (as collected above).
+As anticipated, the model performs       "better" than       available alternatives according to [C5] &#8212; see also [C6].
+The authors of       the model [C5] cite papers       (5) and (6) as demonstrating the "significance" of, and "providing       important evidence" for, their       modelling approach.
+(c) Impact on monetary policy in Nigeria and Pakistan     In Nigeria, [C4] notes that "CIMS research has significantly improved the       output of the Research       and Monetary Policy Departments, which generally guide the Monetary Policy       Committee       members."
+The CBN has "drawn extensively from the research by CIMS ... to       review Nigerian       exchange rate policy and recently announced [an] inflation targeting       framework.
+", moving the Bank       from monetary targeting and a guided exchange rate.
+It has "benefitted       from CIMS research on       comparisons between inflation and exchange rate targeting and ... in its       recent Board Retreat,       announced the plan to implement an inflation targeting monetary policy       framework for Nigeria."
+&#8212;       exactly as in paper 5.
+In Pakistan, the data collected in (a) now feature prominently in       monetary policy.
+For instance, the       SBP's Monetary Policy Committee used the data explicitly in its June 2013       Monetary Policy       Decision on interest rates &#8212; see [C7], and paper (3).
+The Centre's data       have become "vital in       conducting forward-looking monetary policy and ... a vital rudder in our       decisions and overall       analysis of the economy."
+([C8], p. 60).

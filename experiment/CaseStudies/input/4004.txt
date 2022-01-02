@@ -1,0 +1,23 @@
+     Both DICHROWEB and the PCDDB are widely used by researchers in industry       as well as for       academic research and advanced teaching.
+DICHROWEB currently has over       3,600 registered       users.
+Over 375,000 DICHROWEB analyses have been run and the service has       been cited in over       1,000 publications [a].
+This resource is free for academic and       non-profit research use but industrial       subscribers each pay a small annual fee for use of the service.
+The list       of past and present       industrial users includes representatives of the pharmaceutical,       biotechnology and food sectors,       and ranges from large multinational companies to the SME sector.
+Fees from       industrial users       provide an income of &#163;2-5,000/year which is used as a contribution to       running costs.
+No formal       registration is required to access PCDDB, but users can register to       facilitate multiple queries or       updates of contents.
+Currently registered industrial users include a       number of large pharmaceutical       companies and life science SMEs, plus about a dozen biomedical product and       clinical diagnostic       suppliers, amongst others.
+Since its launch in 2009, the database has had       over 175,000 unique       hits from 41 different countries, and 89,890 downloads (as at March 2012)       [b].
+Analysis of citations of our key publications reveals that a wide range       of companies have obtained       valuable results from using the tools that have been made accessible       through DICHROWEB (many       of which were developed by Wallace's group).
+For example, three studies       cited below [c-e]       illustrate typical recent cases in which the analysis tools within       DICHROWEB have been applied to       analysis of the stability and solution properties of proteins being       developed as biological products,       particularly vaccine candidates and tools for biomedical investigation.
+A       complete list of citations       with industrial co-authors is available [f].
+This indicates use of       DICHROWEB by a wide range of       large and small companies from the pharmaceutical, vaccine, biotech, food       and instrumentation       sectors.
+A review of the patent literature has shown 11 patent       applications from major corporations       referring to the underpinning research papers, further indicating the       commercial relevance of our       work.
+The list of assignees that hold these patents include Roche Holding       AG, Pfizer Inc. and       Collplant Ltd [g].
+The use of both DICHROWEB and the PCDDB is promoted and encouraged by all       the major       commercial manufacturers of equipment for CD spectroscopy, who have       established links from       their own company websites either to DICHROWEB alone or to both DICHROWEB       and the       PCDDB [h].
+The well-established and prestigious RCSB Protein Data       Bank Knowledge Base       website, which is a primary access point for publicly available       atomic-resolution protein structures,       also links relevant entries to the appropriate entries in the PCDDB; both       sites are also linked from a       number of widely used bioinformatics websites and are now being promoted       via social media.
+Wallace's work has been recognised in several awards and in invitations       to present her work at       international conferences.
+Her presentation with the prestigious       AstraZeneca Award by the       Biochemical Society in 2010 recognised her "outstanding work which,         through biomedical         advances, leads to development of a new reagent or method" [i].
+In 2011 she was a keynote       lecturer at the CASSS Higher Order Structure meeting on spectroscopy for       industry (Rockville, MD,       USA) [j].
+Both DICHROWEB and the PCDDB are widely used in advanced teaching both in       the UK outside       Birkbeck College and internationally.
+These include workshops for       researchers such as an annual       EU/UK summer school, which regularly involves delegates from industry, and       university courses;       DICHROWEB is mentioned in course notes and curricula from the Universities       of Texas and       Pittsburgh [k].
+The use of both databases as resources for       undergraduate teaching of CD       spectroscopy has recently been recommended [l].

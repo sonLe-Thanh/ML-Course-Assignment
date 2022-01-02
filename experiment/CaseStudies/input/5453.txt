@@ -1,0 +1,45 @@
+     Process of from research to impact: The research, proof of concept       and development to       engineering operation were entirely achieved within the Strathclyde       University research team &#8212; the       Centre for Micro-systems and Photonics (CMP) in the EEE Department.
+The       work was funded by       the two DTI programmes noted in section 3 and supported by two EPSRC CASE       studentships       (Duffin and McGettrick noted above).
+Our partners (including OptoSci       Ltd.), with CMP support,       carried out the engineering development to prototype level and implemented       the further       development (OptoSci only) to full commercial product including the       necessary field trials and       qualification.
+OptoSci Ltd. worked in partnership with the research group       generating the key       outcomes during the entire process of basic research through technology       transfer to commercial       product, and continues to do so for future products arising from similar       research.
+OptoSci Ltd. was       a partner in the DTI Link project, OMEGA, in which the multi-point system       was initially developed.
+The company also sponsored the PhD student, Kevin Duffin, and was a       partner in the DTI       REALMS project in which the calibration free algorithms were developed.
+Nature of the impact: The benefits of this technology are due       primarily to the fact that no power is       required at the sensor head, making the system intrinsically safe.
+Electrical shut down in an       emergency situation (particularly crucial for mining) does not affect the       performance of the multi-point       optical detection system, which continues to inform the operators and       rescue teams of the       gas conditions in the incident zone.
+This brings enormous safety benefits       and informs and widens       the range of intervention / rescue options.
+Other benefits are the       economic impacts arising from       expansion of OptoSci's business through the new product line, creating       employment, international       sales, profits to shareholders and a reduction in costs to industry, where       the new technology has       been adopted.
+Other commercial companies are now trying to emulate       multi-point systems using       optical fibre networks, but, to the best of our knowledge, none has been       successful to date.
+1.
+Economic benefits: The most immediate impact is economic.
+The       technology has been fully       adopted by OptoSci Ltd., commercial products have been developed (Source       A) and sales have       been made, thus supporting existing jobs and leading to job creation       (three new engineering jobs       since 2009 with more anticipated in the coming year).
+Barriers to sales in       safety critical markets are       high, with differing qualifications required in different countries, and       conservatism in the industry       regarding the introduction of new, unproven technologies being the main       obstacles.
+Hence,       significant early sales after product launch are unusual.
+Despite such       barriers, sales, starting in       late 2010 and driven by the technical, operational and cost benefits of       the new products, have       reached a total of &#163;250k (including export sales to Japan, Hong Kong,       China and the USA).
+In       addition, a contract worth &#163;193k has been signed (May 2013), to customise       and deliver systems       over the coming year to a consortium of the UK gas distribution networks       including Scotia Gas       Networks, Northern Gas networks, National Grid Gas Networks and Southern       Gas Networks       (Source B).
+Given the increased commercial sales and business growth from       the new product       range, the shareholders, directors and employees of OptoSci Ltd. are the       immediate beneficiaries       in terms of business / employment sustainability and growth.
+A researcher       from EEE at Strathclyde       was employed by OptoSci from 2009-13 to support the commercial activities       arising from the       research outcomes.
+A second researcher from EEE at Strathclyde is now       employed by the       company in this role.
+Two further engineering employees have been       appointed so far to support       the new product range and further appointments are planned over the coming       year.
+In addition, economic benefit accrues to companies and organisations       involved in mining and gas       processing sectors through the technical and operational benefits of the       technology.
+The Director       of OptoSci has stated that the Strathclyde technology "brings         significant and unique human safety         benefits to mining and gas (methane) production, storage, piping and         transport systems.
+Other         benefits to the purchaser include low cost of ownership through high         reliability (little need for         maintenance) and consistent accuracy in operation.
+We believe that this         product / technology is         vastly superior to any gas sensing products currently used for the         detection of methane in mines         etc.
+As such, it is the focus for all future business growth within the         company."
+(Source B).
+2.
+Reduction in Costs to Industry: Elimination of the need to       re-calibrate the sensor heads and       their high reliability results in long periods between maintenance and       little need for head       replacement.
+Ownership costs are therefore very low.
+Several systems have       been in operation, in       situ, for more than two years with no maintenance and zero head       replacement.
+The above coupled       technical, safety, operational and cost benefits have driven global       interest.
+3.
+Improvements to detection of methane, and human safety: In       addition to commercial and       economic benefits, impact accrues from the applications to human health       and safety assurance via       the widespread need for detection of hazardous gases.
+This is especially       important for methane in       mines, tunnels (e.g.
+subway tunnels), gas (methane) production, and       associated storage, piping       and transport infra-structure.
+In particular, the sensor is designed to       operate continuously following       emergency electrical shut-down to an incident zone, widening intervention       / rescue options.
+Hence,       the benefits to the wider global industries involved in these sectors and       to society in general are       substantial in reach.
+High profile purchasers of systems include Tokyo       Gas, Hong Kong and China       Gas Co., Chengdu Gas Co. (all for sub-city gas distribution tunnels /       ducts), Hainan Minsheng Gas       Co. (for liquid natural gas storage sites), Tiandi Automation Co. Ltd.       (largest mine safety systems       integrator in China) and Alpha Natural Resources (third largest coal       mining company in the USA).
+To put the significance of the new technology in context, in China alone       over 3000 lives are lost       annually to monthly occurring methane explosions in mines.
+4.
+Wider applications: Strathclyde University, OptoSci Ltd and       Rolls-Royce are developing the       same techniques for process monitoring and emissions control in gas       turbine (aero) engines and       fuel cells.
+Impact will accrue from low carbon gains via more efficient       fuel cells and better fuels for       aero engines with concomitant reduction in emissions.
+This has led to a       new, high technology, gas       measurement product with first sales by July 2103 of &#163;25k to Rolls-Royce       Fuel Cell Systems Ltd.

@@ -1,0 +1,30 @@
+     Creating new forms of artistic expression;            The StoryBank system was deployed in Budikote village with         approximately 3,000 inhabitants.
+137 stories were made and shared in the final trial by a wide cross         section of people, including         the low caste Dalit community who are usually excluded from village         debate.
+The content         suggested strong uses of the technology for sharing health information,         advertising local         goods, diagnosing crop problems, supporting teaching and learning in         schools, and capturing         cultural heritage stories.
+Ram Bhat of the NGO `Voices' who managed the         trial said: "The         stories demonstrated that not only was the design community-friendly,         but also led to         innovation in content, wherein communities made use of individuated         technology like mobile         phones, to create and share deeply personal stories".
+Similar testing of Com-Phone, Com-Charge and Com-Tablet with 11,000         inhabitants in the         Mankosi region of the Eastern Cape revealed further uses of digital         stories beyond those         created in India.
+These included the capture and circulation of         indigenous music, remixing of         captured radio and TV content, community event recording, healthcare         dramas for HIV, tourist         information and multimedia letters to government.
+An early version of the Com-Cam device was tested in a vocational         training centre in the         township of Khayelitsha outside Cape Town &#8212; http://www.learntoearn.org.za/         According to,the         Director of the ICT4D Research Centre, University of Cape Town, who ran         the trial: "Com-Cam         offers an exciting possibility to project or display media which is         trapped on the handset to a         wider co-located audience.
+Without Com-Cam, there is no way that this         media could have been         shared with the group...
+In short, Com-Cam is a unique product which         addresses a real need in         the developing world."
+Com-Cam was also tested by Co-Director of Maara Media Collective, in a         busy drop-in centre         for sexual minorities in Bangalore, India &#8212; http://sangama.org/.
+User response was very         positive: 	  "Defying all expectations, the communities in India did not restrict         the use of these technologies         merely for creating and playback of content created via mobile phones.
+They experimented         with the technology to present charts and slides to their peers, magnify         objects and so on...
+The Community Generated Media toolkit attempts to address not just         participatory content         creation in terms of user interface and design, but has also addressed         some of the         infrastructural challenges to participatory and citizen media in India.
+The technology is robust,         low cost and can be easily adopted by willing entrepreneurs who can then         distribute to         communities who are interested."
+Contribution to a Wider Public Understanding;            StoryBank was exhibited at the British Science Festival at the         University of Surrey in 2009.
+Approximately 1000 members of the public visited the StoryBank stand         during the weeklong         festival.
+75% of respondents in a questionnaire survey (N=50) agreed         that the work `had         impacted their awareness of global digital divide issues': http://www.tellingstorybank.info/        StoryBank was used as a case study in FutureLab's report on social         inclusion, launched by         Baroness Estelle Morris at the Institute of Directors, April 2008.
+The         report has been         highlighted in a range of local and national policy forums including         BECTA.
+EPSRC has also used StoryBank in its `Impact!
+On Poverty Reduction'         leaflet          Since its launch in July 2012, the Com-Phone app has been downloaded       16,500 times and Com-Tablet       350 times (@3.10.13).
+Auditable, third party logs show that users are       drawn from 71       countries around the world.
+The areas showing greatest interest in the       toolkit are suggested by the       top download figures for Com-Phone.
+These are from the US (4428),       Philipines (1847), India       (1380), UK (743), South Africa (607) and Malaysia (427).
+Feedback from users of the toolkit is difficult to obtain due to the       nature of the remote communities       benefiting from the technology, but numerous NGO groups have informed us       or worked with us in       their experiments to use the Com-Me toolkit with community groups.
+They       include ValleyKids in       Wales, The Centre for Digital Storytelling in the US, World Vision in       Switzerland, Quest Alliance       and Digital Study Hall in India.
+Surrey's research has led to Nokia developing a mobile journalism system       that was informed by       the StoryBank work and later tested in a subsequent Surrey project called       Bespoke:       http://www.newelo.com/home.
+In India, Nokia used the broader approach in other projects, as described       by the Director of the       project: "We realized the importance of creating technologies to support       (as opposed to replacing)       already existing practices, such as the community radio in this case.
+This       realization had an       influence on a subsequently formed project, titled HealthRadar.
+For that       project, my group       designed a mobile disease surveillance technology on top of the already       existing practice of paper-       based surveillance.
+The idea of co-existence of old and new technologies       originated from the       observations of the StoryBank project."

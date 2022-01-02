@@ -1,0 +1,47 @@
+     Since the early 2000s, and especially since the crisis, when they were       found to be short of capital, banks across the world have been keen to       predict the impact of changes in the macro-economy on the future riskiness       of individual loans.
+Unfortunately their current models did not allow them       to do this.
+Our work showed how banks could incorporate macro-economic       factors into credit risk models.
+Senior managers at banks and regulatory agencies across the UK and in       over 30 other countries were made aware of the research through four main       processes.
+The first was by giving invited presentations to private banks.
+For example, the credit analytics team at Itau-Unibanc, Brazil - one of       the largest banks in the South American continent - invited Crook to give       a presentation on survival analysis methodologies for credit scoring to       its team in San Paulo; he was also invited to speak at the jointly created       Bank Z-CRC Innovation Forum, and Lloyds Bank invited him to explain the       application of survival models to its modelling teams.
+The second involved       presenting the results at public conferences, for example the biennial       Credit Scoring and Credit Control X, XI, and XII in Edinburgh 2007, 2009       and 2011 and the International Federation of Operational Research and       Management Science conference in Dallas 2010, which were attended by over       1,200 practitioners.
+Presentations were also made by invitation to a       public bank, the Federal Reserve Bank of Philadelphia.
+Thirdly, awareness       was raised by gaining significant BBC coverage which, although occurring       in 2007, led to subsequent impact in 2008 [see 5.1].
+Fourthly, impact was       created through private conversations with influential members of       regulatory agencies, for example the Financial Services Authority.
+Implementation of the findings of this research has had a direct impact       on the improvement in the competitiveness of banks, because the accuracy       of a bank's models is a source of competitive advantage.
+For this reason       banks are reluctant to reveal the full impact of our work.
+Nonetheless, a       range of impacts can be demonstrated.
+1.
+Design of Survival Models.
+Prior to this research, banks were       unaware of and so did not use survival models to assess credit risk.
+The       impact of the research was such that it transformed the way credit risk       model teams in banks think about both what they are trying to model and       the way they do it.
+This research was vitally significant for several       reasons.
+It meant a bank could change the horizon over which it required a       probability of default from 18 months to any period it wished, without       re-estimating the model and it could weight scheduled payment amounts in       each month by the probability of default to compute expected       revenue from a loan in each month.
+Incorporating expected costs would       allow a bank to compute the expected profits from making a loan in each       month and so did not have to rely on computing just the probability of       default over a fixed horizon.
+The research also meant a bank could compute       a probability of default that was insensitive to the macro economy (by       fixing the values of the macroeconomic factors and the behavioural       factors) as required by the Basel Accords.
+A bank could also compare the       expected profits with the predicted probability of default over a given       horizon and so make a loan based on both expected profit and predicted       risk.
+As a result of our research many multinational banks can predict the       probability of default in a chosen future time period rather than over a       fixed (at the time of modelling) time period, and they can include       macroeconomic variables in such models.
+As the testimonies below       demonstrate, the research has had a direct impact on choices made by banks       and credit scoring institutions by demonstrating the superiority of using       survival (sometimes called "duration") models rather than cross-sectional       models.
+"The work you did in 1999 was a useful case study to illustrate its         feasibility.
+Typically the approach is used mainly for credit risk         modelling for loans and mortgages where there is a fixed repayment         schedule."
+[5.2] (3 June 2013)     "[Quotation removed]".
+[5.3]     "[Quotation removed]".
+[5.4], referring to Banasik et al (1999)       and Bellotti and Crook (2009)     "...we did use survival analysis (one of my staff constructed the         model) along the lines of the paper [3.1 above] (a proportional odds         model if I remember correctly).
+I note that without the preliminary CRC         paper we would probably not have had the confidence to do this, as we         needed to quote evidence that the model was at least as powerful as a         combination of logistic regression and vintage curves" [5.5]     Given the secrecy surrounding the use of techniques by banks these       commendations are especially positive.
+2.
+Reject Inference.
+The nature of the impact was to increase the       understanding on the part of risk modelling teams of what exactly the       statistical problems are when they estimate a model based only on a sample       of accepted applicants.
+This has occurred since the results were first       made public in 2001.
+Thus [5.3] writes:     "[Quotation removed]"     And [5.5] writes:     "In all the scorecard constructions that I have undertaken or         supervised for banks and building societies these papers [3.3 and 3.4         above] have changed the way that I approached the `Rejected Applicant'         problem".
+3.
+Loss Given Default.
+The Basel II Accord requires banks to use       a level of LGD that would occur when there is an economic downturn.
+By       providing confirmatory evidence of the robustness of a two step approach,       this research has led to a consistent approach across many banks.
+The       research impacts on banks in two ways.
+First it shows a comparison of the       accuracy of methods for predicting LGD in the context of significant       secrecy.
+That is, banks do not reveal their methods publicly and so cannot       compare the accuracy of their methods with the accuracy obtained by their       competitors.
+The paper provides a benchmark.
+Second, by including       macroeconomic variables into the model, stressed levels of LGD can be       directly computed by choosing hypothetical `stressed' levels of the       macroeconomic variables and substituting them into the model.
+"In agreement with your approach many retail banks apply a two stage         LGD model as you described.
+Confirmation that this was a robust approach         was helpful in bringing about [a] reasonably standard approach across         many banks".
+[5.2]     Because of its awareness of these research projects a multinational bank       asked the CRC to undertake consultancy projects that directly altered       decisions that the bank made (details confidential and covered by an NDA,       but related to portfolios of billions of pounds sterling).

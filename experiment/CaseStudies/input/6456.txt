@@ -1,0 +1,37 @@
+     The TREC collections and methodologies have been established in the past       20 years as the de facto standard with which IR researchers       publish results that are defensible, comparable and reproducible12.
+The 2010 Rowe survey of the economic impact of TREC on the field,       particularly in the context of the USA, found that the impact was       significant and that TREC has been successful for companies producing IR       software and search services.
+Rowe et al.
+also state:     "TREC has made significant contributions to the technology         infrastructure supporting IR system development, the benefits of which         flow directly or indirectly to a variety of stakeholder groups....
+The         direct beneficiaries are IR researchers in academic research groups and         commercial firms; TREC's accomplishments improved both the efficiency         and the effectiveness of their research and development (R&amp;D)         activities.
+R&amp;D benefits that accrued to academic labs have also         flowed indirectly to commercial firms through technology transfer and         knowledge sharing.
+Improvement in the R&amp;D of commercial IR firms led         to improvements in the performance of IR systems commercialized into         products and services.
+End users of these IR systems have also         indirectly benefited from TREC through higher quality IR products and         Services."
+Armstrong et al.6 reference BM25 as the best system       from TREC 3, `which remains one of the best systems in the entire 12 year       dataset'.
+Further evidence of the impact of BM25 comes from implementation       of the model in IR software and services.
+Although it is not always clear       what algorithms are used by commercial enterprises, many of the       participants of the TREC conference are commercial organisations and the       BM25 model has been influential.
+For example, Microsoft now use a form of       the ranking function in both their Bing search engine (first introduced in       2005), and their SharePoint enterprise search (first introduced in 2003).
+Bing is now the second largest web search engine after Google, having       overtaken Yahoo in December 2011.
+The model has been successfully implemented in a variety of ways by Dr       Martin Porter (Technical Director) for Grapeshot Ltd to provide better       search services for clients.
+Grapeshot is a UK SME that uses advanced IR       techniques to assess the relevant significance of keywords in pages and       what users read, to support online advertising placement.
+The following       statement on the impact of BM25 has been provided by John Snyder, CEO of       GrapeShot:     "I am indeed very proud to say as CEO of Grapeshot, where we employ over       20 highly technical and clever people, that we have productized the BM25       work into a suite of software web services that make search calculations       over 12 billion times per month.
+Our Grapeshot software, with your probabilistic information retrieval         work at its heart, is used by a majority of UK publishers such as Mail         Online, Telegraph, Independent, Mirror, Johnston Press, Reuters, IPC         Media, Future Publishing, Incisive Media to help them make more revenues         from targeted online advertising.
+In essence the publisher page, in         real-time, seeks the best advertising to be contextually placed on the         page.
+So this is probabilistic information retrieval working in         milliseconds, many thousand times a second.
+We do serve international customers such as Glam Media and Verisign in         the USA, but the majority of our products are used by UK customers, and         all our staff work in Cambridge or London at our development or sales         offices."
+This passage refers to advertising search revenue, which is a global       multi-billion dollar commercial activity.
+In the first quarter of 2012,       the total global revenue for online advertising was $8.4B11.
+By       being implemented on search engines such as Bing, the BM25 model has had a       significant economic impact globally as better ranking leads to results       sets with more relevant documents, a high user acceptance and therefore       greater advertising revenues.
+The model has also been implemented in widely used open source software       packages including Apache Lucene (Solr, Cassandra), Xapian and Greenstone.
+Apache Lucene is a widely used IR library, which is an integral part of       the highly regarded Apache Software Foundation open source software       projects.
+Software from this project was used on 65.4% of websites in       September 2013.
+Flax, an enterprise search engine built on Xapian, has       been used to provide search infrastructure for companies such as the       Government Digital Service, Newspaper Licensing Agency, TMC Marine, C       Spence Ltd, Australian Associated Press, Reed Specialist Recruitment, Financial         Times, Durrants and MyDeco.
+The Government Digital Service is a unit within the UK Cabinet Office       tasked with transforming Government digital services to ensure that       Government offers world-class digital products which meet people's needs.
+This includes ensuring appropriate forms of support for people who are       unable to access or use digital services, and developing Gov.uk, the       single domain for Government, making it simpler, clearer and faster to       access government information and services.
+Reed Specialist Recruitment       (part of Reed Global) significantly improved the search for various       stakeholders such as jobseekers and recruiters to more efficiently bring       these two together, identifying the right person for the right job.
+MyDeco       provides searches on various types of product to enable more efficient       e-commerce for the purchase of items such as furniture and fittings.
+The       Xapian library is used in Debian distributions, 139,988 having installed       the package by September 2013.
+Greenstone (partly developed at City       University London) is a widely used open source digital library system,       which is supported by various United Nations organisations such as the       United Nations Educational Scientific and Cultural Organization (UNESCO).
+UNESCO actively encourages the use of Greenstone for all of its       activities, including education, natural sciences and social sciences, and       provides support for client organisations.
+This impact is significant in       terms of economics and to support cultural heritage preservation       programmes.
+There is plenty of evidence from a variety of sources that the BM25       matching function has had a significant economic impact nationally and       internationally.
+The reach of the work is wide-ranging, benefiting many       software companies, including multinationals (Microsoft) and UK SMEs       (Grapeshot), and users of such software, for example the Financial         Times and UNESCO.

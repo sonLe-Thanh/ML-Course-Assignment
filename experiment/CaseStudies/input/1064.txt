@@ -1,0 +1,30 @@
+     The papers on MLLR have been highly influential in both a research and       commercial context: the methods have become part of the standard approach       to speech recognition and used by most systems that perform any type of       adaptation.
+The techniques are covered in standard textbooks, e.g.
+[7],       and courses given on speech recognition, e.g.
+[8,9].
+There are a number of different scenarios that describe how adaptation       can be applied in a speech recognition system.
+If the word-level       transcription of the adaptation data is known, then it is termed       supervised adaptation, and, if it has to be estimated by a recognition       pass, this is unsupervised.
+Transcription systems that do not require very       low latency output typically use multiple passes through the data, with an       initial recognition pass using un-adapted models, which gives the       transcription used for estimating adaptation transforms for a later pass.
+In this case, it is essential that the adaptation is robust to errors in       the first pass transcription, and that it is effective with small amounts       of adaptation.
+MLLR and CMLLR are widely used for this purpose.
+In some       applications that include supervised adaptation at enrolment time, the       adaptation information can be further updated in an incremental fashion       using unsupervised adaptation, for example, to update the speaker profile       associated with a particular speaker.
+Throughout the research, the DoEng speech group has developed versions of       the HTK.
+This has been available for free download since September 2000       (from http://htk.eng.cam.ac.uk).
+Version 3.3, released in 2003,       incorporated all the research referenced in [1,2,3,4].
+Version 3.4.1 is       the latest version released in 2009.
+The software is used by some       companies to develop new products and services as well as in more       fundamental research in a variety of research labs around the world.
+The       software currently has over 100,000 licensees.
+Many companies have used MLLR and CMLLR adaptation in speech recognition       systems for a wide range of use cases.
+Some examples are described below,       although note that some companies have asked for their support statements       to remain confidential.
+[text removed for publication] [10]     Speech recognition can be used as part of the interface for desktop and       laptop computers.
+Microsoft introduced a new speech interface, Windows       Speech Recognition for Vista, as part of the Windows Vista operating       system launched in 2007.
+The speech recognition engine is available in       eight languages.
+This provides both command and control of Windows       functions by voice as well as the ability to dictate text and it is deeply       integrated into the operating system.
+In order to be effective, it is       vital that the system has high accuracy.
+There are two main phases of       acoustic model adaptation: speaker enrolment is used and also unsupervised       adaptation is applied during normal use.
+The initial adaptation requires a       script to be read out loud by the user.
+Later adaptation includes feedback       from corrections and alternate selections to refine the adaptation       process.
+In all cases, MLLR is used in the acoustic model adaptation       process (along with maximum a posteriori adaptation).
+The same speech       recognition technology is also an integral part of Windows 7 and Windows       8.
+Total sales for Windows between January 2008 and July 2013 are       approximately one billion licences which include 630 million copies of       Windows 7 between its launch in October 2009 and July 2012 [11].
+[text removed for publication] [10,12,13]

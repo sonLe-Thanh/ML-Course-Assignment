@@ -1,0 +1,41 @@
+     Since 2008 Tarassenko's research has led directly to a cut in mortality       rates, through its delivery of methods effective in alerting healthcare       staff to patient deterioration in the hospitals where those methods are       now deployed.
+Patients are key beneficiaries, but so too are healthcare       staff whose jobs have been made easier and less stressful, since they can       concentrate most of their efforts on the highest-risk patients (as triaged       by VisensiaTM score).
+Moreover, through sales, the research has       also generated valuable economic benefits.
+The need for these methods is clear.
+Around 13 million people are       admitted to acute hospitals each year in England and Wales alone.
+Some       inevitably die due to their illnesses, but across the UK, better care       could reduce significantly mortality from:            Approximately 23,000 in-hospital cardiac arrests*, where currently the         survival rate is just 15% to 25%**.
+Approximately 20,000 admissions of in-hospital patients to intensive         care units: the mortality rate for these is reported as 50%, compared         with 35% for other patients admitted to the same units***.
+In 2005, the National Confidential Enquiry into Patient Outcome and Death       (NCEPOD) estimated that sub-optimal care on wards contributed to around       one third of the deaths there.
+Health Impact &#8212; better healthcare in UK and US hospitals     Extensive evidence proves that patients experiencing an adverse event       such as a cardiac arrest show abnormal physiology in the hours preceding       the event, and that early intervention improves patient outcomes****.
+In       2007, the UK's National Patient Safety Agency (NPSA) reported that a key       action to improve patient safety was "to identify patients who are       deteriorating and act early".
+Integrating vital sign parameters into a novelty detection framework has,       through continuous bedside monitoring, provided early warning of adverse       events in acutely ill patients outside intensive care.
+The Clinical       Investigator for the independent clinical trial in Pittsburgh, leading to       FDA approval stated publicly: "there were no unexpected cardiac arrests       for three years on the wards in which VisensiaTM was deployed"       [7].
+Between 2008 and 2012, VisensiaTM was installed in 12 UK       and US hospitals (e.g.
+St. Mary's Health Care Hospital, Michigan [8]) and       is still being used in all of them.
+In addition, the Early Warning Scores developed by Tarassenko and his       team now form the basis of evidence-based `track and trigger' observation       charts used to monitor (and so optimise care for) all 800,000 patients       treated each year in adult general wards in every acute hospital within       the OUH Trust [9].
+Since the introduction of the charts, the number of       cardiac arrests per annum across the Trust has fallen by 10% [10].
+Economic Impact &#8212; commercial success, wealth generation     In 2007, Oxford University licensed the novelty detection algorithms to       Oxford BioSignals.
+(In 2009, Oxford BioSignals became OBS Medical &#8212;       www.obsmedical.com).
+As noted       above, VisensiaTM, the commercial version of the system, is       already securing practical take-up in hospitals.
+Pivotal to this       commercial success was independent evaluation in the 1000-patient trial at       a 24-bed Step-Down Unit (SDU) in the University of Pittsburgh Medical       Center (UPMC):            Phase 1 assessed whether VisensiaTM would have         enabled earlier intervention by the Medical Emergency Team (MET &#8212; the         `crash team') in cases of severe patient deterioration.
+Results showed         that the system would have detected all major events with respiratory         and/or cardiac causes with an average advance detection time of 6.3         hours (i.e.
+VisensiaTM would have alerted staff to the         deterioration, on average, 6.3 hours earlier than the time at which the         MET was actually called) [11].
+In Phase 3, VisensiaTM was used to alert SDU nursing staff         to major abnormalities in patients' vital signs.
+This led to a         substantial reduction (from 18.9% to 11.1%) in the number of patients         becoming critically unstable for a sustained period of time.
+The number         of unexpected deaths also fell from six in Phase 1 to zero in Phase 3         [12, 13].
+As a result of this success, the system was kept in operation at the SDU       when the trial ended.
+One of the Visensia&#8482; monitors deployed at the bedside in the UPMC SDU 	  during the trial that provided clinical evidence  crucial to securing FDA 	  approval.
+Phase 1 of the trial provided the clinical evidence necessary to secure       FDA approval for VisensiaTM to be used as an adjunct to a       patient monitor.
+Phase 3 provided the evidence to secure FDA approval for       VisensiaTM to be used as real-time alerting software for       critical care.
+The system is now the only FDA-approved index for combining       multiple physiological parameters [14].
+In 2008, it won Frost &amp;       Sullivan's North American Central Stations Patient Monitoring Technology       Innovation Award [15].
+From 2008 to 2012, take-up of Visensia&#8482; in UK and       US hospitals generated total sales amounting to around &#163;1.5 million for       OBS Medical [16].
+References for Section 4 only:     * Smith, G.B., Prytherch, D.R., Schmidt, P., Featherstone, P.I., Knight,       K., Clements, G. and Mohammed, M.A.
+`Hospital-wide Physiological       Surveillance &#8212; A New Approach to the Early Identification and Management       of the Sick Patient' (2006).
+Resuscitation, 71(1), pp 19-28.       http://dx.doi.org/10.1016/j.resuscitation.2006.03.008     ** Sandroni, C., Nolan, J., Cavallaro, F. and Antonelli, M. `In-hospital       Cardiac Arrest: Incidence, Prognosis and Possible Measures to Improve       Survival' (2007).
+Intensive Care Medicine, 33, pp 237-245. http://dx.doi.org/10.1007/s00134-006-0326-z     *** McGloin, H., Adam, S.K.
+and Singer, M. `Unexpected Deaths and       Referrals to Intensive Care of Patients on General Wards &#8212; Are Some Cases       Potentially Avoidable?'
+(1999).
+Journal of the Royal College of         Physicians, London, 33(3), pp 255-259       http://www.ncbi.nlm.nih.gov/pubmed/10402575     **** Kause, J., Smith, G., Prytherch, D., Parr, M., Flabouris, A. and       Hillman, K. `A Comparison of Antecedents to Cardiac Arrest, Deaths and       Emergency Intensive Care Admissions in Australia and ANZ, and the UK &#8212; the       ACADEMIA Study' (2004).
+Resuscitation, 62, pp 275-282.       http://dx.doi.org/10.1016/j.resuscitation.2004.05.016     and     Quach, J.L., Downey, A.W., Haase, M., Haase-Fielitz, A., Jones, D. and       Bellomo, R. `Characteristics and Outcomes of Patients Receiving a Medical       Emergency Team Review for Respiratory Distress or Hypotension' (2008).
+Journal         of Critical Care, 23, pp 325-331.       http://dx.doi.org/10.1016/jcrc.2007.11.002

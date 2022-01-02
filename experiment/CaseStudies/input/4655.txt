@@ -1,0 +1,27 @@
+     As part of the research described above, the University of Bristol was       asked in 2007 to undertake a study of the micro- and nano-scale structure       of the nuclear graphite used in Magnox power stations.
+At that time, the       Oldbury station was due to cease generation in 2008, and Wylfa in 2010.
+As       detailed in the letter of support from Magnox [a], there was a concern       that the graphite bricks within the core of the reactor could fracture,       which might lead to an alteration in the coolant gas flow path within the       bricks, local hotspots and possibly melting of the fuel.
+It was       acknowledged that the reactor core was a life-limiting factor for both the       Oldbury and the Wylfa reactors.
+Further studies were commissioned from       Bristol by Magnox between 2007 and 2011.
+Confidential reports were       returned to Magnox, and some of the work was published in the open       literature to give the work an independently reviewed pedigree.
+Bristol's research improved the understanding of the degradation and       fracture mechanisms of the graphite.
+It showed that the material is       unlikely to undergo a sudden catastrophic failure, and that instead it       behaves in a "quasi-brittle" way, in which failure is more graceful and       preceded by a more gradual deformation.
+The novel use of FIB combined with       small-scale mechanical testing to investigate this material at Bristol was       listed as a highlight in the Health and Safety Commission Nuclear Safety       Advisory Committee Review Group, dated 2 October 2007 [b].
+As a result of this and other work, a safety case was constructed by       Magnox and a decision taken to extend the closure point of the Oldbury       power station from 2008 to 2012.
+The lifespan of the Wylfa power station,       which had been scheduled to cease operation in 2010, was also extended,       with one reactor closed in 2012 and the other operating until at least       2014.
+The safety cases for the operation of nuclear power stations are       incremental, in that the lifetime of each station is continually       reassessed.
+End-of-life is delayed as long as it is deemed safe to do so.
+At each stage, the nuclear authorities require evidence to support the       case for lifetime extension.
+The safety cases are reviewed by the Office       for Nuclear Regulation (ONR), an agency of the Health and Safety Executive       that oversees the process and grants consent for continued operation.
+In       addition, Periodic Safety Reviews (PSRs) must be carried out by the       licensee of a nuclear power plant.
+These provide the opportunity to       undertake a comprehensive review of plant safety, including operational       history, ageing factors and the advancement of safety standards.
+A recent ONR Project Assessment Report [c] referred to the lifetime       extension for the Oldbury nuclear power station, stating: "In support of       the graphite safety case and continued operation the licensee also carried       out a programme of work associated with the material properties of the       graphite moderator ....".
+The work referred to includes that carried out       at Bristol, and as stated in the Magnox letter of support [a], "The       research undertaken by the University of Bristol contributed to the       necessary improved understanding of how the microstructure of reactor core       graphite degrades during service and how such changes modify the       associated deformation and fracture...
+This information, when combined       with our other research programmes and detailed assessments, was used to       support the arguments in the Safety Cases and provided confidence to the       Regulator that Magnox was making every effort and indeed was successful in       understanding holistically how this complex material (PGA graphite)       performs in service.
+Indeed it allowed Oldbury to achieve 45 years'       operation and one reactor at Wylfa continues to operate."
+The value of this life extension can be estimated by considering that       operation of a 500-megawatt power station turbine/generator unit (roughly       the size of Oldbury) for four years generates revenue of approximately       &#163;1.7 billion for the electricity produced.
+Hence life extension of four       years for Oldbury and Wylfa corresponds to approximately &#163;5 billion.
+Additionally, since nuclear is a low- carbon energy source, considerable       benefits to the environment are realised by life extension of the nuclear       fleet.
+For example, a coal-fired power station of the same output as the       combined Oldbury and Wylfa power stations operated for four years would       emit approximately 60,000,000 tonnes of CO2.
+The Bristol       research has therefore played a significant role in helping the UK meet       its CO2 reduction targets.
+Current work at Bristol is directed at understanding the behaviour of the       graphite used in AGR reactor cores, as well as possible routes for       decommissioning [7,8,9].

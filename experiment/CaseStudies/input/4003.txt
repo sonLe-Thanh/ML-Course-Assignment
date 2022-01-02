@@ -1,0 +1,27 @@
+     Malaria diagnosis is challenging and is currently either carried out       symptomatically or by the use of antigen detecting rapid diagnostic test       (RDT) sticks.
+However, studies by the World Health Organisation [a] found       detection rates reduced to less than 75% for more than half the RDT       devices tested with some products returning values as low as 25%.
+Consequently in many regions where malaria is endemic there is a tendency       to treat patients automatically (and particularly children under five)       presenting with fever for malaria.
+Often this is incorrect and such       over-prescribing is one of the major factors driving development of drug       resistance in the malarial parasite.
+The laboratory trials had proven to be highly successful and promising to       the point that the global medical industry recognised the fledgling device       as one of the top ten medical devices of 2010 [b].
+The clinical       field trials were therefore important to confirm this promise and were       focused particularly on the issue of over-prescribing, but also on       accurate and timely diagnosis.
+In addition, the device needed to be       impervious to environmental effects and able to return a reliable       diagnosis in less than two minutes under the most adverse field conditions       irrespective of the operator.
+Field trials were held in Kenya in 2008 [c] based on 682 patients       showing clinical signs of uncomplicated malaria.
+The original prototype       instrument was evaluated under blind clinical conditions against expert       microscopy.
+It returned initial sensitivity and specificity values of 85%       and 64.5% respectively although it was noted that several cases of high       level infection (parasitaemia) were missed.
+This prototype was the size of       a small filing cabinet but its performance was promising enough [d, e] to       secure prestigious funding from the Bill and Melinda Gates Foundation       (ii, iii) for its miniaturisation and continued development.
+A radical redesign realised the diagnostic platform in a portable       hand-held format about the size and weight of a credit card reader.
+Several such devices have subsequently been manufactured in-house at       Exeter.
+It is estimated that each device could be mass produced for less       than $200 with tests costing 25 cents each, much lower than current RDTs.
+Devices in this format were field trialled over the summer months of 2012       in collaboration with Prof. Francois Nosten and Dr Stephane Proux at the       Shokolo Malaria Research Unit (SMRU) in Thailand [6, f].
+This was a study       of a population of 155 patients composed primarily of migrants from across       the Burmese border and yielded what at first seemed disappointing results;       sensitivity 41% to 56% &#8212; specificity 96% to 100%.
+However the false       positive count was essentially zero, indicating the haemozoin       concentration in these samples was at or below the device detection limit.
+This finding was reinforced by expert diagnostic microscopy that reported       that infection was at the very early stages in all samples tested.
+Thus       these suppressed results are likely a consequence of the atypical study       population but nevertheless they do indicate it is essential to further       boost instrument sensitivity at the bottom end of its range to pick up       very early infection.
+This is possible as design of the portable devices       was based on the data obtained in Kenya.
+Despite this, results clearly       indicate that these instruments are the most sensitive of all means of       detecting haemozoin in blood and that they will function under conditions       where microscopy is completely impractical and RDT's environmentally       compromised.
+The technique as patented [g] compared very favourably with other       existing and developing diagnostic technologies in UNITAID's 2011       review [h] of the malaria diagnostic landscape for the World Health       Organisation.
+When commercialised and following further development, the       sensor is well placed to reach the Global Health Diagnostic Forum's goal       [i] for malaria diagnosis.
+This is to substantially reduce the more than       400 million unnecessary treatments administered each year but also to save       upwards of 1.8 million adjusted lives per year.
+Finally and significantly,       it has become clear that the technology is immediately applicable to the       diagnosis or other classes of disease and also realisable as a generic       multi-spectrum point-of-care device.
+It is potentially able to sensitively       diagnose any disease or condition for which a biomarker and biomarker       receptor have been identified and even diagnose several diseases       simultaneously from a single fluid sample.
+Both these advances have been       protected by patent applications filed in 2011 [j].

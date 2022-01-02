@@ -1,0 +1,34 @@
+     Surrey research on the concepts of strained-layer devices has made a       major economic impact.
+This impact was first achieved via close       interaction with the electronics firm, Philips N.V.
+They were prepared to       take the risk with what was considered at the time to be an unusual       approach, and in 2000 they licensed the Surrey patent (ref.
+2) on using       strain to create non-absorbing mirrors.
+The technology proved to be       superior to other approaches existing at the time for telecommunications       applications.
+Philips (and later JDS) subsequently used the non-absorbing       mirror concept in the development of high power pump lasers, which are       used for optical amplification in telecommunications systems and to pump       high-power fibre lasers, such as those used in manufacturing.
+The disruptive nature of the strained-layer technology forced all of the       other semiconductor laser manufacturers to adopt it.
+Dr. Andrew Carter,       the Chief Technology Officer at Oclaro, one of the world's largest       telecommunications companies, has stated that the Surrey research has       "revolutionised aspects of the design" of optoelectronic devices [Source       S1].
+The majority of semiconductor-based photonics components now use       strained-layer quantum wells as embedded technology, which represents a       major economic impact of the research.
+According to Photonics21, the       European task force for photonics, the global market for these components       was around &#8364;15bn in 2009 and is expected to grow to &gt;&#8364;30bn by 2015       [S2].
+Furthermore, the component market levers much larger industries, e.g.
+telecoms services worth more than &#8364;2 trillion at current estimates [S2].
+As evidence of the reach of the economic impact of the research, it is       notable that almost all of the current known semiconductor laser       technology incorporates the strained-layer concept developed at Surrey.
+Peter Selway, formerly the Director of Operations at Nortel, has       explained: "The use of appropriately strained layers gives benefits in       almost all aspects of the performance of semiconductor lasers, so much so       that laser engineers routinely use strain to fine-tune the performance of       virtually all lasers for all applications."
+[S3]     The strained-layer quantum well concept is now being employed in InGaN       based solid-state lighting, which is starting to become the core for all       future lighting technology.
+In this application, the ability to       incorporate strain provides a method of optimising the emission wavelength       of the InGaN LEDs used in solid-state lighting luminaires.
+The current       market for lighting is worth &#8364;50bn and is expected to grow to &#8364;100bn by       2020.
+Strained-layer quantum well LEDs are expected to form a core aspect       of this technology [S2].
+The recently commercialised Philips LED lamp,       which was the recipient of the U.S.A. Department of Energy's first-ever "L       Prize" [S4], utilises strained quantum wells.
+The new material reported in ref.
+3 (Section 3) is now being implemented       in distributed feedback (DFB) and tunable lasers for telecommunications by       UK-based CIP and global telecoms giant, Oclaro, and is directly derived       from Surrey's research in the TSB-sponsored ETOE and ETOE2 projects.
+Prof. Sugawara (Fujitsu, Japan) made use of the results of Surrey       research (ref.
+4 in Section 3) when he set-up QD Laser Inc. to       commercialise the technology of quantum dot lasers.
+Their 1.3 &#181;m quantum       dot lasers, which are currently commercialised, rely on p-doping to       provide temperature insensitivity.
+The mechanism by which this       insensitivity occurs and can be utilised was described in the Surrey       research.
+The Photonics Group's research in developing new semiconductor materials       and devices for renewable energy has made an impact on society by       capturing the public's attention and stimulating discussion.
+The research       has received wide exposure in international publications for general       audiences, such as The Economist [S5] (receiving &gt;760 Facebook       likes, &gt;100 re-tweets on Twitter, and &gt;30 direct comments from the       public) and National Geographic [S6] (receiving &gt;350 Facebook       likes, &gt;130 re-tweets on Twitter, &gt;100 Google+ recommendations and       10 direct comments from the public).
+The research was also highlighted in       national newspaper articles in The Independent, The Observer [S7]       (&gt;70 direct comments from the public), The Sunday Times [S8],       the Times of India [S9], and more than ten trade journals in the       solar cell community.
+A television feature was produced by RAI (Italy) for       their Superquark popular science programme [S10], and a radio programme       was broadcast by ORF Radio (Austria).
+The potential of Surrey's recent       research on bismide materials to reduce the energy demands of the internet       was featured in the Financial Times [S11].
+The Sunday Times article led to a direct request by the UK's       Energy Minister (Charles Hendry, MP) to visit the University to learn more       about the emerging field of research on using solar energy from space.
+Mr       Hendry commented: "The work that Prof. Sweeney of the ATI and his       colleagues are doing makes us realise that the way we'll be generating       electricity in 20 years' time is radically different to the way in which       it's being done today" [S12].
+This ministerial visit and statement attest       the extent to which the Surrey activities are having an influence on       policy-makers.
+In addition, impact on industrial policy is made via       Sweeney's membership on Astrium's Photonics Strategy Group and       contributions to the UK Roadmap in Optoelectronics.

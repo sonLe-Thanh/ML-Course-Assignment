@@ -1,0 +1,27 @@
+     The beneficiaries of the European Social Survey Infrastructure (ESSi       project, 2006 to 2011) are located internationally and especially in the       European Community (EC).
+An undirected form of measuring this impact is       provided by the ESS Data Archive team which produces data user statistics.
+In September 2012 there were 50,255 registered users from 226 countries       (ESS User Survey, 2012).
+The total number of users (non-registered and       registered) and those who access the reports and online materials is even       higher.
+90% of them are based in Europe and 6 of the countries directly       involved in the ESSi exercises are in the top 10 countries in terms of       user numbers.
+According to the ESS User Survey (2012), students are the       main users and beneficiaries of the ESSi new methodology and the provision       of data and methodological guidelines are most likely used as learning       materials in universities.
+However, 11% of all users are outside the       academic sector in NGOs, governments, private enterprises or other types       of activities (ESS User Survey, 2012).
+As a result, the research has       significant reach, providing material to support work on media and public       opinion surveys to a wide range of non-academic users.
+According to the       ESS website, the guidelines for coding were downloaded 882 times and the       training page 805 times by 21st June 2012.
+Following the launch       of the new ESS website on 10th September 2013 there had been       371 visits as at 26th November 2013.
+The research contributed directly to the development of new methods for       cross-national studies and improved the ESS coding of news.
+The new way of       understanding media claims allows a categorisation of content and provides       a score that creates a more powerful tool for measuring the strength and       direction of news (ESS, 2012, `Rationales for Changes and Improvements').
+This approach also allows national centres to estimate more accurately the       time and resources required for data coding.
+These improvements benefit a       variety of users of survey data, including government bodies and social       research consultancies working on media studies and especially those       analysing cross-national public opinion surveys.
+The guidelines also       provide national agencies working on ESS with an international framework       for collecting, archiving and analysing media claims.
+The minimum number       of sources to be used and the time period for the data collection are also       specified in the new methodological framework (Harrison et al.
+2012, p3).
+The European Commission, in its European Communities publication series,       has publicly acknowledged City University London's role in the ESSi 'improving         social measurement in Europe' and building up 'a network of         specialists to refine methods of event-reporting across nations as a         necessary backdrop to measuring attitude change among people in         different EU countries' (European Commission, 2009).
+City's research       identified existing problems in the data collection among different       countries and created a framework for coding media claims that has already       been applied and will be used again in the next round of the ESS (ESS,       Round 7 Specification for ESS ERIC Member and Observer countries, 2013,       p27).
+To improve the effectiveness of the ways in which the ESS measured the       influence of media events on social opinions and attitudes, a descriptive       tool was devised to evaluate the potential impact of news on the public.
+The process engaged directly with non-academic beneficiaries through       several consultations and workshops with representatives of the different       countries.
+The biennial European Survey Research Association (ESRA)       conference in Prague in 2007 and in Warsaw in 2009 enabled discussions of       ideas with other experts on the ESS.
+Similarly, the symposium organised by       Statham and Tumber at City University London (31st March 2009)       constituted a valuable opportunity for external experts on methodology to       give additional advice, comments and pointers on the project.
+The 2011       Lausanne Conference, in which our team presented a paper, included       presentations by leading non-academic international researchers including       governmental organisations (Office for National Statistics, Australian       Bureau of Statistics, Singapore's Ministry of Social and Family       Development, Colombia's Institute for Education Evaluation) and social       research institutes and consultancies (Natcen (Britain's leading       independent social research institute), Ipsos, TNS, Gallup).
+A database identifying national differences in the `political climate' is       also being produced as part of the research process that started in 2006       and it was applied across different rounds of the ESS.
+The software format       of the dataset allows consultants, policy-makers and other non-academic       researchers to access this baseline for research and facilitates the       coordination of cross-national and wider research programmes.
+The improved methodological tools are being used by ESS country       coordinators in rounds 6 and 7.

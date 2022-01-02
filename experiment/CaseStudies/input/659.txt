@@ -1,0 +1,40 @@
+     Engagement and commitment by members of the public     To participate in the project, a volunteer - the `citizen scientist' -       installs software on their own PC and then uses it to run one or more       climate modelling simulations with parameter sets downloaded from the       project server.
+Each assignment typically takes several weeks or months to       complete, and commonly requires some degree of effort to configure the       software, monitor progress or restart a run.
+The successful completion of       over 130 million model years (January 2013) thus indicates a significant       commitment of time and effort by individual users.
+The number of active       participants, defined as having contributed effort within the previous       month, is therefore considerably smaller than the total of 260,000       registered users and in May 2012 it numbered approximately 20,000.
+The project's message boards, maintained by volunteer moderators, helped       newcomers join the project and resolved issues with running the software       and 238 discussion threads were active during the 12 months to May 2012.
+Many discussions on these boards were centred around the results from       participants' individual models, and were stimulated by users being able       to investigate how his or her particular simulation was progressing using       a graphics package from the project.
+Global reach and value of donated CPU time     Since 2008, over 100,000 users have joined; over 40,000 distinct users       have successfully completed one or more model simulations; and of the       total computational cycles in the project, all effectively donated by       users, over 60% have been performed since that date.
+A snapshot of       activity was taken in May 2012 [A].
+At that time, the 20,000 active users       contributed approximately 27,000 active host PCs, with a combined power of       35 TFlops.
+Of the 82 BOINC projects, climateprediction.net was the       4th most popular by work-units in progress and 5th       in attracting new users.
+Registered users were located in 221 countries.
+Although the project has been running since Sept 2003, 9 of the 10 busiest       days have been since Jan 2008 and in May 2012 around 30- 40 new users       joined each day.
+The computing time required for all the model simulations run       successfully since 2008 is equivalent to a 32,220 core machine running       full time for one year and producing 100% successful results: the value of       this CPU time has been estimated as $22.5M, based on the rate of the       Amazon Elastic Compute Cloud Standard Spot Instance ($0.08/hour in 2012).
+Significance to participants     Volunteers participating in the project benefitted through increased       understanding of and interest in climate science, and higher levels of       engagement with science more widely.
+A survey in 2013 gathered responses       from 127 participants, only 3 of whom had never run the model themselves       while 82 ran it daily [B].
+Of those that answered detailed questions, 78%       would feel confident describing how it worked to a friend, 59% had       recommended it to friends and 46% had contributed to help or climate       discussion boards.
+Of 57 identifying a favourite aspect, 38% cited the       contribution they were making and 31% mentioned climate.
+One explained, "Hearing         about results was rewarding, the project also increased my knowledge of         climate change as well as encouraged me to study it more in depth at my         university."
+As a result of taking part, respondents reported having            developed understanding of climate science (75%) and how research is         carried out (59%)       considered climate science to be more interesting (80%) and/or more         important (73%)       changed their behaviour to address climate change (44%)       read further information or educational resources on climate science         (67%)       read or watched more media coverage of science (55%)          Only 35% of respondents had a degree in physics and approximately half       were aged over 50.
+Recognition and development of volunteer computing     The project has also contributed to wider adoption and recognition of the       `citizen science' methodology and, for example, was cited in 2010 as one       of several exemplars in The Telegraph, where Roger Highfield       wrote, "But what is breathtaking is the scale of what is now possible."
+[C].
+The methodology for assembling the very large dataset proved       sufficiently robust for acceptance by Nature Geoscience [5]: even       disregarding the outcome for research, this demonstrates the effectiveness       of the approach to a formidable computational task.
+The project has also       stimulated discussions about its own carbon footprint [D].
+The impact of       the BOINC platform, now enabling an average of over 7 PetaFLOPS of       volunteer computing, is also reliant in part on developments in security       made for climateprediction.net and team member Tolu Aina was       acknowledged by BOINC as an external (`volunteer') developer [E].
+The       project was shortlisted in 2012 for a Guardian University Award       for Outstanding Research Impact [F].
+Education and dissemination     The climateeducation.net programme has delivered two online       courses in climate science, which drew on the concepts and methodology of       the project, in a collaboration between the University of Oxford's climateprediction.net       team, its Department for Continuing Education, and the UK Met Office       Hadley Centre's PRECIS team.
+A free online course had 3188 participants by       March 2013 from over 171 nations, 45% of whom were from developing       countries.
+A second course in 2012 was aimed at professionals requiring a       more in-depth understanding of climate science; all but one of the       eighteen students enrolled were from developing countries (defined by ISI       list, 2013).
+Climateprediction.net also featured in the exhibition       entitled 'Atmospheres, Investigating the Weather from Aristotle to Ozone'       in the Museum of History of Science, Oxford from November 2011 to March       2012, during which time approximately 50,200 people visited the museum.
+Downloads of teaching resources from the project website in 2013 were       exceeding 150 per month.
+Influence on opinion, policy and practice     Brian Appleyard, a commentator for The Sunday Times, reported in       2009 that his views on climate change were altered by discussion with       Allen, amongst others, and wrote of climateprediction.net, "Try         it.
+You should.
+... All complex systems are uncertain.
+But, for two         closely related reasons, the denialists are wrong to claim this as an         argument in their favour."
+[G] .
+The results released in       2012 [5] attracted global press coverage, e.g.
+in USA Today [H],       for the 4.5&#176;C warming scenario.
+Allen's 2002 methodology paper [1] was cited in the 2007       Intergovernmental Panel on Climate Change (IPCC) 4th Assessment       Report (working group I, Chapters 9 &amp; 10), which has stimulated policy       discussions globally ever since.
+The IPCC 5th Assessment Report       (2013) was released in draft to governments on 7th June 2013       and its content has been influenced by results of this research: for       example, Rowlands et al 2012 [5] is cited three times.
+In particular,       Chapter 11 acknowledges the variation that results from perturbations in a       climate model and draws implications for a `pragmatic approach' to       the definitions of 'likelihood' in climate predictions (section 11.3.6.3       and Figure 11.25; no author of [5] was author or reviewer of that       chapter).

@@ -1,0 +1,24 @@
+     Through contribution to the ongoing development of SuperCollider       program and particularly the production of the accompanying book in 2011,       Wilson's research is contributing to new methods of creative practice         and the methods and practices of composers and performers throughout the         world.
+Downloads of the program since 2008 are currently at 230,285       from 177 countries, with sales of the book at 3090 [see source 1 below].
+The book has received a very positive response from the SuperCollider       community, in addition to being favourably reviewed in academic journals       [source 2-4].
+Wilson also maintains the two user group discussion lists       (which are very active, with between 20-60 messages per day), and so has a       direct impact on its members in this way.
+The extremely heterogeneous       membership of the lists, which includes academics, popular musicians       working in a variety of genres, music educators, researchers in related       fields such as psychoacoustics or data sonification, sound artists,       speculative music theorists, and experts in the history and culture of       computer programming, gives some idea of the spread of interest in the       program.
+The program was the first to allow a great degree of flexibility in terms       of the ability to modify musical algorithms in a straightforward way while       they are running.
+It is used by both amateur and professional composers       and performers of electronic music, and is both flexible enough and       provides enough genre related features to be applicable to a variety of       uses.
+This is particularly evident in the SuperCollider Symposia held       since 2006 (when the first Symposium, arranged by Wilson, was held at       Birmingham), and on four occasions since 2008; Middletown, Connecticut       (2009, at Wesleyan University); Berlin (2010); London (2012), and Boulder,       Colorado (2013).
+The Symposia, arranged by various members of the       community not limited to academics, bring together users to discuss and       perform using the SuperCollider program.
+They are international events,       attracting over 100 people including performers and composers, as well as       students, academics, and concert goers.
+Future events have been proposed       for Tokyo, Japan, Mexico, and other locations [source 7, 8].
+Since 2006, Wilson has developed the BEASTmulch extensions to the       SuperCollider language.
+(This was initially an AHRC funded project with       Professor Harrison as Co-Investigator.)
+These provide a class library,       BEASTmulchLib, which provides facilities for building applications which       specify and control large or small scale multichannel systems.
+It also       brought some new spatialisation techniques (most notably Vector Base       Amplitude Panning) to SC for the first time.
+A standalone application       based on the library, BEASTmulch System, is now the concert software for       BEAST, and has been used by BEAST in over 70 concerts in the UK and around       Europe (Basel, Berlin, Copenhagen, etc.).
+It has also been downloaded       numerous times and used for concerts and other purposes internationally       (e.g.
+Canada, Germany, Mexico and around the UK) [source 5].
+Some of the       new approaches to and strategies for multichannel electronic music       composition made possible by BEASTmulch are discussed in a general fashion       in [source 4], thus exposing these ideas to a wider audience and raising       the possibility of similar developments being added to other software and       programming environments.
+Since 2011, Wilson has developed another aspect of his SuperCollider       research, as the organiser of a laptop computer ensemble - Birmingham         Ensemble for Electroacoustic Research (BEER) - which performs       regularly in Britain and demonstrates in a practical way the smaller-scale       uses of SuperCollider [source 6].
+BEER has performed in a variety of       different contexts, ranging from bars and nightclubs, to a concert in the       Bramall Music Festival, reaching audiences which include electronica fans,       classical `new music' listeners, and the scholars attending the Alan       Turing congress recently hosted in Birmingham.
+In this way Wilson's       research is having a direct impact on the members of the ensemble and the       audiences performed to.
+Wilson's activities with BEER have recently led to       the development of a new SuperCollider library for networked music       applications, tentatively called Utopia.
+This work helps interested SC       users to make music with each other over wired and wireless computer       networks [source 9].

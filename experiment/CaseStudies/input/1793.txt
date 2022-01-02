@@ -1,0 +1,28 @@
+     What has evolved is a software that recognises, and tracks, variations in       the user's condition, as evidenced by their use/misuse of keyboard       strikes.
+This is a `learning' software which can learn from users' history       and subsequently adapt.
+It appears to meet a currently unfilled gap in IT       development.
+The research associate Dr. Jun Li was also awarded a PhD       degree in June 2009 under the supervision of a team from the Intelligent       System Research Centre, namely Prof. Ouazzane as director of studies and       Prof. Kazemian and Dr. Yanguo Jing as second and third supervisors       respectively.
+A novel fundamental concept in the area of neural network       and language modelling has been developed and disseminated through journal       papers and conferences.
+This research work brings forth an original       concept, an ALMIL framework for noisy language processing, which acts as a       noisy language filter and subsequently fills the gap between an input       device such as a keyboard and a user applications.
+In this regard an       Intelligent Keyboard framework, derived from ALMIL is developed as a       hybrid solution based on modified neural network concepts and n-gram       technologies.
+The user's typing data stream can be checked, rectified and       predicted in sequence.
+With regards to scientific relevance, this research       produced 10 research papers with one still being reviewed in a highly       ranked journal and one good quality PhD completion in July 2009.
+More       importantly, and at the commercial level, ALMIL-based Intelligent Keyboard       had a great impact on disabled community as 15% of research was timely.
+Disability Essex was rewarded &#163; 2.2 million by the European Union in       recognition of state of the art Intelligent Keyboard product.
+This has       been used to build an advance energy efficient building, which opened       officially in November 2010, as a centre for disability studies to assist       disabled in skills development.
+Funded by the Technology Strategy Board,       the Intelligent Keyboard was shortlisted for a Royal Association for       Disability Rights (RADAR) award alongside the BBC and ITV under the       category of `Doing IT differently' in November 2009, with Baroness Jane       Campbell commenting: "Doing work differently enables disabled people to       have maximum choice over their working lives".
+The product had also       received Royal Acknowledgement.
+The Queen's Birthday Honours saw Richard       Boyd, CEO of Disability Essex, being presented with an OBE for this work       in June 2011.
+Prof. Karim Ouazzane, of the University's Faculty of       Computing, was also mentioned in the Queen's official citation, which       stated: "The University contribution, under the leadership of Dr Karim       Ouazzane, was unique in the innovative partnership between a charity and a       university to create new concepts based on user need."
+Dr. Debbie       Buckley-Golder, head of Technology Strategy Board, who interviewed Richard       Boyd, was also delighted of these KTP outcomes and subsequently issued a       press release for publicity.
+TSB has classified the achievement amongst       the best ever under the KTP scheme (see TSB web site).
+The outcomes of this research has led to other research directions within       ISRC.
+For example, the development of ALMIL machine learning novel       approach has led to other industrial applications in the field of cyber       security and biometrics.
+Lloyds TSB bank has recently reached an agreement       with Prof. Ouazzane and Dr. Vassil Vassilev (also member of ISRC) to       sponsor a research project based on the use of an approach derived from       ALMIL framework.
+There has been the development of a concept for biometric       information to analyse customer online transaction and customers'       identities verification using typing stream and speech pattern       recognition.
+The bank of England has recently made some queries with       regards to the feasibility of using ALMIL for online banking security       (this could be applied to both mobile and desktop applications).
+LMU and Disability Essex are currently seeking more funding to enhance       the product further by adding more features to the strategic product.
+Further research is needed to process input streams such as speech,       scanning (OCR &#8212; style, size, font, grammar, flagging, numerical errors)       and clicking stream.
+The framework will not only incorporate writing but       also speech and voice recognition, and dictation (i.e.
+`hear it &#8212; type it,       see it &#8212; type it, type it &#8212; check it'').
+The key aim will be to ensure       that the human aspects of computing are taken into account in order to       make the user experience a pleasant one to encourage and stimulate       learning.

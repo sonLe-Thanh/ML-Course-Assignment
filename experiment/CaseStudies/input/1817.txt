@@ -1,0 +1,27 @@
+       The Bank of England engages with academia in order to explain current         policy issues and         learn about tools and models that may be useful for addressing them.
+This engagement         process often leads to research projects involving both Bank staff and         external academics,         the results of which are described in internal publications such as the         Quarterly Bulletin.
+These publications, in turn, inform decisions by policymakers at the         Bank.
+Kapetanios was employed by the Bank prior to joining QMUL, and         continues to spend one         day a week there on a permanent basis, so he is well placed to         participate in the interchange         of ideas between academics and policymakers.
+His research in         collaboration with staff at the         Bank has continued to influence both its operational practices and its         conduct of monetary         policy.
+The examples of collaborative research described below         demonstrate this impact: in         all three cases, Kapetanios was personally involved in the production of         briefing notes         presented to the Monetary Policy Committee (MPC) to inform and support         its decision-making.
+1.
+Macroeconomic forecasting.
+Since monetary policy is forward looking, a critical factor for its         effectiveness is the         availability of accurate macroeconomic forecasts.
+This is especially so,         as in recent years, in         the aftermath of a severe recession.
+Kapetanios's research has led to the development of a suite of novel         statistical models that         are routinely used by the Bank to construct forecasts of key indicators         such as GDP growth         and inflation for the Monetary Policy Committee.
+These models exploit         data and methods not         previously included in the Bank of England Quarterly Model, the         institution's primary         framework for producing official economic projections.
+For example, the         suite contains linear         and non-linear univariate models whose performance Kapetanios has         compared with official         forecasts (see reference #4 in Section 3 above).
+2.
+Uncertainty in data releases.
+Most macroeconomic data are uncertain; that is, they are estimates         rather than perfect         measures of the economic variables of interest.
+Quantifying and         correcting for this         uncertainty is of great importance for the conduct of monetary policy.
+In 2005 Kapetanios was asked by the Bank of England to serve as the         lead econometrician         on a team assigned to study biases and other deficiencies in early ONS         releases, and to         propose methods for addressing these issues.
+This research collaboration         has produced         innovative tools for understanding and using uncertain macroeconomic         data, including a         behavioural model of government statistical agencies and an analysis of         the trade-off         between accuracy and recentness of information (see references #2 and #5         in Section 3         above).
+Bank staff who brief the Monetary Policy Committee regularly use         this data-uncertainty         toolkit to improve their forecasts of macroeconomic trends.
+3.
+Effects of quantitative easing.
+After the financial crisis intensified in late 2008, the Bank of         England and other central banks         loosened monetary policy by both conventional and unconventional means.
+In the UK, the         principal unconventional policy measure has been the so-called         "quantitative easing"         programme, which has made large-scale asset purchases financed by         central bank money.
+Kapetanios has recently coordinated a Bank project aiming to quantify         the macroeconomic         effects of the QE programme.
+A variety of vector autoregression models         indicate that the first         round of asset purchases had peak effects of approximately +1.5% on real         GDP and +1.25%         on CPI inflation.
+These findings have provided the main source of         scientific support for the         effectiveness of the QE policy in the UK during the Great Recession.

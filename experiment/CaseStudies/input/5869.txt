@@ -1,0 +1,41 @@
+     The research work presented above resulted in a toolkit of software       solutions, applied within several different companies, and a set of       experiences of, and principles for, working with the software sector in       the region.
+These research experiences, knowledge and expertise led       directly to the formation of Sunderland Software City.
+Sunderland Software       City was formed in 2008 as a partnership involving the University of       Sunderland, Sunderland City Council and the North East Business Innovation       Centre.
+The rationale was the opportunity to promote economic growth in       the North East by building on excellent computer science research in the       field of software within the University and the region's existing software       sector.
+The overall vision is: `Sunderland Software City will establish an       internationally recognised software industry centred in Sunderland and       impacting the wider North East.
+The area will be home to innovative       businesses, a destination of choice for global software brands and a hub       for a highly skilled software workforce' (Sunderland Software City Project       Plan, 2008).
+The birth of Sunderland Software City lay within the research outlined       above, and was first formally planned in the Regional Economic Strategy       launched in 2006 (Evidence 1).
+It initially set itself the target of       creating 150 software businesses and 1500 jobs over the medium term.
+The       Sunderland Software City project secured regional funding in 2009, to       deliver a range of services and activities to support the growth of the       regional software sector.
+The University received &#163;566K ERDF and &#163;1.5M       Single programme funding for our element of the project.
+The extent of the       impact (between 2009 and 2011) in quantitative terms is: 78 jobs created;       32 businesses created; 70 businesses engaged in new collaborations with       the knowledge base; and 92 SMEs assisted.
+These outputs have all been       achieved directly by the University and are evidenced within the project       reports returned by the University as a requirement of the regional       funding (Evidence 2).
+The development of this initiative was reported in the joint UUK/HEFCE       report of 2009 (Evidence 3): "Sunderland Software City was set up to         encourage the growth of the software industry in the north-east of         England.
+The aim is to make the region a location of choice for         software-focused businesses and thus contribute to economic growth.
+The         University of Sunderland helped found this project through its strength         in computing and digital media research.
+As part of this it used QR         funding to set up initiatives in support of software and digital media         in the region."
+In working towards its vision, SSC's business strategy and service offer       is organised around the four key work streams of: Enterprise; Education;       Innovation; and Infrastructure.
+It also has a focus on improving the       awareness and perceptions of Sunderland and the North East as an important       software industry centre, supporting its efforts to attract investment and       skilled workers to the area.
+A Software Centre has been created in a new,       specialist accommodation centre and growth hub for software businesses       located in Sunderland City Centre, which opened in 2013, offering 53,000       sq ft space for more than 60 businesses.
+A Software Hatchery was established in the University in 2010 (Evidence       4).
+The Software Hatchery provides office space, facilities and mentoring       to enterprising graduates and entrepreneurs with innovative software       business ideas.
+We promote networking with potential funders, developers       and partners.
+To date it has supported over 20 software businesses       including: Acrylic Monkey Fish,       Accessible Business CIC,       Angler Games, Connect         Portfolios, design-swine,       Freaky Weasel, Grim         Legacy Productions, Online         Video CV Limited, SGIT,       SR7 Ltd, Sweet         Digital Media, SMS Events,       Think         Pixel, and Virtuteq.
+One       example of how the hatchery has enabled the exploitation of our research       is LamasaTech, a highly successful company which was established by a       graduate of the University, ME.
+LamasaTech specialises in interactive       screen technologies, and, drawing on our research in HCI as led by       McDonald and Cockton, "focus on developing robust applications that         are practical, user friendly and effective in various industries and         sectors.
+Our vision is to enhance every day interactions with a touch of         technology."
+The company is based in the North East, with satellite       companies in Saudi Arabia and Egypt, currently employing 17 staff       (Evidence 5).
+The project has also been the catalyst for the formation of a number of       regional software companies.
+One example is OnePoint Systems which was       formed by a University graduate, supported by the University and       Sunderland Software City.
+The graduate drew on our expertise in databases       to develop a Production Management System for local company Washington       Envelopes, which led to the formation of the spin-out company OnePoint       Systems.
+OnePoint collaborated with the University through a KTP to create       an advanced data streaming system, based upon university research into       databases as led by Nelson.
+This resulted in the creation of 10 jobs       within the company and the launch of a worldwide product in 2009 (Evidence       6).
+Another significant impact of Sunderland Software City has been the       establishment of 9 software related KTPs, including a very successful       programme with Orchid (2010 - 2012, Evidence 7).
+Working with the       University, Orchid created a new product Orchidnet, an intranet solution       for companies of all sizes and for a global mass market.
+Orchid had       extensive software knowledge; however, they had a clear knowledge       requirement when it came to modern development methodologies and       technologies.
+The University provided research expertise in database       design and emergent software development practices to enable Orchid to       produce the next generation of their intranet product.
+A KTP with another software company, Imprint, was graded A, which is       "outstanding", and helped the company grow year-on-year by 30% and produce       revenue gains of up to &#163;2m through increased efficiency and new client       wins.
+This has, in turn, led to an increase in staff from 40 to 70.
+This       programme drew on research expertise in databases and management       information systems (2011 - 2013, Evidence 8).
+The overall impact of the Sunderland Software City project is discussed       in a recent publication (2013, Evidence 9) and can be corroborated by the       Chief Executive of Sunderland Software City (Evidence 10).
+The project is       a regional collaboration, however, it would not have existed without the       university's computing research alluded to above, and all of the impacts       presented here are as a direct result of the work of the university.

@@ -1,0 +1,26 @@
+     "When business development manager Sarah Doyle first saw the video         tracking technology created by Mark Sugrue as part of his PhD thesis,         she says she recognised its commercial potential instantly.
+As a result         she left her job [...] and teamed up with Sugrue to develop the         technology into a marketable product."
+(Irish Times interview,       October 2012).
+The Chief Technology Officer of Kinesense Ltd, states in a letter of       support: "I strongly believe that the insights and education I gained         at Royal Holloway Physics Dept helped me to take a radically new         approach to the technical problem of CCTV video, and to help build a         successful start-up company that is providing both employment and real         social impact, helping police solve serious crime around the world."
+Kinesense Ltd (http://www.kinesense-vca.com/)       was incorporated in 2009 in Dublin, Ireland, led by Chief Executive Sarah       Doyle and the Chief Technology Officer, who obtained his PhD in video       analytics from Royal Holloway.
+The company specialises in video content       analysis, and has developed a tool for video retrieval and analysis aimed       at the law enforcement and security markets.
+The company's technology allows users to search through video footage       using filters to pinpoint certain types of activity.
+The system works by       indexing the CCTV footage and then allowing the watcher to pinpoint areas       of interest, for example movement near a door or someone wearing a       particular colour.
+The technology identifies objects based on their unique       motion pattern, and can reliably identify humans, vehicles, colour and       direction of movement.
+An officer investigating a break-in can use the system to pinpoint a       period on a CCTV tape that is of interest rather than watching through the       entire tape.
+For example, if an ATM was vandalised by someone in the       middle of the night, the investigating officer could use the software to       detect at which times there was human movement near the machine.
+The       efficient algorithms mean that, with modest computing power, multiple       video files can be batch-processed at speeds far higher than could be       achieved with a human reviewing the footage, leaving just the critical       sections of the video to be watched by the investigating officer.
+Kinesense Ltd Chief Executive Officer Sarah Doyle estimates that the time       required to search a piece of footage can be reduced by 95 per cent using       their software.
+The improvement in speed of processing raw footage has       been of benefit to the Major Crimes Division of the Irish Police force who       said, about the Kinesense Law Enforcement (LE) product, "Kinesense LE         enabled us to deliver a complete video timeline of a high-profile murder         case to the investigation team within 5 hours of the actual shooting         event."
+The company's technology, which is sold as helping the global war against       crime, is currently being used by police forces, security agencies,       counter-terrorism units and serious crime units in Denmark, Ireland, the       UK, Venezuela, Canada and North Africa.
+Kinesense Ltd Sales Director Tony       Cahill has added more than 10 countries to this list so far in 2013 -       Italy, the Czech Republic, Slovakia, Turkey, Malaysia, Singapore,       Indonesia, Brunei, Australia, the United Arab Emirates and Brazil.
+Kinesense has also expanded its customer base beyond law enforcement       agencies.
+British Telecom bought the technology to help stem losses of up       to &#163;2,000 a day through the theft of copper wire.
+The telecoms company       found thieves were stripping the valuable copper from utility poles and       sub-stations, causing disruptions to their services.
+The Kinesense       technology allowed BT to analyse CCTV footage in 30 minutes compared with       eight hours previously, speeding up the opportunity to arrest and       prosecute thieves.
+Kinesense Ltd was initially supported by a &#8364;200,000 investment from       Enterprise Ireland under the High Potential Start-Up (HPSU) funding       programme.
+In September 2012 Kinesense Ltd secured a further &#8364;620,000       syndicated investment to focus on its international growth strategy.
+The       funding round was led by Kernel Capital through the Bank of Ireland Seed       and Early Stage Equity Fund, which contributed &#8364;500,000.
+The remainder of       the money was contributed by the Irish BES (Business Expansion Scheme) and       angel investors.
+By October 2012 Kinesense Ltd employed 7 full-time staff, including       another Royal Holloway Physics PhD graduate from the Signal Processing and       Machine Vision group, Dr. Daniel Ellin, as Lead Software Engineer.
+The       company is now actively recruiting additional staff to support its growth.

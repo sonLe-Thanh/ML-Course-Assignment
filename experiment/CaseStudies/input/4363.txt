@@ -1,0 +1,45 @@
+     This research has generated economic impact by helping improve the       computational toolkit central       to the application of CFD in aircraft design by engineers at The Boeing       Company.
+These       improvements are bringing financial savings for the company through       reducing the amount of       skilled engineering time wasted in generating unproductive results.
+The       productivity is increased       through the further improvement and validation of the computational code       used in the design       process.
+Boeing has confirmed the existence of substantial savings to the       company as a result but       is unable to provide financial data for commercial reasons.
+CFD in aircraft design: The overall significance of CFD in the       aircraft design process is now well-established.
+Johnson and colleagues at Boeing have said that the       application of CFD has       "revolutionised the process of aerodynamic design", joining the wind       tunnel and flight test as       primary tools, and described the resulting financial savings to their       company as "tens of millions of       dollars" over a twenty year period [see page 4, source 1].
+CFD also       provided added-value by       achieving design solutions that would otherwise be unachievable, as well       as shortening the design       development process by reducing or eliminating the need to build       successive prototypes.
+Project engineers at Boeing (and elsewhere) use commercial codes to       undertake CFD analyses.
+These codes take many years to design and validate, are applied to "live"       tasks where appropriate       during their development phase and are then released allowing decades of       use across Boeing and       a wider aerodynamics community.
+For instance, development work on Boeing's       current       "workhorse" code, TRANAIR, began in 1984 with useful results published in       1989 and on-going       development in the 1990s.
+These codes are used extensively; Trainair was       run more than 70,000       times between 1989 and 2004, with about 90 users in Boeing.
+The code was       heavily applied in the       design of aircraft such as the Boeing 777 [page 4, source 1], one of the       company's best-selling       products with more than 1,000 built to date.
+Contribution to Boeing's new code: Boeing began the process of       developing their next-generation 	  computational code (BCFD) in 1998; as with previous codes this       is already in use       where appropriate within the Company, with formal release of the code and       publication expected to       follow in the next five years.
+The ultimate purpose of the new code is to       allow the generation of       aerodynamic data for various flow regimes about realistic complex       geometries for complex       geometries in a timely and affordable manner.
+However, the complex nature       of the flows and       geometries involved places substantially increased demands on the solution       methodology and       resources required for the design of any reliable and accurate CFD code       aimed for handling       complex flow.
+Currently most simulations carried out at Boeing involve       Reynolds-Averaged Navier-Stokes       (RANS) codes.
+While current RANS turbulence models have been successful       for analysing       attached, transonic flows, whether or not these same models are applicable       to complex flows with       smooth surface separation is an open question.
+A prerequisite for       answering this question is       absolute confidence that the CFD codes employed reliably solve the       continuous equations       involved.
+Hence, the Boeing CFD team wanted to investigate the solver       issues in detail to make       sure that a correct decision about the code design would be made.
+It was       clear that a detailed       investigation of a solution reconstruction procedure on unstructured       viscous grids was required.
+As       for many discretization schemes solution reconstruction was an essential       part of the scheme.
+Based on her earlier work as a research consultant for The Boeing Company,       Dr Petrovskaya was       asked by the CFD research team at Boeing to investigate the reconstruction       problem in depth.
+The research carried out by Dr Petrovskaya has had impact in the following       ways:     1.
+It was demonstrated that, in two and three dimensions, near singular       grid node locations can       cause severe problems.
+This is especially true for unstructured viscous       grids with high aspect ratio       cells and wide disparities in cell sizes and shapes, as well as for       under-resolved curved       boundaries.
+Hence based on the research by Dr Petrovskaya, the Boeing CFD       team identified the       solution reconstruction procedure on unstructured grids as a critical task       associated with the       design of a solver for computational toolkits in modern CFD (see sources 2       &amp; 3 on page 4).
+2.
+Cases have been documented where a higher order least-squares       algorithm yielded       reconstructed values two orders of magnitude larger than any values being       interpolated.
+For grids       with 30-300 million nodes it is unlikely that anomalous reconstructions       would not arise and a       disastrous reconstruction can feed on itself yielding worse and worse       grids.
+Those cases helped       CFD researchers at Boeing to admit that higher order solution       reconstruction can be dangerous on       unstructured viscous grids unless the solution latent features are       resolved (sources 1 &amp; 3, page 4).
+That in turn made the impact on the choice of a baseline discretization       scheme used in the Boeing       solver.
+In particular this issue has been discussed at the MTCA'09       workshop held in September       2009 in University of Birmingham (source 4).
+3.
+The research on numerically distant points in a least-squares       procedure carried out by Dr       Petrovskaya revealed true nature of a large reconstruction error that       appears on coarse       unstructured grids.
+Hence Boeing researches admitted that a least-squares       reconstruction       procedure should be taken into account when a grid refinement algorithm is       considered.
+The low       accuracy of reconstruction may affect a solution on the initial grid and       this issue must be taken into       account in as well when a solution grid adaptation algorithm is designed       (source 2).
+Boeing's confirmation of the impact: The leaders of Boeing's CFD       team have written jointly to       the University corroborating the impact of Dr Petrovskaya's research in       helping the company tackle       important unsolved problems in 2008 that were limiting progress in       advancing the applicability of       CFD to its product lines.
+They had turned to Dr Petroskaya to address       these problems because of       the quality of her extensive research in the field and said that "The       algorithmic problems associated       with providing engineers with reliable codes to analyse such flows are       unbelievably difficult.
+Most       CFD researchers have given up and moved on to lower hanging fruit" and       that Dr Petrovskaya was       able to track down the source of the difficulties Boeing faced with their       existing methods and       provided solutions "that pointed us in the right direction" (source 5).
+As a result of this input in 2008, Boeing's subsequent and current codes       have been improved and       these benefits are being extended to cover further aspects of aircraft       design.
+The current CFD       toolkit (in-house computational code BCFD) has already been used in the       design and aerodynamic       optimization of the latest Boeing product &#8212; Boeing 787.
+For instance, wing       body fairing and winglets       optimization for the Boeing 787 has been done by means of CFD only.
+Implementation of CFD in the       design of their new aircraft allowed Boeing to reduce the testing time in       the wind tunnel for the 787       aircraft by 30% in comparison with testing carried out for Boeing 777.
+The       company has confirmed       that "The resultant improvements in our products as well as the gains in       engineering productivity       are substantial although quantification is again closely held."
+(source 5)

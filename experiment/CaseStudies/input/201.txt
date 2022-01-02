@@ -1,0 +1,37 @@
+     The work of the Applied Optics Group has had a direct impact on the       health of some 5 million people worldwide, thanks to accelerated diagnosis       of eye diseases such as age related macula degeneration and diabetes.
+Research at Kent has led to commercial instruments that provide the only       real time SLO image in pixel-to-pixel correspondence with the OCT image.
+Other OCT systems use an SLR camera (Topcon) or infer the SLO image using       software from OCT images after the OCT acquisition (Zeiss).
+The provision       of these directly related SLO/OCT images is crucial in guiding       ophthalmologists in choosing the retina areas to be "sampled" by OCT.
+The       technology developed by the AOG was translated to industry through four       licence agreements.
+The first two below were to the benefit of patients       with eye disease, with the second in current commercial exploitation and       used by clinics worldwide.
+The latter two are at an earlier stage of       development, but demonstrate that researchers at Kent are continuing to       explore new ways of exploiting these technologies to create worldwide       impact in ophthalmology/optometry.
+Patent US5975697 by A. Podoleanu and D.A.
+Jackson (1998) has been         assigned to OTI, followed by a family of patents (A. Podoleanu plus AOG         members).
+This led to commercialisation of the OCT/SLO instrument by OTI         worldwide, leading to revenue to the University and inventors exceeding         $300K in the period.
+The patent on a sequential spectral OCT with SLO was the subject of an         agreement with OPKO in 2011 [6], with technology transferred to Optos.
+They continue to exploit the technology commercially and maintain the         patent in good standing.
+The implications of these instruments on health care professionals and       patients cannot be overstated [1].
+The technology delivers new insight         into eye diseases by providing recognisable en-face patterns of specific         diseases [2], for example diabetic retinopathy, age- related       macular degeneration, glaucoma, stroke and heart disease [3].
+Instruments       based on the technology covered by these patents are in use in eye clinics       worldwide.
+OCT SLO is a central product for Optos plc, whose shares have       grown by a factor 3 since 2008 and currently operates at around &#163;125       million annual revenue and 16m profit.
+A rise in revenue of 37% in the       past two years bringing valuable employment to Scotland.
+The company has       over 5,000 clinical users worldwide [5], although it does not make public       details on the price and exact numbers of OCT instruments described above       these can be checked [4] and cross-referenced with income from the patent       agreements to the university.
+This shoes that a large percentage of these       clinics have instruments produced directly as a result of the research       done by the Kent academics and covered by Kent patents and that on average       they have been installed for five years.
+Each instrument typically     treats around 1,000 patients per year.
+It is estimated that around 5         million patient diagnoses was aided by the application of our research       [4].
+The other two licence agreements are at an earlier stage of development.
+They demonstrate that researchers at Kent are continuing to explore ways       of developing these technologies to create worldwide impact in       ophthalmology/optometry.
+Adaptive Optics technology applied to the OCT/SLO has been developed,         assisted by EPSRC funding with input from the National University of         Ireland, Galway (Prof. C. Dainty).
+This has been licensed to OTI for         ophthalmology/optometry.
+Optos plc maintains the patent and there is         on-going discussion between the parties on development and         commercialisation of the technology.
+A method of spectral OCT without disturbing mirror terms has been         invented by A. Podoleanu.
+Spin-off company Optopod was created in 2005         by Podoleanu, (Director).
+Optopod has obtained University approval to         sub-license the technology for Ophthalmology/optometry to OTI in return         for prosecution of the patent in three territories, USA, Europe and         Japan.
+The patent was filed in 2004 and only awarded in 2011.
+This         technology has not yet been exploited commercially by OPKO/Optos.
+Twenty-two PhD students have been trained within the OCT research       programme.
+All 22 have found employment commensurate with their       qualification level.
+e.g.
+M. Hathaway and J. Rogers, as Directors of OCT       research at OPKO (now Optos plc).
+G. Dobre was a PDRA supported by EPSRC       and NYEEI grants, becoming a lecturer in the AOG in 2003.
+D. Woods is now       employed by Michelson Diagnostics Ltd, which commercialises OCT       instrumentation for skin imaging.

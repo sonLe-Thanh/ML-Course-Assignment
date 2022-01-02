@@ -1,0 +1,29 @@
+     The impact of this research is that profiled endwalls in turbomachinery       such as aircraft engines provide both economic and environmental benefits.
+Durham's research has given manufacturers confidence to apply profiled       endwalls to engine representative test rigs and then into real products.
+Without the underpinning research outlining the benefits in simple test       rigs these concepts would not have been put into production engines.
+The early research (Outputs 1 &amp; 2) gave the industrial partner       (Rolls-Royce) confidence to apply this in cold flow engine test rigs (with       a running cost of around &#163;1M per test point) and then in aircraft engines       for sale (first application in the Trent 500 performance upgrade).
+The       limits established by Durham University in the test campaign on aggressive       endwall geometries (Output 4) were incorporated into Rolls-Royce's       in-house design codes.
+The environmental benefit of this research is via reduced fuel burn in       aircraft engines due to a 0.6% to 0.9% increase in turbine stage       efficiency.
+The quantification of the level of improvement was obtained       from cold-flow full scale rig testing at Rolls-Royce.
+This has been       translated into a saving of 1750 litres of fuel per flight from Zurich to       Singapore by Prof. Patrick Jenny, Institute of Fluid Dynamics at ETH.
+A       similar order of magnitude effect can be estimated from Cumpsty's book       "Jet Propulsion" which quotes a 1.13% change in sfc for a 1% change in       high pressure turbine efficiency.
+In financial terms the fuel saving on the Zurich to Singapore flight       equates to $1192 per flight.
+If the route runs once per way in each       direction this gives annual fuel saving of around $870,160 per year.
+In       carbon dioxide terms this equates to a 4448 kg reduction per trip using       the 2013 UK Government conversion factors published by DEFRA.
+These       factors include other influences than simply the combustion process.
+For       the route as a whole this is a reduction of 3247 tonnes.
+The first application of profiled endwalls was the Trent 500 performance       improvement package applied to the A340 airframe.
+The first new engine       with profiled endwalls was the Trent 900 for the Airbus A380.
+Profiled       endwalls are now used as a routine design tool and are also applied on the       Trent 1000 (787 Airframe) and Trent XWB (A350 airframe).
+As of April 2013 there have been fifty one A380 aircraft delivered with       Rolls-Royce engines for a total of 204 engines in service on that       airframe.
+Rolls-Royce engines have been selected for 238 of Boeing 787       orders for a total of 476 engines and Rolls-Royce make the only powerplant       for the A350 which has 616 orders for a total of 1232 aircraft engines.
+Each of which are more efficient as a result of the underpinning research.
+Profiled endwalls can also potentially improve the efficiency of any       rotating machine and Rolls-Royce has also applied profiled endwalls to       stationary gas turbines used for pumping applications, the Avon engine.
+This technology is offered as an upgrade kit for existing engines and       allows operators to reduce fuel burn whilst providing additional business       for the manufacturer.
+A second important impact of this research has been to provide improved       products for industry and keep the products that UK industry offers at a       competitive efficiency level.
+Rolls-Royce have also applied for patents       based directly on the results of Durham research e.g: Rolls-Royce plc.
+Aerofoil members for a turbomachine.
+Pat.
+GB0704426.6, date lodged       08.03.2007, 2007.
+Other engine manufacturers have sponsored research programmes on profiled       endwalls including Pratt and Whitney with Carleton University and MTU with       ETH Zurich and Stuttgart.
+Although there is no direct link between Durham       and these organisations the presentation of the Durham and Rolls-Royce       work at conferences has led to a worldwide impact.

@@ -1,0 +1,37 @@
+     4a: Change in management paradigm     The discovery of ATC has led to the development of a new management       strategy for patients with trauma-related bleeding &#8212; `Damage Control       Resuscitation'.
+A central tenet of this paradigm is `Haemostatic       Resuscitation' that targets ATC.
+Management has shifted dramatically from       awaiting and managing late coagulopathy to correcting ATC immediately with       rapid early administration of clotting factor therapies and avoiding       haemodilution.
+This resuscitation strategy has been widely adopted       internationally, in military and civilian arenas.
+See for example [8,9].
+4b: Change in survival     Brohi's findings were first taken up by the British military, who saw       potential dramatically to reduce mortality rates if treatment was targeted       at ATC.
+Studies in the wars in Iraq and Afghanistan, for example, showed       that this approach appears to reduce mortality in severely bleeding       patients from 65 per cent to 19 per cent [10].
+These are retrospective       studies but have prompted prospective clinical trials, which are now       ongoing [11].
+Mortality rates for critical trauma patients in shock were       nearly three times lower at our own (Barts) Major Trauma Centre than       nationally (20 vs 55 per cent) when using a DCR approach to treatment       [12].
+These findings have been replicated internationally [eg 13].
+4c: Change in policy / guidance     Based on the evidence above, both the USA and UK Surgeon Generals issued       `general standing orders' during the wars in Iran and Afghanistan that the       management of severe haemorrhage should target ATC with high-dose       coagulation therapies.
+The US Air Force General subsequently testified to       the US Senate that this resuscitation approach had saved lives [14].
+Our       work in developing a DCR transfusion protocol &#8212; called `Code Red' has now       been adopted by all major trauma centres in London and is being adopted       nationally and internationally.
+This coagulation- centric approach has       been incorporated into UK national transfusion guidelines from the       Association of Anaesthetists of Great Britain and Ireland [15] and new       European Guidelines on the management of major haemorrhage [16].
+The       global Advanced Trauma Life Support Manual updated in 2012 includes       ATC-targeted therapy in its protocols [17].
+This approach to bleeding in       trauma is now also being applied to other forms of bleeding, most notably       post-partum haemorrhage, another of the world's major causes of death due       to haemorrhage [18].
+4d: New research directions     New diagnostic tools     The work of Brohi's team has shown that ATC cannot be reliably predicted       from clinical signs and existing tests.
+There has been renewed interested       in emergency use of thromboelastography; many hospitals now have these       devices in their resuscitation rooms.
+But the current generation of       thromboelastography devices were not designed for the emergency       environment.
+Manufacturers are developing a new generation of devices for       this purpose and also for pre-hospital care.
+In particular, one       manufacturer has developed a `ruggedized' version of their device that has       been deployed in Camp Bastion in Afghanistan as well as in other conflict       zones around the world [19].
+Major manufacturers have joined a consortium       with Brohi to develop the next generation of machines and interfaces in       the EU FP7 programme "TACTIC" [20].
+New treatments     New treatments are being developed and evaluated specifically to treat       ATC.
+In simplest form, many hospitals have now put protocols in place to       have pre-thawed FFP in the trauma receiving room, and this is deployed on       some helicopters including emergency teams in Afghanistan.
+Several       clinical trials of blood-derived coagulation therapies directed at ATC are       underway.
+We are conducting the pilot CRYOSTAT trial of early       cryoprecipitate &#8212; the first joint military-civilian randomised controlled       trial.
+A large RCT of high-dose platelet therapy is underway in the USA,       and a trial of fibrinogen therapy delivered en-route in a helicopter is       underway in Austria.
+A large international trial of the antifibrinolytic       tranexamic acid has shown improved survival in bleeding trauma patients       and is being widely adopted worldwide [21].
+Several pharmaceutical       companies are developing new anti-ATC therapeutics, including Octapharma,       Astra-Zeneca and CSL-Behring.
+New research     The name `Acute Traumatic Coagulopathy' was ratified in a consensus       conference held on this coagulopathy in Chicago in 2008 [22].
+A further       consensus conference on coagulopathy in trauma was subsequently held       jointly by the US National Institutes for Health (NHLBI) and the       Department of Defence in Washington DC in 2010 [23], and again in Toronto       in 2012.
+This led to several specific grant calls for research into trauma       haemorrhage, including a large-scale programme from the US Army Combat       Casualty Care programme.
+Through such funding, Brohi and others have       developed experimental models of ATC to determine underlying mechanisms,       identify new targets for drug discovery and evaluate new treatments.
+Large-scale human studies to elucidate mechanisms and underlying       propensities for ATC are underway in Europe and USA, and renewed interest       in bleeding in trauma has led to the development of research networks and       a general upswing in the volume and quality of trauma research.
+4e: Professional education     New educational initiatives have been formed for dissemination of these       findings, including the `PerioperativeBleeding.org' (Austria, Germany),       the `International Symposium on Critical Bleeding' (Europe and North       America), `Educational Initiative for Critical Bleeding in Trauma'       (international) [22], and a `Trauma Coagulopathy &amp; Transfusion       Masterclass' at the London Trauma Conference.
+4f: Improved public understanding of science     Brohi's work on ATC and new resuscitation protocols was featured in New         Scientist "Code Red" [24] and in television programmes in the       Netherlands and Australia.
+The team have showcased their work to the       public at the Royal Society's Summer Science event 2011 [25] and the Big       Bang Fair in Birmingham 2012.

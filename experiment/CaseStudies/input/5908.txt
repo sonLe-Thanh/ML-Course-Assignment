@@ -1,0 +1,26 @@
+     The CASTEP material modelling software developed by York academic Dr Matt       Probert and colleagues is a commercial software package to undertake       density functional theory (DFT) quantum mechanical simulations.
+CASTEP is       marketed by Accelrys Inc and used by over 830 different companies       (including Boeing, Johnson Matthey, Dupont, Toyota, General Motors and       Unilever) and has generated over $30m sales since 2002.
+Accelrys is a       leading scientific research and development software and service company,       and is based in San Diego with European headquarters in Cambridge.
+It has       an established position in the field of materials modelling and simulation       currently based around the Materials Studio application, which includes       CASTEP as a separately licensed component.
+One customer is the Japanese car manufacturer Toyota, which has used the       CASTEP code for a number of projects, which can be evidenced by a number       of patent applications.
+They use CASTEP to predict the properties of any       material using the power of quantum mechanics, and also to support       experimental studies of materials and processes by helping with the       interpretation of experiments, offering a unique `atom by atom'       perspective on what is happening.
+As an example, Toyota used CASTEP to       develop new ceramic catalysts for exhaust gas purification [i].
+The same       car manufacturer has now used CASTEP to design improved lithium-hydride       batteries for electric and hybrid vehicles [ii].
+The development of       efficient energy-storage batteries for electric and hybrid vehicles forms       a major part of the international response to global warming and the move       away from oil as an energy source.
+Many companies worldwide have used       CASTEP to develop new battery materials over a number of years as part of       this effort.
+A different energy-based commercial application of CASTEP is the       screening of potential fuel cell materials by Johnson Matthey [iii].
+Fuel       cells could play a key role in a future "hydrogen economy" replacing the       internal combustion engine as the power source in vehicles.
+The key idea       is to carry hydrogen as a fuel, and in the fuel cell to combine this with       oxygen from the air, to generate energy (electricity) and have water as       the only waste product.
+A related topic is the green generation of       hydrogen to power these fuel cells, for which CASTEP has also been used       (ref 4 above).
+A different commercial application using CASTEP is work by Sony to       develop light-weight flexible computer screen displays [iv] which was       reported at an Accelrys User Group conference.
+CASTEP is widely used within many materials-based industries &#8212; see http://accelrys.com/products/materials-studio/modules/CASTEP.html       for a commercial overview.
+This can also be seen in the wide range of       companies that cite CASTEP in their patent applications &#8212; over 100 patent       applications by 2013 - of which over 50 have already been granted.
+These       include companies such as Semiconducting Energy Lab Co, Canon, Fuji,       Institut Francais du P&#233;trole, Toyota, etc.
+Of these, 75 have been filed       since 2008.
+The $30m sales figures are confirmed in a letter-of-support received in       November 2012 from Accelrys.
+A commercial-in-confidence presentation to       the CDG revealed a more detailed breakdown of the sales figures by sector       (64% of sales to commercial organisations and 8% to Government       organisations with the remainder purchased by academic users).
+Within the       commercial organisations the largest customer group is the automotive       industry, followed by the electronics industry.
+Ted Pawela, Senior       Director of Materials Science Product Marketing wrote "The quantum         mechanics expertise and software provided to us by the CASTEP Developers         Group enable us to provide more complete and valuable software solutions         to our customers.
+Globally, we now have 830 unique customers who use         this software, including such marquis companies as The Boeing Company,         Johnson Matthey, Dupont, Toyota, General Motors, and Unilever.
+Sales         revenue for the CASTEP software now exceeds $30,000,000.
+These         statistics provide clear evidence of the importance of CASTEP to         materials related product innovation, ...."

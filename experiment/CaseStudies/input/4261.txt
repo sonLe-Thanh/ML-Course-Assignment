@@ -1,0 +1,48 @@
+     (i) Impact on CSR.
+Background: APT was a Queen's University spin-out company, set up       in 1989 to exploit innovative research in digital audio technology.
+The       company achieved particular success with its aptX audio compression       solutions for professional audio and consumer applications, which is now       found in around 85% of all Bluetooth headsets on the world market as well       as in mobile phones made by Samsung, Nokia and HTC.
+In 2010, APT was       bought by Cambridge Silicon Radio (CSR), a pioneering designer and       developer of silicon and software for the consumer electronics market.
+It       is a $1 billion British company employing nearly 3,000 people around the       globe.
+Following the acquisition, ECIT brought the QUB speech enhancement       research to the company's attention and after discussions and       demonstrations, CSR entered into initial collaboration with the research       group.
+They gave access to their own test audio data, and the results of       the enhancement led to an ESPRC-funded secondment of the research fellow       to CSR under the KTS scheme (2011-2012).
+The Research Fellow on secondment       is now employed by CSR.
+The results were presented to CSR's CEO prior to       CSR completing their final report to ESPRC on the secondment.
+Although the work is recent, in its final report to EPSRC, CSR rated the       significance of this work to their future performance as the maximum 5         out 5.
+They said that the research and collaboration has already:            "brought about change in the nature of its business by identifying           and defining new and en-hanced R&amp;D areas within CSR which are           expected to result in enhanced products and services;        contributed to company strategy by providing valuable information           to shape and prioritise elements of the research agenda related to           speech enhancement;       assisted in the R&amp;D of next-generation speech processing           techniques for residential and automotive environments;        transferred additional technical knowledge to the company on           particular speech-processing techniques."
+The Director of Advanced Audio Research at CSR has further put it on       record that:     "The collaboration opened our eyes to new possibilities, and has         inspired ideas to improve CSR products.
+The collaboration helped         establish Belfast as an audio research centre of excellence within CSR"     A Patent Application has been filed to support exploitation of the CLOSE       method for speech source separation and enhancement.
+The UK provisional       application was filed on 26 August 2011, and the International Application       No.
+PCT/EP2012/066549 "Method and Apparatus for Acoustic Source       Separation" was filed on 24th August 2012.
+In a separate example of the impact of our speech enhancement research,       our methods have been incorporated into an award-winning speech       recognition system by NTT, Japan.
+NTT used our Corpus-based Speech       Separation method in its speech recognition entry to the International       Competition for Machine Listening in Multisource Environments       (CHiME'2011), in which it took 1st place.
+(See reference in source 3       below).
+(ii) Impact on Health Monitoring.
+Vitalograph Ireland (Ennis,       Ireland), a world-leading provider of cardio-respiratory diagnostic       devices, is using our software for robust speech and audio analysis in a       system for automated monitoring of how inhalers are being used in clinical       trials.
+The UK NHS spends &#163;4bn per annum on inhalers, and research has       shown that up to 90% of the drugs they dispense is wasted largely because       of improper inhaler use.
+Vitalograph has developed hardware which       incorporates an embedded microphone and audio recorder in each inhaler.
+At       the start of the project, the audio data was analysed manually to identify       and interpret the various audio events such as inhaling, holding breath       and exhaling.
+Funded by InterTradeIreland (2012-2013), the UoA has       developed automated audio analysis software that enables robust automatic       analysis of a person's inhaler use.
+At the start of the project, the audio       data was analysed manually to identify the various audio events such as       inhaling, holding breath and exhaling.
+This analysis is used in clinical       trials, and to train patients in better inhaler use, but is very       time-consuming and a major draw-back.
+Although this research is very       recent, the accuracy of the results of our automated system has led the       company to refocus its strategy with a view to delivering an automated       analysis and training solution.
+They have employed the researcher on the       project.
+The system is currently a prototype but when released and       deployed, given the huge cost of the drug, the potential for savings could       run into millions of pounds.
+Vitalograph's Director of Operations &amp;       R&amp;D has said:     "The leading-edge research of the Queen's team has caused Vitalograph         to change its strategic direction and product development plans for its         clinical trials programme for inhalers.
+The research will find its way         in to a Vitalograph product in the not-too-distant future and this         element will be the clear differentiator that sets the product apart         from its competitors.
+Our planned product will be more adventurous         because of the success of the automatic audio analysis.
+We have already         employed a person to assist with transfer of this research into this         product.
+Vitalograph has collaborated with several universities in UK and         Ireland over the last ten years, and our interaction with the team at         Queen's was one of the smoothest and most productive."
+(iii) Liopa: a Lip-reading Biometric System.
+A start-up company       is in the process of being established to commercialise our novel       lip-reading based biometric system called Liopa (www.liopa.co.uk).
+So far       the Liopa team has attracted &#163;50K of procurement/product development       funding in the form of a Small Business Research Initiative grant from the       Technology Strategy Board which has resulted in the following component       parts of the Liopa system being successfully developed and ready for user       trials:            An Authentication/Verification server       An API for system integrators       An Android SDK and proof-of-concept mobile application          In the recent 25K Awards entrepreneurship competition run by the Northern       Ireland Science Park (NISP), Liopa was awarded First Prize in the Digital       Media and Software category.
+Several significant corporations have       approached us with interest in incorporating this technology within their       projects/products/services and we are actively communicating with these       potential partners/customers regarding possible engagements.
+For example,       we were recently invited to Canary Wharf to demonstrate Liopa to Infosys       and a large grouping of their key partners which was very positively       received.
+We have also signed an agreement with our first commercial partner       (AirPOS Ltd) to carry out trials of Liopa with a large number of users.
+AirPOS Ltd creates software for small to medium size retailers selling       across single and multiple points of sale (POS).
+AirPOS were recently       announced as the first UK POS company to partner with PayPal here on their       new payment device.
+The company was founded in 2010 and now serves 3,120       customers in over 80 countries.
+Liopa will be used in two ways: firstly,       it will be incorporated into the retail ePOS system to enable biometric       employee log-in as an anti-fraud and anti-theft measure; and secondly, it       will be used for person authentication and verification in order to grant       access to ticketless fans and concert goers at sporting and concert       venues.
+(iv) A speech recognition chip.
+The system-on-chip speech       recognition engine developed by our EPSRC Shares project was awarded the       High Technology Award in the 2010 NISP 25K Awards.
+Two of the researchers       on this project (Woods and Fischaber) founded the spin-out company       Analytics Engines (www.analyticsengines.com),       who specialize in high performance data analytics and accelerated       computing.
+A research student from the project was employed by the       US-based Nuance Group, one of the largest world leaders in speech       technology products.

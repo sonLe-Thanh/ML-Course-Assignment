@@ -1,0 +1,24 @@
+     Accurate knowledge of the spatial distribution of forest biomass and its       changes over time are       needed to improve present assessments and future projections of the       terrestrial carbon cycle, as       they integrate processes that release (e.g.
+through deforestation) and       absorb (e.g.
+through       reforestation) carbon dioxide.
+This knowledge is essential to       understanding the role of forests in       climate change and the carbon cycle.
+However, it has hitherto been impossible to make accurate large-scale       measurements of biomass       in situ because of logistical issues.
+This is a major obstacle to       carbon trading schemes that finance       forest management in developing countries to reduce emissions.
+In       particular, the proposed United       Nations mechanism "Reductions of Emissions from Deforestation and       Degradation" (REDD+) may       never be ratified unless the difficulties of monitoring and verifying       reported values of biomass       change in tropical forest countries are resolved.
+The lack of reliable biomass information also has severe consequences for       climate calculations.
+Biomass loss from tropical deforestation gives rise to between 9 and 24%       of total anthropogenic       emissions (Intergovernmental Panel on Climate Change, 2007).
+This huge       uncertainty yields even       greater uncertainty in the uptake of carbon land surface, because this is       estimated as a residual       after accounting for total emissions, the growth of atmospheric carbon       dioxide and carbon flux into       the oceans.
+The size of land uptake, its location, and how much is stored       as forest biomass       therefore constitute major unknowns about the Earth's carbon cycle.
+Quegan contributed some of the key ecological and technological research       underpinning the       BIOMASS mission concept, and was crucial in creating the convincing       scientific basis that led to       the concept being selected for implementation [S1-S5].
+The BIOMASS mission aims to take measurements of forest biomass to assess       terrestrial carbon       stocks and fluxes.
+The mission employs a novel P-band synthetic aperture       polarimetric radar       operating at 435 MHz with a 6 MHz bandwidth.
+In addition to unprecedented       data on forest       biomass, the deployment of this wavelength for the first time in space       means that the mission will       also provide new information on ice-sheet thickness and internal       structures in cold regions,       subsurface geology and water resources in arid regions, as well as data on       soil moisture,       permafrost, the ionosphere and sea-surface salinity.
+This is the seventh in the ESA's Earth Explorer series of missions, of       which three are currently in       orbit.
+The first was launched in 2009.
+Earth Explorer is one of ESA's       "optional" programmes,       meaning that funding from member states is voluntary, but the individual       member states have all       approved the spending on BIOMASS from their public budgets.
+The project has had significant economic impact both in terms of the       money already been spent in       the European economy through the initial phases, and in the quantifiable       re-allocation of public       spending committed for the future mission.
+Re-allocation of spending     ESA has committed &#8364;470M to the mission up to its launch in 2020.
+To put       this in context, the total       ESA budget for 2013 is &#8364;4,282M, of which 22.9% is earmarked for Earth       Observation missions       such as BIOMASS.
+Individual member states are expected to commit       additional funding to the       project.
+Of the overall &#8364;470M approved by ESA, &#8364;277M has been specifically       earmarked for spend       with industry, as well as a share of a further &#8364;32M.
+The mission has       already led to at least &#8364;5.6M of       ESA money being spent with two European industrial consortia led by       Astrium and Thales since       2009, with a further &#8364;1.3M spent on science and campaigns.

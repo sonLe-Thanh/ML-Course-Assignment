@@ -1,0 +1,37 @@
+     Prior to the work referred to in this case study, no linked       process-response model for sedimentation in rift basins existed and hence       no consistent way of predicting the distribution of hydrocarbon reservoir       rocks in time and space.
+Specifically the models provide better prediction       of lithologies directly from seismic reflection data, which are the only       data commonly available in hydrocarbon exploration.
+Global use of the       models have steered exploration in rift basins worldwide.
+The combination of concept-driven prediction of reservoir rock       positioning and timing of deposition with quantitative measurements of       geometries and architecture has had the threefold impact of (a) success in       exploration in rift settings, including the South Atlantic conjugate       margins, North and East Africa, (b) harnessing of additional reserves in       `near field exploration' that required the linked structural-stratigraphic       understandings and (c) optimal siting of wells based on the quantitative       reservoir models made possible through the geometrical databases developed       from VRGS, thus reducing the number of $50M-$100M wells needed per       development.
+Pathways to Impact     I.
+Research on normal fault growth and syn-rift sedimentation was       undertaken as part of the Rifts Analogues Project (TRAP) headed by       Gawthorpe and Hodgetts and funded by Statoil, BP and ConocoPhillips.
+Outcrop observations and measurements from modern and ancient rift       settings were distilled into tectono-stratigraphic models.
+This new       knowledge was embedded into sponsor company workflows through professional       training workshops in classroom and field and supported by the development       of numerical modelling procedures.
+The pathway has been consolidated by       several generations of project PhDs joining the oil industry.
+II.
+The Virtual Reality Geological Studio (VRGS) software has being       commercialised by UMIP (who manage Manchester University's IP portfolio).
+VRGS provides a new innovative tool for reservoir analogue studies to       generate new sedimentological and structural data and interpretations,       centered around LiDAR scanning of outcrops.
+This allows the quick and       accurate capture of data on reservoir body geometries and spatial       architecture, which has been used to feed reservoir modelling software       used by the industry.
+This has resulted in more realistic reservoir       models.
+VRGS has been licenced to Chevron, ConocoPhillips and Fugro       Robertson for in-house reservoir characterisation and modelling projects       [A], [B],[C}.
+Reach and Significance of the Impact     1.
+The results of the research are embedded in the global exploration       models of Statoil, for example.
+"Innovative new exploration concepts         have resulted from the research that has led to exploration successes"       [D] In addition, the results of this research "are very much in use in         defining new exploration plays and concepts, and are recently used for         the new concession round application in the North Sea and were also used         for the 27th Concession Round application on         the UK Continental Shelf" [D].
+The concepts have also directly       influenced exploration for the last 15 years in BP, who state "the         technical impact of this research has been substantial, particularly in         relation to understanding of depositional processes in rift systems"       [E].
+The models have been used by the industry in frontier exploration       along the South Atlantic conjugate margin, with successful new discoveries       in completely new areas (e.g.
+French Guyana, Ghana).
+The new exploration       models have improved business performance across the exploration sector.
+2.
+The new concepts for hydrocarbon reservoir prediction have been       embedded into the professional workforce of many oil companies including       Statoil and BP by a series of bespoke knowledge transfer training courses       in Norway, Egypt and Greece.
+Statoil "estimate "that at least 200         Statoil geoscientists have attended these workshops" [D].
+BP state       that `the incorporation of integrated structural-stratigraphic rift         models in BP's in-house training programs has been achieved through         knowledge transfer from Manchester via field courses for BP over the         last 15 years [2].
+We regard the production of a highly trained       doctoral workforce for the industry as an impact as well as a pathway to       impact because it has led to changes in practices and improvements in       processes.
+This argument is supported by the UK Government Oil and Gas       Industrial Strategy and the plans for a NERC Centre for Doctoral Training       in oil and gas, both of which are responses to an identified skills       shortage in engineering and geoscience.
+3.
+The impact of VRGS has been an improved ability to develop models of       subsurface reservoirs by constraining in outcrop analogues: a) the       geometry of key stratal surfaces defining the boundaries of reservoir       zones, and b) the geostatistics of sedimentary bodies that occur within       the reservoir zones.
+This has reduced the time taken to capture analogue       data and has allowed statistically more sophisticated conditioning to be       developed.
+The impact is in enabling better and more constrained       understanding and characterisation of uncertainty in subsurface reservoir       descriptions, allowing the creation of alternate scenarios.
+A direct       application is in refined well placement, where the saving of a single       well can save $50m - $100m from a development project of commonly 5-50       wells.
+As explained by BP [E], it is not possible to fully quantify the global       savings from the increased geological understandings because other factors       also influence well positioning but the saving of one well per field       across the industry in which several hundred wells have been completed in       rift basin prospects over the last 5 years is considerable.
+When this work       started, over 200 billion barrels of recoverable hydrocarbons was known to       be hosted in rift basins and one of the most significant new plays is the       syn-rift pre-salt succession of the South Atlantic basin, currently       thought to contain 38 Billion barrels of oil equivalent.
+With an oil price       of $100+ per barrel, this is a multi billion dollar industry.
+The research has involved training company personnel in data collection       and interpretation, placing members of the research team within the       sponsors' offices for work periods and the employment of the highly       skilled researchers by the global industry.

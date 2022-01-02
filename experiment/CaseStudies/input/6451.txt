@@ -1,0 +1,48 @@
+     The impact of the 2001 Mathon and Umerski paper predicting that MgO-based       systems would exhibit very high MR ratios was immediate.
+Preliminary       results were presented at the ICM 2000 Conference in Recife, Brazil, with       a number of world leading experimentalists in the audience.
+In addition       the group were in close communication with experimental groups in Japan       and the US where high-quality magnetic layer systems were being developed.
+Nevertheless it took three years to manufacture successfully MgO tunnel       junctions of sufficient quality that a large MR ratio was observed.
+The       difficulty arises because the phenomenon is of quantum mechanical origin       and consequently requires very high quality interfaces.
+Several       experimental papers were published during the period 2002-2004, with       observed MR ratios gradually increasing.
+In December 2004, the Japanese       Tsukuba group simultaneously with the US IBM group reported values of       180%-220% at room temperature, in Nature Materials [3,4].
+Both these       experimental papers cite the predictions of Mathon and Umerski and of       Butler et al.
+as motivation and there can be little doubt that the       results of these theoretical papers both laid the groundwork for success       and gave experimentalists the impetus required to keep trying until that       success was achieved.
+Following the experimental success, focus shifted to the creation of a       commercial product.
+This required the mass production of MgO-based tunnel       devices, previously only produced in two world- leading laboratories       drawing on great experimental expertise.
+Significant technological       developments were required in order to do this, principally pioneered by       the Japanese Tsukuba group and the US IBM group (reviewed in [G] and [H]).
+The first TMR read head reached the market in 2007.
+Since 2009 all       manufactured hard disks have been based on this technology.
+This is       confirmed by S.S.P.
+Parkin (head of the research group at IBM and the       author of reference 4) who states: "The work of Mathon and Umerski         clearly played an important role in the development of these materials         and their subsequent widespread application to recording read heads in         ~2007.
+All disk drives manufactured since about 2008-2009 use recording         read heads based on magnetic tunnel junctions."
+[B]     Today there are only three major manufacturers of hard disk drives:       Western Digital, Seagate and Toshiba [A].
+In 2008 Western Digital reported       that "the industry has made the transition to tunnel-junction magneto         resistive ("TMR") technology for the head reader function.
+We have         completed the transition to PMR [Perpendicular Magnetic Recording] and         TMR in our 2.5-inch products and in the majority of our 3.5-inch         products" [C].
+In 2009 they reported "We have completed the         transition to PMR and TMR across all product platforms" [D].
+An       example of the use of TMR technology by Toshiba is given in their product       information for internal notebook hard drives which "use proven state         of the art....TMR Head Recording technology for increased capacity,         reliability and performance" [E].
+High-tech companies are naturally somewhat reluctant to disclose the       detailed operation of their products so it is difficult to trace the       development of MgO tunnel junctions once they left the confines of       university laboratories.
+However, the technological benefit of MgO-based       read heads to the companies which manufacture hard disks is perhaps most       clearly demonstrated in the following claim of industrial espionage.
+The       American Arbitration Association reported on a 5-year dispute between       Seagate and Western Digital regarding an employee (Dr Mao) who moved from       Seagate to Western Digital in September 2006 at a critical time when hard       disk manufacturers were developing the new MgO-based read heads [F].
+The       report provides the following summary of the background to the case       (Section A5 on page 4): "Seagate claims that Dr Mao stole Seagate trade         secrets and confidential information regarding TMR technology and         provided it to Western Digital, which used trade secrets and         confidential information to design and manufacture an MgO TMR read head.
+As a result Seagate claims that Western Digital was able to introduce         products, incorporating an MgO TMR read head, into the market many         months ahead of when it would have been able to do so without Seagate         trade secrets and confidential information.
+Seagate asserts that as a         result of using stolen Seagate trade secrets and confidential         information, Western Digital avoided substantial research and         development costs and made substantial profits."
+The alleged move of       Dr Mao is likely to have saved Western Digital many months of research and       development.
+In 2011 the American Arbitration Association ruled that for       this infringement Seagate was entitled to recover $525,000,000 plus       pre-award interest at 10% per annum.
+This demonstrates the enormous       financial importance of the new MgO-based technology.
+It is difficult to say precisely what the increase in hard disk capacity       is as a result of the MgO-based read head.
+Firstly, because other factors       like write density are also important.
+Secondly.
+because MgO-based read       heads are still being developed, with improvements in growth morphology       leading to greater MR ratios.
+We can say that in 2005, just before the new       read heads were introduced, Toshiba introduced a hard drive with a       record-breaking storage density of 179 Gbit/in2.
+In 2012 the       highest density commercially available was about 620Gb/in2       although work continues towards a 1Tb/in2 drive, demonstrated       by Seagate with great fanfare in March 2012 [J].
+An increase by a factor       of five to date can certainly be claimed.
+The difficulty at present       appears to be with stable recording rather than reading, and for the near       future the MgO based read head looks likely to remain.
+The role of Mathon and Umerski's work in the emergence of MgO-barrier       magnetic tunnel junctions is emphasised in the reviews cited at [G] and       [H].
+The 20th Tsukuba Prize was awarded to Drs Yuasa and Suzuki       (authors of reference 3) for "Giant tunnel magnetoresistance in MgO-based       magnetic tunnel junctions and its industrial applications".
+The prize       citation traces a direct path from the theoretical prediction to the       industrial application.
+It emphasises the significance of the industrial       application and impact on society of TMR technology, stating: "The         giant TMR effect in MgO MTJs (magnetic-tunnel-junctions) is expected to         contribute to our society by significantly reducing the power         consumption of electronics devices and improving the performance and         security of computers" [I].
+The MR ratio observed in MgO-based systems is now very close to the       original theoretical prediction of 1000%.
+The conclusions of the Mathon       and Umerski theoretical paper, later confirmed experimentally, have       directly influenced the design of the hard disk reading head commercially       manufactured since 2008.
+This has led to increase in hard disk storage       capacity by more than a factor of five.
+The original 2001 publication has       attracted more than 500 citations and, along with that of Butler et         al., is regarded as a seminal paper in spintronics, one source of       the explosion of interest in MgO-based systems.
+Such systems are also the       basis of magnetic random access memory (MRAM), a new type of non-volatile       memory, which is being actively developed and may someday replace both       hard disks and existing random access memory [G, H].

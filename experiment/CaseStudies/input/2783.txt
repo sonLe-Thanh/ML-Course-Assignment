@@ -1,0 +1,33 @@
+     Cooper's research in medical diagnostics is driven by the demand for new       miniaturised formats providing low-cost, disposable point-of-care devices,       with applications in near-patient/bathroom environments for screening       chronic diseases and diagnosing acute microbial infections.
+Similarly, the       new miniaturised formats of Cooper's work have been applied to the drug       discovery process within the pharmaceutical industry through the       development of tools that have improved the ease of data acquisition.
+These tools replace labour-intensive patch-clamp electrophysiological       measurements with high-throughput measurements which enable toxicological       information on candidate drugs to be obtained earlier in the development       cycle.
+Thus, Cooper's research has generated impact through three         spin-out companies providing advanced measurement technologies for a       range of applications:     Mode-Dx (http://www.modedx.com):       Mode Diagnostics (Mode-Dx) was launched in 2008 as a company developing       digital homecare diagnostics.
+It now employs eight staff and in 2009       secured &#163;1.7M of investment from the IP Group, the Scottish Investment       Bank and the syndicated investor Kelvin Capital.
+It received a &#163;72k SMART       award in 2011, together with a &#163;23k Innovation Award from Scottish       Enterprise in 2011.
+Mode-Dx has developed low-cost, easy-to-use electrochemical diagnostic       products for the consumer market.
+Following this successful development       work, the company attracted John Brown, formerly Chairman of Axis-Shield,       as its Chairman in 2012.
+The first product, a colorectal cancer       diagnostic, called measure&#174; BOWEL HEALTH, Figure 1, detects occult       haemoglobin as a proxy for bowel cancer.
+This product, which is focused on       physician-led screening, has been developed under full ISO processes and       is now CE-marked, with a full product launch due in 2014.
+Mode-Dx is also       in advanced discussions with a major UK retail pharmacy chain over the       placement of this product throughout the UK for over-the-counter home use       applications.
+Figure 1: ModeDx, Left, measure&#174; BOWEL HEALTH is a hand-held biosensor for measuring faecal occult blood; Right, schematic showing an exploded view of the faecal sampling interface to the biosensor device.
+Clyde Biosciences (http://www.clydebiosciences.com):       Cardiotoxicity is a major cause of failure of new medicines in the       pharmaceutical development process.
+Clyde Biosciences produces       instrumentation, services and biological products for both pharmaceutical       companies and contract research organisations to identify these toxic       effects earlier in the development process, thereby reducing costs.
+The       technology was configured into a new, high-throughput, low-cost instrument       (Figure 2, on left) in collaboration with Cairn Research.
+This led to Dr       Margaret-Ann Craig being awarded the prestigious Royal Academy of       Engineering ERA Foundation Entrepreneurship Award (2012) for developing       new optical instrumentation, bespoke software (Figure 2, on right) and       microsystems technologies for evaluating new drugs.
+Subsequently       seed-funding (&#163;50k in 2012) secured through the University's partnership       with IP Group has enabled the successful development of a business model       and strategic industrial collaborations, as well as the sale of       instruments.
+The company also received a SMART Award (Project value &#163;137k)       in 2013.
+Clyde Biosciences has now launched three products: CellOPTIQ (an optical       instrument to assess the toxicology of new medicines); XTEND(SR) (for       direct measurements of drug-induced changes on cardiac cells); and XTEND       (which extends the life of tissue samples).
+Clyde Biosciences is in the       process of selling its first two cell screening systems (total &#163;330k) to       Imperial College and INSERM and has       developed two partnerships with Astra Zeneca and Johnson &amp; Johnson       (both involving contracts for screening of drug candidate libraries).
+Figure 2: Clyde Biosciences (left) the CellOPTIQ instrument; (right) proprietary image-analysis software enabling real-time, multiplexed electrophysiological measurements.
+SAW-Dx: SAW-Dx is a micro-SME, which uses phononic crystals as       `acoustic holograms' to control the interaction between the ultrasonic       fields generated using surface acoustic wave (SAW) devices and the       diagnostic sample.
+Funding from the Scottish Enterprise Proof-of-Concept       Fund (2010-12) enabled the technology to be implemented on low-cost       disposable chips, coupled into the ultrasonic piezoelectric transducers.
+A       manufacturing technology has been developed with Epigem through a       TSB-funded programme (TS/1000097/1, 2010-12).
+Dr Reboud was awarded the       Royal Academy of Engineering ERA Foundation Entrepreneurship Award (2013)       to translate the technology into a DNA-based diagnostics technology,       leading to seed venture funding from IP Group in 2013.
+The company was       formed in March 2013 and now works on three products.
+Firstly, in a development programme with a consultant in Sexual Health       &amp; HIV Medicine, NHS Greater Glasgow and Clyde and funded by the NHS,       SAW-Dx is developing integrated diagnostics for sexual health.
+The product       uses the company's proprietary technologies for sample preparation and       rapid detection, including a new acoustically driven, multiplexed DNA       isothermal amplification protocol.
+The aim is to break the cycle of       infection and treatment, by providing rapid diagnosis of a panel of       pathogens, enabling the patient to be treated prior to leaving the clinic.
+A second product, focussed on food security, has seen SAW-Dx adapt its       multiplexed human DNA technologies for sexual health to veterinary       applications, with a specific focus on disease diagnosis in cattle and       buffalo artificial insemination stations in India.
+India produces 125bn       litres of milk per annum and the `white revolution' of cow and buffalo       milk production underpins its economy.
+SAW-Dx works on developing these       products with the Indian Veterinary Research Institute and the UK Animal       Health and Veterinary Laboratory Agency.
+Finally, SAW-Dx has also secured a TSB grant (TS/L003392/1), working with       MV Diagnostics Ltd and Epigem to develop DNA and protein biomarker tests       for tuberculosis (TB), and sees longer-term products based upon developing       assays for rapid TB testing.

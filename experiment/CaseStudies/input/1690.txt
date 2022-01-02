@@ -1,0 +1,23 @@
+     Cranfield's research on the ground vortex formed when jets hit the ground       in a cross-flow [P1, P4] fed into the development of the Joint Strike       Fighter (JSF) Our results showed that the ground vortex was 20% further       away from the aircraft when a moving ground plane was used, simulating a       rolling vertical landing vs hover in a head wind, simulated with a fixed       ground plane.
+The wind-tunnel test programme for the JSF jet effects,       involving over 4000 hours in a large multi-national facility, used a fixed       ground plane.
+This programme alone is estimated to have cost some &#163;5       million; a moving ground plane for such a facility would have cost an       additional &#163;4 million.
+Our findings allowed the fixed-ground results to be       corrected by engineers in BAE Systems and Lockheed Martin, without the       need for an expensive moving-ground simulation, [C1].
+Similarly, BAE Systems used our work on wall-jet development [P2] to       predict safe operating conditions for ground personnel working in the       vicinity of a V/STOL aircraft [C2].
+Wall jets, produced by propulsion jets       hitting the ground, grow in thickness radially and with increasing nozzle       height above the ground.
+Our work showed that the rate of growth with       nozzle height is not linear, contrary to extrapolations from       previously-published data, and that above about 10 nozzle diameters the       growth rate of the wall jet reduces significantly.
+This allowed much more       accurate predictions of the thickness of the wall jet produced by a       landing aircraft.
+This, in turn, allows smaller exclusion zones for ground       personnel and, hence, allows a less restrictive operating envelope for the       aircraft.
+Our research on jet/intake interactions showed that there was a mutual       aerodynamic interference which would not have been accounted for by       separate powered wind-tunnel model and independent intake tests.
+Nevertheless, this effect was shown to be sufficiently small that it did       not require the expense and complexity of fully-powered wind-tunnel models       with simulated jets and intakes to be mounted on force balances [C1].
+These results fed into the development of the JSF to provide confidence in       the separate testing of jets and intakes.
+A combined model, with both       powered jets and powered intakes, would have been impractical and would       have cost more than &#163;1M.
+Our research saved this expense and gave       designers increased confidence in the validity of their design, mitigating       the risk of an overly restrictive operating envelope for the aircraft.
+Overall, an improved, more accurate design process allows for a shortened       flight-test programme.
+For a complex V/STOL aircraft like the JSF, even a       straightforward flight-test programme costs more than &#163;100M; many times       more if poor design decisions have been taken.
+Cranfield's work on co-annular jet flows led to the conclusion that a       gas-driven lift fan, producing a jet with a high-speed outer stream and a       lower-speed inner stream, was not a viable solution for a V/STOL aircraft       because of thrust loss when close to the ground.
+This allowed government       and industry to drop this as a design possibility, saving many &#163;billions       in wasted development costs, [C3].
+The impact of Cranfield's research was enhanced by the delivery of a       series of continuing professional development courses to engineers and       project managers from industry and government agencies.
+The course,       "Fundamentals of V/STOL Aircraft Design with Joint Strike Fighter       Applications", has so far been delivered by international experts eight       times in the UK and the US, with Cranfield staff delivering lectures on       V/STOL jet effects.
+The most recent courses ran in Fort Worth, Texas       (2009), home of Lockheed Martin's Joint Strike Fighter engineering and       assembly facility, and in Patuxent River Naval Air Station, Maryland (2010       [C4]), where the Joint Strike Fighter is undergoing flight testing.
+More       than 300 delegates, primarily from industry and government agencies,       attended these courses, which provided both broad and deep knowledge of       the varied technical aspects of V/STOL jet aircraft design.
+The courses       raised the competence levels of the design teams and helped them to ensure       the validity of their designs [C1].

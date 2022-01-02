@@ -1,0 +1,33 @@
+     Our research led to the creation of new user-friendly control, navigation       and communication systems for powered-wheelchairs that have made a       significant and positive impact on the lives of disabled individuals       [Sources 1-6].
+New technologies and processes have been adopted and       approximately 1500 people benefited from using the new systems between 08       and 13 (mainly children and young people with complex physical         disabilities and health needs) [Sources 7,8].
+The new systems have       been used in schools (e.g: RNIB Sunshine House, Grove Park, Chailey       Heritage, Victoria Specialist College), homes (e.g: RNIB Children's Home       and Finches residential home) and many private dwellings; allowing many       children to use powered-wheelchairs for the first time.
+Prototype original       systems were featured in the ITV program "Good for You" and they and the       latest systems can be seen at: https://www.facebook.com/PortsmouthUniversityMobility.
+The initial work with the Action Research Charity and a wheelchair       manufacturer (QED) resulted in a new wheelchair design and improved       joystick, which won the Gold Award in the special needs category for       innovation at the Education Technology Awards (presented by David         Blunkett) [Source 7].
+More recently in 2011, Langner received a       prestigious award for the research from Well Child, a national children's       charity [Source 2].
+Following a series of symposia run by Sanders and attended by staff from       the NHS and CH [Source 7], subsequent meetings and conversations led to       NHS and CH supporting the research by conducting testing and clinical       trials, whilst CH and a spinoff company (Langner Associates) built       the new devices.
+Other industrial partners, including QED and a software       company (Key Industrial Software Solutions - KISS), took part in KTPs,       secondments and fellowships to support creating the sensor systems and       developing the AI systems [Source 4].
+Major impact may be divided into three categories: (a) Health Impact -       Improved quality of life; (b) Economic impact; and (c) Impact on       professional services.
+(a).
+Health Impact - Improved quality of life     Users' quality of life has been significantly enhanced.
+In particular,       obstacle detection and veer- correction systems have allowed children with       limited dexterity to use powered-wheelchairs for the first time [Source       1].
+The research has also enabled users to drive for longer with greater       protection so that they can manoeuvre in new environments, such as driving       on pavements and incorporating more activities into their lives.
+It has       made a significant positive difference to these people's lives, giving       disabled individuals more confidence, independence and freedom [Source       1-6].
+The systems have been used in schools and institutions as well as in       private homes.
+(b).
+Economic impact     The research has led to significantly reduced healthcare costs.
+For       example, reducing the need for carers alone has been estimated at more       than &#163;250,000 p.a.
+[Sources 7, 8].
+Further, costs of the systems have also       been significantly reduced due to new designs and use of cheaper       alternatives.
+For example, SCAD has been reduced from about &#163;3,150 per       unit in 2008 to about &#163;2,350 in 2013.
+(c).
+Impact on professional services     The research has also prompted changes in professional service practices       in that powered- wheelchairs are now always considered as an option       [Sources 8-9].
+The new systems have been applied in schools, NHS, various       disabled community groups, in private homes and for individuals.
+New       technical standards and clinical protocols have been introduced [Sources       5,7- 9].
+Professional guidelines and training have been informed by the       research and health outcomes have improved because of the availability of       the new systems and the new ways that people are trained on them.
+Changes       have also been made to patient care practices [Sources 5,8,9].
+Research at UoP has also created fly-by-wire systems for wheelchairs,       which is being used by children there.
+Working in partnership, the team       has identified ways of measuring and improving user competence, leading to       new methodologies currently being used by NHS therapists to teach users       how to drive.
+Research also supported analysis of driver behaviour at CH       before, during and after collisions.
+Further investigations into assisted       steering and the effects of system and helper intervention led to the       development of algorithms which allowed users to crash safely on occasion       so that they could learn corrective behaviours.
+That technology is being       used now but is also being constantly improved; for example, reduction of       scanning times has led to new, faster and responsive processes that are       replacing some of the older systems in schools and institutions, hence       further improving the lives of the users.
+[Sources 7,8].

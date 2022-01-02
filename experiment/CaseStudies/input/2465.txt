@@ -1,0 +1,44 @@
+     Impact on commerce: company purchase and products brought to market         with licensed IP     Commercially significant products have been developed directly from UoE       research since 2008, including the gold standard medium for stem cell       culture.
+The 1994 PNAS publication [1] led to the filing of a patent for "Isolation,         Selection and Propagation of Animal Transgenic Stem Cells", known       globally as "The Edinburgh patent".
+In the same year,       former UoE postdoc [text removed for publication] and others established a       company called Stem Cell Sciences (SCS) in Australia.
+UoE entered into a       partnership with SCS through a license agreement enabling them to       commercialise the intellectual property that arose from our research in       Prof Austin Smith's lab.
+The `Edinburgh patent' was included in the       license agreement and it helped SCS raise capital from investors.
+In 2004,       SCS moved its headquarters to the UK, strengthening the commercial       partnership by basing the company in rented laboratory space within the       School of Biological Sciences.
+Commercially-available stem cell reagents       and media were developed by SCS based on UoE research over this period.
+The company relocated to Cambridge in 2008 and was subsequently sold to       StemCells Inc. (StemCells) for 2.65M shares and approximately $715,000 in       cash [a].
+As a result of the acquisition, licensing agreements between UoE and SCS       (which included six further UoE patents arising from work published by UoE       [papers 2-6]) passed to StemCells.
+This included proprietary cell       technologies relating to embryonic stem cells, induced pluripotent stem       (iPS) cells, and tissue-derived (adult) stem cells all derived from UoE       research.
+As part of the acquisition, StemCells added 20 employees, based       in Cambridge, UK or Australia, to the 55 employees already on their       payroll.
+StemCells brought the media product, iSTEM to market in 2009 [b].
+iSTEM was developed from the research published in 2008 [5] and covered by       the UoE patent (EP1863904 A1).
+iSTEM is the gold standard media used       worldwide by researchers for maintaining mouse ES cells in their basal,       non-differentiated state.
+It eliminates the requirement for LIF, serum and       feeder cells and due to the selective small molecule inhibitors that act       on the ERK and GSK-3 pathways the media prevents differentiation and       enables ground state self-renewal.
+Marketed and sold by StemCells, iSTEM       retails at &#163;170 per 100mls.
+It is also sold on licence from StemCells by       Millipore, the global life-sciences company.
+The product NDiff 227 (marketed as NDiff N2B27 prior to Oct 2012)       is a defined, serum-free medium for the neural differentiation of mouse ES       cells in adherent monolayer culture conditions, as described in 2003 [3].
+NDiff 227 is sold by StemCells and also distributed and sold through       Millipore.
+[c,d]     GS1-R, the first fully defined serum-free culture media for the       ground state maintenance of authentic rat ES cells was launched by       StemCells in January 2010 [e].
+This was developed from knowledge protected       by the UoE patent EP2049654 A2, "Pluripotent cells from rat and other       species", published in 2008 [6].
+RHB-A media for neural stem cell culture was invented and sold by       SCS and now by StemCells [f].
+The development of this product was built on       UoE IP which derives from the research published in paper [3].
+ESGRO-2i is a defined LIF-containing medium to enhance viability       of mouse ES and iPS cells and increased maintenance of pluripotency [g],       derived from the work in paper [5] and patent EP1863904 A1.
+ESGRO-2i was       developed and sold by Millipore under licence from StemCells.
+Details on revenue and profit to StemCells Inc. arising from this       portfolio of products are not available due to commercial confidentiality.
+We can report with StemCells' permission that income to the UoE from the       combined license portfolio is [text removed for publication] during the       REF census period, representing only a fraction of the total commercial       sales value from these products.
+Patents:            University of Edinburgh (AG Smith, PS Mountford) (1994), Isolation,           Selection and Propagation of animal transgenic stem cells.
+"The         Edinburgh patent".
+Europe, Israel, Japan, New Zealand, USA.
+WO1994024274A1.
+University of Edinburgh (AG Smith, Ming, Li) (2008?
+), Lineage           specific cells and progenitor cells.
+Israel and USA.
+Patent         EP1115840 B1       University of Edinburgh (Ian Chambers, AG Smith) (2003), Pluripotency           determining factors and uses thereof.
+Europe, Singapore and USA.
+Patent EP1698639 A3, WO/2003064463 A3, PCT/GB2003/000366.
+University of Edinburgh (L Conti, S Pollard, QL Ying, AG Smith)         (2005), Control of neural stem cells.
+Israel, UK, NZ and         Singapore.
+Patent WO/2005/121318, PCT/GB2005/002289       University of Edinburgh (QL Ying, AG Smith) (2006), Culture medium           containing kinase inhibitor, and use thereof.
+UK, Europe and USA.
+Patent EP1863904 A1, PCT/GB2006/001064       University of Edinburgh (QL Ying, AG Smith) (2006), Pluripotent           cells from rat and other species.
+UK.
+EP2049654 A2

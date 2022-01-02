@@ -1,0 +1,39 @@
+     (numbered outcomes are as declared in Section 2.
+Evidence items         (section 5) cited by letter, e.g., 5A, 5B.
+References (section 3) cited         as 3.1, 3.2 etc)     Our maintenance of UncertML as a free and open standard with excellent       documentation, supporting toolkits and version control has facilitated its       use by industrial, research and policymaking bodies worldwide to make more       informed use of their data in real-world settings.
+This open approach is       well established as the best route to impact for markup languages: their       impact depends on widespread adoption by many stakeholders.
+We have made       strategic use of collaborations (e.g.
+European projects, research       networks) to promote international usage of the language and tools.
+The       other key aspect of creating impact is standardisation, so that data can       be shared and systems interoperate.
+This is being actively pursued.
+In       March 2013, UncertML was specifically recommended by the US Library of       Congress for digital data collections [5G].
+In 2012 the Aston team generated tools for utilising UncertML, including       a Web-based elicitation suite and tools for sensitivity analysis and model       emulation.
+The tools are already well adopted: e.g.
+the elicitation tool       alone has over 150 external users across the world, including the Centre       for Workforce Intelligence, US Fish &amp; Wildlife Service, California       Ocean Science Trust, Swaziland National Trust Commission, UK Health       Protection Agency, Sandia National Laboratories (DoE), Australian Customs       and Border Protection Service and the Nuclear Decommissioning Authority       [5D].
+(Outcomes: 1, 3, 4, 5)     Policy and decision-making (Outcomes: 1, 3, 4, 5).
+The UK Food and Environment Research Agency (FERA) used UncertML and       associated Aston tools in 2011-12 to predict food security in the UK.
+FERA       created a workflow to assess the likely impact of climate change and       farmer behaviour on wheat production in the UK.
+This demonstrated that       when uncertainties are properly accounted for, the impact of climate       change on production is impossible to confidently predict using current       data.
+This important result highlights "the overwhelming risk of       policymaking with data of limited quality and the need for focussed       improvements in model inputs to predict and respond to future variability       in production and its economic effects" (FERA, 2012).
+This work was       presented in April 2012 to the Chief Scientist within the Department for       the Environment and Rural Affairs (DEFRA), and their intention is to use       similar approaches in policy setting in the future.
+UncertML specifically       contributes here because the workflow can be easily re-run with data       pulled from real-time sensor networks or alternative climate models with       no loss of statistical detail, allowing multiple scenarios to be tested       with much less investment of time and effort.
+[5A]     UncertML is integral to the eHabitat tool developed at the European       Commission's Joint Research Centre (Italy), as part of the Digital       Observatory for Protected Areas, which allows stakeholders to monitor and       forecast biodiversity, and presented to the UN Convention for Biological       Diversity.
+The Hyderabad meeting of October 2012 recognised these tools as       vital in building capacity towards Aichi Biodiversity Target 11, which       aims to safeguard inland water, marine and coastal ecosystems.
+[5B]     Environmental forecasting, monitoring and protection (Outcomes: 1, 3,         5).
+The Norwegian Institute for Air Research (NILU) used UncertML and       associated technologies in 2012 to develop a prototype probabilistic air       quality forecasting system for Oslo, Norway.
+The system allows NILU to       provide uncertainty estimates on forecasts of two key pollutants affecting       human health, nitrogen oxides and particulate matter.
+NILU are "exploring       the production of an operational system which will communicate confidence       in the forecasts to decision makers (particularly local authorities), who       may then better inform the public and plan the management of the transport       system" (NILU,June 2013).
+[5C]     Contribution to international standards (Outcomes: 1, 2, 3, 4).
+UncertML was taken to the Open Geospatial Consortium (OGC), the main       international geospatial standards body, as a discussion paper [3.4].
+The       online UncertML vocabulary and schemas are accessed by over 200 unique       users per month [5D].
+UncertML was adopted within the 2010 GEOSS architectural implementation       pilot 3 (AIP-3) as the sole recommended method for harmonising the       representation of accuracy [3.3].
+GEOSS (Global Earth Observation Systems       of Systems) is the global network of content providers allowing decision       makers to access information from observing systems such as satellites and       sensor networks.
+This work led to the GeoViQua project, which incorporates uncertainty       into GEOSS and into the GEO (Group on Earth Observations) portal [5C,       3.6].
+GeoViQua's UncertML-based schemas were accessed by 378 unique users       last year [5E].
+UncertML underlies NetCDF-U, an uncertainty-enabled profile of the       popular NetCDF data transmittal standard which was developed at the       Institute for Atmospheric Pollution, Italy, presented to the OGC's Earth       System Science Domain Working Group and taken up as a discussion paper in       November 2011.
+UncertML is actively used since mid-2012 in data encodings for other       scientific domains: e.g., CellML, PharmML and Systems Biology Markup       Language (developed at the European Biological Research Institute) [5F].
+International collaboration and data sharing (Outcomes: 1, 2, 3, 4,         5).
+UncertML is widely used to define unambiguously uncertainties in Earth       observation.
+In Europe UncertML was used (2010-present) across several       major projects including ENVISION, NETMAR, EO2Heaven, EnviroFI and SANY       [5H].
+These projects represent key developments towards an interoperable       geospatial infrastructure and will have significant long term benefits for       the ways we observe and model our environment.
+In Australasia, UncertML is used by government institute Landcare       Research New Zealand in their GSMML data format, proposed as the       international standard for the Global Soil Map [5I] which aggregates data       from 194 countries to generate a vital resource for `better decisions in       global issues like food production, hunger eradication, climate change,       and environmental degradation'.

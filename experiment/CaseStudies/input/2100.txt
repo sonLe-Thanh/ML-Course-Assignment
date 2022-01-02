@@ -1,0 +1,36 @@
+     National Grid (NG) provides the gas transmission infrastructure       for the entire country whilst gas       distribution networks link this infrastructure to users.
+Within this       transmission system, a sustained       level of discrepancy exists in the accounting of gas, leading to Unaccounted         for Gas (UAG).
+Identifying and reducing UAG is of major importance to NG and its       regulator, the Office of Gas and         Electricity Markets (OFGEM) [E3], as it is a sign of problems such       as meter error and results in       accrued costs and potentially unfair billing.
+In 2009/10, the volume of       UAG was estimated at       7720GWh (total cost of &#163;100million [E1.
+Pg1]).
+Tracking down the source of       UAG can be difficult       as the causes may include shrinkage, weaknesses in measurement or       accounting processes.
+The research conducted by the Industrial Statistics Research Unit       (ISRU) at Newcastle University       has produced effective data mining methods for revealing hidden patterns       and detecting their       causes.
+The resulting tailored analysis and data mining software has       changed the way       professionals utilise the data [E4] making it feasible to extract valuable       information from operational       gas flow data and help National Grid (NG) deal with the issue of Unaccounted         for Gas.
+Although       current methods employed by their staff were effective, NG felt that they       could be improved and       invited Coleman (from 2008 onwards) to explore the application of       statistics and data mining on       energy balance data to gain further advantage.
+Newcastle University has helped NG significantly reduce the volume of UAG     with benefits that     reach to all providers and users of gas throughout the UK.
+The research has     led to a step change     in the processes that NG use [E2, E4] to utilise their data and the related     working practices.
+The     new decision tree analysis methods helped identify a source of UAG in 2010,     resulting in &#163;14     million being returned to the community in a single year [E1, pg.
+4].
+As a     result of the benefits     achieved by initial changes, NG have adopted these procedures and     staff-training in the statistical     and data mining methods developed at Newcastle University have been     introduced ensuring our     work continues to have a lasting effect.
+The 2013 UAG report shows a further     reduction of over 20     million kWh of UAG since 2010 [E2, pg.
+10] and notes the discussions with     ISRU and the potential     for further investigation to identify UAG causes.
+In addition to the benefit of better accounting, some further impacts are       presented below:     Improving accuracy of leakage estimates     Our work validating the collection of information to determine accurately       the volume of gas lost       from the system due to leakage from assets and the statistical findings       provided a sound basis for       investment in leakage strategies.
+The leakage rates were used to develop a       shrinkage model       (National Leakage Reduction Monitoring Model) which is currently used by       all of the UK Gas       Distribution Networks, to estimate the impact of mains replacement on       leakage, as corroborated in       [E5].
+In [E6, pg.
+35, 2011], it is stated: "Given the rigorous assessment of         the sampling, collection and         analysis of results carried out in the National Leakage Survey 2002/3,         and the assessment by the         ISRU, the AUGE believes the leakage rates used by the GTs for the         calculation of shrinkage are         reliable and unbiased" and "The leakage rates have a 90%         confidence interval of &#177;19.4%".
+AUGE       is the Allocation of Unidentified Gas Expert and GT refers to Gas       Transporters (including Gas       Distribution Networks whose assets link NG's transmission pipelines to end       users).
+This work, in       2010 has been highlighted as an exemplar of research with direct economic       impact by the Russell       Group [E7, pg.
+15].
+Improving the safe management of the system     Our work has been instrumental in achieving a transformation in the use       of statistics to support       operational and management decision-making [E2, pg.
+23].
+Newcastle       University's Statistical         Process Control (SPC) charts provide immediate insight of safety       performance by charting       measurements with control limits.
+Dashboard presentation continues to be       valued as corroborated       in [E4] which states that SPC charts are "a powerful management         decision making tool" and that       the methods "continue to have a positive impact on the safe and         efficient management of the UK         gas transmission system".
+Improved monitoring of UAG levels &amp; better stakeholder relations     We created a process flow map for UAG used by NG [E3] which includes all       steps in the gas       transmission process; each step has been examined in terms of stakeholders       and influences.
+Our       work is essential because it helps distinguish periods when UAG is stable       and periods where there       are statistically significant changes.
+Therefore when a significant change       arises, staff can identify       the likely causes and prioritise which meters to investigate; they have       evidence to empower them,       which has led to a better dialogue with meter owners and more effective       problem solving.
+NG professionals have used our research findings to be confident in their       estimates of the       contribution of UAG from the transmission system and to develop effective       communication       between the different stakeholders.
+The software and statistical advice       continue to have a positive       impact on the assessment and exploration of UAG as corroborated in [E3].
+Newcastle University research has contributed to NG's good relations with       OFGEM and the Health       and Safety Executive.
+Our work has led to a high standard of data       investigation, and to NG being       credited for their sound scientific approach.
+Our reports have been used       to show how serious NG       are about continuously improving their processes, particularly during       negotiations on pricing and       other control policies, for example [E6, see pg.
+35 &amp; 36].

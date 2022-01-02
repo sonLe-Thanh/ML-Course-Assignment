@@ -1,0 +1,20 @@
+ Cranfield's work in hydrocarbon remediation has produced new practical analytical methods with applications in industry.
+We have created a roadmap for risk reduction and promoted soil remediation, and made the methods widely available through commercially available toolkits.
+Our work has improved the technical capability of our industrial partner Eurofins EGS (formerly TES Bretby).
+The company grew by 70% during the later stages of this project following the award of the 2012 Olympics Park testing contract in London.
+The company is confident to have achieved the objective of 2% increased analytical sales.
+The company estimated an overall of &#163;200k per annum saving on their hydrocarbon analysis costs including: (i) reduced use of solvents, saving &#163;100k per annum, (especially due to reduced use of chlorinated solvents by 90%); (ii) improved laboratory throughput (4 fold faster than using previous methods): &#163;80k per annum on-going saving) and; (iii) reduced quality control failures by either incomplete extraction of surrogates or cross contamination (Estimate &#163;20k per annum on-going saving) [C5].
+The UK Standing Committee of Analysts `Blue book 2012' of accredited analytical methods for petroleum hydrocarbons now includes the analytical method [P5] developed under the BBSRC Bioremediation Link programme 2004-2008 [G5].
+This addresses ISO17025 for TPH analysis, banding and class separation, and complies with the Environment Agency's Monitoring Certification Scheme (mCERTs)).
+Our research laid out a road map of the logical steps involved in the demonstration of risk reduction within process-optimised technology and provided a set of practical and cost efficient soil quality management tools in 2008 [C1,3,4].
+As with many large companies, BP International [G5], Shell UK [G4] or NationalGrid [G3] (our industrial partners) engage a range of consultants to carry out site investigations, design remedial strategies and to carry them out.
+However there has been a lack of continuity in strategy and transparency except when single contractor has worked on numerous sites, which the roadmap has addressed.
+By promoting a greater understanding of the remediation technologies, both internally and externally, we have aided strategic decisions of our industrial partner, Remedios Ltd [C1] on their future direction in terms of the ex-situ remediation market in 2009 [P3].
+Our application of fugacity-based multimedia models [P2, 4 &amp; 6] for predicting the phase distribution and concentrations of organic contaminants during remediation treatment has been used to address the key issues of identifying the source of risk, the perception of risk and the appropriate societal response to this problem [C1,2].
+Particularly our combined hazard and risk diagnostic strategy approach demonstrated that information obtained could meaningfully be used to assess constraints of bioremediation and most significantly help to avoid unnecessary expenditure [C1,2,4].
+Our research led to a decision-support tool kit with our industrial partner Remedios Ltd in 2008 [P3; C1].
+The tool kit was initially designed for sites contaminated with weathered hydrocarbons focusing on sites characterisation and risk-based approach where biopiling and/or turned windrows were proposed as a treatment option.
+Cranfield broadened the tool kit to all remediation technologies for contaminated lands and waters with the perspectives of facilitating and assisting in a transparent decision making process.
+The tool is available at: http://www.abdn.ac.uk/remediation-dst/.
+Our technical contribution has been published via CL:AIRE website in 2010 which ensured (i) a targeted delivery to ca.
+4500 contaminated land practitioners and advisors, (ii) effective knowledge transfer to the remediation and consulting community [C3,6].

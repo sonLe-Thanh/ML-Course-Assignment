@@ -1,0 +1,34 @@
+     Many systems that require communication over an internetwork and the       Internet, in particular,       require robust cryptographic mechanisms.
+Typically, a large-scale system       or application may be       designed to last for 20-30 years, and cryptographic mechanisms are       expected to be resilient to       changes in the capabilities of attackers and hardware.
+Good practice       demands that systems       developers refer to international standards, particularly where issues of       interoperability and security       are concerned.
+In short, the impact of a change to a standard is,       therefore, far-reaching and long-       lasting.
+We now discuss the impact of Mitchell's research on international       standards.
+In brief:            the analysis of RMAC [4] and of MacDES [2,3], which disproved the         originally anticipated         security benefits, led to a revision of ISO/IEC 9797-1 [6].
+the analysis of a Diffie-Hellman key agreement mechanism [5]         necessitated changes to the         ISO/IEC 11770-3 standard [10-12] (which now references Mitchell's work &#8212;         reference 19 in         the bibliography of ISO/IEC 11770-3:2008 [11] is the same as [5] above,         and is cited on         page 10);       the analysis of entity authentication protocols [1], first published         as a preprint in 2008         (http://eprint.iacr.org/2008/419),         resulted in ISO asking Mitchell to correct six standards         documents [7-12].
+Evidence of the relevance of Mitchell's research to, and its impact on,       security standards includes       the fact that Mitchell was the winner of the prestigious IEC       (International Electrotechnical       Commission) 1906 award for outstanding contribution to standardisation (in       2010).
+The impact of       this case-study research is now further discussed under two categories;       MACs and Entity       Authentication/Key sharing.
+A MAC is a fundamental cryptographic mechanism used in almost all       security systems and       protocols to ensure the integrity of the received data and to authenticate       (confirm the identity of) its       source.
+If a standardised MAC is ineffective then messages (that are       assumed to be invulnerable       to tampering) may be maliciously modified and accepted as genuine.
+Without       a reliable MAC, a       party can neither rely on the data it receives nor the identity of the       entity that (claimed to have) sent       it.
+Given that MACs are an integral part of security protocols such as SSL       and every system that       employs symmetric cryptography, the existence of a flaw in a MAC algorithm       could have very       serious consequences.
+In the global financial world alone such a flaw       could jeopardise the trillions       of dollars of e-commerce transactions.
+If we consider the UK, there were       164 million payment       cards in 2012 accounting for transactions totalling &#163;474 billion (UK Cards       Association).
+In the UK       banking industry there were 7 billion inter-bank transfers, of which 6.3       billion were electronic and       reliant on cryptographic protocols.
+Mitchell's research discovered a flaw in the RMAC mechanism that was       being standardised by the       National Institute of Standards and Technology (NIST).
+As a direct result,       NIST removed RMAC       from the standard in 2005.
+MacDES had been proposed as an improvement to       existing MAC       mechanisms with the expectation that companies/governments would       eventually migrate to the       'improved' solution.
+Mitchell showed that the security properties of       MacDES were no better than       earlier mechanisms, thereby saving organisations from performing extremely       costly and unjustified       system upgrades, and avoiding damage to ISO's credibility.
+The current       version of ISO/IEC 9797-1       [6], published in 2011, continues to include references to Mitchell's       research on attacks against       MACs: references [17] and [18] in the bibliography of ISO/IEC 9797-1:2001       correspond to [2] and       [3] above, and are cited on page 33 of ISO/IEC 9797-1:2011; other       influential work by Mitchell is       listed in the 9797-1 biography as [22] and [23], which are cited on page       32.
+In summary.
+Mitchell's       contribution to our understanding of MAC algorithms and their       vulnerabilities over the last 15 years       has led to substantial improvements to international standards, thereby       having a wide and lasting       impact on the development of secure ICT systems.
+Entity authentication and key agreement mechanisms are fundamental       aspects of secure       communication, both being a prerequisite to the establishment of a secure       cryptographic channel.
+These mechanisms are particularly important for communication over an       internetwork, when the       communicating parties may not share a cryptographic key in advance.
+Thus,       the correctness of       entity authentication and key agreement protocols benefits all users of       the Internet and is vital in       the growing machine-to-machine communications market.
+If entity       authentication fails then a       protocol participant cannot verify the identity of the party with which it       is communicating.
+Flaws in       authentication allow for impersonation attacks, such as fake e-commerce       web sites, phishing, and       identity and data theft.
+Moreover, if the key agreement mechanism is       flawed, then transmitted data       (which could include PINs, passwords, personal and financial details) may       be accessible to       attackers.
+The ISO/IEC 9798 standard is the most influential standard for       authentication protocols.
+Mitchell's       research determined that there were significant vulnerabilities in these       protocols (a fact missed by       many other experts) and, as a result, was asked to make changes to parts       2, 3 and 4 of this       standard and also to parts 2, 3 and 4 of ISO/IEC 11770 to remove the       vulnerabilities.
+In separate       work, Mitchell also discovered that part 3 of ISO/IEC 11770 did not       describe a valid/precise use of       the Diffie-Hellman key exchange protocol.
+Mitchell was asked to provide       correct guidance for the       use of the key exchange protocol and his research is referenced within the       current standard.
+This       has resulted in the publication, in 2009 and 2010, of technical corrigenda       to parts 2&#8212;4 of both       ISO/IEC 9798 [7-9] and 11770 [10-12].

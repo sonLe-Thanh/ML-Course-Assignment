@@ -1,0 +1,40 @@
+     MERI's HIPIMS research has achieved three streams of economic impact:       roll out of HIPIMS surface pre-treatment methods through coating system       manufacturers; direct collaboration with product manufacturers; and       discipline leading activities associated with the joint SHU-Fraunhofer       HIPIMS Research Centre.
+Economic impact by roll out of HIPIMS surface pre-treatment methods           and other patents     In parallel with their academic research and publications, Ehiasarian and       Hovsepian have developed a portfolio of patents to protect the IP in their       HIPIMS innovations.
+Commercially, the most important of these has proved       to be EP1260603B1 [A] (filed 2001, granted 2006, validated in 12 EU       states), relating to the HIPIMS surface pre-treatment stage in the coating       production process [1].
+This patent has been monetised by equipping       coating systems with special (licensed) modules that deliver the       pre-treatment described in [A].
+MERI's HIPIMS pre-treatment technology has       been licensed non-exclusively in this way to four leading PVD coating       system manufacturers: Ionbond AG (Switzerland) [C]; SVS Vacuum         Coating Technologies GmBH &amp; Co (Germany); Hauzer Techno         Coating AG (The Netherlands) [D]; and CemeCon AG (Germany).
+This has achieved two classes of beneficiary: the coating system       manufacturers, whose systems have been enhanced through incorporation of       the MERI module; and system purchasers, who have acquired the capability       of producing enhanced components.
+HIPIMS technology has become a key       activity of Hauzer Techno Coating (~200 employees) [D] and CemeCon       in the REF impact period.
+Licence revenue paid to SHU (at a rate of &#8364;50k for entry to the programme       and &#8364;25k for each sale or retrofit of a coatings system) explicitly links       the system manufacturers and purchasers to the research described in section         2.
+In the REF impact period, six licensed systems have been       manufactured and two more retro-fitted.
+These have generated more than &#163;5m       of sales to the manufacturer beneficiaries and &#163;238,089 of         licence income to SHU.
+All licences (including those established       before the REF period) will run through to expiry of the patent [A] in       2021.
+As a result, the operators of ten coating systems have been beneficiaries       in the "system purchasers" sense over the REF impact period.
+Ehiasarian       and Hovsepian have no direct interaction with the "system purchasers", so       their specific uses of HIPIMS, and the associated sales figures, are in       commercial confidence.
+However, typical applications are known to include       wear and oxidation-resistant coatings for automotive engine components,       resulting in longer lifespans and higher operating temperatures, and       special coatings for dry high-speed machining tools, which yield enormous       improvements in cutting-tool lifetimes and machining speeds.
+Each of the       ten HIPIMS systems equipped with the MERI surface pre-treatment stage has       the capacity to produce &#163;10+m of components per year.
+Systems have been       operating on two shifts per day to produce a range of high-value       components [C,D].
+In 2006 a further patent application was made to protect bias power       supply designs developed within an industrial collaboration.
+This was       granted in the UK (GB0607269B) and China (CN101461032B) [E] and remains in       application stage in Europe, Korea and Japan.
+It is co-owned by SHU, Hauzer         Techno Coating [D] and Huettinger Electronic Sp z.o.o.
+[F],       with Ehiasarian and Hovsepian the leading inventors.
+This technology was       commercialised in 2010, the two industrial co-owners retaining       manufacturing and sales rights.
+Within the REF impact period, it has       resulted in power supply unit sales exceeding &#163;1m (beneficiaries Hauzer,       Huettinger and their clients) and licence income to SHU of       &#163;15,181k.
+Later patent filings by Ehiasarian and Hovsepian cover aspects such as       differing coating types and technical advances such as high rate       deposition, rare metal ion etching and inductively coupled etching.
+These       have not earned any income in the REF impact period, but have been       maintained within the overall IP portfolio due to their continued       commercial potential.
+Economic impact by direct collaboration with product manufacturers     Within the second impact stream identified above, Ehiasarian has       delivered or started delivering collaborative and/or licensed research to       a series of large manufacturers.
+In each case, the manufacturer is a         beneficiary through enhancements made to their products.
+These       include large licence contracts with Mahle (&#163;50k)       [vi] and Biomet (&#163;100k pa for three years) [ix] to develop       coatings for automotive piston rings and metal-on-metal hip implants,       respectively.
+Additional collaborations yielding economic impact         through product enhancement include:            a &#163;100k project funded by OC Oerlikon Balzers (2006-10), to         develop HIPIMS coating deposition technology to allow writing of         miniaturised 3D-Integrated microelectronics devices.
+The company has         integrated this capability into its Clusterline 200 system, a         multi-stage coating machine, leading to sales exceeding &#8364;20m;       a 2008-11 collaboration with the Space Science Technology Department         of the Rutherford Appleton Laboratory (RAL) [vii], through which         coatings developed by the Ehiasarian group overcame a long-standing         issue with RAL's cryo-coolers for satellite applications.
+This work led         to the satellites being judged flight worthy and superior to competitor         technologies [G];       a 2011 collaboration with The Gillette Company (USA) which         resulted in a granted patent (US7966909B) [H] for a new HIPIMS-based         process for manufacturing razor blades with high aspect ratio cutting         edge and, therefore, improved shaving properties.
+The patent is the         property of Gillette with Ehiasarian and Hovsepian listed as named         inventors;       a 3-year (from 2013) research and development contract with Rolls           Royce to develop HIPIMS technologies appropriate to aero-engine         turbine blades [J].
+Economic impact through discipline leading activities     The symbiotic joint SHU-Fraunhofer HIPIMS Research Centre provides       technical and infrastructural benefits to both partners.
+The resultant       "critical mass" of HIPIMS expertise encompasses the capability needed both       to deliver large projects and also to support strategic industrial       development programmes in the UK, Germany and worldwide.
+This has resulted       in a large EPSRC-supported collaboration on high efficiency solar-cell       glass panels [viii] with Pilkingtons (UK), Gencoa (UK) and       Von Ardenne (Germany).
+The Joint Centre has also started to deliver       HIPIMS expertise to other companies such as Bosch and DOT GmbH,       Germany [B].
+Since the prime function of the Fraunhofer IST is KT       and technology transfer, it can be viewed as a beneficiary under       REF impact, as can the collaborating industrial partners.
+A further broadening of the MERI HIPIMS group's impact relates to the       discipline-leading activities through which it has expanded the field of       HIPIMS and, in particular, its industrial uptake.
+This expansion has       stimulated the development of a network of sub-system and component       providers who are a final group of beneficiaries.
+This includes       providers of analytical equipment, specialist power supplies and magnetron       systems and targets.
+This network is demonstrated by, for example the ~20       industrial exhibitors at the 2012 and 2013 annual International       Conferences on HIPIMS [K] run by MERI and the Fraunhofer IST.

@@ -1,0 +1,25 @@
+     Predicting the distribution of vibrational energy in large coupled       systems is an important and       challenging task of major interest to industry.
+For example, cars contain       many moving components       that may produce resonances resulting in unwanted rattles, vibrations and       possibly dangerous       structural weaknesses.
+Avoiding or eliminating these resonances is a major       design task and       requires a detailed knowledge of the vibrational spectrum of the coachwork       and chassis.
+There are two standard approaches to the problem &#8212; Finite Element Methods       (FEM) and Statistical       Energy Analysis (SEA) &#8212; however, these approaches are either restricted to       the low frequency       regime or rely on assumptions that are hard to control.
+In 2011, Bandtlow       and Tanner (University of       Nottingham) began a collaboration with inuTech (Innovative Numerical       Technologies) to overcome       these limitations and contribute to a black-box implementation of this       novel approach.
+While for low frequencies FEM is preferable, and for high frequencies SEA       is the method of choice,       the novel scheme really demonstrates its value and works best in the       mid-frequency area, where it       outperforms FEM and SEA.
+The method uses finite element meshes based on       the actual topology       of the problem, and does not need any information about eigenmodes.
+Based in Nuremberg, inuTech [6] is an SME targeting engineering       challenges that require       application of mathematical solutions.
+Within inuTech there is a team of       innovative and highly       qualified employees, possessing many years of research and development       experience, as well as       profound scientific competence.
+InuTech has 21 employees with revenue of       1.65 Million Euros.
+As       part of their work they develop products aimed at vibration prediction and       have used Bandtlow's       research and methods [1,2,3,4] to develop these products.
+In 2011, inuTech       engaged with       Bandtlow specifically as a result of his research around operator theory,       with a view towards the       prediction of the distribution of vibrational energy in large coupled       systems.
+The automotive       industry is an example beneficiary of inuTech's products &#8212; cars contain       many moving components       that may produce resonances resulting in unwanted rattles, vibrations and       possibly dangerous       structural weaknesses.
+The application of Bandltow's research and novel       methods ensure that       resonances are minimised and support successful design.
+Between January to March 2011, Bandtlow was partly based at inuTech in       Nuremberg to       collaborate with inuTech, contributing to a black-box implementation of       their approach.
+The       software has progressed as a result of the application of Bandtlow's       research.
+The algorithms       developed are now stable and are able to cope with increasingly complex       situations.
+In March       2011, the decision was taken to incorporate the algorithms into the       software package.
+The       improvements made to the software considerably speeds up and improves the       accuracy of this       part of the design process, resulting in cheaper and safer cars.
+InuTech       acts as a consultant and       software provider for other companies, such as Airbus, opening up       possibilities for further       application.
+In addition to EADS (Airbus), commercially valuable contacts       to Range Rover, Hapag-Lloyd,       and Bombardier have been established and interest in the software has been       expressed by       those parties.
+So far, the software and the consultancy expertise has been       used to approach       problems posed by Range Rover on shock-absorber towers of cars, by       Bombardier for train       design, by EADS for the Airbus fuselage, and by the German Lloyd for the       design of ship hulls.
+The founder and CEO [6] of inuTech says: "The expertise offered by         Bandtlow plays an essential         role for our project to predict vibrational energy distributions in         large built-up structures.
+The         economic success of the implementation of these ideas depends crucially         on his input and I am         looking forward to continue this fruitful and beneficial collaboration         on related projects".
+Impact and       collaboration have been put on a sustainable basis by regular meetings and       visits, the latest in       February 2013, which focused on considerable improvements of the software       implementation as a       result of the use of refined spectral approximations for optimal chassis       design.

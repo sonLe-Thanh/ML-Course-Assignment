@@ -1,0 +1,18 @@
+     Impacts include: health and welfare, commerce, practitioners and services       Main beneficiaries include: patients, health services providers, industry     Development of the FLAIR sequence and its subsequent refinement have       improved the sensitivity of MRI as a diagnostic technique by minimising       confounds from normal brain water to selectively enable sensitive       detection of pathological fluid accumulations in tissue or blood in CSF       (1).
+This has allowed FLAIR to have a substantial clinical impact by       improving diagnosis and patient management in neuroradiological practices       worldwide.
+FLAIR is used as a key diagnostic sequence in almost all       clinical brain MRI protocols for diagnosis and monitoring of a broad range       of neurological disorders.
+Impact has been particularly significant for       imaging in Multiple Sclerosis (MS) and related inflammatory disorders,       stroke and epilepsy.
+FLAIR is recommended in imaging guidelines and is       part of diagnostic criteria use internationally for MRI assisted diagnosis       and therapeutic response evaluations [1, 2].
+FLAIR is also increasingly       utilised for neuro-oncology imaging in both clinical management and drug       trials [3].
+Commercial impact also has been significant.
+FLAIR (or a variant based on       FLAIR in the case of Siemens scanners) is included as a standard brain       imaging sequence by all manufacturers of clinical MRI scanners.
+The global       market for MRI systems was estimated to be &#163;4.3 billion in 2010, and is       expected to grow to around &#163;6.2 billion by 2015, equivalent to an annual       growth of 7.7% a year [4].
+MRI systems made a direct value-added       contribution to UK GDP of around &#163;54 million (in 2010 prices) [5], FLAIR       is incorporated into all of the new MRI machines sold globally [6].
+Currently the greatest demand for MRI procedures in the US is for brain       MRI, with spinal MRI scans running a close second.
+FLAIR is used routinely       in almost all neurological scanning and particularly for brain scanning,       which constitutes a substantial proportion: 25-30% of all MRI examinations       include brain imaging [7].
+It has been estimated that there are over 20       million FLAIR examinations per annum worldwide [7].
+Further indirect commercial impact has resulted through incorporating       FLAIR measures as endpoints in commercial clinical trials (for example in       evaluation of treatment responses for MS, stroke and cancers [8]).
+By       enhancing sensitivity to disease changes, FLAIR imaging has increased the       effect size in early phase trials, hence reducing numbers in trials,       timescale and cost [8].
+With increasing clinical demand for MRI as a pivotal tool in clinical       decision making, FLAIR has contributed to more time-efficient (and hence       cost-efficient) clinical diagnostic protocols, while also improving       potential diagnostic sensitivity [9].
+FLAIR is the T2-weighted imaging       sequence of choice.
+It has notably contributed to improving risk       stratification for patients presenting after a first demyelinating episode       (clinically isolated syndrome), allowing early treatment and thus delaying       the onset of clinically definite MS [10].

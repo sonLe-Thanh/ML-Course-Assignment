@@ -1,0 +1,40 @@
+     The invention and patenting of the XiTRACK technique led to the       development of new innovative technologies to solve long-standing railway       track problems, such as transitions, switch &amp; crossing faults, track       tolerance issues etc.
+In 2001, 2Ei Ltd, which is a spin out company from       ERPE, formed a joint venture company (XiTRACK Ltd) with Hyperlast Ltd.
+In       2003, XiTRACK appointed Balfour Beatty Rail Ltd as the preferred       installation contractor.
+Implementation of XiTRACK across the UK railway network (and now       overseas) demonstrates the application of new technology in engineering       practice, from theory through to actual site application.
+It led to patent       [P1] being filed in 2001 which resulted in the technology being adopted       into the Network Rail (UK) procedures for the solution of ballasted track       problems (Network Rail Approval Certificate No.
+PA05/01995) [S2].
+XiTRACK       allows accurate control of track forces, settlements and transient       deflections.
+What this means is that the track is enhanced in terms of       engineering performance and designability.
+XiTRACK is not applied across       long stretches of track, as it resolves site specific problems, where       stability and issues of track downtime are critical.
+The Technique has been applied at many strategically important sites       across the UK including tunnels, switch and crossings.
+Some examples of       application are listed below:-            Newham Bog: XiTRACK was used to stabilise the trackbed at Newham Bog         on the East Coast Main Line in 2008 to prevent excessive track         maintenance and hence improve track usage.
+The cost of installation of         the XiTRACK element of the track work was &#163;250,000 and to date         performance has been very good [S1].
+Manningtree North Junction: XiTRACK was used to stabilise the track         over an embankment containing switch and crossings situated on the         Colchester to Ipswich line in 2008.
+The solution has significantly         reduced track maintenance at the site [S1].
+XiTRACK was used to stabilise two adjacent high-speed switch and         crossings (2000 and 2008) at Bletchley South on the West Coast Main         Line.
+At the first site 10 years of maintenance free operation (normal         maintenance period was every 3 months [6]) was observed and at the         second site the system was installed to prevent the repeated failure of         the switch and crossing, i.e.
+to stop the formation of rail cracking.
+The West Coast Mainline carries 75 million passengers per annum and 48%         of all UK freight traffic (trains) [S1].
+The technology was used to stabilise the track bed at Clapham Junction         in December 2008.
+It is one of the most important and highly used         railway junctions in Europe with over 2,500 trains passing through         Clapham Junction every day [6] [S1].
+In 2009, it was applied at Hoxton Station on the East London Line to         provide a high fixity solution (within 0.06in [1.5mm] movement) to         ensure that gauge clearances are maintained and hence track safety         assured.
+This track forms part of the line that was used to support the         2012 London Olympics [3] [S1].
+The sites listed above are critical sites to the operation of the UK rail       network and the final site was critical to the transport of passengers for       the London 2012 Olympics.
+The technology is being developed by one of the world's largest chemical       companies, The Dow Chemical Company, and by one of Europe's largest       railway (and construction) companies Balfour Beatty.
+It has led to new       staff appointments at these companies: in Dow Chemicals, polymer chemists       and marketing; in Balfour Beatty Rail sales, technical and track       installation teams [S1].
+The technique has therefore gone full course,       i.e.
+it was developed at ERPE as a new technology, patented by ERPE,       spun-out of ERPE into industry, trialled for a period of 6 years through a       licensing agreement, obtained approval certificate by Network Rail and is       now used to solve real track problems, including critical sites to the       operation of the UK's rail and transportation infrastructure.
+Since 2011       the design process has been formally adopted by Balfour Beatty Rail Ltd to       design XiTRACK track treatments for polyurethane treated sites both in the       UK and overseas, specifically in Italy (Milan Metro slab-track to ballast       transitions 2011) and Hong Kong MTR Station for lateral clearance issues       (University Station May 2012)[S1].
+The Hong Kong MTR operates over 1.5       billion passenger journeys per year.
+This research has significant impact in the development of ballasted       high-speed networks.
+This pioneering work is of particular interest to the       development of the UK High Speed 2 line and hence Woodward has been       appointed as a high-speed track consultant to HS2.
+Strong industry       interest is demonstrated by ERPE consultancy from HS2 [S5] and the       Transport Select Committee discussing ERPE research [S6].
+The advanced geomechanics numerical modelling work demonstrated that the       widely used (US) Federal Railroad Administration (2005) software to       predict ground borne vibrations is simplistic and inaccurate.
+The key       output creating international impact was a more accurate, simple ground       borne vibration demonstration model using neural networks based on the       Abaqus models and verified by the UK/HS1 and Belgian data collection which       is now freely available       (http://www.see.ed.ac.uk/drupal/IIE/infrastructure/railway-engineering/ground-vibration-software).
+"The numerical analyses and ground borne vibration predictions from         High Speed Trains (HST) are particularly important to geotechnical         engineers involved in HST track design in the USA.
+The creation of the         freely available through a weblink to predict these vibrations has had a         substantial impact."
+[S7].
+ERPE has established a Centre of Excellence in High Speed Railways in       partnership with Atkins Global Plc.
+(one of the world's largest       engineering consultancies) [S4].
+Atkins Global is working closely with       ERPE and Woodward has been appointed to the Atkins Chair of High Speed       Railways and has built the UK's largest laboratory railway test track       [S3], which complements the largest full scale outdoor railway test track       at a UK university at the Kings Buildings campus.

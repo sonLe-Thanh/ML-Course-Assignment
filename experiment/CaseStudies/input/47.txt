@@ -1,0 +1,62 @@
+     Our tools, particularly Wrangler, have been used by many different       individuals and organisations.
+Not only do these tools allow users to       refactor their code in various ways, they also provide reports on       different ways that the code can be improved, particularly test code, as       well as providing program analyses of various kinds.
+Wrangler has allowed       users to build better quality programs, to operate more efficiently, and       to better maintain their own and legacy code, thus contributing to their       profitability and sustainability, and a number have provided corroborating       statements ([S1] etc.).
+Increased efficiency through defining custom refactorings in           Wrangler.
+Quviq AB of Sweden use the Wrangler extension API       to automate a set of custom refactorings that they use regularly.
+Their       CTO, Thomas Arts, provides a testimonial [S1] stating that "The         investment of using the Wrangler API was well motivated.
+At the moment         the automatic refactoring takes about 5 minutes to perform.
+It         will rewrite about 1500 lines of code in 100 different files.
+A manual         refactoring of this size is impossible to perform correctly, and would         take one or two days to perform satisfactorily ... we estimate a saving         of up to 1 person month per year by using this Wrangler API feature."
+Making everyday programming practice more effective.
+First, Wrangler and HaRe are available to all Erlang and Haskell       programmers as Open Source tools that plug into existing widely used       program development frameworks such as Eclipse, Emacs and Vim [4], and       have been widely taken up (see download data below).
+A typical,       unsolicited user comment is "I really like Wrangler.
+It is one of         those tools that are nice to have in the toolbox when I get to really         work on some code".
+Stuart Whitfield, CEO of Erlang Solutions Ltd, who are consultants in the       fields of communications, banking, messaging and transport, notes [S3]       that "it is a tool we all take for granted and enhances the nature of         Erlang and how we do Erlang programming ... it gives us the competitive         advantage when using it as a building block in larger systems".
+Samuel Rivas, former CTO of Interoud [S2] observes "The impact of         Wrangler was to help us to produce better quality software with lower         maintenance costs.
+... Wrangler was used to automate some common         refactorings ... these transformations are relatively easy to perform         manually, but also [are] quite prone to subtle errors that are         impossible when using a tool such as Wrangler".
+Improving the quality of systems programmed in Erlang.
+Rather than interleaving refactoring and development, other users will       consciously decide to tidy up a code base by making a series of       refactorings.
+This is important, either for general reasons of code       "hygiene" or to make specific preparation for code change, integration and       so forth.
+Wrangler provides a "clone detection" facility, which reports on       duplicate, or near duplicate code, in systems.
+Eliminating these clones       leads to cleaner code, and improves the maintainability of systems.
+Samuel Rivas [S2] notes: "Wrangler helped raising the awareness of         what clean code meant for us.
+An especially influential feature has been         clone detection.
+After introducing it the presence of clones in code was         much more evident than before, helping the team to quickly spot parts of         the codebase with likely quality issues.
+... Wrangler also helped in         making the ... process to eliminate detected clones faster ".
+Erlang       Solutions [S3] note "ESL staff today use Wrangler when they need to         clean up code.
+... Once the tricky parts are working they can rely on         Wrangler to efficiently refactor the code and get the general structure         right."
+Program analysis for e-learning and code navigation.
+As well as providing support for refactoring transformations, Wrangler       implements program analyses to check the pre-conditions on refactorings to       ensure that they preserve program behaviour.
+This program analysis is also       useful independently.
+A KTP with Erlang Solutions Ltd has developed an       e-learning platform for the company to take their existing face-to-face       tutorial materials online, and this was launched in October 2011.
+The KTP       has developed a multi-modal feedback tool to give feedback not only on how       a program behaves, but also its style, and this style analysis is       supported by Wrangler's extension facilities.
+ESL [S3] note that "this         is a novel approach to e-learning ... and would not have been possible         without the static analysis capabilities of Wrangler."
+Samuel Rivas       [S2] notes that in his current position he is working with a large legacy       codebase and that "the code inspection tools [in Wrangler] can depict         different levels of dependencies between functions and modules [in         legacy systems] that help breaking small pieces apart ... to add known         APIs to increase the maintainability of the software.
+... Wrangler         provides an easy interface for the most common scenarios that saved me         and other colleagues time."
+Improving the quality of test code.
+Refactoring       tools can be used to improve the readability of code that has been       inherited from a series of coders.
+This is particularly acute with test       code that can suffer from "copy, paste and modify" development of new       tests rather than a model in which the appropriate abstractions are       introduced and used.
+Our clone detection decision support system [3]       provides the input for structure-improving refactorings dictated by test       engineers with domain knowledge.
+The results of this approach in action       with three groups of programmers and testers in Ericsson was reported at       the annual Erlang User Conference, Stockholm, 2009.
+The payoff here is       that, using the restructured code, developing new tests is substantially       easier and more reliable.
+P&#228;r Emanuelsson, formerly of Ericsson, says of our work [S4] at Ericsson       that "Wrangler was used in the 4th generation Telecom system (LTE)         project at Ericsson.
+The LTE project includes many hundreds of         developers at multiple development sites at Ericsson.
+The system         consists of many million lines of code.
+Wrangler was used by the testing         tools groups in Linkoping and Stockholm, that is the groups that provide         tools (both commercial and own developments) for the testers.
+These         groups specialize in tools and methods for testing.
+Wrangler was also         used by testers, who are using tools provided by the testing tools         groups to test LTE products."
+He concludes that Wrangler "was         valuable for improving the quality of our testing code.
+We have also         gained valuable insights in how refactoring should be done in general on         our huge applications."
+Property extraction.
+We have worked collaboratively with       the tool developers Quviq AB to build support for the extraction of       properties from existing test suites.
+The model here is to use clone       detection to identify test cases that are similar, and to use their common       generalisation as the basis for a universal property that can be tested       with random data chosen from its domain of application.
+This functionality       is incorporated in Wrangler and reported in the literature [1].
+An       extension of this work, under which state machine models are extracted       from existing test suites is also incorporated in the tool [1].
+The payoff       for Quviq is that developing properties and models is made easier, thus       increasing the take-up of property-based testing.
+Wider usage: download statistics and open source collaborations Use of Wrangler by a wider community is indicated by the download       statistics, open source contributions, and github activity.
+On github the       project has been starred by 50 users, and has 17 forks.
+It has 8       contributors external to the project, including a 9974 line contribution       from Richard Carlsson, of Klarna AB, Sweden.
+Comprehensive download &amp;       contribution information is at       http://www.ohloh.net/p/wrangler_refactoring/contributors/summary                                Download stats           2008           2009           2010           2011           2012           2013*                              Unix (linux, OS X)           1138           2611           2134           2023           384&#8224;           282&#8224;                             Windows installer           -           460           748           729           475           968                             Web page hits           7927           7439           11521           12388           13635           7561                          * Up to end of July 2013.
+&#8224; NB the reduction in downloads reflects the move of Wrangler to       github, https://github.com/RefactoringTools/wrangler       from which we do not have download information.
+Most Unix users now use this.
+In summary, Wrangler has had corroborated impact on the practice and       effectiveness of a number of companies, as well as sustaining a broader       group of open source contributors and users.

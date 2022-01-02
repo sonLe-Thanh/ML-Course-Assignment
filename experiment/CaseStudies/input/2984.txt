@@ -1,0 +1,34 @@
+     See section 5 for corroborating sources S1-S10.
+Reach and significance of the impact     Clinical development of voriconazole and echinocandins: saving lives         from invasive aspergillosis     The development and subsequent worldwide registration of voriconazole as       the most effective first line therapy for invasive aspergillosis has been       a critically important development with a 13% absolute survival benefit.
+All international guidelines now place voriconazole as first line therapy       (S1) and numerous post-registration studies show ~15-20% better         survival with voriconazole therapy compared with all other       therapies.
+Likewise introduction of the very low toxicity echinocandin       antifungals has been pivotal in improved survival with minimal adverse       events from life-threatening fungal infections.
+In 2011, the global       antifungals market was ~ $10.7bn, with an annual growth rate of 2.9%       during 2002 and 2010.
+Voriconazole sales were &gt;$750m worldwide in 2012       (S2, p. 12).
+Caspofungin and micafungin echinocandin sales are over $500m       each per year.
+Denning profiled the echinocandins as a new drug       class in The Lancet in 2003 (S3).
+Resistance in Aspergillus     Without validated resistance detection in Aspergillus (S4), we       would not know that clinical failures are due to resistance (as opposed to       inactive drug, immunological failure etc.)
+or that azole fungicide use in       agriculture is leading to an increasing problem (since 2003) in       environmental resistance in Aspergillus (European Centres for Disease       Control report, 2013) (S5).
+Validated susceptibility testing and genome sequencing as a         springboard for antifungal drug discovery: F2G Ltd     Validated susceptibility testing of Aspergillus provides an       antifungal drug discovery tool.
+This methodology, combined with UoM animal       modelling know-how, patented gene knockout techniques and clinical       profiling, was used as the foundation of F2G Ltd, a UoM spin out (S6).
+Genome sequencing of Aspergillus greatly accelerated the finding       of novel antifungal targets for F2G (and other antifungal discovery       units).
+A total of ~&#163;35m from venture capital funds has been invested in       F2G since 2001, employing up to 22 people.
+F2G's lead compound (F3       analogue) has a novel mode of action and chemical structure and is       therefore a new antifungal class, primarily with anti-Aspergillus       activity.
+It has no discernable toxicity in small animals.
+It is       formulated for intravenous and oral usage.
+Phase 1 is anticipated in Q4       2013.
+The world's first commercialised molecular diagnostics for Aspergillus       (respiratory) and Pneumocystis     The major limitation to better clinical outcomes of invasive fungal       infections remains insensitive and slow diagnosis.
+To address this issue,       Denning founded Myconostica to develop and commercialise real-time       PCR diagnostics for fungal disease.
+The MycAssay&#174; Aspergillus and       MycAssay&#174; Pneumocystis assays are the world's first commercial real-time       quantitative PCR assays for pulmonary fungal infections and both were       developed with &#163;10m external funding (S7).
+Quantitation was possible in Aspergillus       because the number of ribosomal RNA copies in the A. fumigatus       genome strain was precisely determined in the sequencing project.
+CE       marking throughout Europe and Canada was achieved after the international       clinical trials programme that Denning managed.
+Sales have been       made to 16 countries and licensing deals with Becton Dickinson (S8) and       BioRad will result in OEM developments on new platforms such as the new       fully automated BD MAX&#8482; system, a coming revolution in microbiology.
+Redefining chronic pulmonary aspergillosis (CPA) and its global impact     The National Aspergillosis Centre at the University Hospital of South       Manchester (S9) was the first nationally commissioned infectious disease       service in the UK and the world's first national clinical centre for a       fungal disease.
+The basis of national commissioning was Denning's       clinical expertise, the small national caseload of CPA (&lt;1,000 UK       cases), clinical care complexity, need for specialised investigations and       antifungal drug cost.
+In 2013, the centre has about 270 CPA (and over 500       allergic aspergillosis) cases under its care with &gt;250 new referrals       annually.
+CPA is commonly preceded by pulmonary tuberculosis and an estimate of the       global prevalence of cases (assuming ~15% annual mortality) is 1.2m, most       in countries without access to any diagnostics for fungal disease and       unaffordable antifungal therapy.
+This is being addressed with the WHO STOP       TB programme.
+The National Aspergillosis Centre designation directly       facilitated this global health development, with multiple burden of       disease estimates emerging (S10).
+Role of fungal allergy in asthma     The placebo-controlled RCT of antifungal therapy in those with SAFS has       been pivotal in altering thinking about the pathogenesis of severe asthma.
+Major quality of life benefits for 60-80% of such patients were found.
+The       global burden of SAFS is estimated at 6-13m adults, with ~100,000 deaths       annually, but needs further epidemiological study.
+Very large numbers of       patients are benefitting from generic antifungal therapy for severe       asthma, including some children.

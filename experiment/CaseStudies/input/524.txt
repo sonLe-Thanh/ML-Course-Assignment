@@ -1,0 +1,43 @@
+ The main beneficiaries of IMS are children and vulnerable adults.
+IMS has been used to interview children as young as 3, and is routinely used with school children of all ages.
+Professional users of IMS report that it is very effective in situations where a child lacks trust.
+It removes the need for direct eye contact between child and interviewer, helps to break the ice, and fosters a collaborative atmosphere.
+In the early 1990s, prior to the IMS project, psychologists predicted that computer assistance might be beneficial in interviewing children and vulnerable adults, but there was no detailed study about how this might be achieved.
+The underpinning research enabled the design and creation of such a tool and evaluated suitable mechanisms, first through paper-based pilot studies and then through a software prototype.
+As part of the research, the Department of Health selected 5 local authorities and the prototype was evaluated by these authorities.
+This pilot led the way for the widespread dissemination of IMS.
+The necessity of training for practitioners was a major issue, and it was decided that the most effective mechanism for dissemination and training would be to team up with the not-for-profit organisation "Child and Family Training."
+This organisation delivers training in a number of tools for working with children and families.
+Most of these are paper-based tools.
+In fact, IMS was their first (and only) computer-based tool.
+They have offered IMS training since 2007.
+In order to harness the impact of this research, Jimmieson personally leads many of the training sessions at the University of Liverpool.
+As of July 2013, more than 750 people have been trained in the use of IMS.
+IMS is used in a wide variety of contexts.
+We will not discuss individual cases in detail due to confidentiality.
+Instead, we first outline areas in which IMS has had greatest impact, we then explain who is using IMS, and finally give details of a survey of IMS users.
+In adoption and fostering cases, IMS is used by social workers to clarify the wishes and feelings of the children relating to their birth families and their carers.
+In schools, IMS is used to understand behavioural issues, for example, to discover the scenarios that trigger adverse emotional responses in children.
+IMS has been used in hospitals to decide the right dose of medication for children, because child patients often display an inability to distinguish the type and magnitude of pain due to their limited command of language.
+IMS has been used by forensic psychologists to interview children who may have been abused, and who have been previously unsuccessfully interviewed by more traditional means.
+That happens in both criminal and civil proceedings, but mostly the latter.
+IMS has also been used to provide evidence to a Coroner's court, in a case where a child was the only witness to his brother's death.
+Professionals that use IMS include:  Educational, Clinical, and Forensic Psychologists; Teachers, Classroom Assistants, Special Educational Needs Coordinators, and Speech and Language Therapists; Social workers, Family Support Workers, and workers in Child and Family Court Advisory and Support Services.
+Geographically, IMS is used by workers from 15 local authorities in England, 2 in Scotland, 2 in Wales, and 1 in Northern Island.
+The tool is also used internationally in Belgium, Ireland, Norway, and Sweden.
+In Norway, training in IMS has been delivered by Otta Family Counselling Services who have run 13 IMS courses since 2008.
+The Director of KF Otta, who heads the training in Norway and uses IMS as a family therapist, said: "We have had 13 courses by now (for about a hundred professionals) and two refreshing courses (a new one on Thursday).
+And what we often experience is that IMS is a very valuable tool to talk to children.
+Especially in the start of a conversation to "break the ice" and get to know each other in a natural way.
+Not to sit and face each other helps a lot.
+And we get lots of information about both problems and resources that are very important both to get to know the children in their contexts and as a tool to start and go on in therapy sessions."
+In June 2012, we conducted a survey of IMS users from the UK with 39 respondents covering 592 cases in which IMS was used in practice since 2008.
+28.9% reported that they used IMS at least once for family placement, 42.1% for care proceedings and reviews, 47.4% in cases of child abuse and neglect and 63.2% to investigate the child's experience of education and school.
+66% of responders indicated that IMS was a significant help in their work.
+Here is an excerpt from a survey response from an (Independent) Chartered Clinical Child Psychologist: "The bulk of my work is assessing children and families in either Public Law Care Proceedings or Private Law Contact and/or Residency proceedings between parents.
+I see approximately 30 families each year, often assessing all the siblings in a family.
+I use IMS in virtually all of my assessments of children over the age of 3.
+The extent to which I use IMS is testament to its usefulness to me.
+It forms a key part of an assessment process that I use with the majority of all children I see."
+(The individual goes on to describe 6 particular ways in which IMS is useful for her work.)
+Details of the survey are presented in reference [4] from Section 3.

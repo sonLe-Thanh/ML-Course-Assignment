@@ -1,0 +1,27 @@
+     Context       Magnesium is the lightest structural metal, 35% lighter than aluminium,       and 80% lighter than steel.
+It is thus a highly attractive material for       manufacturing components where weight saving is critical for improved fuel       efficiency and reduced emissions or better performance.
+However,       traditional magnesium alloys suffer from three critical shortcomings; poor       strength, poor corrosion resistance, and limited elevated temperature       capability.
+Novel alloys and protection strategies, only possible as a       result of research at Manchester, have produced a step change improvement       in each of these areas and as a result have allowed the weight-saving       benefits of magnesium to be exploited in new demanding applications in       aerospace, automotive, and military applications that were previously       impossible [A].
+Pathways to Impact       The research described in section 2 has led to a new family of high       performance magnesium which have the greatest strength and best corrosion       performance of any commercial magnesium alloy, representing a step-change       improvement over traditional magnesium alloys.
+Critical to the performance       of the alloys is control of the structure on the micro-scale       (microstructure).
+Research at Manchester has elucidated the complex       relationships between the microstructure and properties [1,4,6].
+Understanding the effect of each alloying addition and interaction with       processing conditions enabled researchers at Manchester to design the new       alloys to obtain exceptional properties [1,3,6].
+Further Manchester       research has led to the development of new environmentally friendly       coatings enabling these alloys to be protected from corrosion in       aggressive environments such as salt water [2,5].
+Finally, recent       Manchester work to understand the biocompatibility of these alloys was       critical in the development of Synermag, the first commercial magnesium       product designed for bioresorbable implants.
+Reach and Significance       Impact on Materials Manufacturers       The impact described is the result of a 20-year collaboration with ME.
+This has led to the development to a series of commercial magnesium alloys       including WE43B, WE54A, Elektron-21, Elektron-675, and Elektron-43.
+ME is       part of the Luxfer Group, a UK based global materials technology company.
+They are acknowledged world leaders in magnesium alloy development, having       designed over 80% of the new magnesium alloys developed in the last 30       years.
+These alloys contribute ~$20m per annum in revenue to ME, with 61%       coming from export markets (corroborating source [B]).The exceptional       properties of the new alloys has enabled ME to develop new products for       the aerospace, automotive and medical markets [B].
+This includes Synermag,       the first commercial bioresorbable magnesium alloy product, now being       produced at a new (2012) $2m dedicated production facility in the UK [B].
+Impact on Aerospace and Automotive       The new alloys and associated protection systems have found extensive       application in helicopter and fixed wing military aircraft that include       the Westland Lynx, McDonnell Douglas MD500, F22 Raptor, Apache Mark-3       attack helicopter and the F35 Joint Strike Fighter (JSF).
+The 35% mass       reduction enabled by using these alloys in place of aluminium is critical       to meet performance and range targets.
+These aircraft are now being       produced in large numbers, for example 3100 JSF aircraft are expected in       service by 2035.
+WE43B and Elektron-21 are also undergoing final FAA       certification for civil aerospace with applications in structural       components targeted by Airbus and Boeing due to the potential for weight       saving and emissions reduction.
+Aerospace industry calculations have       demonstrated that a 10% reduction in fuel consumption and emissions will       be obtained through increased used of high performance magnesium alloys in       a typical large passenger aircraft [C].
+Alloys Elektron-21 and WE43B have also found use in high performance       wheels, gearboxes and engine castings for the motorsport industry by       companies including Cosworth and Maclaren Mercedes, since they provide the       ultimate in strength to weight performance at elevated temperature.
+An       improvement in strength/weight ratio of between 20-25% is obtainable using       these magnesium alloys in place of traditional aluminium solutions, saving       around 10 kg from the vehicle mass, which translates to improved       acceleration and braking performance [D].
+Biomedical Applications     Recent (2007-present) research at Manchester revealed that in addition to     their suitability for structural applications, the new family of alloys also     have attractive properties for biomedical application as safe bioresorbable     materials with excellent compatibility with bone.
+This research has led to a     Magnesium Elektron patenting (2011) a new alloy (Synermag) for biomedical     applications in resorbable implants.
+This alloy has been used to produce     bioresorbable stents, wire, and screws in collaboration with a medical     devices manufacturer (commercially confidential).
+Successful animal trials     have been conducted and these products are currently undergoing     certification for surgical use in humans.

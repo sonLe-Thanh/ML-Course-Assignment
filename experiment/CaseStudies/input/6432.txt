@@ -1,0 +1,49 @@
+     Reach and significance: MissionMaker represents a new       model of educational software, in which young people learn about       digital media, not just through it.
+It is enhancing digital and cultural       literacy in hundreds of schools on four continents.
+The Making Games       research has also helped to influence policy-makers, who took a keen       interest in its design, and has pioneered a more collaborative method of       games design.
+Beneficiaries: young people in schools and out-of-school contexts,       video games industry, education and technology policy-makers, cultural       institutions.
+Dates of impact: 2008-13, with the software's launch and build-up       of sales.
+Impact on policy and national thinking: Becta (the former IT       quango) was closely involved with Making Games, playing a role on its       advisory committee.
+As a result, Becta revised its policy for ICT in       schools, allowing the purchase of higher-specification PCs that can handle       the demands of gaming environments &#8212; see ESRC evaluation, impact source (S1).
+The researchers have participated in policy-related workshops and       conferences, and liaised with communications regulator Ofcom.
+In 2009,       Futurelab commended MissionMaker in its influential report, Digital         Participation, Digital Literacy and School Subjects, and cited       Burn's work.
+MissionMaker is endorsed in Scotland's Curriculum         for Excellence (S2).
+Consolarium, a national centre for games       and learning, supports teachers in its use.
+Commercial impact: By 2013, MissionMaker had been licensed       to some 1000 users, mainly schools and city learning centres, and by 2013       its sales amounted to an estimated &#163;700,000 (based on figures provided by       Immersive).
+Product development: Making Games also provided a new model       of industrial design for the games and educational software sector: a       partnership between software publisher and academics, with students and       teachers serving, in effect, as co-designers, a process commended in the       ESRC's evaluation.
+This model continued into a partnership with       Shakespeare's Globe, extending the design to MissionMaker to allow       pupils to make games based on Macbeth (2012).
+In late 2012, the IOE       purchased Immersive Education's four educational software products, Kar2ouche,       Krucible, Mediastage and MissionMaker.
+This has       enabled researchers to embark on a new phase of R&amp;D. By the end of the       REF period they had begun developing new versions of its software through       funded research, and were preparing to bring subsequent products to market       under the name Magical Projects.
+Engagement with industry: Researchers have been asked to       take on a number of consultancy and advisory roles since Making Games       ended.
+Burn was adviser to the Interactive Software Federation of Europe       (the games industry's European association) from 2006-10, and gave       keynotes at two of their annual conferences.
+Gender: Making Games contributed to a change in thinking in       the games industry that saw a rise in games for families in place of       `girly' products.
+Pelletier took part in a 2006 US National Science       Foundation conference bringing together academics and industry       representatives, titled Beyond Barbie and Mortal Kombat.
+Along       with a subsequent book (R3) it helped dispel myths about gender and       games.
+Impact on practice: In a document reviewing game-based learning       published in March 2010, Becta said MissionMaker allows pupils "to       learn about the literacy of games design (e.g.
+narrative structure, rules       systems, designing for audience) whilst developing their problem-solving,       value judgment, negotiating and decision-making skills" (S3).
+Use in schools: By 2013, nearly 1000 schools were using MissionMaker.
+Ready-made classroom activities mapped to England's national curriculum       and exam syllabuses have included: Media Studies KS3; Teacher Notes for       the Gifted and Talented MissionMaker Developing Cognitive Skills       course (KS2) plus Gifted and Talented Workbook; and Fairy Tale Detective       games.
+Teachers have created their own packages, such as Focus on Games       KS3; written by Bedfordshire middle school teachers, it provides       suggestions for 10 weeks' work.
+Many teachers have used social-networking       sites such as YouTube to share &#8212; or pick up &#8212; suggestions on how the tool       can be applied in the classroom.
+One YouTube video, with some 2,500 views       by the end of July 2013, shows how MissionMaker can be used to       teach children about health and safety (S4).
+Teachers have also       found out about MissionMaker's usefulness through the education       press (S5) and Teachers TV &#8212; it featured in two programmes, along       with commentary by international experts on games and literacy.
+English       teachers have learnt about MissionMaker's support of wider       literacy on the National Association for the Teaching of English website.
+In 2011-12, the ICT coordinator of Burnt Oak Primary School in Sidcup       reported that using MissionMaker with Year 6 improved       relationships and that the need for precision and logic had a knock-on       effect on thinking and writing skills (S6).
+`Kimberley' and       `Nathalie', Y6, reported: "The best thing about MissionMaker is it       allows us to use our imagination.
+You have to think hard about who the       game is for and work out rules".
+Out of school, it features in activity       centre programmes (S7).
+Endorsement by examination boards: A teaching programme       built around MissionMaker, Games, Game Engines and Design, has       been endorsed by the OCR examination board for use towards its       Certificate/Diploma in iMedia.
+MissionMaker has also been included       in the Moderators' Toolkit for the EdXcel Diploma in Digital Applications       course as an appropriate tool to use in the game-making modules.
+Work with young offenders: In 2009 Sheffield Youth       Offending Service developed a programme using MissionMaker to       re-engage truants and students in pupil referral units through educational       gaming sessions.
+The Service subsequently reported that young people       remained focused and "progressed to the point where they took ownership of       their games-making and tried out their own ideas".
+The organisers of this       programme ran training sessions for teachers and argued that it has       "powerful" potential to address issues relating to actions and their       consequences (S8).
+Career development: The Computer Games Skills Forum has       said that projects such as MissionMaker should be supported       wherever possible (S9).
+It believes that games-authoring software       encourages more young people to consider careers in its industry.
+The       Scottish Government has reached a similar conclusion, explicitly linking       its ICT curriculum and the use of software such as MissionMaker       with the future of the games industry (S2).
+International impact: The Making Games project has been featured       in keynote addresses at international conferences, media literacy seminars       and teachers' conferences in Europe, the US, Australia and New Zealand.
+MissionMaker       is being used in the US, Australia, Hong Kong, Finland, Germany, New       Zealand and Denmark.
+Pelletier has advised the OECD and the Norwegian       government on gender, equity and the IT industry.
+In 2009, Singapore       established a National 3D Game Building Competition for schools, using the       IOE tool, to raise awareness that computer games can be engaging       learning tools.
+This competition, now called the National 3D Serious Play       Competition, is also seen as supporting the country's efforts to become a       regional hub for interactive games development.
+More than 100 teams       participate each year (S10).
+The use of MissionMaker in       Singapore, which is in the vanguard of ICT-in-education developments, is a       particularly clear demonstration of the Making Games project's       international impact.

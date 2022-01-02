@@ -1,0 +1,19 @@
+     The GAMLSS growth curve methodology has improved and extended the       previous major existing methodology of the LMS method.
+The researchers       also provide free appropriate software for fitting the models and most       importantly checking their adequacy.
+This allows the user to find the most       appropriate model for their data.
+The impact of any statistical methodological contribution, such as the       GAMLSS growth curve methodology, can only be measured by its usefulness in       practical applications and the impact those applications have to the wider       community.
+In what it follows we will argue that this is the case with       GAMLSS methodology.
+Firstly, we will consider the impact that the WHO       Growth Reference Study has and will have upon world health.
+The following quote from their website explains the aims of their study:       "The WHO Multicentre Growth Reference Study (MGRS) was undertaken between       1997 and 2003 to generate new growth curves for assessing the growth and       development of infants and young children around the world.
+The MGRS       collected primary growth data and related information from approximately       8500 children from widely different ethnic backgrounds and cultural       settings (Brazil, Ghana, India, Norway, Oman and the USA).
+The new growth       curves are expected to provide a single international standard that       represents the best description of physiological growth for all children       from birth to five years of age and to establish the breastfed infant as       the normative model for growth and development."
+Upon the completion of the analysis WHO published three books, WHO (2006,       2007, 2009), which are available from their website http://www.who.int/childgrowth/standards/en/.
+The impact of the release of Growth Reference Study curves is explained by       the article "Worldwide implementation of the WHO Child Growth Standards"       of de Onis et al.
+(2012) from which the following quote is taken       "By April 2011, 125 countries had adopted the WHO standards, another       twenty-five were considering their adoption and thirty had not adopted       them.
+Preference for local references was the main reason for       non-adoption."
+The article also provided a map to show which countries       adopted the WHO standards curves.
+The important point to make here is that results, from applying the       GAMLSS methodology, are used and will be used for the next decades in a       majority of countries of the world for checking the health and the       wellbeing of children.
+A further major application of the methodology is its use by the Global       Lung Function Initiative.
+The initiative uses GAMLSS methodology to       provide equations for obtaining the lung function centile 'z- score' given       values of age, height, ethnic group and gender, Quanjer et al.
+(2012a).
+The equations have been adopted by a variety of commercial companies, as       can be seen in the page 'Manufacturers'       in the www.lungfunction.org       page.

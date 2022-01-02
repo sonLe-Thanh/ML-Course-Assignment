@@ -1,0 +1,46 @@
+     The impact demonstrated by our activities and research, driven by our       desire to apply our knowledge and exploit our expertise and specialised       equipment, has been primarily achieved through:            VES engagement with standardisation committees and learned societies         to develop industry guidance (codes and standards) and       FSDL focusing on commercial activities leading to economic and safety         impact          Impacts on practitioners and professional services: codes and         standards     Our research has contributed to a number of guidance documents/standards.
+These are used internationally and have legal status in civil court       actions that can result from poor serviceability.
+The Institution of Structural Engineers (2008), "Dynamic           performance requirements for permanent grandstands subject to crowd           action.
+Recommendations for management, design and           assessment": This is recognised as the international state of the         art (adopted worldwide) and directly applies outcomes of our research         [R1, R4] on stadia performance and human structure interaction.
+Structural Engineering Institute, American Society of Civil           Engineers (2013).
+A State-of-the-Art Report by ASCE SEI Committee on Structural Identification of           Constructed Systems: This presents the measurement technology         developed through our research and an industry application of active         vibration control.
+Our research [R1, R3, R6] formed one of the six         chapters and one of the 18 case studies.
+British Standards Institution (2008) Guide to evaluation of human           exposure to vibration in buildings.
+Part 1: Vibration sources other           than blasting.
+(BS6472-1:2008): Our academics are long-term         members of the BSI technical committee, contributing to the development         and establishment of these standards.
+The Steel Construction Institute (2009) Design of Floors for           Vibration: A new Approach (Revised Edition, February 2009,           particularly Appendix C): Our research [R1, R4, R5] formed the         basis of the appendix on dynamic testing of building floors.
+Economic impacts: Spin-out: Full Scale Dynamics Ltd (FSDL).
+Our researchers have been engaged in consulting activities in this field       since 1996.
+In 2008, due to the large volume of commercial activity, FSDL       was incorporated.
+No inward investment was sought and cumulative FSDL       turnover to date is around &#163;1m.
+FSDL is directed by academics and has       seconded six postdoctoral and PhD students to UK and overseas projects,       equipping them with high-level professional skills.
+Clients include:            UK companies e.g.
+Expedition Engineering [S1], Arup, Gifford, Balfour         Beatty, Jacobs, Flint &amp; Neill and Yorkon [S4]       Overseas clients e.g.
+Intelligent Engineering (Canada), Seagate (USA)         [S2], Land Transport Authority, (Singapore) and Centroprojekt (Russia)       National stadium operators such as Premier League/Championship         football clubs (Middlesbrough, Sunderland)       Public organisations e.g.
+[text removed for publication] [S3] and         [text removed for publication]          FSDL undertakes and completes approximately 15 high profile projects       annually.
+The following is a brief digest of the FSDL impact on industry       (economic and safety) grouped by structure type.
+Stadia:     Post-Hillsborough, UK football clubs have a legal obligation to ensure       spectator safety, which includes avoiding excessive vibration and       consequent crowd panic.
+Using the testing, simulation and design tools       developed in our research projects since 1998, FSDL has enabled UK stadia       operators and overseas clients to comply with regulations ensuring safety       and fitness for purpose.
+As an example, for the London 2012 Olympic       Velodrome [S1] (on behalf of Expedition Engineering, 2009) FSDL used VSATS       and applied the new, at the time untested in practice, stadia design       guidance [R1].
+This independent assessment enabled a saving of 400 tonnes       of steel and was essential for the purposes of Category 3 performance       based design compliance due to the inherent low natural frequency of the       stands [S1].
+"using this approach allowed us to have confidence in a solution which         saved 400 tonnes of steel over using traditional design methods"       [S1]     "without the involvement of FSDL and the fundamental research         undertaken by your research group..., the dynamic performance of the         lightweight seating deck would have been much more difficult to justify"       [S1]     Floors:     In 2011 FSDL applied our research [R1, R2, R5] based ambient vibration       testing technology to identify modal properties and vibration environment       being experienced in the multi-$bn Seagate disk drive production facility       in Singapore (opened 2007).
+[text removed for publication].
+This novel       data collected by FSDL was used to validate modelling of the facility that       had previously been undertaken by VES.
+These simulations predicted the       behaviour observed and provided the operator with a clear understanding of       how to tackle the problem.
+Based on Seagate's annual turnover of $12bn and       figures and opinion of the Seagate specialist [S2] annual production loss       of the order $10m appears to have been mitigated by the interventions.
+"Brownjohn's vibration work allowed the Seagate engineering staff to         be ahead of the production juggernaut (for once), and not underneath the         beast" [S2] 	"to this day we are still building on Prof. Brownjohn's         original modelling and have made detailed plans for some structural         reinforcements in the specific areas of greatest sensitivity ... we owe         a great debt to this theoretical work apparently all done before one         pile was bored for this building"[S2]     "if production delays are experienced, that if measured in days, would         result in the loss of revenue measured in tens of millions of dollars"         [S2]     From 2005 we applied our research [R2] based expertise to diagnose and       assess extreme low vibration performance of the foundation systems for the       new Orion high power laser facility at the [text removed for publication].
+Successful operation of the &#163;100m facility relies on minute positional       tolerances for multiple laser reflections; our vibration measurements       (conducted 2009) showed these were not exceeded.
+The facility has now been       successfully commissioned [S3].
+In a sequence of R&amp;D projects between 2009 and 2013, FSDL was engaged       by Yorkon, the leading UK off-site construction specialist, to apply       research [e.g.
+R1, R3, R4, R5] and resolve a key problem of liveliness of       their ultra-light building flooring systems under pedestrian-induced       dynamic loading.
+As a result of this 4-year work, Yorkon's new Pioneer       modular building system was developed featuring an order of magnitude       lower dynamic responses of its floors.
+This was achieved by discovering       and exploiting the beneficial effects of the novel pre-installed       lightweight concrete floor and vertical partitions.
+With the Pioneer       system, Yorkon moved decisively into quality public buildings market, such       as schools and hospitals.
+After investing [text removed for publication]       into this R&amp;D, a significant proportion of Portakabin Group annual       sales (&#163;30m) are now featuring the Pioneer flooring [S4].
+Industrial Chimneys:     In 2008, the flue gas exhaust stack (chimney) at Rugeley Power Station       was suffering enhanced vortex shedding due to up-wind construction of a       replacement chimney.
+As the wind-induced sway (predicted by the operator)       could have resulted in structural failure and collapse, FSDL were       commissioned to monitor the performance of the old chimney and its tuned       mass damper.
+The damper was designed by Multitech (France) to reduce the       vibration to levels that would not compromise operation of the power       station.
+Remote monitoring technology developed in our research on the       Tamar Bridge study was adapted to track the performance of the       chimney/damper system to the power station staff in real time.
+The       monitoring system clearly demonstrated that the damper worked and removed       any safety concerns [S5].
+Since 2009, FSDL has operated a more       sophisticated monitoring system on a chimney at the Sellafield Nuclear       facility.
+The system enables the site operator to comply with stringent       safety requirements avoiding the need to interrupt site operation.

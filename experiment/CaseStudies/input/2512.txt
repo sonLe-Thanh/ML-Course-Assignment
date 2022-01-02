@@ -1,0 +1,25 @@
+     Beneficiaries.
+The beneficiaries of the research are forensic       science services and law-enforcement agencies worldwide.
+They can now       optimise the size of the samples they test and quantify in precise       Bayesian terms the weight of evidence.
+This impact on professional       practice in turn improves the judicial system of the countries relying on       these services and agencies by enabling the best use of the evidence       available and ultimately leading to safer verdicts.
+Impact on beneficiaries.
+The impact started in the late 1990s with       the initial work leading up to [1]: the procedure was referred by the       SFSLG to the Crown Office in Scotland which approved the ideas and issued       guidance to the Scottish forensic science laboratories for the procedure       to be used in cases in which sampling was desirable [9].
+Cases (a)-(c) are       examples of this early impact which led to cost savings and, in the case       (b) of sampling of pornographic files, to a reduction of stress-related       illnesses amongst the law enforcement agents examining the files (prior to       Aitken's involvement, out of four officers of the Strathclyde Police Force       who examined all files on certain seized computers in a particular case,       three had to take sick leave on stress-related grounds).
+The impact of [1-2] has considerably extended since 2008, due in part to       the publication of high-profile guidance documents published by crime       enforcement agencies that refer to the work; these include the `Guidance       for best practice sampling in forensic science' published in 2007 by the       European Network of Forensic Science Institutes (ENFSI, which represents       forensic science laboratories throughout Europe including Russia, also       Turkey and some trans-Caucasian countries), and the `Guidelines on       representative drug sampling' [7] published in 2009 jointly by the United       Nations Office on Drugs and Crime and ENSFI.
+The software implementing the       sampling method of [1-2] is available on the ENFSI website: http://www.enfsi.org       (see [8]).
+It is used widely in       Europe (including Sweden, The Netherlands, Poland, Switzerland, UK) and is       disseminated world-wide.
+We document the adoption of Aitken's methodology for both sample-size       determination [1-2] and LR for multivariate hierarchical data [3-5] by       describing three specific examples of applications in laboratories in       Australia, Sweden, and the Netherlands.
+Australian National University.
+[text removed for publication].
+The method of [3] was applied by ANU consultants to a high-profile court       case in Australia to estimate the strength of the evidence of a telephone       conversation.
+[text removed for publication].
+Since this case, the LR derived in [3] has been used more broadly in       cases involving voice comparison.
+A senior staff member of the Forensic       Voice Comparison Laboratory (University of New South Wales, Australia) has       commented that `the work on statistical modelling for numerical         calculation of the strength of forensic evidence [3] has become a         standard tool in the field of forensic voice comparison' [11].
+Statens Kriminaltekniska Laboratorium (SKL, Swedish National       Laboratory of Forensic Science).
+SKL, practices a framework for sampling       of drug units that is built on [1].
+The paper [1] gave rise to a research       project within SKL, that led to general rules for sampling of pills;       according to senior SKL staff, the process `has substantially reduced         the amount of material that needs to be analysed, still preserving the         precision needed for legal purposes, and has hence increased         cost-efficiency' [12].
+SKL are in the process of implementing the       approach described in [3] for the comparison of amphetamine seizures and       for the strengthening of glass evidence by the use of composition       measurements.
+Netherlands Forensic Institute.
+The glass experts at the       Netherlands Forensic Institute now use the method developed in [3] in       every case as a support to earlier analyses.
+The verbal statements of the       value of the evidence that they issue to the court are on both methods and       on graphical displays.
+A senior forensic statistician at the Netherlands       Forensic Institute has commented that `the ground breaking work of         Aitken and others has transformed the way we evaluate forensic evidence'       and `the LR method is the next step in the evolution from forensic         craft to forensic science [13]'.

@@ -1,0 +1,32 @@
+     We now provide details of the 5 aforementioned impacts and their links to       underpinning research:     I1) DNA Electronics (DNAe) is a start-up company founded by       Toumazou to exploit the group's breakthrough in semiconductor-based gene       sequencing in [R1, R2, R3].
+Since 2008, DNAe has developed two genetic       analysis platforms: a DNA sequencing platform suited for laboratory use,       and a "point-of-care" platform called Genalysis&#174; which is suited for       rapid, lab-free testing by non-expert users [E1].
+DNAe now employs over 45 full time staff in the UK, brought in revenue of       in excess of &#163;25 million through their licensing and collaboration       activity, and won six industrial awards.
+These include: the BBC Focus       award for Innovation, the Elektra European Electronics Industry Award for       R&amp;D, and e-Legacy Award for Medical Advances (all in 2009); and three       IET Awards for Healthcare, for Emerging Technologies and for Electronics       (all in 2010).
+I2) DNAe's sequencing platform technology with its associated patents       (US7888015, US 7649358, US7686929, US8114591), all based on the       underpinning research [R1-R3], was licensed to Ion Torrent Systems [E2]       and Roche in 2010 [E3].
+Ion Torrent Systems was subsequently bought by       Life Technologies Inc. for $725 million.
+Their first DNA sequencing       product based on DNAe's technology [E4], the Personal Genome Machine       (PGM), was launched in Q1 2011.
+In the first 18 months since launch in the       first quarter of 2011, 1300 units of the PGM were shipped and generated       around $100 million in sales revenue for Ion Torrent [E5].
+The fact that       the PGM is based on DNAe's technology is corroborated in [E4], stating:     "Ion semiconductor sequencing is based on the detection of hydrogen         ions released during DNA synthesis.
+Ion Torrent licensed the technology         from DNA Electronics in 2010 and incorporated it into products such as         the Ion Personal Genome Machine (PGM)."
+I3) Since its release in 2011, the PGM product is being used for clinical       and public health applications, and lives have been saved as a result.
+For       instance, the Beery twins' rare genetic disease, dopa-responsive dystonia,       was discovered by DNA sequencing using our technology and has since been       treated with appropriate medication [E6].
+Another example of the impact of       our DNA sequencing technology is demonstrated in combating the German E.       Coli outbreak of 2011, which was so serious that at least 26 people died       and more than 2,700 have been sickened by the outbreak in at least 13       different countries [E7].
+Using the PGM, scientists were able to complete       rapidly the process of sequencing the 5.4 million letters of the latest       bug's genetic code in only three days [E7].
+Previous light beam based DNA       sequencers would have taken at least a week to read the code of an       organism's genome.
+I4) Toumaz is a second start-up; founded to exploit the group's       research in ultra-low power techniques for wireless physiological       monitoring.
+Since 2008, Toumaz developed the SensiumVitals&#174; platform, a       wireless system designed to monitor the vital signs of hospital patients.
+The system, which exploits the underpinning research in [R4, R5 and R6],       comprises of a lightweight disposable wireless patch that monitors a       patient's vital signs (heart-rate, respiration and axillary temperature)       and then wirelessly communicates this data to doctors and nurses via the       hospital's patient monitoring IT system.
+The SensiumVitals&#174; digital       plaster is the first product aimed at the general floor population of a       hospital to have received FDA (510k) approval in 2011 [E8] and       subsequently received the CE mark in 2013.
+Toumaz's FDA approved and CE marked SensiumVitals&#174; digital plaster.
+Toumaz is now an AIM-listed company (symbol: TMZ) employing 180 people in       five countries (of which approximately half are in the UK), with 2012       year-end assets of GBP 51.9 million, and revenue (pro-forma) of GBP 22.3       million.
+Toumaz has won numerous awards prior to 2008 and the National       Microelectronics Institute (NMI) award in 2009.
+I5) The Toumaz SensiumVitals&#174; digital plaster has proven to be beneficial in     a clinical setting.
+In a trial at Saint John's Health Centre in Santa     Monica, CA, it was demonstrated that the SensiumVitals&#174; system provided     early warnings of adverse physiological events to clinical staff.
+The study     showed that the system enables early detection of deterioration, meaning     patients can be treated more quickly and safely.
+In addition, the device was     shown to be better than alternatives for patient recovery because it is     lightweight, unobtrusive, and comfortable to wear, and so enables patients     to walk around.
+The system was also shown to integrate well with existing     clinical workflows.
+The development of this new technology is widely     believed to be part of a new revolution in healthcare technology [E9].
+Toumaz has secured an international distribution agreement for its     SensiumVitals&#174; digital plaster from NantHealth Group in the US in Oct 2013.
+Through an initial order of 250,000 units, the SensiumVitals&#174; digital     plaster is being fully adopted first in Accident &amp; Emergency at Hurley     Medical Center in Flint, Michigan (US) [E10].
+In recognition of Professor Toumazou's success ".... in applying         semiconductor technology to biomedical and life-science applications,         most recently to DNA analysis", Royal Society awarded him the 2013       Gabor Medal (http://royalsociety.org/awards/gabor-medal/).
+Toumaz SensiumVitals&#174; digital plaster in trials at Saint John's Health       Centre (Santa Monica, CA) &#8212; the http://www.youtube.com/watch?v=uVxO4xh_dDs

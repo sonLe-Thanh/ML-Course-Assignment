@@ -1,0 +1,25 @@
+     This first STFC research project described above was fundamental to       IMENSE being able to       finalise its image processing software, leading directly to its Series A       investment of &#163;0.5M in 2007       and subsequently thereafter to IMENSE producing its commercial products.
+Following the second       STFC project, ending in 2009, the company was able to offer a variety of       products for sale, these       being based largely on the understanding of raw images gained in Parker's       STFC Innovations       Partnership Scheme (IPS) projects.
+The company is still in the market,       using large scale computing       to analyse images.
+Its success can be directly attributed to its direct       use of the infrastructure and       software developed by Professor Parker's HEP research group in the       Cavendish.
+Until engaging       closely in Professor Parker's research projects, the company had no       knowledge or capability in       grid computing.
+IMENSE Ltd (they actually operate as 'imense')has thrived to the extent       that it is now (2013)       building the next generation of image search, developing innovative       solutions that make retrieval of       images even easier and more powerful than any existing search for images       on the Internet.
+The       applications all rely on the IMENSE proprietary core image recognition       algorithms.
+Their       effectiveness results from the very large samples of images used to train       them, which in turn are       made possible by the successful outputs of Professor Parker's research.
+This corpus of data had       been well beyond the reach of the company alone during its start-up phase.
+A recent product,       which also relies on Parker's image processing algorithms, is a number       plate image-based app for       iPhones.
+Dr David Sinclair, CEO of IMENSE Ltd, states       "Imense's current success and promising future business prospects are       thanks in no small part to       the grid computing research conducted by the HEP group which enabled the       development and       commercialisation of our products.
+We have also benefited from the       continuing engagement and       support of the HEP group.
+We have diversified our product portfolio from recognising scene content       to reading textual       information in scenes.
+This enhancement in our position has been       facilitated by machine learning       infrastructure developed as part of our IPS project and executed in the       case of some of the larger       training jobs on hardware resident in the HEP machine room.
+Much of the       training data for this new       market was amassed while working with the HEP.
+As part of our diversification strategy we now supply B2B software       solutions for reading ID card,       number plates (for about 12 different countries), legacy utility meters       and general text.
+As a       marketing strategy we have approximately 30 apps available form iTunes and       Google Play.
+Ready       University based expertise has enabled us to build our own in house secure       licensing server so we       can license Android software without paying Google its distribution       fees.
+"[7]     "This is an excellent example of what happens when the possible wider       applications of new       research and technologies are considered" Dr Liz Towns-Andrews, Director       of Knowledge       Exchange, STFC.
+[8]     The work with IMENSE offered a number of public engagement opportunities.
+When the LHC was       first switched on in 2008, STFC invited a select handful of companies,       including IMENSE, to be       part of the "Big Bang Breakfast" event at Westminster, attended by       Ministers and VIPs.
+Numerous       online technology news sites reported on the high-profile event.
+Project activities were also presented to an enthusiastic general public       at the BA Festival of       Science, Liverpool 5-10 September 2008, in the session "Latest research       and today's technology -       Grid Computing in the UK".
+Over 30,000 people attended the Festival, 87%       of were outside       academia and nearly 90% rated the Festival as excellent or good.
+[15]       The work attracted other positive media coverage, for example an article       in the Telegraph in 2008       and a 2008 interview with David Sinclair shown on the BBC website).

@@ -1,0 +1,39 @@
+     A distinctive feature of the actuarial research at Cass lies in the       strength of the relationships with the actuarial profession and with the       Government Actuaries Department (GAD), the non-ministerial department       which provides actuarial analyses to governments and organisations in the       UK public sector.
+In 2008, GAD brought together clients, industry figures       and stakeholders to discuss future longevity improvements.
+This was one of       their `hot topics' [1].
+The event was attended by statisticians from the       Office for National Statistics (ONS), Cass Business School and many other       academics and professional actuaries.
+It was at this event that the ONS       statisticians first observed the statistical smoothing technique,       Geometrically Designed Splines (GeDS), developed by the Cass team.
+This       information was communicated to the ONS staff working on the English Life       Tables 16 which led to a successful collaboration between the ONS and       Cass, resulting in the GeDS being used as the smoothing methodology [2],       [3].
+As Adrian Gallop of ONS and GAD explains: "The GeDS smoothing         methodology provides an efficient way of graduating mortality rates,         including extrapolation to the oldest ages and has a particular         advantage in that mortality rates at non-integer ages can be readily         determined" [4].
+The ELT 16 provides a valuable time series which can be used to monitor       trends in mortality in England and Wales over a long period of time.
+These       period life tables show the increasing longevity of the population of       England and Wales over a long period and can be compared with the       experience of other countries.
+One way of illustrating the reductions in       death rates is to show the increase in expectation of life at birth, shown       in Life Expectancy Tables.
+ONS Life Expectancy Tables for England and       Wales are constructed at various ages for mortality based on the years       1910 to 1912 and at twenty year intervals thereafter until 1970 to 1972,       together with those for 1980 to 1982, 1990 to 1992 and 2000 to 2002.
+The       ELTs are used in calculating historical rates of mortality improvement       over long periods from 1911 [3].
+Further, when mortality estimates are combined with fertility data,       migration data and trend-based assumptions, life tables can be used to       make population estimates (the number of people who were usually resident       in an area at the mid-year point) and population projections (a picture of       the population as it may develop in future years) [5].
+The ONS population       projections use mortality rates estimates in each calendar year in the       period 1961 to 2007.
+These have been graduated using a method similar to       that used for graduating the English Life Tables No 16.
+ELT 16 and related life expectancy tables are available to the public and       businesses for use free of charge through the ONS website.
+Web metrics       provided by the ONS contain information on the number of web visits and       downloads of the English Life Tables No 16 and show between 280 and 490       downloads per month in the period November 2012 to June 2013 [6].
+Following the publication of the English Life Tables based on data for       2000 to 2002, similar life tables employing the same graduation       methodology were prepared by the ONS on behalf of the General Register       Office for Scotland [7] and Northern Ireland Statistics and Research       Agency [8].
+The impact of this research has been extended internationally as life       data have been subject to the smoothing process to meet the needs of the       demography division of Statistics Canada, the Canadian government office       concerned with national statistics and the Central Statistics Office,       Republic of Ireland.
+In Ireland, the Cass researchers advised Kevin McCormack, the Senior       Statistician in charge of the Social Analysis Division in the Central       Statistics Office.
+Mr McCormack is presently engaged in a project to       develop a more statistically accurate cubic-spline graduation method and       to apply it to the latest Irish crude mortality rates from 2005 to 2007.
+Period Life Tables have been produced by the Irish Central Statistics       office on fifteen occasions from 1926 to 2005 to 2007.
+On each occasion       the Kings 1911 formula for Osculatory Interpolation was used to graduate       the crude mortality rates.
+The shift now to using cubic-spline graduation       of Irish crude mortality rates therefore represents a major shift in       statistical policy [9].
+Statistics Canada recently produced its latest set of national and       sub-national life tables for the period 2005 to 2007 using the Cass       smoothing methodology to find both the optimal number of knots and their       positions on age distribution in the context of constructing life tables       [10].
+The Canadian work is important as it confirms the accuracy of the       Cass methodology, as explained in the report, Methods for Constructing         Life Tables for Canada: "An evaluation of the method by Kaishev         et al (2009) was made for two regions, Canada as a whole and         Newfoundland and Labrador.
+The number and the position of the knots         given by the Kaishev et al model were very close to those established         empirically"[11].
+The impact of the research is broad since life tables are extensively       used in pensions planning, demography, insurance, economics and medicine.
+For example, in order to price annuity and life insurance products and       ensure the solvency of insurance companies through adequate reserves,       actuaries must develop projections of future life expectancy and make risk       assessments related to insured lives [12].
+Life tables are a key tool for       the work of pensions and life insurance actuaries.
+A key risk managed by       actuaries is whether the progressive reductions in mortality rates seen in       life tables will continue; this is often referred to as longevity risk.
+For instance, the general population life tables serve as a benchmark for       pension schemes where they are used to produce reference survival       statistics and are compared with within-scheme mortality experience.
+Increasing longevity greatly affects government policy, because as       longevity increases in the UK, people work for longer.
+On average, a       healthy 65 year-old male can now expect to live for another 21 years, a 65       year-old female for another 24 years.
+Government legislation was       introduced to encourage more people to save for their retirement through       the purchase of annuities [13].
+The Government consultation cites the       English Life Tables 16 and ONS life expectancy tables which use the       smoothing methodology designed by the Cass academics.
+The advantage of the Geometrically Designed Splines method over existing       statistical smoothing methods is in its intrinsic geometric nature.
+This       leads to its extreme numerical efficiency and allows for fast smoothing of       large real data samples from any field of real life application.
+In       recognition of the enormous potential of the method, requests for       implementation of the GeDS software have already been received from Intel       Corporation and advanced instrument and sensor manufacturer, Aerodyne       Research.

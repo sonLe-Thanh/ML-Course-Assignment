@@ -1,0 +1,29 @@
+     The small specimen creep testing methods developed by the UoN research       team have been used       by at least four major organisations serving the power industry &#8212; either       directly (RWE npower) or       by providing services to power plant operators (Laborelec, AMEC and EPRI).
+These companies       have benefited through improving the performance of existing plants or       preventing potential future       losses.
+Training and consultancy provided by the UoN team in the use of       the new tests have       resulted in changed industry practices.
+The full economic value of the impact to the power industry is reflected       through avoidance of cost.
+Steve Brett [4.1] confirmed that for this reason, the power industry is       unable to quantify the total       cost of incidents avoided through use of these methods.
+The following       examples provide an       indication of the reach and significance of the impact.
+The impression creep testing method developed as part of the original       research has been used by       RWE npower (turnover &#8364;50.7Bn, operating in 17 countries) since 2008 for       plant life assessment       and targeted maintenance in steam-carrying boiler pipes in the UK, France       and the Netherlands.
+Although it is difficult to estimate the full monetary impact of the       technology, over 180 tests have       been performed to date on power plants in the UK.
+A specific example of       the use of this method       and the resulting prevention of cost at RWE npower was provided by the       then Corporate Engineer       Materials and Welding at RWE npower, Steve Brett, in March 2013:     Chromium Molybdenum Vanadium (CrMoV) Steam Pipe Bend     "Cracking was found on a number of bends on the CrMoV steam pipework       systems at several UK       power stations.
+The bends had all been replaced at some stage in the       station life and had       apparently not been manufactured in the same way as the original bends       (many of which were still       operating) in these systems.
+RWE npower identified one bend with a suspect       microstructure and in       June 2010 carried out small-scale sampling as part of further       investigation.
+lmpression creep       testing at Nottingham University showed the creep strength of the bend       material, although       relatively weak, to be no weaker than material in the adjacent original       bends.
+On the basis of this it       was decided to leave the bend in service, albeit with an increased       inspection regime.
+A new bend       would have cost an estimated ~&#163;40k.
+The cost of a steam leak from a CrMoV       pipework system       varies with the time of year.
+The average cost has been estimated to be       ~&#163;200k, but the cost at a       time of peak winter electricity demand may be closer to &#163;1M."
+[4.1].
+Other direct beneficiaries of the research include AMEC, one of the       world's leading engineering       and consultancy services in the oil and gas market, with a turnover &#163;4.1Bn       and operations in 34       countries.
+AMEC has installed two impression creep test rigs in its Risley       laboratory and since       2011 has used them to undertake a range of tests on high-temperature       materials for major power       companies in the UK, including EDF nuclear power plants [4.2].
+Since 2010 Laborelec, a technical service provider for the electrical       power and energy industry       (turnover &#8364;48M, operating in 4 countries), has been using the small ring       test on virgin nickel based       superalloy material used in gas turbine blades for power companies in the       Netherlands and       Belgium.
+Laborelec's expert on structural integrity assessments, Steve       Nardone, has remarked:       "The small-ring test technique has proved its value by providing robust       creep data compared with       conventional uniaxial data.
+Alongside conventional uniaxial creep testing       and in support of it, the       small-ring testing technique can refine our creep assessment and therefore       improve our remaining       life assessment techniques, which could optimise maintenance and       replacement of equipment in       the near future."
+[4.3].
+The original research conducted at UoN has resulted in an international       reputation for the       academics involved.
+They have widely shared their knowledge with members       of the US-based       Electric Power Research Institute (EPRI), which has more than 1,000       members worldwide, mainly       working in electricity generation and delivery.
+The UoN team has trained       member companies since       2011 to enable them to perform impression creep tests.
+This has translated       into tests being       performed in power plants across the USA, and the data generated from       these tests has resulted       in EPRI funding of two projects at UoN (value USD$120k) on the       interpretation of small punch test       data.
+The research outcomes have been made available to other practitioners       through two workshops       and one seminar.
+An International Practitioners Meeting was organised in       March 2011, an       International Expert Group Workshop in June 2011 and an IMechE Seminar in       February 2012, at       the University of Nottingham, on small specimen testing, which attracted       more than 20 senior level       decision makers from the power industry based in the UK, France, Belgium,       Finland, the       Netherlands and the USA.

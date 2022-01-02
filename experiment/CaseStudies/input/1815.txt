@@ -1,0 +1,34 @@
+     Munjiza's fracture modelling algorithms are used to develop predictive       simulation software for a wide range of industries including the defence,       automobile, construction, aerospace and chemicals industries.
+But they       have generated greatest impact in the global mining industry, where his       research into finite and discrete element modelling (FDEM) results in more       accurate and detailed predictions of blast mechanics, which are       computationally tractable.
+Predictive software based on Munjiza's       algorithms has generated commercial and economic impact for major mining       companies through increased productivity, a reduction in extraction costs       resulting in enhanced profitability for the companies and reduced       commodity price for customers.
+Further, the safety of the process is       improved, delivering benefit to employees working within the mine.
+Software used in the mining industry to accurately predict blasting       Munjiza's fracture modelling methods are widely used in the multi-billion       dollar global mining and extraction industries.
+Many engineering and       extraction activities are "one-shot" opportunities that, if they go wrong,       cannot be repeated.
+Take, for example, the blasting of a rock face in open       cut mining.
+The resulting fragments of ore must be within a certain range       of sizes if they are to be suitable for onward processing.
+Until the       introduction of the FDEM modelling approach, the development of a blast       design (placing and timing charges of explosives so that the resulting       explosion creates the desired pattern of fractures) was impossible to       predict accurately.
+Munjiza's algorithms, based on his FDEM methods, have       enabled the development of modelling software, which can predict the       result of explosions in both time and space with sufficient accuracy that       it can be used to design highly productive and safer blasts, for example       via Orica's MBM package and Abaqus Explicit modelling software used by       Coffey Mining.
+Orica and the MBM package       Orica is a leading multinational corporation that has more than 15,000       employees and an annual revenue in 2010 of $6.5 billion.
+The company       provides commercial blasting systems, mining and tunneling support systems       in more than 50 countries worldwide.
+Orica's Mining Services Division is       the world's largest single supplier of commercial explosives and blasting       systems to the mining, quarrying and infrastructure sectors.
+Orica is able to provide accurate blast designs for their customers     worldwide using their Mechanistic Blasting Model (MBM) package, which is     based on Munjiza's algorithm [Section 5, source 1].
+This is provided as     standard for all of their open-cut metal, coal and quarrying customers in     Australia, Asia, Europe, the Middle East, Africa, North America and Latin     America.
+As an example of how Orica uses the MBM package, the Eastern Creek     site in Woolombi, Australia has a complex geology that had led to less     output and greater costs than the mine's owners were happy with.
+When     Munjiza's approach was introduced by Orica at this site, it led to an     increase in dragline productivity by 10%, a reduction in drill and blast     costs at Eastern Creek of 7% and an annual saving of $2.8 million [Section     5, source 2].
+Elsewhere in Australia, in Hunter Valley, Orica were faced     with the challenge of blasting in an area that contained high-voltage power     lines.
+The blast designers needed to accurately predict the impact of the     blast in order to ensure that the power lines weren't damaged because this     risked causing a blackout in a major city less than 40 miles away.
+They used     the MBM software to predict the effect of the blast and to ensure that the     power lines would not be brought down by the explosions [Section 5, source     3].
+Use of the NBS algorithm in Abaqus software       Munjiza's NBS algorithm solver is used in Dassault Syst&#232;mes' Abaqus       Explicit modelling software package, the world's leading generic       simulation software [Section 5, sources 4,5].
+The incorporation of the NBS       algorithm into Abaqus has delivered economic/commercial impact both to       Dassault Syst&#232;mes and to their customers, who use the software to solve       engineering problems and improve their business competitiveness.
+The       incorporation of the NBS solver within the Smoothed Particle Hydrodynamics       (SPH) method in Abaqus Explicit 6.11 improves the functionality of the       software and helps ensure competitive advantage of Dassault Syst&#232;mes as       market leader with associated direct economic impact.
+Dassault Syst&#232;mes S.A. provide several case studies relating to the       economic impact their customers have obtained through the use of the NBS       solver within the Abaqus Explicit package (see section 5).
+For example,       this Abaqus Explicit software is used by Coffey Mining, a specialist       consultancy to the international mining sector.
+The principal engineer for       Coffey Mining, says that the modelling approach based on Munjiza's work       allows them to "answer a number of questions simultaneously, [allowing       Coffey] to work on the complete 3D mine geometry."
+This cuts down on the       time spent creating models and leads to more accurate predictions [Section       5, source 6].
+Eni S.p.A. is a multinational oil and gas consultancy that advises its       clients on ways to better manage the lifespans of oil and gas fields.
+They       use the modelling techniques developed by Munjiza within the Abaqus       Explicit software to ensure that reservoirs of fossil fuels are managed as       sustainably as possible [Section 5, source 7].
+"It used to take almost two       months to complete a single model suitable for running," says Silvia       Monaco, geomechanical engineer in the petroleum engineering department of       Eni E&amp;P headquarters.
+"Now we can build a model in only four weeks...
+Moreover, the new iterative solver implementation provides a strong       reduction in computational times and memory usage that further speeds up       the execution of the study."
+Abaqus Explicit predictive simulation software has a wide range of other       applications including predicting ballistic impact in the defence       industry, crashworthiness in car manufacturing, and other uses in the       construction, aerospace and chemicals industries.
+It is expected that the       latest combined finite discrete element method as described in three       monographs will become an integral part of a number of generic and       application-specific software packages, thus further improving       productivity, reducing cost, increasing safety and leading to a better       environment.

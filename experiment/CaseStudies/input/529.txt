@@ -1,0 +1,34 @@
+     The D/L method Professional Edition is the standard mechanism for       resetting targets in limited-overs cricket matches at many levels of the       game.
+It has time and time again been proven to be robust and reliable.
+Whilst sometimes controversial and occasionally questioned, the important       contribution that the D/L method has made to a popular pursuit has led to       an increasing awareness of the value of the mathematical sciences in areas       far removed from academia.
+On October 1st 2003, the International Cricket Council (ICC)       introduced the upgraded D/L method (Duckworth &amp; Lewis, 2004) to all       one day international (ODI) matches.
+It is referred to as the Professional         Edition of the D/L method and since 2008 has been used in over 500       top-flight cricket matches enabling more equitable outcomes, following       stoppages in play, for the competing teams, their fans and the governing       bodies that regulate the games.
+Prior to the D/L method of scoring there had been two other methods of       setting targets.
+The traditional method had just made use of proportions       of overs to revise targets (Average Run Rate) e.g.
+in a fifty over match       the team batting second because of rain only had thirty overs to chase the       required score, they would have a revised score to beat of 60% of the       original.
+This method was generally more favourable to teams batting       second though and made it a lot easier to chase scores down.
+The       Australians adopted a method (Most Productive Overs) that saw economical       bowling overs from the first innings removed to increase the difficulty of       chasing.
+This though ended in farce, as South Africa playing England in       the 1992 World Cup went from needing 22 runs in 13 balls to requiring 22       runs from one ball because of a short downpour 3.
+Retrospective application of the D/L Professional Edition to this       match shows that South Africa would have needed four runs to win from that       final ball &#8212; an achievable and fair target4.
+There are several       examples that demonstrate the Professional Edition's impact on       individual cricket games and the following narrative presents notable       examples of these.
+In the ODI between England and India on September 11, 20115,the       match was frequently interrupted by rain in the final overs, and a       ball-by-ball calculation of the Duckworth-Lewis 'par' score played a key       role in the tactical decisions made during those overs.
+At one point,       India were ahead according to this calculation, during one rain delay (and       would have won if play was unable to be resumed).
+At a second rain       interval, England, who had scored some quick runs (precisely because they       were aware of the need to get ahead in terms of D/L) would correspondingly       have won if play had not resumed.
+Play was abandoned with seven balls       remaining and England's score equalled the Duckworth-Lewis 'par' score,       therefore resulting in a tied match.
+This example illustrates the extent       of the important and difficult decisions that match officials have to       make, such as assessing at exactly what point the rain is heavy enough to       justify ceasing play.
+If they had done so one ball earlier, England would       have been ahead on D/L, and so would have won the match.
+Alternatively if       play had stopped one ball later, without England scoring off that ball,       India would have won the match.
+Recently, the Professional Edition was applied to the popular and       commercially lucrative Twenty20 game (ICC Twenty20, Indian Premier League       Twenty20).
+A review in 2009 of 500 ODI and 200 Twenty20 matches showed       that the average scores in Twenty20 format were consistent with the       pattern in 50-over matches6.
+During the 2010 World Twenty20       series, England felt they were denied a fair chance of victory against the       West Indies (WI) due to the D/L method Professional Edition       (notably Captain Paul Collingwood "There's a major problem with         Duckworth-Lewis in this form of the game"7).
+England scored 191 in their 20 overs (including 60 for one wicket in the 6       `PowerPlay' overs [In a PowerPlay, restrictions are applied on the       fielding team]).
+During the second innings, WI who started very well, were       30 for no wickets in 2.2 PowerPlay overs.
+Rain intervened and 14 overs       were lost.
+Following the interruption, the target was revised to 60 runs       in six overs leaving WI with 30 runs to get in the remaining 3.4 overs;       the WI won with one ball to spare8.
+Analysis following the       match demonstrated that WI's overall requirement was exactly what England       had scored in their 6 PowerPlay overs and, as WI only had 2.2 PowerPlay       overs, the revised run target was fair9.
+In June 2012 t he ICC Cricket Committee, following a challenge by V.       Jayadevan for a new way of working out run chases for reduced overs       matches (VJD method) decided to keep the D/L method for calculating       one-day targets when weather intervenes.
+The ICC said in a statement "The       committee unanimously agreed that there was no evidence of any significant       flaws in the D/L method nor did the committee believe that any       improvements could be offered by the VJD method.
+Therefore the committee       decided to continue with D/L,".10     In June 2010 Dr Lewis was awarded the MBE for his services to mathematics       and cricket11.
+There are also broader, more general, secondary       impacts arising from the research observed through the D/L method's       influence on popular culture and society.
+For example, `the       Duckworth-Lewis Method' is now an accepted part of everyday language and       used as an allegory for complexity12.
+The Irish pop group took       this name and produced a `cricket concept' album that was nominated for an       Ivor Novello Award in April 201013 and, on 1 July 2013, they       released a second album `Sticky Wickets'.

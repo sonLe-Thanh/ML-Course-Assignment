@@ -1,0 +1,46 @@
+     The primary impact of the research described in Section 2 is economic,       and the beneficiaries are HSBC and other financial institutions.
+There is       secondary societal impact in the adoption of RORO as a standard term in       media coverage of financial markets.
+All impacts have occurred since 2008.
+From research to impact     The HSBC Foreign Exchange Group were key partners in the development of       the underpinning research, three HSBC employees were coauthors, and HSBC       coined the phrase RORO.
+The underpinning research was taken up by the       Foreign Exchange Research Group at HSBC, the world's third largest bank by       market capitalisation.
+The bank has a major presence in global markets       with large trading operations in all significant asset classes.
+Trading is       undertaken on behalf of clients, including institutional and sovereign       fund managers, central banks, charities, and supra-national organisations.
+HSBC Research actively engages with its client base, both enhancing the       clients' background understanding of markets and providing advice on       specific investment and trading strategies.
+The Head of FX Quantitative Strategy at HSBC states [A] "The RORO         research was translated from the original PRE paper into two major HSBC         Global Research publications [Risk On-Risk Off: a paradigm is born       (2010) and Risk On-Risk Off: Fixing a broken investment process (2012)],         aimed at Market Practitioners".
+These publications explore the       far-reaching consequences of RORO for market participants, and describe       techniques explicitly devised to combat the phenomenon, with strategies to       aid market participants in incorporating this new view of the market into       their planning.
+HSBC also devised the HSBC RORO Index (illustrated below)       to quantify the RORO effect.
+Nature and extent of the impact     Investors have traditionally relied on certain guiding principles, some       of which are consistent with standard finance theory such as the Capital       Asset Pricing Model (assets respond to their own economic fundamentals as       well as overall market conditions, risk reduction through diversification       is achievable across asset classes) and others which may not be (enhanced       returns can be generated though "active" strategies such as relative value       trades and stock picking).
+The RORO phenomenon means these principles are       much less useful than they once were.
+Furthermore, and crucially for       investors, it provides a replacement framework within which they can       construct new and effective asset allocation strategies.
+Immediate impact for HSBC can be measured in terms of client take-up.
+Research is distributed via a web-site, and by an emailed web-link,       enabling active downloads to be tracked.
+The Head of FX Quantitative       Strategy at HSBC writes [A]: "In 2012, HSBC published over [text         removed for publication] research reports.
+Scored by distinct         hits, the report "RORO: Fixing a Broken Investment Process" was ranked 3rd         globally.
+[...] It is a testament to the importance of RORO to         traditional practitioners as well as `quants' and points to RORO         becoming `mainstream and widely relevant.
+[...] HSBC also         distributes research in online video format and two videos were produced         ... Of over [text removed for publication] video releases in 2012, these         two videos were ranked 2nd and 3rd most watched."
+As a consequence of client demand, the PCA-based graphical and       quantitative tools, as developed by the University of Oxford and HSBC, are       now updated weekly by HSBC and provided to clients on a subscription       basis.
+The immediate commercial impact for HSBC is exemplified in the       letter from the Head of FX Quantitative Strategy at HSBC [A], which states       [text removed for publication].
+Trading businesses are high volume,       low margin operations.
+A higher ongoing volume of client business is thus       extremely valuable.
+Numbers are too commercially sensitive to state, but       are significant enough that HSBC has now launched a dedicated Emerging       Market version of the PCA-based tools to further its Asian, Latin American       and Middle Eastern franchises.
+Deeper impact is seen in requests for in-depth project work by HSBC from       top-tier clients.
+"We also conducted bespoke research for individual         clients, including central banks, corporates and investment managers         looking to adapt their businesses to the RORO phenomenon.
+The combined         AUM [assets under management] of these clients totalled hundreds         of billions of dollars" states the Head of FX Quantitative Strategy       at HSBC [A].
+The research has directly benefited the wider investment management       community, with many substantial investors using the HSBC RORO index as a       key quantitative tool for making investment decisions.
+As an example of       typical usage, the website of Institutional Asset Manager, reporting a       presentation [B] by Peter Rigg, Global Head of HSBC Alternative Investment       Group and an early adopter of the use of RORO, states: "Quite simply,         until the RORO Index shows signs of falling, Rigg does not envisage a         transition from Scenario 1 [relatively pessimistic] to Scenario         2 [cautiously optimistic]"; it goes on to explain that his       investment strategy will be determined by this signal: "`We're         currently positioned for Scenario 1 but we can move quickly into         Scenario 2 when required', said Rigg".
+HSBC AIM is the largest       Alternative manager in the UK with $30 Bn AUM.
+The Global Chief Investment Officer of [text removed for publication]       writes (to the University of Oxford) [C]: "Your published research in         this area has been instrumental for practitioners endeavouring to         measure and adapt to this once-in-a-generation shift in market         structure.
+I consider your work to be groundbreaking and it has had         significant impact within the asset management community and beyond".
+A Director at [text removed for publication] writes [D]: "[RORO] helped         my team better understand our positioning during a difficult time in the         markets", listing areas where [text removed for publication] uses       it, including stress testing positioning (analysis of portfolio behaviour       under extreme scenarios) and assisting clients in total portfolio       construction.
+A Senior Portfolio Manager at [text removed for         publication], states [E]: "The hallmark of the RORO phenomenon         was a dramatic increase in cross-asset correlations: this had profound         consequences for the asset management community.
+[...] the         insight we derived from your research has had a direct impact on the         construction methodologies we adopted for our funds."
+Use of the RORO framework has now extended well beyond HSBC and other       professional investment managers.
+After featuring in specialist       publications such as Risk Magazine ("Everyone is perplexed by these         risk-on or risk-off days, where it feels like you can actually see the         correlation increase" [F], para 2) and FX Week (headline: Risk-on,       risk-off markets boost demand for active currency management [G], RORO       began to feature regularly in the generalist financial press, often with       explicit reference to the HSBC research team.
+There have been many       appearances in the Financial Times and Wall Street Journal, for example "In         the scale of Risk On/Risk Off trading days, this looked usual" [H]       from the FT and the WSJ headline "Bernanke's 'Risk-On, Risk-Off' Monetary       Policy" [I]; they include columns, blogs, feature articles and inclusion       in a Private Wealth Management supplement.
+The Financial Times has       recently added RORO to the official list of tags it uses to index its       website FT.com, where a search for RORO gives more than 50 results [J].
+The RORO paradigm has now moved on to become a staple of mainstream       journalism.
+For example, articles in the Times (headline: "Risk on, risk       off as stock market's RoRo goes into sharp reverse" [K]) and the New York       Times Business Day `Your Money' section ("Why are markets so highly       correlated?
+The answer may be found in "risk on, risk off," a bit of       jargon favored by financial traders and strategists."
+[L]) are aimed at       mainstream retail audiences, while [M] looks at the repercussions of RORO       for retirement planning and saving for children's education.
+Likewise,       mainstream retail investor websites use the terminology routinely; for       example, in an article entitle Rising star fund managers,       Investor's Chronicle simply quoted Jason Hollands from Bestinvest:.
+"A         false call on the risk on/risk off trade could turn a manager from hero         to zero overnight" [N].

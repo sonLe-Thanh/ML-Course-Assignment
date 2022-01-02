@@ -1,0 +1,52 @@
+     BACKGROUND     Basel III, developed by the Basel Committee on Banking Supervision and       agreed in September 2010, is a set of comprehensive reform measures that       puts in place a global regulatory standard on bank capital adequacy,       stress testing and market liquidity.
+One of its mandatory requirements is       for all banks to conduct counterparty credit risk (CCR) model backtesting.
+However, it leaves each bank to define its own backtesting methodology.
+CCR backtesting is intended to ensure that the models provide more timely       and accurate information on a bank's exposure to the risk caused by a       counterparty by comparing the risk measures implied by the bank's pricing       models with the realised exposure based on the traded prices.
+The main       output of the backtesting is in the form of a "traffic light" system       whereby: "green" signals that there is no evidence against the pricing       models; "amber" signals that observed risk exposure is higher than that       implied by the pricing models but still within an acceptable tolerance       level; "red" indicates that the price models underestimate the risk and       need to be re-calibrated and the capital requirement adjusted.
+Ultimately,       backtesting results should demonstrate to the regulators (i.e.
+the Bank of       England in UK) the soundness and conservativeness of the reported exposure       to risk.
+Backtesting should also be able to identify where pricing models       are overly-conservative.
+At the invitation of Barclays Bank PLC, Yao has been participating in the       CCR backtesting project undertaken by the Quantitative Analyst &#8212; Exposure       Group at Barclays since January 2012.
+Yao was invited because of his       relevant research expertise in handling dependence and nonstationarity in       data and his considerable experience in inference with conditional       distributions.
+NATURE AND EXTENT OF THE IMPACT     Based on his previous work in [1], [2] and [3], and the newly developed       method in [4], Yao proposed several key statistical methods that were used       in the development of the backtesting methodology outlined in document       [A]; see also [B] and [C].
+The methodology has been approved by Barclays       internal governance process and, from September 2013, it has been       implemented as a part of business operations at Barclays.
+The outputs of       the methodology are now being used by Barclays credit risk managers on a       daily basis to control model risks.
+The new methodology improves       substantially the CCR assessment and management at Barclays in the ways       described below, and puts the practice at Barclays in line with the Basel       III regulatory capital framework.
+The resulting improved information about       the bank's exposure to risk mitigates potential future losses and thus       also helps to stabilize the global financial market and protect economic       stability and individual welfare.
+DETAILS OF HOW THE RESEARCH UNDERPINNED THE BACKTESTING METHODOLOGY AND       HOW RISK ASSESSMENT HAS BEEN IMPROVED     Yao contributed directly to Barclays backtesting methodology set out in       [A] and [B] (see also [C]).
+Indeed, Yao wrote the first version of [B].
+The key ways in which his research underpinned the methodology and the       benefits arising from his research contributions can be summarised as       follows.
+1.
+Yao's research fed into a conditional counter (a new metric for         backtesting) and a simulation-based testing method which result in more         reliable information on risk exposure.
+A "binomial counter" had been used by Barclays for analysing       collateralized transactions for which the data from non-over-lapping time       intervals can be treated as independent.
+A stratified version was       introduced to deal with dependence in uncollateralized transactions.
+However, this simple approach, although approved by the Financial Services       Authority, is inadequate where prices across different time horizons are       dependent on each other &#8212; which is commonplace.
+Indeed, there hardly       exists any effective metrics for backtesting with dependent data.
+The conditional counter and simulation-based testing method, introduced       on the basis of Yao's research, fill this gap.
+The conditional counter       method specified in [A] and [B] applies a version of the nonparametric       estimation method proposed in [1].
+It effectively looks at the extreme       values of conditional distributions instead of those of unconditional       distributions.
+The simulation method is more generic.
+It can be used to       test not only the extreme quantiles but also other features such as the       whole distribution.
+It can also be easily extended to test the sensitivity       to risk factors.
+This is significant because an important new requirement       of Basel III is to test various features of the distribution.
+A simulation-based testing procedure for calculating p-values using the       bootstrap multiple comparison method of [2] is generic.
+It can be used for       testing, for example, a pricing model in relation to an observed trade       path over different time horizons based on any appropriate test statistic.
+It takes into account the non-stationarity and the dependencies among       prices at different time horizons, or different price paths, in an       automatic manner (see [A]).
+This enables Barclays to extract more reliable       information on risk exposure in their daily operation.
+This test procedure       can also be adapted to identify whether or not pricing models are       overly-conservative, providing a sound scientific basis for Barclays to       adjust is capital reserve.
+The proposed simulation-based testing method based on bootstrap       calibration represents the first such generic method to incorporate       nonstationarity and dependence among different trades and/or different       time horizons in an almost automatic manner.
+This represents a big step       forward in the backtesting techniques used at Barclays.
+2.
+Yao's research contributed some key steps to the methodology for         selecting representative portfolios , which result in the Basel III         standard being met more effectively.
+Basel III allows banks to construct representative portfolios for each       counterparty consisting of, for example, a subset of the trades between       two banks.
+Banks are left to decide the number and trades to be included       in the portfolio, but they have to justify their choices to their       supervisors (the Bank of England in the UK).
+As the number of trades       between two major banks can easily be in the order of tens thousands or       more, a simple linear regression runs into the so-called "large p and       small n" problem, even after the initial screening and categorisation.
+Furthermore, many trades are highly correlated in the sense that the       sparse representation is certainly not unique.
+Hence some popular       techniques such as LASSO or the Danzig algorithm are no longer applicable.
+The procedure adopted by Barclays uses the method of [3], i.e.
+a stepwise       sweep coupled with the use of (modified) information criteria to form the       candidate set.
+To construct a representative portfolio from the trades in       the candidate set, the new Matching Quantiles Estimation (MQE) method       proposed in [4] is now employed.
+Barclays has also adopted a new measure       and a test proposed in [4] to check how well the distribution of a       selected portfolio matches the target distribution at all levels       simultaneously, as required by Basel III.
+This overcomes problems with       existing estimation methods, such as quantile regression, which can only       check the success of a match at one, or at most, a few fixed levels,       resulting in a representative portfolio that falls short of the Basel III       standard.
+Construction of counterparty representative portfolios is a new mandated       requirement under Basel III.
+Some key steps in the way that Barclays has       formulated this construction in its new methodology are attributable to       Yao's research.

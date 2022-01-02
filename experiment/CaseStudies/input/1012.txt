@@ -1,0 +1,47 @@
+     The ONS produces population estimates for each mid-year (MYEs) for local       authorities.
+The latest MYEs form the base populations in sub-national       population projections (SNPPs).
+These MYEs and SNPPs are used throughout       central and local government in planning services and in allocating       resources from central to local government.
+For example, the SNPPs for a       funding year were used to drive the funding formula that allocated an NHS       budget of &#163;89 billion to Primary Care Trusts in England [A].
+The       ONS uses a cohort-component model to roll forward local area populations       from the 2001 Census.
+The immigration component is highly uncertain and       this affects MYEs directly.
+The research has had a direct impact on ONS,       who have adopted and further developed the Leeds approach to estimating       immigration to local authorities.
+To understand this impact, we first       outline how the researchers developed the new estimation model for       immigration to local authority areas, in collaboration with end users.
+We       then turn to the specific impacts of the research for ONS.
+The process leading to impact     ONS estimates total immigration to the UK by year using the IPS with Home       Office information on Asylum seekers and Irish Central Statistical Office       data on UK-Irish Republic migration.
+Prior to 2011 ONS employed the IPS       and LFS to allocate the national immigration estimates to English regions       and Wales (10 zones).
+The IPS was utilized to distribute regional totals       to intermediate zones (63 zones).
+Census 2001 immigration statistics were       then used to assign intermediate zone totals to local and health       authorities.
+However, the GLA were sceptical that the very small IPS could       be used to estimate immigrants at the intermediate geography scale and       were concerned that use of the 2001 Census would misestimate the       distribution of new immigrants from countries which joined the EU in May       2004.
+In 2006 at the request of the GLA, Rees and Boden compiled       administrative data proxies for local authorities and used them to create       new estimates of sub- national immigration [1].
+Impacts on the ONS methodology for the estimation of sub-national         immigration      After a commissioned evaluation [B], the ONS adopted the SoG       recommendations that sub-national immigration be estimated by allocation       the national totals by purpose of migration.
+ONS made improvements by       using detailed administrative data available to National Statistics.
+For       example, ONS used Migrant Worker Scan data (Department of Work and       Pensions) to distribute immigrants coming to work.
+Higher Education       Statistics Authority data were used to distribute University students from       outside the UK to subnational areas.
+GP Patient Register data were       employed to distribute immigrant children, dependents aged 17-59 and those       aged 60+.
+Home Office data were used to distribute asylum seekers.
+The       methodology generated the sub-national immigration estimates employed in       the 2011 local population estimates and will be used in future population       estimates and projections.
+Full documentation on the methodology and its       impacts was published on 17 November 2011 [C].
+In an email [D] to Rees, the ONS project leader confirmed       the importance of the Leeds research:       "Work undertaken by Phil Rees and Peter Boden on using administrative         data to distribute national immigration flows to local authority level         has laid an important foundation to the improved methodology developed         by ONS.
+This work has been elaborated on by ONS through improved access         to a range of administrative data sources.
+These improved immigration         figures have been incorporated into a set of indicative population         estimates, which are widely accepted as being an improvement on the         current figures.
+These in turn have been used for the 2010-based         sub-national projections published on 21 March 2012, which are a key         input in allocating local authority funding from central government.
+ONS         intend to use this approach moving forward from the 2011 Census and so         this work will leave a lasting legacy."
+Local authority planning has benefitted from the improved local       population estimates resulting from the new sub-national immigration       estimates.
+The GLA demographer wrote as follows [E]:       "The work that SoG carried out on improving immigration estimates has         been of immense use to us here at the GLA.
+Prior to the introduction of         the revised MSIP/IMPS methodology by ONS, informed by your work, we had         very little faith in the accuracy of estimates of immigration to local         authorities in London or even for the city as a whole.
+I consider the         approach to improving the methodology to be sound and sensible and the         subsequent estimates are shown to be far more realistic than what has         gone before by all sources of evidence that we have available to us -         most notably the results of the 2011 Census.
+The estimates have afforded         the opportunity to greatly improve central funding allocations within         the capital.
+The availability of the improved estimates for use in our         own population modelling work has been one of the biggest steps forward         in the quality of intelligence we've been able to provide to decision         makers and planners across the capital."
+The Intelligence Manager of Leeds City Council, wrote to say [F]:       "the 2011 Census endorsed the work that Peter Boden had undertaken,         showing a fall [far] smaller population compared to what had previously         been suggested by ONS.
+The subsequent future estimates for the Leeds         population are now accepted as a more robust representation of the         changes to population for Leeds, and LCC are pleased to see that the         involvement of Peter Boden and yourself have led to the amendment of the         methodology now adopted by ONS to improve the accuracy of immigration         estimates; LCC has also accepted that the improved accuracy for the         estimates of immigration to local authority areas will negatively impact         upon the allocated funding received from central government, based upon         the revised methodology."
+What the new population estimates will mean for local authorities from         2013 onwards     An ONS publication [G] compared two sets of mid-year 2011 MYEs       for LAs: (1) MYEs rolled forward from Census 2001 using old       immigration estimates, (2) MYEs rolled forward from Census 2001 using new       immigration estimates with MYEs rolled forward populations from Census       2011, the most accurate.
+Set (2) population estimates are much closer than       the set (1) to the Census 2011 estimates.
+The changes in sub-national       immigration estimates led to a revision of the 2005- 2011 MYEs and       2011-2036 projections in the 2010 based SNPPs.
+The impact of switching to immigration estimates using the new       methodology has been measured in an ONS report [H], independently       verified by the Leeds researchers.
+The report shows significant shifts in       estimated immigration occurred from local authorities in the East of       England, Yorkshire and The Humber, South East and South West to the West       Midlands and London.
+The new population estimates and projections influence the budgets of LAs       and local health agencies because they are used by central government to       allocate resources.
+For example, consider a thought experiment in       which &#163;100 billion is allocated to local agencies.
+By using SNPP       populations employing the new immigration estimates and assuming       population to be the only driver of allocations, there would be a shift of       &#163;1.9 billion in 2020 allocations.
+Some 156 LAs would see increased budgets       LAs with Newham (+&#163;145m) and Brent (+&#163;91m) at the top and 170 LAs would       lose with Leeds (-&#163;99m) and Bristol (-&#163;101m) at the bottom.
+Actual       allocations are, of course, more sophisticated and nuanced, because       factors other than the population are taken into account.
+However, the       experiment serves to demonstrate that demographic methods can potentially       influence the delivery of services to local residents in important ways.

@@ -1,0 +1,28 @@
+     See section 5 for corroborating sources S1-S7.
+Context     Lung cancer is the commonest cause of cancer-related morbidity and       mortality worldwide.
+30,000       cases are diagnosed annually in the UK.
+The majority of patients have       metastatic disease for       which there is no curative treatment.
+Historically lung cancer is       classified into small cell (SCLC) or       non-small cell (NSCLC) subtypes according to microscopic appearances.
+In       the 1990s it was       believed that chemotherapy for NSCLC was ineffective.
+The UoM Lung Cancer       Group led in       research to identify effective chemotherapy treatments for patients with       NSCLC and to address the       `therapeutic nihilism' surrounding NSCLC.
+Reach and significance of the impact     Effective treatments for non-small cell lung cancer (NSCLC)     a) UoM research contributed significantly to establishing the evidence       base and the role for       chemotherapy compared with best supportive care and for gemcitabine and       platinum (GP) based       chemotherapy in the first line treatment for advanced NSCLC (2, S1).
+Key       outcomes demonstrated       were a relative increase in survival of 23% for chemotherapy and better       quality of life, less toxicity       and fewer hospital admissions for GP compared with older chemotherapy       regimens (2).
+As a result       of our research, chemotherapy, including the GP regimen, is now a       universal standard of care for       patients with metastatic NSCLC, as evidenced in the UK guidelines (S2),       European guidelines (S3)       and the US guidelines (S4).
+b) Gefitinib is the first targeted treatment for lung cancer to be       licensed (in 2009) for patients with       NSCLC bearing epidermal growth factor receptor (EGFR) gene mutations.
+This       treatment       represents a landmark for personalised medicine in lung cancer.
+The first       patient worldwide to       receive gefitinib was in Manchester (1) and the group have continued to       play a major role in the       clinical development of this drug (1, 3), notably identifying patient       populations with increased       chance of benefit.
+This latter observation led to other researchers       identifying the mutation to predict       for benefit.
+The treatment is available worldwide and at least 1 million       (likely more) patients have       received it (S5, S6).
+Optimising treatment for small cell lung cancer (SCLC)     a) UoM research has contributed to the evidence base for platinum       etoposide as the standard first       line chemotherapy for SCLC (5, 6).
+Platinum etoposide was standard in the       US but not in Europe.
+UoM researchers demonstrated grade 3 and 4 neutropenia rates of 90% versus       57% and grade 3       and 4 infection rates of 73 vs 29% with anthracycline versus platinum       based regimens respectively.
+UoM researchers have also demonstrated lack of benefit of `newer'       chemotherapy agents with a       20% lower response rate and worse survival for pemetrexed based treatment.
+These studies have       contributed to a shift from using more toxic anthracycline based regimens       in Europe and platinum &#8212; etoposide       as the mainstay of standard treatment worldwide (S2, S7).
+b) UoM research has significantly contributed to the evidence base that       prophylactic cranial       irradiation reduces the incidence of symptomatic brain metastases by 25%       and doubles one year       survival from 13% to 27% in patients with incurable, extensive stage SCLC       without adverse impact       on quality of life (4) (S2, S4).
+Significance of changes to guidelines     The guidelines ensure that optimal treatment regimens are administered       worldwide such that       patients can expect the same clinical outcomes regardless of where they       live and are treated.
+In       the early 1990s, fewer than 10% of patients with lung cancer survived for       one year from diagnosis.
+While there is still much progress to be made, today, with treatment such       as gemcitabine-based       chemotherapy, survival of around one year is achieved for most patients       with advanced lung       cancer, and around 25% of patients can now expect to survive for two years       or more.
+With respect       to targeted therapy with gefitinib, average survival is ~20 months       compared with less than 4       months with no treatment and 9 months with chemotherapy alone.
+The UK NICE guidelines for lung cancer treatment also inform the       treatments that are reimbursed       by National Health Service Funding.
+UoM research contributed to the       evidence for licensing and       funding for gemcitabine, gefitinib and erlotinib.
+The compliance with NICE       guidance is audited       nationally to ensure patients are benefiting from evidence based practice.

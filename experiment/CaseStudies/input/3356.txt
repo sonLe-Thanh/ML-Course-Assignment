@@ -1,0 +1,32 @@
+     Beneficiaries.
+These include: (i) commercial companies,       including energy utilities, who directly       employ the methodology; (ii) attendees at courses, advanced workshops,       seminars, and conferences       organized by the Energy Markets Group; and (iii) regulatory bodies,       including the Department       of Energy and Climate Change, the Committee on Climate Change, DEFRA, and       OFGEM.
+Impact channels.
+Beneficiaries in category (i) are impacted via       direct interaction and via custom       events; those in category (ii) are impacted via the LBS       executive-education programmes; and       beneficiaries in category (iii) are impacted via the direct       participation of Derek Bunn in policy, by       the provision of evidence, and by the use of LBS-produced research by       other advisers.
+(i) Direct Impact.
+The LBS Energy Markets Group engages in       technology transfer.
+It works with       energy utilities to improve competency in the application of techniques       derived from its research.
+The application of the agent-based simulation and econometric techniques       are used to model       energy and carbon prices, to forecast demand, to optimised risk       management, and to understand       investment drivers.
+Four specific examples of such direct impact are       described here.
+Firstly, in 2013 one of the major European power companies (identity       omitted here owing to client       confidentiality) implemented agent-based modelling, adapting the       algorithms of the LBS approach,       into its daily optimisation of trading decisions.
+Secondly, in 2012 the       Electric Power Research       Institute (California) worked with the LBS team to incorporate agent-based       modelling into the large       scale analysis of electricity investment under carbon policies by Centrica       and EPRI.
+Thirdly, in       2009, Centrica funded work aimed at improving their short-term power       market modelling.
+Fourthly,       in 2008, the LBS team, led by Bunn, collaborated on the development of an       agent-based model       for market restructuring by the Korean Electric Power Research Institute.
+(ii) Impact via Energy Markets Group Events.
+Courses, advanced       workshops, and seminars are       offered as both open enrolment and company specific events.
+Three       examples are:     Modelling and Forecasting Energy Prices is an advanced two-day       course which gives practical       insights into the latest research-based techniques for analysing energy       commodity prices.
+Modelling and Managing Electricity Markets is a specialised       two-day course which gives participants       an understanding of the strategic evolution of electricity markets.
+Carbon Finance and Analytics is a ten-day programme developed with       Point Carbon.
+It provides a       thorough understanding of the evolution and opportunities in climate       finance and carbon trading.
+London Energy Forum is an annual two-day conference, initially       held at the Royal Society.
+In all cases these events specifically communicate the research       findings and, importantly, the       modelling methodology, that are derived as key outputs from the       underpinning research project.
+Other custom events (usually two-day workshops) also take place at the       request of companies       that wish to exploit the LBS methodology.
+Over the 2008-13 window,       workshops on techniques       for electricity market modelling have been requested by, and delivered at,       organisations including       EirGrid (Irish operator), Moody's (utility analysts), OXARA (wind energy       developer), Endesa (the       largest Spanish and Latin American power company), and EDF (a leading       power company).
+(iii) Impact via Regulatory Bodies.
+Bunn and his group have       carried out policy studies and provided       evidence to official enquiries relating to the reform of the electricity       market mechanisms; to the       interaction of gas, carbon, and electricity markets; and to market       structure and market power.
+An early impact was in 2000-01 amid concerns about the working of the       British electricity market.
+The LBS work was used by the Competition Commission in its inquiry into       market abuse, by Ofgem       in its reforms, for the Select Committee on Energy Regulation, and by the       National Audit Office.
+Ten years later (and within the REF impact window) the electricity market       is being reformed again       and Bunn is actively involved in research-based advisory roles.
+Firstly,       he has been a specialist       advisor to the House of Commons Energy and Climate Change Select       Committee: he has briefed       MPs prior to their hearings, suggested lines of questioning for witnesses,       and advised civil servants       in drafting the reports.
+Secondly, he is an academic advisor to the annual       OFGEM Capacity       Assessment: this determines the risk of black-outs and so infb02uences       policy on the need for investment       incentives.
+Thirdly, we was academic advisor on the setting of official       carbon values; these       are the internal prices of carbon emissions used across government.
+Finally, he is regularly used       for the quality assessment of models commissioned by the Department for       Energy and Climate       Change (for example, the Renewable Heat model produced by NERA in 2012).

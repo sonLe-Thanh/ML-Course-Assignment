@@ -1,0 +1,33 @@
+     Nature of the Impact: The research described in Section 2 has had       impacts on (a) thinking about       Quantitative Easing, by providing a coherent theoretical foundation and       (b) on policy, by providing       empirical validation for the design and implementation of Quantitative       Easing programmes.
+Impact on thinking.
+The policy impact concerns the design and       execution of Quantitative Easing       programmes by the Bank of England (BoE) and the US Federal Reserve (Fed).
+During the recent       financial crisis, the BoE, the Fed, and other central banks around the       world found themselves unable to       stimulate the economy through reducing near-zero short-term interest       rates, their traditional policy tool.
+The banks resorted instead to purchases of long-term bonds, a policy       known as QE.
+The purchases       were massive: about $1.8 trillion in the US and &#163;375 billion in the UK.
+The central banks anticipated that their purchases of long-term bonds       would raise the prices of these       bonds, hence lowering long-term interest rates.
+This would make borrowing       cheaper for companies,       and hence would stimulate investment.
+Making the intellectual case for the       central banks' policy to       reduce long-term interest rates in this way, however, was difficult based       on Expectations Theory.
+Under       Expectations Theory, one can only drive down long-term interest rates       through reducing future short-       term interest rates.
+However, Preferred-Habitat Theory allows for direct       supply effects on the long-term       maturities, even in the presence of near-zero short-term interest rates.
+But this theory lacked a       theoretical formalization before [2].
+Vayanos and colleagues' research in [2] and [5] showed that       Preferred-Habitat Theory can be       rigorously modelled, and that within such a model or framework a decrease       in bond supply lowers long-       term interest rates.
+This research had been developed presciently, in a       working paper at the time, prior       to the QE, and found its natural application in QE.
+It thus gave central       banks a basis for judging that       their actions could have the desired effects and guided efforts by their       research departments to develop       quantitative estimates of the effects of the policies.
+Senior officials in the central banks made extensive references to this       research.
+For example, [2] and       [5] are mentioned in 2011 speeches by the then Vice-Chair and now       nominee-Chair of the Fed, Janet       Yellen, and by the President of the San Francisco Fed, John Williams ([10]       and [11], respectively).
+Moreover, Spencer Dale, the BoE's Chief Economist, sent the following       quote in a letter to Vayanos:     "When the Bank of England began its quantitative easing programme,         there was very little recent         academic work that articulated in a rigorous way how asset purchases         might have effects on asset         prices.
+The research by Dimitri Vayanos (in papers with Vila and         Greenwood respectively) was         particularly helpful and influential in this regard because it showed         how a shock to the demand or         supply of bonds -- and by implication central bank asset purchases --         could affect yields in an         arbitrage-free model that incorporated preferred habitat investors and         arbitrageurs.
+Although it is         not the only model used at the Bank for thinking about how QE works,         this research has provided         an important framework for thinking about the issues and for framing         research on the financial         market effects of the policy."
+[7]     Impact on policy design.
+The central banks required not only a       theoretical justification for QE, but also       precise quantitative guidance.
+For that purpose, they allocated teams of       researchers to estimate the       effects of the early stages of QE to inform the design and execution of       subsequent stages.
+The       research in [2] and [5] guided much of that effort.
+Papers by Fed       researchers that estimate the effects       of QE using [2] as a basis include [8], [12] and [15], and papers by BoE       researchers include [9] and       [14].
+There are also extensive references to [2] and [5] in [11], which       summarizes a 2011 conference on       QE organized by the BoE.
+The quantitative estimates of the impact of QE found in the above       research by the central banks were       large.
+For example, the 10-year rate for the first phase of QE was       estimated to be 100 basis points       lower than in the absence of QE, both in the UK and in the US.
+These       findings, which provided "out-of-       sample" validation for the supply effects predicted by our model, were fed       into the design and execution       of subsequent stages of QE.
+Wider Implications.
+QE, through its effects on interest rates (and       asset prices), has inarguably played a       central role in government strategies to recover from the recessions       following the financial crisis.
+Poorly designed QE programmes could have damaged economies further.
+LSE       work has helped lay       the foundations for well executed QE programmes and thus sustained       economic recovery.

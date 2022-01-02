@@ -1,0 +1,33 @@
+     1.
+The outcomes of the policy work were incorporated into policy       statements and practical professional guidelines developed by       international and national organisations and institutions, including the       International Federation of Library Associations and Institutions and the       NPO [5.1].
+Within the UK, a specific area of impact of the policy       and strategy research has been in the reconfiguration of the Preservation       Advisory Centre (PAC), the successor body (2009- ) to the NPO.
+The new       structure and terms of reference of the PAC were a direct outcome of the       work published as Feather, Lockyer, Matthews and Muir [3.2].
+2.
+The development of a Preservation Needs Assessment (PNA) tool was a       key element in achieving significant impact.
+It has been applied in       libraries and archives throughout the UK [5.1], leading to the       publication of Knowing the need reports (2006, NPO and 2013, PAC)       on the emerging picture of preservation need in libraries and archives in       the UK and Ireland.
+The 2006 report, based on 97 individual surveys,       representing over 28 million items was the first ever national survey of       preservation needs in the UK which achieved this level of granularity.
+The       2013 report is based on 86 surveys representing collections totalling more       than 50 million items [5.2].
+This data, analysed for PAC by LISU       (Library and Information Statistics Unit), a research unit in this UoA,       has strengthened the information base which informs national policy and       investment, and institutional strategy.
+Through the NPO, the PNA has been       used in libraries in Australia, Israel and Sweden, and archives in Norway.
+3.
+The impact of the disaster management strand of the research also       began before 2008; for example, the guidelines [3.4] were adopted       by practitioners in libraries and networks across the UK and publications       from the research included in guidance and bibliographies for disaster       management across the world The disaster plan of the M25 Consortium of       Academic Libraries, for example, was directly based on this work which       continues to be influential in institutions and consortia [5.3].
+In 1996, it was found that 30% of UK institutions had disaster management       plans, rising to 62% by 2013 (Knowing the Need, 2013), an increase       which was a consequence of the Loughborough University research and the       high profile of its dissemination in the relevant sectors.
+There is also       wider and continuing impact beyond libraries and archives, providing, for       example, an evidence base for English Heritage to develop nationwide       training for heritage employees and managers and fire service personnel       (by mid-2012 it had run 16 courses and trained 350 people) [5.4, 5.5].
+There has also been a significant international dimension to this work as       evidenced by the engagement of the International Committee of       the Blue Shield [5.6].
+4.
+The need for legislative change clarified by the research was       recognised by the Hargreaves review of intellectual property law in the       UK.
+At the end of 2012, the UK government formally indicated its intention       to update current preservation exceptions to facilitate digital       preservation.
+JISC used Muir's work [G3.7] in its written       submission       (http://www.publications.parliament.uk/pa/cm201213/cmselect/cmbis/367/367vw50.htm)       to the Business, Innovation and Skills Committee [5.7].
+Since       then, the UK Intellectual Property Office has sought views on how to       implement an improved preservation exception (http://www.ipo.gov.uk/techreview-research-library.pdf).
+The international impact of the research is evident in the work of the       Legal Panel of the Aligning National Approaches to Digital Preservation       meeting organised by the Library of Congress and the National Library of       Estonia in 2011.
+The results of the international study on copyright and       digital preservation formed the basis of an international workshop on       copyright and preservation at the World Intellectual Property Organization       in 2008.
+The WIPO Standing Committee for Copyright and Related Rights has       now included copyright exceptions in its work programme; this derives from       one of the key findings of the research.
+In the UK, the government       established a Legal Deposit Advisory Panel (LDAP) to progress the work       done at Loughborough.
+The Panel's e-journals working group (chaired by       Muir) established a pilot e-journal deposit scheme and identified and       analysed the definitional and practical implementation challenges.
+The       LDAP made recommendations on regulations for legal deposit of non-print       publications in 2009.
+The regulations came into force in April 2013 (http://bit.ly/ZhFDud).
+The legal deposit libraries are now collecting digital material for       long-term preservation and are already making this material available to       the public.
+For example, material on NHS reform is now discoverable       through the British Library's search interface.
+5.
+The results of the scoping and feasibility study for an archived       e-journals registry were used by EDINA (which operates the national union       catalogue of serials) in the development of the Piloting an E-journals       Preservation Registry Service, which is now a successful operational       service (The Keepers Registry), international in coverage [5.8].
+This service can be used by collection managers in decision making in       acquiring and preserving electronic journals.

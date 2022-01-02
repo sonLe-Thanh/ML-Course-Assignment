@@ -1,0 +1,25 @@
+     Zyvex Labs is a leading company in the area of APM in the US.
+It is part       of Zyvex Corporation, which carries out fundamental research into APM,       often building its own tools.
+Zyvex now takes that technology to market by       developing commercial products in the nanomaterials and nanomanipulation       areas.
+The company has already developed a system that is in wide use       throughout the semiconductor industry (a nanoprobe, used to characterise       chips at 90nm and below); the UCL research has underpinned development of       a new system to be brought to market around 2015.
+It has also helped       generate new employment and $14 million in funding for the company [A].
+Zyvex Labs is developing techniques to create nanoscale patterns with       atomic precision by manipulating hydrogen on Si(001), and then growing new       material on top of the patterns.
+The company is developing products for       market based on this patterning: control electronics for STMs, to allow       patterning; and turn-key systems to be added to STMs, to give a complete       patterning and growth system.
+Both of these systems will allow other       companies to produce patterns in hydrogen-terminated Si(001) and grow new       materials within the patterns.
+While developing early ideas for APM based on hydrogen lithography and       subsequent growth, the President (at the time Chief Technical Officer       followed by Vice President) of Zyvex Labs realised the importance of       theoretical underpinning for the process.
+He writes, "I did an extensive       literature search on the subject.
+Your theoretical work stood out as the       best available data and in excellent agreement with the published       experimental data" [A].
+Zyvex Labs and UCL set up a collaboration, under a       non-disclosure agreement, in May 2007.
+UCL's data on hydrogen diffusion and epitaxial growth of silicon improved       Zyvex Labs' development process by giving important limits on the       atomically precise process being developed: during the early stages of       development, in early 2008, it indicated that the approach was feasible;       later, it was used to identify the temperatures at which hydrogen becomes       mobile, which were used to control and manage the growth processes [A].
+This last point is particularly important: the growth of new silicon       requires elevated temperatures, and so the atomically precise control       would be impossible without UCL's data on the temperatures at which the       hydrogen mask would degrade.
+The UCL research findings in section 2 were       therefore used to set maximum annealing and growth temperatures for the       APM process, to ensure fidelity of patterns.
+As Zyvex Labs' entire process       and hence product relies on control of the position of the atoms on the       surface, the UCL results underpin its approach, and hence the products       that are being brought to market.
+The President writes: "Further, your       research on hydrogen mobility on silicon and epitaxial growth of silicon       is still very relevant and is referenced on a very regular basis as we are       carrying out this research" [A].
+In addition to underpinning Zyvex Labs' approach, the UCL research has       helped the consortium led by Zyvex Labs to obtain just over $14 million in       funding between January 2008 and July 2013 [A].
+This consists of two       research contracts from the US Defense Advanced Research Projects Agency       and a matching grant from the State of Texas, awarded to enable the       accelerated commercialisation and market adoption of atomically precise       devices and manufacturing approaches.
+These contracts started in August       2008 and have resulted in the hiring of at least five new employees at       Zyvex Labs, including one of the original experimentalists from Oxford       [A].
+The UCL research underpinned the funding as it enabled Zyvex Labs'       development of atomically precise processes, which in turn allowed the       contracts to be awarded.
+The President of Zyvex Labs writes that UCL's       "work on the mobility of hydrogen on silicon surfaces has been enormously       influential on the research at Zyvex Labs and the funding of that       research" and that the funding was "made possible in no small measure by       your research" [A].
+In 2013, UCL research has also been informing the approaches used by       Zyvex Labs in a new area: the development of manufacturing techniques for       quantum computing devices.
+This process will use hydrogen depassivation to       deposit dopant atoms with atomic precision, and Zyvex Labs is using the       recent UCL research on the electronic structure of dopants on silicon       surfaces to understand the effects of physical structure on dopant       properties and hence to design the devices [A].
+[text removed for       publication]

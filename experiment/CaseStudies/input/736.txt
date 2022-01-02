@@ -1,0 +1,43 @@
+     Healthcare suffers because of preventable errors.
+Our impact lies in       showing the benefit of       rigorous Computer Science and in changing attitudes.
+IT is a solution but       also a current problem.
+Improved design is a cost for manufacturers given the prevailing culture       of blaming clinicians       instead; manufacturers bemoan "regulatory burden" and, under current       legislation, might rather       ignore problems.
+The impact of our research can be described in the       following ways:     Policy debate stimulated and informed by research.
+We conceived of       and ran 5 "Tully       Meetings" (named after Prof Colin Tully, one of the founders with Thimbleby       of the NHS23 group)       to bring &gt;200 top computer scientists and clinicians, including UK       military, Department of Health,       CfH (Connecting for Health), reporting into the Royal College of       Physician's Future Hospital       Commission and their work on e-prescribing [C3, C6].
+Potential losses mitigated by improved risk assessment by health         service.
+Collaborating with       the NHS we showed in the largest ever study [R2] poor design of infusion       pumps induces wastage       of ~&#163;1,000/pump/year.
+This led to retraining, and informing manufacturers       of improvements.
+[R5]       was used in requirements for a &#163;1.5m procurement.
+Public discourse stimulated and informed.
+We have given 120+       presentations (in REF period)       at medical conferences, industrial seminars and workshops at international       conferences such as       ACM CHI (2010; 2011; 2013), ACM EICS (2011; 2012; 2013), BCS HCI (every       year), as well as       presentations to CTOs of B-Braun [C5], Boston Scientific, clinical       organizations, hospital trusts, etc       [C7].
+Thimbleby was Clinical Human Factors Group trustee in       its formative year, helped it raise       funds and profile, and remains on its Advocacy Panel.
+The Royal Society       and Gresham College       invited public lectures.
+Improved quality, efficiency &amp; productivity of professional         service.
+Drug doses rely on       complex calculations.
+We developed calculators that eliminate some sources       of error completely.
+A       prototype was exhibited at a Royal Society Summer Science exhibition and       in TECHFEST, India,       etc.
+With a consultant anaesthetist we provided evidence nomograms have       advantages over       conventional methods for a number of medical calculations, including       time-pressured burns       resuscitation [R6, C1].
+Defined best practice for professional bodies and learned societies.
+The Royal College of       Physicians, the Royal College of Anaesthetists, the Royal College of       Physicians Edinburgh, the       Royal College of Pharmacists, Guild of Healthcare Pharmacists, Scottish       Intensive Care Society,       Central Sterilising Committee, Scottish Clinical Skills Network, etc, have       had invited lectures from       us.
+We have undertaken confidential assessments of medical devices for the       NHS in respect of       criminal and professional investigations.
+Thimbleby has been invited on the Royal College of       Physicians (RCP) Commission, and elected       Honorary Fellow, the "highest honour the RCP can bestow on a non-medically       qualified person" as       well as Fellowship of the Edinburgh RCP; evidence of high-level       recognition of the impact of this       unique work.
+Supporting and enabling staff to achieve impact.
+We appointed an       Impact Facilitator with &#163;70k       for impact activities specifically in this area in August 2013.
+Demonstrating reach.
+We consulted with Huawei on mhealth       (mobile health) [C4], with B-Braun       (largest European manufacturer) and consulted on future devices [C5].
+A       spin-out company THIS       (Tech Health Interactive Solutions) (www.this.eu.com)       was formed in 2013 to enable the reach and       frequency of consultancy to expand.
+Public engagement has been achieved through participation at major       exhibitions, including       venues such as the Bombay Institute of Technology's TECHFEST, the Welsh       Eisteddfod, TEDx,       etc, each attracting thousands of public visitors.
+All our workshops have       patient representatives       and clinicians.
+Other non-Computer Science lectures include International       Federation of       Information Processing groups, Stanford Research Institute, MIT,       Cambridge, Berkeley, Oxford,       Stanford.
+We ran workshops in China with leading medical schools (Jiao       Tong; Fudan), Huawei       [C4] and Smiths Medical.
+Thimbleby has been invited to write for clinical journals,       as well as present over 95 invited       lectures/keynotes (in the REF period) at clinical conferences and training       days, UK and       internationally; talks were attended by ~1,800 clinicians undertaking       continuing professional       development (total direct audience reach of over 6,700 with ~43% clinical       and manufacturers) [C7].
+For building a completely new field, this is significant reach.
+We were       invited by Tata to run a       masterclass for leading software engineers.
+Half of the Formal Methods         in Interactive Systems         2013 papers by other groups develop our work.
+Our films are shown in clinical conferences, having impact beyond our       control: "I presented a         session at a clinical risk conference yesterday in London and used [your         video] and it went down a         storm [...] The feedback was excellent and I've already received         requests from other people [...]"       [C2].
+Significance is evidenced by international recognition of the       healthcare improvements, the quality       of the work (including 5 best paper prizes), and by peer-reviewed evidence       conducive for high       impact in healthcare; our research shows that preventable deaths could be       halved using modified       UIs for data entry [R5].
+Impact is increasing, but even if applied       unchanged today we could prevent       ~7,000 UK deaths/year, with additional benefits in finance and wellbeing,       and additional impact for       the second victims, the clinicians.
+Our impact must be viewed against cultural resistance to improve system       safety.
+Our research and       evidence-based approaches to mitigate that, and consultancy and our       evangelisation of the results       is both direct impact and conducive to impact.
+We have engaged and       continue to engage across       the spectrum, from hospital officers and consultants to the UK and Welsh       Chief Medical Officers as       well as international leaders like the World Health Organisation and FDA.
+For example, Sir Liam       Donaldson (Chief Medical Officer, 1998-2010, and current Chair of the       World Alliance for Patient       Safety) asked to co-author with Thimbleby a high-profile and high-impact       article for the British         Medical Journal specifically to raise the awareness and impact of       this work.

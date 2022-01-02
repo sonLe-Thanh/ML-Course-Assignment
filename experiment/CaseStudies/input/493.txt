@@ -1,0 +1,40 @@
+     Welding industry benefits from new design process software       The work described above has been successfully applied in the welding       industry through the OPTWELD project which ran through 2010.
+This project       resulted in substantial collaboration work with local industry (the TWI       Group and the ESI Group) on the implementation of distributed algorithms       in the commercial software application 'Sysweld'.
+An MSc research       dissertation, `Distributed algorithms for heat transfer related problems'       by S. Guo, documented the issues surrounding the work and has been widely       disseminated in industry.
+The embedding of the scientific computing       techniques, resulting from the research, in welding industry software has       led to an easy approach to coupling of subdomains which has significantly       enhanced the accuracy and applicability of the software.
+Research results       were also applied to: inverse problems, image processing,       pharmacokinetics, and stochastic optimisation and this clearly       demonstrated the impact of the numerical frameworks developed in       industrial mathematics.
+Dissemination of findings in aero-acoustics and inverse problems       Work in the area of domain decomposition methods started with applications       in aero-acoustics and inverse problems in 1996 with Djambazov, and later       with Palansuriya, Wang, L. Lai, Siahaan, Tian, Kokulan.
+The most important       recent publication disseminating important results in the concept of       acoustic correction methods for the extraction of disparate scales can be       found in [3.2].
+In relation to this work, C. Lai and other former students       explored the concept of a wider class of methods known as the defect       correction method for multi-scale problems.
+C. Lai solicited a special       issue, published in June 2008, entitled `Mathematical and Computational       Aspects of Multi-Scale Problems' with the Journal of Algorithms and         Technology, ISSN 1748-3018, while attending the World Congress on       Computational Mechanics, Los Angeles, 2006.
+During an academic visit to       China in July 2008, Lai gave an invited seminar entitled `Some new results       of the acoustic correction method for the extraction of sound signals' at       Dalian University of Technology.
+C. Lai visited Prof. P. Lin and Dr D.       Trucu, Dundee University, in order to exchange experiences in multi-scale       methods and gave a talk entitled `On the acoustic correction method for       extracting sound signals' during March 2009.
+In May 2009 C. Lai was in       discussion with Dr A. Rona, Leicester University, on a joint Marie Currie       Network proposal to FR7 fund, and gave a talk there entitled `On the       acoustic correction method for extracting sound signals'.
+This was       recently funded under FP7-People-2012-ITN AeroTraNet (Ref 317142) in which       Greenwich has secured a share of &#163;257,000 funding.
+Lai was also invited to       give an invited talk at the 2nd Belgian Mathematical Society       and London Mathematical Society Conference, Catholic University of Leuven,       the Netherlands on the topic `On high order schemes and defect correction       methods'.
+The work was summarised and presented at 16th       International Conference on Sound and Vibration, Krackow, July 2009, and       at World Congress on Computational Mechanics 2010, July 2010, Sydney.
+Lai       gave a talk to University of Essex in May 2011 entitled `On high order       schemes and defect correction methods in CFD software'.
+A joint Essex,       Greenwich, and Hertfordshire Workshop on Applied and Numerical Methods:       Multiscale Problems, June 2012, was funded through LMS Scheme 8 Grant       811062.
+The work in the acoustic correction method and high order schemes       mentioned above led to significant contribution to the book listed in       [3.3].
+It is extremely exciting to see that this book is being used as one       of the texts and references for numerical techniques for LES at Lancaster       and Greenwich.
+The PhD student, L. Lai, recently completed his thesis in       this area with a generalised framework using defect correction.
+Coupling of black box engineering software       Building on the early research experience in domain decomposition methods       before 2008, NAMU has been engaged in the TSB project described in [3a] on       a domain decomposition method for the coupling of black box engineering       software using the concept of the defect equation.
+Here the main       contribution is to allow work at different locations and sites using       different software being coupled to form a final piece of work.
+At the       same time Siahaan has been working on the theory of the convergence of a       quasi-Newton method showing that the coupling using the defect equation       converges to the solution, though very slowly.
+This is an extremely       encouraging theoretical result and Siahaan has also improved the method so       that convergence is speeded up as demonstrated in his PhD thesis in June       2011.
+The theoretical work is summarised in [3.1].
+Temporal and scale parallel algorithms       NAMU has a long history of developing temporal and scale parallel         algorithms.
+In particular Lai and Parrott have been involved in such       work before joining the university in 1989 and 1993 respectively.
+Previous       work with an application in computational finance submitted in the last       RAE was demonstrated by Lai and Parrott in the paper entitled `A       distributed algorithm for European options with nonlinear volatility', Computers         and Mathematics with Applications, 49, 885-894, 2005.
+This       work helped to attract the funding described in R6 for ITN-STRIKE.
+Recent       activities and work concentrated on induced parallel and distributive       properties into mathematical models/formulations so that a nonlinear       financial option problem which is intrinsically sequential may process       parallel properties.
+Typical techniques used here are transformation       methods summarised in two recent MSc dissertations at Greenwich:     1) N. Natkunam, Numerical analysis of the diffusion equation using       Laplace transform, 2009.
+2) M.T.
+Tarawneh, Theoretical performance analysis of parallel algorithms       and applications to differential equations, 2009.
+Lai visited the School of Mathematical Sciences, University of Liverpool,       in May 2010 while on an external examination role, and presented the above       work.
+He also took the opportunity of World Congress on Computational       Mechanics 2010 to visit the Mathematics Department, University of       Canberra, Australia, where he disseminated the above work in July 2010.
+Further research work generated two book chapters in books, one with       applications to computational finance, as described in [3.4], and the       other a general concept on induced parallel properties, as below:     C.-H. Lai.
+On transformation methods and the induced parallel properties       for the temporal domain, in Substructuring Techniques and Domain         Decomposition Methods, ed F. Magoules, ISBN: 1759-3158 (doi:       10.4203/csets.24.3), Saxe-Coburg Publications, Stirlingshire, UK, 45-70,       2010.
+Lai was invited to be the external examiner for a PhD thesis on temporal       parallelisation at the University of Claude Bernard Lyon I in July 2011.
+Knowing such impact in academia through the above work, financial and       market analysts are interested to know more about how temporal parallel       algorithms would affect the computational efficiency in derivative       analysis and prediction of prices.
+Discussion of collaboration with       Wuppertal University, Deutsche Postbank, and other financial organisations       resulted to the FR7 project linking these partners as described in [3b].

@@ -1,0 +1,49 @@
+     "The work of the team within the ERPE on structural applications of         FRP composites has had a very significant international impact over many         years.
+It has been adopted in design standards and guides around the         world, and the qualities and capabilities of the team are widely         recognised.
+In particular, they are right at the forefront of work on         fire performance of FRP materials, and have made highly influential         contributions in the fields of adhesive joint analysis, strengthening         for square columns and web strengthening for steel girders."
+Director of Engineering, Parsons Brinkerhoff [S1].
+The ERPE research has significant and ongoing impact on industrial       practice worldwide, chiefly through adoption into many published       international design guidelines and standards to enable infrastructure       design with FRP materials, while enhancing public safety.
+Australian Standard HB 305 (2008).
+"Design handbook for RC structures         retrofitted with FRP and metal plates: beams and slabs [S2]."
+This       new standard, the first of its kind in Australia, makes extensive use of       our research.
+ERPE work adopted in this document includes:            the concept on how the side plates resist shear forces in RC beam was         adopted in Chapter 3 (Generic stress resultants and capacities).
+Bond strength model for externally bonded FRP to concrete, IC         debonding model, [3], two shear strength models (for FRP rupture failure         and FRP debonding failure [2,3]), were adopted into Chapter 4.
+American Concrete Institute (ACI) (2008).
+"Guide for the Design and         Construction of Externally Bonded FRP Systems for Strengthening Concrete         Structures."
+Report ACI 440.2R-08 [S3].
+Both this and the earlier       (2002) edition made use of ERPE work, including:            the proposed "development length" model was included in Clause 13.1.3.
+A revised form of ERPE's IC debonding model [3] in Clause 10.1.1.
+Strengthening limits for both ambient and fire resistance design are         based on ERPE's work.
+UK Concrete Society (2012).
+"Design guidance for strengthening         concrete structures using fibre composite materials."
+Technical Report         55, 3rd Edition.
+TR55 is the design       standard for FRP strengthening in the UK, and is used internationally.
+ERPE's work adopted in this extensively re-written and updated edition       includes:            Our improved, rational model for confinement of square and rectangular         columns forms part of Chapter 8.
+Our world-first work on Fibre-reinforced cementitious mortar (FRCM)         systems is recommended in Chapter 9.
+All provisions related to fire (new in the 3rd edition) are         based on ERPE's work (Chapters 3, 5).
+The strain distribution factor [3] is adopted in Chapter 7.
+China Planning Press (2010).
+"Technical code for infrastructure         application of FRP composites."
+GB-50608.
+ERPE work adopted in this       new Chinese standard [S4] and now in use in the industry includes:            proposed debonding failure framework [3] was adopted in Chapter 4.
+A revised form of ERPE's IC debonding strength model [3] was adopted         in Clause 4.2.7.
+The adopted shear strength models (Clause 4.3.5) were developed based         on [1].
+Hong Kong design guidance (2012).
+"Guide for the strengthening of         concrete structures using FRP composite."
+New design guidance based       in part on ERPE work:            proposed classification of debonding failure modes         (DoI:10.1680/stbu.2009.162.5.335) was adopted by this guidance (Section         4.3).
+The adopted IC debonding strength model (Clause 4.4.3.5) was developed         based on Chen, Teng and Chinese collaborators, while the width effect         factor (Eq.
+4.8) was directly adopted from Chen and Teng's proposal.
+The whole chapter on shear strengthening design (Chapter 5) was based         on Chen, Teng in Hong Kong and Chinese collaborators.
+ERPE work on behaviour of FRP strengthened slabs in a real fire         (DoI:10.1260/136943309790327743) provided basis for some of the         provisions (Chapter 9).
+Canadian Standards Association (CSA).
+S806 (2012).
+"Design and         construction of building components with fibre-reinforced polymers."
+Our work forms the basis of the detailed fire resistance FRP design       guidance contained in Annex R, which is new to the 2012 edition of this       code and authored by Bisby:             "Bisby is the undisputed global research leader in the area of fire           resistance of FRP strengthened and/or reinforced concrete structures.
+Bisby and his ERPE colleagues are responsible for developing the           research outputs which form the basis of essentially all current           structural fire safety design guidance for these types of applications           globally, including in the USA (ACI 440) and Canada (CSA S806)."
+Chair of CSA Committees S806, S807 and S808 [S5].
+Other ERPE impact is included in these design codes and guidance         documents, which are in current use today:            USA ACI 440.3R-12 Guide Test Methods for Fiber-Reinforced Polymers         (FRPs) for Reinforcing or Strengthening Concrete Structures.
+USA ACI 440.5M-08 Specification for Construction with Fiber-Reinforced         Polymer Reinforcing Bars.
+USA ACI 440.6M-08 Specification for Carbon and Glass Fiber-Reinforced         Polymer Bar Materials for Concrete Reinforcement.
+The International Federation for Structural Concrete (f&#233;d&#233;ration         internationale du b&#233;ton) fib (2012).
+"Externally bonded FRP         reinforcement for RC structures."
+Bulletin 14, Lausanne, Switzerland.

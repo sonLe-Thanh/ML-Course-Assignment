@@ -1,0 +1,31 @@
+     Some 107 million Americans live in areas that violate health standards       for ozone, the USEPA reports.
+Like the weather, air quality can change       from day to day, hour to hour, and national and local media provide daily       air quality reports as part of weather forecasts.
+It is the responsibility       of government agencies, principally the USEPA, to continuously monitor and       provide air quality information to the public and media.
+According to the       2009 USEPA report on Air Quality Index (AQI): `In large US cities (more         than 350,000 people), state and local agencies are required to report         the AQI to the public daily.
+When the AQI is above 100, agencies must         also report which groups, such as children or people with asthma or         heart disease, may be sensitive to that pollutant and would alert groups         about how to protect their health.
+These forecasts help local residents         protect their health by alerting them to plan their strenuous outdoor         activities for a time when air quality is better.'
+[5.C1]     From 2010, the USEPA has used Southampton's forecasting methods and its       associated software to continuously increase the quality of its air       pollution data in its short-term forecasts for the whole of the USA.
+More       accurate and reliable forecasts have had an immediate positive impact by       enabling those at risk to plan their outdoor activities to minimise any       negative effect on their health.
+The current USEPA training document aimed       at doctors `Ozone and your Patients Health' [5.C2] states: `Healthcare         providers should recommend that patients reduce their ozone exposure on         days when air quality is bad, especially people with asthma, who are         more susceptible to the effects of exposure.'
+It gives detailed       advice on how those at risk should modify their behaviour when air quality       (and ozone in particular) is predicted to be unhealthy and provides       evidence that such advice has a positive impact on health.
+Commenting on       the impact of Southampton's research, the USEPA said: `The forecast         methods of Sahu et al (2010) were adapted to forecast spatial patterns         of current 8 hour average ozone concentrations in real-time.
+This fusion         model combines both real-time ozone monitoring data with numerical model         output to achieve precise and accurate forecasts' [5.1].
+The general public, including schools and local authorities, are among       the direct beneficiaries.
+According to the Center for Disease Control and       Prevention, the existence of accurate and reliable air pollution forecasts       bring significant health benefits to 7 million children and 18.7 million       adult Americans who suffer from asthma and millions of others who use       healthcare facilities to alleviate their respiratory illnesses [5.C3].
+The WHO advises that limiting exposure to high levels of air pollution       impacts positively on long-term health [5.C4].
+A reduction in GP       and hospital visits also delivers substantial economic impact.
+The improved forecasts benefit the US agricultural economy.
+Prolonged       exposure to high levels of ozone is harmful to crops.
+It damages materials       such as rubber, paint and textiles.
+Further, it reduces growth and       survivability of tree seedlings, and increases susceptibility to diseases,       pests and harsh weather conditions.
+In the USA, ground-level ozone is       responsible for an estimated $500 million in reduced crop production each       year.
+This emphasises the need for a long-term dimension to the modelling       of air pollution.
+Southampton's models have provided accurate estimates of       trends in air pollution for the eastern US on which local authorities and       regulators, including the USEPA, can base long-term emission control       strategies and assess compliance to the regulatory standards of areas that       fall outside the sparse ozone-monitoring network in the US.
+If national       standards are not met, local authorities can introduce more stringent       emission measures.
+Southampton's research has fed into the policy debate in the US over       regulations to limit air pollution.
+It contributed directly to the       formation of USEPA's influential `NOx Budget Trading Program: 2005 Program       Compliance and Environmental Results' [5.2], which set out new       measures that it said, by 2015, would secure `$85 to $100bn in annual         health benefits, annually preventing 17,000 premature deaths, millions         of lost work and school days and ten of thousands of non-fatal heart         attacks and hospital admissions.'
+The 2005 report &#8212; combined with       the use of Sahu's statistical spatio-temporal modelling to provide air       quality information at unmonitored sites &#8212; formed the foundations of the       current environmental regulatory policies in the USA, notably the 2011       Integrated Review Plan for the Ozone National Ambient Air Quality       Standards [5.3].
+These reports help develop programs aimed at       reducing pollution by reformulating fuels and consumer/commercial products       that contain harmful chemicals, and voluntary programs that encourage       communities to adopt practices, such as carpooling, to reduce harmful       emissions.
+The impact of Southampton's work in the USA is being felt further afield.
+It prompted the EPSRC to provide a grant of &#163;365,643 in 2013 for Sahu to       produce a new statistical framework for estimating the long-term health       effects of air pollution in the UK [3.G3].
+The Australia's       national science agency, the Commonwealth Scientific and Industrial       Research Organisation (CSIRO), has used the spTimer software developed by       Sahu [5.4] to model large scale environmental data [5.5].

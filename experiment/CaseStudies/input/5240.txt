@@ -1,0 +1,16 @@
+     Aberystwyth researchers Cox and Davies have developed a number of talks       and demonstrations, aimed mainly at children of secondary school age, that       describe soap bubble geometry and the mathematics of minimization.
+These       have been given under various names, including "Show me the (shortest) way       to go home", "Mathematics of Soap Bubbles" and "Bubble Magic".
+The       material is based upon     (i) demonstrations of Plateau's laws in wire frames, including the       hysteretic transition between different minima;     (ii) seeking least area arrangements of soap films, comparing the       conjectured solutions in [3] with children's intuition;     (iii) a discussion of soap-film solutions of Steiner-like problems in the       plane (for example the shortest road network joining 3 cities, 4 cities,       and 5 towns/cities in Wales) and local minima in complicated energy       landscapes.
+Here numerical solutions are used to indicate the relevance of       constraints (mountains!).
+Interaction with participants is increased by offering the opportunity       for attendees to do experiments themselves, and by running a quiz on       Plateau's laws, with prizes of book tokens.
+Exemplars of this activity include:     - Cox gave an invited evening talk for the Lancashire and North-west       Branch of the Institute of Mathematics and its Applications and the       Lancashire and Cumbria Branch of the Institute of Physics, hosted by the       University of Central Lancashire, in December 2010.
+The audience was a       mixture of academics and members of the public, including A-level pupils       [5.1].
+- Cox brought Frank Morgan (Williams College, US) to the UK to give a       talk "Soap Bubbles and Mathematics" associated with an ICMS workshop       [5.2], and publicised on his Huffington post Blog [5.3].
+The event was       held at Dynamic Earth in Edinburgh, attended by about sixty 14-15 year       olds [5.4].
+He used Cox's research results [3.2] in the talk.
+The children       also tried out experiments for themselves (from the IMA's Big Box).
+A       report and photograph were used as an exemplar of ICMS outreach in the LMS       newsletter [5.5], and feedback from teachers and pupils included "the       speaker was excellent; enthusiastic, sense of humour, involved the       audience" and "Showing the applications of maths is incredibly useful"       [5.6].
+- Davies talks and gives demonstrations at the annual Welsh       "Eisteddfod"s, both for young people (the Urdd Eisteddfod) and adults (the       National Eisteddfod), which attract over 10,000 people every year.
+In 2012       his work was publicised by amgylchedd.com [5.7] and, in May 2013, 55       children completed a questionnaire which indicated their increased grasp       of the material.
+- School visits to Aberystwyth to hear soap film talks have covered much       of the country, including Llanfyllin (2009) and Bro Ddyfi, Machynlleth       (2013).
+The feedback from Bro Ddyfi included the following comment on       Twitter: "Thanks for having us, the presentations were great, very       interesting" [5.8] and an email from a teacher: "The pupils enjoyed the       experience, and it has certainly enriched their understanding of       Mathematics in higher education" [5.9].

@@ -1,0 +1,37 @@
+     Context     A systematic approach to computerised systems for pricing started in the       mid-80s, when yield       management systems were developed to support the pricing of perishable       resources (such as       airline seats or hotel room reservations) to optimise profits.
+In other       sectors, such as retail and       petroleum, however, due to their completely different features, there was       little success and there       were few systems for optimising pricing decision support before our       research.
+Our major research       progress was achieved between1993 and 2002, leading to the first       systematic approach based on       demand modelling and pricing optimisation, and the earliest IPDSS for       retail and petroleum.
+Pathways to Impact     Integrating Academic Research and Pricing Practice with           Computerised IPDSS.
+For scientific pricing, the conventional approach from research to       applications was not successful,       as academic research could not reach and test practically the complexity       and dynamics of real       pricing environments for the grocery and petrol retail sectors, where       there may be tens of       thousands of prices for a grocery retailer and different prices across a       few hundred petrol stations       for a petrol retailer.
+As a result, a different approach, which integrated       academic research and       pricing practice, was adopted in 1993 with the launch of KSS Ltd as the       commercial arm of the       university research group.
+This new approach took pricing problems from       real commercial       organisations and went though an iterative research path: research &#8212;       software prototype &#8212;       application &#8212; feedback &#8212; research and finally transfer to IPDSS software       products.
+Transfers of Research to Product.
+There were two principal research results incorporated into products:             Systematic decision support.
+Research into generic frameworks         for IPDSS [1, 4, 5, 6], with pilot         studies in petroleum and retail, provided the foundation for the IPDSS         PriceNet for petroleum         and PriceStrat for retail.
+These have evolved into the current products         of KSS Fuels and KSS         Retail, respectively.
+Learning demand models.
+A remaining bottleneck in the         application of IPDSS was learning the         demand models with limited historical price-sale data in a dynamic         environment.
+The solution         to this bottleneck is the use of knowledge bounded recursive least         square learning methods         based on the underpinning research reported in [2, 3], which is the         principal method behind all         IPDSS software systems produced by KSS Fuels and KSS Retail.
+Reach and Significance of the Impact     Economic impact             Profitable spin-off companies and job creation: The research         was brought to market by the         spin-off company KSS.
+KSS was demerged into KSS Fuels and KSS Retail in         2007.
+Since         2008, KSS Fuels has been a profitable software company with 2012 revenue         of &#163;13.2m [A] and         expected revenue for 2013 over &#163;15m [B].
+It is the leading global         provider of pricing software to         fuel retailers (400 clients across 80 countries in 2012 [F]) with more         than 100 staff, 40 in the UK         and 60 in the USA.
+In August 2012, a 40% stake in KSS Fuels was sold for         &#163;7.2m [D], valuing         KSS Fuels at &#163;18m.
+KSS Retail is also a profitable software company,         with 2012 revenue and         profit being &#163;6m and &#163;3m respectively [A].
+It is a premier global         provider in price intelligence         and optimization software solutions for general retailers (grocery,         convenience, chain drug, etc)         with about 60 staff, half in the UK and half in the USA.
+KSS Retail was         sold to Dunnhumby         Limited for &#163;12.9m in Dec 2009 [C].
+Financial impact of KSS Fuels and KSS Retail on clients:         Controlled experiments with a         number of oil companies demonstrated average profit improvements of &#163;4k         - &#163;10k per fuel         retail site per annum [E], without loss of volume, when using PriceNet.
+With 400 clients         estimated to have more than 10,000 petrol stations [H] using PriceNet         worldwide, this leads to         &#163;40m - &#163;100m improvement in annual profits.
+Experiments using PriceStrat         for setting prices         of all goods in convenience stores led to profit improvements of about         $75k per store per         annum [E].
+With an estimated 1000 - 2000 convenience or grocery stores         [G] using PriceStrat         worldwide, this leads to $70m - $150m profit improvement in annual         profits.
+Impact on Practitioners     The PriceNet and PriceStrat IPDSS have fundamentally changed pricing       process/practice.
+In fuel pricing, IPDSS has helped more than 400 companies [H] to         address key aspects of         optimal pricing: (i) combining customer knowledge with analytics to         better understand         customers and competition; (ii) addressing efficient process execution         to reduce response         times; (iii) and implementing regulatory requirements with guaranteed         compliance.
+A number of         testimonials can be found in [F], e.g.
+: "KSS Fuels and PriceNet helped         us revise our pricing         process to be more accurate and timely in response to competition.
+PriceNet alerts us to stores         needing attention so the pricing team can spend time where they add most         value to the         business, making price decisions," President of Miller Oil, USA.
+In retail pricing, IPDSS has helped more than 30 companies [G] to         adopt science-based pricing         intelligence, shopper insights, optimization, and modelling solutions         for the grocery,         convenience store, drug chain and general retail industries.
+Customers         include Kroger (the         largest grocery store chain in the USA), Tesco (the largest grocery         store chain in the UK), 7-         Eleven (the world's largest convenience store operator), O'Reilly (the         third largest auto parts         chain in the USA) and Rite Aid (third largest drugstore chain in the         USA) [I].
+Testimonials can         be found in [G], for example: "We strive to deliver the best value for         our customers and after an         extensive evaluation of customer-demand pricing tools to support this         fundamental strategy,         selected KSS.
+By using KSS PriceStrat, we will have advanced insight         into our pricing and         promotional decisions and will be able to ensure that we are priced         right, on the right items, for         our customers.
+It is important for us ... to model, forecast and         optimize our regular and weekly         promotional pricing."
+(Joe Hanson, Vice President of Operations at         Yoke's Fresh Food Stores,         USA).

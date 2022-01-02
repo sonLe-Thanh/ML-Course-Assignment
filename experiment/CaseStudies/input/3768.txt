@@ -1,0 +1,57 @@
+     GAP is used in universities all over the world to teach courses in       mathematics.
+From user feedback and continued, increasingly versatile use,       we know that this is resulting in better teaching, more thorough       understanding of the mathematics taught, and to improved learning       opportunities for students.
+It helps students acquire key additional       skills applicable to a broad range of chosen career paths.
+The reach and       significance are considerable and below we elaborate on this widespread       positive impact on the education of students.
+GAP is used widely in teaching mathematics.
+In February 2012, we surveyed       the GAP community via the GAP-Forum (a mailing list with 1055 members),       about the use of GAP in teaching.
+From the replies from all over the world       (including major universities in Europe, US, South America, Asia and       Australia {2}); the results are summarised in our exposition below.
+Here       is a typical statement {2} from a colleague in the academic community (in       Montgomery, Alabama, USA):     "GAP has played such a large part in my research and my understanding         of group theory.
+I am forever in debt to its many authors.
+I take every         opportunity to share it with my students."
+A professor at Colorado       State University at Fort Collins in the USA writes {1}:     "I have been using GAP for many years in my undergraduate and graduate         classes in algebra and combinatorics [...].
+I have found the system an         indispensible tool for illustrating phenomena that are beyond simple         pencil-and-paper methods [...].
+It also has been most useful as a         laboratory environment for students to investigate algebraic structures         [...].
+[T]his first-hand investigation gives students a much better         understanding of what these algebraic structures are, and how their         elements behave, than they would get by the traditional examples         presented in a board-lecture situation.
+This more concrete approach to         abstract algebra has been received well by students, in particular by         students whose major (or study aim) has not been graduate school in         mathematics.''
+Our user respondents mention at least 10 different mathematical areas in       which they use GAP for teaching, in courses at all levels from second year       up to PhD and beyond.
+For example, in the University of Porto, GAP has       been used to teach number theory, computational algebra and cryptography       to around 140 students per year since 2009 {2}.
+Furthermore, there are       summer schools for graduate students and PDRs in which GAP was used for       the practical exercises ({3}, {4}).
+For example, the summer school "Groups       Actions Computations 2010" at the Harish-Chandra Research Institute in       Allahabad (India) used GAP for the practical tutorials on computer       algebra.
+In summary, we know from our survey that worldwide hundreds of       students every year take part in university courses that use GAP.
+Some of       these activities have been going on for many years (for example in Aachen       for 15 years), while many only started in or after 2008, and the numbers       have grown year on year.
+The real numbers are likely to be considerably       higher than what our quick survey suggests, and certainly run into many       thousands if uses through Sage are counted (see below).
+GAP complements the traditional methods of teaching in many different       ways.
+Some use it to pose computer exercises to their students, either to       look at mathematical examples inaccessible to conventional methods, or to       introduce mathematical programming (e.g.
+in Fort Collins, {5}).
+Others       (e.g.
+Aachen, Braunschweig, Perth) use GAP to give the students access to       large data collections, e.g.
+the library of finite groups.
+In many courses       the lecturer uses GAP to show non-trivial computations in class.
+There are       mathematical teaching publications relying on GAP (e.g.
+"Adventures in       Group Theory: Rubik's Cube, Merlin's Machine and Other Mathematical Toys"       by Joyner (2008), "Contemporary Abstract Algebra" by Gallian (2010) and       "Representations of Groups: A Computational Approach" by Lux and Pahlings       (2010)), and GAP is integrated into the Sage system, which itself       is used extensively in teaching {6}.
+Sage is a system which       endeavours to incorporate as much free mathematical software as possible       to create a general purpose tool for mathematicians.
+This means that       students are exposed to GAP throughout their entire higher education.
+We now proceed to describe different ways in which using GAP is improving       and broadening students' education.
+Using computers in class or for homework vastly increases the size of       mathematical structures one is able to analyse.
+Interesting phenomena       often occur only in examples that are beyond hand calculations, which       means that, through the use of GAP, students can gain mathematical       insights to which they did not have any access hitherto.
+For example in       group theory, with pen and paper one can only practically compute with       groups containing some dozens of elements, whereas with the right software       handling groups with &gt; 109 elements is easy and convenient.
+Even if the size of the examples is not too large, the GAP system with its       huge data-bases of interesting mathematical structures provides a plethora       of examples from which a lecturer can simply select, or indeed quickly run       through them automatically.
+Examples of such collections are: the library       of small groups up to the order 2000 (SmallGroups package,       published in 2002 by O'Brien (Auckland), Eick (Braunschweig) and Besche       (Braunschweig)), the library of all semigroups with up to 10 elements (Smallsemi       package, published in 2012 by Distler (PhD student at St Andrews at the       publication time) and Mitchell) or the library of primitive groups up to       degree 2500 (published in 2005 by Roney-Dougal with the GAP distribution).
+This ready access to mathematical structures opens up the possibility of       a more 'experimental' approach in abstract mathematics.
+Students can even       conduct such experiments themselves, in a lab or at home -- all that is       needed is a PC with a free GAP installation.
+This in turn leads to a more       grounded familiarity with the contents, and, more importantly the students       develop a different, more independent, attitude towards mathematics.
+By       degrees they learn to come up with their own conjectures, to verify or       disprove them; in a word, they begin "doing" mathematics, rather than       simply "absorbing" it, which prepares them for independent creative       thinking, problem solving and a career in research or industry.
+In the course of this activity, students will be led naturally towards an       efficient usage of computers and the need to write simple programs.
+This       is clearly a valuable transferable skills in its own right, and can be       developed into ability to write correct and efficient programs, and even       mathematically prove their correctness.
+Finally, computational methods in (discrete) mathematics can itself be a       subject of study.
+The open source nature of GAP allows lecturers and       students to examine GAP and its algorithms.
+In particular, students can       develop new methods on their own, thereby expanding GAP and contributing       to its capabilities.
+Further down the line, PhD students can become       members of the development team, build their own packages, and base       publications on these.
+This is not only good for their education in       computational mathematics, but they benefit in a much broader way from       gaining expertise in professional software development.
+In summary, the use of GAP in mathematical teaching improves the       education of thousands of students worldwide every year, making them the       main beneficiaries.
+The lecturers themselves also benefit, because the       deployment of new teaching methods can enrich their views on both their       subject area and education.
+In particular they can lead their students       towards creative mathematical thinking and problem solving.
+The society       benefits from a stream of well qualified professionals who bring together       mathematical knowledge, numerical- and analytic-problem solving skills,       and broad computational expertise.
+The impact is significant since these skill-sets are crucial for       functioning of our society, and is far-reaching because GAP is freely       available and GAP-based instruction takes place in dozens of leading       universities worldwide.
+St Andrews research work is crucial for GAP in all its aspects, and in       particular for its educational applications.
+Each of the thousands of GAP       installations worldwide incorporates years of research effort by St       Andrews scientists.

@@ -1,0 +1,61 @@
+     Process     Visual analytics is a powerful and generic technology to provide insight       into data: thus we have sought to create impact in a wide range of       domains.
+The process for creating impact started with the implementation       of a well-engineered software toolbox (Netlab) that is reusable, can be       deployed quickly, and forms the underpinning technology for larger       systems.
+Netlab supported the creation of user-centred tools DVMS       (originally for Pfizer), milva (gene expression array analysis), et al.
+DVMS in particular has been a key step in creating impact since it has       enabled researchers at Aston to deploy visualisation methods on a wide       range of projects (subsections 4.2 and 4.3) and work directly with end       users (who do not have statistical training) to understand the data and       thus improve the accuracy of data analysis.
+Our standard contracts allow       the reuse of generated IP in non-competing domains, which has enabled us       to build the capability of our visual analytics tools across multiple       projects for different companies.
+Thus high-quality data visualisation is       a fundamental part of the data modelling process on many industrial       projects carried out by the NCRG.
+The dissemination strategy has had impact at its heart from the       beginning.
+Papers were published in both scientific and application       journals; inter-disciplinary conferences (e.g.
+SIGKDD) and user/industrial       workshops (e.g.
+Natural Computing Applications Forum, Chemometrics SIG)       have been targeted; publicly available open-source software and industrial       training courses (designed in collaboration with industry) increased the       impact on practitioners.
+Applications where visual analytics is particularly useful can be       characterised by large quantities of uncertain information where there is       a need for non-statistically trained users to interpret data and       understand its analysis, and so organisations with this sort of data have       been targeted.
+Relationships with companies have been formed through personal networks       (e.g.
+Pfizer, IGI, Thales) and contacts made with Aston's Business       Partnership Unit (e.g.
+WheelRight, Daden, AgustaWestland, Lein): a mixture       of special events targeted at companies with appropriate data and       company-led interactions (often inspired by the high visibility of the       NCRG and Netlab).
+1.
+Industrial Products     A number of companies have incorporated the data visualisation work of       the NCRG directly into their products.
+Pfizer Central Research has supported our work since 2000 through         funding (2 directly funded PhDs and 1 CASE studentship; BBSRC funded a         postdoc) the development of practical visualisation algorithms and         methods [5.1] (and has collaborated in writing joint papers).
+This         culminated in the development (2008) of an interactive visualisation         tool used by Pfizer's chemists and biologists (rather than         statisticians) to interpret and analyse screening results (e.g.
+biological activity, toxicity etc).
+Integrated Geochemical Interpretation Ltd, a petroleum geochemistry         consultancy company which operates world-wide, sells p:IGI, a software         product for oil and gas exploration geochemistry with a 60% share of the         worldwide market.
+IGI co-funded a PhD CASE student [5.2] who, after         completing his thesis in 2010, worked for the company to implement our         visualisation algorithms to enhance the p:IGI tool [5.7].
+The company         started a &#163;500k TSB grant in 2013 (jointly with Aston and Daden, see         also below) to drive further development of this product and enable them         to expand into new business sectors.
+Intelligence data visualisation: A prototype information visualisation         system was delivered to Dstl (Defence Science and Technology Laboratory)         in 2011 under a contract [3.G, 5.4] on Collaborative Multi-source         Intelligence related to integrating spatio-temporal and network analysis         incorporating measures of uncertainty.
+Thales is now exploring the use of topographic information         visualisation using very high- dimensional submarine sonar array data as         part of a collaborative industrial CASE project.
+The idea is to         synthesise the vast amounts of information into a form suitable for         human interpretation by skilled operators on board submarines.
+2.
+Improving business performance     Visual analytics and the DVMS software have played a fundamental role in       collaborative industrial research projects in order to understand data,       detect outliers and select important features.
+This improved analysis has       led to the development of new and improved products.
+We worked (2010-1) with Daden, an SME based at Birmingham Science Park       Aston, on a &#163;35k contract for Dstl (the Cyber and Influence Centre, part       of the Centre for Defence Enterprise) for immersive data visualisation and       its application to defence intelligence analysis.
+The results of this       research formed part of the case for a significant corporate investment in       Daden from BAE Systems and the development of the Datascape product [5.6]       in 2012-3.
+Nabney consulted for Select Research Ltd. [5.3] to develop the       data visualisation and analysis for the Body Volume Index (BVI), a novel       obesity metric replacing BMI, based on volumetric measures with a       white-light scanner.
+This metric is much better correlated with biomarkers       of vascular disease than BMI.
+Select launched BVI in November 2010 and       have been in trials for the NHS.
+In a CASE studentship with AgustaWestland [3.C] to develop a condition       monitoring system for helicopter airframes, DVMS has been used to select       frequency bands and sensors that will provide the best detection of       faults.
+The visual nature of the results has enabled us to explain the       selection process to the engineers and demonstrate the transitions between       different flight modes.
+The results of this are a prototype for detecting       the need for structural maintenance on the airframe.
+WheelRight [5.5] makes sensors for measuring vehicle tyre pressure which       are embedded in the road so that measurement is performed simply by       driving over the sensors and the results are sent by text to the driver.
+Correct tyre pressure maintenance is done poorly and irregularly.
+WheelRight's goal is to make this process automatic, specific, accurate       and easy to use.
+A study by Bridgestone Tyres estimates tyre       under-inflation is costing the EU &#8364;2.8 billion each year in wasted fuel       and adding 4.8 million tons of CO2 emissions.
+This high cost is       due to drivers' unwillingness to use the current tools.
+There is now a       better way to radically reduce this waste.
+In a directly-funded research contract (2012-3) we have significantly       improved the results from Wheelright's vehicle tyre pressure measurement       instrument.
+We used visualisation to understand the complex data signals       and then developed new predictive models that significantly improved the       measurement accuracy, particularly on HGVs and buses, so that it now meets       the requirements of their customers.
+WheelRight have installed three       complete systems used each day by a range of vehicle types.
+At a municipal       bus depot with a fleet of 80 buses over 2,000 tyre pressures are taken       each week, at a HGV fleet operator this increases to over 14,000 and at       the entrance to a technology site over 10,000 are recorded.
+In total the       company has automatically recorded over a million tyre pressures in a       twelve-month period in 2012-3 from these three sites alone.
+Taking this       number of manual tyre pressures would be impractical and very expensive;       estimated labour costs would exceed &#163;500k p.a.
+The bus operator is       achieving cost savings from lower fuel consumption, longer tyre life and       labour exceeding &#163;50,000 p.a.
+The system has also undergone tests in 2013       by the National Measurement Office to confirm the system's accuracy for       all vehicle types.
+Building on the analysis of clinical trial data (2012) by Aston       researchers using visualisation techniques, Lein Diagnostics has developed       an optical measurement device for blood glucose.
+In 2013, Lein has       received further support (&#163;94k) from the NHS to develop an improved       version of the meter.
+The aim is to develop a meter that will achieve the       measurement accuracy specified by the ISO and FDA in order to displace the       widely disliked finger-stick meters used by diabetics.
+3.
+Impact on practitioners     The primary means of impact on practitioners is the Netlab toolbox.
+So       far there have been more than 40,000 downloads of Netlab by the academic       and business users worldwide since its release.
+Currently, it is averaging       6,200 page-views per year (thus c. 34,000 over the REF census period) and       3,363 downloads per year (thus c. 18,500 over the REF census period).
+A portfolio manager at Tudor Capital Europe LLP (who carried out a PhD at       Aston in data visualisation) in charge of a large macroeconomics trading       portfolio uses data visualisation and dimensionality reduction methods       (particularly GTM) as a key tool in his portfolio management strategy.
+He       uses visualisation to interpret the very large number of macroeconomic       indicators which often helps him identify new macro trading themes earlier       than most market participants.
+Several universities also use the Netlab software toolkit and associated       book [3.4] in pattern recognition courses, including: Edinburgh;       Southampton; Portland State University; the University of California, San       Diego; the University of Warsaw; and the Czech Technical University in       Prague.
+This means that training in these data visualisation algorithms is       not confined to Aston University, thus increasing the supply of       highly-skilled practitioners.

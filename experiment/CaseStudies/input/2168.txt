@@ -1,0 +1,33 @@
+     The challenge of liver disease     Non-alcoholic fatty liver disease (NAFLD) is the most common liver       disease in the developed world       with a prevalence of 20-25% in the general population.
+It is closely       associated with obesity,       diabetes and other features of the metabolic syndrome with a prevalence of       more than 90% in       obese populations and more than 70% in patients with type 2 diabetes.
+Although the first stage of       NAFLD &#8212; simple steatosis &#8212; has a benign outcome, patients with more       advanced, fibrotic, disease       can progress to cirrhosis, liver failure and hepatocellular cancer as well       as an increased risk of       cardiovascular disease.
+As expected, patients with fibrotic NAFLD have an       increased overall, liver-       and cardiovascular-related mortality compared to the age- and gender       matched population.
+In light       of these different prognoses, it is vital to differentiate the vast       majority of NAFLD patients with       steatosis from the minority (10-20%) with advanced fibrotic NAFLD, since       this latter group require       careful monitoring and treatment with emerging therapies.
+At the outset of       the research, the only       accurate way to determine the severity of NAFLD was by liver biopsy (EV       a), an expensive       procedure which is invasive and associated with morbidity and occasional       mortality.
+For example,       minor pain is experienced in around 10% of cases, major pain in 1% and       death in 0.1% (EV a, b).
+Furthermore, since a sample represents only 1/50,000 of the whole liver       and lesions are scattered       throughout the organ, biopsy is prone to sampling error and may lead to       misdiagnosis (EV d).
+The identification of predictive variables of fibrosis and subsequent       validation of the NAFLD       Fibrosis Score (NFS), in studies led by the Newcastle Liver Group has       provided a safe and reliable       non-invasive alternative to liver biopsy for the vast majority (up to 75%)       of patients with NAFLD,       markedly reducing associated morbidity.
+As evidence of the impact of the NFS, it has now been incorporated into policy,       forming part of two       international guidelines and is now routinely used in clinical         practice in the UK, with associated       patient benefit and reduced cost for the NHS.
+Policy     Firstly, the 2010 European Association for the Study of Liver (EASL)     position statement on     NAFLD (EV c) includes the NFS as one of three "simple clinical scores"     and cites R1.
+Secondly,     the 2012 Guidelines from the American Association for the Study of Liver       Diseases,     American College of Gastroenterology, and the American Gastroenterological     Association (EV a)     state: "NAFLD Fibrosis Score is a clinically useful tool for identifying       NAFLD patients with higher       likelihood of having bridging fibrosis and/or cirrhosis" (pg 2010).
+The recommendation is level 1     (strong) under the GRADE system.
+Practice     The NAFLD score has been taken up and used in practice nationwide.
+Of the       major UK liver units       that responded to the request for a statement, all were positive.
+Some       examples include:             "It's made a big difference to my practice.
+I use the NFS [NAFLD           Fibrosis Score] in my           modified map of medicine to allow GPs to triage their referrals for           NAFLD.
+This was agreed           with the commissioners.
+[We] currently have 5 new and 20-25 reviews           per week in the           NAFLD clinic" (EV e)       "I use the NAFLD score.
+It is reliable and easy to use.
+"(EV         f)        "NAFLD Fibrosis Score is embedded in our chronic liver disease           database."
+(EV g)          Two websites have been set up (EV h, i) that allow simple calculation of       NAFLD score using the       formula set out in the paper by Angulo et al.
+(R1).
+The creator of       the gihep.com calculator (EV h),       states "We appreciate the NAFLD calculator and many of our faculty use         this on a regular basis at         Indiana University and from the usage statistics (~25 uses/day) from         around the world.
+It has been         on the site since October 2011."
+The calculator at nafldscore.com       was created in early 2009 and is       used to calculate a NAFLD score approximately 5000 times per month (EV i).
+Patient and NHS benefit     Liver biopsy is associated with pain, occasionally mortality and sampling       error (EV a, b, c).
+Since       the NAFLD Fibrosis Score identifies those patients who do not need a       biopsy, it allows up to 75%       of biopsies to be spared (R1), decreasing patient risk and saving time.
+In       financial terms, avoiding       liver biopsy also represents cost savings to the NHS.
+The June 2013 NICE       costing template (EV j)       states that a liver biopsy costs &#163;535, and a 2013 audit (EV b) of UK liver       biopsy stated that 3500       biopsies were carried out in 2008 by the 87 radiology departments that       responded, out of a total of       210.
+This means that using the NFS to spare liver biopsy would have saved       the NHS &#163;1,872,500       annually across these departments alone.
+Since the NFS score is based on       patient data that are       routinely available to liver doctors and GPs, costs are minimised and the       NHS benefits from       financial savings.
+In summary, Newcastle research has validated a non-invasive test       for non-alcoholic fatty liver       disease that spares the need for liver biopsy, an invasive, painful and       costly process.

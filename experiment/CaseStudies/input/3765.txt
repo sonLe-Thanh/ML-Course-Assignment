@@ -1,0 +1,21 @@
+     One of our collaborators on QCDOC moved from Columbia to become the Chief       Architect of the BlueGene/L project, which IBM developed in collaboration       with Lawrence Livermore National Laboratory.
+This built on many of the       design concepts initiated in QCDOC, and the intellectual connection was       recognised by IBM when they included a QCDOC paper in the BlueGene/L       edition of their journal for research and development.
+The BlueGene       computer designs remained the fastest in the world for a record duration,       from September 2004 until June 2008, and have been a workhorse for       accelerating computational science around the world.
+Our role in       developing these designs is acknowledged by IBM: "My interaction and         familiarity with the efforts of the department of physics at the         University of Edinburgh cover many years.
+Physicists at the University         of Edinburgh, in their pursuit of fundamental physics through QCD have         developed hardware and software resulting in pioneering architectures         and methods in supercomputing.
+These were so successful that they are         now part of the mainstream supercomputer offerings of leading vendors         such as IBM.
+A perfect example of this is the BlueGene generation of         machines that are now sold worldwide.
+My current position is the chief         architect of all generations BlueGene.
+In addition I have participated         in multiple generations of QCD computers in collaboration with         physicists at the University of Edinburgh."
+[F1]     In 2009 Fujitsu adopted the partitioning approach developed by us for       their K-series supercomputers, with citation [S1].
+Their Tofu network       architecture for the 1 billion dollar K- computer design forms the basis       of Japan's national computational science strategy.
+The continuation of       our collaboration with IBM included direct design contributions to the       latest BlueGene/Q design.
+This intellectual contribution is supported by       four joint patent applications for novel jointly created intellectual       property [S2], and by several press releases [S3, S4].
+The BlueGene/Q       design is internationally recognised as having taken top place in the       Green500 supercomputing list since November 2010, demonstrating a step       change in energy efficiency.
+The design led the top500 in June 2012,       becoming the fastest computer in the world, and overtaking the K-computer       which also contained some of our original ideas in its network design.
+BlueGene/Q is now IBM's premier HPC product, with large multi-Petaflop/s       installations in LLNL (USA), Argonne (USA), Cineca (Italy), Edinburgh       (UK), Daresbury (UK) and Juelich (Germany).
+A 1.2 Pflop/s BlueGene/Q       prototype has been installed in Edinburgh in November 2011 as part of       STFC's DiRAC facility (presently the 23rd fastest computer in the world       and the joint fastest single science domain system).
+A 35M, 1.4 Pflop/s       system is installed in Daresbury as part of the Hartree centre which aims       to enhance the use of HPC in advanced manufacturing and thus directly       impact UK industry.
+An aggregate of 40Pflop/s was installed in 2012 across       the world and is now contributing to the advance of all computational       science disciplines.
+The total worldwide sales of the new generation of       supercomputers exceed $500M.
+[text removed for publication]

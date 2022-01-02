@@ -1,0 +1,27 @@
+     Nature and reach of impact.
+Longevity risk leads to significant       financial risk in pension schemes, which in turn increases volatility in       balance sheets of companies sponsoring pension schemes.
+Many companies,       especially those with long-established pension schemes, choose to hedge       the impact of this risk through use of longevity swaps and other financial       structures which transfer the risk to financial institutions such as       multinational reinsurers.
+As a result, the pension industry has developed       into a major global industry, encompassing major financial institutions as       well as pension schemes and life insurers.
+The CBD model, its descendants       and the R package written by Cairns have provided this industry with       crucial tools to assess longevity risk and price their products.
+These       tools were crucial in educating the market in the early days, in winning       over the actuarial profession, and persuading investors to take longevity       investments seriously.
+They have since been adopted by a broad range of       stakeholders including major US, UK and multinational institutions to       inform transactions worth several billions of pounds.
+We list below       several of these stakeholders and, for each, detail the impact of the CBD       model and its descendants.
+[text removed for publication] Collaboration between Cairns, Blake and       Dowd and [text removed for publication] staff of a multinational company       developed insightful new models, and a comprehensive methodology for the       comparison of different models and the assessment of model risk.
+It helped       leverage the resources of the [text removed for publication] company's       longevity team; exploited complementary skill sets to develop rigorous and       practical solutions; helped provide visibility and build the company's       reputation [text removed for publication] as a market leader; and helped       persuade clients to agree to do substantial deals with the company [text       removed for publication] [6].
+[text removed for publication] A very significant US-based buyer of       longevity risk from pension schemes and insurers, [text removed for       publication] is a major user of the results in [2].
+They have adopted the       model comparison methodology of [2] as the foundation of their efforts to       understand and navigate their way through a diverse array of model       choices.
+They most often base their assessments of risk and decisions on       `second-generation' CBD models (i.e.
+M6, M7 in [2]).
+Since 2010, they have       used the methodology in their assessment of [text removed for publication]       pension liabilities and have subsequently executed substantial       transactions in the UK [text removed for publication] [7].
+[text removed for publication] A rapidly-expanding, specialised       consultancy that provides capital markets and actuarial advice to pension       schemes and insurers considered a number of variants of the CBD models and       of the earlier Lee-Carter model in their development of an in-house       longevity model, concluding that the 2-factor CBD model [1] was best for       their pensions client work.
+CBD is used for assessing risk and developing       strategies for reducing risk, including the management of risk-based       capital requirements [8].
+[text removed for publication]     [text removed for publication] A provider of specialist software for       modelling past and future mortality rates used by insurance companies       [text removed for publication] incorporated CBD into its [text removed for       publication] software from outset [text removed for publication] The       software is in regular use by clients, [text removed for publication]       finding particular application in the calculation of capital requirements       for regulatory purposes [10].
+UK Pension Protection Fund.
+The PPF receives a levy from pension       schemes as insurance against possible bankruptcy of the sponsoring       companies, leaving the scheme in deficit.
+In such circumstances, the PPF       takes over the distressed scheme and assumes responsibility for paying       scheme pensions.
+Assets and liabilities at July 2013 were &#163;20 billion,       with both expected to increase rapidly over coming years.
+The PPF has       developed an internal, long-term risk model (LTRM) that covers all of its       major risk categories including future mortality improvements.
+Mortality       is modelled using the `M7' second-generation CBD model in [2].
+M7's use       forms an important element of the PPF's overall programme of risk       measurement, monitoring and management, including setting its funding       strategy.
+M7 also influences setting of scheme levies (2013/14: &#163;630       million).
+As the PPF matures the use of M7 will become even more important       [11-12].

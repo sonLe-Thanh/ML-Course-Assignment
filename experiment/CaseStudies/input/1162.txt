@@ -1,0 +1,37 @@
+     The research by Prof Bloor was key to the initial patenting and has       continued to provide the company with academic support for its claims,       thereby strengthening its' position to negotiate start- up finance and       attract potential customers.
+Mr Lussey, in an web interview, says `That         University connection started Peratech' [C1].
+Peratech first used the QTC coating for textile switches and sensors, but       it became apparent that an ink version of QTC would have great potential       as ink printing is a much more efficient and hence cheaper way to make       structures coated with the material.
+Mr Lussey was able to make a pressure       sensitive ink from a standard ink base but with semiconductor coated       Titanium dioxide particles rather than Nickel as the QTC particles.
+However, he could not develop this further without a basic understanding       of its properties.
+Dr Del Atkinson at Durham worked on the       micro-morphology of the ink, again using the scanning electron microscopy       facilities in Durham to show the structural properties of the new       material.
+Here the key aspect was that the nanoparticles were needle-like       rods, so the electric field enhanced quantum tunnelling occurred between       the tips of the rods, again giving the strong dependence of conductivity       on applied pressure [6].
+This opaque QTC ink coating is now the subject of       licence agreements with major international companies e.g.
+Nissha       printing, one of the worlds' largest manufacturer of touch screen       technology.
+Nissha signed a $1.4M licence agreement with Peratech to use       QTC technology to create the next generation of touch screens with 3D       input (x,y position and pressure) for mobile phones and portable       electronic devices.
+The licensing agreement gives Nissha exclusive       worldwide rights to use the technology for screens smaller than 3.5 inches       by 5.5 inches for an initial period of one year [C2].
+This success       attracted &#163;1.1M funding from YFM, a company which invests in SMEs across       the UK [C3].
+The opacity of the standard QTC ink means it has to be printed underneath       the screen, with backplane electronics behind this to detect position and       pressure.
+Peratech initially used commercial solutions for these       electronics, but now has its own design office in Korea which produces       electrode and backplane designs as well as firmware and software       especially for QTC.
+Peratech has used these facilities to develop its own       customised touch processing unit [C4].
+However, the focus of recent development work has been instead to design       a transparent QTC ink which can be printed on the front of a screen.
+This       is much simpler to incorporate in the manufacturing process, as it means       that the printing is directly onto the flat screen substrate [C5].
+New       readout electronics designs for transparent multi-touch sensors are being       developed that span the entire screen, giving full pressure sensing at all       positions simultaneously.
+Peratech is now working with the Centre for       Process Innovation (CPI) Plastic Electronics Technology Center on NETPark       to explore printing QTC screens, sensors and switches using standard       printing machines.
+This gives a major reduction in production costs       compared to the previous approach where Peratech used a screen-printing       process.
+The project will also allow the integration of QTC devices with       other forms of printable electronics.
+This joint project is supported by       government funding from the Technology Strategy Board [C6].
+While the market for pressure sensitive inks is very large, there are       also smaller niche markets for more general pressure sensitive materials.
+The properties of the QTC&#8482; material means that it can detect multiple       gestures and functions, responding instantly to contact in a similar way       to human skin.
+This has applications in robotics, with Peratech       commissioned by NASA to build the hand/glove sensor for Robonaut, a       humanoid robot to work in space alongside astronauts [C7].
+Later versions       flew to the ISS on STS-133 in 2011 (Fig 2), and the work resulted in       Peratech being given one of NASAs Tech Brief awards in 2012 [C8].
+Peratech       also had a joint project with MIT (commissioned in 2010) to develop       technology by which people can interact tactilely with a robot in much the       same way as they would with another human (see Fig 3, C9).
+Fig 2: Robonaut 2 &#8211; the first dexterous humanoid robot in         space &#8211; is pictured on ISS.
+Credit NASA                 Fig 3:Tactile human-machine interface with QTC skin developed         for robotics with NASA and MIT          An acknowledgement of the impact of this work is that Peratech won the       2012 Queen's Award for Enterprise in the Innovation Category for QTC.
+The       citation says that "the new materials have spawned an extensive range of       highly-reliable solid state sensors and switches.
+The innovation has       facilitated the development of light-weight, low-power, portable devices       with three-dimensional input features."
+This is the UK's most prestigious       award for business performance and recognises and rewards outstanding       achievement by British companies [C10].
+This joins several other awards       such as 2011 British Engineering excellence award, 2011 Growing Business       award, 2011 Printed Electonics award.
+Mr Lussey recently won `AV       technologist of the year 2013', an award which recognises outstanding       achievement by an individual in advancing AV technology [C11].
+The company holds 100+ worldwide patents [C12], employs 25 people, and       has increased turnover dramatically over the REF period, reaching       ~&#163;3M per annum in 2012 (see Fig 4).
+Fig 4.
+Annual turnover of Peratech from 1998 to 2012, showing         how the company has         expanded since 2008 (courtesy D Lussey [C13])

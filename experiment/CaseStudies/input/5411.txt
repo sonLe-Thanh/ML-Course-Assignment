@@ -1,0 +1,28 @@
+ Hermes Traducciones y Servicios Ling&#252;&#237;sticos, SL, established in 1991, is a leading translation company with 100% Spanish capital, specialising in software and hardware localisation and also undertaking a broad range of other translation projects.
+At present, it is an assembly member of GALA (Globalisation and Localisation Association), ATA (American Translators Association) and ACT (Spanish Translation Companies Association).
+Furthermore, Hermes maintains a close relationship with Spanish universities by giving lectures in Translation and Interpreting, postgraduate courses, trainee programmes, localisation and applied technology seminars and sponsoring conferences and translation-related events, etc.
+Hermes makes use of language technologies to speed up translation and achieves publishable quality via human post-editing.
+In the last two years Hermes has post-edited nearly 1 million words, a post-editing activity worth &#8364;90,000.
+These figures should increase by 15-25% in the next two years.
+It is therefore clear that reducing the cost of the post-editing practice is a priority for them.
+NLP Technologies Inc (NLPT) is a Canadian company specialised in NLP that offers accurate and reliable certified translation services and technologies by employing Computer Aided Translation (CAT).
+It offers translation services in the legal, governmental, medical and financial domains and it has clients such as Alberta Education, Tribunal Administratif du Qu&#233;bec, Barreau du Qu&#233;bec, Commission des droits de la personne et des droits de la jeunesse and Fisheries and Oceans Canada.
+Both companies benefit from general purpose translation technologies and domain adaptation strategies to fit their general purpose translation workflows to specific domains.
+In the past, Hermes and NLPT would optimise their translation workflows, including their domain adaptation strategies, towards semi-automatic metrics of translation evaluation such as HTER (an edit distance between a cheaply obtainable draft translation and its human post-edited version).
+However there is no guarantee that HTER and other state-of-the-art metrics correlate well with the real effort spent on post-editing as they are only an estimate of the real edits made.
+In 2012 Hermes achieved a 31% reduction in post-editing, whilst 2013 saw a 34% reduction.
+This was accomplished by combining two uses of PET as follows:  optimising domain adaptation strategies towards a combination of post-editing time and edit distances (accurately measured editing time is one of the original outcomes of PET); collecting data from the post-editing practice (PET's novel detailed effort indicators) that allowed them to learn an "aptitude profile" of their post-editors to the different types of texts (e.g.
+legal documents, movie subtitles, etc.).
+Such profiles were consulted before tasks were assigned so that the human subjects involved in a task were chosen depending on their aptitude for that task.
+In a similar experiment that took place in the last quarter of 2011, NLPT used PET to assess their own domain adaptation in order to maximise their own efficiency.
+They report a study in which four professional post-editors worked on documents translated using different domain adaptation strategies.
+PET allowed them to objectively tune their strategies towards time savings in a controlled experiment.
+They have found that an average of 66 seconds could be saved per sentence (for over 78% of the cases) if their models were optimised towards editing time as opposed to HTER.
+These savings can be extrapolated to future tasks compatible with the domains analysed by matching their goal (time savings) with their evaluation methodology in a short and non-expensive analysis using PET.
+The PET tool has also had an impact in education.
+In 2012-2013 DTIC introduced post-editing as part of their Master's programme and they chose PET due to its unique effort indicators as well as its flexibility in dealing with both human translation and post-editing.
+In their practical sessions, students participate collectively in experiments aiming at contrasting human translation and post- editing in terms of (i) quality, (ii) productivity, and (iii) typically encountered errors.
+While students are introduced to state-of-the-art translation and post-editing practices, they are also assessed in terms of (a) how thoroughly they apply guidelines, (b) the quality they achieve, (c) their own productivity, and (d) the errors they identify.
+PET's effort indicators, explicit assessments and history of edits are used for both purposes, namely, teaching (i-iii) and assessment (a-d).
+Since 2012, thanks to PET, DTIC's Master's students have been learning about and experimenting with post-editing, a practice that is of increasing importance in the translation industry and which is becoming indispensable to any modern translation professional.
+As a result of using PET, DTIC has designed novel and modern Translation Quality Assessment approaches which they put into practice in the postgraduate courses they offer.

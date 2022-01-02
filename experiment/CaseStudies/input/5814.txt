@@ -1,0 +1,39 @@
+     Following interest in the results of the research, in late 2009 the       decision was taken to create a spinout company, Data2Text, to       commercialise the underpinning research.
+Data2Text essentially develops       bespoke data-to-text software applications for large organisations, based       on a generic data-to-text software library.
+The technology and expertise       developed in SumTime and BabyTalk are very much at the       core of Data2Text's activities.
+In addition to its commercial contracts       (which cannot be described in detail here because of commercial       confidentiality [S2,S3]), Data2Text was awarded a Smart Award from       Scottish Enterprise.
+The company currently employs 14 staff and has a       turnover of approximately &#163;1M/year.
+In 2012 Data2Text formed a partnership       with Arria NLG, who acquired a minority shareholding in Data2Text [S1].
+In       October 2013 Arria NLG acquired Data2Text, and in November 2013 an       application was made to the Alternative Investment Market (AIM) through       the London Stock Exchange for an Initial Public Offering for shares in       Arria NLG Plc.
+The expected size of this offer was &#163;6.1M [S7], with a       likely valuation of &#163;102M.
+Admission to AIM is expected in early December.
+Beyond the economic impact of the spin out company creation, NLG       technology is also having an impact both economically and on practitioners       and professional services through commercial partnerships between       Data2Text/Arria NLG and other organisations.
+The Arria NLG website refers       to a number of case studies [S6], and refers strongly to the impact       derived from the original research at the University of Aberdeen.
+Also see       the description of the November 2013 Initial Public Offering on the London       Stock Exchange [S7], which states that "[t]he Group's core product is       known as the Arria NLG Engine, which originates from research at the       University of Aberdeen".
+NLG products are currently developed through       Data2Text and Arria NLG in two key application areas: oil &amp; gas and       weather forecasting.
+The companies are also exploring applications in       financial services and healthcare.
+In oil &amp; gas, NLG applications have been used to monitor alerts       produced by rotating equipment on oil platforms.
+Operating continuously       through a 365 day cycle, breakdown of equipment results in lost production       time for oil &amp; gas operators.
+A Data2text/Arria NLG system is being       used by a multinational oil company to automatically produce situation       analyses, based on data streams from turbines, compressors, pumps,       generators and engines, when a surveillance alert is triggered [S2].
+Manually writing such analyses can take an experienced engineer several       hours; the NLG software does it in minutes.
+As mentioned above, this       system is inspired by the Babytalk research project; essentially Babytalk-inspired       ideas are used to monitor equipment on oil platforms instead of premature       infants.
+This has current and potential economic impacts on the       multinational oil company partner, Shell.
+Shell has stated "by adding the       Arria NLG Engine to traditional surveillance technologies to monitor their       global rotating equipment assets, a one percentage point uptick in       production uptime could be achieved".
+Further, "if the Arria NLG Engine       can be added to all of their global production assets [...this...] could       equate to billions of dollars of increased production per year" [S2,S6].
+The description of Arria NLG in the IPO made in November 2013 states that       the software "is being used to analyse the performance data of large scale       industrial machinery located on [...] Oil &amp; Gas platforms in the Gulf       of Mexico, producing real-time written reports for engineers at the [...]       centre for surveillance of offshore operations."
+Application of NLG technology in weather forecasting began as part of the       research programme in 2000-9 with the Aberdeen offices of Weathernews and       Aerospace and Marine International.
+Since 2009, this has extended to       collaboration with a leading weather service, the Met Office.
+To date the       NLG technology has been used to generate site specific, on-demand,       detailed weather forecasts.
+The technology is capable of preparing       detailed 3 day weather forecasts for 5,000 different locations in less       than one minute, the equivalent for a human forecaster would require one       and a half months.
+"Right now, our NLG software tackles tasks that would       be impossible for forecasters to complete manually.
+It would take a       forecaster 1.5 months to create the equivalent of our system's one-minute       output" (detailed, 3-day weather forecasts for 5,000 different locations)       [S3,S6].
+In this way, the Met Office can offer additional services to a       wide range of customers.
+Researchers at the University of Aberdeen also created and released the       open source data-to-text resources simplenlg.
+simplenlg is       a Java software library (currently in version 4.4) for doing some Natural       Language Generation processing (surface realisation and a small amount of       microplanning) [S8].
+It was initially released purely for research use,       but has been updated with significant enhancements and documentation since       2010 (from version 4.0) to be also available for commercial use on an       open-source basis (simplenlg.googlecode.com).
+Since the release of version 4.2 (April 2011), almost 2,000 copies of simplenlg       have been downloaded, and an indicator of the increasing size of the user       community is the increase in download statistics through these versions:       version 4.2, 228; version 4.3, 733; and version 4.4, 1032.
+The simplenlg       library is currently being used by a number of commercial companies (as       well as academic groups) around the world, especially in       healthcare-related applications.
+A good example of an Open Source App that       uses simplenlg is the Augmentative and Alternative Communication       (AAC) Speech Communicator, "an Android application for people with speech       disabilities that forms sentences from a list of pictograms" [S9].
+According to Google Play this App has been installed over 10,000 times,       and has an aggregate rating of 4/5 (25 reviews).
+Good examples of how simplenlg       has been integrated into products include Agfa, where it is used in a       cardiology clinical reporting application [S5], and Siemens, where it is       used it in healthcare software sold to US hospitals [S4].
+It is also being       used commercially for assistive technology; for example Technabling       (another Aberdeen Computing Science spinout) use it in their portable sign       language translator [S10], which is to be launched as a product in Autumn       2013.

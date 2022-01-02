@@ -1,0 +1,25 @@
+     Most modern 21st-century structures are designed so that damaging       low-frequency elastic vibrations can be avoided.
+But unexpected external       loads can still trigger unwanted shake and rattle, with some dangerous       consequences.
+Well-known examples are the Millennium Bridge in London and       the Volga Bridge in the Russian city of Volgograd.
+The first of these       opened as a footbridge across the Thames in 2000 but had to be shut soon       after for a major redesign after members of the public complained about it       moving excessively when they walked across it.
+The 7.1km road bridge over       the river Volga had similar problems when a resonant vibration caused       sections of the bridge to shake in May 2011, less than a year after it had       opened.
+The fact that problems arose, even though the Volga and Millennium       bridges were designed using fully certified packages, shows that it is all       too easy with large and complicated structures to overlook vibrations that       may cause structural problems under practical conditions [5.1].
+During 2011-12, our proposed approach and the results of our novel       asymptotic analysis have been fully adopted by the design engineer, Dr       Gian Felice Giaccu and the design and construction company ICOSTRADE       S.R.L.
+in their working practices, combined with the industrial grade FEM       package.
+The use of this novel approach has made the design of elongated       structures more efficient and reliable by helping to avoid unwanted       low-frequency vibrations of the bridge systems, and possible design errors       similar to the ones that occurred in the Millennium Bridge and the Volga       Bridge.
+The financial implications of correcting a design error in a       bridge are substantial, as multi- million investments are required on       every occasion when such errors occur, and the new method has already       provided a very efficient practical tool.
+The company has written a letter       confirming the material benefits of this research on their practical       operations.
+To quote from the letter of support [5.2]: "This new method         has now been adopted in our working practices, and we acknowledge a high         positive impact of this research on our business.
+The recent novel idea         of phase transition waves, originated from this research on long         bridges, we also recognized as a realistic mechanism of potential         failure of bridges and hence has been taken into account in the         definition of the safety margins for our industrial designs.''
+The approach leading to routing of elastic waves around unwanted regions       has also delivered new multi-scale designs, adopted by the international       software development company ENGINSOFT, which specialises in industrial       computation and design.
+The work at ENGINSOFT was led by the project       manager, Mr Giovanni Borzi, and the algorithms are linked to structured       wave shields around stress concentrators such as voids or entrant corners,       as well as problems of thermal striping in structured solids.
+This work       was done in the framework of EU-funded grant [G2], valued at 2.34M Euro,       that develops Industry-Academia Partnerships and Pathways.
+The value of       the impact is high, as it has led to enhanced hybrid computational       algorithms of ENGINSOFT for analysis for dynamic response of multi-scale       structural systems with defects.
+This has advanced the capability of the       company, which has a multi-million turnover of industrial research       projects.
+A letter [5.3] has been provided by ENGINSOFT to confirm the       significant impact on their industrial work made by the research of A.B.
+Movchan and his group.
+They say that Prof Movchan's new methods have "offered         revolutionary new perspectives" which "have proved to be         extremely effective".
+They confirm that these new methods "have         been incorporated into our working practices and boosted our competitive         position" with "an immediate financial benefit already estimated         at around 250,000 Euros."
+Efficient knowledge exchange events have been put in place to make sure       that the results and ideas of design for wave by-pass systems for       structured solids were exposed to the academic and industrial communities.
+These include the International Workshop "Elasticity Day", held in       Liverpool in May 2012, and three industrial workshops, all organized and       held in Liverpool, on Modelling of Defects in Welds and Heterogeneous       Media (May 2008), Waves in Structured Media and Localisation (June 2009)       and Asymptotic &amp; Computational Models of Fracture and Wave Propagation       in Structured Media (May 2010) as well as an interdisciplinary workshop on       Metamaterial Structures and Dynamic Localisation Effects (December 2011).
+This knowledge exchange has been also enhanced by the recent publication       of the article "Bypassing Shake Rattle and Roll " [5.1] in Physics World       [May, 2013]

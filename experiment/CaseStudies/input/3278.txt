@@ -1,0 +1,32 @@
+     The research resulted in a stable, fast and accurate algorithm for       forward and inverse modelling of turbidity currents and their deposits.
+The model incorporates novel aspects of particulate gravity-current       physics, such as friction factors and suspension criteria based upon       fluid-mechanics principles, rather than empirical relationships.
+As a       result, thousands of simulations can be run overnight on simple desk-top       PCs thus bringing sensitivity analyses and "mathematical inversion" of       turbidity current models to the desktop-computers of geologists at the       forefront of exploration in oil-companies.
+In summary, these developments       resulted in the development of highly efficient software that allows users       to rapidly understand and characterize turbidite deposits.
+The practical use for this software is to find a simulation that       accurately reproduces ancient sand deposits observed in wells.
+The model       then predicts the sand distribution over the entire modelled area, thus       identifying promising locations for future drilling.
+The areal       distribution and thickness of the modelled sand bodies also allows for       prediction of the reservoir volume that is an important factor in deciding       the financial risk of further exploration.
+Finally, the sand distribution       can be fed into industry-standard fluid-flow models that predict the ease       with which hydrocarbons (oil &amp; gas) can be extracted from the       sand.
+This allows for the assessment of recoverable (as opposed to         in-place) reserves that constrains the exploitation strategy (e.g.
+placement of water-injection wells).
+The Royal Holloway program was commercialized by Midland Valley       Exploration Ltd. during 2008.
+MVE's contribution was to build a       user-friendly interface and, most importantly, to integrate the modelling       with their own world-leading structural-reconstruction software.
+Structural reconstruction allows ancient seafloor bathymetry to be       estimated from 3D seismic data and this bathymetry is a key input to the       turbidity current modelling.
+The combination of structural reconstruction       and forward/inverse modelling of turbidity currents is unique with no one       else yet providing this capability in either industry or academia.
+Since its release, the software has been sold to nine commercial clients       including major oil-companies and smaller consultancy companies.
+In       addition the software has been purchased by ten universities.
+Also, MVE       have used the software on three consultancy projects.
+The names of the       specific companies involved and the financial details are commercially       sensitive.
+However, Royal Holloway received a 30% royalty on all sales and       consultancy indicating that MVE were paid &#163;120k between Q3-2008 and       Q2-2011.
+As a result of Royal Holloway involvement in marketing and       support, we know that Shell, Nexen, Noble Energy, RepSol and StatOil are       some of the companies who have evaluated the software.
+Income from sales       together with Government-funds for supporting further development have       allowed MVE to employ three top-level people in their UK office to market       and develop this product.
+In 2009 StatOil used the results of turbidite modelling during       reassessment of the Gudrun field in the Norwegian North Sea.
+Gudrun was       discovered in 1974 but was not exploited at that time because of the       technical difficulties of extracting oil from this geologically complex       field.
+However, the technical capability now exists to exploit such       resources and so its modern commercial potential was reassessed during       2009.
+This included an evaluation of reservoir size, location,       compartmentalization and quality, in order to develop the most       cost-effective drilling strategy.
+Results from Royal Holloway software       modelling contributed to this study.
+In particular the software was used       to evaluate the impact of compartmentalization of sand-bodies resulting       from contemporary folding and faulting and to evaluate uncertainty in       sand-body location related to the unknown entry points of the turbidity       currents.
+As a result of the reassessment, a plan of development and       operation (PDO) was submitted to the Norwegian government and accepted in       2010.
+Engineering work began in late 2010 and the field will come on-line       in 2014.
+Gudrun is currently believed to hold oil and gas reserves worth       $13billion.
+To exploit this field $3.5 billion is being invested by       Statoil during the period 2010-14.
+Exploitation of the Gudrun field will       help to secure energy supplies in western Europe at a time when many       oil-rich regions of the world are becoming increasingly volatile and       unreliable.

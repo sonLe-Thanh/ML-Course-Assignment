@@ -1,0 +1,34 @@
+     The development of the SF-6D contributes to health and welfare       and has commercial benefits.
+The health and welfare benefits arise       from the use of SF-6D data in the assessment of the cost effectiveness of       health care interventions by health services and regulatory agencies       around the world.
+Commercial benefits come from the licensing of the       measure to pharmaceutical companies and others who need to demonstrate the       cost effectiveness of their products.
+Reach occurs because the SF-6D can       be derived from any SF-36 or SF-12 data set and these are the most widely       used generic outcome measures in clinical trials around the world.
+Achieving impact     Dissemination of the SF-6D was initially via targeted presentations at       seminars with the funders (Glaxo Wellcome), other Pharma companies and       other key health decision makers such as the Department of Health and the       National Institute for Health and Care Excellence (NICE).
+In addition,       presentations were given at the main annual conference of key user       organisations including:     International Health Economics Association (IHEA); International         Society For Pharmacoeconomics and Outcomes Research (ISPOR);       International Society for Quality of Life; American         Public Health Association (APHA).
+The work has also been       disseminated via chapters in two major books used by practitioners: the Elgar         Companion to Health Economics (Jones AM (ed) 2006) and the World       Health Organisation volume on Summary Measures of Population Health       (Murray et al 2001).
+This has resulted in the SF-6D being widely seen as       one of leading measures for calculating QALYs.
+Alongside the publications       of the research to develop the SF-6D, we have produced papers showing how       well it performs compared to other measures (in terms of psychometric       properties like validity); and how well it performs across different       health conditions.
+To provide maximum access, the SF-6D is supplied in easy to use software       including Excel, SPSS and SAS.
+These programs can be run on SF-36 (version       1 or 2) and SF-12 datasets and generate the SF-6D index on the zero to one       scale for calculating QALYs.
+Guidance and instructions on how to use the       programs are provided at the SF-6D website (www.sheffield.ac.uk/scharr/sections/heds/mvh/sf-6d).
+Access to the SF-6D is through either a licence for commercial       applications from Fusion IP or Quality Metric (US) who supply the software       for a charge (see below).
+Non-commercial applications covering all public       sector and charitable organisations are free of charge and copies of the       software can be obtained through a named person in ScHARR; 521       non-commercial licences have been distributed since 2008.
+Commercial benefits     The main commercial users of the SF-6D have been pharmaceutical       companies, and consultancy companies working on their behalf, who wish to       examine the cost-effectiveness of new drugs and make submissions to       regulatory authorities.
+There are two sources for a commercial licence.
+One is obtained through       Fusion IP, a company specialising in marketing IP owned by Universities.
+The selling of the SF-6D has also been sub- contracted to Quality         Metric (www.qualitymetric.com),       a US based company specialising in measuring health outcomes, who also       distribute other SF products including the SF-36 and SF-12.
+Since 2008       they have together sold 460 licences (based on royalties paid to the       University of Sheffield) to pharmaceutical companies (or consultancy       companies) including Novartis, Roche, Pfizer, Novo Nordisk, Astellas,       Merck, Sanofi and BMS.
+Other important commercial users have been health       care insurers and providers in the USA.
+The companies benefit because an accepted generic health measure       administered in their clinical trial (the SF-36 or SF-12) can be directly       (and easily) translated into a preference-based measure that can be used       in economic evaluation.
+The SF-6D enables them to estimate the health       related quality of life benefits of their technology in terms of QALYs,       which is a requirement for a submission to regulatory bodies around the       world.
+Health and welfare policy and practice: use by regulatory authorities         and in clinical trials     An important impact of the SF-6D is via its use by regulatory bodies       around the world for assessing the cost-effectiveness of health       technologies.
+The SF-6D is recommended for use by Health Technology       Assessment (HTA) agencies in Ireland and China (S1, S2); it is explicitly       named as an accepted measure in Australia (S3), Belgium, Canada, Norway       (S4), South Korea and Thailand; it also meets the specific guideline       requirements of HTA agencies in 21 other countries whose guidelines are       available via the ISPOR website and thus can be used for health care       decision making in those countries.
+The SF-6D has been used in health care decision making in the UK by NICE,       the Scottish Medicines Consortium and the All Wales Medicines Strategy       Group.
+It has been used as the main health utility measure in important       NICE assessments for pharmacological treatments such as for Alzheimer's       (TA217) (S5), low platelet count (TA293) (S6), peripheral arterial disease       (TA223) (S7), and gout (TA291), and has been used alongside other measures       in many other appraisals.
+In addition, between them the two main SF-6D       studies (R1 &amp; R2) have been cited over 1200 times and the vast       majority of these citations report the use of the SF-6D in clinical trials       and economic evaluations of health care interventions around the world.
+This provides clear evidence of its usefulness and popularity as a measure       for health care decision making.
+For example two uses of the SF-6D have       been in a large international clinical trial for nurse led management of       heart failure (S9), and to assess the cost effectiveness of diagnostic       procedures for HIV in resource limited settings (S10).
+There are numerous       other examples across physical, mental and public health, in both the       developed and developing world.
+Impact on the general population     The SF-6D aids decision making via economic evaluation and therefore       informs the efficient and equitable allocation of health care resources.
+Hence the general population of these countries are ultimately the main       beneficiaries since the health care authorities are able to extract better       value for money (i.e.
+more health outcomes per &#163;/$/&#8364;/yuan etc.)
+from       scarce health care resources.

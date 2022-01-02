@@ -1,0 +1,29 @@
+     SIFT-MS is now a valuable method for ambient trace gas analysis, and the       transportable instrument, built by a local company (Crewe, UK,       corroborating source 1) according to the design of PS and DS, allows       on-line analysis at the point-of-care obviating sample collection.
+Thus,       examples of the research carried out are the pilot studies at Keele and       UHNS of the metabolites in the exhaled breath of healthy volunteers and       patients with renal failure; analyses at the health and safely laboratory,       HSL, Buxton, of the exhaust gas from a diesel engine of the kind used in       coal mines; establishment of concentration reference ranges for a number       of common breath metabolites prior to the study of patients with various       diseases at the Silsoe Research Institute, SRI.
+Canterbury University, New Zealand, adopted the SIFT-MS method and       replicated these instruments in 2001.
+Their spin-off company, SYFT       Technologies (source 2), then began to commercialise the SIFT-MS method       implemented in their own design of instruments (Voice 100 (200         kg) and 200 (400 kg)), that draw heavily on the many       published results of the Keele research and development group.
+More than       50 of these Profile 3 and Voice instruments have been sold       (&#163;70 - 200,000 each) and are in use around the world.
+The international dimension of SIFT-MS is seen by its adoption in the UK:       Keele, Open University, Imperial College London.
+Czech Republic: Academy       of Sciences, Prague.
+Canada: Lakehead University Ontario.
+New Zealand:       Canterbury and Otago Universities.
+U.S.A: Ohio University.
+Spain: IATA       Valencia).
+SIFT-MS instruments are also being used to monitor cargo       containers in ports in Australia and Europe (source 3), for oil and gas       prospecting in Australia and New Zealand, and in other important areas       where volatile compound analysis is valuable, as summarised in the Table       below.
+Worthy of special mention is the work carried out by Professor Simon       Davies at Keele and UHNS on the measurement of total body water, TBW,       using Flowing Afterglow-Mass Spectrometry, FA-MS (a variant of SIFT-MS).
+This is accomplished by measuring the deuterium content of exhaled water       vapour following the ingestion of a known quantity of deuterated water       (Davies et al, 2001).
+A multi-centre study is now (2012) demonstrating the       benefit to end-stage renal patients of regular and accurate monitoring of       TBW, using FA-MS and SIFT-MS, by assessing added value of measuring body       composition in the clinical management of dialysis patients.
+The related analytical method known as PTR-MS is also directly based on       the above-mentioned research into the ion chemistry of H 3O at Keele       (source 4).
+PTR-MS instruments are more sensitive but lack the absolute       accuracy of SIFT-MS.
+Recently, NO+ and O +2       were introduced as reagent ions in PTR-MS in an attempt to make this       technique more competitive with SIFT-MS.
+These instruments are widely used       in atmospheric monitoring, but have had limited application in breath       analysis and food technology.
+SIFT-MS has contributed to a paradigm shift in breath analysis.
+In the       area of healthcare the increasing availability of SIFT-MS instruments has       resulted in joint projects with medical groups, since breath biomarkers       can distinguish healthy and disease states.
+Evidence for this are the       joint publications with clinical specialists, which have attracted       hundreds of citations.
+Thus, in 2007, The Journal of Breath Research       (JBR) was introduced, published by IOP Publishing, and DS       and PS were invited to be founder members of the Editorial Board.
+Currently, the papers co-authored by PS and DS fill 5 of the top 10 most       cited papers in JBR and attracted some 20% of all citations to JBR papers       (source 5, citations from Web of Science).
+DS is co-editor of two       published books:             Breath analysis for clinical diagnosis and therapeutic monitoring.
+World Scientific, 2005.
+Volatile biomarkers.
+Non-invasive diagnosis in physiology and           medicine.
+Elsevier, 2013.

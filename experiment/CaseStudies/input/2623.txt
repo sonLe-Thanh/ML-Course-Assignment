@@ -1,0 +1,28 @@
+     Process     Caruso St John Architects won the commission for the &#163;20m Nottingham         Contemporary Arts Centre.
+Their facia design specified the use of a       Victorian lace pattern, at an enlargement of 1000%, to be embossed in a       seamless vertical repeat into concrete panels around the building.
+A       bobbin lace expert replicated the real &#8212; if oversized &#8212; lace for the       pattern.
+The research team provided digital `pricking patterns' at the new       scale, together with 3D visualisations &#8212; machined in resistant materials &#8212;       of the required enlarged detail, and bespoke `giant' yarn to effect the       master sample.
+The architects intended producing this physical textile artefact for the       master repeat formliner in the magnified yarn, aiming to use this       scaled-up sample as a `traditional' direct master mould for the production       of the negative silicone `formliner' mats, that are required in the       concrete casting process.
+These derivative mats were eventually to be       produced by Reckli GmbH in Germany.
+However, it became evident that this       approach would be problematic, as silicone poured on the `positive'       textile master would become trapped below the `equator' of the round       profile yarns used, preventing release of the `negative' formliner.
+As a       hypothetical alternative solution, a digital method of fabricating the       lace master was posited by the researchers and developed to output a       high-definition mould without undercut regions.
+Experimentation was undertaken using a range of software applications,       digital prototyping devices &amp; a diverse range of materials to arrive       at the lasering method.
+The research was underpinned by a heritage of       `desk-top manufacturing' methodology that had been sustained through       decades of advanced CAD/CAM implementation in innovative prototyping for       manufacture, evidenced by Design Residencies and PhD supervision.
+Bespoke       methods were developed to translate the digital imaging, applied and       constructed textile repeat systems and the `rules' of machine wrought       Valenciennes Lace into a workable low relief mould.
+Subsequent media coverage prompted the external request for a second       architectural collaboration, with new partner companies.
+Glen Howells       Architects who had specified hundreds of large decorative relief panels,       depicting fallen layers of stylised maple leaves, in glass reinforced       concrete for Barratt East London's Maple Quays Development at Canada       Water.
+Consequently GRCUK Ltd. &#8212; a leading GRC manufacturer &#8212; required the       invention of a digital method to create the high resolution master       formliner with the addition of two additional criteria.
+Firstly, as GRC is       sprayed into the mould, the formliner must have a specific angled `draw'       or bevel between each level of pattern.
+The second challenge was to       conceive a method of digitally engineering an irregular tessellating       shuttering, around the core repeat, of the same level of detailing as the       relief pattern.
+This demand arose from the obligation to extend the       pattern repeat over large panels &#8212; up to 5.25 m2.
+This Maple Quays project enabled the exploration of new materials and       novel methods to arrive at the sculptural requirements in GRC specified by       Barratt and the architects at Glenn Howells and Hawkins Brown.
+The success       of this relied on collaboration with GRCUK and their technologists to       dovetail the methods effected at the University of Derby and the       replication system carried out in-house at GRCUK Ltd.
+The Maple Quays       project was realised over the course of 2010 - 11.
+Beneficiaries       The new digital procedures proved effective at the initial prototype stage       and were used to secure a major contract for GRCUK Ltd. with Barratt East       London.
+From this, twenty GRCUK employees were engaged for 6 months on       production and Barratt East London sold all 180+ apartments, clad in maple       leaf concrete.
+The research focused on a different range of master       formliner materials and on the means of subsequently creating large scale       (max.
+3mtrs x 1.5mtrs) latex formliner matts in endless &amp; seamless       repeat for a variety of signature architectural components, such as       balcony cladding, ingress facades and roofline headers.
+Evidence of Impact       The physical outcome of the research and its impact is evidenced in the       public spaces and built environment of the London Docklands regeneration       project and on the fa&#231;ade of Nottingham Contemporary Arts Centre, which       has attracted international attention since opening in 2009.
+The lace       embossed, fluted facade of 1100 tonnes of green, structural, pre-cast       concrete is part of the national visitor attraction, securing a yearly       footfall in excess of 300,000 - 40% beyond projections.
+The University of Derby and Trent Concrete Ltd. were shortlisted in the       Lord Stafford Awards for Innovation Achieved, 2009.
+The employment impact lay primarily in the engagement of 200+ workforce       of Trent Concrete Ltd over a 6 - 8 month production period.

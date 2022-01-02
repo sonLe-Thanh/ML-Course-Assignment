@@ -1,0 +1,46 @@
+     The impact from the above described work on Bayesian computation has been       varied and wide, impacting a number of sectors.
+Finance:     Particle filters and MCMC are used in many financial institutions.
+One       particular case study is the development of algorithmic trading strategies       at Maple-Leaf Capital LLC.
+Algorithmic trading strategies use mathematical       models and rules to decide upon buying and selling financial instruments,       such as equities and futures.
+Often these models and rules are combined to       generate a trading position.
+Prior to the work to be described,       understanding the statistical interaction between strategies was       challenging as estimation of these properties was often very difficult.
+The head of quantitative analysis at Maple-Leaf Capital LLP in the period       2004-2010 confirms the use of the MCMC techniques in finance.
+The methods       developed at Imperial College were used by the quantitative analysis team       "to infer a probability distribution associated to the statistical         interaction between strategies...Once this information [was] available,         it was used to calibrate the position of the overall combination of         trading strategies" which was then used "to assist trades"       [A].
+The exact impact of the algorithm (e.g.
+in terms of profits) is not       publicly available, but the improvement in estimation (of statistical       interaction of the strategies) was adopted due to apparent failures of       existing methodology.
+The quantitative analysis team "did not know of         any method at that time, other than MCMC, which could have fitted this         type of model".
+The algorithms were thus "critical in this part         of the work" [A].
+This example of financial impact is presented in detail, but the       methodology is used generically across the field: MCMC and particle       filters are further utilized as methods to analyse and predict financial       positions and complement and enhance existing methods.
+There have been       numerous papers devoted to this application of particle filtering/SMC       methods (e.g.
+[B]).
+Credit research initiative (CRI), National University of Singapore         (NUS):     This is a non-profit undertaking by the Risk Management Institute (RMI)       at NUS that uses MCMC and particle filters for assistance in predicting       credit risk rate in a "public good" approach to credit rating.
+NUS       launched the CRI in 2009 to output predictions of probability of default       (PDs) using advanced statistical models and intending to "give the big         rating agencies like Standard &amp; Poor's, Moody's Investor Service and         Fitch Ratings a run for their money" [C] (see also [D, E]).
+As is       well known in the popular literature, the credit prediction system melted       down in 2007/2008, leading to the credit crunch and resulting financial       crisis.
+There are, of course, a wide range of reasons for this, but one       must be attributed to the problems of existing models and methods for       prediction of PDs.
+One solution is to "leverage open source models with         fully transparent inputs and outputs" with "software and         data...open to a worldwide peer review process...[to] facilitate their         rapid improvement" [F].
+Such "open source, transparent credit         models and methodologies would eliminate conflicts of interest and bring         the benefits of mass collaboration to the world of credit ratings"       [G].
+In order to accurately fit the models, the SMC sampler technique of [2],       co-developed at Imperial College London, is utilized by the CRI to provide       online predictions.
+The CRI's methodology for parameter estimation is       described in Duan, J.C. &amp; A. Fulop (2013) which references [2] in       describing the parameter estimation by SMC [H, I].
+The SMC method is used       to "deal with the problem of high dimension of the parameter space",       allowing uncertainty to be properly assigned to the parameters [J].
+The       online predictions provided by the CRI would not be possible without such       methods.
+The predictions are publicly available to anyone (subject to the       decision of NUS).
+The CRI website [K] offers daily predictions from a probability of       default (PD) model for defaults of about 60,400 listed firms in 106       economies in Asia Pacific, North America, Europe, Latin America, the       Middle East and Africa [L].
+This web portal presents the outputs from this       model, including daily updated PDs for individual firms in the       aforementioned regions and aggregate PDs for different economies and       sectors.
+The CRI has "agreed to provide [the] Probability of Default to         a number of financial institutions for their internal risk management         and analysis" and its website has over 2000 registered users [J].
+The CRI initiative shows the "potential for open source credit models         to take their place next to proprietary software and agency ratings"       in the credit ratings industry [G].
+Defence:     Target tracking is the notion of trying to estimate or predict the       position and/or velocity of targets simultaneously given noisy sensor       measurements.
+This has particular applications in the defence industry,       where the `targets' could be enemy tanks/aircraft/submarines and the       measurements are 'noisy' measurements recorded by sensors.
+These phenomena       are often modelled by a state-space model.
+Until the development of particle filtering methodology, one could only       apply the most basic of state-space models, which are often unrealistic       representations of the real data phenomena encountered in target tracking.
+The development of the bootstrap particle filter by Adrian Smith and       co-workers in [1] was one of the most fundamental methods to allow one to       fit, online, realistic state-space models.
+This work has become integral       in the target tracking work of the UK defence industry, such as QinetiQ.
+The bootstrap particle filter has been routinely applied at QinetiQ and       BAE systems since 1993 and plays a fundamental role in the defence of the       United Kingdom and the ability to predict or estimate the position of the       enemy.
+Confirmation of the impact of the work in the defence sector comes from       the current Principal Consultant (National Security) at BAE Systems Detica       who is able to confirm the use of particle filters based around paper [1]       in the period 2008-2012 whilst employed at QinetiQ [M].
+Particle filters       allowed QinetiQ to "tackle problems that typically had weak or no         existing solution" [M].
+As an example, in the context of       multi-target tracking, "particle filters enabled [QinetiQ] to constrain         objects to be on the road, improving localisation accuracy, use         interacting models to constrain objects motion by other objects, and to         perform inference in bearings only tracking problems" [M].
+These       problems are "routinely found in the defence industry" and "the         particle filter played an important role in [QinetiQ's] work" [M].
+Unfortunately it is not possible to receive confirmation about precisely       what was implemented in real systems however it can be confirmed that "particle         filters had a massive impact on the breath of problems that could be         solved [in defense], allowing tracking systems to be deployed in         scenarios that were previously impossible (or unreliable)" [M].
+Navigation and wireless networks:     Similar to the application for target tracking in the defence industry,       particle filters/SMC are also used in navigation (GPS) and for tracking       in, the now standard problem of, wireless sensor networks.
+Frameworks for       positioning, navigation, and tracking problems have been developed and       particle filters can be used for positioning based on cellular phone       measurements, for integrated navigation in aircraft, and for target       tracking in aircraft and cars.
+The particle filter enables a promising       solution to the combined task of navigation and tracking, with possible       application to collision avoidance systems in cars [e.g.
+N].

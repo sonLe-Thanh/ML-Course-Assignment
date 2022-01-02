@@ -1,0 +1,27 @@
+     Because of Davies' established research on quantitative methodologies       used in evaluation of       competition, the OFT asked Davies to report on its self-evaluation       methodologies.
+It found his       report sufficiently important to publish a response, in which it states       that it is implementing most of       Davies' recommendations.
+Davies' report, "A Review of OFT's Impact Estimation Methods" (2010) is       publicly available:       http://www.oft.gov.uk/shared_oft/reports/Evaluating-OFTs-work/oft1164.pdf.
+Its brief was to assess the methodologies employed by the OFT for its       Annual Positive Impact       report.
+This report is required as part of the Comprehensive Spending       Review (CSR 07), under       which the OFT agreed a performance target with HM Treasury (HMT) of       delivering direct financial       benefits to consumers of at least five times its cost to the taxpayer.
+The       OFT estimates that it has       saved consumers at least &#163;326m per year over the period April 2008 to       March 2011 (OFT, 2011),       resulting from its interventions in mergers, cartels, abuse of market       power and consumer       protection.
+The OFT uses various advanced quantitative methods, e.g.,       econometric techniques,       simulations, event studies, and difference-in-differences to measure the       impacts of its many       interventions.
+These impacts influence HMT's allocation of resources to       the OFT and the allocation       of resources across OFT activities.
+Davies' academic research has direct implications for the OFT's       evaluations.
+In particular, he has       shown that: (i) policy interventions often have much larger (and       unintended) long-term       consequences; (ii) the choice of methodology is inextricably linked with       what is the appropriate       counterfactual; (iii) all methodologies have weaknesses which should be       more explicitly       acknowledged than they currently are.
+He makes various recommendations       (pages 37-43) for       improvement in OFT practices.
+In some cases, these concern the OFT's       detailed assumptions and       calibrations, for example on cartel duration and overcharge, and the costs       of monopoly abuse; in       others, they relate to the applicability of simulation methods and       sensitivity analysis.
+He also       argues for more flexibility in the broad methodology, for example,       attaching statistical confidence       intervals and assessing the likely impact of deterrence &#8212; a subject of       current research interest.
+The OFT's published response (OFT, 2010) states that some of Davies'       recommended changes       would be introduced immediately and the feasibility of others would be       explored in coming months.
+Changes have indeed been made, as acknowledged in its current Positive       Impact document: "We       implemented some changes to our methods last year (such as for example       revising our default       price assumption when estimating impact of our competition enforcement       cases).
+We intend to       continue working on some of the other suggestions made by Professor Davies       in his review &#8212; such       as for example, testing our methodology to estimate impact of our consumer       work over 2011-12."
+(OFT, 2011, p11).
+Some of Davies' other recommendations have instigated further ongoing       research in the OFT and       will be acknowledged in future years' positive impacts.
+These changes help improve existing estimates of the returns from       competition policy in general       and the relative contributions of different areas (e.g.
+mergers versus       cartels).
+Davies' academic research has also been influential in helping the OFT       shape future policy.
+Its       chief economist has outlined its impact on the methods that the       organisation uses in evaluation       saying: "He has played a particularly crucial role in respect of the OFT's       evaluation programme,       which he has audited for us on a regular basis, pushing us to be more       innovative and ambitious.
+Steve Davies was commissioned by the OFT to do an independent evaluation       of the impact on       productivity of removing RPM (resale price maintenance) in the books       industry.
+This evaluation has       been valuable not only for the OFT's advocacy role, but also in       discussions on the appropriate       policy for RPM across Europe" [a], [d].
+Davies' academic reputation granted him the keynote lecture at the       International Conference on       Ex-post Evaluation of Competition Policy, University of Mannheim (2009):       ftp://ftp.zew.de/pub/zew-docs/veranstaltungen/evalcomp2009/Programme_Evaluation2009.pdf     The 2010 the working paper of the publication in [4], prompted       invitations to speak at key       international conferences in Berlin (organised by the German Cartel       Office, 2011) and       Johannesburg (for African Competition Authorities, 2011), and to present       technical seminars to       national competition authorities in South Africa (2011) and Sweden (2012)       [b].
+In November 2011, the OECD invited Davies and Ormosi to advise them on a       major new research       programme "Evaluation of Competition Regimes".
+On the programme's launch,       the OECD's chief       economist circulated the 2010 working paper [4] to all participating       countries [c].

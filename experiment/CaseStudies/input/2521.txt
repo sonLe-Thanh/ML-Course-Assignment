@@ -1,0 +1,43 @@
+     4.1.
+Commercialization     The development of Moses has led to a significant increase in the       understanding and use of machine translation in the translation industry      [A].
+The free, open-source license has allowed many organizations to       access the latest developments in MT research that had once been the       preserve of governments and large IT companies.
+AVB Translations, a       leading Netherlands translation firm (turnover in 2011 of &#8364;4.6M) with       specific complex translation requirements requiring rapid accurate       confidential translations between English and Dutch of legal texts       reported that Moses produces "usable translations very quickly and at       50%-60% of normal translation cost" [B].
+Industry bodies such as the       Translation Automaton User Society (TAUS, http://www.taus.net       ) have championed the benefits of MT and Moses, educating industrial users       on how to profit from MT as well as the mechanics of using the software.
+A commercial ecosystem has formed around the toolkit, consisting of large       and small companies, multinational organizations, users and suppliers of       Moses-based services [C].
+As TAUS has observed, since 2009 when MT became       a mainstream industry tool due to the...     commoditization of one of the most significant and         far-reaching innovations in translation technology...     We've moved from a handful of commercially usable MT providers to a         few dozen in a few short years.
+Many of these newcomers are using the         open source statistical MT solution, Moses...     A wide variety of commercial Moses-based MT solutions have emerged,         ranging from self-service solutions to full service customization.
+The Moses toolkit has also spawned other open-source projects such as `Moses         4 Localization' [D] and `Do Moses Yourself' [E] which fills       in the gap between research-led MT and the commercial world.
+4.2.
+Users of Moses     The following is a list of organisations that are known to be using the       Moses toolkit:     International Organisations:     European Commission [G], World Trade Organisation, World       Intellectual Property Organisation     Companies:     Autodesk [I], Adobe, Xerox Research Centre Europe, Symantec,       Sybase     Translation Agencies and Technology Providers:     Applied Language Solutions (ALS), AVB Translations, CrossLang, Duolingo,       Digital Silk Road, Hunnect, Logrus International, Lucy Software, Precision       Translation Tools, Systran, myGengo, Moravia, Pangeanic, Safaba, Simple       Shift, Tauyou, Tilde, Translated, Trusted Translations     4.3.
+Impact benefits delivered by Moses     Translation cost, information privacy protection, and translation quality       are three of the main advantages of using Moses for the translation       industry.
+Considering translation cost, Google Translate charges $20 per million         characters for bulk users.
+The Premium Translation software by Systran,         a well-known translation software developer, cost &#163;619.
+Licenses for         Language Weaver's software vary in price between $5,000 and $125,000.
+In         contrast, Moses is free.
+Considering information privacy, a problem arises because translation         services like Google Translate cannot be used by organisations such as         the UN who handle commercially and politically sensitive documents.
+In         contrast, Moses can be run on a user's own internal computer system,         creating no concerns about sensitive information leaving the host's         domain.
+Concerning translation quality, Moses has been shown to significantly         outperform general-purpose translation engines such as Google Translate         when the system is trained with in-domain data for specific clients.
+The         paper "Let's MT!
+&#8212; A Platform for Sharing SMT Training Data" by         Tiedemann and Weijnitz (http://bit.ly/19f7jr5)         compares Google Translate and Moses, trained with in-domain,         user-specific data for English-Swedish translation and uses the         well-known BLEU (Bilingual Evaluation Understudy) metric to compare the         results.
+(BLEU is a metric that is highly correlated with human         judgements of translation quality.)
+Tiedemann and Weijnitz report that         Moses has a 20% higher BLEU score on English-to-Swedish translation than         Google Translate and a 40% higher BLEU score on Swedish-to-English         translation.
+4.4.
+Opening up new translation fields     The availability of high quality, cheap, fast machine translation offered       by the Moses toolkit has made machine translation more affordable and       accessible to more companies.
+As well as productivity gains and lower       prices, new markets have also opened up for machine translation.
+We       describe three examples below.
+Services such as the EC's Europe Media Monitor (EMM, http://emm.newsbrief.eu)         translate over a hundred thousand articles a day in 50 languages for         dissemination within the organisation.
+The EMM have used Moses since         2009 and are one of the most high profile users [G].
+Electronic discovery (e-discovery) [H] is the digital forensic         analysis of vast amounts of information during litigation and commercial         transactions, such as company takeovers, in order to find interesting         and relevant information.
+The global economy has increased the need for         high-speed bulk translation of foreign-language documents and emails         during this process.
+Technology providers such as Simple Shift (simple-shift.com)         use Moses as the underlying technology to build translation systems for         this market.
+Translation of real-time interactive chat and near real-time         translation of user reviews, public forums, and bulletin boards have         been demonstrated.
+Multilingual interaction cannot afford the luxury of         expert human post-revision but they must also be of sufficient quality.
+In contrast to general-purpose translation services such as Google and         Bing, systems built on Moses can be trained on user-specific and         domain-specific data, resulting in better translation quality [J].
+4.5.
+Teaching machine translation to graduate-level students     The Moses toolkit has also significantly increased the awareness and       teaching of machine translation.
+In addition to the educational workshops       run by TAUS aimed at industrial users, academic-led workshops (`MT       Marathon') [F] are organised annually by participants of the Euromatrix       and EuromatrixPlus projects where machine translation is taught to       graduate students for a week.
+It not only provides hands-on experience for       students but also allows them meet and interact other students and       teachers in an informal setting.
+It is usually one of the most intensive       and in-depth exposures these students have had to MT.
+Most students come from institutions other than the University of       Edinburgh, often from institutions with small machine translation groups.
+The MT Marathon is a rare chance for them to meet other MT researchers.
+Building the community of machine translation experts in this way is       another impact of the research done at Edinburgh in machine translation.

@@ -1,0 +1,53 @@
+     In the REF impact period, the MERI modelling group's simulation expertise       has achieved economic impact through improved product and         process understanding.
+This range of outward-facing activities       undertaken by the group is illustrated here in the contexts of a small       company (Fluid Maintenance Solutions), an SME (ZBD Displays)       and a multinational (Kodak).
+Fluid Maintenance Solutions (FMS) [A] is a       South-Yorkshire-Based small company specialising in the recovery of high       value metals contained within sump sludges.
+FMS's core activity is       a recycling process in which thin contaminant films of hydrocarbon are       removed from poly-disperse metallic particulates.
+FMS first       engaged with the MERI modelling group in 2008 via the coordinated       Knowledge Transfer activity Nanofactory (REF3a(b)).
+This enabled a       sustained intervention in which Halliday determined the key       decontamination mechanism in FMS's recycling process and developed       a LB-based model, based on reference [5], with which to simulate it.
+FMS       had no in-house expertise capable of undertaking such work.
+In 2010,       Halliday delivered a final report setting out simulations performed to       investigate the viscous shear stress effects underpinning the       decontamination stage of FMS's re-cycling process.
+The insight       this gave FMS into the capabilities of its industrial methodology       then aided in the development of its future business.
+Specifically, the       credibility provided by Halliday's report enabled the company to       substantiate its claims to customers.
+FMS went on to make two       successful TSB funding applications and in 2012 it was shortlisted for an       Advanced Manufacturing Award [A].
+Beneficiaries from this impact are FMS           and its customers.
+ZBD Displays is a Malvern-based technology company which was spun       out from QinetiQ in 2000 [B].
+Its core business is based on a       specialist LCD technology - a very-low-energy display requiring no battery       power to retain its image - which it has successfully directed towards the       niche market of shelf-edge labelling for retail.
+As a small company with       limited funds or staff time for R&amp;D, ZBD Displays nevertheless       engaged the MERI modelling group on a 24 month (2005-7) DTI- funded       project [vii] to develop a detailed LB nemato-dynamics simulation scheme       and use it to investigate operational details of the ZBD device.
+Subsequently, the company fully funded a further 6 months of research and       invested staff time to maintain the collaboration up to publication of a       joint paper in 2010 [3].
+Given the company's size and the capabilities of       its staff-base, it would have been impossible for it to undertake such       work other than through partnership with the MERI group.
+The work       programme for this collaboration was designed to explore potential future       device improvements and, so, enable ZBD Displays to make informed       future strategic decisions.
+The simulations did, indeed, determine and       quantify potential improvements as well as providing insights into certain       failure mechanisms.
+However, the enhancements identified were ultimately       judged insufficient to warrant disruption of a working production process.
+The key impact of MERI's interaction with ZBD Displays was,       therefore, that it provided the company with unambiguous "capability       limits" for its device hardware.
+This contributed to a fundamental shift       in the company's focus from its hardware origins to systems processes and       software [C].
+ZBD Displays has thrived since its 2006-10       collaboration with MERI - in 2012 it achieved sales of &#163;12m, was ranked 5th       in the Sunday Times League Table of the UK's fastest growing technology       firms, and named top of the Deloitte Fast 50 technology firms following       5-year growth of 17910% [B].
+Beneficiaries from this impact are ZBD           Displays, their share-holders and customers.
+In 2007-08, the MERI modelling group worked with Kodak's then       European Research Lab in Cambridge to study an ink-droplet dispenser       module developed to enhance the capabilities of high- speed digital       printers [xii].
+Kodak had a pre-existing patent on this module       [D], but had identified a requirement for specialist simulation work to       determine key operational processes and design parameters.
+Experimentally,       the geometry of this module had been shown to achieve consistent droplet       size uniformity, but ambiguities persisted regarding the underlying       physics.
+Therefore, in a study led by Care, LB simulations of multiple       droplet flow were performed using MERI's immiscible fluid algorithms [6]       in Kodak's module geometry.
+This succeeded in identifying the key       droplet pinch mechanism [E] and, thus, the module's main design       parameters.
+In particular it confirmed that there was a sound basis for       the observed droplet uniformity.
+Whilst Kodak underwent global       restructuring subsequent to this intervention, the relevant patent       remained active because (i) as part of Kodak's core printing       portfolio it was retained during chapter 11 proceedings and (ii) the       module's inventors (the Kodak employees who had worked with Care)       negotiated rights to exploit the device outside of printing through a new       spin-out Imbrys.
+Additionally, subsequent work on the module,       involving the same inventors, elicited a new patent filing on a different       feature of the droplet module [E].
+Beneficiaries from the improved device       understanding achieved here are, then, Kodak and Imbrys,       through their ongoing patent interests in [D].
+As well as working with a range of industrial groups, the MERI modelling       group also has a track record of achieving uptake of its simulation       algorithms by other modelling professionals.
+Direct uptake       includes that by modellers at Kodak (USA) and Petrobras       (Brazil) who have utilised the MERI group's LB algorithms to simulate       industrially-relevant systems.
+The former, which started through a direct       email query, has developed into an extended interaction [F].
+More       systematically, the group has also contributed actively to the development       DL_MESO a commercially-available simulation package developed and       disseminated by the Computational Science Group at the STFC Daresbury       laboratory [G].
+Specifically, Care and Halliday have been advisory panel       members for DL_MESO and the LB routines which comprise the bulk of       DL_MESO, including the multi-component schemes for both "dipahsic" and       many mutually immiscible fluids are, essentially, those developed in       references [5,6].
+Downloads of the DL_MESO software in the REF impact       window total 637, of which 574 were from outside the UK [H].
+Beneficiaries       from this work include relevant sections of STFC Daresbury       and their sponsors, due to the associated enhancements to their       product, as well as materials simulation professionals gaining       access to MERI-devised algorithms (either directly or through DL_MESO) and       applying them in a non- academic context.
+The final impact achieved by the MERI modelling group relates to PUS       activities undertaken by Cleaver.
+In collaboration with partners from the       Universities of Manchester, Southampton and York and Sharp Labs Europe,       under the auspices of the British Liquid Crystal Society, Cleaver       developed and presented LC simulation material for the PUS stand "Liquid       Crystals: Living Cells and Flat Screen TVs" at the Royal Society       tri-centennial Summer Science Exhibition (July 2010) [J].
+As well as       simulation-based display items and information sheets for teachers,       Cleaver developed a live interactive computer simulation application for       the event.
+The PUS stand was presented to Her Majesty the Queen, David       Willets MP, and many other dignitaries and Fellows of the Royal Society at       the Exhibition's opening event [J].
+Over the following three weeks, the       event, which occupied the ground floor exhibition space of London's       Festival Hall, was attended by thousands of members of the public and       school groups, with over 2000 specifically visiting the LC stand.
+The       Royal Society gave a positive evaluation to Cleaver's stand and       subsequently nominated it for inclusion in the 30,000 footfall Big Bang       event (March 2011, Excel Arena, London).
+In this shorter, but larger,       event, a slightly revised version of the original stand was presented and       included in a Royal-Society-coordinated Family Tour called "Specially       Selected".
+Big Bang evaluated the LC stand as "Excellent" [K].
+Follow       through on the events delivered in 2010 and '11 included write-ups in       'Liquid Crystals Today' and conference presentations.
+These were picked up       in the 'Routes to Impact' sections of several RCUK applications and       explicitly led to, for example, development of a PUS stand at Big Bang       Scotland 2013 from Strathclyde University.
+Additionally, resources       developed were shared with other PUS providers globally.
+For example,       Cleaver's live interactive computer simulation application was posted on       the high profile NSF-funded Soft Matter World website [L] where it has       achieved downloads from 5 continents of ~80 per month.
+Beneficiaries of       this impact were the Royal Society and Big Bang 2011; school         groups who visited the stand (as independently evaluated by the       Royal Society and Big Bang); and family groups who engaged in, for       example, the "Specially Selected" Royal Society Family Tour.

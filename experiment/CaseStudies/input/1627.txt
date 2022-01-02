@@ -1,0 +1,48 @@
+     The impact of this research has been to demonstrate that a quantitative       understanding of the thermal and structural evolution of sedimentary       basins and continental margins can be obtained by exploiting a set of       software tools, developed at Cambridge, to model the subsidence and       crustal thinning behaviour across these regions.
+The major beneficiaries       have been hydrocarbon companies who explore for oil and gas in frontier,       high risk, regions such as the UK continental shelf, the Gulf of Mexico       and the South Atlantic margins.
+The know-how, techniques and capability       developed during this on-going research effort have helped to reduce the       geological uncertainty of a dramatically escalating financial risk.
+The       impact of this research has been to aid materially the decision-making       process by assessing hydrocarbon potential and by identifying promising       exploration targets.
+In this way, economic strategy has been firmly       coupled with scientific knowledge.
+With regard to BP Exploration, this       research has yielded significant financial impact in the following       deep-water regions:     (a) Beaufort Sea, offshore Alaska: two-dimensional subsidence and       crustal thinning model enabled a series of heatflow scenarios to be       tested.
+A major question centred on the thickness of the lithospheric       plate undergoing stretching.
+The success of these tests played a vital       role in helping the decision-making process for acreage access.
+[October &#8212;       December 2009].
+(b) Brazil-Angola conjugate margins: combined modelling of data       from both margins showed that plate deformation occurred by uniform       thinning which affected thermal maturation of the sub-salt play which has       been the focus of exploration effort since Petrobras made significant       discoveries.
+Results have impacted exploration strategies.
+[May 2008 &#8212;       September 2012].
+(c) Ceduna delta, offshore South Australia: two-dimensional       subsidence modelling of this margin demonstrated the existence of dynamic       drawdown which has affected in-house thermal modelling strategies and       changed play concepts.
+[September &#8212; December 2012].
+The success of Prof. White's approach has resulted in a long-term       multi-phase collaboration with BP Exploration.
+Phase I of this       collaboration started in October 2006 and lasted for 5 years with funding       of &#163;350,000.
+Since 2008, specific projects have also been carried out       which helped BP to leverage acreage access in different countries (see 5       below).
+The reach of this impact has been global, affecting BP's       international operations.
+Individual projects typically involved the       application of Prof. White's software tools for analysis, interpretation       and modelling of seismic profiles and well-log data at the Cambridge       Department of Earth Sciences.
+Results were incorporated into BP's in-house       workflow and culminated in an improved understanding of structural       evolution and thermal maturation.
+BP themselves state that it is difficult       to assign a precise value to this work, the financial implications of       these studies have however, been substantial.
+Industry acreage access and       drilling decisions are typically made on the basis of person-years or       -decades of in-house technical work, incorporating impactful University       research as appropriate.
+Offshore exploration is expensive, with seismic       programs often costing in excess of $10 million and individual wells       frequently costing in excess of $100 million.
+The depth of our       contribution is demonstrated by the level of BP's engagement in formal       project meetings with the Cambridge research group; these are held twice a       year with on average around 20 BP representatives attending each meeting.
+In addition more informal meetings and working relationships between BP       and Cambridge occur regularly.
+The Access Manager, East Africa at BP International Limited will       corroborate that "BP's assessment of the economic potential of a range         of frontier, high risk regions has been influenced by the research on         sedimentary basins and continental margins which has been carried out by         the group led by Dr Nicky White" and that "White's ideas and         insights have had impact in BP and the wider hydrocarbon industry.
+White's river inversion profile tool is particularly relevant to         industry; because of the ability to predict sediment flux through time         it has added a new set of constraints in the development and refinement         of dynamic topographic models.
+By using this and other tools developed         in Cambridge, the group has supplied BP with modelled datasets and other         information on basins and margins which we have been actively assessing         worldwide.
+This work has been incorporated into the decision making         process in a number of areas globally including Alaska, Australia,         Brazil and West Africa."
+As well as the two annual day conferences attended by BP personnel, the       fruits of this collaboration have been published and disseminated more       widely in BP in several ways:     i) by the development, at Cambridge, of an electronic atlas which was       supplied for BP's internal usage.
+This was initiated in 2006 and we have       continued to provide regular updates;     ii) quarterly activity reports and presentations sent to BP management;     iii) a two week field excursion to teach BP personnel the principles of       dynamic topography and basin dynamics.
+This hands-on learning experience       is based in western North America; White contributed to the original       design of this and to the delivery and leadership of the training on each       occasion it has been held, in September 2011, 2012 &amp; 2013.
+The impact of White's work and its significance in decision-making at BP       is reinforced by:            the comprehensive electronic atlas which was developed for use at BP         Exploration.
+It is "widely used by at least 30 personnel on an           on-going basis".
+This 5 terabyte atlas contains sets of digital         maps, analyses of well-log data, interpretations and models (based on         the Cambridge research) of deep-seismic reflection and wide-angle         profiles.
+Multiple electronic reports on basins and margins worldwide which are         referred to by BP personnel.
+Typically, these reports contain a         collation of modeled datasets.
+The development and implementation of a two-week-long field-based         training course within BP specifically for their personnel.
+A pilot         excursion was run for senior staff in September 2011.
+The first full         excursion was run in September 2012 and a second in 2013.
+It features         localities throughout Arizona, Utah and Colorado.
+Six quantitative         exercises were developed for evening sessions.
+This hands-on learning         experience was originally developed for North American personnel within         BP.
+These on-going activities have been accompanied by recruitment of &gt;12       undergraduate, graduate and post-doctoral personnel from Cambridge into BP       Exploration.
+An important consequence has been that software packages       developed and tested at Cambridge are now routinely used by BP staff.
+The       success of Phase I led to setting up of Phase II in 2010 which is a 4 year       project with funding of &#163;513,167.
+This project generated a new set of       novel software tools for assessing the global importance of dynamic       topography produced by the convecting mantle.
+Initial results have already       had an important impact on exploration strategies in the Mediterranean,       the Gulf of Mexico, the South China Sea, and the Caspian Sea.

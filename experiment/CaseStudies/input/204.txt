@@ -1,0 +1,28 @@
+     Road safety is now more important to policymakers and the public than       ever before.
+In 2004, road       accident deaths stood at 43,500 in the European Union (source: CARE       database) and around       42,600 in the US (source: FARS database), with hundreds of thousands more       road users suffering       serious injuries.
+The crashworthiness of a vehicle is regulated by       legislation such as ECE R94,       R95, FMVSS 201, 208 and 214 for occupant protection.
+Vehicle safety       ratings and new car       assessment programmes have also increased public awareness of these design       criteria.
+Through       such programmes the public are informed about the occupant safety of new       car designs.
+Manufacturers are also placed under increasing pressure to increase       occupant safety.
+Such       features are widely used as a marketing tool.
+The test protocols designed by EuroNCAP of (i) offset frontal impact and       (ii) side impact are       designed to represent the most severe test that a car can undergo in terms       of passenger       protection.
+It is therefore essential that the tests are fit for purpose.
+Before the design of the ODB, the crash test was carried out using two       car bodies (shells).
+However, the criticism of this type of test is that crashes between two       identical cars are very rare.
+Additionally, the shells were not manufactured from materials with       variable energy-absorbing       properties representing the different compartments on the front of a car.
+This means that the car       fronts were not truly represented.
+What was required was a crash test       barrier that could represent       a generalised car structure into which different car makes could be       crashed, thus mimicking with       greater accuracy "real life".
+Additionally, different parts of the crash       test barrier would have to be       designed to absorb different amounts of energy mimicking the       compartmentalised structure (e.g.
+chassis, bonnet, wing, bumper) of the front of a motor vehicle.
+The research work on the design and modelling, initiated at Anglia       Ruskin, and implemented at       Cellbond, allowed for the first time a crash test barrier that more       closely mimics the front of a       generalised motor vehicle.
+The properties of the barrier can be modelled       and its crash test       behaviour predicted allowing the honeycomb to be "tuned" to behave like       the front of a car of a       desired type.
+Additionally the modelling allows new data to be collected.
+In the old test only the       impact perpendicular to the front of the car was considered.
+With the       availability of the finite       element modelling and the honeycomb structure, the shear forces involved       (non perpendicular to       the car front) can also be considered for the first time.
+This allows       greater understanding of the       behaviour of the front of the car being tested in the crash situation.
+The barriers were tested and adopted by Cellbond-MIRA (Motor Industry       Research Association),       the Transport Research Laboratory and EuroNCAP.
+Following on from this,       they were trialled and       approved by the National Highway Traffic Safety Administration.
+As a       consequence of this and the       requirement for crash tests to be employed for all new models of motor       vehicle, these new barriers       have been adopted widely across the motor vehicle manufacturing industry.
+Cellbond supplies       these barriers.
+The global market for these barriers represents a       significant increase in commercial       income and opportunity for the company.
+The significance of the impact resulting from this research is therefore       several fold:-     (i) For the first time the ODB can be tuned to represent the front of a       car of a specific type;     (ii) The shear forces involved in a crash situation in terms of car and       barrier behaviour can       be understood for the first time;     (iii) This is the first time that a heterogeneous crash situation can be       modelled and tested       increasing the range of crashes that can be simulated and understood;     (iv) Safer and more robust cars can be designed and manufactured       increasing vehicular       occupant safety.

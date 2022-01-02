@@ -1,0 +1,36 @@
+     Process from Research to Impact     The project arose from discussions between the University and the Weir       Group plc in 2009, in which Weir SPM identified improving the durability       of well service pump fluid-ends as an immediate     Research and Development priority.
+The Vice President of Engineering Weir Oil &amp; Gas (Source 1) has       commented: "Our first investment in new fracking pump technology was an         18 month collaborative research project with the University of         Strathclyde to develop a new frack pump design that would meet market         demands".
+Detailed technical discussions were held between Weir SPM and University       researchers during March 2010.
+An 18 month R&amp;D project investigating       structural, material and flow aspects of fluid-end design was launched in       April 2010 (&#163;396k, funded by Weir SPM, Fort Worth, Texas, PI Prof D       Mackenzie).
+The project objective was to design and develop a new high       performance Oil &amp; Gas Well Service Pump fluid-end that would:            Extend product life under conventional well hydraulic fracturing         conditions.
+Enable development of hard shale resources, which require         significantly greater fracking pressures than conventional wells.
+The gross static (ductile) strength of the fluid-end was assessed by       employing the non-linear Finite Element Analysis methodology proposed in       references 1, 4, and 5.
+The fatigue life was improved through detailed       analysis of the pump internal geometry.
+A novel aspect of the new design       was to off-set the intersection between the horizontal and vertical bores       of the fluid-end, which results in lower intersection stresses than an       in-plane intersection.
+This effect had been researched for cross-bores in       cylindrical pressure vessels in Reference 3, but this is the first time       the concept has been applied to a fluid end configuration.
+Two patents are       pending for this novel design feature (United States Patent Application         Publications US 2010/0144995 and 2010/0183424, July 2012).
+Further reduction in stress concentration was achieved through design by       analysis of the valve seat and valve seat deck, resulting in a new, long       life, patent-pending configuration (World Intellectual Property       Organisation, International Publication Number: WO 2013/116488 A1).
+A further major improvement in fatigue life was achieved through       specification of a new fluid end autofrettage procedure based on the       methodology proposed in Reference 6.
+This procedure ensures that the       optimum residual compressive stress is established in each individual       fluid-end cylinder, reducing local mean stress at highly loaded locations       and hence enhancing fatigue life.
+During the R&amp;D project, the       Strathclyde researchers worked closely with a Weir SPM design team in Fort       Worth, USA.
+Weekly transatlantic "Webex" meetings were held to discuss       design issues and transfer information throughout the project.
+Types of impact from the research: The research has rapidly       translated into benefits for Weir Oil and Gas as follows     Impact on Weir SPM Products:     A new fluid-end model based on the configuration and autofrettage       specification proposed by Strathclyde researchers was finalised by Weir       SPM towards the end of 2011.
+Prototype fluid-ends were manufactured for test-bed and field testing in       the first half of 2012.
+These tests demonstrated that:            The new fluid-end design has significantly greater durability than the         previous design, demonstrating double the field life of its conventional         predecessor under standard operating conditions.
+The new design can accommodate greater fracking pressures than         previous designs.
+The new fluid-end design was launched by Weir SPM in October 2012 under       the product name Duralast&#8482; (see illustration).
+The new Duralast&#8482;       technology has now been incorporated in every Weir SPM pump product family       (Source 2).
+The Vice President of Engineering Weir Oil &amp; Gas (Source 1) has       stated: "Having established the superior performance of the new         Duralast design through testing and field trials, we took the decision         to introduce the new technology across the entire Weir SPM fluid-end         model range.
+This required a significant financial investment by Weir         SPM &#8212; establishing a new design team to implement the design changes,         adapting the manufacture process and introducing new testing procedures."
+The company has also reported (Source 3): "Fluid ends are a key         aftermarket pressure pumping component used in shale oil and gas         drilling operations.
+When a SPM&#174; frac pump uses Duralast&#8482;, we project         that it can have up to double the life of existing SPM&#174; fluid ends.
+Using existing materials, Duralast&#8482; can deliver operational cost savings         while the technology can also be applied to fluid ends made with         stainless steel and other alloys.
+Duralast&#8482; fluid end technology will be         initially launched for our Destiny&#8482; frac pump range in the third quarter         of 2012, before being applied across the full SPM&#174; fluid end range."
+Commercial Impact on Weir Group:     The main commercial beneficiary of the impact reported in this case study       is the Weir Group PLC, a multinational FTE 100 business serving the Oil       &amp; Gas, Minerals and Power &amp; Industry sectors.
+The introduction of       the innovative new Duralast&#8482; range of fluid-ends has resulted in       substantial commercial advantage to Weir SPM over its competitors,       delivering market differentiation and increased market share.
+The Vice       President Engineering Weir Oil &amp; Gas (Source 1) has stated: [text       removed for publication].
+Other Impacts:     The enhanced operating life of Duralast&#8482; fluid ends at higher operating       pressures will have a direct impact on and benefit to fracking operators       using Weir SPM equipment to develop unconventional oil and natural gas       resources.
+The new products enable recovery of known extensive resources       in hard shales, which require higher fracking pressures, and will have a       major impact on global energy supply.
+The International Energy Agency (Source 4: Golden Rules for a Golden Age       of Gas, 2012) has proposed that unconventional gas resources, such as       shale gas, could account for 32% of gas supply by 2035, leading to greater       energy diversity, more secure supply in those countries that rely on       imports to meet their gas needs, and reduced energy costs.
+The success of the Duralast&#8482; project led directly to the Weir Group       establishing the Weir Advanced Research Centre at the University of       Strathclyde in 2011, under the leadership of Centre Director Prof D       Mackenzie.
+Fully funded by the Weir Group, (&#163;1.95M in 2011-2013, and       continuation funding 2014-2015 of &#163;1.95M), the Centre carries out research       in all aspects of pumping and flow control technology, which directly       benefits Weir products and processes.

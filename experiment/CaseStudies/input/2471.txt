@@ -1,0 +1,51 @@
+     Impact on commerce: licenses awarded and brought to market with sales         of new products     IP developed by UoE during this research programme has led to several       commercial products.
+A patent [4] was filed in 2005 covering the method       for separating methylated and non-methylated DNA as described and used in       the 2008 Illingworth paper [3].
+This was granted in USA in 2012 and is       currently under examination in Europe.
+Five evaluation licences were       negotiated with companies developing reagents in this area, [text removed       for publication]).
+Two royalty-bearing licences were awarded in 2012 to       [text removed for publication].
+ActiveMotif have now brought a product to       market using this technology &#8212; the UnMethylCollectorTM       Kit.
+[a]     This is the first commercially available kit for the specific isolation       and enrichment of unmethylated CpG dinucleotides.
+Previously, researchers       looking to identify unmethylated DNA have had to depend on negative data       from methyl-specific binding techniques.
+Use of the UnMethylCollector kit       allows positive identification of unmethylated regions and provides DNA       suitable for use in many downstream applications, such as real time or       endpoint PCR analysis of the methylation status of particular loci,       sequencing, or amplification and labelling for microarray analysis.
+Analysis of the methylation status of a specific genomic DNA locus can be       performed on DNA isolated from less than ~10 ng DNA and the specificity is       able to enrich for DNA fragments containing only a single unmethylated       CpG.
+Royalties received by UoE as a percentage of commercial sales revenue       equate to an estimated commercial value of [text removed for publication]       in the period.
+UoE also licenced three methyl-CpG binding domain (MBD) antibodies       arising from work in the Bird lab [5, 6] to [text removed for publication]       in 2004.
+License agreements for the rat monoclonal antibody raised against       5-hydroxymethylcytosine (5-hmC), which was developed with the Babraham       Institute, were signed in 2010 with [text removed for publication].
+At       this time 5-hmC was newly-discovered and existing methods could not       distinguish methylcytosine (5-mC) from 5- hmC.
+Product developers thus had       to develop alternate ways to detect the modified base, and the [text       removed for publication] rat antibody was the first monoclonal antibody       available for locus- specific 5-hmC analysis [b,c].
+Subsequent licenses       were signed with [text removed for publication] in 2011.
+The net       commercial sales revenue to the companies over the REF census period from       sales of these antibodies estimated from royalty value is approximately       [text removed for publication].
+Impact on health: Clinical trials for improved cancer treatments     Treatment of patients with drugs that influence epigenetic control of       gene expression is at the forefront of new approaches to cancer therapy.
+Discovering that two global mechanisms of gene regulation, DNA methylation       and histone deacetylation, were linked [2] was an important breakthrough       in understanding the mechanisms of epigenetic gene silencing.
+This is       particularly so for clinical research and development of new epigenetic       therapies, given that altered DNA methylation patterns are an important       characteristic of cancer development (cancer cells use hyper-methylation       to silence the expression of tumour suppressor genes).
+The Nan et al.
+paper [2] was one of the fundamental findings that has led to increased       understanding of the role of epigenetic modifications in cancer and to new       approaches, which are exemplified in the trials described below, to       combining therapies that address different epigenetic modifications in       order to improve the efficacy of cancer drugs [as set out, for instance,       in e.g.
+Cameron EE, Bachman KE, Myohanen S, Herman JG, Baylin SB, Synergy         of demethylation and histone deacetylase inhibition in the re-expression         of genes silenced in cancer.
+Nat Genet.
+1999; 21:103-107;          Kelly TK,          De Carvalho, DD, and          Jones, PA, Epigenetic Modifications as Therapeutic Targets.
+Nat Biotechnol.
+2010 28(10): 1069-1078; Epigenetic therapy: use of         agents targeting deacetylation and methylation in cancer management.
+Ho,       AS, Turcan,       S, and Chan,       TA, Onco Targets Ther.
+2013; 6: 223-232].
+The linkage between methylation and histone deacetylation revealed by the       UoE research [2,3] has underpinned subsequent findings that the       combination of a hypomethylating agent and deacetylase inhibitor is       synergistic for gene reactivation in vitro.
+[e.g.
+Gore, 2009,       Leukaemia Research Volume         33, Supplement 2, pp.
+S2-S6].
+This has led to trials of combined       agents as cancer therapies.
+Azacitidine, known by its trade name Vidaza, functions as a methylation       inhibitor by being incorporated into DNA, inhibiting DNA methyltransferase       and causing hypo-methylation of DNA.
+Vidaza is used as a chemotherapy       agent to stop the inappropriate gene silencing in cancer cells and to       cause re-expression of tumour suppressor genes.
+Vidaza is used to treat a       group of cancers known as myelodysplastic         syndromes (MDS) that affect the bone marrow and blood.
+It can also be         used to treat chronic myelomonocytic leukaemia (CMML) and acute myeloid         leukaemia (AML).
+These diseases are characterised by the       hyper-methylation and silencing of multiple genes.
+Panobinostat is a non-selective histone deacetylase (HDAC) inhibitor       developed for the treatment of various cancers.
+It has little effect on       its own in MDS patients.
+However, the linkage between methylation and       histone acetylation revealed by the 1998 UoE research has led several       international groups to undertake trials using Vidaza and Panobinostat in       combination to seek an effective treatment to improve outcomes in higher       risk patients with MDS, CMML and AML.
+Four clinical trials are now       underway.
+Preliminary data from two trials presented at the American Society of       Haematology (ASH) 2011 annual meeting showing that Panobinostat and Vidaza       in combination is well tolerated and demonstrates clinical activity in       previously untreated MDS patients [d].
+One Phase Ib/II trial, presented by       Dr Peter Tan of the Alfred Hospital, Melbourne, Australia treated MDS and       AML patients throughout Germany and Australia who were not fit for       standard intensive chemotherapy and found that five days of treatment with       Vidaza followed by 30mg Panobinostat was well tolerated [e].
+Another trial       at phase I presented by Dr Oliver Ottmann of the Goethe University,       Frankfurt, Germany treated MDS, AML and CMML patients in Germany, France       and multiple centres in the USA.
+This study found that 30mg Panobinostat       used with a seven day Vidaza schedule may be effective and safe [f].
+A       phase Ib clinical trial (NCT01613976) sponsored by Novartis is underway       throughout Japan of the combined use of Panobinostat and Vidaza in 12 MDS,       CMML and AML patients [g].
+The trial started in August 2012 and the final       date for data collection is September 2013.
+Another Phase Ib/IIb trial       (NCT00946647) started in December 2009 and is due to complete data       collection in August 2013 [h].
+This multi-centre trial is treating 111       patients in forty-five locations including eight locations across the USA,       nine in Europe, two in Canada, Thailand, Korea and Sweden.

@@ -1,0 +1,52 @@
+     King's methods, findings and concepts have had a significant impact on       the design and       development of advanced technologies and organisational systems.
+Below we       exemplify this       impact under two headings: Design and Deployment of New Technologies and       the Application of       Video-Based Methods in Industrial and Service Sector Organisations.
+A.
+The Design and Deployment of New Technologies       The impact of King's research and deployment of new technologies is       typified by examples in two       areas.
+(i)Advanced Mediated Communication Technologies: Leading       industrial research laboratories,       including Xerox, BT and Thales, have used our methods and research to       inform the design and       development of advanced `media spaces' and `virtual environments'.
+Two       particular examples       serve to illustrate this impact of King's research.
+(a) NTT (Nippon         Telegraph and Telephone         Corporation).
+Over a period of four years, King's research shaped       the development of a high       bandwidth, high fidelity, `blended video environment' by NTT.
+This       environment provides remote       participants with visible and audible access to each other and the ability       to share and work with       physical objects such as paper documents as well as a range of electronic       resources.
+Our       methods, analysis and findings changed the way NTT approached research and       design, replacing       or enhancing (as appropriate) existing quantitative methods with       qualitative methods (the ethno-methodological 	  approach), as noted by a senior researcher at NTT       Laboratories.
+(Source A).
+As a       result of King's research, NTT understood `the sequential nature of the       interaction process', which       provided `great insight into further development and improvement of         our t-Room (advanced media         space).'
+(Source A).
+Thus, King's research provided the user       requirements for these highly       sophisticated technologies, and formed the basis for the design,       development and evaluation of       successive prototypes.
+(ii) London Underground Limited (LUL)       King's research has shaped       command and control in large distributed urban transportation systems in       London, Paris and       Brussels, as well as being used by Thales UK to provide the requirements       for, and assess,       prototype systems to support real-time collaboration between operation       centres and mobile       personnel in the emergency services.
+King's research had conceptual impact       on London       Underground, allowing it to `understand more clearly the impact on a         range of operational matters         of the use of new technologies.'
+This shaped decisions and       development of intelligent CCTV       systems to enhance safety and security management', which, in turn, `ultimately         had an impact on         technology spending decisions.'
+(Source B).
+King's research shaped       London Underground's       development of image recognition systems for security management.
+ii.
+Augmented Paper Technologies: Industrial and service       organisations in healthcare,       transportation control, design practice, and markets have used King's       research that identified ways       in which paper documents still provide critical resources for production       and coordination of many       workplace activities.
+This is despite the wide-spread deployment of       digital systems.
+This research       funded by industry and the EU IST programme (Future and Emerging       Technologies) provided the       foundation for a series of collaborative research projects led by the       King's Work, Interaction and       Technology team.
+Partners in these projects included leading industrial       research laboratories,       system companies, computer science departments, and organisations       providing resources for `end       users' (Arjowiggins, Anoto, Acreo,Hewlett Packard, Paper++, Superinks,       PaperWorks, Pearsons       and the ETH Zurich).
+In contrast to the idea of the `paperless office',       these projects were       concerned with the design and development of systems that created ways of       interweaving paper       documents and digital resources.
+Through a series of fine-grained studies,       we developed specific       requirements for systems to augment conventional pen and paper,       requirements that in turn       demanded technical innovations in inks, printing, software architectures       and hardware devices.
+These requirements also provided criteria and methods for assessing       successive prototype       solutions and in advancing our understanding of the relationship between       material and digital       documents.
+They also informed the development of a deployment strategy for       the systems being       developed and their potential exploitation within various application       areas including healthcare,       education and markets.
+This impact can be illustrated with the following       example:     Arjowiggins/Hewlett Packard King's research changed thinking at       Arjowiggins, a major business in       the paper industry.
+Founded on research in Physics, Chemistry and Maths,       King's introduced the       company to ethnographic research, which gave the company `an         unexpected and very rewarding         insight and rapport with our major customers such as Hewlett Packard',       according to their former       Exploratory Research Manager.
+(Source C).
+This transformation of research       had profound further       impact.
+On the basis of the findings with King's, Arjowiggins was able to       `back this up with lucrative         patents.'
+(Source C).
+The King's research also provided `insight       into our product portfolio and       allowed us to develop a range of innovative products.'
+(Source C).
+Thus,       both Arjowiggins and their       customers, such as Hewlett Packard, gained transformative benefits from       the King's research.
+B.
+Application of video-based methods in industrial and service sector         organisations.
+The impact of King's research and deployment of new technologies is       typified by examples in two       areas.
+King's research has pioneered the use of video-based methods to       inform the design,       development and assessment of advanced technologies.
+This has benefitted       industrial and service       sector organisations, including Hitachi, Xerox, Microsoft, Thales, Hewlett       Packard, the National       Gallery, the Science Museum and the Tate Galleries in London, altering       thinking and providing       them with benchmarks against which to measure their performance and       improve it.
+Two examples       illustrate this.
+(i) Hitachi The Design Division of Hitachi (Tokyo       &amp; Maidenhead) Hitachi is creating a       significant number of engineering depots in the UK for the maintenance of       high-speed trains.
+The       King's team changed thinking, introducing a new approach to research and       provided specialised       methods training and field manuals to organisation analysts from Hitachi,       who conducted wide-ranging 	  analysis of work and collaboration in the depots.
+King's enabled       Hitachi to `acquire the         deeper insight (sic)'.
+(Source D).
+As a result the Hitachi analysts       were able to propose initiatives for       new practices within the depots, and to propose improved technological       support for maintenance       activities.
+(ii) Microsoft Microsoft is a global computing       corporation, with a research division based       in Cambridge, which is at the forefront of evidence-based studies of every       day interaction with       computers.
+King's research findings have `provided the measure against         which we judge any and         all work practice studies.'
+(Source E).
+Thus, King's research makes       a continuing difference to       Microsoft, enabling it to check and revise its own research and       development.

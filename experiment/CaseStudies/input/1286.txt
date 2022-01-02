@@ -1,0 +1,32 @@
+     In the UK alone, osteoporosis results in more than 230,000 fractures,       including 70,000 hip fractures, every year.
+Worldwide, it is projected       that the burden of fractures will more than double by 2050, an increase       that will be particularly marked in Asia.
+The need to identify high risk       individuals for appropriate interventions has been recognised as a global       health need.
+Impact on skeletal health care in the UK and internationally     FRAX is the single most important development in osteoporosis management       since the T-score definition in 1994 (also from the University of       Sheffield) as it:            Provides an estimate of absolute risk to inform physician and patient         treatment choice.
+Provides an estimate of risk even in the absence of access to DXA         technology (Dual-energy X-ray absorptiometry is a means of measuring bone mineral           density) thus enfranchising management of osteoporosis in a wider         community.
+Makes more effective use of DXA scanning resources.
+Permits targeting of therapy to highest risk individuals.
+Currently provides assessment of absolute fracture risk for the         primary care community in 53 countries and 28 languages.
+Has been advocated by NICE in the UK and is incorporated into numerous         national and international guidelines for osteoporosis.
+Since the launch of FRAX in 2008, it has rapidly become the most       internationally implemented and accepted risk calculator.
+It is most       widely available as a free-to-use web-based calculator via the University       of Sheffield website.
+The incorporation of a calculation counter (only       activated by a complete risk calculation rather than a simple visit to the       website) shows that approximately 6.6 million calculations had passed       through the website since the counting tool was implemented on 1st June       2011 (accessed October 16th 2013) (S1).
+In addition to the web-based tool,       FRAX is now incorporated into dual X-ray absorptiometry (DXA) scanner       software, an iPhone app, standalone desktop tools and several paper-based       calculators.
+In the UK, it is now available within the TPP SystmOne       general practitioner software system, used by some 2000 GP practices       currently with numbers growing.
+The impact of FRAX on the field of       osteoporosis has been reflected in the rapid rise of FRAX-related       publications.
+In the first year, 2008, there were only 11 FRAX-related       publications but this increased to 60/year in 2009 and 2010, 95 in 2011       and 126 in 2012 (PubMed FRAX in title or abstract excluding Fragile X       syndrome) (Accessed 13.22 Jan 23rd 2013).
+Prior to FRAX, clinical decision making was largely based on a concept of       high risk, based on factors such as prior fracture, age, low BMD etc., but       it was not possible to actually quantify this risk and treatment was       largely indicated by the finding of BMD-defined osteoporosis.
+This       required a BMD scan in virtually all patients with a clinical risk factor       without any prior assessment of their absolute risk.
+FRAX can now be used       to more efficiently target BMD scans to those at or around an intervention       threshold, an approach endorsed by NICE (S2), and thus improves resource       use.
+The major beneficiaries of the FRAX research and development are men       and women at highest risk of osteoporotic fracture.
+The reduction in the       risk of fractures that results from well proven therapies is maximal in       patients at highest risk with greater absolute risk reductions and reduced       numbers needed to treat.
+The tool can also avoid or delay the need for       therapy in patients previously deemed at high risk by the presence of low       BMD (e.g.
+a BMD T-score of -2.5 in a 55 year old woman) but at low       absolute risk; this improves the risk-benefit ratio of therapies given       increasing concerns about potential complications of therapy such as       osteonecrosis of the jaw or atypical femoral fractures.
+To date, the use of FRAX has been endorsed in national/international       guidance from the UK (S2), the US (S3), Canada (S4), Europe (S5),       Switzerland, Japan, Austria and Sweden.
+In 2008, the National Osteoporosis       Guideline Group launched a website twinned to the UK FRAX model that gave       guidance for the use of FRAX results in individuals to guide further       assessment (e.g.
+DXA scanning) or intervention (www.shef.ac.uk/NOGG).
+This guideline was endorsed by many national societies including the Royal       College of Physicians, Royal College of General Practitioners, Primary       Care Rheumatology Society, British Geriatrics Society, British Orthopaedic       Association, Bone Research Society and patient societies including the       National Osteoporosis Society, Osteoporosis Dorset and Osteoporosis2000.
+It has recently been updated.
+In the UK, the recently published NICE       Clinical Guideline endorsed the use of FRAX as one of two risk calculators       that should be used to target the use of dual X-ray absorptiometry (DXA)       scans (NICE CG146) (S2) and it has been incorporated in the NHS Map of       Medicine for osteoporosis, which aims to inform patient choice (S6).
+In 2010, The International Society for Clinical Densitometry (ISCD) and       the International Osteoporosis Foundation (IOF) convened a FRAX Position       Development Conference (PDC) resulting in guidelines on the interpretation       and use of FRAX in clinical practice (S7).
+In 2011, the US Preventive       Service Task Force (USPSTF) recommended the use of FRAX to calculate the       10- year risk for osteoporotic fractures to guide screening decisions for       women younger than 65 years (S8).
+In Europe in 2012, FRAX has been       incorporated into guideline development documents for the management of       osteoporosis in postmenopausal women as well as glucocorticoid-induced       osteoporosis in men and women.

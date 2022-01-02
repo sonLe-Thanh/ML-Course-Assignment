@@ -1,0 +1,48 @@
+     In their consultancy roles, Mumford and Tallant have both       deployed their research to help refine and enhance software tools and       generate commercial value for commercial partners.
+FACE, with whom Mumford engaged in his consultancy,       specialise in the development of assessment tools and software for health       and social care, and have a client base of more than 50 Primary Care       Trusts and a range of other hospitals and other health bodies.
+[5.1] 	  Mumford's involvement with FACE began in 2011and since then his research has       shaped the successful design of a database tool.
+Mumford drew on his       research, during the consultancy, and, working with FACE, was able       to help develop four important modifications to the tool, described below.
+A product based upon the tool has now been developed.
+FACE recently turned       down a bid of $5m (US) for this product.
+[5.2]     FACE regard Mumford's input as significant, noting that Mumford       has played an, "important role in helping us refine and develop the         tool."
+[5.2]     In his consulting role during the development of the database tool,       Mumford was in a position to bring the results of his research in ontology       directly to bear in modifying the product.
+His initial meetings with the       company helped develop the relationship, and have since been formalised       under a commercial arrangement.
+In their own words:     "We are developing a new information system which challenges the       existing, long entrenched approach to database design...this system could       pave the way for a fresh new approach to information management in all       sectors of commerce and industry.
+Professor Mumford's advice to us was         very valuable."
+[5.2]     As noted above, there were four areas where Mumford's work had a       particular influence over the design of the database tool; these are       described in turn.
+As a result of Mumford's intervention:             Changes were made to the design of the database so that it           could represent what is not the case.
+[5.2] Until Mumford's         involvement the database was able to depict only what is the case: the         `positive' truths.
+It could not capture the so-called negative truths.
+It may be crucial in health care, for instance, that a patient is not         allergic to drug X or that they are not currently presenting         symptom S. Mumford challenged the designer to consider         whether and how they could represent such negative truths given, as Mumford         [3.3] (and also, Tallant [3.4]) showed, negative truths cannot         be straightforwardly derived from the positive ones.
+Changes were made to the design of the database so that it           could represent what has been the case, but is no longer.
+[5.2] Drawing on Mumford's research [3.2], to show that previous         tendencies (dispositions) can prove a significant factor in a medical         assessment, Mumford was able to point out the need for         refinements to handle specific cases.
+For instance, that someone is a         former-alcoholic may be crucial to a treatment plan.
+Changes were made to the design of the database so that it           could represent not merely what something actually does, but also what           something may be disposed to do or have the capacity to do.
+[5.2]         A patient may not currently be unwell but it can be vital to know if         they have a vulnerability that, if put to the test, might be serious or         fatal, so the database needed to be able to record not just the actual         facts, but what could be the case, based on our knowledge of         dispositions and capacities.
+Mumford's expertise on the nature         of dispositions was crucial to this addition.
+Changes were made so that the database was able to perform           more than merely additive functions on its data.
+[5.2] Having         recorded facts Fa, Ga and Ha, for instance, about particular a, the         database was able to form the conjunction Fa &amp; Ga &amp; Ha.
+Mumford         was able to improve the tool so that it could perform a range of other         functions.
+As shown [3.1], composition of causal factors often occurs         according to a nonlinear function, meaning that resultant causal powers         are not simply the mereological sum of component powers.
+To handle this,         the database had to be designed to be able to record facts relative to         an appropriate level of nature.
+For example, there can be facts about         persons that are more than just the sum of facts about their parts; the         database had to reflect this.
+Tallant's involvement with Time.ly began in March 2012,       and since then his research has shaped the current design of the software       and supported a successful promotional campaign, after which the company       has recently been valued at $8.4m (CAN).
+Themes from Tallant's research on presentism were disseminated       via the Department's YouTube channel in August 2011.
+This led to the video       being viewed more than 75,000 times, receiving 746 comments interacting       with the material and more than 1,000 `likes' (recommendations).
+[5.4]     The video was viewed by the technology company, Time.ly.
+A       Canadian software company, the key product that Time.ly produces       for users is event planning and calendar software, which is currently used       by more than 65,000 websites.
+[5.3] Clients include geographical based       communities such as Happening In Aspen or Logan Squarist       and also sector based communities like Brixton Buzz for music, or Geekwire       for technology.
+[5.3] Tallant joined Time.ly in an       advisory capacity in March 2012.
+Since then, they have taken part in       regular consultation meetings via Skype.
+[5.3]     Tallant's work has yielded a change to how the product will       represent time.
+In particular, Tallant has suggested that Time.ly       refine the product to bring out the significance of the present moment.
+He       has also explained how we can represent future events as in the         present as things that are going to be the case.
+This is to       treat them as akin to presently existing properties that point towards       the future (in the manner that the tensed facts described in section 2 point         towards other times).
+These ideas draw on Tallant's defence       and descriptions of tensed facts.
+[3.4 &amp; 3.6]     Tallant also noted that the product made by Time.ly is       currently presented in a standard calendar view; a static format that       fails to take into account the sense of importance that we normally       attribute to the present, and that also fails to represent the sense that       we have of moving through time, and the sense of time's passage       that we have&#8212;a theme developed in Tallant's research.
+[3.5]     Tallant's suggestions have fed directly into the design of         planned future iterations of the product and modifications will become         available to users.
+[5.3]     Tallant's work for Time.ly has demonstrably been commercially         valuable.
+Tallant has written a number of promotional items       for Time.ly [5.3], drawing upon his research on how people       naturally think about and experience time.
+[3.4 &amp; 3.5] This work with       Time.ly has "helped the company to engage with a wider audience".
+[5.3] This is of financial value since, "[a]udience is a crucial         factor for a company like Time.ly whose value depends upon the         number of users they can engage".
+[5.3] To give some context, Time.ly       has recently been valued at $8.4m (CAN) [5.3]; more than &#163;5m.

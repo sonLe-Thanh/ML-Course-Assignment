@@ -1,0 +1,24 @@
+     The Centre for Gas Hydrate Research was formed in 2001 and the Centre for       Flow Assurance Research established in 2007.
+The Centres have generated       circa &#163;10M since 2001 from industry in research projects.
+The data       generated in numerous research projects was used in development and tuning       of accurate thermodynamic modelling.
+Total has extended production from the NUGGETS reservoir that was to be       abandoned in 2010.
+So far they have produced an extra 2.8 million Barrel       of Oil Equivalent (BOE) of gas increasing the recovery factor by 2% (and       generating around $150M additional income at a gas price of $11 per MMBtu       (Million British thermal units)).
+[S4, S7] They are still producing and       plan to continue production for several more years.
+Using ERPE IP and       HydraCHEK&#174;, they have not only extended the life of the       reservoir, but reduced the methanol injection drastically.
+Currently they       have completely stopped methanol injection (from the designed 28%) and       control the hydrate slurry concentration by HydraCHEK&#174;.
+Reducing/eliminating the methanol injection rate has several important       consequences, including; reduction of the use of expensive toxic       chemicals, reduction/elimination of methanol contamination in the produced       condensate and improving the management of a highly toxic and flammable       compound and the associated environmental impact.
+Total have also made changes to the design of methanol removal from NGL       facilities, using Hydrafact test results and ERPE knowledge to demonstrate       that a depropaniser could be removed from the design, saving around &#163;50M.
+[S3]     Total has obtained a significant reduction in methanol injection rate       from the designed 28 wt% to less than 3 wt%, saving around &#163;1-5M per year       and eliminating disposal of around 28,000 m3 of methanol per       year using one of Hydrafact's products, HydraCHEK&#174;.
+HydraCHEK&#174;       is a lab based analytical tool that measures the concentration of hydrate       inhibitor and salt in produced water samples taken from a pipeline [3].
+Total state "The C-V technique (HydraCHEK&#174;)         has allowed North Alwyn to rapidly monitor the degree of hydrate         inhibition present in the NUGGETS produced waters at reception         facilities, leading to an increased confidence in optimising the hydrate         treatment" [S6]     In 2005 the University decided to form a spin-out company to exploit the       commercial opportunity.
+Hydrafact (founded in 2006) has grown during the       REF period to employ 23 staff (8 full-time and 15 part-time staff) and has       3 key products, laboratory facilities, hydrate blockage management       services and experimental services with a turnover of &#163;1M in 2012.
+Hydrafact has delivered more than 135 projects to 77 companies in 26       countries across a range of specialisms such as complex and unusual flow       assurance challenges for the transportation of oil, gas and multi-phase       products.
+[S8] The benefits of working with Hydrafact are described by a       Senior Specialist, Flow Assurance at Statoil: "Several... projects...         related to acquisition of high quality experimental equilibrium data of         fluid systems are critical for Statoil's operation.
+The results have         been invaluable for our operation enabling Statoil to optimise our         operation within the relevant area covered by these studies.
+It is         difficult to substantiate the value of these results due to the         complexity of the system.
+It suffices to state that without these         results our operations would be non-optimal resulting in lost value in         tens of millions Norwegian Kroner (hundreds of thousands of GBP) per         year."
+[S1]     Companies such as BP, Total, Schlumberger, Statoil and Petrobras are       repeat customers that routinely commission Hydrafact to solve their flow       assurance problems, increase production, extend the life of wells and       fields and provide training to their own teams.
+All of these activities       transfer knowledge developed in ERPE to the companies.
+As a Flow Assurance       Chemist from Petrobras stated, "Flow assurance imposes a significant         challenge for our deep-water off-shore oil production developments.
+The         knowledge and procedures created... contributed significantly to         optimise the design of our subsea systems and reduce production losses         due to flow assurance issues, mainly gas hydrates pipeline blockage".
+[S2]

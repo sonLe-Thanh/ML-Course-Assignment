@@ -1,0 +1,30 @@
+     The impact of our Green IT research can be discussed in three strands:       environmental/economic impact; Knowledge Transfer through sharing of       technology and best practice; policies, awareness promotion, and       transnational education provision.
+1.Environmental/Economic Impact     Cisco EnergyWise Assessment Consultancy Work: Our       expertise in the measurement and assessment of IT network management       systems (r1, r4 and r6) meant that we were approached by Cisco systems Ltd       to carry out an independent assessment of the Return on Investment (ROI)       for their EnergyWise network management product.
+Assessments and       evaluations carried out at Brunel University, combined with desk research       and extrapolations have been used by Cisco to provide product information       relating to this product (i1).
+Green IT Strategy: Due to our `hands on' approach to       assessing the actual impacts of technology and process changes (r2, r3, r5       and r6), we have been able to make direct contributions to the development       of our university Green IT Strategy, a strategy which has been cited as an       exemplar by funding bodies (see below).
+We have made considerable savings       (i2) implementing this strategy including replacement of desktop printers       with intelligent "iPrint" devices with significant energy, paper, and       toner savings; introducing new PCs which are more energy efficient and       follow an Ultra Small form factor; other PCs have been replaced with       energy efficient thin-client ones thus resulting in considerable energy       savings.
+; Desktop Power Management facility has been incorporated into all       managed PCs.
+Greening the Estates through ICT: In (r3) supported by g2,       evaporative cooling systems are introduced.
+The results (in r3) show that       the new evaporative cooling system seems to enhance energy efficiency.
+This research work is being extended using Salix Funding (secured by       Warner).
+The first extension is installing an evaporative cooling system       while retaining some air conditioning units for additional cooling       requirements.
+The second is the installation of heating controls and new       panel heaters within halls of residence.
+By promotion of the savings we       are achieving within the University, we are seen as a leading force in       this area as evidenced by the following quote from HEFCE's Salix Funding       body: "Leeds Metropolitan University continues to successfully use their       funding as part of their carbon management strategy.
+They committed 89% of       available funds on heating and hot water controls, evaporative cooling and       LED lamp replacement" (i2).
+2.
+Knowledge Transfer through Sharing of Technology and Best Practice     Our work on data centre efficiency involves measuring, monitoring, and       assessing the impact of certain parameter changes on energy consumption       and the data center energy efficiency (r3).
+This research is funded by       (g4) and it demonstrates how aggregated metering and monitoring via       web-enabled facilities (gateways) could be done, as well as how energy       efficiency metrics could be implemented in practice using real data (r3).
+We have shared the findings of this with a variety of audiences:       technical, managerial and academic (i3).
+Many of the approaches we have       adopted and reported upon are now common practice.
+While not claiming       credit for originating these methods, we suggest that we have &#8212; at least &#8212;       contributed to their adoption through our reporting.
+The HEFCE document in (i4) offers guidance on carbon reduction       strategies, targets and associated carbon management plans.
+Leeds Met has       been cited as a case study for many carbon reduction areas for example: "Quick         wins are a useful way of maintaining staff and student enthusiasm for         reducing carbon emissions.
+At Leeds Metropolitan University, quick wins         included the introduction of air-handling fans with direct variable         speed drive; sub-metering; and movement and light sensors &#8212; especially         in gyms, toilets and lecture theatres.
+There are also a number of easily         implementable IT solutions &#8212; including automatic overnight switch-off of         equipment in IT labs" (i4, page 17).
+3.
+Policies/Standards, Awareness Promotion, and Transnational         Education Provision     More recently we have contributed (through the BCS Green IT specialist       group, i6) to the development of the Carbon Trust's "GHG Protocol Product       Life Cycle Accounting and Reporting Standard ICT Sector Guidance", which       is currently in final its drafting stage.
+We particularly highlight the       need for the measurement processes mandated by this guidance to be more       fully documented.
+We also contributed to an EU-supported e-infranet policy       paper (i5).
+This policy paper addresses the environmental sustainability       of e-infrastructures for science and research across European higher       education and research communities and our particular contribution is on       metrics and measurement for quantifying energy usage and performance.
+We have also developed work which is having, or will have, impact on the       current and future education and training of IT professionals (i7), our       MSc in Green Computing was noted in IEEE's IT professional as one       of only four such programmes worldwide (IT Pro March/April 2010, Published       by the IEEE Computer Society).
+This expertise has led to participation in       EU programmes developing research capacity in Green IT in Russia and       Ukraine (g9), in a pan-European post-graduate research training and       development programme (g8) and leading in creating a training programme       for Data Centre managers on behalf of the e-Infranet project (g10) using       the EU Data Centre Code of Conduct as its basis.

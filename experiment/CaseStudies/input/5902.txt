@@ -1,0 +1,44 @@
+     The new research has had impacts in the detection of food contaminants.
+As ready meals containing meat have become more popular (now estimated at       5% of the UK food budget), the potential for fraudulent food labelling has       increased.
+The potential for mislabelling came to the fore in 2009 and       again in 2013.
+The Food and Environment Research Agency (FERA, an agency       of DEFRA close to York) guides the science evidence base in the food and       environment sectors to ensure that UK policy makers are well informed,       undertaking both surveillance and R&amp;D activities.
+Its services       underpin regulatory frameworks as well as supporting religious and       cultural factors such as food provenance (e.g.
+halal or kosher).
+Five million people in the UK choose to avoid pig and cow products on       vegetarian or religious grounds; they include 2.7M Muslims and 817,000       Hindus.1     The standard method of identifying the species origin of meat is DNA       sequencing, but this is not possible on all samples (e.g.
+gelatin,       material that has been heated).
+Moreover, exogenous DNA can be added       fraudulently to mask endogenous signals.
+The York team of Collins and       Thomas-Oates was asked to use ZooMS and other proprietary mass       spectrometry approaches for collagen identification, to support a Food       Standards Agency investigation into the use of pig- and cow-derived       gelatin employed to re-hydrate air-freighted products in foods labelled as       containing only chicken (the addition of other animal protein to meat       stated to be from a single source is illegal).
+They were then approached       anonymously by an investigative team later revealed to be from the BBC, to       test chicken breasts supplied to Asian restaurants.
+As a result of the BBC       TV investigation (broadcast on 14/07/09, entitled `What's really in our       food?
+'), Euro Foods Group announced on their website (July 2009) that in       order to 'eradicate any future question marks and/or confusion over       non-chicken protein detection levels in our product range, Euro Foods       Group has decided to switch to a vegetable derived protein instead, a move       which was completed by 29th June 2009' (see also minutes 51-52 of       programme in reference 2).
+Euro Foods (http://www.eurofoods.co.uk)       is the largest supplier of poultry to the Asian market in the UK.
+The       discovery of bovine gelatin in chicken was publicised in the UK press (The         Independent, The Daily Mail, and The Sun), and       featured in the BBC documentary.2 The research featured in the       Annual Report of the Chief Scientist of the Food Standards Agency 2009/10.3       Dr Shuja Shafi of the Muslim Council of Britain stated that Muslims would       be extremely annoyed and extremely distressed to learn that chicken sold       as halal contains protein from prohibited species and they would be       extremely angry if this turned out to be a deliberate deception as Muslims       rely heavily on accurate food labelling (minutes 53 -55 of programme in       reference 2).
+As a consequence of York's work it was evident that a complex process had       been developed to dupe DNA testing, enabling low-cost (pork and cattle)       gelatin to be sold as `chicken protein' and used as a plumping agent in       chicken breast meat.
+Two factories (in Germany and Spain) that produced       the plumping agents were raided by local inspectors.
+FERA has worked with the York team to apply the University of York       methods of analysis based on collagen sequencing to their core business of       food authentication.
+Specifically, it has determined the species       provenance of gelatin and hydrolysed collagen added to chicken fillets,       so-called chicken-plumping agents.
+In a DEFRA-funded study (&#163;91k contract,       01/03/11 to 31/03/12), it validated the technique against other       commercially-available approaches (enzyme-linked immunosorbent assay       (ELISA) and PCR) and found it to be superior, with the alternative       techniques providing numerous false positive results.
+This contract       involved an inter-laboratory trial of the method, including laboratories       across Europe and in the USA, during which the analytical method was       transferred successfully to alternative food enforcement laboratories.
+A       further DEFRA-funded project (Defra project code FA0126) is transferring       the method to a wide range of processed foods and pharmaceutical products.
+The method has also been developed and applied to other food matrices for       FERA customers to screen foods destined for the halal markets and also for       products such as gelatin capsules (for therapeutic/supplement       formulations) aimed at vegetarian customers.
+Since the outbreak of BSE in 1987, the inclusion of animal proteins has       been banned in animal feeds to prevent cannibalism in the food chain.
+There is scope to relax the extended feed ban, should scientific methods       be available to first screen animal feeds and then to provide confirmatory       analysis of positive samples.
+A method was developed by the York team       during this partnership to determine the species origin of bone chips       using the collagen method.
+This method is currently being reported to the       EU, and FERA is publicising its availability.
+There is now interest from various laboratories in Europe, as well as key       government research laboratories to license the method for gelatin       identification; the US Food and Drug Administration (FDA) is one of six       partners in this development.
+Training in the methodology has been       provided by the York team for FERA and for analytical laboratories from       across Europe and North America (including the US FDA).
+The York team made       species-specific marker peptide sequences available to FERA, that are now       being used as internal standards in this assay.
+FERA is also training two       Malaysian laboratories in the method.
+In 2013, inclusion of horse meat in ready meals affected numerous       products in the UK and other EU countries.
+FERA has demonstrated that, as       expected, York's approach is also able to identify horse gelatin.
+FERA has       funding approved to adapt the pork and beef methods for horse gelatin       (Defra project code FA0126).
+Quotations to support impact:     Collins was co-opted as a consultant to an EU project SAFEED-PAP, 6th EC       FP, DG RTD.
+The archaeological method proved particularly appropriate to       the detection of animal bone fragments.
+Dr Ir Vincent Baeten, Head of the       Food and Feed Unit, EU Reference Laboratory said: "I have to applaud         the innovative analytical solution that the Department has proposed for         detection of animal bone, using protein mass-spectrometry (ZooMS).
+I         would like also to recognise the effort made by the Department to adapt         this method coming from archaeology to feed safety".4     Dr Adrian Charlton, Head of Chemical and Biochemical Profiling at FERA       wrote as follows, corroborating the nature and extent of the collaboration       with FERA:     "FERA's close collaboration with Professors Thomas-Oates and Collins         have led to a number of technologies that we routinely exploit to         deliver ongoing project work and to underpin project proposals, papers         and publicity material.
+In particular, we have undertaken a number of         studies to determine peptide sequences that can be used for the species         origin determination in collaboration with you and your colleagues.
+These projects have led to FERA offering an international service for         the species identification of gelatin and MBM in food and feed,         respectively.
+"5     The research undertaken in York has provided the food standards and       enforcement agencies with the ability to determine the animal source(s) of       processed foods in which DNA analysis is not possible, by targeting the       protein which is the principal component of meat.
+The York methods have       been adopted by the UK agencies and transferred to equivalent bodies in       other countries.
+The need for these analyses has been demonstrated through       BBC and FSA investigations of fraudulent labelling and further       disseminated in the press.
+The importance and broad applicability of these       approaches has been further highlighted by this year's horsemeat scandal.

@@ -1,0 +1,36 @@
+     The problem of Vibration       Excessive vibration in gas turbine components can lead to failure due to       high cycle fatigue (HCF).
+In extreme cases, it can lead to loss of the aircraft, such as the       Kegworth Air Disaster [7] in 1989 in       which 47 people lost their lives and the financial cost ran into tens of       millions of pounds.
+The failure       was caused by flutter (fluid-structure interaction) of the fan at high       engine speed due to a change in       the non-linear dynamic properties of the part-span shroud.
+More typically a turbine or compressor blade may be released which causes       difficulty for operators       of civil and military engines because they require predictable       availability in which all engine       problems can be managed through scheduled maintenance.
+However, HCF can       lead to sudden,       unexpected component failure which can be very disruptive and expensive       (e.g.
+additional aircraft       and crew, ferrying damaged engine to base + cost of repair).
+For ground       based gas turbines, used       for gas/oil pumping or electricity generation, then the financial cost can       be very high through lack of       revenue, and the remote location of the units (e.g.
+on an oil platform)       adds to the maintenance       difficulties.
+The US Air Force reported that 56% of its "Class A" engine       related mishaps were due to       HCF, requiring an expenditure of 850,000 maintenance man-hours for risk       management       inspections, with the total cost of HCF being quoted as $400 million per       year [8].
+The Impact of the Vibration UTC       The Vibration UTC is a strategic partner of Rolls-Royce for the       development of a prediction       capability for vibration [9].
+The research programmes completed by the       Vibration UTC are       delivered as fundamental investigations of behaviour, processes for       prediction, software modules       and supporting measurements.
+By controlling the vibration behaviour the       risk of High Cycle Fatigue       is dramatically reduced.
+The delivery of the impact is also assisted by       consultancy undertaken by       the academic staff and by PhD graduates and postdocs being employed by the       company; 10 UTC       researchers have joined Rolls-Royce since 1996, including 3 since 2008.
+Fluid-Structure Interaction       The research on fluid-structure interaction has revolutionised the       approach to predicting the       vibration behaviour and is in routine use at Rolls-Royce across the major       sites throughout the       world.
+This was confirmed in a keynote lecture given by Dr M. Goulette       (then Director of Rolls-       Royce Engineering Systems) at the International Symposium on Unsteady       Aerodynamics,       Aeroacoustics and Aeroelasticity of Turbomachines in London during       September 2009 [A].
+Processes and software (AU3D/JM62) developed by the Vibration UTC have       been applied to the       design of the majority of Rolls-Royce civil &amp; military aero-engines,       including:            All versions of theTrent family for the large civil engine market         since the early 1990s (i.e         Trent 700 / 800 / 500 / 900 / 1000 / XWB).
+BR710 / BR725 / V2500 / AE3007 for the small civil / corporate market.
+Main engine and LiftFan for the Joint Strike Fighter, TP400 for the         A400M transporter,         Pegasus for the vertical take-off Harrier and AV8-B.
+Through these engine programmes, the process and tools developed at       Imperial have enabled       improvement in reliability against tightening constraints on engine cost,       weight, noise and       performance, leading to savings.
+Designers tend to compromise the design       due to unquantified       concerns about HCF failure, but the research has enabled better       understanding of the design       space and allowed improved engine performance.
+[A] states, "The       understanding and tools       developed by the VUTC have enabled improved efficiency of fan system of       Trent XWB by around       0.1%, which is equivalent to a saving of &#163;100 million in fuel costs alone       over the lifetime of the       fleet.
+It has also enabled integrity assessment of damage cases such as       bird impact and novel       engine architectures such as the Lift Fan used in the F-35B Joint Strike       Fighter".
+One very tangible benefit is the significant reduction in cost of testing       because the analysis       procedures (and software) are used to replace engine testing.
+Testing on       rotating parts requires       expensive engine telemetry experiments and can cost in the order of       &#163;1million per test, therefore       the research has directly led to the saving of several millions of pounds       per engine programme.
+[C]       states, "AU3D has revolutionised the way Rolls-Royce assesses the       mechanical integrity of       compressor aerofoils.
+The code is in routine use within the company and       with the support of the       VUTC, has led to a factor of 5 reduction in test costs, a total saving of       around &#163;30M over the last       five years for the Trent programme alone".
+It is also now successfully       deployed for the corporate jet       market via Rolls-Royce Deutschland and is already making large savings       [D].
+Structural Dynamics       Work on modelling of non-linear contact and friction has improved the       understanding of the       influence of contact on the vibration characteristics and the mechanical       damping of the system.
+The early focus (1998-2005) was on behaviour of turbine "under-platform"       dampers to reduce       vibration levels and prevent high cycle fatigue failures.
+(Note: these       blades are about 100mm long,       produce ~800 HP, operate in gas flow several hundred Celsius above the       material melting point       and operate for millions of miles).
+Turbine failures in service create       costs running into millions of       pounds due to repair and warrantee payments and claims due to flight       schedule disruption.
+There       were problems in the 1990's which led to the introduction of a design       change [10].
+According to [B],       "Rolls-Royce have routinely used JM62 for optimisation of the turbine       blade damper system to       control vibration and we have seen blade HCF failures reduce to virtually       zero giving savings of       tens of millions of pounds over the past five years".
+Engine Design Capability       The Engine Design aspects are still at an early stage of deployment, but       there are already       programmes in place to transfer the developed methods into Rolls-Royce.
+The preliminary       geometry generation tools are planned to become an integral part of the       Rolls-Royce design       system, allowing more rapid and broader studies of new engine       architectures which are expected       to give a better performance, reduced weight and cost.
+The low order       modelling tools will also be       used to identify vibration problems (and solutions) at an early stage in       the design phase leading to       significant savings in engine design and development costs.

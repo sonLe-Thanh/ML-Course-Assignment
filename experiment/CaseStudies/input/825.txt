@@ -1,0 +1,50 @@
+     Tracsis plc &#8212; from algorithm to the Leeds spin out:     Rail and bus companies were involved from the first stages of the       development process, providing expert knowledge and performing trials on       our algorithms.
+Bus and rail companies trialled algorithms developed by       the Leeds team as early as 1994-1996 (under EPSRC grant GR/K07256) [A].
+This directly led to the adoption of TRACS II by First Bus in 2000 and       ScotRail in 2003 [A,B].
+The University of Leeds founded the spin-out company Tracsis in 2004 to       further commercialise its TrainTRACS and BusTRACS crew scheduling       software.
+ScotRail, First Bus (all companies in the group) and Translink       (in Northern Ireland) were initial clients of Tracsis.
+From 2004 to 2007,       further pilot trials of TrainTRACS were carried out with more train       companies, and the trials successfully led to new licences bought [B].
+Significance            The scheduling software developed from the research is mission         critical responsible for operations planning in many transport         companies.
+At the time, these companies relied on staff and         time-consuming manual processes to schedule their crews [A,B].
+The use         of automatic optimising software has freed up their time to be more         creative in considering a wide range of what-if scenarios.
+This has the         benefit of not only achieving the most efficient schedules, but also         schedules balanced against a host of robustness and local issues that         result in greatly enhanced reliability of services.
+Ultimately, the         public transport users benefit [A,B].
+The flexibility and power of the software is routinely used for         short-term rescheduling, due to weather or engineering works [A,B].
+The         software can also be used to provide the best options of public         transport at large events such as football match finals.
+The scheduling         scenarios often involve an acute imbalance of demands across the         network, special constraints, and very limited resources.
+Notably, the         software was used for scheduling the Rugby World Cup train services in         New Zealand, 2011 [B].
+Rail franchise tendering is a means of getting the best value and         quality of train services for the public.
+Since 2008, the TrainTRACS         software has been used by nearly all shortlisted bidders in all the UK         rail franchise tenders, contributing to cost effective, efficient and         reliable rail transport.
+This has the impact of raising the standard of         the proposed services with the confidence that when a bidder wins, the         services can be delivered with respect to crew resources [B].
+Tracsis has provided new employment.
+As of June 2013, Tracsis is an         international company employing about 200 full-time-equivalent staff         with offices in Leeds, Derby, Tadcaster and Australia [B].
+As evidence of the success of Tracsis, its distinctive contribution         and far-reaching impact, Tracsis has won the 2013 Small Cap Company of         the Year Award (supported by the London Stock Exchange) and the 2011         Yorkshire Post Excellence in Business Award, presented by the Deputy         Prime Minister.
+The judges of the 2011 award praised Tracsis as: "a         prime example of university knowledge being commercialised and         performing well in its market" [C,D].
+Growth and reach during the REF period:            In November 2007, Tracsis was floated on the London Stock Exchange         (AIM) and the IPO raised &#163;2 million [B].
+Tracsis is successful with         increasing turnover and profit: year ending 31st July 2008         (&#163;0.81 million, &#163;0.39 million), 2009 (&#163;2.31 million, &#163;0.72 million),         2010 (&#163;2.65 million, &#163;0.58 million), 2011 (&#163;4.08 million, &#163;1.11         million), 2012 (&#163;8.67 million, &#163;3.01 million), 2013 (&#163;10.83 million,         &#163;2.59 million); its market capitalisation is &#163;46.7 million on 22/5/2013         [B,E,F].
+Looking forward, the peak share price was 207.5 pence on         22/10/2013 and the market capitalisation was &#163;52.7 million.
+The software is being used by 14 out of the 20 UK train companies         operating passenger rail services, all UK bus companies in the First         group (the UK's largest bus operator, covering local services across the         country), and more recently penetrating the freight train sector as         well.
+There are also overseas clients in Sweden, New Zealand and         Australia [B,F].
+Since 2008, all the train operators who have adopted TrainTRACS have         conducted pilot trials and evaluated the savings they could achieve.
+Tracsis estimate overall savings at 2-12% over traditional methods [B]         (a figure of 12% is quoted as "typical" in [F]).
+In the UK the salary of         a train driver ranges from &#163;32K to &#163;50K per annum.
+Since crew costs         account for up to 50% of total operating cost, TrainTRACS and BusTRACS         have brought huge savings for transport operators.
+To estimate these         cost savings, we shall consider rail and bus transport separately.
+(a) The UK rail passenger train operating cost, including the leasing of       train units and track/infrastructure access charges, was about &#163;6 billion       in 2008-09 (McNulty Report, Table 3.5 [H]); we estimate crew cost to be       40%, i.e., &#163;2.4 billion per annum.
+The train companies using TrainTRACS       cover about 70% of the UK passenger trains [F].
+Conservatively estimating       the savings at 2%, 4% or 8% gives annual savings of &#163;2.4bn x 70% x (2%,       4%, 8%) = &#163;33.6m, &#163;67.2m or &#163;134.4m saving p.a.
+on crew scheduling cost to       the UK rail industry alone [A,B].
+(b) BusTRACS is used by about 25 bus companies in FirstGroup.
+In 2013,       FirstGroup has sold part of its bus operations in London to Tower Transit,       but Tower Transit has retained the use of BusTRACS.
+FirstGroup and Tower       Transit together have about 9,000 buses.
+BusTRACS is also used by       Translink in Belfast, which has about 300 buses.
+Unlike trains, buses only       need one crew member per bus.
+However, accounting for rest days, annual       and sick leaves the number of drivers employed would be more than the       number of buses operated.
+Therefore, a low estimate of 11,000 drivers is       justified.
+Assuming an average driver costs &#163;38k per annum, total driver       cost is &#163;418 million.
+Therefore at 2%, 4% and 8%, the estimated cost       savings are &#163;8.36m, &#163;16.7m and &#163;33.4m per annum for UK bus companies [B].
+(c) At 2% savings, we therefore estimate a minimum of &#163;230 million       overall savings brought by TrainTRACS and BusTRACS to bus and train       companies over the entire period 1.1.2008- 31.7.2013; at 4% and 8%, our       estimates are &#163;460 million &amp; &#163;920 million, respectively [A,B,H].
+(d)       In December 2008 (after the West Coast Route Modernisation was completed),       Virgin West Coast implemented a 30% increase in their train services and       TrainTRACS was used to schedule their crews [B,G,I].
+Only 6 crew members       were added to their existing 1600 crew (an increase of 0.37%) [G,I].
+The consistent savings and benefits accrued from using TrainTRACS have         gained Tracsis respect and trust in the rail industry.
+This good         reputation has enabled Tracsis to expand the TrainTRACS core business to         include closely related planning processes of train unit scheduling and         train crew rostering, and to related rail problems of performance and         safety information management, data acquisition and monitoring,         passenger count surveys [B,F].

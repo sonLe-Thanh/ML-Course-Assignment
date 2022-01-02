@@ -1,0 +1,25 @@
+     Regulation of air pollution has important effects on human health and it       has recently been estimated that the 1990 Clean Air Act in the US       prevented 160,000 premature deaths, 1.7 million asthma attacks and 13       million lost work days per year &#8212; with these figures set to increase over       time [A].
+The Clean Air Act requires the Environmental Protection Agency (EPA) to       set national ambient air quality standards (NAAQS) for ozone and five       other pollutants considered harmful to public health and the environment       (the other pollutants are particulate matter, nitrogen oxides, carbon       monoxide, sulfur dioxide and lead).
+As mandated by the Clean Air Act, the       EPA must periodically review the scientific bases (or criteria) for the       various NAAQS by assessing newly available scientific information for each       of the pollutants listed above.
+This process occurs every ten years for       each pollutant.
+Models for estimating personal exposures based on [1] and [2] were used       extensively as part of the scientific basis for the most recent changes in       the NAAQS for ozone.
+The goal was to determine the effect of ambient       regulatory strategies on human exposure by observing how different ambient       concentration scenarios changed the predicted personal exposure for       different demographic groups.
+The review of the standards for ozone was announced in 2008 and resulted       in a reduction of the primary standard level (8-hour average) for ozone       from 0.08 to 0.075 parts per billion [B, C, D].
+This reduction       "significantly strengthened its national ambient air quality standards       (NAAQS) for ground-level ozone, the primary component of smog.
+These       changes will improve both public health protection and the protection of       sensitive trees and plants" [C].
+After a series of petitions and       legislation, the final stage in the implementation of the new limits,       which refers to methods for designating areas as either in accordance or       in non-attainment was passed in 2012 [D, E].
+During the process of formulating the new limits for ozone, three volumes       of scientific background information were released for consultation, "Air       Quality Criteria for Ozone and Related Photochemical Oxidants" [F].
+These       linked the underpinning research to the subsequent formulation of the       legislation.
+Over 20 pages of the summary (Volume 1) are related to       estimating personal exposures together with a 70 page technical appendix       (Volume 2).
+The methods derived in [1] provide "the underpinning       theoretical probabilistic framework underlying these exposure simulators"       as referenced in [G] (in which 3rd and 4th authors       are members of the EPA).
+Our work [1,2], in particular pCNEM, is       extensively discussed in Section 3, Vol.1 and Chapter 3, Vol.
+2 of [F],       with its advantages noted specifically in terms of its ability, in       contrast to other methods, to provide a coherent approach to incorporating       "uncertainties in the predicted distributions" and "its ability to       estimate the effects of reductions in ambient levels of pollutants"       (Section 3, Vol.1, pages 3-61 and 3-62).
+To summarise:            Detailed information is required on the potential exposures         experienced by individual members of the population to provide         scientific support for potential changes in air quality standards.
+The         research developed in [1,2] provides a convenient framework that can be         used to generate this information.
+Our work had impact on public policy and changes to legislation and         regulations.
+Models for estimating personal exposures based on [1] and         [2] were used extensively as part of the scientific basis for the most         recent changes in air quality standards for ozone.
+Our research has impact on the management of environmental risk.
+The         result of the 2008 EPA review was to make the standards for ozone more         rigorous.
+Areas classified "nonattainment" may have to impose more         stringent emission controls.
+According to the EPA these changes "will improve both public health         protection and the protection of sensitive trees and plants."
+[C]

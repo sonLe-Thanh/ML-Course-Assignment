@@ -1,0 +1,22 @@
+     The research has had impact in three of the areas:     Health and Welfare.
+This project extends statistical approaches to hospital mortality data by       combining mathematical rigour with strong information governance and       unprecedented usability for practitioners not trained in advanced       statistical techniques.
+This translates into health and welfare impacts in       the form of: rapid (i.e., close to real-time) identification of unexpected       mortality patterns and the type of investigatory measures required.
+These       impacts result from the identification of positive and negative mortality       patterns: positively, it allows the identification of best practice, the       sharing of which can improve outcomes for patients; negatively, by       allowing the rapid investigation of excessive mortality rates, it has the       potential to prevent needless deaths (reference 2).
+The quantification of       the relationship between statistically anomalous mortality rates and       needless deaths is highly contentious, but it is plausible to assert that       rapid investigation is likely to be of benefit to patients, potentially in       significant numbers.
+Economic, commercial, organizational.
+In addition to alleviating human suffering, the better understanding of       hospital mortality rates has economic and organizational impacts.
+As       reported by The Clinical Lead for Health Intelligence at the Irish Heath       Service Executive (the body that commissioned this work), the "statistical       model was developed appropriate for the Irish context.
+Because generic       models are often viewed with suspicion by practitioners, a tailored model       has allowed the resulting data to gain credibility on the ground,       resulting in a greater willingness to engage with the process and act on       its outcomes" (a).
+Because the results are available in close to real time       and accessible to clinicians in a comprehensible form, health       organizations gain from speedy adoption and from enhanced staff commitment       to improvement, translating into real but not easily quantifiable saving       in resources.
+In addition, the system has been made available to every       public hospital in the country and its "drill down" functionality allows       each hospital to view and extract record-level data that underpins local       audits of data and care.
+This unique feature offers significant gains in       speed, efficiency and validity of assessment.
+As such its impact at       national level is substantial (access to the live web-site is restricted       on confidentiality grounds but can be accessed if necessary for audit).
+Practitioners and professional services.
+As indicated above, the system's unique user interface allows       unprecedented levels of involvement in data interpretation across       clinical, administrative and management groups.
+As such, it has been       claimed to be a "game changer" in developing the ways in which health       professionals collaborate across institutions and professional groups to       provide improved patient services (a).
+Reach and Significance.
+The reach of this project is significant: according to       Dublin Health Services Executive (a): these tools "will reach into every       public hospital in the country [Republic of Ireland]".
+In terms of significance, this model and its resulting       applications have the potential form major gains in the areas outlined       above.
+Firstly, it is a new development in the Irish public health system       that not only brings it in line with other developed countries (reference       1), but also goes beyond what is available elsewhere through its unique       user interface.
+Although only in live operation since August 2013, it has       already indicated cases for investigation and initial results indicate its       effectiveness in engaging practitioners.
+As maintained in the evidence       letter (a): these tools are "game changers in terms of promoting patient       safety by empowering targeted quality assurance from the national to local       levels".

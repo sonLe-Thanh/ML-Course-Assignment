@@ -1,0 +1,34 @@
+     The impact for our Bragg grating technology spans several related areas,       which reflect the intrinsic characteristics of fibre (FBG) and planar       (PBG) geometries.
+Impact here relate to Economic (spin-out,         creation of new business and adoption of new processes) as well as Environmental       (achievement of environmental (green) objectives).
+FBG research has been directed at a wide range of technologies,       but the focus here is for NIF, the National Ignition Facility, in       Livermore, California, U.S.A.
+This is a massive enterprise aimed at fusion       research, (which is hoped will replace current fission-based power       stations) and which has at its heart, ORC-developed passive and active       fibre Bragg grating technology.
+The FBG process that led from research to impact was via the ORC       involvement from an early stage of the developments of NIF, and concerned       the contributed key technology and knowhow that was developed through FBG       and optical amplifier designs.
+The 192 laser beams in NIF originate from a       single 5cm long DFB fibre-grating-laser master-oscillator conceived as a       concept and first demonstrated at the ORC.
+The critical       requirement is that this laser operates at the precise wavelength required       for all downstream laser and amplifier components [5.1, 5.2], and was       chosen because of its exceptional wavelength and power-stability.
+Precise       pulse control in the preamplifiers and the signal delivery fibres within       NIF is done with 30cm long ORC-fabricated passive chirped FBGs.
+The       critical operational requirements (long length, exact matching of passive       dispersion-orders and low phase-noise) can only be achieved with       ORC-fabricated gratings as there are no commercial suppliers or any other       research organisations that are capable of delivering these requirements.
+It was this unique capability that led to NIF scientists       collaborating directly with the ORC [5.3].
+The nature of the impact is the possibility that fusion-based       energy generation can provide that unlimited source of clean energy that       would solve one of our most fundamental problems.
+Fusion has been termed       the 'holy grail' and `game-changer' of future energy technology, and it       has vast potential to help meet the world's future energy challenges.
+The       success and promising concepts demonstrated at NIF are already spilling       over into beneficiaries in Europe, China and Russia where several       facilities are under construction creating new jobs in the industry, and       promoting high-tech laser-development [5.4].
+While it is recognised that       there are many challenges remaining to be solved, it is undeniable that       cheap and renewable energy is perhaps number one on the wish-list of every       government.
+The world is closely following the fusion energy programme,       which, should it prove successful, would solve one of the most fundamental       problems of energy security.
+It is a testament to its       significance that grating-technology researched and developed at the ORC       lies at the very heart of the quest for controlled fusion, and that a       significant step towards this goal was reached on 5-July 2012 by NIF       reaching its 1.8MJ, 500TW milestone [5.5], and on 13-August 2013 when, for       the first time ever from any fusion facility in the world, the amount of       energy released through the fusion reaction exceeded the amount of energy       being absorbed by the fusion fuel [5.6].
+The PBG process started from 1999, when Bragg gratings in planar       geometries were developed, together with the first proof of concept for       sensors.
+Prompted by feedback from industry, the University of Southampton       patented the inventions (e.g.
+US Patent No.
+7,440,653, filed May-2003,       issued October-2008) and attracted VC-funding to establish the spin-out       Stratophase, which initially had two core technologies, UV-written Bragg       gratings and periodically poled lithium niobate (PPLN).
+The second of       these was itself spun out in 2009 in another company, Covesion, which is       the subject of a different case study.
+Soon after the first VC-funding,       two patents were filed on evanescent field sensors utilising the original       grating patent (US Patent No.
+7,715,005, filed July-2005, issued May-2010,       US Patent No.
+7,541,573, filed July-2005, issued June-2009).
+The nature of the impact and beneficiaries: Stratophase has led to       high-tech employment (presently 12 staff), investment by US       Investors of &#163;6.8m, and cumulative sales and development contracts worth       &#163;3.2m [5.7].
+Users of this technology include:            CPI, Glaxo-Smith-Kline, Greenbiologics, for feedback control during         bio-pharma production.
+DSTL and the MoD who successfully demonstrated detection of live agent         bio-hazards at Porton Down including ricin and anthrax, providing the UK         with a national capability for detection of these bio-hazards         [5.8].
+A number of life sciences companies [5.9] via the launch of a new set         of products (Stratophase Ranger&#8482;) offering off-the-shelf solutions for         batch monitoring and process-control.
+The University of Cambridge's Institute of Biotechnology, Bristol         Industrial and Research Associates and the Chelsea Technologies Group.
+In June 2011 Stratophase reported the successful completion of a         feasibility study into a portable sensor unit for detecting foot-and-mouth             disease, which could allow veterinarians, inspectors and         even farmers to diagnose the disease much more quickly than is currently         possible using laboratory analysis [5.9].
+A contract with Biral, for the development and demonstration of live         agent air-sampled detection capability at the Porton Down BSL 4         lab for the most toxic materials (e.g.
+Anthrax).
+The contract, awarded         by the MOD/DSTL, was for &#163;1.2m and is an excellent example of University         research having impact on the work of Government scientists for greater         protection of the UK population.
+[5.10]

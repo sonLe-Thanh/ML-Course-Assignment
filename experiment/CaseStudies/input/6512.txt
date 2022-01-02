@@ -1,0 +1,27 @@
+     In April 2010, just four days after the northern European airspace was       closed in the wake of the Eyjafjallaj&#246;kull eruption, Hertfordshire's       unique radiosondes, built to count and size atmospheric aerosols, were       used to validate Met Office models that forecast the amount and trajectory       of the volcanic ash.
+There had been substantial pressure from the airlines       and others to keep the skies open, but these first in situ measurements of       the ash justified the authorities' decision to ground flights and avoid       the potential risk to air passengers' lives.
+The atmospheric ash from the 2010 eruption caused massive disruption to       transatlantic and European air traffic.
+This had a significant economic       impact on the air industry: almost 100,000 flights were cancelled and       airlines had to compensate passengers for delays.
+The total impact on       global GDP caused by the first week's disruption was estimated at $4.7       billion, and each additional day was costing European economies several       hundred million dollars.
+There were also considerable concerns about       disruptions to military air traffic, including supply, Medivac,       repatriation and training flights linked to the Afghanistan conflict       (Section 5, Refs 5.1-5.5).
+Evidence already existed that aircraft were in considerable danger if       they flew through volcanic ash, even at sub-visible concentrations,       because of the engine damage that could result.
+For example, in June 1982,       the Boeing 747 London to Auckland flight BA263 encountered an ash plume       from the erupting Mount Galunggung in Java, resulting in all four engines       failing.
+The plane managed to glide sufficiently out of the ash plume for       three of the four engines to restart.
+Despite awareness of such evidence,       airlines affected by Eyjafjallaj&#246;kull queried the restrictions imposed on       them, claiming that test flights through the so-called `red zones' showed       no evidence of any damage.
+This presented the authorities with a huge       problem &#8212; namely, that identifying the prohibited air-space (red zones)       relied on theoretical Met Office ash dispersion models that were unproven       and therefore being brought into question.
+The only solution was to       acquire in situ measurements of the ash clouds, but aircraft that would       normally be used for atmospheric cloud particle studies, including the Met       Office's FAAM instrumented research aircraft, were also grounded by the       flight ban: a Catch-22 situation.
+Fortunately, despite being developed for another purpose &#8212; i.e.
+the       characterisation of atmospheric dust and its vertical profile (in turn       following up the discovery of dust alignment during astronomical       observations) &#8212; the radiosondes built by the university's researchers and       described in section 2 were capable of characterising volcanic ash.
+The       University of Hertfordshire led the NERC-funded radiosonde project and       developed the aerosol counters; the University of Reading developed the       electric charge sensors subsequently establishing that the ash particles       carried a charge.
+As they were unaffected by the flight ban, the       radiosondes could offer the most direct, quantitative and real-time data       about the extent of the ash plumes, including the ash density and particle       sizing.
+The Met Office was aware of the radiosondes through previous       research collaborations with CAIR and, given the urgency of the situation,       the fact that the sondes required no modification for ash measurements was       extremely important.
+This was how the first ever measurements of the Eyjafjallaj&#246;kull volcanic       ash came to be conducted using Hertfordshire radiosondes, at the request       of the Met Office, by balloon launch in Scotland.
+The measurements were       used to validate the models and justify the caution employed by the       authorities, thereby preventing potential widespread aircraft damage or       potential catastrophic failure had they capitulated to considerable       commercial pressure and reopened the airspace prematurely.
+These       radiosonde data were discussed during sessions of COBRA, the Cabinet       Office emergency briefing forum, and special parliamentary committee       meetings.
+They were also widely publicised in the media, including       national radio (Refs 5.6-5.8).
+The Met Office provided CAIR with an interim contract to build a further       twenty `reserve' radiosondes for use in further volcanic ash episodes.
+CAIR is also developing a version of the radiosondes that can be dropped       from aircraft able to fly above the ash cloud layer.
+Further, a one-year       NERC grant (&#163;99,000) has been secured for a project that will run       throughout 2014 and lead to commercialisation of the sonde system for       measuring volcanic ash and other atmospheric aerosols.
+The wider commercial opportunities of the `low-cost' particle detection       technologies born out of the radiosonde development has also been       recognised.
+These technologies, the subject of international patenting,       have been licensed to UK company Alphasense Ltd, for worldwide       exploitation in areas of environmental monitoring, air quality and       industrial safety.
+The licence guarantees minimum royalty payments [text       removed for publication] over the first four years.

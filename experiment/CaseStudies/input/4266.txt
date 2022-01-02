@@ -1,0 +1,29 @@
+     The research described led to the founding by McCanny (then CTO) of       Amphion Semiconductor       Ltd. (originally Integrated Silicon Systems Ltd).
+Amphion rapidly became a       world leader in the       licensing of semiconductor IP (SIP) for Digital Communications and Digital       Video applications.
+Amphion raised over $15M (1999, 2000, and 2002) in a series of       venture-funded rounds led by       APAX partners, London.
+Its workforce grew to around 50 people, including       numerous PhDs       recruited from the UoA's research labs1.
+One of these, Dr Yi       Hu, went on to become Amphion's       Chief Silicon Architect/Chief Technologist.
+The company's major customers       included Intel,       Toshiba, Microsoft, Broadcom, Hitachi, Panasonic, NEC, Sony, Alcatel,       Ericson, Siemens and       Mitsubishi.
+It also built strong strategic partnerships with FPGA       companies Xilinx and Altera.
+Amphion's SIP Platforms included Wireless LAN baseband processors (IEEE       802.11A,       HIPERLAN) and DVB subsystems for Cable, Satellite and Terrestrial DTV.
+Its       video and imaging       cores covered encoding and decoding solutions for JPEG, JPEG2000, MPEG2,       MPEG4 and       H.264.
+Lower level cores included 2D Wavelet Processors, parameterisable       FFTs, FIR and IIR       filters and Reed-Solomon and Viterbi decoders for Digital Video Broadcast2.
+These were available       for both ASIC and FPGA implementations and exhibited performance levels       which in terms of gate       count and power consumption were - and continue to be - world       state-of-the-art, as they are       migrated onto new generations of fabrication technologies.
+Amphion was acquired by Conexant Inc in 2004 for $25M.
+Subsequently,       Conexant's STB       operations (including its Amphion division) were acquired by NXP       Semiconductors (Phillips) in April       2008 NXPAmphion.
+In February 2010, Trident Microsystems signed an agreement to acquire       NXP's television and STB business lines with NXP taking shares       in this new venture NXPTrident.
+Subsequently another STB SoC company, Entropic Communications Inc., (EntropicTrident)       acquired the STB assets from Trident Microsystems, including the       Belfast-based (former Amphion)       video codec team.
+The impact of this research and the technology includes the following3:            Since Amphion's acquisition, the same core team has produced the video         codec IP for         every STB and DTV SoC produced by each of the company's subsequent         owners.
+During         the REF period eight such products have been launched with total sales         of around fifty         million units.
+2010 - Amphion's decoder cores were incorporated into the Fusion DTV         SoC (40nm).
+This         includes the Malone multi-format multi-stream decoder which incorporates         12 different         video formats that are now needed due to increasing internet delivery of         DTV video.
+These         are also used in the Windsor multi-format (H.264, MPEG2, MPEG4) encoder         which was the         first silicon deployment of this type of encoder and aimed mainly at         Skype video chat on         TV, see FusionSoC         and FusionHDTVSoc.
+2011 - More than 100 million STB chipsets incorporating the Amphion         video decoder cores         were reported to have been shipped worldwide.
+It is estimated that one         third of all HDTV         STBs in the world currently use chipsets incorporating Amphion's video         decoder cores         (H.264, MPEG4, MPEG2).
+See STBchipsets        2011 - Amphion's H.264, MPEG2, MPEG4, AC1 were licensed by Intel and         used as the         hardware acceleration engines in Intel C2110 Media Processors &#8212; see IntelC2110 and         C2110architecture         .
+While the numbers of the chips fabricated is not available, the         royalties         now exceed $10M.
+Amphion's video decoders displaced the NXP/Phillips Tri-media         processor in the NXP         chipsets used in their STB and DTV applications due to much superior         performance in         dealing with very demanding video test streams and also because of much         lower power         dissipation and packing costs.
+In 2008 these cores were also         incorporated into the NXP         TV550 DTV SoC &#8212; the world's first single chip DTV decoder.
+This is         currently used as the         main DTV SoC by Philips, Vizio and by many others, see NXPDTV        2011-2012 Amphion's Malone decoder and Windsor encoder IP are now         included in         Entropic's range of 40nm STB SoCs aimed at the satellite, cable and IPTV         markets.
+2013 - Amphion IP has been taped out into the first of Entropic's new         range of cost effective         STB SoCs (code named Kore3) and is also being designed into the first of         a range of 28nm         based STB SoCs, the first of which will include the emerging HEVC/H.265         video codec         standards.
+This is one of the first available on the market supporting         this new codec         standard.

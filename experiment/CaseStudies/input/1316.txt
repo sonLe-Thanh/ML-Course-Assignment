@@ -1,0 +1,38 @@
+     Public outreach     From 29th June 2009 - 4th July 2009, the "Cosmic       Origins" movie was presented at the Royal Society's Summer Exhibition in       London.
+The Royal Society reported 6,000 visitors, including post- 16       students, the general public and VIPs, and estimated that around 2,500       people watched the movie [S1].
+The movie was invited back to be shown at       the Royal Society's 350th Anniversary Summer Exhibition at the       South Bank in 2010.
+A week-long viewing of the movie was also staged in       Durham in October 2009 which attracted 650 undergraduate students and       staff.
+More than 1,000 visitors a year have seen the movie in the Durham       Visualisation Laboratory and the Durham 3D lecture theatre.
+In total, more       than 10,000 viewers have seen the movie around the world.
+The 3D version       of the movie on YouTube has now attracted more than 12,770 views [S2].
+The       movie "Cosmic Origins 2" was shown at the Royal Society's Summer       Exhibition in London from 2nd July 2013 - 7th July       2013 where there were 13,040 visitors in total of whom 4,000 were       estimated to have viewed the movie [S3].
+We regularly receive requests from outreach centres, museums, schools and       universities for our movie to use in external activities, e.g., Centre for       Life, Newcastle; Adler Planetarium, Chicago; Observatoire de Paris; and       The Baraket Observatory, Israel (and most recently at the Thai National       Science and Technology Fair in September 2013 in Bangkok, attended by over       1.2 million visitors).
+In 2010 "Our Cosmic Origins" won first prize for a       computer graphics movie competition at the Stereoscopic Displays and       Applications conference, held in Silicon Valley, California, beating       competition from leading international groups including Walt Disney's 3D       version of Sleeping Beauty [S4].
+Still from &#8220;Cosmic Origins&#8221; showing Milky Way      The informal impact on viewers is overwhelmingly positive with viewers       often reporting that they have never seen such high quality 3D and that       they have a new and enhanced understanding of the underlying science.
+In       order to formally quantify this positive impact and to demonstrate       both reach and significance, an audience response experiment was devised.
+A one-group pre-test-post- test quasi-experimental procedure was designed       which measured naive viewer response by asking them to rate their       agreement on a 100 point scale with statements presented before and after       viewing the film [S5].
+These statements were as follows.
+Please rate your impression of     Q1: the viewing experience 3D films can provide     Q2: how well 3D films can convey complex visual information     Q3: how comfortable you think viewing 3D films can be     Q4: how natural the sensation produced by viewing 3D films can be.
+The experiment was undertaken first in Durham and then in York and       overseas in Twente.
+Table 1 details the audience response results at each       of the three sites.
+An improvement in audience response was found for all       questions at all sites (although the York response to Q3 was not       statistically significant) [S5].
+Table 2 summarizes the audience response       results by collapsing the data at all three sites (Durham, York and       Twente) into one result for each statement.
+All statements show       improvement in audience response and all are statistically significant       [S5].
+A sample of informal comments is as follows:     "&lt;3D&gt; sometimes gives me headaches, this didn't and was very         dazzling and informative especially the part showing the Milky Way and         Andromeda colliding."
+"One of the best 3D films I have seen for quality"          "Film seen today was noticeably more comfortable to watch than normal         3D films"     This confirms that the impact of our research has both significance and       reach, and is changing awareness of, attitudes to, and understanding of 3D       films and the experience they provide to viewers both nationally and       internationally.
+Commercial impact in the games industry     RealD is a leading global licensor of 3D technologies and currently       supplies the most widely used technology for watching 3D movies in       cinemas.
+As of September 2013, its market capitalization was around $337       million [S6].
+The original GB patent application based on our research was       licensed to RealD Inc. in the USA who funded the completion of the filing       and subsequent maintenance of the patent rights for [6].
+This was then       extended into a new variation of the method granted to RealD as US patent       US 8,300,089 B2.
+The ideas in this patent have been subsequently developed       by RealD so as to yield software for computer graphics systems in the form       of the RealD Game Developer Toolkit [S7].
+A presentation on this       development was described in Durham at the Higginson Lecture in 2010 by       the Chief Scientist at RealD.
+As is acknowledged by RealD, "RealD         believes the teachings of [Holliman's] patents provide useful         contributions to the field of stereoscopic production.
+The detailed         description in the patent application identified a technical problem         with 3D depth visualization varying on different size displays, and         proposed a specific solution to that problem.
+Recognizing that problem,         RealD has further developed this field of technology, and been granted         additional claims in this technical landscape on other solutions.
+The         patents stemming from Dr. Holliman's patent application indeed have made         a contribution to the IP base of RealD" [S8].
+Commercial impact in the movie industry     The fundamental concept in research paper [1] has been widely adopted in       the movie industry for controlling the stereography in motion pictures, as       is noted in patent US 8,300,089 B2 [S9].
+&#8226; "This approach [Holliman's] is applicable within the context         of computer graphical (CG) generation of content and is routinely used         in Hollywood content generation for scene enhancement, as discussed by         Rob Engle in Beowulf 3D: A Case Study: Proc.
+SPIE vol.
+6083"           and has been applied in several movies, as noted by a former Chief       Technical Officer of RealD in his personal blog [S10]:            &#8226; "The first place I read about the idea was in a paper by Nick           Holliman given at the SPIE Stereoscopic Displays and Applications           Conference, in which Nick suggested changing the distance between the           cameras or lenses for different parts of the scene.
+... And indeed           this technique has been used, and is being used, by stereoscopic           supervisors such as Phil McNally and Rob Engle.
+Phil used it on `Meet           the Robinsons', and Rob used it extensively on the `Beowulf'."

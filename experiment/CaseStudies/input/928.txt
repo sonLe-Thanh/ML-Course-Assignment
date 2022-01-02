@@ -1,0 +1,36 @@
+     Catalytic hydrogenation is a pivotal chemical transformation which       underpins the synthesis of numerous high-value target molecules, materials       and intermediates.
+Wills tethered catalysts &#8212; invented at Warwick and       commercialized by collaborators and competitor businesses &#8212; have been       shown to have significant commercial advantages over the Noyori system.
+A       rapidly growing number of impacts are reported here with commercial       catalyst producers, suppliers and pharmaceutical companies in several       countries.
+Commercialisation of the `tethered' catalysts by Johnson Matthey     The Wills catalyst was tested by Johnson Matthey Catalysis and Chiral       Technologies (JM CCT) and the system "emerged [...] as the only transfer       hydrogenation catalysts providing activity on the difficult substrate       under study" and offering "remarkably increased activity when compared to       previous generations of catalysts while retaining high enantioselectivity"       [10].
+A team of nine inventors worked at JM CCT on a scalable synthetic       route to the catalysts, which was later demonstrated on multi-100s gram       scale and kg-scale at Alfa Aesar; a Johnson Matthey company [10].
+A patent       was filed in 2009 [11].
+Since 2009 JM CCT &#8212; through Alfa Aesar, SigmaAldrich and Strem &#8212; has sold       four Wills tethered catalysts in the family, either individually or as a       part of a `kit' (catalogue prices &#163;368-&#163;560 per gram).
+JM CCT also uses       the material in collaborative projects with client companies worldwide       [10].
+While specific details of JM CCT customers and sales are confidential,       they state that Wills catalysts have been made (2009 &#8212; June 2013) "on       multi Kg scale for several international customers involved in the       production of pharmaceutical intermediates" [10].
+JM CCT also states that       "1 kg of catalyst may be sufficient for making tonnes of a particular       target" [10].
+The catalysts are used in large scale processes.
+Use of Wills catalysts by pharmaceutical companies in research, scale-up and production     A large number of pharmaceutical and related companies have used the       catalysts in the synthesis of target molecules, as evidenced below, with       several quoting the use of the JM CCT supplier, and all describing       specific Wills catalysts or directly citing Wills papers.
+The Wills       catalyst system is readily available and easy to apply.
+Enantioselectivity, functional group tolerance and catalyst stability are       all more favourable than in the untethered Noyori system.
+Hence, there has       been rapid take-up of the catalysts by industry.
+The examples below almost       certainly represent a small proportion of the number of actual uses,       patents, and the economic and healthcare impacts of the Warwick research.
+AstraZeneca (Sweden &amp; UK), one of the largest pharmaceutical         companies in the world, describes in a process patent the use of (S,S)-teth-TsDpen-RuCl         (a JM CCT trade name for a Wills catalyst) in the catalytic asymmetric         synthesis of a class of anti-asthmatic bronchodilator drugs [12].
+Synthon BV (Netherlands) report the use of a Wills catalyst in the key         chirality-inducing reduction step in their synthesis of the         anti-asthmatic drug montelukast (singulair), a drug which in 2010 was         the fourth most prescribed drug in the US (24.7 M).
+They conclude, "It         has now been discovered that the use of [Wills catalyst] can provide a         more suitable process for the asymmetric transfer hydrogenation         reaction" [13].
+Archimica GMBH (Germany) patented the use of a Wills tethered catalyst         in the key chirality-generating step of their synthesis of the third         generation antiepileptic drug Eslicarbazepine [14].
+Boehringer Ingelheim (Germany), one of the largest pharmaceutical         companies in the world, describe their route to certain chemokine         inhibitors via the reduction of an early-stage intermediate using a         Wills tethered catalyst [15].
+Lek Pharmaceuticals (Slovenia), part of the Sandoz group, has reported         an improved process for the preparation of intermediates on route to         non-steroidal selective estrogen receptor modulators such as         lasofoxifene using the Wills catalyst [16].
+In collaboration with Eli Lilly (USA), one of the largest         pharmaceutical companies in the world, JM CCT have developed an achiral         version of the Wills tethered catalysts and have applied this to racemic         reductions [10].
+Additional examples from a rapidly growing list further demonstrate the       international commercial reach of the Wills catalysts, in e.g.
+China       (Hunan Fangsheng Pharma, patent CN102978253A), USA (Ambit Biosciences,       patent US2012053193A1) and Italy (Zach Systems/Zambon Chemicals, patent       WO2012120086).
+Commercialisation of Wills tether catalysts by others     With Dr Reddys Ltd (DRL), the Wills group investigated the development of       a further class of tethered catalyst containing an ether linkage (2007-11)       [17].
+At this time another industrial lab (Takasago, Japan) disclosed work       on this specific variant [18] and this tethered catalyst has subsequently       been commercialised by Takasago under the trade name DENEB [19].
+A       representative of DRL notes in respect of this commercialisation,       "Takasago have clearly invested a great deal of funding in DENEB" [17].
+Further companies have developed catalysts that use the Wills tether       concept: a nitrogen atom tether system was reported by PhosPhoenix SARL       researchers (Org.
+Lett.
+2013, 15, 1614-1617); a       polymer-supported version of a Wills tethered catalysts was commercialised       by PolyAn [20].
+Continuing research at Warwick and commercial collaboration with JM           CCT     JM CCT recognized the commercial need for the use of dihydrogen as the       primary reducing agent and will develop this area with Wills through a       TSB-funded collaborative grant Development of the future generation of         catalysts for asymmetric reduction (TSB ref: 101330, Mar 2013, &#163;216k       plus &#163;108K from JM CCT), extending the range of catalysts and their       applications.
+In a further development, a new synthetic route to the Wills       catalysts and novel variants is the subject of a patent application filed       by Warwick (UK patent application 1219716.6, 02 Nov 2012;       PCT/GB2013/05286901, 01 Nov 2013); licensing negotiations are ongoing.
+The Wills catalyst class has thus had very significant impact in a       critical chemical transformation practised very frequently in a major       global industry and leading to high value products on a large scale.
+The       Warwick research also underpinned the development and commercialisation of       competitor catalysts of the same essential design.
+As noted by JM CCT,       Warwick Chemistry has, "provided modern catalysis with a truly powerful       synthetic tool".

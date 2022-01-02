@@ -1,0 +1,36 @@
+     The types of impact are described in two sections: the first relates the       general impact of SPRINT on practice, via practitioner training and       projects undertaken using the method, including a recent major project in       health care.
+The second section specifically focuses on the impact of       Wastell's research on the Integrated Children's System.
+Informing practice: SPRINT training and projects     An audit of SPRINT training was carried out in 2010.
+At that time,       approximately 1150 individuals in 150 or so agencies (&gt;300 in 2008-10)       had been trained in SPRINT by Salford City Council, in collaboration with       Wastell.
+Salford City Council were partners in the original development of       SPRINT, and used the methodology extensively on their e-Government       programme prior to 2005, and the Council has since continued its use of       SPRINT as a service improvement framework [3.4].
+The training audit       included a user survey.
+This showed a lasting positive benefit for over       60% of delegates.
+To support the ongoing development of SPRINT, a User Group was       established in 2005; User Group conferences have been held in 2008-12.
+Numerous workshops have also been held in various regions, designed and       led by Wastell, especially during his sabbatical in 2009 (e.g.
+Bristol,       London and Newcastle).
+International interest in SPRINT has come from as       far afield as India (Ministry of Communication and IT) and Brazil (Ag&#234;ncia       Metropolitana de Minas Gerais).
+SPRINT has been updated since 2008, with a       new website, an accreditation scheme and an advanced training model       developed by Wastell; the latter has been piloted in one LA (Halton).
+SPRINT has been extensively used on service design projects within the       user community and a number of case studies are documented in [3.4], on       Wastell's website [5.1] and the official SPRINT website [5.2] which attest       to the continuing impact of the methodology.
+An example is the "School's       Portal" project in Lancashire County Council aimed at reducing bureaucracy       in schools [5.3].
+The project, led by a senior manager in the Children and       Young People's Directorate (CYPD), has delivered very significant benefits       , with savings of approximately &#163;2 million estimated for the period       2008-10.
+Quoting from the case study report [5.3]:     "The project, led by Jane Beckford, followed the principles of SPRINT...       Of the 83 business processes that the teams have re-engineered, the one       that delivered the greatest return in terms of improvement was replacing       printed materials with traceable electronic documentation.
+This reduced       the overall bill from &#163;1.6m to &#163;100,000 in the first two years...
+The       process re-engineering has identified waste and freed up time for people       to do things that couldn't be done before.
+It has been about creating       capacity within the organisation to deliver more for less, and to deliver       a service that is measurably better than before."
+The most recent SPRINT project has been funded by the National Institute       for Health Research [3.2].
+This 18 month project was launched in early       2012.
+It is a collaborative project with Pennine Acute Hospitals Trust       (Manchester).
+The aim is to develop a set of tools for improving       decision-making in acute hospital settings and communication with external       agencies, Local Authority Children's Services in particular.
+Although the       project is on-going, a tool, an electronic referral form, has been       designed and is in use in the Trust where it has proved to be very       effective.
+It was recently short-listed for an award at the National       Patient Safety Awards (July, 2013), and was runner up in its category       [5.4]     Redesigning the Integrated Children's System     White and Wastell's ESRC-funded research [6] on the Integrated Children's       System attracted the attention of policy-makers, being published at the       time of the Baby Peter trial.
+The ESRC rated the project as "outstanding",       to a large extent because of its policy impact and their website lists 18       outputs [5.5].
+White (Professor of Social Work) was the Principal       Investigator on the project, focusing on social work policy and practice       elements; Wastell was the co-investigator addressing systems design issues       and implications.
+The research drew attention to the deleterious effect of       the ICS on professional practice, making errors more not less likely.
+White was invited to join the Social Work Task Force, set up in the       aftermath of the "Baby Peter" trial (Jan 2009).
+The Task Force's final       report [5.6] called for the redesign of the ICS, and an "Improvement       Board" was set up for this purpose.
+Both White and Wastell were       subsequently involved in the ICT sub-group of the Munro Review of Child       Protection, Wastell for his expertise in systems design.
+In her final       report, Munro recommended that the design of ICT systems in social care       should follow the user-centred "socio-technical" approach recommended by       the sub-group, and which SPRINT embodies: [5.7, 5.8].
+"A major challenge for local redesign is therefore to develop, with       social workers, new ICT systems to meet their case recording needs... the       analysis of requirements for ICT-based systems for child and family social       work should primarily be based on a human-centred analysis of what is       required by frontline workers."
+[5.7 p. 111]     Significant improvements to the design of the ICS have ensued, regarding       its usability in particular, and Wastell has worked with several       suppliers, most notably Corelogic.
+Wastell has been invited to present the       results of his ICS work and its policy implications to a number of       practitioner conferences, e.g.
+the Irish Association of Social Workers       "Call for Change" conference (Dublin, 1/7/11) and the 3rd Child Protection       and Welfare Social Work Conference in Cork (28/10/11), a major       practitioner event, attended by the Irish Minister for Children and Youth       affairs, Frances Fitzgerald.

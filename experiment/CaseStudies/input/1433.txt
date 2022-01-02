@@ -1,0 +1,48 @@
+     Academic Beneficiaries:       The impact of the WebCorp tools extends significantly beyond Birmingham       City University and beyond the UK, with over 15,000 searches per month       throughout the REF period from users in 170 countries (with particular       growth in China &#8212; see Fig.
+1).
+The tools allow users to carry out       quantitative analyses of the kind previously impossible on the web.
+As a       result, WebCorp has been used by researchers internationally as a source       of data and analyses for monographs, chapters, and articles in       peer-reviewed journals, on topics ranging from Historical Linguistics to       Legal Discourse and from C19 Fiction to Climate Change [1].
+To give a       specific example, the Anglo-Norman Correspondence Corpus, a       unique resource built by the RDUES team and searchable through WebCorpLSE,       was used as a data source for an article on historical pragmatics in Lingua.
+In terms of teaching, usage records and user feedback show that hands-on       sessions using WebCorp Live are included in university linguistics syllabi       at Toronto, Paris, Washington, Stanford, Oxford, Cambridge, and the Open       University, amongst other institutions.
+The software is included in the       meta-search tool at Proz.com, the world's largest community of translators       (http://www.proz.com/wts),       and is used heavily in translation work as a result.
+The WebCorp tools       were and continue to be developed iteratively in response to feedback from       users, some examples of which include:     This search tool is a very good idea.
+As a Dutch teacher of English I         use it to check, for instance, the idiomaticity of my students' work.
+(University of Nijmegen; October 2009)     I am a Linguistics graduate student at Udayana University, Bali doing         research on polysemy in Indonesian.
+I have found the WebCorp tools         beneficial for my research [...] since no Indonesian corpus like the BNC         is available (Udayana University; August 2010)     We are working on a research project dealing with gender issues,         discourse analysis and corpus linguistics.
+Thank you so much [...] and         congratulations for your fantastic work.
+(GENTEXT, University of       Valencia; April 2011)     I'm currently using WebCorp as the search tool in a project funded by         a Brazilian research agency called Fapesp.
+Because the collocations         [being studied] are new in Brazilian Portuguese, WebCorp seemed perfect         for our project.
+(Universidade Federal de S&#227;o Carlos, Brazil; June       2011) [2]        The open-source eMargin annotation tool has addressed the limitations of       the traditional approach to close reading and opened up new possibilities       for collaborative study.
+The academic benefits of eMargin are being felt       increasingly across the HE sector, with more than 800 registered users       from over 100 institutions worldwide.
+The wide range of academic uses are       evident in the names of the groups created by eMargin users, with examples       including `University of Leicester mdash; MA Editing and Textual       Criticism', `Lancaster University &#8212; LING 450 Stylistics', `Central       Methodist University &#8212; EN216 Imaginative Writing', `VU University       Amsterdam &#8212; Metaphor in Language', `University of Leicester &#8212; American       Studies Centre', `University of Huddersfield &#8212; Music, Humanities and       Media', and `University of Edinburgh &#8212; Divinity &#8212; Jesus &amp; the       Gospels'.
+Several institutions have taken maximum advantage of eMargin by       integrating the tool with their own Virtual Learning Environments (Moodle,       Blackboard, etc.)
+using its IMS-LTI connectivity [3].
+Researchers at       Lancaster University used eMargin to annotate interview transcripts in an       ESRC-funded project investigating the role of metaphor in the experience       of end-of-life care in the UK (http://ucrel.lancs.ac.uk/melc/).
+The impact of this project, to which eMargin has made a substantial       contribution, will be felt fully beyond academia in the next period.
+The RDUES team worked in collaboration with staff from the English,       Student Development, and Course Design departments at the University of       Leicester to test eMargin in a classroom environment.
+96% of their English       students found eMargin `easy' to use and 92% agreed that `reading others'       comments helped me formulate my own ideas' [4].
+The Leicester team ran a       workshop using eMargin at the 24th Annual Lilly-West Conference on         College and University Teaching in California (March 2012), and       invited Kehoe and Gee to speak at an HEA workshop in Leicester on social       annotation (July 2012).
+Kehoe was also invited to present eMargin to       postgraduate research students at a cross-disciplinary AHRC `Hidden       Collections' training event (University of Nottingham, November 2012).
+One       participant, a PhD student in early cinema at the University of Glasgow,       wrote afterwards     I think eMargin is a remarkable tool, especially for teaching, as it       makes the most of well-established practices but puts them in a context       where collaboration becomes second nature.
+[5]     The Programme Manager for e-learning at JISC summarised the experiences       of eMargin users across HE when he wrote     It's perfect for critiques of papers (especially policy papers in my       world), deep analysis of research publications, giving feedback on written       work, looking at the structure of poetry or prose... the possibilities are       endless.
+[...] What really shines through with eMargin is that it meets a       clear need, and it is designed around the practices and expectations of       learners and educators.
+[6]     Non-academic Educational Impact:       The AHRC KT Fellowship project brought direct benefits to students and       teachers at the partner school.
+The project had a major impact on the       teaching of English Language at A-level through the introduction of       concepts, analytical techniques and software tools not previously found in       pre-university study.
+For example, work on Repulsion has informed the       development of an online quiz in which students had to decide which of the       words `road' and `street' was most appropriate in a given context.
+This       reveals that, whilst we may assume `road' and `street' to be synonymous,       they actually behave in subtly different ways in text, collocating with       (`toll', `rage') and (`cred', `robbery') respectively.
+The Head of English       at the school explained how     this very powerful tool [...] proved very useful for highlighting key       areas of language change that are essential to the A2 course which       students pursue; and the activities you devised and the resource itself       helped develop student understanding to a very high degree.
+Several       students went on to incorporate elements of recent lexical language change       into their A2 coursework investigations; and we continue to have access to       the resource to develop further our research of language change as and       when we need.
+It was also highly useful to the students to work first-hand       with experts in their field.
+[7]     Teachers also found Continuing Professional Development benefits from the       work through increased awareness of the latest developments in       linguistics.
+This is especially important for teachers of English       Language, many of whom have not studied the subject as a significant       element of their own first degree.
+The RDUES team sought to maximise       future impact of the work by providing a workshop for 30 trainee teachers       in the School of Education at the University of Birmingham in 2011.
+An       AHRC peer-reviewer called RDUES' KT Fellowship bid `tremendously exciting'       and `in many ways the model of a KT project'.
+Commercial Impact:       RDUES' expertise, data resources and WebCorpLSE technology have been       exploited in commercial work with Grey London, one of the largest       communications agencies in the UK.
+Kehoe and Gee were employed as       consultants on the language used by young people in social media, as part       of a product launch by the sportswear brand Puma and Procter &amp; Gamble,       manufacturer of Puma's Sync fragrance range (May 2013).
+The `Puma Dance       Dictionary' campaign centred on a website (http://www.pumadancedictionary.com/)       translating user messages into videos of dance moves, shareable via social       media.
+This was accompanied by television advertisements across Europe.
+The Digital Producer leading the campaign described how the researchers       provided     an insight in to the language of social media that we would not have been       able to gain through other means.
+[...] The fact that the linguistic       output [...] provided was categorized allowed us to reduce costs by       identifying words with a similar meaning.
+[...] The consultancy [...]       allowed us to reflect the actual language used by our target audience more       closely.
+[8]     The resulting campaign was well received by the target market and in the       trade press, with Marketing magazine calling it `innovative' and       `a great interactive experience'.
+[9]

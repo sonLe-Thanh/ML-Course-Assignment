@@ -1,0 +1,56 @@
+     Impacts arising from the manufacture of biomedical equipment:       Cooper's academic research on second derivative spectroscopy (Cooper et       al., 1998; Myers et al., 2005) informed the development of the InspectraTM 	  StO2 near infrared spectrometers produced by Hutchinson Technology       Inc. A letter of support from Hutchinson [see corroborating source 1]       explains how: "Prof. Cooper's research underpinned the development of       these systems in two ways".
+Firstly, the letter describes how development       of the devices drew upon Cooper's original research, which showed it was       possible to make an absolute measurement of tissue deoxyhemoglobin       concentration using second derivative optical spectroscopy (Cooper et al.,       1998).
+The letter details how this research "informed the ideas that led       to [...] Hutchinson's modification of this method to measure absolute       tissue oxygen saturation".
+Secondly, the letter notes how Cooper's       research also contributed to device validation, outlining how the 2005       collaborative study (Myers et al., 2005) is "widely cited by users of the       StO2 system to justify the use of the device in physiology and medicine".
+In the REF2014 impact period, the InspectraTM StO2 series of       NIRS devices has subsequently led to extensive impact in three areas:     Commercial impact: As a global technology manufacturer, Hutchinson       employs 2,000 staff in two divisions.
+One of these, the BioMeasurement       Division, designs, manufactures and sells a single product type &#8212; the       InspectraTM StO2 NIRS system.
+Over the five-year period       2008-12, the BioMeasurement Division reported net InspectraTM       sales of $9.04M [2] [3].
+Clinical impact: The main clinical use of the current technology       has centred on measurements of the thenar (thumb) muscle saturation as an       indicator of peripheral oxygen delivery to tissue.
+Typical patient groups       include: a) Blood Loss (trauma, post-surgical gastrointestinal bleed); b)       Elderly (clinical signs confounded by medication, co-morbidities,       infection or early sepsis); and c) Critical Care Patients (non-alarming       clinical signs, difficult to diagnose, heart dysfunction).
+Two devices are       used.
+Firstly, the InSpectra&#8482; StO2 Spot Check, which is a small       portable device used to quickly and cost-effectively identify patients at       risk for circulatory distress.
+Once identified to have low StO2 (tissue       oxygen saturation), patients are then continuously monitored with the InSpectraTM         StO2 Monitor.
+These devices both received 510(k) clearance from the       US Food and Drug Administration in 2011 and 2010 respectively, enabling       them to be legally used in hospital emergency and critical care       environments as cost-effective tools to help rapidly assess tissue       perfusion and shock.
+There have been over 200 clinical studies on this       technology, many of which cite the original Essex research.
+Illustrating a       number of significant points, these studies show that, for instance, a low       oxygen saturation can be associated with worse outcomes in critically ill       patients (Lima et al., Crit Care.
+2009; 13(Suppl 5):S13).
+It is       also demonstrated that using saturation to guide patient treatment (Miner       et al., Crit Care Med.
+2010; 38(12):S86) can result in significant       economic benefits in the form of shorter hospital stays (down from 11.4 to       8.9 days).
+Applied sports impact: Hutchinson spectrometers have been applied       extensively to examine muscle oxygen biology in applied sport and exercise       science.
+A number of published articles report on such use of Hutchinson       devices.
+Most notably, these include studies on: muscle oxygenation in       handball players (Int.
+J.
+Sports Physiol.
+Perform.
+2008; 3:251-26);       sailors (Int.
+J.
+Sports Med.
+2008; 29:11-15); high-altitude       climbers (Crit Care.
+2009; 13(Suppl 5):S7); and exercise in       patients with symptomatic peripheral arterial disease (Clin Sci (Lond).
+2009; 117:405-413) and intermittent claudication (PM&amp;R. 2009;       1:932-940).
+Impacts of muscle optics on elite sports performance: The more       applied aspects of Cooper's academic research (see: Hesford et al., 2012;       2013a; 2013b), undertaken in collaboration with the British Olympic       Association (BOA), demonstrated the potential for using real time wireless       portable NIRS to enhance elite sports performance.
+It revealed asymmetry       in muscle oxygenation due to the nature of the demands of high-speed       cornering constricting blood flow to the right leg in speed skaters.
+These       research findings were then used to test the efficacy of new equipment and       nutritional supplementation strategies.
+For example, NIRS research       demonstrated that nitrate-rich beetroot juice would both enhance       performance and reduce the muscle oxygen asymmetry.
+The Head of Sports       Science and Research at the BOA [4] notes that "this research made an       outstanding contribution to the preparation of our winter sports athletes       for the Winter Olympic Games in Vancouver in 2010 and is making an impact       for the preparation of the Winter Olympic Games in Sochi in 2014...In       particular, the research work improved the understanding of the       physiological demands of speed skating and allowed the coaching team to       develop a new approach to train single limbs with specific technical       drills".
+He adds that "as a consequence of this work, there has been an       increasing demand in the British sporting community and abroad for the use       of NIRS in athletic populations".
+An example of this increasing demand is that Essex was commissioned to       assist in the training of [text removed for publication] and the British       hockey team.
+[text removed for publication] [5] explains that: "The       technique suggested that our intended training goal of improving oxygen       consumption at the level of the muscle was realised in the majority of the       players tested, helping to inform their future training direction [...]       this project illustrates that the muscle optics research of Professor       Cooper has useful application in the real world elite sporting environment       as a non invasive measure of muscle function".
+The Senior Strength and       Conditioning Coach of the Great Britain and England Hockey Team states [6]       that: "Chris Cooper's groups at the University of Essex are leading the       way in the use of NIRS and proved invaluable for GB Hockey in a recent       training study [...] the NIRS device proved to be an excellent       non-invasive assessment tool that has helped quantify performance changes       and further our knowledge around oxygen kinetics and adaptation rates in       muscle tissue following a training intervention".
+Impacts from public engagement: Significant public engagement       activity has been undertaken by Essex staff, describing their latest       research in muscle NIRS.
+As well as national and international coverage       via broadcast and print media (including international magazines such as Wired)       sports performance research has been used to engage the public directly.
+Most notably this has been at the Edinburgh International Science Festival       (EISF).
+In 2010, Cooper was involved in developing Blood Bar, a       workshop and show supported in part by a grant from EPSRC.
+Blood Bar       featured discussions of the colour of blood and its use in health and       sport monitoring, including examples of Essex optics research.
+Blood Bar       returned to the festival in 2011, 2012 and 2013 and has become one of its       most popular events.
+The workshop has also toured to Cheltenham Science       Festival (2011) and to the Abu Dhabi Science Festival (2011, 2012 and       2013).
+In 2011, Cooper organised a live scientific research study adjacent       to the Blood Bar &#8212; "Shining Light on Exercise" &#8212; looking at the effect of       age and gender on muscle oxygenation during high-intensity exercise       (Wingate Test).
+Cooper also gave public lectures in 2010 and 2011 as part       of the festival program.
+In 2012, EISF staged InMotion, a major interactive exhibition on       the science of human movement, which demonstrated the latest research in       this area.
+Cooper advised on experiments and provided optics research       equipment for an interactive demonstration on heart rate and oxygen       saturation.
+InMotion appeared at the National Museum of Scotland in 2012,       toured to Abu Dhabi later that year and then returned to be part of the       2013 EISF.
+The exhibition will go to the Glasgow Science Centre for six       months starting at Easter 2014, to mark the Commonwealth Games.
+Details of       all the public engagement activities undertaken by Cooper and others are       included in a letter of support from the Director of the Edinburgh       International Science Festival [7].
+Evaluation reports show that the Blood Bar filled to capacity each year       (1,740 children, average age 9.3); the Cheltenham (2,000 visitors) and Abu       Dhabi (2,400 visitors) events had a similar age spread.
+InMotion had       35,000 visitors at the Museum in 2012, 3,500 at the Ocean Terminal Mall       (Edinburgh) in 2013 and 5,000 in Abu Dhabi [8] [9] [10].
+In his letter,       the EISF Director, notes that; "We have had a highly productive       partnership with you and your group over the last four years which has       contributed to some of the most successful events EISF has staged" [7].

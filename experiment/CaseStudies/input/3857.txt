@@ -1,0 +1,37 @@
+     Genetic sequencing stirred worldwide attention in the 1990s with the       human genome project.
+However, work to identify and map the whole of the       human genome proved to be slow and laborious.
+Two companies that started       up to capitalise on the opportunity were Illumina (1998) and 454       Technologies (1999), who created technologies based on optical systems.
+Jonathan Rothberg, the founder of 454 Technologies, went on to establish       Ion Torrent Incorporated in 2007 with the aim of developing a system based       on arrays of sensors in an integrated circuit to eliminate the complexity       of an optical system.
+His objective was to produce a small bench-top "next       generation sequencing" system that was cheap and comparatively easy to       use.
+Today, bench-top sequencing is entirely dominated by two products:       Ion Torrent Personal Genome Machine; and MiSeq from Illumina.
+Recent data       showed the market in 2012 to be worth $1.3Bn in sales, with projected       growth to $2.7Bn by 2017.
+In 2012 Ion Torrent had captured 62% of the       market and dominates sales into diagnostic laboratories owing to its low       cost, speed and ease of use.
+Impact of Ion Torrent technology on research, development and         investment       Professor Cumming at the University of Glasgow was first contacted by       Jonathan Rothberg in 2007 specifically because he had developed the       technology for implementing large arrays of sensors on CMOS for hydrogen       sensing and demonstrated that massive scaling was possible.
+Furthermore, a       major obstacle to the development of new sequencing techniques had been       that all the sensors must lie within a tolerance band: Cumming's research       had made it possible for ISFETs to meet this tolerance criterion.
+As a       consequence of the research done at the University of Glasgow, DNA       hybridisation reactions on a microelectronic chip could be used for       sequencing to achieve the objectives of Ion Torrent.
+Ion Torrent technology is variously referred to as post-light sequencing,       semiconductor sequencing, and "the chip is the machine", reflecting the       pioneering use of microelectronic chips for DNA sequencing.
+Many of the       University of Glasgow research papers are serially cited [1-6] in at least       12 patents that are essential to the Ion Torrent technology, wherein the       research is described as "exemplary".
+In 2008 Mark Milgrew, who had, as a       research student and PDRA, worked with Cumming, was hired by Ion Torrent       to work on their chip design.
+Furthermore, Cumming was also hired under       contract as a member of the Scientific Advisory Board to advise on CMOS       array technology.
+Ion Torrent proceeded to develop the technology in       "stealth-mode" until beta releases to selected test sites were made in       late 2009.
+The introduction of this disruptive technology led to the rapid       sale of Ion Torrent to Life Technologies in August 2010 for $725M.
+Detailed disclosure of the technology was not published until 2011       [Rothberg et al, Nature, July 2011].
+Life Technologies continued to develop the technology, leading to       successive releases of their sequencing chips for use in the Ion Torrent       machine.
+The systematic increase in sensor numbers has led to chips with       close to 1Bn ISFETs (the Ion Proton system).
+The Proton is aimed at the       whole genome market whereas the Ion Torrent is targeted toward short       sequences.
+Thermo Fisher acquired Life Technologies in 2013 for $13Bn,       citing the acquisition of the Ion Torrent/Proton as one of the       motivations.
+Impact of Ion Torrent technology on detection of diseases, mutations       Ion Torrent technology, enabled by the pioneering research of Cumming and       his team at the University of Glasgow, is especially suited to reading       long sequences from small genomes or targeted sections of larger genomes.
+It is therefore excellent for diagnostic and medical research applications       and is widely used to allow confident detection of DNA mutations       responsible for specific diseases including breast, bowel, and lung       cancer.
+Searches can also be made for genetically passed on disorders       including cystic fibrosis and Duchenne muscular dystrophy.
+The Ion Torrent       Personal Genome Machine also allows research labs to look at RNA (the       intermediate stage between genes and proteins) to determine how they       change in different circumstances e.g.
+in disease.
+This develops       understanding of disease mechanisms, helping the development of new       therapies for e.g.
+myotonic dystrophy, oral and skin cancers, and       Alzheimer's.
+For all these applications, where only small amounts of       genetic data are required, Ion Torrent is about one third of the cost to       use compared to its competitors and this is a contributing factor to its       market dominance.
+Ion Torrent devices particularly lend themselves to sequencing of small       genomes, e.g.
+bacterial genomes.
+An excellent and highly publicised       example is the E. coli.
+O104:H4 outbreak in Germany in 2011 that       was responsible for 50 deaths.
+Ion Torrent sequenced the bacterium in a       day, leading to targeted drug therapy for those affected.
+A further 4000       people were diagnosed and treated successfully.
+This was discussed in a       BBC news broadcast (14 June 2011) to which Cumming contributed.

@@ -1,0 +1,32 @@
+     The University of Leicester aligned its research strengths in atmospheric       chemistry and earth observation science with emerging economic development       objectives in Europe and the East Midlands Region.
+These objectives were       advanced by promoting the use of satellite data by businesses.
+The       partnership of the University of Leicester, European Regional Development       Fund (ERDF) and East Midlands Development Agency jointly funded a business       support offer, Global Monitoring for Environment and Security Space       Technology Exchange Partnership (G-STEP).
+G-STEP is the UK's only academic-business partnership specifically set-up       to exploit GMES &amp; Copernicus space data and services.
+It provides a       shop front to exploit the research of the university in this field.
+It has       been at the forefront of heralding the emerging market opportunity in the       exploitation of satellite-derive data to create new products and services       leading to business growth and value added.
+The delivery of G-Step has been managed by University of Leicester under       the direction of Professor Paul Monks.
+The project has led to a number of       impacts.
+A) Economic Impact on the Region's Small &amp; Medium Enterprises         (SMEs)       The economic impacts have largely been in the growth of the awareness of       the opportunity provided by satellite data .
+The project has informed the       work of 500 hundred businesses and 20 Local Authorities in the UK and       internationally and has directly supported 40 East Midlands companies       through its targeted interventions.
+The development of new       products/services and the training of businesses in the use of EO and GIS       products have led to a net GVA increase within those 40 companies of &#163;950K       over 4 years.
+It has further generated &#163;2.9M in investment in the East       Midlands regional economy (A).
+Twenty University of Leicester       graduates have been employed in East Midlands companies where their skills       and knowledge in this area are put to good use.
+G-STEP has also assisted       with the creation of three new businesses, all SMEs working in the area of       remote sensing.
+B) Policy Impact       The success of G-STEP has been significant in the identification of       upstream and downstream Space technologies as a targeted growth sector by       the Leicester &amp; Leicestershire Local Economic Partnership within its       strategic economic growth plan for the region (F).
+On a national level, the Government has invested in 7 Catapult       organisations which aim to exploit areas of technology in which Britain       has a potential world leading position.
+The emerging Satellite       Applications Catapult has reviewed the G-STEP model of SME engagement and       will use the model to shape its own SME engagement process.
+In Transport Policy, G-STEP has developed two major projects which are       directly influencing local and regional policy.
+ITRAQ was an ESA-funded       collaborative programme (2011-12) which had the former Transport Research       Laboratory (TRL) as its commercial prime and three local authorities       involved in the initial system implementation (C).
+ITRAQ employed       novel space and ICT solutions to develop active traffic management systems       that balance the need to reduce congestion with the requirement to improve       air quality.
+As air quality becomes an increasingly important issue for       local authorities worldwide, the product developed as a result of research       by Monks/Leigh (UoL) in partnership with De Montfort University and       marketed by TRL, is expected to have a global market of &#163; several       millions.
+THE-ISSUE (2011-14, D) is a project for co-ordination and       exploitation of Research, Technology, Development and Innovation (RTDI) in       areas related to Traffic, Health and the Environment.
+The project is led       from G-STEP with French, Italian and Polish partners, who together support       over 100 RTD projects (42 in the East Midlands) that use some degree of       ICT, satellite-derived spatial data infrastructure (SDI) or location and       timing services from satellites for transport applications in: intelligent       transport systems; traffic management; intermodal solutions for public       transport and citizens; freight logistics; and air quality management.
+At an international level, G-STEP has been leading the NEREUS (Network of       Regions in Europe Using Space) EO/GMES working group and produced the "The       Growing Use of Space Across Europe" document that was launched at the       European parliament in October 2012 [B].
+C) Environmental Products       G-STEP has worked with Havana Energy (a British power-generating company,       E) and the Cuban Government to develop an `energy map' of several       regions in Cuba.
+The work shows the amount of biomass available for use as       a renewable energy source.
+Exploiting satellite-derived data to estimate       the amount of biomass available allows Cuba to plan for the exploitation       of its own natural resources to meet energy needs.
+An ancillary output of       the project is to identify and manage unwanted non-productive invasive       species of plant which will be replaced by sugar crops.
+The project is       funded entirely by Havana Energy.
+The Cuban Government is delivering       policy change in agriculture using this product.
+The UK potato and sugar beet industries are worth over &#163;1bn per year.
+HIVACROM (High Value Crop Monitoring, 2012-13) is a TSB-funded partnership       between G-STEP (Remedios/Monks; G) and CGI IT UK Ltd which       developed a proof of concept for a near-real-time, dynamic integrated crop       monitoring service derived from Earth Observation data which is now       commercially available.

@@ -1,0 +1,42 @@
+     This body of research has impacted on three sectors of the cultural and       creative industries:             Theatre &#8212; by establishing concepts and technologies to mix         fictional virtual worlds with physical settings and by collaborating         with artists to create a new theatrical form called Mixed Reality         Performance.
+Games &#8212; by working with major industry players to explore how         these same concepts and technologies can enable the emergence of a new         form of mainstream entertainment called Pervasive Games.
+Television &#8212; to engage TV producers and broadcasters to further         expand this impact into the world of television, enabling new modes of         audience participation.
+Impact 1 &#8212; Transforming theatre through Mixed Reality Performance     The performing arts are an essential aspect of our cultural and economic       life, contributing to our emotional wellbeing, providing a hothouse for       nurturing creative talent, and driving innovation in more mainstream       entertainment such as games and television.
+The UK is internationally       renowned for the quality and innovation of its theatre, and exports many       productions worldwide.
+During this REF period we have worked with Blast Theory to develop,       refine and tour ten theatrical productions: Can You See Me Now?
+(based on       the research in [1,2,3,6]), Uncle Roy All Around You [1,2,4,6], Day of the       Figurines [4,6], Rider Spoke [4,6], Ulrike and Eamon Compliant [4,5,6],       Flypad [4,6], A Machine to See With, I'd Hide You [6], You Get Me [6], and       The Goody Bullet [6].
+This extensive body of work has led to the       recognition of Mixed Reality Performance as an emerging theatrical form       (comprehensively described in [6]).
+In theatre, the best evidence of       impact is to be found in successful touring, critical acclaim, awards and       influencing other artists:     Touring.
+According to Blast Theory's performance records       (corroborating evidence [A]) these works have toured to 38 venues in 16       countries and been experienced by over 150,000 participants during this       REF period.
+Commissioners include prestigious international venues (Royal       Festival Hall, Royal Opera House), festivals (Edinburgh, Venice Biennale,       Sundance Film Festival, Ars Electronica, Linz Capital of Culture, TRUST:       Media City Seoul), and galleries (The Barbican, Sydney Museum of       Contemporary Art, Tate Britain, Victoria and Albert Museum, British       Library).
+We delivered a permanent installation at The Public, a new       multi-million pound arts centre in West Bromwich, while documentation of       performances has been displayed at the British Library, Stanford Library       and the Baltimore Contemporary Museum.
+Critical acclaim.
+Blast Theory's press archive [B] documents 160       articles about these works from across the globe, reflecting the cultural       significance of this work.
+In April 2009, The Guardian included our joint       work Desert Rain in its "Ten Experimental Theatre Productions that       Transformed Theatre" [C], and Matt Adams from Blast Theory was invited       onto BBC Radio 4's Start the Week in May 2013 to discuss how mixed reality       performance is transforming British theatre.
+Awards.
+Ulrike and Eamon Compliant [5,6] was nominated for the       2011 annual Doc/Fest award; You Get Me was Nominated in the NetArt       category for the 14th Annual Webby Awards; and Rider Spoke was       nominated for a Total Theatre Award at the Edinburgh Festival Fringe, in       2009 [B].
+Influencing other artists.
+This body of work has inspired a new       generation of artists to work in Mixed Reality Performance.
+With support       from The Arts Council and NESTA, the Mixed Reality Laboratory has directly       collaborated with a further seven artists during this REF period to create       over ten additional touring performances.
+Our collaborations with Plan B       involving the public capture and visualisation of GPS trails toured to       Berlin, Brussels, Leipzig, London, Sao Paulo, Hamburg, Birmingham, Athens       (USA), Kiel, Leuven, and Sunderland, being experienced by over 25,000       people [D].
+Active Ingredient produced a series of performances that drew       on personal biodata and environmental data and that toured the UK and to       Paris, Barcelona and Rio, being experienced by over 11,000 people [E].
+We       worked the performance group Urban Angel to create an `alternate reality       game' that reached over 3000 direct participants [F].
+Artworks created in       collaboration with emerging artist Theresa Caruana reached over 800       members of the public and attracted support of over &#163;10,000 from arts       funders [G].
+Finally, we have worked with Francesca Beard on the       development of Storyverse, an innovative performance project that has       recently toured to Uganda and Sudan with support from the British Council       [H].
+Impact 2 &#8212; Transforming the games industry through Pervasive Games     An innovative aspect of these performances has involved adopting the form       of computer games that bridge between online and mobile play.
+As a result,       the games industry has viewed them as prototypes of future game formats       and has collaborated with us, or directly funded us, to drive their wider       impact on the games industry.
+Indeed, we were the first to popularise the       term Pervasive Games in an article in Communications of the ACM in 2005       [2].
+Evidence for this impact on the games industry is to be found in       collaborations with major games companies and industry awards:     Funded collaborations.
+The EU Integrated Project on Pervasive       Games [I] that ran through 2008 involved us working jointly with Sony to       develop Rider Spoke [6] and with Nokia to develop Day of the Figurines       [4,6].
+In 2010, we were awarded a &#163;25,000 consultancy contract by       Microsoft to help them develop a commercial mobile training game.
+We have       since won funding for a new &#8364;10M European Integrated Project that will run       from 2013 to 2017 to work with technology and games companies to establish       a new technology platform for pervasive realty games.
+Industry awards.
+Ulrike and Eamon Compliant won the `Best Real       World Game' award at the prestigious 6th International Mobile Gaming       Awards in 2010 [J]; Rider Spoke was nominated for the 2008 European       Innovative Games Award; and Blast Theory and Nottingham were awarded the       Digital Collaboration Award at the Inaugural DiMAS (Digital Media Awards       South) in 2008 [B].
+Impact 3 &#8212; Transforming television through new forms of participation     Our research has also impacted on the television industry by inspiring       new approaches to viewer participation.
+Evidence can be found in funded       collaborations with TV companies:            Nottingham and Blast Theory were partners in the TSB-funded         Participate project that ran through 2008 in which we worked with the         BBC and British Telecom to develop platforms for mass-participation         television campaigns [J].
+We received an award from TSB to work with TV production company         Something Else to develop formats that engage online viewers with video         streamed from the city streets.
+The result was broadcast on the BBC's         online platform `The Space'.
+YouTube have since invested $40,000 into         extending this approach to enable spectators to crowdsource coverage of         public events such as marathon races.
+Benford was appointed as the BBC's first Visiting Professor in 2013 [K].
+The BBC User Experience Design group subsequently adopted our work on       trajectories [4,6] as a core concept in their Northstar project that is       focusing over 100 professional user experience designers on future `One       Service' TV experiences.
+This has led to a &#163;10K consultancy contract to       develop 5 learning trajectories as part of the BBC's new Knowledge and       Learning mobile app.

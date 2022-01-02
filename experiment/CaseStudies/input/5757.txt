@@ -1,0 +1,30 @@
+     Research undertaken at Bath, as part of an international research team       working on demand forecasting, has enabled the development of a new       commercial product, called ForecastQT&#8482;, which is of benefit       (particularly, but not exclusively) to multi-national companies (Sources 1       and 2).
+The product, which became commercially available in 2011,       significantly reduces forecasting inaccuracies and thereby creates       business savings on stock costs, decreases the amount of obsolete stock       and improves customer service.
+The financial benefits to companies are       significant.
+For example, a company using this product has reported that:       "by identifying the size and trend of forecast inaccuracies and putting a       dollar value on them, we now have the visibility and a common language to       fix them ...
+It could save us up to 2% of total revenue, amounting to &#163;50m       for the UK part of the business.
+Two simple strategies made possible by       the tool should enable the company to save at least half of this cost"       (Source 2).
+The ForecastQT&#8482; system is a relatively large-scale       installation that is designed to the requirements of individual companies       (e.g.
+different companies will incur different costs as a result of       forecast errors), rather than being an off-the-shelf product.
+For example,       the system has been used to evaluate forecasts for a US-based consumer       durables multinational with turnover of approximately $5 billion per       annum.
+It demonstrated that current forecasts displayed a significant       degree of bias and unnecessary variation and estimated that savings of at       least $16 million annually (0.03% of revenue) were feasible in an       enterprise-wide implementation of the product (Source 2).
+More generally,       based on research findings and diagnostics using the system, it is       estimated that 10% of total stock costs can be saved through eliminating       the overstocking, obsolete stock, lost sales and poor customer service       caused by inaccurate forecasts.
+In the case of one firm's $15 billion       business, company executives claimed: "we have no bigger priority than       improving forecast processes.
+We estimate that we can drive up to $200m of       avoidable costs out of the business" (Source 2).
+The Catchbull Company has identified important benefits from the       implementation of the ForecastQT&#8482; product in the companies       where it has already been used.
+The product has improved the accuracy of       demand forecasts through pinpointing the source, nature and estimated cost       of systematic forecast errors.
+Improved accuracy has delivered savings in       inventory costs, such as capital, warehousing, depreciation, insurance,       taxation, obsolescence, emergency delivery and shrinkage costs.
+The       systematic over-forecasting of demand and resource waste arising from       obsolescence of inventory has been reduced.
+ForecastQT&#8482; is a significant, innovative product arising from       research.
+Other commercial forecasting software products use `standard'       measures of forecast performance that can, at best, only act as a proxy to       the financial costs arising from these errors.
+ForecastQT&#8482;       estimates and reports these costs.
+ForecastQT&#8482; has led to changes in practice.
+The       product has provided companies with a dynamic diagnostic tool for       analysing and reporting systematic forecasting errors in an accessible       form.
+The product can adapt and respond to changing market conditions.
+ForecastQT&#8482; has encouraged changes in behaviour.
+Currently managers in many companies overreact to the most recent demand       forecasting error, or use inappropriate accuracy measures or do not       monitor accuracy at all.
+Few managers measure bias in their forecasts       (reference 3).
+This prevents them from learning about preventable problems       associated with their forecasts.
+The benefits of this research have also had a wider reach in informing       practice in companies.
+SAS, the world's largest privately held software       company (Source 3) with revenue of $2.7b (2012) and 400 offices in 50       countries, has reported that it has "proved very helpful in developing and       publicizing a range of novel methods and concepts in forecasting which       have provided valuable to the SAS forecasting team and influenced the       software and services we are able to offer our clients" (Source 4).
+SAS       has also incorporated the key findings in one of its White Papers: "What       Management must know about forecasting" (Source 5).

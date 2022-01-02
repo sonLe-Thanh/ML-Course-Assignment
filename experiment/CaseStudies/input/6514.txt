@@ -1,0 +1,32 @@
+     The number of people with disabilities in the UK is estimated as 10.8       million, and the RNIB estimates that over 2 million people in UK have       sight loss.
+The beneficiaries of Professor Petrie's and her colleagues'       research are individuals with disability, predominantly but not       exclusively visual impairment.
+The impact of this work falls into one of       three categories: protective legislation and guidelines; producers of       goods and services creating better and more accessible products; and       products put into immediate use, such as the widely used Windows .
+.
+.
+Explained guides.
+The impact reaches beyond Britain, as UK and EU       guidelines influence guidelines worldwide, and some of the resources       described below have been translated into many languages.
+1.
+Web Accessibility Standards     The 1998 SDRU research on both the nature of accessibility and the       methodologies to be used in investigating accessibility later resulted in       Helen Petrie (by then at City University) being asked to undertake the       first Formal Investigation for the Disability Rights Commission into web       accessibility.
+The resulting highly influential report, The Web:         Access and Inclusion for Disabled People (2004), in turn led to the       Equality and Human Rights Commission with the British Standards Institute       developing PAS 78: Guide to Good Practice in Commissioning Accessible       Websites (2006) and subsequently the BS 8878:2010 Web Accessibility Code       of Practice (2010).
+Both of these documents continue to be widely used to       ensure that websites and services are accessible to disabled people &#8212; in       this context, `disabled' includes hearing-impaired, mobility-restricted       and dyslexic, as well as visually impaired.
+These standards are EU- as       well as UK-implemented.
+2.
+Provision of Resources to Support HEIs, Businesses and         Organisations     Initial University of Hertfordshire work conducted with the former Anglia       Polytechnic University on tactile mapping symbols produced the most robust       research evidence yet available on their use.
+This, together with work on       tactile graphics standards, resulted in the following impacts: an       invitation to Sarah Morley Wilkins to act as consultant and contributor to       the Braille Authority of North America and the Canadian Braille Authority       in 2010 on the development of major guidelines; her acting as lead UK       consultant on EU implementation of an International Standard for Braille       on medicine packaging; and a European standard being published in the UK       by BSI as BS EN 15823:2010 Packaging.
+Braille on Packaging for Medicinal       Products (2010).
+It is now in the process of being implemented as an       International Standard, with Dr Morley advising as the UK expert.
+Morley Wilkins also led the creation of the UK Association for Accessible       Formats (UKAAF), a unified charitable company formed in 2009 and       responsible for accessible format standards.
+Heavily informed by the       SRDU's research, the association exists for the benefit of everyone with       print-disabilities.
+It has around 150 institutional and individual       members.
+3.
+Guidance for Non-Visual Information Systems     SDRU research has helped thousands of blind and visually impaired       computer users to make effective use of their PCs at home, in education       and at work.
+It has done so via a series of five internationally       successful books for users and trainers, authored by Morley Wilkins and       published 1995-2009: Windows 95 Explained, and subsequently Windows       .
+.
+.
+Explained guides for Windows 98, XP, 7 and Vista; and Window         Concepts: An Introductory Guide for Blind and Visually Disabled Users       (1995).
+These have been translated into Dutch, French, German, Hungarian,       Japanese and Russian.
+The RNIB website displays a comment from Rob       Sinclair, Director of Accessibility at Microsoft, that Morley Wilkins' Windows         7 and Vista guide is: `An invaluable resource for PC users who are       blind or visually impaired and a source of greater insight for readers       looking at the screen.'
+This sentiment is echoed by `DN', of the British       Computer Association of the Blind: `With the major changes to the       interface Microsoft has introduced into Windows 7 the need for such a       well- described guide is even more important for visually impaired       computer users.'
+Morley Wilkins also delivered train-the-trainer Window Concepts courses       for many prestigious organisations in the UK and USA, and for overseas       blindness agencies setting up courses in their own countries, among them       Switzerland, Ireland, and Eastern European nations.
+Consequently, she has       become a world leader in the training of blind computer users.
+In 2010, Sarah Morley Wilkins won the National Federation of the Blind       Grimshaw Award (2010) for her work on accessibility in a wide range of       settings, having earlier been awarded the SAP/Stevie Wonder Vision Pioneer       of the Year Award (1998) and the National Information Forum Getting the       Message Across Award (1998).

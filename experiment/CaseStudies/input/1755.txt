@@ -1,0 +1,37 @@
+     Following the patenting of the Compton group's chilli sensor technology       by Isis Innovation in early 2008, there were well over a hundred worldwide       media reports on the potential of the new technique in newspapers,       magazines, journals and online forums (including the Guardian, Nature, the       Royal Society of Chemistry News, many chemistry journals and specialist       chilli industry publications) [7].
+Interest focussed particularly on the       objectivity and precision of the measurements obtained, and on the greatly       reduced costs in contrast to the traditional method of using teams of       tasters [8, 9].
+Isis Innovation prepared the chilli sensor project for       commercialisation, and the English Provender Company (EPC) subsequently       expressed an interest in the technology for commercial purposes.
+Using       EPSRC Pathway to Impact funds, prototypes were built and a PDRA employed       to assist with field trials.
+The Compton group showed EPC staff how to use       the tester on their food samples, and followed up with several visits to       monitor progress.
+Isis licensed the technology to EPC on a non-exclusive       basis in 2012 [10].
+EPC, a company with a turnover of &#163; 63.6 M in 2012 and 323 employees       [11], produces a wide range of sauces and condiments for use in domestic       food, such as their Very Lazy range of pre-prepared ingredients, and is a       key supplier of ready meals for the UK's major food retailers.
+It makes       around 250 tonnes of cooked products (ready meals) each month containing       chilli, and approximately 200,000 jars of chilli-containing foods.
+Typically it uses up to 10 tonnes of chillies every month, which vary       dramatically in heat; there is thus a need to ensure consistency in both       raw materials and finished product.
+Extensive tests by EPC in its       production facilities confirmed that Compton's electrochemical device was       accurate and reliable and matched Scoville Test results, a key part of       validating the device and convincing the industry to use the method.
+Following this, EPC has routinely used the sensor as a quality assurance       monitor on the incoming raw ingredients.
+The company can now offer its       customers (which include Marks and Spencer, 2 Sisters Food Group and       Greencore Group) improved consistency in the products it delivers, and       this has been well received by the customers concerned [12].
+According to       the Head of Technical at EPC, `the device [chilli tester] has a         massive place in our future'.
+In February 2013 the Singapore-based company Bio-X (S) Pte.
+Ltd. obtained       an exclusive licence for the chilli sensor patent in Asia-Pacific and a       non-exclusive licence in the rest of the world (again through Isis       Innovation).
+Bio-X works with technologies and products (including       chemical sensors) targeted at the measurement of spiciness in food, and       aims to establish standardisation for heat in the food industry.
+Following       licensing, Bio-X is designing and building a new commercially available       chilli sensor, and demonstration units have been sold prior to full-scale       launch.
+Nestl&#233; have been involved in a trial in which data from Bio-X's       Chilli Tester matched with their own data from high performance liquid       chromatography &#8212; an extremely promising outcome [13, 14].
+The CEO of Bio-X       has stated the advantages to them of the chilli sensor technology: `Both         suppliers and users of chillies can be assured of the quality by using a         simple handheld device.
+Initially, we expect to see the Chilli Tester         being used by food manufacturers to determine the quality of their raw         materials and chilli farms to grade their products &#8212; but the real         potential of the Chilli Tester will be realised in giving the consumer a         number that they can use in deciding on sauces and other food products.'
+[10]     The science behind the chilli sensors has been the subject of significant       outreach activities at several UK schools.
+Since July 2012 a consortium of       seven Yorkshire schools, led by Shelley College in Huddersfield and also       involving the University of Huddersfield, has been engaged in an ongoing       collaboration and outreach programme with the Compton group, aimed at       increasing science applications from such students to research-intensive       universities.
+Students aged 14-15 have successfully used research-level       equipment based on the technology described in section 2 to investigate       capsaicin levels in fresh chillies and chilli products.
+They have also       used Compton's voltammetry techniques to investigate and quantify the       amount of ascorbic acid in supplements and soft drinks.
+The programme has       now expanded to incorporate a chilli-growing project, and selected       students have taken part in residential visits to Oxford.
+The links with       the GCSE chemistry curriculum are significant and include reinforcement of       topics such as atomic structure and bonding, ionic compounds, covalent       structures (carbon), electrolysis, redox reactions and nanoscience.
+In       practical terms the activities give students the chance to improve skills       in risk assessment, collection of data, processing and interpreting data,       and development of hypotheses and explanations.
+In addition it assists in       preparing them for aspects of the A level Chemistry syllabus, especially       in the topics identified above.
+The Director of Science at Shelley College confirms that the programme is       encouraging more students to pursue chemistry seriously: `The students         from Shelley and the other schools involved in the project could not be         more enthusiastic about taking their [chemistry] studies further.
+The         whole nation recognises the importance of producing first class         scientists for the future and this project is helping to further that         aim in a way that should not be underestimated.'
+The outreach has       been supported by funds from St John's College and the Department of       Chemistry, University of Oxford, and from the Royal Society of Chemistry       [15].
+A second schools programme started in early 2013 at Cheltenham Ladies       College in Gloucestershire, aided by a Partnership Grant from the Royal       Society.
+Again, with active support from the Compton group, students have       used the techniques described in the research section to devise their own       experiments investigating capsaicin levels within chilli plants (the       strength of dried versus fresh chillies, and which solvent will extract       capsaicin more readily).
+The College's Head of Chemistry feels the project       `has helped push science to the top of the school agenda.
+A significant         proportion of the school's cohort has become engaged with the project.'
+In addition the Cheltenham students have particularly benefited from the       high proportion of female researchers from the Compton group visiting the       school, which has `served as an excellent motivator for young female         scientists' [16].
+Over 100 students in all have so far taken part across the schools       involved, and both programmes are continuing.

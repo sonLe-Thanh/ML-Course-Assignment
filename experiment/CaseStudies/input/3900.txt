@@ -1,0 +1,32 @@
+     Beneficiaries:     (a) The pharmaceutical and biotech industries.
+(b) Patients, for multiple indications but particularly cancer.
+Benefits and impacts:     (a) The demonstration of selective protein kinase inhibition and the       invention of `kinase profiling', profoundly influencing the direction of       the Pharma industry.
+(b) The establishment of a paradigm for pre-competitive collaboration and       knowledge-transfer between the University and multiple Pharma partners.
+(c) Direct contribution to the discovery of the GSK melanoma drug       TafinlarTM     (d) Inward investment and company growth in the local Dundee Biotech       cluster.
+Impacts:     Selective kinase inhibition and `kinase profiling'     Demonstration by the University of Dundee in 1994 that kinase inhibitors     could exhibit relatively high degrees of specificity was crucial for     convincing Pharma that drugs could be designed against specific protein     kinases to regulate cellular responses.
+Moreover, the publication of methods     to determine the selectivity of protein kinases using "kinase profiling" has     been of enormous benefit to the industry.
+Since 1998 there has been an     exponential increase in kinase profiling and protein kinases have become the     most studied class of drug target (30% of drug discovery programs are     directed towards protein kinases (1)).
+Further, work by the University of     Dundee on the effect of specific kinase inhibition, together with the     research by Nick Lydon (a Dundee alumnus) and colleagues demonstrating that     Gleevec (which inhibits kinases Abl and cKit) could successfully treat     specific forms of leukaemia, was the tipping point that convinced the     pharmaceutical industry that kinases were good therapeutic targets (2).
+Kinase-focused drugs are under investigation for a wide range of cancers       and inflammatory diseases.
+Since 2001, 23 new drugs that target kinases       have been approved for clinical use (19 for cancer (3)) and in 2013 over       50 protein kinase inhibitors are undergoing Phase III clinical trials (4).
+None of these drugs could have been developed without kinase profiling.
+The fundamental importance of kinase profiling is also highlighted by the       uptake of this technology by numerous life-sciences companies, including       Invitrogen, Merck, GE Healthcare, Perkin Elmer and Promega.
+A paradigm for industry-academic collaboration and knowledge-exchange     The Division of Signal Transduction Therapy (DSTT) is one of the largest       and longest ever collaborations between the pharma industry and an       academic institute.
+Since 2008, it has carried out work with 72 academic       institutions and 36 commercial companies worldwide.
+Currently supported by       six of the world's leading pharmaceutical companies (AstraZeneca,       Boehringer Ingelheim, GlaxoSmithKline, Merck-Serono, Pfizer and Janssen       Pharmaceutica NV), the DSTT is widely cited as a model of effective       interaction between a university and the commercial sector (5).
+Companies       involved in the consortium invested &#163;10.8 million in 2008 and funding was       renewed again in 2012 with an award of &#163;14.4 million.
+Since its launch in       1998, a changing roster of companies has invested over &#163;50 million into       the effort (6).
+The DSTT has delivered pilot amounts of kinases and       phosphatases to establish assays on 1987 occasions.
+In addition, 1059       antibodies and 1080 DNA constructs have been delivered to the Pharma       companies (7).
+The DSTT also makes 236 separate kinase reagents (protein       and lipid kinases and mutants) and 81 substrate proteins available to its       partners on request and generates 150 new antibodies and 5000 new DNA       constructs per annum.
+It provides the companies with detailed information       about the selectivity of thousands of their compounds (an average of       705,500 data points per year) (7).
+The level of investment and commitment       the pharmaceutical companies have made to this consortium through       recurrent funding provides the evidence for the impact that this novel       arrangement with industry delivers.
+Furthermore, the diversification by       the MRC Unit and the DSTT into protein ubiquitylation is of considerable       interest to the Pharma partners.
+Contribution to the discovery of melanoma drug TafinlarTM     The DSTT and the technique of kinase profiling has contributed       significantly to the development and launch of new drugs by the Pharma       industry.
+As a specific example, the technology developed by the DSTT to       manufacture and assay the BRAF enzyme played a major role in underpinning       the drug development programme by GlaxoSmithKline to develop TafinlarTM       (dabrafenib) as an oral treatment for melanoma (8).
+In 2013, TafinlarTM       was authorized for use in the EU (9).
+Inward investment and company growth in the local Biotech cluster.
+Kinase profiling and reagent production have directly stimulated of the       local Dundee economy: in the mid-1990s, the MRC Protein Phosphorylation       Unit generated cell signaling reagents which US-based biotechnology       company Upstate Biotechnology Inc sold to academia and pharmaceutical       companies.
+In 1998, Upstate established a new European division in the       Technology Park in Dundee.
+This venture was very successful (employing       more than 100 people in 2013) and contributed to the acquisition of       Upstate by Serologicals Corp in 2004 for $205 million, which later became       a subsidiary of Millipore Corp and is now currently Merck KGaA.
+Royalties       accruing to Dundee University from this arrangement amount to &#163;4.2       million, with &#163;870,000 accruing during the assessment period (10).

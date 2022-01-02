@@ -1,0 +1,37 @@
+     MPI is the ubiquitous de-facto standard for programming parallel systems.
+The role of EPCC in its development and implementation is acknowledged by       independent authorities [S1, S2].
+MPI can be used to run parallel       applications on large-scale high performance computing (HPC)       infrastructures, local clusters or multi-core desktop computers.
+To be       compliant with the MPI standard, implementations must support the       operations for point-to-point and collective communications, groups and       communicators, which are the parts of MPI to which Clarke directly       contributed.
+There are now myriad MPI implementations, both open source       and commercial, many of which were produced (and many continually used)       within the REF impact window.
+For example, MVAPICH, an open source       derivative of MPICH, for use with high-performance networks, has recorded       over 182,000 downloads and over 2,070 users in 70 countries, including 765       companies [S3].
+Among these we cite IBM as an example of a leading HPC       supplier using MPI [S4].
+The `top500' is a list of the most powerful super-computers published       twice yearly [S5].
+The benchmark used to rank these systems is Linpack,       which is parallelised using MPI.
+Consequently, all top500 ranked       supercomputers run MPI by definition.
+More significantly, the Linpack       benchmark is itself chosen in large part because so many of the world's       most powerful machines run MPI- based software applications on a frequent       or continuous basis.
+EPCC serves on the HPC Advisory Council [S6], which includes over 300       hardware and software vendors, HPC centres and selected end-users,       including 3M, Bull, CDC, Dell, EPCC, Hitachi, HP, IBM, Intel, Microsoft,       NEC Corporation of America, NVIDIA, Schlumberger, SGI, STFC, and Viglen.
+In the Council's online survey of best practices, covering 45 commercial       packages, all but one uses MPI.
+These commercial packages span a range of       applications including finite element analysis (ABAQUS-Dassault Systemes,       MSC NASTRAN for MEA-MSC Software), material modelling (ABAQUS-Dassault       Systemes), computational fluid dynamics (AcuSolve-Acusim, CFX and       FLUENT-ANSYS, FLOW-3D-FLOW Science, OpenFOAM-OpenCFD Ltd, STAR-CCM+-CD-       adapco), molecular dynamics (D.E.
+Shaw Research), oil and gas reservoir       simulation (ECLIPSE- Schlumberger), and crash simulation       (LS-DYNA-Livermore Software Technology Corporation).
+Without MPI, hardware vendors would face an inefficient marketplace for       their hardware, as users would need to develop their software to use       vendor-specific infrastructure which would limit the portability of their       software, and so limit the ability of users to migrate to other hardware       platforms.
+For software vendors, MPI opens up possibilities for users to       seamlessly exploit multi-core, multi- processor, cloud or supercomputer       architectures, and so more readily access increased computing power.
+Since       MPI's inception in 1994, EPCC/PHYESTA has collaborated with hardware and       software vendors to exploit MPI to deliver these benefits within a       commercial context.
+We next present some recent examples of this, which       show how MPI has delivered economic impact.
+These are a small sample of       the ways in which MPI is used daily in commerce and industry around the       world (mostly with no PHYESTA involvement beyond its role in the       development of MPI itself).
+Cray Inc. have been a leading hardware vendor for over 40 years.
+In the       early 90s Cray contributed to the development of the MPI specification.
+EPCC and Cray together developed one of the first MPI implementations,       CRI/EPCC for the Cray T3D machine [R6].
+Cray's Manager for Exoscale       Research Europe states: "Today, a Cray MPI library is distributed with         every Cray system and is the dominant method of parallelisation used on         Cray systems.
+Cray reported total revenue of over $420 million in 2012,         so this is a large industry which is heavily reliant on MPI and the work         that EPCC contributed in this regard" [F1].
+Cray and EPCC continue       to collaborate on programming model development and research, on MPI and       other programming models, for example, enhancing MPI for exascale as part       of the FP7 funded EPiGRAM project.
+Facts in this paragraph are confirmed       in [F1].
+[text removed for publication]     In 2013, EPCC worked with Integrated Environmental Systems (IES).
+(This       was done as part of SuperComputing Scotland, a joint EPCC-Scottish       Enterprise programme [S7].)
+IES is the world's leading provider of       software and consultancy services on energy efficiency within the built       environment.
+IES's SunCast software allows architects and designers to       analyse the sun's shadows and the effects of solar gains on the thermal       performance and comfort of buildings.
+SunCast calculates the effect of the       sun's rays on every surface at every hour of a design day, a total of 448       separate calculations.
+Porting SunCast to run over Microsoft MPI allows       for the parallel processing of surfaces, one per processor.
+When a       processor has completed a surface, it notifies the controlling processor       of its results and that it is ready to be assigned another surface.
+With       MPI, SunCast can now run on a supercomputer with order-of-magnitude time       savings for analyses &#8212; from 30 days to 24 hours in one example.
+These       facts are confirmed in [F3] where IES Director, Craig Wheatley, also       comments: "Additionally, using the MPI in IES Consultancy has         increased the efficiency and therefore profitability of our own         consultancy offering and to date we have used it with 4 live projects         with an average analysis time of under 12 hours.
+These particular         projects were very large and complex and would otherwise have taken         several weeks."

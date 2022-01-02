@@ -1,0 +1,44 @@
+     Since 2008, InhibOx Ltd. has made important contributions to       computational chemistry in the field       of drug discovery.
+Taking advantage of cloud computing techniques, the       natural successor to       Screensaver Lifesaver, to increase the scale and speed of its virtual       screening methods, InhibOx       has helped to drive down costs of searching for leads in a way that has       enabled much smaller       companies to enter the field of drug development.
+InhibOx's key product is       the drug database       Scopius.
+After spin-out in 2001, Isis Innovation Ltd. (the technology transfer arm       of the University of Oxford)       exclusively licensed the software technology developed by the Richards       group to InhibOx.
+From       2004 to 2008, a new round of investment enabled InhibOx to develop initial       versions of the Scopius       database and novel software methods, informed by the lessons learned       regarding the issues of       large scale database construction obtained with Screensaver; in this       period the level of commercial       activity was minimal.
+At the start of 2008, Scopius consisted of       approximately 3 million molecules;       by the end of the assessment period it contained &gt;112 million       molecules, making it the world's       largest high-quality database of candidate compounds, either commercially       available or       synthesisable in a few steps.
+InhibOx has also produced an array of more       focused databases for       specialist applications.
+Since 2008, InhibOx has used ElectroShape, the       ultrafast technique       invented by the Richards Group which incorporates chiral shape       recognition, to further develop the       search software.
+InhibOx's CEO states that "InhibOx has developed a         comprehensive array of         computer-aided drug design technologies that helped to advance         real-world commercial drug         discovery projects.
+The contribution of Richards has been fundamental to         this achievement both         through the development of new science and his experience in bridging         the gap between basic and         applied research."
+[7]     Rather than developing a software product to sell, InhibOx has focussed       on running targeted       database searches for customers, producing lists of potential molecules       that they can use as drug       leads.
+This has had a particular impact for SMEs.
+In some fields of drug       discovery, it can cost       billions to bring a drug to market, including an estimated &#163; 400,000 for a       company to build its own       molecule database in order to find the right molecules to experiment with,       and typically &gt;&#163; 50M -100M 	  to develop compounds suitable for use in clinical trials.
+These high       costs have hindered the       pre-clinical trial phases of drug development, restricting them to very       large, well-financed       companies.
+InhibOx has enabled increased competition in early-stage drug       R&amp;D by making       compound searching more affordable for SMEs; a target search of molecules       using Scopius costs       around &#163; 20,000 - a fraction of what it would cost a small company to       build its own database.
+InhibOx's client base demonstrates the way in which it has helped to open       up early-stage       development to smaller companies: 75% of its clients are SMEs, e.g.
+DormaTarg, Mission       Therapeutics, Lauras and Cephalon, and 25% are corporates, e.g.
+Bristol       Myers Squibb and       Colgate Palmolive.
+This reflects and supports a shift in the way the       market operates; big pharma       will in some cases buy drug leads from small companies rather than develop       leads themselves.
+Lauras' Vice President for R&amp;D commented that InhibOx has helped         redesign the company's drug         targeting programmes and suggested new lines of derivatisation that have         delivered compounds         with the properties they wanted [8].
+Likewise DormaTarg worked with       InhibOx on in silico       screening, testing several of the hits predicted by InhibOx, and finding       that several showed the kind       of novel activity they were seeking [9].
+In 2010 InhibOx designed a programme to develop Tumour Necrosis Factor-&#945;       Converting Enzyme       inhibitors for inflammatory disease starting from a non-selective weak       lead molecule.
+Using       InhibOx structure-based design technology and project management       expertise, a cost-effective       semi-virtual discovery project delivered a novel compound series and       optimised a lead candidate       requiring the synthesis of only 33 compounds within a 6-month timescale.
+The series (based on       bicyclosulfonyl acid compounds) was patented by InhibOx [10], and the       programme was sold in       December 2010 to a large EU-based pharmaceutical company.
+This is an       example of InhibOx       providing the initial screening of compounds that are now being taken       forward in further research.
+More recently InhibOx has taken advantage of the experience developed in       its pioneering use of       cloud computing for large-scale molecular modelling.
+The availability of       new and powerful cloud       computing services which can be leveraged on demand has enabled InhibOx to       provide large-       scale virtual screening throughput at low cost for specific purposes.
+In       2012, the company created       a corporate virtual library for a major corporation based on their       available chemistry.
+The result       contained over 28 million drug-like molecules and was completed in just       over 4 days using cloud       computing facilities from Amazon Web Services (AWS).
+The computational       cluster constructed       would have ranked the project in the Top 500 Supercomputers, with a speed       to 240 TFlop/s.
+;       constructing this level of hardware infrastructure in-house would have       cost InhibOx around $ 200k,       so the use of AWS led to considerable cost savings.
+This work was       highlighted in a case study on       the AWS web site [11].
+Company expertise in this area is reflected in a       recent review by InhibOx       authors analysing the applications of cloud computing to molecular       modelling [12].
+InhibOx has made a conscious decision to remain focussed and concentrate       on core areas of       expertise, a strategy which has helped it to weather the upheaval in the       pharmaceutical industry       while many larger biotechs have gone out of business.
+It has maintained       steady business during       the impact period; income and investment since 2008 has totalled around &#163;       2.8M, including sales       revenue of &#163; 250,000 in 2012.
+It is an export-led company with 60% of       sales in the US, 25% in       Europe and 15% within the UK [7].
+Since 2008, it has established an       additional office in Princeton,       USA and since 2010 developed commercial partnerships with the Cambridge       Crystallographic       Data Centre, Intelligensys, COSMIC Discoveries and Molport [13].
+These       companies provide       complementary expertise in virtual screening, computer-aided drug       discovery and chemical       compound manufacture.
+The Scientific Director of Intelligensys has       outlined the benefits to them       (and to drug discovery generally) of the partnership: `We have seen,         over many years, too many         seemingly promising lead compounds fail to make it through preclinical         tests.
+This has been         expensive to the industry and is largely avoidable.
+This collaboration         is delivering the capability to         stem these losses and deliver much more cost-effective drug discovery as         a result.'
+[14].
+InhibOx's innovation, underpinned by the Richards' Group work, has led to       it being selected as a       partner on several high-profile EU projects such as a recent FP7 framework       grant worth &#8364; 1M to       InhibOx [15], and its innovation/international excellence was recognised       in May 2011 with InhibOx       being short listed for the prestigious Red Herring 100 Award &#8212; a mark of       distinction for identifying       promising new companies and entrepreneurs.
+Red Herring is a global media       company with a focus       on technology innovation [16].

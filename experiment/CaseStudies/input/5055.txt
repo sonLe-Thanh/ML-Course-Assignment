@@ -1,0 +1,26 @@
+     King's College London's k-t method for 3D imaging as described in Kozerke       et al.
+2004 was patented and subsequently licensed to Philips Healthcare       [6].
+KCL implemented the technology on Philips clinical MR systems and the       fundamental implementation became available on MR systems as a clinical       product option in 2007/08 [7,8].
+Today the method is available on 80% of       all high-end MR systems for cardiovascular imaging around the world.
+Philips says of the technology that "k-t BLAST represents a quantum leap       in the speed of cardiac MRI.
+Up to 5 times faster than other methods, k-t       BLAST substantially reduces cardiac MRI scan times, while retaining       excellent image quality.
+k-t BLAST makes cine cardiac MRI in a single       breath hold a reality, and is the fastest cine cardiac MRI in the       industry" [7].
+During an MR scan, patients need to hold their breath and often several       (2-5) repeat scans are required to obtain all data covering the target       anatomy.
+The whole breath holding process may be particularly difficult       for patients with cardiovascular disorders or other illnesses affecting       lung function.
+Using the k-t technology, significant speed-up of a range       of key MR imaging protocols has been achieved in practice, directly       impacting patient experience.
+Total scan times are reduced by four to ten       times to benefit patient comfort and compliance.
+Many dynamic MR imaging       protocols now require only a single breathhold rather than multiple       repetitions.
+As a result, the quality and consistency of data are directly       improved hence requiring fewer repeat scans and the overall exam times are       significantly reduced.
+In addition to these benefits, k-t methods have enabled some key       diagnostic protocols.
+Of particular importance has been the possibility to       acquire whole-heart 3D MR perfusion data in patients for the first time.
+Data from KCL patient studies [2] have proven the diagnostic performance       and accuracy of the method in a single centre study.
+These results have       led to on-going multi-centre trials in Germany, Switzerland and the UK to       assess the diagnostic performance of quantitative whole-heart 3D perfusion       imaging, relative to Fractional Flow Reserve measurements as the invasive       reference [9].
+Based on these clinical data there is already sufficient       evidence that 3D perfusion imaging is at least as good as single photon       emission computed tomograohy (SPECT), while reducing the cost of the exam       by at least two-fold.
+In addition the MR method does not employ ionising       radiation, hence protecting the patient from radiation risks [9] and       permitting longitudinal monitoring in a safe and non-invasive manner.
+Recognising the potential of KCL research in spatiotemporal undersampling       for cardiac perfusion imaging, GyroTools LLC, a Swiss-based company,       developed and distributed efficient image reconstruction codes that formed       the basis of the on-going multi-centre perfusion trial.
+The software was       made available to selected sites starting in 2009.
+In 2012 GyroTools LLC       and PMOD Technologies joined forces to develop and launch a clinical       perfusion solution, including kinetic modelling for quantitative       myocardial blood flow assessment, based on MR spatiotemporal data       undersampling (10a).
+Clinical results from perfusion imaging with k-t methods have led to       further work on improving stratification of patients.
+Using the method       devised it has become possible to quantify energy efficiency in the       cardiovascular system by assessing both kinetic and turbulent kinetic       energy in larger vessels [5].
+It has been demonstrated that this allows       for a quantitative assessment of the hemodynamic consequences of stenotic       heart valves.
+In conjunction with the GTFlow flow analysis package offered       by GyroTools LLC, a powerful flow imaging solution is offered (10b).

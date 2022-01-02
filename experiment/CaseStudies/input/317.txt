@@ -1,0 +1,29 @@
+     The Cardiff research team have carried out biochemical experiments and       flux control analyses on the three most important oil crops (oilseed rape,       soybean and palm oil) which together account for 75% of global edible oil       production with a combined annual market value of $135 billion (based on       2011/12 production5.1a and the mean combined market price for       the three crops5.1b).
+The research has also extended to the       high-value olive which has an annual production value of $10 billion       (based on 2011/12 production5.1a at 2011/12 prices http://www.indexmundi.com/commodities/?commodity=olive-         oil&amp;months=60), with best quality extra-virgin oils being worth       over ten times the value of bulk commodity edible oils.
+As a result,       higher yield rape and soybean crops have been developed, while one of the       world's largest producers of palm oil has adopted Cardiff's flux control       methodology in the development of new lines.
+Increasing yields of oilseed rape and soybean     The early work by Perry3.4 and colleagues in the Harwood       laboratory and the later application of flux control analysis to oilseed       rape biosynthetic pathways identified the enzyme DGAT as a primary target       for genetic manipulation in oilseed rape.
+Transgenic canola varieties with modified (up-regulated) DGAT have been       developed by the Alberta Innovates Phytola Centre; as a result of this       work a patent was filed on DGAT in 20095.2.
+This patent deals       with the use of flax diacylglycerol acyltransferase (DGAT) enzymes to       increase the production of seed oil in camelina.
+The Alberta Centre's       scientific director Randall Weselake states that the patent (source 5.2)       is founded on the early demonstration by Harwood's group that DGAT was       limiting oil production in oilseed rape5.3.
+Subsequent work by       Harwood and Weselake showed how flux control analysis could be used for       informed genetic manipulation.
+Weselake adds: "These key observations have       laid the foundation for industrial exploitation of the basic science"5.3       The first new transgenically manipulated canola lines developed by the       Phytola centre have entered field trials.
+In successive years       (2010/11-2011/12) an 8% increase in oil yield has been observed, which is       estimated to be worth an additional $190 million in Canada alone at       current market prices.
+The increased drought resistance of these lines       could also save more than 30% in lost yield during dry years.
+This approach has also been exploited by DuPont (a Fortune 100 Company)       over an extended period in close collaboration with Professor Harwood.
+The       objective of this work has been to improve commercial soybean lines;       DuPont's main crop of interest.
+DuPont have shown that over- expression of       various genes encoding DGAT enzymes in soybean seeds leads to lines with a       more than 20% increase in seed oil content.
+These genes are now pivotal to       DuPont's strategy to create a new generation of commodity soybean5.4.
+DuPont has committed to this strategy of commercialising the new soybean       strains over the next ten years, based on the company's calculation it       will add hundreds of millions of dollars to the soybean market.
+One successful product is already on the market; `Plenish' by       DuPont/Pioneer.
+Currently demand is outstripping supply whilst seed       production is increased during the first 2-3 years of release onto the       market.
+Changing industrial practice in the oil palm industry     Oil palm is produced mainly in Malaysia and Indonesia; it is the major       (and most productive) oil crop worldwide.
+As a measure of its importance,       palm oil contributed 11.3% of the total Malaysian exports in 20105.5.
+Projections by the OECD suggest that even with land restrictions and       environmental regulations taking effect, combined palm oil output sales       have the capability to expand by almost 45%, raising this product's share       of global edible oil output to 36% by 20203.7.
+Malaysia is the       world's second largest producer of palm oil and the country's palm oil       industry employs over 500,000 people5.6.
+The role of flux control analysis within the palm oil industry has now       been recognised as a significant new approach in the development of high       yield crop lines.
+The Malaysian Palm Oil Board (MPOB) approached the       Harwood laboratory to train individuals in flux control analytical       techniques and methodologies through PhDs.
+These individuals have embedded       the use of flux control within their sections (Metabolics, led by U Ramli;       Gene Expression, led by A. Manaf).
+Since their appointment in 2010 a       further dozen high quality posts have been created to exploit flux control       analysis techniques in developing transgenic oil palm strains that produce       higher yields5.6.
+The Director of the MPOB's Advanced Biotechnology and Breeding centre       states that "The benefits of these practices include more reliable and       efficient techniques and methodologies to identify potential genes for       manipulation, which in turn allow us to produce oil palm strains with       higher oil yields"5.6.
+Harwood is also supporting the       application of flux control analysis techniques to a major Palm oil       producer in Malaysia (Sime Darby) through his appointment as an       international member of the Programme Advisory Committee (PAC) for the       MPOB5.7, of which Sime Darby are also a member.
+The data from flux control analyses are not only being used by MPOB, but       also by the U.S. Department of Energy's "Center for advanced Biofuel       Systems" who are developing strains of enhanced camelina suitable for the       production of biodiesel and jet fuel.5.8

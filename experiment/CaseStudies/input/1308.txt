@@ -1,0 +1,31 @@
+     Beneficiaries: These include people with Intellectual and Physical       Disabilities (congenital and acquired), Sensory Impairments (e.g., hearing       &amp; sight), and those at risk of exclusion (e.g., migrant workers).
+Process &amp; Collaboration: The Unit has demonstrated the       benefits of interaction technologies for cognitive and physical       rehabilitation stemming from our user sensitive design methods and       evidence of the efficacy of these new technologies.
+This underpinning       research was then used to leverage substantial applied EU funding to       develop impact, disseminated via our own academic/practitioner conference       to encourage adoption and mainstreaming of open source and freely       available research results (http://itag.gamecity.org/),       has been applied in a wide range of user communities by the NTU jointly       developed social enterprise Greenhat Interactive (GHI), and has changed       practice within special educational needs schools involved in longitudinal       research.
+This involves collaboration with other universities (e.g.,       Nottingham, Athens, UPM, Stuttgart), SMEs (e.g., GHI), Regional       Authorities (e.g., Provincia di Parma), and Schools (e.g., Oak Field).
+Health Impacts: The Unit has carried out user sensitive       design and implementation of serious games for upper limb stroke       rehabilitation (with University of Nottingham).
+This new home-based       intervention was tested with patients after stroke as part of a large       scale feasibility trial.
+Results showed that those who used the       intervention approaching our recommended guidelines experienced       significant increase in their grip strength.
+One participant reported `I         was able to regain a lot of my manual dexterity in my left hand....the         knock on effect to self-esteem and general wellbeing is enormous'       (Source 3 section 5, 2011-2013).
+The user experience and involvement in research has also improved as a       result of our user sensitive design methods at the Oak Field School.
+`The         involvement of people with intellectual disabilities in research has         improved the quality of outcomes and impact on learners.'
+There has       also been impact of the families of students with disabilities `The         impact on self-esteem, expectations and hope has been immeasurable.
+(Source 1, 2008-2013).
+Impact on public policy and services: The Unit acted as       testing partner for all AEGIS prototypes.
+AEGIS has built on existing and       widely used open standards (WAI-ARIA of the W3C, etc.)
+and will further       contribute to such standards (source 7, 2011-2012).
+The Unit investigated the efficacy of interaction technologies in special       educational schools.
+This work has changed education practice.
+`Working         with the team at NTU had allowed us to bring about changes in         educational and pedagogical practices in school....influenced the         adoption of serious games in the school....work on virtual         reality, then in its infancy, is now part of everyday teaching....more         recently work on robotics is generating a lot of interest amongst         teachers and is likely to have a big impact moving forward'.
+(Source       1, 2008-2013).
+Our research in the EU GOAL and RECALL projects (source 4, 2007-2009;       source 6, 2009-2012) led to curriculum changes and adoption of training       resources (Theotokos Foundation Greece, University of Athens, Nea       Filadelfia Toy Library).
+Economic Impacts: Our research to assess the efficacy of       3rd generation access techniques in the AEGIS project contributed to the       production of accessible open source results to ensure widespread       adoption, and contributed to EU global leadership.
+These results increase       the work-ability of people with disabilities and dramatically reduce the       burden on developers to make applications and services accessible (source       7, 2011-2012).
+The EU GOAL Project built upon our research demonstrating the efficacy of       serious games for students with intellectual disabilities.
+Two       beneficiaries got a job as a direct result of using the project's games to       develop their employment skills.
+Adoption of our methodologies in user       sensitive design has led to the sustained employment of five people in GHI       (source 2, 2008-2013).
+Impacts on society, culture and creativity: Our approach to       user sensitive design has improved the ability of our user groups to make       informed decisions by engaging them in the research process (e.g., 1,542       beneficiaries involved in the design of serious games in the EU GOAL       Project).
+We have also engaged with people who can make a difference in       dissemination including with the Oak Field School's international network       of special educational schools (source 1, 2008-2013), EU SchoolNet       (keynote, 2013), and via lab talks (Rt.
+Hon.
+David Willetts MP, Sir John       Savill Chief Exec.
+of MRC, and Prof. Eric Thomas, President of       Universities UK &#8212; 2013).
+Impacts on practitioners and professional services: our       research in developing serious games to improve the employment skills of       people with disabilities has influenced the way practitioners conduct       their own vocational training (9,862 professionals in the EU GOAL project;       7,585 professionals and trainees in the EU GOET project, source 5,       2008-2010).

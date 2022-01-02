@@ -1,0 +1,27 @@
+     The Applied Optics group formed a consortium with Thorn, GEC, BNR, Davin       Optronics, STC, and ENST, to perform research and development of FLCOS       devices with DTI funding.
+The local Scottish company, ADMIT Design, used       the FLCOS demonstrator to attract interest and investment.
+ADMIT was then       bought by Central Research Laboratories of Thorn EMI, forming MicroPix       Technologies Ltd in 1998.
+They developed the FLCOS microdisplay technology       into a commercial product.
+Subsequently in 1995, in a joint venture with       PicVue Electronics a pilot production company, Microvue, was created in       Scotland, and an investment of &#163;20m was raised to build a volume       production plant in Taiwan.
+ForthDD [S1], is the successor company of MicroPix and MicroVue, founded       in 2005, and based in Dalgety Bay, Fife.
+They succeeded in bringing the       technology to production demonstrating that FLCOS microdisplays could be       made to adequate standard in wafer scale production.
+Since its formation,       and over the period of the REF impact window, it has raised in excess of       US $33M in investment including the 2011 injection of US $14M by the       leading US microdisplay company, Kopin Corporation [S2].
+ForthDD designs,       develops and manufactures single chip micro-displays used in the most       demanding segments of markets such as training and simulation systems, HD       video camera viewfinders, medical imaging systems and virtual-reality and       head-mounted displays.
+Entirely digital, providing 24-bit full colour       images, and capable of handling high-speed motion with no visible       artefacts, Forth DD's single chip imagers are especially well-matched to       the new solid state LED and laser diode light sources and provide very       high native resolution.
+In late 2012, ForthDD reaffirmed its position as       the world's leading supplier of advanced microdisplays when it released       the world's highest resolution full colour microdisplay.
+ForthDD employs       over 35 staff, many in posts requiring undergraduate and post-graduate       qualifications.
+It has annual revenues in excess of &#163;3M, with exports       accounting for 95% of its sales.
+"A key selling point for Forth         Dimension Displays is our ability to produce high quality images in         applications where competing technologies do not quite make the grade.
+Underpinning this image quality are product features enabled by         technical specifications such as high pixel aperture ratio and accurate         liquid crystal alignment, that were first established through the         PHYESTA research on backplane surface quality improvement.
+The backplane         surface quality improvement techniques described by the PHYESTA research         have been adopted by CMOS foundries, such as those from which ForthDD         obtains the substrates for its current product range."
+Director of Product Design, ForthDD [F1].
+The improvements particularly in surface planarity and pixel fill factor       achieved by PHYESTA researchers were critical enablers in FLCoS       microdisplay technology, allowing them to exceed the threshold of image       quality necessary to satisfy customers.
+The underlying manufacturing       processes were made available to ForthDD's commercial CMOS foundry       supplier, through publication and direct transfer, and thus were       incorporated into product manufacture.
+The CMOS foundry has continued to       refine these.
+Thus the manufacturability, image quality and optical       efficiency of the current product range and the newly released product       range rely upon PHYESTA's underlying research into manufacturing       techniques.
+Improvements in active device surface planarity and pixel       filling factors achieved by PHYESTA and collaborators were key       translational steps.
+With the exception of the liquid crystal materials       themselves and aspects of the drive circuitry, the entire ForthDD product       line is substantially and directly underpinned by PHYESTA innovations in       optical sciences and materials processing.
+The collaboration with ForthDD       remains active with Hossack and other staff continuing to consult and work       with them.
+PHYESTA/ERPE research [R6], was quickly incorporated into early products       and has been continually developed and refined within the company to       encompass higher colour depth, higher frame rates and higher definition.
+"Thus         every Forth Dimension Displays product, including the most recent         product range, the QXGA (2048 x 1536 pixel) microdisplay launched in         October 2012, has used and continues to use pulsed RGB LED illumination         based upon the original ERPE scheme that was published [R2, R3] as an         outcome of the foundational ERPE research."
+CEO of ForthDD [F2].

@@ -1,0 +1,59 @@
+     Route to Impact: Cardiff University's research has been       integral to overcoming major obstacles associated with high level nuclear       waste disposal.
+Approximately 250 to 300 Ktons of high level nuclear waste       is in temporary storage facilities worldwide.
+Multinational governments       and international nuclear authorities, such as the International Atomic       Energy Authority (IAEA), have long recognised the necessity for a       permanent disposal solution.
+The preferred route is deep geological       disposal.
+Not only does this absolve the necessity for constant       supervision and maintenance, and reduce security risks associated with       ground level storage, but it prohibits future generations from inheriting       a nuclear waste legacy.
+However, whilst theoretically appropriate, the       technical complexities of achieving this have meant the aim remained       unrealised.
+The enormous timescale over which high level nuclear waste is       radioactive and deadly to all living organisms (in excess of 100,000       years) poses a huge challenge to governments and international nuclear       authorities to ensure no nuclear releases reach surface level, resulting       in catastrophic health and environmental threats.
+The computerised model       developed at the Geoenvironmental Research Centre (GRC) provides       innovative predictions of the behaviour and long term durability of       engineered clay barriers (consisting of bentonite) under specific       repository conditions.
+The research was funded by the EC under their       EURATOM programme, a programme that is part- funded by the EC itself, and       part-funded by European Nuclear Waste Disposal Authorities [5.1].
+The work       performed was therefore immediately "captured" by the Waste Disposal       Authorities (for example, in the UK, Sweden, Finland, Spain, Canada and       Germany) and could be deployed in various aspects of the performance       assessment of geological repositories [5.2].
+The findings increased       international governments' confidence in the ability to accurately model       and forecast the behaviour of engineered clay barriers.
+Subsequently,       several countries issued licences and have begun the process of       constructing nuclear waste repositories.
+Impact on Engineering Design: Given their inherent       complexity, application of the newly developed THM/THCM models to       repository design can only be achieved via the use of numerical methods of       analysis.
+In the GRC's case, this yielded the computer program called       COMPASS, which was developed in-house.
+This program can be used to       simulate the behaviour of a nuclear waste repository over a period of many       years.
+The main design criteria that can be considered via the use of the       software are in relation to:            The temperature effects and the borehole spacings required, to ensure         that the maximum specified temperatures are not exceeded.
+The hydraulic effects and the total time for re-saturation of the         repository; this design parameter marks the end phase of the initial         life of a repository.
+The mechanical effects, the swelling pressures and displacements that         are generated as a result of moisture ingress.
+The chemical effects, a repository's response due to changes in the         chemical composition of the pore water.
+All of the above are key features in the overall design of a         repository.
+They are principal elements of a safety assessment and,         consequently, are fundamental factors in a Licence Application.
+The         software has been accessed and applied (as aforementioned, via the         EURATOM programme) by International Nuclear Waste Disposal Authorities.
+Work with SKB, the Swedish Nuclear Fuel and Waste Management Company,         for example, was conducted at a specially built Underground Research         Laboratory (URL), the Aspoe Rock Laboratory, on the island of Aspoe (http://www.skb.se/default____24417.aspx).
+During the REF period, work conducted at the URL was used to inform         decisions regarding the site selection for a final repository.
+The         search had been ongoing for 20 years but was narrowed to two options,         Forsmark and Oskarshamn.
+The results of the research provided new         insights into the behaviour of the bentonite buffer under a range of         conditions, as described above, and determined the suitability of the         rock at each site.
+Subsequently, in June 2009, SKB made the decision to         locate the repository at Forsmark.
+This heralded a landmark event in the         process of achieving a fully operational nuclear waste repository.
+Based         on the site selection, an application to construct the repository was         submitted to the Swedish Radiation Safety Authority and the         environmental court in March 2011.
+The Swedish repository at Forsmark is         expected to be filled by 2025 [5.3].
+The greatest progress has been made in Finland, where the repository         design is similar to the Swedish concept.
+Posiva, the Finish nuclear         waste management company (also part of the EURATOM research programmes),         has significantly benefited from Cardiff's unique research.
+Excavation         and design work at the selected site (Olkiluoto) began in 2004 (http://www.posiva.fi/en/research_development/onkalo).
+Between 2008-2013, excavation of the access tunnel to the repository         (named Onkalo) was completed.
+In February 2012 this reached the target         depth of 455m below ground.
+In December 2012 the final design plans were         also completed [5.4].
+These would not have been possible without Cardiff         University's research, which is cited in official reports describing the         technology employed at Onkalo [5.5].
+Posiva have publicly stated that `the           long-term safety of final disposal is, above all, based on carefully           studied, complimentary engineered barriers' [5.6].
+The design         plans formed the basis of an application for a full construction         licence, which was submitted to the Radiation and Nuclear Authority of         Finland (STUK) in December 2012.
+In April 2013, STUK reported a positive         response to initial reviews of the licence application.
+Activity at         Onkalo is now focused on structural work; the final disposal of nuclear         waste at the repository is scheduled to start in 2020 [5.7].
+Global nuclear authorities support for Onkalo is illustrated by         endorsement from the IAEA In August 2012 the Director, General Yukiya         Amanom, visited Onkalo in a two day official visit.
+He stated that `This           development is good news for Finland and for the world, since           Finland's success as a forerunner in mastering this significant           engineering challenge will offer alternatives for other nations           seeking to sustainably and responsibly manage spent fuel.'
+[5.8]       Impact on Public Policy and Services: The disposal of         high level nuclear waste is a worldwide problem and the GRC's research         has been taken up on a global scale.
+In particular, the GRC has been         designated by the IAEA as a "Centre of Excellence/Expertise" [5.9].
+In         this context, the GRC is a founder member of the Agency's Underground         Research Facilities Network (URF), dedicated to "building confidence           in the geological disposal of high level nuclear waste".
+The role         of the network is to deliver training and demonstration activities         related to high level nuclear waste.
+Training courses and coordinated         research programmes are pursued, with the overall objective of         transferring good practice from countries with developed programmes,         such as in Scandinavia, to those countries that are just beginning to         embark on the difficult task of implementing a geological disposal         option.
+Virtually all of the countries with a civil nuclear programme         take part.
+The GRC has participated extensively in these programmes, via         the delivery of training courses and execution of research programmes.
+It is claimed that the impact of the work is significant, particularly         in relation to the important issue of capacity building.
+It is         anticipated that this will help "build confidence" in the geological         disposal programme worldwide.
+Since 2007 the GRC's Director (Prof H R         Thomas) has served as Chair to the network and in this capacity has also         been instrumental in shaping and guiding policy developments in this         area.
+Economic Impact: &#163;200M investment has been made from         2008-2013, by SKB, as a direct consequence of the research.
+The final         cost of Onkalo is expected to be &#8364;3.3B.
+However this sum is markedly         less than the expense of continuing storage of high level nuclear waste         (at Sellafield in the UK, for example, this amounts to &#163;1.6B per year,         in addition to the cost of cleanup and maintenance work, which is priced         at &#163;67.5B - http://www.nao.org.uk/report/managing-risk-           reduction-at-sellafield/).
+The activities that the research has         enabled, highlighted by the scale of investment, are a major step         towards a permanent long-term solution to high level nuclear waste         disposal.
+[5.10]       In summary, the research conducted at the GRC has orchestrated a major         development in nuclear waste disposal.
+The resulting impact has had both         global reach and significance.

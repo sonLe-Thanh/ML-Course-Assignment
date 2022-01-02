@@ -1,0 +1,80 @@
+     The Greenfoot system and research has a direct impact in several       different ways:            During the REF period, it has benefited more than a million school         students in 49+ countries directly ([I1], [I2], all references to         Section 5).
+It benefits thousands of teachers who use it to teach programming         differently ([S2],[S3]).
+It has influenced national curriculum design in the UK ([S1]).
+Impact for students.
+Students benefit by being able to       achieve more tangible results more quickly, leading to increased motivation         and satisfaction, as well as better understanding of programming         concepts.
+Before using Greenfoot, many students were taught using       text-based development environments designed mainly for professional       programmers.
+These environments are difficult to use, force learners       through large amounts of detail before achieving the first motivating       impact, and possible outputs in reach of early learners are a long way off       of meeting expectations of students who have grown up with interactive       graphical software systems.
+Greenfoot removes all of these problems.
+Many teachers have long been aware of this problem and have struggled to       teach programming in a more engaging manner.
+This has been especially       difficult if the goal was to teach modern concepts of software       engineering, usually with an object oriented language.
+Greenfoot helps         teachers by giving them a tool to meet their goals &#8212; teaching       software development principles and object orientation in a modern,       graphical context.
+The impact is aided by the availability of a       Greenfoot-based textbook: Introduction to Programming with Greenfoot &#8212; Object-Oriented Programming in Java with Games and Simulations.
+Michael K&#246;lling.
+Pearson Education, 2009.
+ISBN-13: 978-0-13-603753-8.
+More       than 16,000 copies of the book have been sold, providing further evidence       of the popularity of this approach.
+User engagement.
+User engagement in the research results       and the resulting software has been achieved via a number of different       channels.
+These include keynote talks at educational conferences       in several different countries, research talks and invited talks at       conferences, and a large number of teacher and student workshops.
+Publishing the software itself is not sufficient to create lasting impact;       it was highly effective to go out to conferences where we could interact       with stakeholders and present the system to them directly.
+Over the last       three years, we have reached more than 300 teachers directly in       face-to-face workshops.
+A Greenfoot channel on YouTube (http://www.youtube.com/user/18km)       with instructional videos has received more than 290,000 views over two       years.
+Computing at School (CAS).
+Our research group works with       the Computing At School (CAS) group (www.computingatschool.org.uk),       which aims to improve the provision of computer science in schools in the       UK.
+Greenfoot has become one of the frequently used tools in the group's       activities, including teacher training workshops.
+In a letter [S1]       supporting this case study, Simon Humphreys, BCS and coordinator of CAS,       wrote: "The pedagogy that underpins Greenfoot is exemplary.
+It has an         active, supportive, worldwide community, tutorials and teaching plans.
+It has a special place with pupils at KS4 and A Level and CAS are         privileged to be able to work with the Greenfoot team in supporting         classroom practitioners."
+Feedback.
+The impact for students and the effectiveness of       the dissemination is evidenced by frequent unsolicited feedback from       teachers.
+Following are two typical quotes from instructors:     "By the way, I gave my Year 12/13s a choice of what to do their         projects in, and 16 out of 18 chose Greenfoot.
+The progress they've made         so far compared to this time last year on VB or php/Javascript is         amazing.
+I see a whole pile of A's appearing in due course!"
+- Andrew Tringham, Teacher, Archbishop Tenison's School, Croydon,         (see statement [S2])     "On Monday they could stay at home for me to see and exercise your         `Joy of Code' movies.
+With the notion that they would receive an         assignment on Tuesday.
+I'm always very suspicious, and I didn't thought         that they would go seriously through the material.
+Monday at midnight, I         gave the assignment free.
+Normally in the morning when I enter a         classroom, IT-students are still half sleeping or reading the online         journal, or checking their Facebook,...
+Yesterday, it was amazing.
+The         room was fully occupied before 9 o'clock with 80 students!
+There was an         enormous rumor.
+I saw drawings, heard discussions, saw already things         pass on a colored screens.
+So, they needed no introduction, yet there         were already fully occupied with their scenario.
+The whole day long they         were working in pairs on their scenario and asked many questions.
+Some         students went on Monday through all your 33 movies of the Joy of Code.
+Incredible!
+For me, one of the big advantages of Greenfoot is, that the         students `see' immediately result.
+And therefore they are urged to get         further on."
+- Chantal Teerlinck HUB-Hogeschool Universiteit Brussel (see statement         [S3])     James Gosling, the creator of Java, also commented on Greenfoot after       seeing his daughter use it:       "Greenfoot makes it fun to learn programming.
+It starts out with very         logo-ish exercises (moving a wombat around via method calls to find         food), then automating the characters so that they can find their own         food, and progressing to a variety of video games.
+The scenarios really         absorb kids."
+(Full statement available.)
+(see statement [S4])     The direct feedback from teachers shows that the goal of increasing       motivation and engagement in learners is being reached, and that the       Greenfoot system has indeed made a significant contribution in causing       change in students' attitudes.
+The value as seen by the wider community is       also evidenced by a significant number of volunteer contributions to         the project, often in the form of translations.
+The Greenfoot user       interface has been translated into 12 languages (including Chinese,       Portuguese, German and Spanish), and the Greenfoot tutorials have been       translated into seven languages.
+These translations were produced by       volunteers who invested significant amounts of time to make these       contributions.
+Scaling up.
+For international support and distribution and       the scaling up of face-to-face support, we have established 8 Greenfoot           Hubs in different parts of the world (concentrating mainly on       the US, following our user distribution, see http://www.greenfoot.org/hubs/).
+These Hubs are run by volunteer academics from other institutions in close       coordination with us, and they provide local Greenfoot training and       support, using resources developed and shared by all hubs.
+In 2012, the       hubs have delivered 12 teacher training workshops.
+To establish a self-sustaining community we developed two supporting       websites &#8212; one for end users (students) and one for teachers.
+The user       site provides direct help and discussion about Greenfoot programming and       the teacher site provides teaching material and advice on educational       topics.
+The Greenfoot user site currently has approximately         4500 users subscribed and receives more than 47,000 site visits       (210,000 page views) per month.
+It contains more than 2,500 programmed       Greenfoot examples, uploaded by approximately 1,900 distinct users, and an       active discussion section.
+The Greenfoot teacher site, the       Greenroom, currently has more than 2,400 teachers signed up, who       uploaded more than 120 resources and are engaged in discussion.
+We       estimate that through these teachers alone we reach more than 30,000       students.
+Downloads.
+The impact is plainly evidenced by download       numbers.
+The Greenfoot software is currently downloaded more than         350,000 times per year, with annual downloads increasing.
+National and international reach.
+Most of the impact is       international, with adoption spread through more than 49 countries (see       section 5, reference 2).
+Adoption is strongest in North America and       western Europe.
+Nationally, Greenfoot is now also highly recommended by Computing         At Schools, who are involved with the development of UK curricula       (see reference 9, below) and Greenfoot is referenced in national         curriculum documents as one of the useful tools to enable the       teaching of programming for that age group.
+Through this, the research has       an impact in changing the way computing is presented in UK schools.
+In conclusion, we note that Alison J. Derbenwick Miller, Vice President       of Oracle Academy confirms the impact and reach of Greenfoot in a       statement [S5]: "Our continued philanthropic investment in the project         reflect our recognition of the impact and importance of Greenfoot to         support the learning of computer science and programming using [Java].
+Greenfoot makes initial programming more easily accessible and has         helped millions of beginning programmers to become engaged with software         development.
+... Oracle Academy has chosen to include Greenfoot in its         Java Fundamentals course curriculum used by K-12 teachers globally.
+...         During the 2013 academic year Oracle Academy delivered introduction to         Computer Science training to approx.
+6,000 teachers worldwide.
+The         Greenfoot environment is an important part of our Java curriculum, and         we are proud to continue to support its development at the University of         Kent."

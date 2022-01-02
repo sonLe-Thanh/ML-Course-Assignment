@@ -1,0 +1,30 @@
+     Both ATX Software and Hunter Systems face challenges of maintaining and       reengineering       substantial applications, either as part of bespoke client project or to       update their own products.
+Accessing research and expertise at Leicester has helped them to             Inform company strategies toward developing products and/or         processes        Improve the skills and knowledge of their staff to enable them         to perform these         developments        Innovate products and processes, making them more effective and         opening up new         markets          ATX Software specialises in architectural modernisation and       migration of software systems to       event-based and service-oriented architectures.
+The company, established       in 1996, with       headquarters in Lisbon maintains subsidiaries in Spain and Brazil.
+ATX has       a wide portfolio of       clients in the private sector, finance and government, including [text       removed for publication].
+Key       technogy partners include MS, HP and IBM.
+Turnover in 2012 was [text       removed for publication].
+In a go-to-market strategy report produced in September 2009 by IT       research company Gartner,       the partnership between ATX and UoL was identified as one of its key       strengths.
+The collaboration helped to inform company strategy in order to            adopt event-based and service-oriented architectures as target         platforms for their client's         systems.
+reinforce more flexible (higher level) reengineering/migration         processes and supporting         tools based on the approach in 2.
+The cooperation significantly improved skills and knowledge       through training by UoA researchers.
+Two ATX staff went on to earn PhDs.
+ATX HR manager Fernando Ramalho said:       "The partnership       provided a valuable source of information and learning... enhancing the       company's ability in terms       of highly qualified human resources.''
+This has enabled "difficult issues       to be addressed collectively       and from different viewpoints, leading to innovation as a result of the       partnership's work'', as       demonstrated by the following examples.
+Innovation in products and processes was helped as follows.
+The approach adopted for ATX's reengineering process is based on         pattern-matching and         transformation rules, developed and accumulated through past projects.
+Scientific         evaluation [1] confirming superior scalability and effectiveness of the         approach has         contributed to the decision to move the core tool set from a code-based         to a more high-         level platform.
+This has been (and is being) applied in tools automating         migration from         Delphi to .NET, Powerbuilder to .NET or Java.
+Two products derived from technical contributions in [1,3] are a port         of CARE (ATX's main         program analysis tool) to Eclipse in [D] and contributions to PL\SQL         extraction from Oracle         Forms to database stored procedures, using pattern matching developed in         [C, D].
+These         were used in significant client projects, such as a mid-sized migration         from Oracle Forms to         Microsoft .NET (USA) and a large migration from Oracle Forms to Java         (Brazil).
+These innovations led to increased competiveness, enhancing the company's       profile as capable of       resolving complex migration problems across a variety of platforms and       helped securing new       clients and business in Brazil and USA.
+The collaboration opened doors to partnerships and sources of expertise,       such as academic and       business partners in the Sensoria project [D].
+Mr Ramalho said: "These       relationships and       connections with several partners were seen to be valuable for a number of       reasons, not least       because it brought people together with organisations they previously had       not worked with and       would never had a reason to meet with.''
+Hunter Systems are originally a reseller of CRM software who       started to market an in-house asset       management solution to their clients in services and manufacturing.
+At       their initiation, this desktop-       based solution had to be replaced by a web-based one in order to remain       effective in situations       where the workforce is increasingly mobile and distributed.
+Through consulting with the UoA, the company was able to adopt the       methodology defined in [1,3]       and apply it to define target architecture and platforms for their       products.
+By conducting feasibility       studies, training a developer on a reduced version of the product, and       supporting a graduate intern       at the company, the UoA has enabled them to execute their migration and       expand the company's       knowledge- and skills base.
+The product is undergoing testing within the company and is being       extended by a CRM integration       to meet further client demands.
+Early indications are that 80% of clients       want to switch to the web-       based product.
+Especially through cloud-based hosting, the solution is       also attractive to small       companies.
+Based on these predictions by CEO N Hunter, significant       resources are being       committed to finalise the development and testing of the product.

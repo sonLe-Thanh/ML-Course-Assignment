@@ -1,0 +1,42 @@
+     The commercial space sector is highly internationalised; within Europe,       it is dominated by multinational prime contractors (including EADS       Astrium, which has a major UK presence in Astrium UK).
+The current annual       contract value of satellite and support system builds in the UK is around       &#163;1 billion.
+Around half of the European upstream space sector serves the       production (under contract) of world-class science satellites devoted to       space science and earth observation.
+These contracts, worth hundreds of       millions of pounds, provide revenue and employment but also, more       importantly, underpin the growth of the civil space sector       (telecommunications, GPS etc.)
+through transfer of technology and       personnel.
+This symbiotic relationship has been widely recognised; for       example, in the UK Space Innovation and Growth Strategy (IGS) [A] and the       UK Space Agency Civil Space Strategy [B].
+The IGS was published in 2010       and is the outcome of a major UK government initiative.
+It provides a       framework for space sector government support and investment up to 2030,       and recognises the strength of the UK space sector.
+Amongst other things,       it defines an approach that will see the UK's share of the world space       market increase to 10% by 2020, and it anticipates the creation of 100,000       jobs [A].
+MSSL's role in the space sector has included the provision, in a       competitive marketplace, of essential skills and technologies as part of       major satellite procurements, thereby enabling growth.
+UCL researcher Alan Smith is a member of the National Space Technology       Steering Group (NSTSG), which was set up in 2010 after publication of the       IGS.
+In 2011, the NSTSG created technology roadmaps (updated in 2012) [C]       that have become the basis for national investment in space technology.
+Smith also contributed to the 2013 `Restack' of the IGS, particularly in       the area of bilateral programmes and their value to the UK economy, and       presented on this topic to the UK community at the UK Space Conference in       Glasgow in July 2013.
+These contributions and presentations are       underpinned by a profound understanding of the issues associated with the       development of space hardware and the link between space science and its       enabling technology, which has been built up whilst conducting the       research described in section 2.
+Research conducted within MSSL has also had an impact on the space       companies European Astrium Aerospace and Canadian Routes AstroEngineering,       which hold contracts with space agencies &#8212; including the European Space       Agency (ESA) &#8212; for the supply and testing of equipment that will form part       of satellites or space probes.
+Astrium and Routes in turn contracted out       this work to MSSL, whose extensive prior research into the development and       testing of space equipment enabled it to successfully meet the       requirements of the space companies.
+MSSL's contribution therefore enabled       Astrium and Routes to fulfil their contracts to the space agencies.
+The research programmes and insights described in section 2 gave MSSL the       background, expertise and track record to win the contracts with Astrium       and Routes through competitive tender, evidencing the value of the       underpinning research to these companies.
+The scientific background of       MSSL staff also allows the response to the customer's requirements to be       interpreted to the best advantage of the customer; issues can be       identified in the specifications that would not necessarily be noted by       another contractor without MSSL's scientific and space engineering       heritage.
+Astrium: Impacts on Astrium involved three contracts within the       REF impact period to supply or test equipment for two scheduled space       missions: the NASA/ESA James Webb Space Telescope (JWST, the replacement       for the Hubble Space Telescope), due to be launched in 2018; and Gaia       (ESA's next generation astrometry mission to map the Galaxy), due to be       launched in late 2013.
+The JWST work involved the building of equipment for both on-board       calibration (the Calibration Assembly, or CAA) and ground testing       (Calibration Light Source and Optical Alignment equipment) of the       telescope's NIRSpec instrument, which is being built by the German arm of       Astrium.
+Two CAA units were built for Astrium by MSSL, where previous       extensive research into space instrument development (including       development of NIRSpec itself) allowed staff to understand fully the       scientific requirements and develop the instruments successfully.
+The CAA       is an example of an instrument for which MSSL was able to provide industry       with specialist expertise in inflight, stable, optical calibration that       was not otherwise available.
+UCL won the contract in part because of this       expertise, which significantly reduced the risk to Astrium of late or       inferior delivery of the instrument.
+Astrium took delivery of the       equipment in February 2010, enabling them to then successfully deliver two       flight-capable CAA units to ESA [D].
+The Calibration Light Source and Optical Alignment equipment are two       separate instruments (a calibrated infra-red light source and a       computer-controlled optical alignment and measurement system) used for       testing NIRSpec before launch.
+They were also built by MSSL, underpinned       by previous research on the development of optical systems and test       facilities (e.g.
+[1], [2]) for space missions as well as research on       NIRSpec.
+Again, UCL research results (including novel calibration       technologies) were vital for Astrium to be able to provide ESA with       successful working equipment, as Astrium had developed complex equipment       requirements that other industrial bidders were not able to meet.
+Astrium       took delivery of the equipment in December 2009 [D].
+These two UCL       contracts on NIRSpec [text removed for publication] played a role in       allowing Astrium to meet the terms of its contract with ESA [text removed       for publication] [D].
+The Gaia work involved the testing and integration of over 100 CCDs and       their associated electronics for the Gaia mission, which is being built by       the French arm of Astrium.
+This work was underpinned by previous MSSL       research involving both the development of the Gaia instrument concept [4]       and the integration and testing of CCD-based camera systems (e.g.
+for the       XMM [1], Integral and Hinode [2] missions).
+The extensive research and       experience of MSSL in this area resulted in properly tested CCD units       being delivered to ESA by Astrium, and provided Astrium with validated       test results that were acceptable to ESA [F].
+Astrium took delivery of the       final tested units in May 2011, helping it to meet the terms of its       contract with ESA [F], which had a value of &#8364;317 million [G].
+[text       removed for publication]     Routes AstroEngineering: Impact on the Canadian Routes space       company involved one contract within the REF impact period with the Indian       government to supply equipment for the Indian Astrosat mission, due to be       launched in 2014.
+MSSL built the high voltage power supplies for       Astrosat's UV telescope, equipment that will support the image       intensifiers that detect UV radiation from astronomical objects under       study; Routes took delivery of this equipment in September 2009 [H].
+MSSL's previous research on the development of high voltage power supplies       (e.g.
+[1], [5]) ensured that Routes was able to deliver appropriate       equipment that met the requirements set by the Indian government.
+If MSSL       had not conducted this underpinning research into the development of novel       power supplies and therefore become one of the few organisations with       design heritage from previous projects, Routes would likely have had to       initiate a high-risk (due to reduced expertise) development at another       organisation [H].
+The value of the UCL contract was &#163;417,000 [I].

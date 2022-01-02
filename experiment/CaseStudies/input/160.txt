@@ -1,0 +1,21 @@
+     By developing mathematical models of high-speed liquid impacts in a wide       variety of violent-flow applications, the research described above has       impact in the area of risk assessment for shipping.
+The adopted approach       to research ensures that there are clearly identified routes to       exploitation for the mathematical modelling developed within UEA and that       the research has a positive impact on industry.
+Risk Assessment for Shipping The importance of being able       to assess the risk of wave-inflicted damage to large ships was motivated       by the findings of the official report into the loss of the huge container       ship MSC Napoli in the English Channel on 18th January 2007.
+This       large (62,000 tons) and fairly modern (built 1991) ship was lost due to       excessive wave bending moments experienced by the ship in heavy seas.
+Korobkin's research is utilised by service companies specialising in       quality, health &amp; safety and environment management for ships and       shipping.
+These companies are also responsible for the certification       (underwriting / insuring) of every ship for every route and cargo.
+In the       UK this is Lloyd's Register, and in France it is Bureau         Veritas.
+At any one time more than 10000 ships are classed       (underwritten / insured) by Bureau Veritas and all are subject to       periodical class and statutory surveys.
+In order to successfully certify a ship, the companies need to be able to       assess all risk factors.
+Within this overall risk assessment, our research       is utilised to understand the effect of, and risks associated with,       differing sea conditions.
+The tools and methodologies developed at UEA       have been used to improve the guidelines used by Bureau Veritas       for the assessment of hydro-elastic interactions in severe sea conditions.
+In addition, our research has improved the industrial computational tools       for safety and risk estimates.
+The importance of the UEA research is clear from the supporting letter       from Bureau Veritas which states:     "The results of the cooperation showed to be very useful to our company       and the tools and methodologies which were developed, are used on a daily       basis in practice."
+"... our Guidelines for assessment of hydro-elastic interactions during       impacts were updated thanks to the knowledge developed with these       cooperations.
+Due to the extreme complexity of the physical modelling       cooperation with Prof. Korobkin is still continuing and even increasing in       the recent years".
+(corroborating source [A])     Industrial Recognition     The contribution to this field by Korobkin is internationally recognised       by the Society of Naval Architects and Marine Engineers.
+In 2009, he was       awarded the prestigious Weinblum Memorial Lectureship, the highest award       in ship hydrodynamics, with the following citation:     "In recognition of the many outstanding contributions to the field of       ship hydrodynamics which you have made in the course of a very successful       career in education and scientific research, it is our privilege to invite       you to present the 32nd Weinblum Memorial Lecture.
+The       Lectureship was established to honour individuals who exemplify the spirit       and ideals of Georg P. Weinblum.
+The lecturer is chosen annually by a       selection committee consisting of the Director of the Institute fur       Schiffbau der Universitat Hamburg, the Chairman of the Fachausschuss       Schiffshydrodynamik der Schiffbautechnischen Gesellschaft, the Chairman of       the Journal of Ship Research Committee and the Analytical Ship Wave       Relations Panel of the Society of Naval Architects and Marine Engineers."
+(corroborating source [B])     Korobkin is only the fourth academic from the UK to be awarded this       Lectureship (G.E.
+Gadd, National Physical Laboratory, in 1982; F. Ursell,       University of Manchester, in 1985; E. Taylor, University of Oxford, in       2005).

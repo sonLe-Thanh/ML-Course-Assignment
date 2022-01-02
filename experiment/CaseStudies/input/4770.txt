@@ -1,0 +1,31 @@
+     Context to the impact       About 10 years ago, there was interest among telecoms experts in extending       cellular coverage so that users could access a network from inside a       building without loss of service quality.
+Several technical approaches to       achieve this were considered, and the `femtocell' name was coined in 2005       for a standalone, self-configuring home base station which did not require       a dedicated handset.
+The in-building wireless access point was intended to       communicate with approximately 10 handsets within a distance of up to       (typically) 10m.
+The Femto Forum was set up in 2007 so that manufacturers       and operators could obtain and exchange information relevant to       small-scale cellular communications.
+Impact achieved by the CWiND/CWR team at the University of         Bedfordshire       For the femtocell concept to be effective, a range of technical challenges       would have to be overcome, mainly those associated with interference,       mobility management and auto-configuration (as noted in Section 2 above).
+Researchers in CWiND (now Centre for Wireless Research, CWR) at the       University of Bedfordshire recognised that these problems existed, and       with their expertise in wireless networks were in a position to address       them through a research programme.
+Funds were obtained in 2008 from EPSRC       to start the first research supported by EPSRC on femtocells; this showed       forward thinking at the time, as there were no femtocell deployments when       the project started.
+The benefits of using WiMAX (as compared with other candidate       technologies) were also appreciated by the CWiND team, and the results of       the initial research were recognised by the telecoms company T-mobile, and       by RANPLAN (www.ranplan.co.uk), a small company located in Luton near to       the University who specialise in radio network planning and optimisation.
+T-mobile already knew of the work of the team, as a result of a       presentation given by Prof. Jie Zhang at a meeting of the Femto Forum in       2008, T-mobile proposed a cooperative programme to extend the research       findings to cover their specific interests.
+One of the researchers in       CWiND was a was a technical adviser to RANPLAN, and had recommended to       that company that the tools developed by the CWiND team (as described in       section 3) should be taken up to enhance RANPLAN's ability to offer       planning services to their customers.
+He is now (since January 2011)       R&amp;D Manager at RANPLAN Wireless Network Design Ltd.
+In the next phase of the work, in 2009, cooperation with and funding from       T-mobile resulted in enhanced interference management techniques       applicable to small cells, encapsulated in an model provided by the CWiND       team to T-mobile applicable to the effect of femtocell/macrocell       interactions [5.1].
+Consultations with RANPLAN led to investment by that       company to incorporate the CWiND team's research results into an existing       cutting-edge indoor planning tool which RANPLAN uses extensively in its       commercial offering to customers [5.2].
+Following the generation of specialised knowledge and experience of       femtocells, the team wrote a book [3.1] which covers the principles and       practical aspects of femtocell technology and deployment, and which has       been widely cited.
+It has been published internationally, and has been       translated into Chinese.
+The book has been written for researchers,       practitioners and installers of femtocells, as well as final year       undergraduates.
+At the invitation of the publishers, which confirms the       good impact of the book (at November 2013, more than 700 copies of the       English edition had been sold), a second book has been prepared by the       same authors to provide an update and expansion of the material in the       first book.
+The impacts of the work of UoA11 on femtocells (now also known as small       cells) can be described under various headings.
+The research has economic impact in terms of enabling a new alternative       cellular communications technology which can improve data access (speed       and capacity) and communications convenience, and thus improve efficiency       of working for customers and business reach for operators.
+The femtocells       were deployed after this project started.
+Effective network planning       initially benefits the operators, but it consequently affects the service       tariff, and thus benefits the user business or household.
+A knock-on benefit is an ecological one.
+According to ABI research, by 2014     energy savings from femtocells for operators will be equivalent to planting     12,000 acres of forest.
+As most major operators have deployed femtocells in     their network (this link shows a full list: www.smallcellforum.org/aboutsmallcells-small-cells-consumer-faqs)     the CWiND work has contributed to this benefit.
+The work in UoA11 on femtocells is timely.
+According to the Femto-Forum:       the number of small cells is growing from 3.2 million in 2012 to 62.4       million by 2016 - a 20-fold increase, constituting 88% of all base       stations globally.
+It aligns with the Government's mission of `Digital       Britain' to increase the quality of life for the general public in terms       of research on an alternative wireless broadband access technology.
+The research has an impact on society, culture and creativity.
+The       initial results were disseminated through EPSRC's Digital Economy impact       review, whose readers include policy makers, researchers and the general       public.
+A full report of the work done by UoA11 with EPSRC funding can be       found at: www.rcuk.ac.uk/documents/documents/DEIREvidencePart3-EvidencefromthePortfolioSurvey.pdf       .
+We attended several conferences which were strongly influenced by       industry, such as the Femto Forum conferences in London and Dallas in       2008, while a member of the UoA11 team was the chairman of a femtocell       panel entitled "Femtocells: Deployment and Applications" at the IEEE       International Conference on Communications (ICC) in 2009.

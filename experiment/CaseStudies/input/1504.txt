@@ -1,0 +1,26 @@
+     Use by the ECB     The impact of the GVAR on the ECB dates from 2004 when the ECB funded a       Project at Cambridge on International Economic Linkages and the       Synchronisation Of Business Cycles.
+This project, led by Hashem Pesaran       and Sean Holly, allowed the ECB access to the GVAR and an updated version       of the model was provided to the ECB.
+This became the basis for a number       of studies carried out by the ECB up until the present, e.g.
+: "Modelling       global trade flows: Results from a GVAR model" (2009) [5.1] and "External       shocks and International inflation Linkage: A global VAR analysis" (2009)       [5.2].
+Since 2010 the main vehicle for the dissemination of the GVAR approach is       via the GVAR Toolbox.
+This is a collection of MatLab (a high level       computer language) procedures with an Excel-based interface, designed for       GVAR modelling.
+This provides a general yet practical global modelling       framework for the quantitative analysis of shocks to the world.
+This makes       it a suitable tool for policy analysis, analysing credit risk and       forecasting.
+This software package was made available and launched in       December 2010, and sponsored by the ECB [5.3].
+Observable impacts take the form of analysis that was carried out at       these organisations based on the GVAR framework.
+Evidence of continuing       impact is provided by a workshop in 2011.
+The Workshop was held on       November 3 2011 at the Shanghai Advanced Institute of Finance where Dr. Di       Mauro and Dr. Bianchi from the ECB gave presentations on the Utilization         of the GVAR Model in Global Macro-economic Research.
+Dr. Bianchi, in       the modelling session, explained and demonstrated policy simulations and       scenario analysis by means of the GVAR model [5.4].
+The Senior Advisor of       the Research Department of the ECB has advised us in an email that "...the       GVAR has been for years one of the most important tools used.
+First       because of its capacity of incorporating global linkages; second because       of its emphasis on financial links, often lacking in other more structured       tools, and so widely seen now as critically important; third, because of       its flexibility and the incredible number of applications it has       generated" [5.5].
+Use by the IMF     The GVAR model has also been used extensively by the IMF.
+A post 2008       example is in the form of an analysis published in IMF Country Report No.
+11/185 [5.6], in July of 2011, where the GVAR framework is used to examine       the spillover effects of the Euro crisis on the rest of the world.
+Use by the Economist Intelligence Unit     The Economist Intelligence Unit is using the GVAR for forecasting       purposes.
+The Director of Data Services at the Economist Intelligence Unit       has noted in an email that "Over the past two years, we have successfully       applied the GVAR framework to support our published quarterly forecasts       for the major economies.
+The system we implemented covers 28 countries       across the euro area and G20 and has helped us in assessing both output       and financial linkages within an increasing integrated Global economy.
+We       have also found it an effective framework for assessing a wide-range of       scenarios, most recently around a euro break-up" [5.7].
+Use by the Asian Development Bank     The Asian Development Bank in Manila reports that "We have found the GVAR       model to be useful for forecasting and estimating the impact of various       shocks on the region's economy.
+The GVAR model is one of the tools we use       for forecasting growth in Asian economies in my office.
+I have also used       the GVAR methodology to quantify the effect of a Eurozone crisis on Asia's       financial markets.
+We have also used it to provide with some estimates of       oil price shocks to the region" [5.8].

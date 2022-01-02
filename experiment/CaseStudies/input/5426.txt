@@ -1,0 +1,31 @@
+     In 2011, the U.S. Drug Discovery company, Serometrix, was attracted by       the University's championing of our computer technology for the       accelerated discovery of allosterically acting drugs.
+The company operates       internationally between other university research teams and the very large       pharmaceutical companies to identify promising drug leads.
+At the time,       the company was focused on developing drugs for the lowering of       cholesterol levels and had been working on one particular protein target.
+This target was proving intractable to the usual drug discovery process       and Serometrix had already concluded that some kind of "shapeshifting"       (i.e.
+allosterically acting) drug was required.
+When we were invited to analyse the target, the company already had its       own confidential direct experimental data about the location of sites       where small molecules could bind and produce "shapeshifting" (i.e.
+they       challenged us with a "blind trial").
+On receiving our theoretical       predictions as to suitable site locations (calculated by our technology in       seconds) and comparing them with their own findings (achieved after       significant expenditure of their time and money on conventional       investigation), the company immediately opened negotiations with the       university to develop a research contract, exclusively license our       technology and obtain more calculations on other targets (our technology       is applicable to all 86,000 structures in the Protein Data Bank).
+The CEO       of the company said at the time of the initial trial work (Source 1):     "What I find extremely exciting about this entire process is that if         you look at the time required to identify the spot to begin working,         through to our current understanding as of today &#8212; it is mind boggling!
+If you compare what we have jointly accomplished with these tools, as         compared to any other drug discovery platform known to man at this time,         we may have just improved the efficiency of this process by several         orders of magnitude.
+It is clear to me that your program is providing         accurate predictions about regions where these sites might exist."
+Since then, the company has concluded our technology is "best in class"       (Source 3) and has:            Contracted with the University of Strathclyde for exclusive access to         the technology (Sources 3, 6 and 7).
+The contract and license includes a         multi-million buyout option and requires the university to provide the         company with secure on-line access to the technology for 20 years.
+Used its exclusive access to the new technology to help secure U.S.         venture capital funding of $228k in June 2012 (Source 4) and pursued         discussions leading to further venture capital funding, final agreement         for which is expected to be concluded shortly (Source 2).
+Hired a new Business Development Manager and Medicinal Chemist to take         full advantage of our technology as quickly as possible (two further         appointments are due in late 2013).
+Applied the technology to accelerate progress on its current portfolio         of drug targets with the intention of eventually applying it to all         proteins of interest as drug targets (including revisiting those that         have been previously investigated by the pharmaceutical industry).
+"Shaved years off" the first stage of its core discovery process and         reduced its planned number of early trial compounds "from millions to         hundreds" (Source 3).
+Discovered new active lead compounds via the first site predictions         provided by the university in 2011.
+This work is focused on PCSK9, a         high value commercial target for treatment of hypercholesterolemia and         arthrosclerosis (Source 2).
+More widely, the company has established primary areas of therapeutic         interest including oncology, cardiovascular, metabolic, central nervous         system and infectious disease and have identified opportunities for the         following families of compounds (Source 5):                SX-ARPC is a novel family of AR pathway antagonists that have           potential as a novel therapeutics for Prostate Cancer.
+SX-RDS1 is a novel set of DNA repair inhibitors discovered to           enhance the effectiveness of radiation therapy in a non-toxic manner.
+SX-HIV1 is a family of retroviral integrase inhibitors with           applications for a range of human retroviruses including HIV.
+Drug site predictions from our technology have been used by the company       to fashion actual drug lead compounds that target the sites.
+This means       that the company's employees and their collaborators are now actively       engaged in experimental work for which both the direction and application       have been determined by our technology.
+Their intention is to develop drug       leads that can be licensed forward to the larger companies and then pursue       new targets/leads.
+As this collaboration matures, the reach will extend       beyond the company to larger concerns and eventually to those who will       benefit from the drugs.
+Our tool for the discovery of drugs that "shapeshift" their molecular         targets is showing how to up-regulate and down-regulate       protein/enzyme action without abolishing it, and this is a       paradigm shift from classic drug action.
+The newer drugs can also be much         more selective amongst a family of related targets because they are       not restricted to highly conserved sites, leading to lower dosing       requirements and fewer toxic side-effects.
+This innovative industrial       collaboration and on-line service comes at a time when much of the drug       discovery industry is embroiled in a continuing saga of expensive failure       and temptation to fraud through its adherence to conventional wisdom in       terms of drug action.
+By helping to automate the process, bringing costs down and prompting       production of less risky drugs, our technology breaks the current log-jam       in the drug discovery market and makes it more likely that small market       drugs (i.e.
+for small groups of sufferers or developing world populations)       will become viable.

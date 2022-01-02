@@ -1,0 +1,26 @@
+     We have applied our risk management techniques to several financial       institutions in Finland       including the Ministry of Social Affairs and Health, the State Pension         Fund, and the Bank of Finland.
+In the UK, we are developed an Asset-Liability Management (ALM) model for       the Pension Policy       Institute (PPI) to study the risks associated with variable annuity       pension contracts.
+Consultations       with the Ministry as well as with the Bank of Finland were initiated by       them, after they had heard       about our earlier work with pension insurers in Finland.
+Consultation with       the State Pension Fund       started after development of a pilot model of the state pension       liabilities.
+Collaboration with the PPI       was initiated when we contacted them and described our earlier work with       Finnish pension insurers.
+Our consulting for the Ministry of Social Affairs and Health, the State       Pension Fund, and the Bank of       Finland was done through Quantitative Solvency Analysts (QSA), which is a       company founded by       Pennanen and his collaborators as a spin-off of their research projects.
+The collaboration with the       PPI is a joint project aiming at developing computational tools for       quantifying long term uncertainties       in the UK pensions industry.
+The models and computational techniques produced for the Ministry of       Social Affairs and Health       address the Finnish private sector pension system as a whole.
+Our models       build on the actual cash-flows       of both the assets and liabilities and it avoids many problems (most       notably pro-cyclicality)       associated with traditional accounting standards.
+The models' outputs have       led to many discoveries       concerning the financial risks of the pension system.
+The discoveries are       described in reports [A], [B]       and [C] the publication of which was funded by the Ministry.
+These reports       also include new       recommendations and guidelines for the financial risk management in       pension insurance companies       and in their regulation.
+The findings were widely recognised by the       pension industry and the media,       see for example [E,F,G,H].
+Report [D] uses our asset-liability model to study how individual income       generated in the UK       automatic enrolment pension system compare to an income that might be       considered adequate in       an uncertain investment environment.
+Once automatic enrolment into       workplace pensions is fully       implemented in 2018, it is estimated that there could be between 6 and 9       million new savers into       workplace pensions.
+The simulation studies conducted with our model       suggest several possibilities       to improve the likelihood of achieving adequate retirement income [D].
+The consultation provided for the State Pension Fund includes risk       analysis of their annual strategic       investment plan as well as a long term analysis of their funding ratio.
+The modeling project started in       the fall of 2012, and some of the computational work is still under way.
+The analyses have been       used by the management and the board of directors to asses financial risks       of the Fund.
+The funding       ratio is the key variable used in defining the targets of the State       Pension Fund set in Finnish law.
+The ALM-based funding ratio is currently used in risk reporting together       with traditional actuarial       valuations.
+The analyses are based on models and computational techniques       developed by       Pennanen and his research team.
+The consultation done for the Bank of Finland focused on the risk       analysis of the bank's reserves.
+The work included the development of a stochastic model for the       investments of the bank as well as       a computational analysis of the bank's investment strategies.
+Our analysis       covered currency risk,       interest rate risk, and credit risk of the banking reserves in a dynamic       multiperiod setting.
+The results       produced by the models were used by the board of directors of the Bank in       the analysis of the       strategic investment plan.

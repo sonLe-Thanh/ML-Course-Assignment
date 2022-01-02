@@ -1,0 +1,53 @@
+     Supporting UK Sport and Team GB       In 2008 UK Sport made CSER a UK Sport Innovation Partner to implement       performance analysis technologies using its research expertise (grant c)       in the lead up to London 2012.
+CESR used the camera and photogrammetric       expertise developed in tennis to create calibrated measurement systems for       use in day-to-day training and coaching.
+These systems used the planar       calibration technique (references 2, 3) to allow measurement in large       volumes and tracking algorithms (reference 5) developed in tennis to track       athletes.
+Systems generally had the following characteristics: coaches       found them simple to use; they employed automated video analysis; they       provided storage and retrieval; and the analysis they generated gave a       performance advantage.
+Examples are as follows:            GB Boxing required CSER to instrument the new GB Boxing Gym at the EIS         in Sheffield with a 5-camera system called iBoxer.
+The system         allowed boxing analytics to be developed over and above tracking across         the ring.
+This included punch rates during a round and the strategic         analysis of opponents.
+The GB Boxing performance analyst said "the           data suggests that this kind of preparation increases the boxer's           success rate by around 25%" (http://www.bbc.co.uk/news/technology-18735629).
+GB Boxing won 5 medals at London 2012.
+GB Taekwondo installed iTaekwondo at its gym in Manchester and was a         derivative of iBoxer.
+The EIS performance analyst said of the system, "It           has been a pleasure collaborating with you on the project to produce a           very innovative, and truly world leading product that I can           confidently say puts GB Taekwondo and myself at the cutting edge of           the sport in the run up to 2012" (by email, 11th Feb         2010).
+Taekwondo won 3 medals at London 2012.
+British Gymnastics required a camera and review system for its gym at         Lilleshall.
+CSER developed a system with calibrated cameras and simple         player tracking to allow coaches to review technique and actions of its         gymnasts.
+The EIS performance analyst said, "iGym has enabled video           feedback during training for all squad gymnasts providing them with a           tool to aid skill development and polishing of routine work.
+The high           speed automatic capture system on two vaults is the most impressive           part of the system which serves as such a powerful tool replaying the           fast movement to both gymnast and coach...A very successful project."
+Gymnastics won 3 medals at London 2012.
+Over 30 systems have been developed for UK Sport (source 1) and this       success has led to further UK Sport/EIS funding (grants d, e) and a UK       Sport Innovation Prize (grant f).
+Following London 2012, Dr Goodwill       received a personal letter from the CEO of UK Sport (1/11/2012: source 2)       which said, "Without a doubt, the projects delivered have contributed         to the medal success we have seen in London, Vancouver, Beijing, Turin         and as far back as Athens in 2004.
+In the current funding review process         as part of the Rio vision, many of the sports have highlighted the         support and the benefits of the numerous projects in partnership with         Sheffield Hallam University and the team of scientists and engineers.
+It         is no coincidence that your name is continually linked to these         projects."
+In March 2013, Wheat was commissioned by EIS Manchester to design and       build a bespoke apparatus using low-cost depth cameras to measure the body       shape of Olympic athletes (grant g).
+The first prototype was tested in       July at EIS Manchester and is being used to track the development of elite       athletes.
+Additionally, CSER was awarded the following peer-reviewed       prizes for this work: (1) Sports Analytics Innovation Awards, Sports       Analytics Research Institution of the Year Award (March 2013); (2) PODIUM       Awards, RCUK Award for Exceptional Research Contribution.
+Silver Medal       (May 2012).
+Support for the International Tennis Federation       The ITF has implemented much of CSER's research within its systems for       monitoring the nature of the sport.
+The work on the measurement of spin       (references 4, 5) has been implemented in the software SpinDoctor       which has been used by the ITF to monitor the game: it was used at the       Davis Cup (2010, 2011, 2012), the ATP Masters in London (2012, 2013) and       at Wimbledon (2011, 2012, 2013) with a total of 3,437 shots analysed.
+The       spin rig used in references 4 and 5 has been coupled to a database to       allow the ITF to assess the effect of new strings and stringing methods on       spin generation by specific rackets.
+The results of this work were       presented to the ITF Technical Commission (source 3) from 2010 (on which       Prof Haake is a voting member) whose role it is to monitor the game and       assess the appropriateness of the rules of tennis to technology.
+The use       of SpinDoctor and the spin rig showed that spin generated by       professional players is significantly less than that of the `spaghetti       racket' which was banned in 1980; the ITF will continually monitor the       amount of spin in the game, using Rule 4 (The Racket) to temper excessive       spin.
+Prof Haake's expertise in performance analysis systems and       experience from UK Sport were used to inform the Technical Commission and       the introduction of a new rule to tennis (Rule 31) at its AGM on 12th       July 2013.
+This rule allows the use of performance analysis technology in       tournament play for the first time and will come into force on 1st       January 2014.
+Supporting commercial and health organisations       The understanding of dynamics developed in references 1 and 2 and funded       by Prince (grant a) was used by Prince to improve its understanding of       tennis racket performance from 2006 onwards and supported its growth to       number one racket manufacturer by 2010.
+The improvements in measurement       techniques described in references 2, 3, and 5 were developed by CSER       staff into tools that could be used by our commercial partners.
+SpinDoctor was sold to Prince, IsoSport and adidas to use in their       labs (with the ITF receiving 25% of royalties) to allow the measurement of       scalar spin in the field.
+adidas requested a further system for its       football testing with the ability to give 3D spin vectors and used the       camera calibration and tracking systems outlined in references 3 and 5.
+Since 2011, footballs have been tested using the system, enhancing adidas'       ability to develop its products (source 4).
+Tracking and signal processing       techniques (reference 3) were also used to develop an iPhone application       for adidas (Snapshot) to automatically measure the speed, angle and       trajectory of a kick.
+The application had been downloaded around 300,000       times (31/7/2013) and is the first analysis App developed by adidas.
+CSER is also working with Labosport to test the Goal-Line Technology       systems being installed at Premier League clubs around the UK.
+The work       uses techniques from references 2, 4 and 5 to measure simulated goals       according to FIFA protocols.
+CSER staff have been accredited by FIFA to       carry out the work and all 2012-13 Premier League clubs have been assessed       and passed by CSER according to the FIFA specifications.
+The depth-camera work has also been transferred into the commercial and       health sector.
+Wheat (grant h) has been commissioned to build a low cost       scanning device for Oxylane (Decathlon) for installation in its stores and       also for breast clinics in collaboration with a Senior Breast Surgeon at       the Royal Derby Hospital (grant h; source 5).
+The significance of the       latter work allowed it to win 3rd prize in the 2012 Health       Enterprise East Awards, Medical Technology &amp; Software category.
+Heller       used depth cameras to allow older people to enhance their physical       capabilities by interacting with virtual worlds ("2nd Lives for       the 3rd Age).
+This work has been used as a case study to inform       the research community on the future of research through a Parliamentary       report on `Assistive Technology 2010-11' and a RCUK report (6/2011) on `UK       Research that will have a Profound Effect on our Future'.
+Dissemination of research findings to the research community       The work of Goodwill, Choppin, Haake and Kelley showed that planar       calibration was superior to the more commonly used DLT for in situ       environments.
+A full suite of applications was made available as open       source software (http://www.check3d.co.uk/default.html)       to allow the research community to benefit from the enhanced accuracy of       the planar method.
+Since the site went live in Sept 2012, the research has       had more than 600 views and by 31/7/2013 the software had been downloaded       over 200 times by those seeking to benefit from the enhanced accuracy it       brings.
+A further website (http://www.depthbiomechanics.co.uk/)       made the 3D software available to the research community to allow others       to benefit from the research.
+From 8/11/2012 to 31/7/2013, the software       has been downloaded 46 times by researchers in North America (40%), Europe       (44%) and Asia and Australasia (17%); the majority are university       researchers but also benefiting are companies such as Casio.
+The       researchers come from a range of disciplines including software       engineering (53%), biomechanics (30%), physiotherapy (10%), and psychology       (7%).

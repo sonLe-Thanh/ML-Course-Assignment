@@ -1,0 +1,53 @@
+     The QUB team's lead researchers McCollum and McMullan have led the       commercialisation process to exploit the fundamental collaborative       research.
+In 2003, they established EventMAP (www.eventmapsolutions.com)       &#8212; a spinout company based in Belfast whose backers included QUBIS Ltd       (Queen's University's holding company) and the University of Nottingham.
+Initially EventMAP sold a timetabling product based on the collaborative       research undertaken by QUB and the University of Nottingham.
+The company       then developed a more adventurous approach to impact based on involvement       in construction projects at the planning stage.
+This required       EventMAP to develop its next generation of products based on the latest       joint research between QUB and Nottingham.
+This new strategy has enabled       EventMAP to have much greater impact on commercial construction projects       in the education sector, by reducing the amount of new real estate which       needs to be constructed.
+This is made possible by simulation and       optimisation of real estate at the planning stage, using EventMAP's       sophisticated modelling and timetabling tools.
+Details of the five areas highlighted in the `Summary of the impact'       section above are now given.
+(i) In 2009, the University of Victoria, Australia, was beginning a major       planning project to meet the expansion needs for the next decade.
+The       Manager, Space Management at Victoria University at the time (now at       Deakin University) expressed their problem as follows:     "Victoria University is a large multi sector (Higher Education and         Vocational Education) University based in the west of Melbourne.
+The         University has 11 campuses with a total gross floor area of over 300,000         m2.
+The University was faced with significant         challenges in planning for new space and in optimising the use of         existing facilities.
+Traditional planning and management approaches to         facilities had resulted in an oversupply of poor quality, inappropriate         rooms that were poorly utilised.
+The University was actively pursuing         significant student growth, but lacked the financial resources of other         Universities to aggressively expand facilities."
+EventMAP Ltd were engaged by Victoria University to undertake an analysis       of existing teaching space use, both through an analysis of timetable data       and from data collected from physical audits of space.
+EventMAP staff were       on site for two weeks over the course of the project.
+Using their software       tools, EventMAP delivered a customised, portal-based interactive report       with power to run simulations.
+The Manager has recorded the impact of       EventMAP's involvement:     "These reports provided the starting point for measuring capacity to         accommodate growth.
+Modelling on timetable scenarios gave the University         confidence that significant growth could be achieved within existing         physical resources through to the end of the current decade without the         recourse to construct new teaching spaces.
+This analysis provided by         EventMAP enabled the University to avoid new construction costs,         estimated at $120m [~&#163;70m] over the forecast period."
+(ii) In a similar international project starting in 2010, the Higher       Colleges of Technology (HCT), United Arab Emirates, received approximately       &#163;100M funding from the Abu Dhabi government to construct a new campus for       its Abu Dhabi Men's College.
+This figure was based on a business case       submitted by the HCT and the challenge was to ensure that the total       construction area fell within it.
+The commercial property development arm       of the Abu Dhabi Government, Mubadala Development Corporation, used the       EventMAP software in partnership with EventMAP as a planning tool to       determine the full schedule of accommodation for the campus development.
+Applying the software to determine key space drivers, the project was       able to reduce the total required floor area by 25,000 m2,       ensuring that the parameters of the business case could be met.
+Validation       through the construction of a valid timetable proved to both the Abu Dhabi       Government and to HCT that the reduced total floor area was adequate and       appropriate for their requirements.
+The commercial developers, Mubadala       Infrastructure, have estimated that the usage of the Optime software and       associated engagement with EventMAP helped reduce the resource       requirement, leading to savings of &#163;4.6m.
+(Because of regional commercial       sensitivities, it has not been possible to obtain written confirmation of       this financial aspect of the impact, though the second source below can       corroborate the details.)
+(iii) At Imperial College London, a similar use of EventMAP's tools and       expertise led to further impact through involvement in ICL's South East       Quadrant project.
+Imperial College sits on some of the most expensive real       estate within the UK.
+Prior to the engagement with EventMAP, projected       short-term capital build costs were estimated at more than &#163;20m.
+As the       need to maximise space utilisation was therefore paramount, Imperial       College engaged with EventMAP.
+Work took place between April 2008 and       September 2012.
+Using EventMAP's Optime and AutoMAP tools, the QUB team,       through EventMAP, conducted a thorough space assessment.
+Recommendations       informed the College's capital build strategic planning.
+This included the       internal remodelling of space within the South East Quadrant.
+One outcome,       as expressed by Imperial, was:     "EventMAP's expertise and software tools for planning and scheduling         enabled Imperial College to generate capital savings estimated at &#163;600K."
+EventMAP also delivered a distributed Enterprise Resource Planning (ERP)       system for Imperial College, which maximised the use of institutional       space while improving the education environment for students and staff.
+The Timetabling Project Manager at the time has said that the system:     "has allowed Imperial College to deliver much improved flexible         timetables while maximising the use of space... the time taken         to construct departmental timetables was halved.
+The overall         implementation process has represented significant cost savings. "
+(iv) As EventMAP's reputation has built up, the company has won a number       of significant contracts during the assessment period in resource       management and timetabling with around 15 leading UK and international       educational institutions.
+These include three from the Russell Group's top       five universities.
+EventMAP has also extended its reach overseas.
+Since       2008 it has won contracts with leading overseas universities; in addition       to the above examples in Australia and Abu Dhabi, these include Deakin       University, Melbourne, the University of Sydney, Helsinki University and       Paris-Sorbonne University.
+After the success of the major international       projects above, EventMAP received financial assistance from Invest       Northern Ireland (&#163;41k in January 2012 and &#163;21K in April 2013) to       accelerate the company's entry into key export markets.
+(v) At the start of the assessment period (2008), the company had just       two part time employees.
+Since then, it has grown to 8 FT and 5 PT       employees and doubled turnover in each successive year to &#163;410k.
+In this       period it has developed and launched four separate products covering       resource modelling and exam and event scheduling, all underpinned by its       powerful Optime scheduling engine which incorporates algorithms developed       by the QUB team as part of the underpinning research.
+Specifically, these       include a hybridisation of the extended Great Deluge Improvement       metaheuristic with an adaptive construction heuristic.
+The algorithms were       also implemented within EventMAP's bespoke AutoMAP management methodology       which accurately models sustainable change within an institution.
+EventMAP's tools uniquely link intuitive problem modelling of resource       requirements and constraints with a range of underlying techniques capable       of producing practical and holistic solutions.
+Competitors, by contrast,       are unable to translate the resource needs into a usable model which is       intuitive and interactive.
+In addition, because competitor solutions use       'greedy' optimisation algorithms that work sequentially through a problem,       resultant solutions are often incomplete and therefore unworkable.
+This       has given EventMAP an important competitive advantage, and has helped in       delivering commercial impact.

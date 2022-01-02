@@ -1,0 +1,40 @@
+     Since 2008 the research of the Compton group in the field of       heterogeneous reaction mechanisms has had a significant impact at Syngenta       AG, the company with which it has collaborated.
+Syngenta is the world's       biggest manufacturer of crop chemicals and a major global supplier of       insecticides, fungicides and herbicides.
+In 2012 it achieved sales of $       14.2 billion [6]; fungicides alone accounted for 23% &#8212; over $ 3 billion &#8212;       of total revenues [7] and insecticides for $ 1.8 billion [8].
+Azoxystrobin, sold by Syngenta principally under the trade name Amistar,       is the world's leading fungicide by sales, while thiamethoxam is the       active ingredient developed by Syngenta and used in its product Actara,       the best selling insecticide worldwide.
+Manufacturing processes for both       these products, as well as others made by Syngenta, have benefited from       important changes as a result of the Compton group research.
+In the words       of a Senior Fellow at Syngenta UK, "The fundamental science behind the         processes described above has been key to the development of scalable,         robust, optimised manufacturing processes where, although the chemical         fundamentals (rate constant, equilibrium constant, etc.)
+are scale         insensitive, the mass transfer components are not.
+The overall thinking         and methodology used is the primary scientific value (transferable to         all and any solid-liquid system, helping to direct technology         exploitation and raising the awareness of the need for such         methodology).
+However, the specific systems studied have proved of         particular value to Syngenta since 2008 in terms of process changes, and         have helped our process chemists from laboratory synthesis to include         more physical quantitative chemistry in the development process."
+[10]     Impact of studies on sparingly soluble inorganic bases in polar         aprotic solvents     Research by the Compton group in this area clearly showed that key       processes, especially at full scale, can be controlled by the physical       process of inorganic base dissolution, and drew attention to the fact that       organic chemistry transformations cannot be studied in isolation from the       inorganic transformations.
+As such, care needs to be taken when designing,       scaling and running larger scale manufacture of the specific base used,       the physical form of the base used and the processing conditions.
+This had       substantial impact for Syngenta since 2008.
+They manufacture Amistar (the       world's largest selling fungicide) via a sequence, the final step of which       employs K2CO3 to deprotonate an acid, HA, in a       polar aprotic solvent, to produce a nucleophilic A-K+ salt.
+This subsequently reacts with an electrophilic chloro-heterocycle to       produce the active ingredient (Ai).
+The rate limiting `step' in the       overall process can switch from being the covalent-bond-forming reaction       to the rate of carbonate dissolution, depending on the carbonate salt       being used.
+Understanding this has allowed Syngenta to optimise the       robustness of the process and appreciate fully the potential impact of       using alternative carbonate sources.
+The production of Actara, Syngenta's world-leading insecticide, also uses       K2CO3 in the final Ai stage in an analogous manner.
+For environmental reasons, Syngenta desired to switch from K2CO3       to Na2CO3, but Na2CO3 failed       in process development with much lower rates, lower conversions, longer       cycle times and increased by-products.
+Compton's work showed that the       solubility of Na2CO3 and rate of dissolution into       polar aprotic solvents is an order of magnitude less than K2CO3.
+With this insight, Syngenta found that the solution-phase reactivity of       the A-K+ and A- Na+ salts were       comparable (slight differentiation due to ion-pairing effects) and that       the failure with Na2CO3 was due to the process being       controlled by the slow rate of dissolution.
+With this knowledge in hand,       alternative processes were rapidly developed.
+In both of these examples, water can be produced.
+In some cases the       system then switches from involving solid-liquid mass transfer to       solid-liquid-liquid transfer as the water produced becomes saturated in       the inorganic base and phase separates from the polar aprotic solvent.
+This produces a gelatinous mass, which at full production scale requires       control of agitation and active removal of the water.
+Otherwise, again,       the rate of inorganic base mass transfer from the solid phase through the       aqueous liquid phase to the continuous organic solvent (in which the       reactant resides) becomes rate limiting.
+The methods devised by Compton       have been used by Syngenta to study and control precisely such a process       for an important recently-developed herbicide.
+A conversion of &gt;98%       without rate-limiting mass transfer is now obtained in manufacture, versus       a previous figure of ~75% [10].
+Impact of studies on sparingly soluble organic molecules reacting with         solubilised reactants     Triazine-based herbicides such as Atrazine (used in Syngenta's product       Gesaprim) are crucial to agriculture; it is estimated triazine-based       herbicides currently save US consumers &gt;$ 3 billion p.a.
+in decreased       producer costs and increased yield and support 85,000 US jobs [9].
+Cyanuric chloride forms the basis of triazine-based herbicides, and within       Syngenta the science behind the research of the Compton group has       subsequently been used to optimise the process for manufacture of       herbicides like Gesaprim.
+Prior to the research of the Compton group, this       had suffered from scale up issues; the work helped identify that the root       cause of the problems was coating of the reactant solid with an even more       insoluble product.
+[10]     Targeted removal of metal ions from waste streams     Homogeneous Pd catalysis is important in major industrial coupling       reactions.
+The downside of large scale Pd use beyond the laboratory-scale       is the large amounts of solubilised Pd that have to be recovered and       removed from waste streams &#8212; for both cost and environmental reasons.
+The       methods and concepts developed by the Compton group have been used by       Syngenta since 2008 to plan how to address the issue and optimise       recovery.
+[10]     The cost of goods is an especially important issue in the agrochemical       industry [11].
+Syngenta are unable to quantify the precise financial       benefits to them of the Compton research concerning individual steps in       multi-stage overall manufacturing processes.
+However, in the context of       yearly revenues of billions of dollars, the financial impact for the       company is likely to be very substantial.
+According to the Senior Fellow       at Syngenta UK, "Overall the research of the Compton group has been of         great benefit to Syngenta, enabling significant improvements in the         company's development of processes, and sustainably increasing its         capability in quantitative physical chemistry.
+The extension of this has         been broad impact into Syngenta's production processes."
+[10]

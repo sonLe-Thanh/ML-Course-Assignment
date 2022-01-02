@@ -1,0 +1,41 @@
+     The marine antifouling coatings industry has a global market ca.
+1       billion Euros per year (Haras, D.       Mater.
+Tech.
+2006, 93, s27).
+The vast       majority of current, commercial, marine antifouling coatings       are based on the use of one or more toxic biocides that impede the growth       of barnacles,       tubeworms, algae etc.
+Such biocides are under increasing scrutiny because       of their impacts on       non-target species and an increasingly stringent legislative framework       seeks to reduce their use, or       in certain cases, to remove them from the market.
+There has therefore been       an increasing       research focus on the development of novel coatings that rely on       non-biocidal technologies based       upon the physico-chemical properties of surfaces.
+This is to either reduce       the initial attachment of       marine organisms to surfaces or to reduce the adhesion strength of       organisms that do attach so       that they are readily removed by turbulent forces when the ship is       underway.
+This is the area of       research in which BBRG has made a significant impact in the last 15 years       and below we describe       how the outputs of this research have achieved an economic impact in the       marine antifouling       market since 2008.
+Development of a new spin-out company     Sharklet Technologies Inc. (www.sharklet.com)           (USA)     As part of the ONR-funded programme BBRG has collaborated extensively       with the materials       science group of Professor A. Brennan (University of Florida).
+This       started out as a fundamental,       hypothesis-driven study exploring whether `bioinspired' microtextured       silicone elastomer coatings,       at an appropriate scale and pattern, will reduce the attachment of spores       of marine algae.
+The       systematic investigation of coating parameters and the elucidation of a       general, quantitative model       linking reduction in fouling to surface roughness is reported in ref.
+3       (and 10 other refereed       papers).
+BBRG conducted studies which showed that the coatings retarded the       settlement of marine algae       and prompted further work into other marine organisms and bacteria.
+This       work directly led       Brennan to explore the effect of surface roughness on the attachment and       growth of bacteria on       biomedical devices.
+Brennan, as the inventor, patented the technology       (patent US7650848       contains data from BBRG) and has commercialised it as a portfolio of       related technologies through       the start-up company `Sharklet&#8482; Technologies Inc.', which now offers       products for both marine       and biomedical applications.
+Brennan states "Through studies at         Birmingham we have shown that         the design is unique in its ability to retard the settlement of spores         of Ulva linza, a marine alga.
+The results from these studies led to the investigation of other marine         organisms and a range of         bacteria, including those of biomedical importance" (s1).
+The       company has now been established       for approximately five years and is currently valued around $16 million       (USD).
+It has attracted US       government funding leading to industry collaborations (e.g.
+Cook Medical)       and is actively pursuing       further partnerships with global companies in the area of energy       exploration.
+Allowing existing companies to expand product range     Both Nanocyl and Teer Coatings Ltd directly benefited from collaborating       with BBRG as it allowed       them to develop and patent new products from their materials into marine       coatings.
+As such, they       have now entered a new market (marine antifouling) and generated       additional investment into their       R&amp;D programmes.
+Nanocyl (www.nanocyl.com)           (Belgium)     In the AMBIO project BBRG worked with materials scientists from the       University of Mons-Hainaut       and the company Nanocyl to evaluate the hypothesis that silicone       fouling-release coatings could       be improved by the incorporation of small amounts of carbon nanotubes       (CNTs).
+The results of the       study are reported in ref.4 and demonstrate that improved fouling-release       performance can be       achieved by incorporation of CNTs, the effect being ascribed to the       modulation of surface       roughness at the nanoscale.
+Nanocyl patented the invention, including data       from BBRG (US       Patent Application 20100130665) and there is one product `Biocyl&#8482;'       currently in the market place       (s2).
+Teer Coatings Ltd. (www.teercoatings.co.uk)           (UK)     In the AMBIO project BBRG worked with a SME, Teer Coatings Ltd, (now part       of the MIBA Coating       Group), a specialist in the production of hard, ultrathin, low surface       energy coatings deposited on       small objects by advanced physical vapour deposition methods.
+The company       had no prior history       of developing antifouling coatings but BBRG worked with them to evaluate       the potential of a wide       range of coating chemistries.
+"Before participating in AMBIO TCL had         no experience in the         development of antifouling coatings and little experience in plasma         assisted chemical vapour         deposition (PACVD) but the University of Birmingham assisted us in the         evaluation of the potential         of a wide range of coatings chemistries" (s3).
+A hydrophobic, nanostructured SiOx-like coating was shown to have good       antifouling properties       (ref.
+5) and being optically transparent it was selected for field-testing       on the optical windows of       marine sensing devices.
+Further optimisation of the deposition process was       conducted (ref.
+6)       which significantly improved the environmental resistance of the coating.
+The deposition       technology and its application to antifouling was the subject of a patent       application (US       2010/0247928) and the process is now commercially available within the       Teer technology portfolio.
+This work has also attracted interest from new potential customers, who       would not have       approached the SME previously based on their existing product range.
+Improved performance and independent assessment of current commercial         products     International Paint Ltd (http://www.international-marine.com/aboutus/marine-coatings.aspx)           (UK)     BBRG were funded by International Paint Ltd (&#163;166K since 2005) primarily       to conduct bioassays       on novel anti-fouling coatings and fouling-release materials.
+Some of the       research findings have       directly underpinned the development of the next generation of       fouling-release coatings `Intersleek       1100SR' from the company.
+In addition, the independent analysis of the       enhanced product       performance by BBRG in comparison to market competitors is being used in       the company's       technical marketing literature.
+Reference to the University's bioassay       results are viewed as       providing a strengthened argument to customers as to why they should       purchase these improved       products over and above competitor products (s4).
+In conclusion:     Between these four companies, the impact from research has been:            the creation of a US spin-out company       two companies have made additional investments in R&amp;D       two companies have discovered new business opportunities for their         products and         processes       new products or services have been commercialised, and the associated         intellectual         property has been patented       Birmingham data has been used in marketing material to demonstrate the         effectiveness of         an improved product          Further commercial information on sales and business performance is       closely held by these       companies and has not been made available for this case study.
+It is       expected that environmental       benefits will be realised in the future by the wider application of these       coatings.

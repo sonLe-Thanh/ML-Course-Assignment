@@ -1,0 +1,22 @@
+     In 1995 Professor Southern founded a spin-out company, Oxford Gene       Technology (OGT), to handle the licensing of his microarray patents.
+OGT       is now one of the leading providers of genetics research and biomarker       solutions internationally7.
+Based at the Begbroke Science Park       outside Oxford, OGT currently employs over 60 staff having doubled the       number in the last two years, and has an annual turnover of around &#163;10M.
+Professor Southern retired from the Whitley Chair of Biochemistry at       Oxford in 2005, but continues to head the research team at OGT.
+OGT operates an open licencing policy that makes its technology very       widely available and stimulates innovation.
+Non-exclusive licences are       held by all the major companies in the microarray business.
+The largest       player, Illumina Inc., is a $6 billion company, about half of whose       business is in analysis of variable sequences.
+Affymetrix and Agilent are       also licence-holders with major interests in DNA testing.
+More specialised       licence-holders include Immucor8, which uses genotyping to       provide a genetic matching service to enhance the specificity of blood       transfusions.
+The global market for DNA microarrays was estimated to be       $760M in 2010: about $500M of this business related to `SNP chips', or       microarrays incorporating analysis of variable sequences using the enzyme       chemistry described above.
+Analysts estimate that this market will have       almost doubled in size by 20159.
+Commercially-produced microarrays have been used to analyse genetic       variation on a very large scale.
+For example, the Wellcome Trust Case       Control Consortium is now in its third round of genome-wide association       studies looking for SNPs and other genetic variants in more than 40       diseases or conditions.
+They are comparing genetic profiles of at least       2000 people with each condition, with those of a control sample of 6000       people drawn from the general population.
+The sample analysis is conducted       using Affymetrix, Illumina and Agilent chips based on Southern's work.
+This award-winning study has already discovered many new associations       between genes and disease, information that is being made available to       pharmaceutical companies and researchers through an open-access database10.
+The technology developed by the Southern group to detect variation       exactly meets the need of the emerging field of `personalised' or       `stratified' medicine.
+For example, in 2013 OGT launched an assay using       this technology that will speedily and reliably provide individual       profiles of mutations in tissue taken from cancerous tumours.
+The company       received &#163;1.16M from the UK Technology Strategy Board's Stratified       Medicine Innovation Platform to develop the assay, which will support       doctors in providing targeted therapies and improve the experience of       patients who are spared aggressive and unnecessary treatment11.
+Royalties received on the Southern patents have been used to establish       two charitable trusts.
+The Kirkhouse Trust12 supports crop       development in India and Africa using marker-assisted selection.
+The Edina       Trust13 has to date given individual grants of up to &#163;1500 to       over 600 primary schools in the UK to support science education.

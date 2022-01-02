@@ -1,0 +1,28 @@
+     Context     Micro-EDM is the main process applied to producing micro-holes in diesel       fuel injection nozzles in the automotive industry.
+In diesel fuel       injection components, hole diameters can be less than 150 &#181;m in diameter.
+Previous fuel injection nozzles had straight or parallel walled holes that       generally had a neck at the end of the hole where the final drilling took       place.
+This affected fuel flow and the fuel did not spread well for       effective combustion.
+It is desirable to have reverse tapered hopes (i.e.
+fuel entrance hole is larger than the fuel exit) so that the fuel can       spread out into a fan-shaped spray.
+However, there had been no practical       solution for the manufacture of reverse tapered holes as drilling takes       place from the outside of the nozzle.
+The hole size at the tool entry       needs to be smaller than the hole size at the tool exit.
+The University of       Manchester in collaboration with Delphi Diesel Systems (Germany) and GFH       GmbH, pioneered the reverse tapered hole drilling technique which resulted       in worldwide application of the technology in the automobile industry       satisfying the new EU emission Euro 5, introduced in 2008-2009 [A-D].
+Pathways to Impact     The work was done in collaboration with Delphi and GFH GmbH who provided       PhD CASE funding and access to experimental facilities (e.g.
+EDM), fuel       injection nozzle testing facilities, and materials.
+The research findings       from the project were then commercialised as diesel fuel injection nozzle       production systems [A-C].
+Reach and Significance of the Impact     Automobile component manufacturers.
+The reverse tapered hole       production technology was first introduced into diesel engineer fuel       injection nozzle manufacture at full scale by Delphi, one of the major car       component manufacturers.
+The technology was patented by Delphi [D] and       then certified by them to meet the new EU emission legislation Euro 5, in       2008-2009 [A-E].
+The major differences between Euro 4 (introduced in 2005)       and Euro 5 legislation (introduced in 2008/2009) are that for diesel       engines, the NOx emission limit was reduced from 0.25 g/km (Euro 4) to       0.18 g/km (Euro 5), and particulate matter emission from 0.025 g/km (Euro       4) to 0.005 g/km (Euro 5) [E].
+The key benefits of the new fuel injection       nozzle manufacturing technology include improved fuel efficiency and       reduced environmental impacts (1.5% fuel saving per nozzle, 35-40%       reduction in particulate matter emission, 20% reduction in NOx emission,       3% reduction in CO2 emission, and a reduction of 10&#176;C in       exhaust temperature) [F].
+Delphi's diesel engine component business was       &#8364;1.6bn in 2008.
+Because of satisfying Euro 5 conditions in 2008/9 due to       the introduction of reverse tapered fuel injection nozzle holes [A,B],       their business had grown to &#8364;2.4bn per year in the following years [G].
+Passenger car and truck manufacturers.
+Reserve tapered hole diesel       fuel injection nozzles are currently used by major passenger car and truck       manufacturers such as Volkswagen, Ford, Isuzu, Volvo and Renault [A-C].
+In       Europe, around 50% of cars are diesel based.
+Worldwide vehicle sales are       around 82 million per year [H], 20-30% of which are diesel based.
+Almost       all the major diesel car manufacturers now use reverse tapered holes in       fuel injection nozzles.
+Benefits to consumers in fuel savings: Around 1.5% fuel saving per       car due to the introduction of the reverse tapered hole technology for       diesel cars [F].
+Public Health: The world health organisation (WHO) survey shows at       least 1 million people die each year due to urban outdoor air pollution       [I].
+The introduction of the reverse tapered hole fuel injection nozzles       has resulted in a 35-40% reduction in particulate matter emissions and a       20% reduction in NOx, thus contributing to a cleaner environment as       demonstrated by the compliance with Euro 5.
+[E].

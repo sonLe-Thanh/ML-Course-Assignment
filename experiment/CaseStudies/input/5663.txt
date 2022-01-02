@@ -1,0 +1,36 @@
+     The need for greater ingenuity in locating and extracting fossil fuels       has long been recognised in the face of the increasingly widespread       exploitation of the most obvious and easily accessible reserves.
+The       development of CSEM techniques at the University of Southampton has not       only made one of the most significant contributions ever to satisfying       this need: it has also given birth to an entirely new and commercially       viable industry.
+As noted by Chief Research Geoscientist at ExxonMobil       upstream research [5.1] "The University of Southampton group         led by Martin Sinha and Lucy McGregor had a key role in the design and         successful completion of the first electromagnetic survey over a         hydrocarbon target in 2000.
+Subsequently this group have significantly         contributed to the development of the new CSEM industry".
+That industry continues to flourish today.
+This is illustrated by the       enduring success of the two spinout companies formed in the wake of the       first large-scale demonstration of CSEM and by the ever-growing evidence       of the technology's sustained value in the field of exploration.
+Southampton's spinout firm, OHM, acquired Rock Solid Images, a company       specialising in rock physics and quantitative seismic interpretation, in       2007.
+Following divestment of the CSEM acquisition division of the company       (along with the OHM brand and name) the company was re-named Rock Solid       Images in 2010.
+It currently employs 45 staff [5.2]; Sinha stepped       down from the board in 2006.
+As an industry leader in the integration of       CSEM, seismic and well log data, RSI has provided services to clients       including international oil companies, small independents and national oil       companies.
+The second company, EMGS, was formed in 2002 as a spinout from Statoil.
+In 2011 EMGS acquired the former OHM acquisition division from its new       owners for over US$19 million.
+EMGS annual reports show that between 2008       and 2012 annual revenue has increased by over 70% from US$116 million to       greater than US$200 million, with a particularly large increase of 129%       between 2010 and 2011 [5.3].
+In its 2012 annual report EMGS, which       currently employs more than 270 people states that more than 650 CSEM       surveys have been completed and observes: "In recent years the         company's customers and large oil-consuming and gas-consuming nations         have perceived a growing and potentially lasting imbalance between the         supply of and demand for hydrocarbons.
+The demand for EM services         increased in 2011 and 2012."
+This assertion is clearly supported by continued investment in survey       acquisition and analysis by a variety of oil majors (such as Statoil,       Shell, ExxonMobil and Chevron) and national oil companies (such as PEMEX,       Petrobras and Petronas).
+Since 2010 it has also been supplemented by a       number of studies that have highlighted CSEM's impact on exploration in       terms of substantially reducing risk and boosting success rates for       drilling - a particularly important benefit when companies cannot legally       book a surveyed site as an asset (for instance, for the purpose of       informing shareholders) until drilling has taken place.
+For example, according to research published in The Leading Edge       [5.4] the monthly magazine of the Society of Exploration       Geophysicists, prospects that show a significant resistive anomaly are       approximately twice as likely to contain hydrocarbons than those that do       not.
+The study, the most extensive of its kind to date, said: "It seems         a fair conclusion that the incorporation of CSEM data into [an] oil         company's work flow can significantly help de-risk prospects."
+Research that appeared in May 2010 [5.5] in First Break,       a leading publication serving the geoscience and engineering community,       revealed that, conditional on non-commercial discoveries being counted as       dry wells, the drilling success rate is 50 per cent to 70 per cent for       wells drilled on prospects exhibiting a significant resistive anomaly -       compared with just five per cent to 14 per cent for wells drilled on       prospects without such an anomaly.
+The study concludes: "The dollar         value of CSEM will show itself through a correct and repeated         application in a portfolio setting...
+The current empirical results         suggest a very significant value [for CSEM] in exploration settings."
+ExxonMobil were one of the pioneers of CSEM (which they call R3M) in the       hydrocarbon industry.
+They apply the technology to improve success rates       of offshore exploration activities in deepwater, where a single wildcat       well can cost more than US$100 million.
+In the past 10 years, ExxonMobil       has acquired more than 70 marine surveys using CSEM technology, which has       accurately confirmed the predicted geological setting more than 70 % of       the time [5.6].
+Shell use CSEM in favourable environments, including Tertiary plays.
+Karman et al.
+(2011) report that they have drilled 27 wells on a selection       of 100 prospects mapped with CSEM since 2002.
+Of those 27, 22 were       discoveries (81% success rate, with an average pre-CSEM success rate for       these prospects of 47%), 17 had conclusive CSEM interpretations (defined       as those where a positive prediction was made).
+15 of those that were       predicted to be discoveries were.
+The remaining two were predicted to be       dry and this was confirmed by drilling [5.7].
+Southampton's work - which is currently continuing in collaboration with       Rock Solid Images and partners including oil major BP - has been       recognised with several awards and honours.
+In 2008 the Geological Society       of London presented Sinha with the William Smith Medal [5.8],       which is awarded annually for outstanding research in applied or economic       geology.
+In 2011 MacGregor was appointed the Society of Exploration       Geophysicists' Honorary Lecturer for Europe in acknowledgment of not only       her own contributions to the field of CSEM analysis and data integration       but also of CSEM's general impact and growing importance in reservoir       exploration and appraisal [5.9].
+Recent research has been endorsed       by industry: "BP found the HyPoMap (Hydrocarbon pocket mapping)         project to be particularly useful in developing CSEM technologies."
+[5.10].

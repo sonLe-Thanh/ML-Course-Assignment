@@ -1,0 +1,80 @@
+The__O Greenfoot__B-MISC system__O and__O research__O has__O a__O direct__O impact__O in__O several__O different__O ways:__O During__O the__O REF__B-ORG period,__O it__O has__O benefited__O more__O than__O a__O million__O school__O students__O in__O 49+__O countries__O directly__O ([I1],__B-ORG [I2],__I-ORG all__O references__O to__O Section__B-LOC 5).__O
+It__O benefits__O thousands__O of__O teachers__O who__O use__O it__O to__O teach__O programming__O differently__O ([S2],[S3]).__B-ORG
+It__O has__O influenced__O national__O curriculum__O design__O in__O the__O UK__B-LOC ([S1]).__O
+Impact__O for__O students.__O
+Students__O benefit__O by__O being__O able__O to__O achieve__O more__O tangible__O results__O more__O quickly,__O leading__O to__O increased__O motivation__O and__O satisfaction,__O as__O well__O as__O better__O understanding__O of__O programming__O concepts.__O
+Before__O using__O Greenfoot,__O many__O students__O were__O taught__O using__O text-based__O development__O environments__O designed__O mainly__O for__O professional__O programmers.__O
+These__O environments__O are__O difficult__O to__O use,__O force__O learners__O through__O large__O amounts__O of__O detail__O before__O achieving__O the__O first__O motivating__O impact,__O and__O possible__O outputs__O in__O reach__O of__O early__O learners__O are__O a__O long__O way__O off__O of__O meeting__O expectations__O of__O students__O who__O have__O grown__O up__O with__O interactive__O graphical__O software__O systems.__O
+Greenfoot__O removes__O all__O of__O these__O problems.__O
+Many__O teachers__O have__O long__O been__O aware__O of__O this__O problem__O and__O have__O struggled__O to__O teach__O programming__O in__O a__O more__O engaging__O manner.__O
+This__O has__O been__O especially__O difficult__O if__O the__O goal__O was__O to__O teach__O modern__O concepts__O of__O software__O engineering,__O usually__O with__O an__O object__O oriented__O language.__O
+Greenfoot__O helps__O teachers__O by__O giving__O them__O a__O tool__O to__O meet__O their__O goals__O &#8212;__B-MISC teaching__O software__O development__O principles__O and__O object__O orientation__O in__O a__O modern,__O graphical__O context.__O
+The__O impact__O is__O aided__O by__O the__O availability__O of__O a__O Greenfoot-based__B-MISC textbook:__O Introduction__O to__O Programming__B-MISC with__O Greenfoot__O &#8212;__O Object-Oriented__O Programming__O in__O Java__B-MISC with__O Games__B-MISC and__O Simulations.__B-LOC
+Michael__B-PER K&#246;lling.__I-PER
+Pearson__B-PER Education,__I-PER 2009.__O
+ISBN-13:__O 978-0-13-603753-8.__O
+More__O than__O 16,000__O copies__O of__O the__O book__O have__O been__O sold,__O providing__O further__O evidence__O of__O the__O popularity__O of__O this__O approach.__O
+User__O engagement.__O
+User__O engagement__O in__O the__O research__O results__O and__O the__O resulting__O software__O has__O been__O achieved__O via__O a__O number__O of__O different__O channels.__O
+These__O include__O keynote__O talks__O at__O educational__O conferences__O in__O several__O different__O countries,__O research__O talks__O and__O invited__O talks__O at__O conferences,__O and__O a__O large__O number__O of__O teacher__O and__O student__O workshops.__O
+Publishing__O the__O software__O itself__O is__O not__O sufficient__O to__O create__O lasting__O impact;__O it__O was__O highly__O effective__O to__O go__O out__O to__O conferences__O where__O we__O could__O interact__O with__O stakeholders__O and__O present__O the__O system__O to__O them__O directly.__O
+Over__O the__O last__O three__O years,__O we__O have__O reached__O more__O than__O 300__O teachers__O directly__O in__O face-to-face__O workshops.__O
+A__O Greenfoot__O channel__O on__O YouTube__O (http://www.youtube.com/user/18km)__O with__O instructional__O videos__O has__O received__O more__O than__O 290,000__O views__O over__O two__O years.__O
+Computing__O at__O School__B-ORG (CAS).__I-ORG
+Our__O research__O group__O works__O with__O the__O Computing__B-ORG At__I-ORG School__I-ORG (CAS)__I-ORG group__O (www.computingatschool.org.uk),__O which__O aims__O to__O improve__O the__O provision__O of__O computer__O science__O in__O schools__O in__O the__O UK.__B-LOC
+Greenfoot__O has__O become__O one__O of__O the__O frequently__O used__O tools__O in__O the__O group's__O activities,__O including__O teacher__O training__O workshops.__O
+In__O a__O letter__O [S1]__B-MISC supporting__O this__O case__O study,__O Simon__B-PER Humphreys,__I-PER BCS__O and__O coordinator__O of__O CAS,__B-ORG wrote:__O "The__O pedagogy__O that__O underpins__O Greenfoot__B-ORG is__O exemplary.__O
+It__O has__O an__O active,__O supportive,__O worldwide__O community,__O tutorials__O and__O teaching__O plans.__O
+It__O has__O a__O special__O place__O with__O pupils__O at__O KS4__O and__O A__O Level__B-LOC and__O CAS__B-ORG are__O privileged__O to__O be__O able__O to__O work__O with__O the__O Greenfoot__B-LOC team__O in__O supporting__O classroom__O practitioners."__O
+Feedback.__O
+The__O impact__O for__O students__O and__O the__O effectiveness__O of__O the__O dissemination__O is__O evidenced__O by__O frequent__O unsolicited__O feedback__O from__O teachers.__O
+Following__O are__O two__O typical__O quotes__O from__O instructors:__O "By__O the__O way,__O I__O gave__O my__O Year__O 12/13s__O a__O choice__O of__O what__O to__O do__O their__O projects__O in,__O and__O 16__O out__O of__O 18__O chose__O Greenfoot.__O
+The__O progress__O they've__O made__O so__O far__O compared__O to__O this__O time__O last__O year__O on__O VB__B-MISC or__O php/Javascript__O is__O amazing.__O
+I__O see__O a__O whole__O pile__O of__O A's__B-MISC appearing__O in__O due__O course!"__O
+-__O Andrew__B-PER Tringham,__I-PER Teacher,__I-PER Archbishop__O Tenison's__B-PER School,__I-PER Croydon,__I-PER (see__O statement__O [S2])__B-ORG "On__I-ORG Monday__O they__O could__O stay__O at__O home__O for__O me__O to__O see__O and__O exercise__O your__O `Joy__B-ORG of__I-ORG Code'__I-ORG movies.__O
+With__O the__O notion__O that__O they__O would__O receive__O an__O assignment__O on__O Tuesday.__B-LOC
+I'm__O always__O very__O suspicious,__O and__O I__O didn't__O thought__O that__O they__O would__O go__O seriously__O through__O the__O material.__O
+Monday__O at__O midnight,__O I__O gave__O the__O assignment__O free.__O
+Normally__O in__O the__O morning__O when__O I__O enter__O a__O classroom,__O IT-students__O are__O still__O half__O sleeping__O or__O reading__O the__O online__O journal,__O or__O checking__O their__O Facebook,...__B-ORG
+Yesterday,__O it__O was__O amazing.__O
+The__O room__O was__O fully__O occupied__O before__O 9__O o'clock__O with__O 80__O students!__O
+There__O was__O an__O enormous__O rumor.__O
+I__O saw__O drawings,__O heard__O discussions,__O saw__O already__O things__O pass__O on__O a__O colored__O screens.__O
+So,__O they__O needed__O no__O introduction,__O yet__O there__O were__O already__O fully__O occupied__O with__O their__O scenario.__O
+The__O whole__O day__O long__O they__O were__O working__O in__O pairs__O on__O their__O scenario__O and__O asked__O many__O questions.__O
+Some__O students__O went__O on__O Monday__O through__O all__O your__O 33__O movies__O of__O the__O Joy__B-ORG of__I-ORG Code.__I-ORG
+Incredible!__O
+For__O me,__O one__O of__O the__O big__O advantages__O of__O Greenfoot__O is,__O that__O the__O students__O `see'__O immediately__O result.__O
+And__O therefore__O they__O are__O urged__O to__O get__O further__O on."__O
+-__O Chantal__B-PER Teerlinck__I-PER HUB-Hogeschool__O Universiteit__O Brussel__O (see__O statement__O [S3])__O James__B-PER Gosling,__I-PER the__O creator__O of__O Java,__O also__O commented__O on__O Greenfoot__O after__O seeing__O his__O daughter__O use__O it:__O "Greenfoot__B-ORG makes__O it__O fun__O to__O learn__O programming.__O
+It__O starts__O out__O with__O very__O logo-ish__O exercises__O (moving__O a__O wombat__O around__O via__O method__O calls__O to__O find__O food),__O then__O automating__O the__O characters__O so__O that__O they__O can__O find__O their__O own__O food,__O and__O progressing__O to__O a__O variety__O of__O video__O games.__O
+The__O scenarios__O really__O absorb__O kids."__O
+(Full__O statement__O available.)__O
+(see__O statement__O [S4])__B-ORG The__O direct__O feedback__O from__O teachers__O shows__O that__O the__O goal__O of__O increasing__O motivation__O and__O engagement__O in__O learners__O is__O being__O reached,__O and__O that__O the__O Greenfoot__B-MISC system__O has__O indeed__O made__O a__O significant__O contribution__O in__O causing__O change__O in__O students'__O attitudes.__O
+The__O value__O as__O seen__O by__O the__O wider__O community__O is__O also__O evidenced__O by__O a__O significant__O number__O of__O volunteer__O contributions__O to__O the__O project,__O often__O in__O the__O form__O of__O translations.__O
+The__O Greenfoot__O user__O interface__O has__O been__O translated__O into__O 12__O languages__O (including__O Chinese,__O Portuguese,__O German__B-MISC and__O Spanish),__B-PER and__O the__O Greenfoot__O tutorials__O have__O been__O translated__O into__O seven__O languages.__O
+These__O translations__O were__O produced__O by__O volunteers__O who__O invested__O significant__O amounts__O of__O time__O to__O make__O these__O contributions.__O
+Scaling__O up.__O
+For__O international__O support__O and__O distribution__O and__O the__O scaling__O up__O of__O face-to-face__O support,__O we__O have__O established__O 8__O Greenfoot__B-PER Hubs__I-PER in__O different__O parts__O of__O the__O world__O (concentrating__O mainly__O on__O the__O US,__B-ORG following__O our__O user__O distribution,__O see__O http://www.greenfoot.org/hubs/).__O
+These__B-PER Hubs__I-PER are__O run__O by__O volunteer__O academics__O from__O other__O institutions__O in__O close__O coordination__O with__O us,__O and__O they__O provide__O local__O Greenfoot__B-ORG training__O and__O support,__O using__O resources__O developed__O and__O shared__O by__O all__O hubs.__O
+In__O 2012,__O the__O hubs__O have__O delivered__O 12__O teacher__O training__O workshops.__O
+To__O establish__O a__O self-sustaining__O community__O we__O developed__O two__O supporting__O websites__O &#8212;__B-MISC one__O for__O end__O users__O (students)__O and__O one__O for__O teachers.__O
+The__O user__O site__O provides__O direct__O help__O and__O discussion__O about__O Greenfoot__O programming__O and__O the__O teacher__O site__O provides__O teaching__O material__O and__O advice__O on__O educational__O topics.__O
+The__O Greenfoot__O user__O site__O currently__O has__O approximately__O 4500__O users__O subscribed__O and__O receives__O more__O than__O 47,000__O site__O visits__O (210,000__O page__O views)__O per__O month.__O
+It__O contains__O more__O than__O 2,500__O programmed__O Greenfoot__O examples,__O uploaded__O by__O approximately__O 1,900__O distinct__O users,__O and__O an__O active__O discussion__O section.__O
+The__O Greenfoot__O teacher__O site,__O the__O Greenroom,__B-MISC currently__O has__O more__O than__O 2,400__O teachers__O signed__O up,__O who__O uploaded__O more__O than__O 120__O resources__O and__O are__O engaged__O in__O discussion.__O
+We__O estimate__O that__O through__O these__O teachers__O alone__O we__O reach__O more__O than__O 30,000__O students.__O
+Downloads.__O
+The__O impact__O is__O plainly__O evidenced__O by__O download__O numbers.__O
+The__O Greenfoot__O software__O is__O currently__O downloaded__O more__O than__O 350,000__O times__O per__O year,__O with__O annual__O downloads__O increasing.__O
+National__B-ORG and__O international__O reach.__O
+Most__O of__O the__O impact__O is__O international,__O with__O adoption__O spread__O through__O more__O than__O 49__O countries__O (see__O section__O 5,__O reference__O 2).__O
+Adoption__O is__O strongest__O in__O North__B-LOC America__I-LOC and__O western__O Europe.__B-LOC
+Nationally,__B-PER Greenfoot__I-PER is__O now__O also__O highly__O recommended__O by__O Computing__B-ORG At__I-ORG Schools,__I-ORG who__O are__O involved__O with__O the__O development__O of__O UK__B-LOC curricula__O (see__O reference__O 9,__O below)__O and__O Greenfoot__O is__O referenced__O in__O national__O curriculum__O documents__O as__O one__O of__O the__O useful__O tools__O to__O enable__O the__O teaching__O of__O programming__O for__O that__O age__O group.__O
+Through__O this,__O the__O research__O has__O an__O impact__O in__O changing__O the__O way__O computing__O is__O presented__O in__O UK__B-LOC schools.__O
+In__O conclusion,__O we__O note__O that__O Alison__B-PER J.__I-PER Derbenwick__I-PER Miller,__I-PER Vice__O President__O of__O Oracle__B-ORG Academy__I-ORG confirms__O the__O impact__O and__O reach__O of__O Greenfoot__B-ORG in__O a__O statement__O [S5]:__O "Our__O continued__O philanthropic__O investment__O in__O the__O project__O reflect__O our__O recognition__O of__O the__O impact__O and__O importance__O of__O Greenfoot__O to__O support__O the__O learning__O of__O computer__O science__O and__O programming__O using__O [Java].__B-ORG
+Greenfoot__O makes__O initial__O programming__O more__O easily__O accessible__O and__O has__O helped__O millions__O of__O beginning__O programmers__O to__O become__O engaged__O with__O software__O development.__O
+...__O Oracle__B-MISC Academy__I-MISC has__O chosen__O to__O include__O Greenfoot__O in__O its__O Java__B-MISC Fundamentals__I-MISC course__O curriculum__O used__O by__O K-12__B-ORG teachers__O globally.__O
+...__O During__O the__O 2013__O academic__O year__O Oracle__B-ORG Academy__I-ORG delivered__O introduction__O to__O Computer__B-ORG Science__I-ORG training__O to__O approx.__O
+6,000__O teachers__O worldwide.__O
+The__O Greenfoot__O environment__O is__O an__O important__O part__O of__O our__O Java__B-MISC curriculum,__O and__O we__O are__O proud__O to__O continue__O to__O support__O its__O development__O at__O the__O University__B-ORG of__I-ORG Kent."__I-ORG

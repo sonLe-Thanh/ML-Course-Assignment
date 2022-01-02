@@ -1,0 +1,20 @@
+     CASTEP can be used to simulate a wide range of materials including       crystalline solids, surfaces, molecules, liquids and amorphous materials.
+It can calculate the properties of any material that can be thought of as       an assembly of nuclei and electrons with the only limitation being the       finite speed and memory of computers systems [C1, see Fig 1].
+Applications       include:            Device technologies: modelling materials for new semiconductor devices         including nanoparticles, high dielectric constant materials,         data-storage materials       Geology: elastic, thermal and dynamical properties of Earth and         planetary material under extreme conditions       Spectroscopy: Interpretation of experimental studies in a wide variety         of spectroscopic techniques such as Raman, Infra-red, nuclear magnetic         resonance, electron energy loss spectroscopy, neutron spectroscopy       New light emission materials: Investigations on liquid crystals, light         emitting polymers, light emitting semiconducting materials all used in         new display technologies       Structure prediction: investigations of the structures of new         materials ranging from pharmaceuticals and life-science molecules to         semiconductors, spintronics and complex metals.
+Fig 1.
+Example CASTEP output exploring biomineralisation of octacalcium       phosphate (OCP), a precursor phase in bone mineral formation.
+This shows       X-ray crystallography, first-principles density functional theory       calculations, and solid-state nuclear magnetic resonance spectroscopy       predictions of the structure.
+The reputation of the code was such that the authors were approached by       Accelrys Inc, a NASDAQ-quoted research and development software company       based in San Diego, USA, which employs over 360 people and has an annual       turnover of $81M [C2].
+They proposed licensing the software so they could       market it for scientific, industrial and technological applications.
+Accelrys incorporated CASTEP into its Materials Studio modelling and       simulation platform which has been bought by over 800 companies worldwide       [C3], making this the best selling software package of its type.
+These       include some of the largest manufacturers in the chemical (e.g.
+Unilever),       pharmaceutical, automobile (e.g.
+Toyota, General Motors) and aviation       (e.g.
+Boeing) sectors, as well as smaller scale high-tech science       companies, testifying to the commercial viability of the product across a       wide spectrum of business sizes and sectors [C3].
+Research into the effectiveness of CASTEP, sponsored by Accelrys, found       that customers were able to recoup their investment in software tools up       to ten times over.
+The major cost savings in applying computer simulations       to the research and development of materials were from circumventing the       need for costly experiments and shorter developmental timescales.
+[C4]     The code is deeply embedded in industry, so its full impact is not       possible to quantify, especially as much of the information is       commercially sensitive.
+However, an Accelerys survey of patents based on       CASTEP shows that 83 have been published since 2008 [C5].
+Examples include       one filed by the Tokyo-based OKI Electric Industry Co. Ltd which is       pioneering a method of forming a gate recess in a semiconductor device.
+Another of the patents was issued in 2010 to the German-US chemicals giant       Kronos International Ltd for an invention relating to titanium dioxide       pigment particles and methods for their manufacture.
+Sales of Castep are producing an annual return of &#163;2.5m to Accelerys,       with total sales in excess of $30M [C3]

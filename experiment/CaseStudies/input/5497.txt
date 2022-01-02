@@ -1,0 +1,28 @@
+     Our research has benefitted the UK's Office for National Statistics       (ONS), its clients and data providers, by exposing serious flaws in       existing methodologies and techniques for protecting confidentiality and       by creating tools for (i) auditing and (ii) protecting large complex       tables.
+UWE's research enabled ONS to handle: (i) larger tables than       previously, for example two-dimensional (2D) tables with over 1,000,000       cells; and (ii) complex tables, for example 3D with up to 200,000 cells,       and smaller 4D tables.
+UWE's research findings were verified in extensive testing at ONS and by       the developers of the tau-Argus SDC software in 2011 and 2012.
+Their confirmation of the weaknesses in existing methodologies has led to       the following (S1):     a.
+The incorporation of UWE's unpicker algorithm as an auditing tool into       tau-Argos version 3 since Sept 2012.
+This tool is used by NSAs       worldwide.
+It is also the standard recommended by the ONS to UK data       providers such as the NHS.
+b.
+A policy decision at ONS in 2012 to change their methodology for       protecting magnitude data.
+c. A decision by ONS in 2012 to incorporate UWE's unpicker algorithm as       part of ONS's standard working practice to validate and protect tables.
+d. A decision in 2012 to incorporate UWE's protection tool within ONS's       tool set, accompanied in spring 2013 by internal ONS funding for the       necessary development work, with initial deployment in 2013.
+The research findings also motivated ONS to provide additional funding to       ensure further impact:     e. The award in May 2013 of internal ONS funding to complete the roll-out       of the full suite of UWE tools and an integrated work-flow that protects       the Business Related Employment Statistics from autumn 2013,     f. The award in spring 2013 of ONS internal funding for the development       work needed to complete the incorporation in early 2014 of UWE's unpicker       algorithm into the desktop workflow management system at ONS's Business       Statistics Methods Unit.
+There are three groups of beneficiaries of UWE's research:             Respondents to data surveys (such as individuals and         businesses), that supply the source information and who have now been         protected by guaranteed confidentiality.
+Fortunately, to date there have         been no (highly publicised) breaches, although the existence of         increased computer power and sophistication make this ever more likely.
+Data providers (not ONS and NSAs), such as local and central         government agencies, the NHS, businesses and other organisations.
+The         new ability to rapidly validate their tables prior to publication has         allowed them to meet their duty of trust with confidence.
+The release of         the updated tau-Argus software (and, in ONS's case, the direct         deployment of UWE's programs) meant that many of the world's NSAs are         now able to meet their legal obligation to protect the confidentiality         of the information provided to them (while noting that to date there has         never been a (widely publicised) problem to have undermined confidence).
+Data providers now also benefit from faster automated tools for creating         protected tables that replace manual and/or ad-hoc methods used for         larger and/or more detailed datasets.
+This enables more frequent and         flexible release of valuable data into the public domain.
+Data users (for example strategic planners and policymakers in         business, health, and government), who now benefit from improved access         to more detailed information.
+Providing greater data availability is in         line with the National Data Strategy developed by the UK           Data Forum who has stated that "the value to the UK of good data         has never been greater".
+This has also benefitted the official Open           Data Initiative that aims to make available as much government         data as possible.
+The unpicker algorithm has now been deployed at ONS and has since 2012       also been incorporated within the tau-Argus tool maintained by the       Central Bureau of Statistics (CBS), Netherlands (S2), and used by       NSAs worldwide.
+This has had a significant trans-European and worldwide       impact given that tau-Argus is the most popular SDC tool in use       throughout the world.
+It was funded by Eurostat and is maintained       by Statistics Netherlands.
+It incorporates many cell suppression       methods and is free to use.
+Strategically, the impact of UWE's research represents a major milestone       on the path to "information on demand", with the aim for a fundamental       shift in the relationship between data providers and clients.
+Improved       access to information enables business, government or other agencies to       make more informed choices and leads to more efficient and effective       planning and resource utilisation.

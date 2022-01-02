@@ -1,0 +1,41 @@
+     The work at St Andrews has impacted on the materials, battery,       electronics and automotive industries here in the UK and worldwide,       bringing economic, consumer and environmental benefits globally.
+The       beneficiaries are wide-ranging: [text removed for publication].
+In       addition, the [text removed for publication] nanostructured       electrodes have had particularly strong impact on companies ([text         removed for publication]) that are targeting the automotive industry       and there are vehicles that now contain this technology ([text removed         for publication]).
+Finally, the development of the lithium-air       battery has had significant impact on several companies, who are looking       to develop very high power 3rd generation lithium battery       materials [S2, S5].
+A.
+Economic Impact.
+The concepts described in the research above       have had significant impact on a number of different areas of lithium       battery technology but in particular it has impacted on the development of       2nd generation rechargeable Li-ion batteries produced by all       the major battery manufacturers globally, [text removed for         publication].
+The discovery and synthesis of layered LiMnO2 (LMO) as a       positive electrode for lithium batteries [text removed for         publication] to reduce cost and improve safety.
+These materials are       manufactured worldwide, as are the batteries that use them as positive       electrodes.
+The value of the lithium battery market is estimated at $12       billion per annum (approx.
+4 billion cells) and the Mn based share at ~40%       [S6].
+[text removed for publication]     The University of St Andrews patented the original work and the IPR was       licensed to Nissan Chemicals for a significant period.
+However, it is the       general concept that has had the most impact.
+The wealth of possible       combinations of elements in mixed metal Li(Mn1-xMx)O2       materials means that each company has developed their own particular       electrode.
+[text removed for publication].
+The director of LIB Battery Consultants LTD, writes that Peter Bruce's       work on "...manganese-based lithium oxides has made a major impact in         the field.
+His work on the spinel materials laid the foundations for         their later use as cathodes in lithium ion batteries for automotive         applications, for example in the Nissan leaf and Vauxhall Ampera."
+[Reference S1]     II.
+The hierarchical approach to lithium-ion battery electrode design,       combining, nano and micron scales, demonstrated by Bruce, is being       exploited in the fabrication of titanate anodes for lithiumion batteries [text         removed for publication].
+The advantage is that the batteries can be       safely charged and discharged at higher rates than traditional lithium-ion       batteries, because the nanostructure enhances the charge/discharge rates,       while the hierarchical structure ensures that the electrode is more dense       than a simple powder of nanoparticles, thus delivering high volumetric       capacity.
+Nanostructured lithium titanate batteries account for only a       small percentage of the total lithium battery market as yet, but their       market share is predicted to increase over the next ten years       substantially.
+III.
+The theoretical energy density (storage) of the lithium-air battery       is 10 times greater than lithium-ion batteries of today and greater than       Li-ion batteries can ever achieve.
+As such, lithium-air could deliver the       Holy Grail in the automotive industry of an electric vehicle with a 500km       driving range.
+Bruce's pioneering studies in 2006 led directly to an       explosion of interest in the Li-air battery, not only in academic research       but also within industry.
+The major current impact (2009 onwards) of this       relatively recent research advance is on companies, who are actively       developing the concepts behind the lithium-air battery.
+The Economist [See       reference S2] reported that the advances "..that Dr Bruce's team has         designed can be a mere one-eighth to one-tenth the size and weight of         modern batteries, while still carrying the same charge.
+Making such a         battery is also expected to be cheaper.
+Lithium cobalt oxide accounts         for 30% of the cost of a lithium-ion battery.
+Air, however, is free."
+Since then major automotive companies around the world are pursuing the       technology.
+Examples of companies developing the Li-air battery are, IBM,       Toyota/BMW, CEA (France), BASF/Bosch Germany, Volkswagen, Samsung.
+IBM has       announced they will demonstrate a prototype in 2014, [See corroborative       references S5, S9].
+B.
+Policy Impact     A significant role as advocate and advisor to industry and Government has       arisen from the research on lithium batteries at St Andrews.
+Bruce has       appeared before a Parliamentary Select Committee.
+Importantly, Bruce       Chaired a Royal Society of Chemistry committee that produced a report on       Energy Storage, [text removed for publication].
+C. Societal Impact     Lithium batteries have become firmly entrenched in consumer goods over       the last decade.
+As such the impact of the fundamental research described       above and its subsequent exploitation has played an important part in the       impact of 2nd generation lithium batteries on society across       the world.
+For the LMO battery technology the impact has allowed safer       power tools and medical device batteries, and nanostructured electrode       batteries are breaking into the electric vehicle market.
+[text removed         for publication].

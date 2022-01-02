@@ -1,0 +1,49 @@
+     The Virus.
+Cytomegalovirus (CMV) is the major viral cause of       congenital malformation.
+Associated care costs $4.027 billion/year in the       US alone.
+Infection is associated with life-threatening disease in the       immunocompromised (most significantly transplant recipients and HIV-AIDS       patients), and more than 95% of glioblastoma multiforme - the most common       and aggressive form of brain tumour.
+Moreover, CMV is an important cause       of infectious mononucleosis, hepatitis, colitis, retinitis,       arteriosclerosis and sensorineural hearing loss.
+CMV also induces changes       to the immune repertoire that contribute to autoimmune disease (arthritis)       and immunosenescence.
+The Problem: Lack of consistent measurement of CMV load.
+Since CMV       disease takes many forms, it lacks specific symptoms and diagnosis is       absolutely dependent on laboratory testing.
+With more than 50% of the       adult population carrying a persistent infection, the presence of       antibodies does not define disease.
+PCR is therefore the key diagnostic       test for defining CMV disease, and accurate quantification of virus load       can be used to direct antiviral therapy and patient management (e.g.
+removal/alleviation of immunosuppression in transplant recipients).
+The       CMV antivirals, such as Ganciclovir and Foscarnet, are associated with       significant toxicity and resistance can arise rapidly.
+Clinicians       therefore need to use them with guidance from precise quantification of       CMV load.
+Before the Cardiff impact, CMV Q-PCR assays employed a diverse range of       standards, including cloned fragments and assorted laboratory strains with       varying experimental definitions of titre.
+This lack of universal PCR test       calibration prevented consensus or cooperative management of       life-threatening infections across clinical centres.
+So, in 2004, the       International Herpesvirus Management Forum identified the urgent need for:     "an international quantitation standard...to compare studies using         different PCR-based systems and to facilitate patient management at         multiple care centres" 5.1.
+The Path to Impact - Providing a Genome Standard for the Pathogenic         Herpesvirus Human Cytomegalovirus.
+The importance of defining the       genome of a CMV clinical isolate is evidenced by the adoption of this       virus as the global PCR standard as well as more than 250 citations of the       original 2004 sequence paper (although commonly only the accession number       is referenced).
+Since 2004, the annotated strain Merlin genome has been available through       the World Health Organisation (WHO) reference library NIBSC.
+Additionally,       the viruses were deposited in virus banks run by the American Type Culture       Collection and the European Collection of Cell Cultures, and thereby       freely available to users worldwide.
+This enabled resource distribution       beyond academia, informing commercial development of vaccines and       medicinal chemistry.
+Impact: WHO adopts Strain Merlin as PCR Standard.
+Following the       warning by the International Herpesvirus Management forum, the WHO       recognised the lack of CMV Standard as globally significant.
+In 2008, the       development of the first WHO International Standard for CMV was discussed       at the Standardisation of Genomic Amplification Techniques Clinical       Diagnostics meeting.
+Participants agreed then that the optimal standard       would "comprise a whole virus preparation of the prototype clinical         HCMV strain Merlin".5.2a.
+Subsequently, the WHO Expert Committee on Biological Standardization       supported this recommendation: "the strain [Merlin] was chosen as it is         well-characterised and more likely to represent a clinical virus than         other laboratory-adapted strains" 5.2b.
+In 2010, Wilkinson and Stanton (Cardiff) were formally acknowledged to       have provided the WHO reference laboratory (NIBSC) with HCMV strains AD169       and Merlin, the Merlin-BAC clone and technical and logistical advice on       working with these reagents 5.2c, 5.3.
+Merlin and other test       candidate strains were evaluated in 32 diagnostic, commercial and research       laboratories in 14 countries evaluated test candidates.
+The recommendation       stated: "...the results of the [collaborative] study indicate the         suitability of the candidate HCMV Merlin standard as the proposed 1st         WHO International Standard for HCMV.
+It is therefore proposed that the         candidate standard (NIBSC code 09/162) be established as the 1st WHO         International Standard for HCMV...."5.2d     Impact: Adoption of Merlin as calibration standard by the         pharmaceutical industry.
+Following adoption by the WHO, the CMV Merlin strain was then distributed       by NIBSC as an international standard.
+Between January 2011 and April       2013, NIBSC shipped 960 vials of the standard to 270 diagnosis centres in       43 countries.
+In the next two years following WHO adoption, Merlin was evaluated and       implemented as a calibration standard in commercial Q-PCR testing assays       by Cobas Roche, Abbott, ABI Taqman,       Altona Diagnostics (Germany) Biomerieux Argene, Chiron, and J&amp;J       Diagnostics/Amersham Amerlite (Qiagen).
+Promotional material for these       devices now states they have been standardized to the first WHO       international standard5.4.
+The Roche assay has now been       approved by the FDA as a result of its calibration5.6.
+The       Abbott assay has been approved for evaluation of a trial of a first-ever       CMV vaccine trial5.5.
+The Merlin strain is also regularly       distributed from Cardiff to support commercial research.
+Since 2010, 35       Material Transfer Agreements have been signed.
+Impact: Benefits of Merlin in clinical management of CMV.
+In 2011,       a single London hospital (Royal Free) carried out approximately 10,000       assays at a cost &#163;0.5M (Dr R. Milne, personal communication).
+In the UK       alone in the same year, 58 centres carried out 252,303 CMV diagnostic PCR       tests, all now calibrated to the WHO standard; a market increasing 22%       annually5.7.
+The global market is proportionately larger.
+The Cardiff research has therefore enabled greater validation and       consistency in millions of tests conducted since 2010, improving the       clinical management of CMV disease.
+The commercial PCR assays, now       calibrated against Merlin, allow more accurate assessment of viral load       and thereby more precise use of antiviral therapy, reducing the risk of       toxicity and resistance.
+These clinical benefits of Merlin as a CMV       standard have been recognised in a growing number of studies.
+One       international multicenter evaluation 5.8, assessing the       performance of the Roche assay against non-calibrated tests, stated: "The         implementation of an international standard and the availability of         commercial QNAT [quantitative nucleic acid testing] with broad         interlaboratory agreement that are traceable and colinear to the first         WHO CMV international standard represent a much needed advancement."
+An editorial to the same paper quotes: "With the availability of this         test and the WHO International Standard for recalibrating LDTs         [laboratory developed tests], the tools are now on hand to conduct         multicenter clinical studies to establish clinical cutoffs for         determining the risk of disease, diagnosing disease, and monitoring         response to antiviral therapy.
+"5.9 http://cid.oxfordjournals.org/content/56/3/374.full.pdf+html         (page 375) Another concludes: "Patients with pretreatment CMV DNA         of &lt;18 200 (4.3 log10) IU/mL are 1.5 times more likely to have CMV         disease resolution.
+CMV suppression (&lt;137 [2.1 log10] IU/mL), as         measured by a test calibrated to the WHO Standard, is predictive of         clinical response to antiviral treatment" http://cid.oxfordjournals.org/content/56/11/1546.full.pdf+html         (page 1546, `Conclusions' paragraph on first page).

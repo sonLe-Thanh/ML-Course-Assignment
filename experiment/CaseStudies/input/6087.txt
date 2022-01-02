@@ -1,0 +1,35 @@
+     The "time triggered" approach to building embedded systems is a new       paradigm enabling the       development of a new class of high reliability embedded systems where       guarantees of meeting       timing deadlines are crucial from a safety perspective and therefore in       many cases certification.
+The benefits of the research are a large collection of design patterns and       engineering knowledge       demonstrating how such systems can be constructed, and a set of software       tools supporting the       construction and development of deterministic hardware and processors       supporting the       requirements of these systems.
+Impact is on the way safety and reliability       of embedded systems is       considered in automotive and avionic sectors.
+The above research was primarily exploited through the formation of TTE       Systems Ltd (a spin-out       company from the University of Leicester) using two commercial activities:       the "TT" product family,       and training courses.
+Since it began trading in 2007, TTE Systems       attracted total investment in       excess of &#163;1m with an annual turnover of approximately &#163;0.8m.
+On average       in that period, there       were 10 technical and training staff working with a number of customers in       the UK, Europe, US,       and Asia.
+From 2008-2013, professional training courses attracted approximately 100       current industrial       practitioner customers from UK/Europe, and a similar number in South East       Asia.
+Significant       customers for these activities include Rolls Royce, Aero Engine Controls,       Smith Electric Vehicles,       [text removed for publication] Mira, [text removed for publication].
+The       training activities are       currently being supported by UoL as an ongoing activity.
+Smith Electric Vehicles (SEV):     SEV manufacture and market zero-emission commercial electric vehicles       that are designed to be a       superior performing alternative to traditional diesel trucks due to higher       efficiency and lower total       cost of ownership.
+They have research and development centres in the UK       and USA.
+SEV have       exploited the technology in embedded applications for battery systems.
+The       use of time-triggered       methodologies and tools has increased speed to market and lowered       development costs.
+"Using the skills learnt on the Reliable Embedded Systems course we         have been able to design         and write embedded applications for our new battery system.
+These         applications were written         using time triggered methodology allowing us to increase our speed to         market, lower our cost of         development and enhance our team skills base.
+These advantages have had         a small but         demonstrable impact on our new battery system, leading to a $10,000 cost         saving on the parts list         (BOM) for one of our electric vehicles.
+", Ross Cooney,       Engineering Software &amp; Telemetry       Manager, Smith Electric Vehicles (A).
+It should be noted that this       is a $10,000 cost saving on       each vehicle at a time when there is a major focus on reducing the cost of       electric vehicle.
+Aero Engine Controls (AEC):     AEC are part of the international Rolls-Royce Group, with research,       development and production       centres in the UK, USA, UAE, and Singapore.
+They provide a single solution       to the design,       manufacture, procurement, testing and support of high-integrity, harsh       environment control       systems, including safety critical software, electronic, electrical and       hydro-mechanical products.
+"The technology has been directly applied to in-house testing tools         for the generation of test cases,         SCADE model simulator, and AdaTest code generation.
+This has a direct         technical, certification,       and cost benefit as it enables the same use of procedures to test         design and executable code for         compliance with DO178B industry regulator standards."
+Duncan Brown,       Chief of Systems       Capability, Aero Engine Controls (B).
+"Since 2010, AEC have invested a total of &#163;1m in development and         training in high reliability and         time triggered architectures via TTE Systems resulting in the creation         of more than 14 full-time         engineer positions in this area with more to follow in 2014.
+This         represents approximately 5% of         the total AEC capability in the Embedded Systems area.
+This has         significantly accelerated         capability development within AEC in the embedded systems area."
+Duncan Brown, Chief of       Systems Capability, Aero Engine Controls (B).
+MIRA:     MIRA is a UK-based international independent vehicle engineering       consultancy providing       engineering innovations and testing/certification solutions in the field       of vehicle and systems       technology.
+MIRA offer services ranging across commercial vehicles,       defence, UAV, intelligent       transport systems, aerospace, rail, and motorsport.
+"The principles of Time Triggered Embedded Systems design have been         used in several         developments of bespoke embedded systems and have enabled dependable         systems to be         created in a shorter timescale than using traditional techniques.
+The         basic platform developed         using such techniques has been reused with minimal redesign in several         subsequent applications."
+David Ward, Head of Functional Safety, Mira (C).
+Other impacts:     Embedded Systems Demonstrator Laboratory (2007 - 2013).
+The ESDL, funded       by the East       Midlands Development Agency opened in 2007.
+The facility enabled       researchers, end users and       other interested groups including Midlands-based SME's to trial new       embedded time-triggered       technologies.

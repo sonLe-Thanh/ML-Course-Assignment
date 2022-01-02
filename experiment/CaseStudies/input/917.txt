@@ -1,0 +1,32 @@
+     Research findings and advice from Professor Forsythe's team have led to       (1) revisions in international regulations on the safe feeding of infants       in hospitals and in the home, and (2) improvements in the microbiological       safety of manufactured powdered infant formula.
+1.
+Influence on international regulatory affairs     1a.
+Three FAO-WHO risk assessments on the microbial safety       of powdered infant formula (2004, 2006, 2008, source of corroboration 1a)       were informed by the Unit's research on bacterial pathogens in infant       formula and advice from Professor Forsythe as an expert at the risk       assessment workshops.
+The reports made recommendations to worldwide       regulatory authorities; see 1c below.
+1b.
+WHO risk communication guidelines on the hygienic       preparation of powdered infant formula were revised in 2007 (source of       corroboration 1b) and were used to inform individual governmental       regulatory authorities; see 1c below.
+1c.
+The recommendations from 1a &amp; b above were adopted (2008-)       by the worldwide regulatory community (the risk managers in, for       example, Canada, Germany, New Zealand, United Kingdom, United States)       regarding the safe preparation of formula in hospitals and homes (sources       of corroboration 2a, b, c).
+1d.
+The development of an online risk assessment model by       the Joint FAO-WHO Expert Meetings on Microbiological Risk Assessment       (JEMRA) http://www.mramodels.org/esak       was based on the FAO/WHO reports (1a above) for use by formula       manufacturers and regulatory bodies; still in current use (source of       corroboration 1c).
+1e.
+Prior to 2008 there was no international requirement for the       detection of Cronobacter in powdered infant formula.
+The risk       assessments of FAO-WHO (1a above) informed by the research in this Unit       led to changes in risk management by the Codex Alimentarius       Commission with the introduction of international microbial criteria       (&lt;1 Cronobacter cell/10g powdered infant formula) for       commercially produced powdered infant formula (CAC 2008).
+These new       criteria are now implemented into international legislation by respective       regulatory bodies.
+As explained below, compliance with these criteria       required the development of reliable detection methodologies, based on an       accurate definition and understanding of the Cronobacter genus       (source of corroboration 3).
+2.
+Cronobacter genus recognition and detection         methodology implementation     A consequence of the FAO-WHO risk assessments was the new international       legal requirement (Codex Alimentarius Commission) for the absence of Cronobacter       spp.
+in powdered infant formula (test weight 300g).
+Therefore robust and       reliable detection methods were needed to ensure both consumer protection       (presence of false negative results - a potential health hazard) and       manufacturer protection (presence of either false negative [brand       protection and legislative compliance] or false positive results [costly       batch rejection]).
+In response to this need, Professor Forsythe, in       collaboration with Oxoid ThermoFisher, co-developed the selective DFI       chromogenic agar for Cronobacter spp (Ref 2).
+The DFI agar was       used in the international survey for the specific isolation of Cronobacter       spp.
+from follow up formula co-ordinated by Professor Forsythe and survey       results were used in the FAO-WHO (2008) report and separately published       (Ref 3).
+This agar is now:     - Commercially available from international microbiological       media manufacturers (eg.
+CM1055 Oxoid, CSA-DFI LabM, Chromocult Merck)     - Used by powdered infant formula manufacturers     - Compliant with International Standards Organization (ISO)       standard ISO/TS 22964     - A Food and Drug Administration (USA) recommended method (FDA       2012).
+Sources of corroboration 4a and 4b.
+3.
+Size of `at risk' population (beneficiaries) and commercial         interest     The scale of the exposure to risk can be approximated through the number       of infant formula feedings.
+The world sales of infant formula are nearly a       million tons per year (907000 tons in 2007 estimate by UBIC Consulting).
+Based on 200 feedings in a one-month period, ~250 babies/million       population per year weighing 2000g or less (data source FAO-WHO 2004), and       since infant formula is given for up to the first 3-6 months of life, the       number of feeds/year/million population and therefore the size of the `at       risk' population is estimated to be 150000-300000/annum.
+Uncertainties about quality of product have dramatic financial       consequences for formula producers.
+For example, in December 2011 Mead       Johnson's share prices fell by 11% due to product withdrawal by Wal-Mart       Stores Inc. following a publicised baby's death from Cronobacter       infection; source of corroboration 4c.

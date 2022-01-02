@@ -1,0 +1,33 @@
+     The impact is epitomised by Vardy's services through Dundee Tunnel       Research (DTR)[9],       specialising in air flow in road and rail tunnels and embracing software       licensing, design       consultancy, research and the promotion of tunnel safety.
+The impact is       economic (cost savings       achieved by optimum design), environmental and societal (facilitating       "clean" transport systems       and reducing fossil fuel pollution) and health-related (improving       passenger comfort and tunnel       safety).
+Licences for ThermoTun granted by the university and DTR       are targeted expressly at       knowledgeable users offering a specialist service to their clients[10,11,12,13].
+Since 2008, licences       have been granted in Austria, Hong Kong, Korea, Spain, Switzerland, UK and       USA.
+MPVC is       licensed only in Japan and Vardy provides technical expertise for each       application[14].
+The oil-related 	  software PipePulse is licensed exclusively to a Scottish       company, Paradigm Flow       Services[15].
+ThermoTun is regarded internationally as "the top software       available for 1-D simulations of rapidly-varying       pressure, velocity and temperature in railway tunnels"[12].
+Since 2008, it has been used in       the design of many of the largest tunnels in the world[16,17],       including the 57km Gotthard Base and       35km L&#246;tschberg Base tunnels (Switzerland); the 28km Guadarrama and 25km       Pajares tunnels       (Spain), the 18km Fehmarn Link (Denmark-Germany) and high speed lines       under design or       construction in China, Korea, continental Europe and the UK.
+ThermoTun       has also been used for       an ultra-high-speed Munich Mag-Lev Railway, more than 200 shorter high       speed tunnels       worldwide and more than 30 metro systems.
+It is regarded by UK Rail       Standards &amp; Safety Board       as being "without peer in predicting aerodynamic effects of trains       travelling in underground tunnel       systems"[13].
+MPVC is currently used to control seven       long road tunnels in Japan[14], including the       two longest (11km Kan-Etsu, 11km Hida), where it has delivered large       savings in power       consumption.
+Impact is evident through Vardy's frequent involvement in design,       predominantly at the feasibility       stage, when it is still possible for current research to have a       significant influence on the eventual       outcome.
+This is also the stage at which the need for new research is most       easily identified.
+Thus,       the need to understand sonic booms from tunnels led to long-standing       research on unsteady       friction and on wave flows over porous media (ballast-track rail).
+Likewise, concern about       excessive temperatures (&gt; 50&#176;C) in tunnels under the Alps led to       research having impact on       prediction of heat conduction in seepage flows around tunnels.
+Exposure to       practical tunnel       operation led to research on model-based ventilation control and new       proposals for safe ventilation       in the event of fire.
+All have fed back into practical design.
+For       designers, the impact of these       activities occurs at the design stage whereas, for constructors, it occurs       a few years later.
+For       users, it occurs many years later (and is then on-going).
+For instance,       current high speed rail       design for the UK[16,13] is directly influenced by Vardy's       publications and by a ThermoTun licensee,       but passengers and people close to portals will not benefit until 2025 or       beyond.
+Arup confirm[11]       that Vardy's research on aural pressure comfort is the critical factor in       optimising tunnel sizes and       thereby achieving savings for national governments of "tens or hundreds of       millions of pounds"[11] in       unnecessary expenditure.
+The development of MPVC was triggered by a realisation that, in       many tunnels, ventilation control       systems were highly wasteful of power and often failed to achieve the       desired conditions.
+Vardy's       paper with Ichikawa[1] led to strong interest in Japan where       there are thousands of road tunnels.
+The Japan Highway Public Corporation (now NEXCO) now regards MPVC       as its preferred control       system for long highway tunnels and is installing it at the rate of about       one tunnel per year.
+Design       services are provided by Sohatsu Ltd with project-specific guidance from       Vardy[14,18].
+This link with       Sohatsu has evolved to include further research underpinning the       development of a new system       (FCVC) now used successfully in simpler tunnels than those for       which MPVC is installed[14].
+FCVC       provides automatic control in a fire emergency, with special (but not       exclusive) application in bi-directional       tunnels with no exhaust shafts.
+Impact in the oil industry is through Paradigm Flow Solutions, an SME       that specialises in detecting,       locating and removing restrictions and blockages from offshore pipelines.
+Typical lines are tens of       kilometres long and diameters range from 15mm-250mm.
+Paradigm's work       focuses on the       common case when access for intervention is possible only at the ends of       the long lines.
+Vardy's       inverse-transient software enables the mapping of local and distributed       blockages.
+The long-term       research on unsteady friction is informing methods of removing the       blockages and, more recently,       in preventing their development.
+Paradigm Flow Solutions credit the recent       application of Vardy's       technique to the unblocking of a pipeline with a saving of &#163;4M in       intervention costs for its client and       significant enhancement of the company's reputation[15]

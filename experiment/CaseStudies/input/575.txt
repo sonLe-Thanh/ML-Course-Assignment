@@ -1,0 +1,19 @@
+     The research carried out in the area of statistical disclosure control       has led to significant changes in the dissemination of micro data in       official statistics.
+The seminal paper by Franconi and Stander [3] and       subsequent work in the area of model-based micro-data protection (see [4])       have successfully resulted in the release of micro-data for research       purposes, with respect to the Italian sample of the Structure of         Earning survey.
+This survey, leading to a linked employer-employee       database harmonized at European level, is now going to reach its third       wave of release.
+Economists have carried out several studies, using the       micro data file for research distributed at national level by Istat, and       at EU level by Eurostat.
+The ideas contained in another paper, published by researchers from       Plymouth University in the field of statistical disclosure control,       Burridge (2003) [2], have opened the field to the use of perturbation       methods showing sound statistical properties by construction.
+Again, a new       micro data file for research purposes on the system of account will be       released in the near future, stemming from the work carried out at       Plymouth University.
+Moreover, the IPSO method (Information Preserving       Statistical Obfuscation) has also been implemented in the mu-Argus       software (mu-Argus, 2013), which has been designed to create files of       individual data to be released either for research purposes or for the       public (1).
+Many national statistical offices in Europe and statistical       agencies around the world use this software.
+Some of the developments       contained in Polettini and Stander (2005), leading to an alternative       evaluation and a related accurate approximation of the risk of       re-identification, have also been implemented in the mu- Argus software.
+Given a good understanding of administrative data systems, we have been       able to contribute to problem solving within the UK.
+For example, 13.9% of       the total primary care budget is directed to mental health, a total of &#163;8       billion.
+The indicative allocation of several billion pounds of public       money to GP practices, to provide services for mental health, is informed       by what the NHS refers to as the `Plymouth Model'.
+In the user guide [page       10](DoH, 2009):     `For mental health, the toolkit includes an entirely new methodology       developed by Plymouth University specifically for practice based       commissioning.
+This new approach moves away from modelling historic       utilisation and estimates need directly based on different person types'       (2).
+In order to do this, we have required state-of-the-art epidemiological       models applied to the Health Survey for England, working on case mix       classifications as well as a statistical reconstruction of the census       data, known to be subject to statistical disclosure control.
+Quoting the       NHS (DoH, 2009):     `The new methodology has undergone extensive testing by the researchers       and DoH and we believe it provides a step-change improvement in the way we       model mental health need' (2).
+This work has been reported to select committees in parliament and       recognised by MPs, all of whom have noted the size of GP commissioning       groups (3).
+It has also been fully considered by the National Audit       Office, influencing the way public sector funding may evolve in the future       (4).
+Finally, our expertise with national-scale small-area estimates has       had further impact on work carried out for the 2011 Skills for Life       Survey, which has been made available by the Department for Business,       Innovation and Skills (5).

@@ -1,0 +1,43 @@
+     In 2003, with venture capital from Prof. Max Robinson, a business angel       who was at that time a member of the Durham University Technology Transfer       team, the intellectual property was licensed to a spin-out company, Durham       Scientific Crystals, subsequently renamed Kromek, in order to directly       exploit the new vapour growth process.
+Supplemented by a DTI SMART award,       the first commercial crystal growth facility was established in the       company's first premises in the Mountjoy Research Centre, which was then       the University business incubator.
+There were initially two staff members,       Drs Arnab Basu and Ben Cantwell, both of whom had just completed their       PhDs with Prof Brinkman in the Physics Department in Durham.
+The company       rapidly outgrew its original accommodation and moved to NETPark (North       East Technology Park), Sedgefield in 2005.
+Continued growth necessitated a       move to larger, purpose built premises in NETPark (see Fig 1 &amp; 2),       opened by Prince Andrew in 2010 [C1].
+The company now employs over 50       people, including several sub-contractors, at NETPark.
+Fig 1 Kromek&#8217;s NETPark (Sedgefield) premises 	     	   	  Fig 2 Part of the crystal growth facility 	  	       The business model initially focused on the growth of large, high purity       CdTe and CdZnTe crystals for sale to other companies building X-and       gamma-ray detectors or infrared imaging systems.
+However, the company       then took the strategic decision to move up the product value chain by       fabricating their own imaging detectors, incorporating ASIC (Application       Specific Integrated Circuit) electronics.
+The potential of these attracted       &#163;1M investment in 2005 from Amphion, the UK arm of a US venture capital       company investing in high tech start-up companies.
+Subsequent calls for       venture capital resulted in investment of over &#163;24M, with a round in 2009 raising &#163;12.3M [C2].
+To ensure direct supply of the ASIC technology, Kromek bought Nova       R&amp;D in 2010, an electronics company employing 13 staff at its       Riverside, California base [C3].
+In June 2011, Kromek and Nova held 34       granted patents.
+In February 2013, Kromek acquired Endicott Interconnect       Detection and Imaging Systems (EIDS), based in Saxonburg, PA, USA in a       strategic move to consolidate the market in melt-grown CdZnTe material.
+This acquisition added another 40 staff, 25 patents and 300 trade secrets       to the Kromek Group.
+EIDS is now trading again as eV Products [C4].
+Initially the company explored applications in the medical imaging market       where there are multiple applications for colour X-ray imaging.
+Kromek had       a $1.5M contract from the US National Institute for Health to develop an       advanced X-ray camera for breast cancer detection, building on expertise       developed from an earlier contract with Siemens to build pixelated X-ray       detectors for computerised tomography (CT) scanners [C5].
+However,       security systems presented even more opportunities with new requirements       for screening airport carry-on baggage since 9/11.
+Supported by the UK       Home Office and its investors, the company incorporated their detectors       into X-ray systems for liquid explosive detection.
+In 2008 (the same year       it was awarded the ISO2001 manufacturing quality stamp) it launched a       bottle scanner which can deal with individual containers.
+The system, now       in use at airports around the world, has a direct impact on all airline       passengers as it allows duty free liquids to be carried through airport       security screens [C6].
+The liquid scanning system (see Fig 3) readily       distinguishes Coca-Cola from Pepsi, and was awarded the       newly created Standard 3 for Liquid Explosive Detection Systems (LEDS)       following recent regulatory trials (August 2013).
+Kromek Chief Executive       Officer, Dr Arnab Basu said: ''This achievement, together with a 20%         reduction in scan time, design changes that include a much faster and         simpler user interface, and a roadmap to further reduce the scanning         time by 50% put Kromek's explosives detection equipment ahead of the         pack.....What makes the Identifier unique is its ability to scan metal       cans, Tetra Pak and foil pouches, in addition to all types of glass       and plastic containers; this means the Kromek Identifier is the only         ECAC Standard 3 approved system that can scan every container type with         a simple one button operation."
+[C7]   	   	  Fig 3.
+Bottle scanner in use in airport security 	  	       The company went from winning regional awards in 2007 (Business Link       North East Business award, Business Innovation Centre), to national       competitions in 2008 (IET Innovation award), and European success in 2009       (Western Europe Global Security Challenge for Best Security SME).
+This       series culminated in the $400,000 Global Security Challenge award in 2009       for Best Security SME, while Dr Arnab Basu, now Kromek's CEO, won the 2009       Ernst and Young title of UK Young Entrepreneur of the Year [C8].
+Other security applications use CdZnTe (CZT) crystals for gamma-ray       detection systems.
+In 2010 the company won a $4M contract with the US       Defense Threat Reduction Agency (DTRA) to develop detectors for       radioactive materials as part of its on-going anti-terrorist measures       [C9], and the resulting products are also on sale as handheld radiation       monitors e.g.
+Kromek's GR1 detectors (Fig 4) which are in use at Fukushima       for decommissioning the nuclear plant [C10].
+These can be combined with a       wall climbing, radio controlled robot to provide nuclide identification in       hard-to-reach, high-risk environments where safety is paramount (Fig 5).
+The company has also developed a home radiation monitor, RadAngel, which       can be used with most iOS or Windows devices.
+This product was launched in       Japan in July 2012 and is now available directly to consumers for around       $2000 (Fig 5).
+Other Kromek products [C11] include the RayMon10 handheld       radiation monitor and isotope identifier, and RadViz a CZT based gamma ray       camera that enables remote nuclear characterisation with 3D dose mapping       capability for the nuclear industry.
+Kromek was awarded a further $3.5M       from the DTRA in collaboration with Northrop Grumman.
+Fig 4: GR1 gamma ray detector as used in Fukushima 	      	   	  Fig 5: radio controlled wall climbing vehicle with GR1 	      	   	  Fig 6: RadAngel home radiation monitor 	  	     Since the original company spun out, there has been continuing research       collaboration between the University and the company.
+Prof. Tanner, a       member of staff of the Physics Department, is the Deputy Chairman of the       company board and Prof Brinkman was a Kromek Director until his death in       2011.
+The company has supported PhD students, as well as staff time buyout       for Prof Brinkman.
+A former CASE student in the group, (Paul Scott), and       an ex-PhD student of Prof Tanner, (Alex Pym), have been employed by       Kromek, as is the original inventor of the growth technique, Dr. John       Mullins.
+The company was valued in May 2013 (and also on 7th November)       at &#163;74M.
+Turnover grew from &#163;13,231 in 2006-7 to &#163;2.8M in 2011-12 and       &#163;2.7M for the year ending April 2013.
+It is predicted to be &#163;5.07M for the       year ending April 2013; shipments of product and services in April 2013       alone reached &#163;1M.
+The order book stood at $5.85M in May 2013.
+The Kromek       Group plc was listed on the London AIM Stock Exchange on 16th October 2013       at a value of &#163;55M, raising &#163;15M on the floatation.

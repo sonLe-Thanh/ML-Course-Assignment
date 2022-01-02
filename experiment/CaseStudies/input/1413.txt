@@ -1,0 +1,29 @@
+     Our research directly informed changes to national and international       guidelines for the diagnosis of       DVT.
+Diagnostic assessment is undertaken in the UK using NICE guidelines       [S1] and       internationally using ACCP guidelines [S2].
+Impact in the UK     NICE published its DVT guideline in 2012 (Clinical Guideline 144) [S1],       with the aim of reducing the       current high toll of long-term ill health or death caused by venous       thromboembolic diseases by       clarifying &#8212; for the first time &#8212; what combination of tests and treatments       results in the most cost-effective       diagnosis and management of these conditions.
+Specifically, the guidelines       provide an       algorithm to guide DVT diagnosis in the NHS and evidence-based guidance on       the use of clinical       probability scoring, D-dimer and ultrasound in the diagnosis of DVT.
+The estimates of sensitivity and specificity, and the evidence statements       provided in the guidelines       are based upon our meta-analyses of these approaches/methodologies.
+The       NICE DVT guidelines       recommend the algorithm identified in our analysis as being most likely to       be cost-effective and       feasible in the NHS.
+Implementation of the NICE guidance will improve outcomes for patients       with suspected DVT by       reducing misdiagnosis and will result in more cost-effective care.
+NICE       claimed that the clinical       guideline would save lives by improving the diagnosis and management of       blood clots [S3].
+This       will be achieved through NICE Quality Standard 29, Quality Statement 2       (Diagnosis of DVT), which       promotes implementation of NICE Clinical Guideline 144 [S4].
+NICE Clinical Knowledge Summaries provide primary care practitioners with       a readily accessible       summary of the current evidence base and practical guidance on best       practice in respect of over       300 common and/or significant primary care presentations.
+The NICE       Clinical Knowledge       Summary for predicting who is at risk for DVT [S5] cites data from our       meta-analysis [R1] and       economic analysis [R6] to guide practitioners.
+Around 140,000 people are investigated for suspected DVT each year in the       UK.
+It is difficult to       estimate the impact of new guidance on health outcomes and costs since       practice varied       substantially prior to implementation of the guidance [S6].
+However, on       the basis of our economic       model we estimate that adopting the NICE recommended algorithm instead of       using ultrasound for       all cases would result in a net benefit of &#163;42,919 per 1000 patients with       suspected DVT (i.e.
+per       year at a large hospital), assuming health outcomes are monetised with an       estimated value of       &#163;20,000 per QALY.
+International impact     ACCP guidance is produced in the United States and Canada, and is used in       many other       countries.
+Updated ACCP guidelines for diagnosing DVT were published in       2012 [S2].
+Recommendations in the guidance for the use of Wells score, D-dimer and       ultrasound all cited our       meta-analyses.
+Furthermore, as a direct result of our research the ACCP       Guideline Development       Group asked us to provide updated systematic reviews of CT and MR scanning       specifically for this       guideline.
+We were also asked to use our decision-analytic model to       estimate the probability of       adverse outcomes for commonly used diagnostic strategies.
+These estimates       were published in       the ACCP guidance.
+The ACCP and NICE take different approaches to providing guidance, but       both based their       recommendations on our analyses.
+Whereas NICE recommends a specific       algorithm, the ACCP       guidance provides physicians with estimates of the likely consequences of       different diagnostic       approaches and leaves the choice of strategy to the physician.
+Our       approach to analysis allowed       us to adapt our outputs to the needs of both organisations.
+For NICE we       identified the strategy       most likely to be feasible and cost-effective in the NHS.
+For the ACCP we       estimated the likely       consequences of alternative diagnostic strategies.
+These mean that our       findings influenced       practice in different ways and in different settings.
+Impact on the clinical community     To increase the use of our research throughout the clinical community,       the Chief Investigator for       the project published an educational article for Annals of Internal       Medicine in 2008 that provided       advice on DVT diagnosis based on our analysis [S7] and provided content       between 2007 and 2011       for the DVT module of the Physicians' Information and Education Resource       run by the American       College of Physicians, based on our analysis [S8].
+We also presented our       findings at a specially       organised one-day conference for clinicians and at other conferences, such       as the Annual       Scientific Meetings of the College of Emergency Medicine and British       Society for Haematology.

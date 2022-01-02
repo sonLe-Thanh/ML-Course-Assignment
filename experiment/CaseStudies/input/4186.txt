@@ -1,0 +1,21 @@
+     QUB and PETRONAS in a unique partnership have developed a novel mercury       removal technology HycaPure Hg&#8482; based on ionic liquids which offers       advantaged performance and flexibility to treat a full range mercury types       and gas composition (Figure 1).
+The first full-scale HycaPure Hg&#8482; units       containing 1 and 15 tons of absorbent were installed at a PETRONAS gas       processing plant in Malaysia in Oct 2011 and have been successfully       producing ethane for PETCHEM and sales-quality gas since commissioning       (references 1-4 in section 5).
+The mercury content has been       consistently below the legal safe limits, with no excursions.
+The new       technology has a number of benefits over the competing commercial systems,       e.g.
+the kinetics of mercury absorption are 10-20 times faster, allowing       the operating plant to cope with large spikes of mercury with no risk to       the downstream plant, and the mercury absorption capacities of the new       materials are 2-3 times better on a volume/volume (reactor) basis.
+The new       system is a direct retrofit to commercial plants and installs without any       additional costs or modification to procedures (see PETRONAS' Technology       Products and Technical Solutions literature).
+A typical medium-sized mercury removal unit contains around 15 tons of       material, and costs in the order of US$180,000 per fill.
+By comparison,       the increased absorption capacity of HycaPure Hg&#8482; materials represents a       potential cost saving of over 20% per vessel, and with a market size       running into hundreds of thousands of tons, this new technology is not       only efficient but highly competitive.
+Figure 1 Development of the mercury capture technology for natural gas clean up in conjunction with PETRONAS      The potential market for our SSIL technology in the hydrocarbon industry       is huge: MRUs are required in almost every gas and oil terminal and       refinery/petchem complexes in addition to the produced waters from       drilling platforms.
+Mercury contamination ranges from 0.02 micrograms per       cubic metre in the Gulf of Mexico to more than 100 in Europe, South       America, Gulf of Thailand, Malaysia and Indonesia.
+In extreme cases, such       as in North Germany, levels can reach 5000 micrograms per cubic metre.
+Even 1 ppm of mercury contamination has significant cumulative effects if       we consider a typical plant processes 2000 tons every day.
+In addition to       its well-documented health and environment effects, mercury also damages       industrial facilities through corrosion, such as embrittlement of       aluminium heat exchangers with catastrophic consequences.
+Hg is also a       strong catalyst poison for downstream units.
+The current technologies used to remove mercury are chemically-modified       activated carbons (with sulphur for gas treatment, and potassium iodide       for liquid hydrocarbon treatment) and more expensive technologies, such as       silver-impregnated molecular sieves and mixed metal sulphide/oxide       scrubbers.
+But there are issues with these technologies when it comes to       efficiency, the removal of all types of mercury species, robustness when       other contaminants are present in the feed and the ability to deal with       fluctuating mercury levels.
+The HycaPure Hg&#8482; is proving robust and durable       in operation.
+The technology is being extended to other gas treatment       facilties in PETRONAS facilities and licensing/manufacturing partners are       planning to launch the product globally in 2014. .
+The (anticipated) greater life-time of HycaPure Hg&#8482; scrubbers will lead       to lower total volumes of hazardous mercury-contaminated waste for       post-unit remediation and reduced frequency of scheduled scrubber       replacement, along with reduced occupational exposure to mercury.
+The       issue of mercury exposure was recently recognised by governments in a       global, legally-binding treaty to prevent emissions and releases, the       Minamata Convention on Mercury.
+The impact of this work was recently recognised in the Government's Great       British Innovation Vote in March 2013 (reference 5 in section 5).

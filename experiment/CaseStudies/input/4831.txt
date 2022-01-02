@@ -1,0 +1,28 @@
+     Rulemotion was set up in October 2011.
+The company currently has       ten full-time staff with offices in the UK and Greece.
+Its primary focus       is two-fold: the development and usage of our SBVR parser and editor and       the associated SQL generation tools and techniques; the development of a       generic platform that supports rapid development and deployment of web       services.
+Descriptions of two projects that extensively exploit the       know-how generated in our research programme follow below.
+Culicoides data repository for the Institute of Animal Health       (IAH).
+The IAH currently has a static website containing information about       Culicoides &#8212; a genus of biting midges who are vectors for many       animal diseases.
+Rulemotion is migrating this to a dynamic website       supported by a back-end database that is evolvable as further knowledge       and data about Culicoides is obtained.
+The importance of this is       that it turns their currently static website into an information resource       that can be searched and updated by a global community (when suitably       authorised) whilst still preserving the look and feel of a well-designed       web-site.
+Renew (Media Metrica Ltd) is a media company building a network of       digital signage screens attached to blast-proof recycling units.
+These are       already deployed in London's financial district, and will soon be found       around the world.
+The recycling units cost about &#163;25,000 each, and are       sponsored by Renew.
+The company recovers this investment through       sponsorship of the content that appears on the screens.
+The screens       display high quality news and information content, adapted for short       visual contact (http://renewsolution.com/).
+Rulemotion's platform enables       the content to be dynamically scheduled, so that content can be pre-empted       by higher priority news items so long as the overall percentage of time       dedicated to paid-for advertising is not compromised.
+The screens can also       be used for emergency public information, supplied by the host city.
+All       forms of content can be updated and displayed throughout the City in       real-time.
+Renew's daily audience exceeds 3m.
+Independent analysis details footfall       per screen ranging from 10,000 to over 30,000 per day (source 4).
+The       density of the Renew City network ensures professionals have2028an average       of 6 to 8 engagements to consume their content each day.
+The platform Rulemotion licenses to Renew is now being used by seven       other clients in a broad range of domains (e.g.
+sources 4, 6, 7, 8).
+Undercurrent News, for example, is a London-based seafood business news       service.
+The company is already a fast-growing online news service,       gathering more than 1,000 users within its first month of launch.
+The information system designed by Rulemotion allows Undercurrent to       offer a technically sophisticated and comprehensive automatically updated       database of seafood prices to its clients (www.undercurrentnews.com/prices)       that helps it provide price data services that had so far not been       provided by the market in an affordable or unified way.
+In a different domain, Cosmorama is an award-winning travel agency in       Athens, offering tours and cruises across the world to customers within      and outside Greece.
+The 18-person company has a significant web presence (www.cosmorama.gr) and a large online       database of cruises and tours.
+Rulemotion has provided Cosmorama with       service composition technology that will allow it to offer customers an       automated booking service through which users can customise their holidays       and book taxis, flights and hotels simultaneously.
+This is enabling       Cosmorama to transform itself from a traditional travel agency into an       online travel retailer able to compete with leading online travel       companies, such as lastminute.com.

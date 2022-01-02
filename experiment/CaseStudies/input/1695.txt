@@ -1,0 +1,33 @@
+     The Cranfield icing research programme has comprised mathematical models,       high quality computer code and experimental validation data which has       become part of the design and certification processes for major parts of       the UK/European aerospace industry.
+Specific details are company       confidential, since they form part of the core business processes; three       statements from the technical leads in major organisations explain how the       work has had impact.
+Airbus [C1]     Airbus uses the computational and experimental aircraft icing programmes,       including developments of the ICECREMO programs, as part of all major       development programmes.
+The annual expenditure of these programmes is       several billion euros.
+The codes support design decisions relating to ice       risks associated with regions where air flow is strongly three       dimensional.
+The certifying authorities accept this type of analysis as       part of the certification documentation [C2].
+Since 2008, Airbus programmes where ICECREMO derivatives have been       extensively employed include A350, A400M and the A320 (new engine option).
+In the case of the A400M, Airbus used the work by Hammond and Al&#232;gre [P6]       to justify how ice formed by runback water (runback ice) is represented on       a sub-scale wind tunnel model.
+In 2006, Airbus performed the final A400M       Wind Tunnel test, which included runs to investigate the sensitivity to       the aircraft handling qualities to runback ice.
+Those wind tunnel tests       demonstrate the most critical ice shape and also justify that the wing       performance is acceptable even when degraded by the icing degraded wing       anti-icing performance is acceptable, in terms of the effect of any       runback ice on an aircraft's handling qualities.
+Runback ice shapes were       generated in the Cranfield Wind Tunnel and the experiments showed that       using surface roughness alone resulted in a similar disturbance to the       boundary layer as the moulding of runback ice taken from the wind tunnel       validating the experimental approach.
+Airbus also used this work to show       that for the A350 it was appropriate to apply roughness elements smaller       than 3mm to runback ice shapes.
+The European Aviation Safety Agency (EASA)       gave icing clearance certification by June 2013.
+A further example of the use of ICECREMO is in a response to a challenge       Airbus received from the airworthiness authorities.
+The US FAA asked       Airbus to justify the use of 2D icing codes to predict ice on the A350       wing.
+The FAA suggested that Airbus could make comparisons against a 3D       code.
+Airbus compared the droplet catch efficiencies with another code       (from ONERA) and ice shapes with those from ICECREMO, demonstrating good       agreement between both codes.
+This satisfied the FAA that in using 2D       icing codes we were adequately capturing the 3D effects of ice accretion       on a swept/tapered/twisted wing.
+The ICECREMO comparisons were presented       to EASA and the FAA on 2nd March 2010.
+They were satisfied with       the Airbus response.
+This was a key milestone in the certification       process: type certification is expected in the middle of 2014.
+BAE Systems [C3]     BAE Systems has made extensive use of technology and software developed       within ICECREMO 2, to support internal programmes and to provide       consultancy to outside organisations.
+Internal programmes to BAE supported by this technology include:            Herti UAV (sensor placement and airframe icing analysis), 2011       Mantis UAV (sensor placement and airframe icing analysis), 2011       Support to general research activities, including novel ice protection         systems 2005-07/2013          Code use and support for external customers including icing analysis of       2008-07/2013:            Fuel tank vents       Intake ducts       Deployed slats and flaps       Fairings          These are examples of business which would not have been possible without       the original ICECREMO technology development.
+Direct contract work       undertaken by BAE Systems associated with these programmes is estimated to       be approximately &#163;600,000.
+Although the business impact is difficult to quantify, the technology has       provided a capability, through its 3D modelling ability, for assessment of       aspects of airframe design and performance not otherwise readily       achievable.
+ICECREMO codes have been used to provide design guidance, e.g.
+specification of ice protection systems and location of icing sensors.
+In       addition to providing design guidance, this has a direct impact on risk       and safety assessment.
+Rolls-Royce [C4]     Rolls-Royce has found the modularity and clear methodology of the       ICECREMO code especially useful in developing its own in-house analysis       tools and methods.
+In one form or another, the main elements of code have       been used in all current large civil aircraft projects up to and including       the Trent XWB.
+The methods have proved to be very valuable in supporting a       shift of emphasis of the certification process away from expensive,       on-wing and simulated altitude testing, to analysis and numerical       simulation backed up with ground testing.
+It is difficult to put a figure on the economic benefit as this       capability is one of many essential to how Rolls-Royce currently works.
+In       essence, the level of fidelity of the company's current analysis methods       is high enough that, whilst it spends more time on analysis, the       dependence on experimental work is reduced, resulting in significant       financial savings.

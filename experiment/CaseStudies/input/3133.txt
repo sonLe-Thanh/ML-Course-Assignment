@@ -1,0 +1,41 @@
+     In 1989 Hitachi was attracted to a collaboration with the Cavendish's       Microelectronics Group because of its world-leading expertise in       fabrication and measurement of semiconductor nanostructures.
+Hitachi       established a corporate research laboratory in Cambridge, the Hitachi       Cambridge Laboratory (HCL), which has since provided UK employment to       10-15 Hitachi researchers at any point in time.
+Between 2008-2012 HCL has       generated 17 patents, 8 of which are joint with Cavendish researchers.
+As a leading manufacturer of supercomputers Hitachi has a strategic       interest in quantum computing for applications including communication       security or weather/climate modelling.
+The silicon qubit structure       realised originally by Hasko (Ref.
+2) is currently the main development       direction pursued by Hitachi for solid-state quantum computers and has led       Hitachi to invest considerable development resources in its R&amp;D       laboratories in Japan and Europe.
+The attraction of the approach is that       it can be implemented using silicon-based mass manufacturing techniques.
+Hitachi's teams in Cambridge and Japan are focussed on improving the       reproducibility of these silicon double quantum dot devices and on       realising computing systems based on integrating multiple quantum bits.
+At       present the Hitachi team in HCL developing silicon-based quantum computing       comprises 10 engineers and scientists.
+The team is interacting closely       with Hitachi's main R&amp;D Laboratory in Tokyo, where a state-of-the-art       silicon fabrication line is used to supply HCL with full-scale wafers of       quantum computing structures based on the University's original double dot       design.
+In this way the original university research has contributed       directly to securing 23 Hitachi jobs in the UK since 2008.
+Up to 2012 Hitachi owned Hitachi Global Storage Technologies (HGST), a       world-leading, hard-disk manufacturer and Hitachi's main interest in       spintronics was focussed on novel approaches to enable higher hard-disk       storage capacity.
+The novel spintronics architectures realized by Irvine       and Ferguson (Ref.
+3 &amp; 7), became candidates for the next-generation       of hard-disk read-heads and were actively being developed by HGST.
+In 2012       Hitachi sold HGST to Western Digital for $4.6 billion.
+Western Digital is       actively developing magnetic random access memory (MRAM) technology based       on the spin Hall effect (Wunderlich et al, Phys.
+Rev.
+Lett.
+94, 047204       (2005) and Ref.
+4 &amp; 5).
+The merit of spin-Hall effect induced       switching is that no spin-polarized charge current is flowing across a       tunnelling barrier minimizing heat and fatigue of the barrier.
+In the       industry it is widely expected that the next generation of MRAM devices       will use this technology.
+The focus of the spintronics R&amp;D in Hitachi shifted.
+Hitachi is a       world leading manufacturer of high-end microprocessors and retains a       strong interest in spintronics for ultralow power electronics.
+In       particular, the spin-injection Hall effect device and the spin-Hall       transistor first fabricated by Irvine (Ref.
+4 and 5) have provided Hitachi       with powerful architectures for realising spin-based logic circuits with       very low power dissipation.
+Hitachi currently employs 10 researchers in       the UK who develop these architectures and who interface with a larger       spintronics development team in Hitachi's Central R&amp;D laboratory in       Tokyo of about 15 scientists and engineers.
+This company-internal,       spintronics development effort in the UK and Japan is supported mainly by       Hitachi funds.
+Hiroaki Odawara, General Manager of European R&amp;D for Hitachi,       comments on the impact of the University research on Hitachi's past and       present product portfolio: "The work performed on single electron devices       within the Microelectronics Group in the 1990s had a direct impact on a       large-scale memory device subsequently developed by Hitachi for a leading       computer manufacturer and which forms part of the International Technology       Roadmap for Semiconductors.
+This went into large-scale preproduction but       unfortunately not into production as the client developed severe financial       difficulties.
+However, it provided the technology / manufacturing basis       for Hitachi's current exploitation of the University's double quantum dot       architecture for the development of a quantum computer.
+Since 2008 the       University spintronics research had a significant impact in HGST.
+Several       of the architectures realized first by University researchers were being       developed by HGST for hard-disk drive (HDD) read-head sensors prior to the       sale of HGST to Western Digital in 2012.
+Currently, single-electron and       spintronic devices, whose provenance is directly traceable to work in the       Microelectronics Group of the Cavendish are being investigated as       candidate sensors in healthcare applications which is an increasingly       important business area for Hitachi."
+At a higher, possibly slightly less tangible, but not less important       level Hitachi's continued investment in fundamental physics research is       generally aimed at identifying new and fundamental approaches to future       information processing.
+This is of strategic importance for Hitachi.
+As a       systems company Hitachi needs to understand important trends in computing       to provision its customers with computing solutions that will satisfy       future needs and requirements.
+The continued collaboration with the       Cavendish has allowed the company to understand how fundamental       breakthroughs in fundamental physics could impact computing in the long,       &gt; 10 year timescale and has already influenced the strategic directions       Hitachi is taking in its own, internal development of quantum       supercomputers and ultralow power electronics, as explained above.
+In 2008       Hitachi staged a 2-day technology exhibition, "Hitachi inspire life", at       the QEII Conference Centre opposite the Houses of Parliament.
+It was       visited not only by Hitachi customers but also key decision makers in       government.
+One of the technology stands was dedicated to the technology       developed in the collaboration between the Cavendish and HCL.

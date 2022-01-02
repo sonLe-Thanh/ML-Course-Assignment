@@ -1,0 +1,38 @@
+     The broad area of research into non-contact metrology has expanded       greatly in recent years with several techniques competing in the       marketplace.
+Many of these techniques are only applicable within specific       scale ranges, require specific preparation of the surfaces to be examined       or need highly trained staff to make use of very complex measurement       approaches that are sensitive to operator error.
+By contrast, the       video-based technology, originally developed at the University of Bristol       and commercialised through Imetrum, overcomes most of these limitations.
+The current Imetrum products are directly derived from the research       carried out at, and are protected by a patent assigned to, the University       [4].
+These products would not exist without the Bristol research - this       research provides the fundamental understanding, the technology and the       market knowledge on which Imetrum was based.
+Imetrum     Despite launching its first product during a recession, in 2007, Imetrum       has almost doubled its turnover in each year of operation, [text         removed for publication] and currently sells its materials-testing       products internationally.
+[text removed for publication].
+Most       sales are now exports, including to China, the USA, France, Germany,       Scandinavia, the Czech Republic, Brazil and Korea.
+Current Imetrum customers include major engineering companies such as       Airbus, Rolls-Royce, BAE Systems, Amey and Network Rail as well as       specialist companies such as the Red Bull and McLaren F1 teams [a], which       are using the system for both materials characterisation and measuring       deflections in structural testing.
+To further expand application areas,       ongoing TSB-funded research is being undertaken by Imetrum in areas such       as the monitoring of nuclear power systems.
+User Benefits     The current state-of-the-art technique, based on the Bristol research and       Imetrum developments, is embedded in systems for the real-time or       post-processed measurement of displacements, strains, rotations and other       deformations across a wide range of industrial applications.
+It has, for       example, enabled the detailed measurement of strains in single,       5&#181;m-diameter carbon fibres or even at the nanometre scale range within       electron microscope images, through to deflections in bridges and dams.
+Imetrum has realised significant impact across a range of sectors       including railways and Formula 1.
+Composites: Within the mechanical test area, the Imetrum       technology is now widely used in research and development, including at       the National Composites Centre, to understand the details of failure       processes in ideal and defective materials.
+This is a very important       current topic of research in composite materials in support of increasing       industrial applications of these materials.
+It is also routinely used to       acquire hard-to-measure data in support of virtual engineering simulations       for such topics as dimensional fidelity in large moulded parts.
+Many of       the measurement applications for which Imetrum's Video Gauge is routinely       used in the academic environment would either not be achievable by any       other approach or could only be achieved at much greater cost.
+Railway Infrastructure: The resolution of the system developed for       structural monitoring is sufficiently fine to enable it to measure the       displacement of rail lines due to individual wheels passing along the       rail.
+This permits the direct measurement of track deflections and is       currently being used to identify whether the track responds safely to the       passage of a train.
+Traditional measurements only measure the maximum       deflection and fail to capture all the deformation.
+The Imetrum system       overcomes this problem entirely [b].
+In another example, bridges on the       Paddington to Penzance main line were monitored for deflection to check       their safety.
+Deflections of less than 1mm were detected with good       fidelity, with deflections associated with individual engines and       carriages being clearly and separately resolved [c].
+In terms of the monitoring tasks undertaken, the Imetrum solution usually       means that there is no need to access a structure directly.
+This offers       benefits in terms of timescales, safety and cost to asset owners and the       public at large.
+For example, for rail-track measurements, as there is no       need to access a railway directly, there is no need to obtain a possession       order to allow access, which will typically remove around a six week       delay.
+In addition, the work itself can be carried out by just one or two       individuals rather than the five or six typically required (e.g.
+to act as       lookouts).
+Additionally, workers are not put at risk, either from live       traffic loads or working at height, and delays are not caused to the       infrastructure users.
+When the system is used to monitor bridges, road       closures are not required during its installation avoiding costs in the       range of &#163;10,000s - &#163;100,000s.
+Imetrum generally provides these       measurements as a service to its clients.
+This element of the Imetrum       business is now growing rapidly [text removed for publication].
+[text removed for publication]:The impact of the technology to       date has also been important in terms of improved understanding of       materials and structural responses and reduction of the costs to industry       and academia in generating such understandings.
+For example, the       development by Imetrum of systems capable of calibration to international       standards has eliminated a major limitation on the take-up of such       non-contact strain measurement technology in the materials test area.
+Such       technology underpins much advanced engineering, significantly reducing the       costs of acquiring data and allowing previously difficult-to-gather data       to be routinely collected, such as data from high temperature tests (up to       1,000oC).
+This is being used in the rapid characterisation of       novel composite material solutions for use in hot structures in racing       cars.
+Imetrum has just launched a new product allowing direct strain mapping of       test samples whilst retaining the very high fidelity strain measurement       that is the hallmark of Imetrum products.
+This new product should enable       an acceleration of sales into the materials-testing market.

@@ -1,0 +1,33 @@
+     In 2003, Carroll (jointly with Ted Briscoe of Cambridge University)       founded a spin-out company &#8212; iLexIR Ltd &#8212; to commercially exploit the       research summarised above.
+Since 2008, the company has developed an       extended version of RASP incorporating features that ease the task of       integrating it into large-scale application systems.
+These include:            adding Unicode compatibility and the ability to process input streams         containing XML-encoded text, other types of data, and document metadata;       embedding the RASP components within UIMA to improve scalability and         interoperability (in collaboration with DigitalPebble Ltd) [R6]; and       integrating the components with a machine learning classifier that is         also distributed by iLexIR (http://ilexir.co.uk/media/langtech.pdf).
+The         extended version of RASP is available under a commercial licence [see         Section 5, C1].
+Below we describe how the research underpins two commercial       text-processing applications and services.
+We indicate the extent of the       user population, and the economic benefits in terms of improvements to       business processes and revenue from system development and licensing       contracts.
+Mobile-phone-based question-answering service          From 2004 to 2009, RE5ULT Ltd &#8212; under the trading names of 82ASK and then       later Texperts &#8212; provided a UK-wide SMS question-answering service,       employing human experts to answer questions submitted by the general       public and charging &#163;1 for each answer.
+In 2007, Texperts contracted       iLexIR to develop an automated system to understand directory-enquiry-type       questions, so they could be answered with minimal human intervention [C2].
+The system produced by iLexIR went live in February 2008.
+It takes an SMS       text message as input and classifies it as being a directory enquiry or       not; if it is, the system processes the text using RASP and (to the extent       possible) extracts from the set of grammatical-relation analyses the type       of enquiry (e.g.
+address or phone number), the type of entity, its full       name, and its broad location.
+Back-end processing uses this information to       query a directory database and generate an answer, which is checked by a       human before being returned.
+The system ran until mid-2009, when Texperts       was taken over by the US-based information services company kgb, and its       operations subsumed into the parent company's existing infrastructure       [C2].
+This kind of directory-enquiry automation had not been done previously in       a commercial system.
+Reliably extracting such information from SMS text       requires top-down information &#8212; embedded in the RASP system &#8212; about the       grammar structures that the user is most likely intending to use, which       are often obscured by misspelled, substituted or omitted words.
+The       application would not have been possible without the underpinning research       into the accurate parsing of text containing non-standard language and       previously unseen words, and into non-deterministic language-processing       strategies and grammatical-relation representations [C3].
+The Texperts service received around 100,000 messages a month from across       the UK.
+Of the messages that were directory-enquiry-type questions, the       automated system could extract useful information from 60%, and of these,       over 90% were correctly interpreted [C3].
+The time taken by a human to       manually answer such questions was around 30 seconds, whereas the time       taken for manual approval of an automatically answered question was only 5       seconds [C2].
+Impacts were economic, through system development and       licensing contracts to iLexIR worth over &#163;50k [C4], as well as financial       savings and service performance improvements for Texperts.
+The automatic grading of English-as-a-foreign-language examinations          Cambridge Assessment (CA) is one of the leading ESOL (English as a Second       or Other Language) examining organisations in the world.
+More than two       million people in over 130 countries take Cambridge ESOL exams each year.
+In April 2008, CA awarded iLexIR a contract to develop a system to       automatically grade essay exams, working towards deploying the system as       (1) an exam preparation aid that can instantly grade essays submitted       online, and (2) an adjunct to human marking of exams, providing additional       quality control and speeding up of assessment processes [C5].
+The automatic grading system is designed for CA's `First Certificate in       English', an upper-intermediate-level exam, one of whose components,       `Writing', requires candidates to compose a 200-400-word essay, which is       graded on a scale of 1-40.
+The iLexIR grading system uses RASP to parse       the essays, and then computes features relating to grammatical sequencing       and structure (capturing correctness of grammar) and the complexity of       sets of possible analyses (capturing information about grammatical       sophistication), as well as features concerning word order.
+The features       are passed to a machine-learning algorithm, which assigns a grade.
+Ablation tests demonstrate that the quality of automatic grading is much       reduced if grammatical information is not used.
+Producing this grammatical       information relies on several aspects of the underpinning research, in       particular: accurate parsing of a wide range of formal and informal       language usage, robustness to spelling mistakes, the efficient       representation of the full space of possible analyses, and the recovery of       fragmentary analyses from ungrammatical and non-standard language.
+An       evaluation has shown that the system's grading is almost indistinguishable       from that of experienced human examiners [C6].
+System development is leading up to imminent deployment as an exam       preparation aid.
+The impact is economic, through system development,       maintenance and licensing contracts to iLexIR worth a total of &#163;450k over       the REF impact period [C4].
+As a further contribution to the economic impact benefiting iLexIR and       establishing its viability, iLexIR has licensed the RASP system (or       individual components of it) to three other technology- oriented companies       and non-profit organisations during the REF impact period.
+These licenses       were paid for in a combination of cash and equity with a notional total       value of &#163;90k, but with a current valuation much in excess of this [C4].

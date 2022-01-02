@@ -1,0 +1,36 @@
+     Wookie has had an impact in 3 spheres.
+1) In the field of IMS Learning Design (LD)     IMS Learning Design was the result of a major European initiative to       create an interoperability specification for the exchange of learning       activities between Virtual Learning Environments, adopted and published by       IMS Global Learning.
+The development of the Wookie server, and associated       ReCourse authoring application, provided a solution to the problem in the       implementation of IMS LD of providing services which were both abstracted       from the learning activity, and which could also be provided to particular       learners and teachers at particular times.
+The significance of was       recognised by the TENCompetence project (a major European Integrated       Project) by including Wookie in the software published by the       TENCompetence Foundation following the project close (which was not the       case for much of the software developed during the lifetime of the       project).
+The availability of Wookie enabled evaluation work to be carried       out for the first time with learning activities supported by flexible and       configurable services for IMS LD.
+The impact of Wookie in this area was to       demonstrate that the problems experienced in the adoption and use of IMS       LD were more deep seated than the lack of appropriate service       infrastructure, as discussed in [6].
+2) Adoption and certification by the Apache Foundation and         specification bodies     The value of Wookie to both educational computing and the wider ICT       industry has been recognised.
+The findings of research into the required       extensions to the W3C widget specification were submitted to W3C, and were       accepted as input into the revised specification.
+The architect of the       Wookie system, Scott Wilson of IEC, was accepted as a member W3C on the       basis of his research.
+Research into the interpretation of the W3C widget specification, which       was required in order to create functioning systems which could be used in       education and other domains, was reflected in the development of the       Wookie server.
+This work was recognised by W3C, which designated Wookie as       a reference implementation of the W3C widget specification [7].
+As such       Wookie provides a model for interpretation of the specification which can       be followed by other developers.
+Research into Wookie exemplified the research focus of IEC which acts at       the intersection of technology, pedagogy and institutional organisation.
+This was acknowledged by Charles Severance formerly Chief Architect of the       Sakai Project, and currently employed by Blackboard as Sakai Strategist.
+In a blog post of 2009 he drew the attention of a worldwide audience to       the contribution of IEC member Scott Wilson in (submitted to UOA 36).
+Once         Scott built his pre-alpha version of Wookie support for Basic LTI it was         a simple matter to embed a W3C widget into Blackboard, Desire2Learn,         WebCT Vista, and Sakai.
+... the TENCompetence-developed chat widget is         served from Wookie and placed in each of the LMS systems.
+...
+I am very         excited to be starting to feel a slow and gentle shift in IMS Basic         Learning Tools Interoperability from focusing nearly exclusively on         getting vendors to support the specification to instead starting to         think how we teachers will ultimately make use of the specification.
+[8]     The significance of the approach to service integration was recognised by       the Apache Software Foundation, which accepted Wookie into its incubator       in 2009 [9].
+When IEC wanted to credit the TENCompetence project and EU       funding on the Apache Website, we wrote to Dan Brinkley, co-chair of the       W3 Social Web Group and Developer Advocate at Google Inc.
+He wrote back       stating: I'd love to see it included.
+The structure of academia tends to       reward scholarly paper-publishing but doesn't really know what to do with       software and data work.
+European projects also tend towards producing       deliverables that are mostly likely to be giant PDFs rather than running       re-usable code.
+So when we do finally get useful outputs from European       research funding that enrich the open standards / open source scene,       please let's not be shy in celebrating that!
+Maybe others will follow the       great example, and start thinking more seriously about open source       life-after-funding for their codebases, rather than taking a "throw the       code over the wall and hope for the best" approach.
+[10]     Wookie was subsequently accepted as a full Apache project [9].
+The       criteria for this acceptance is the existence of a documented group of       committed developers from a number of organisations of sufficient strength       to justify the Apache Foundation in believing that the software is       sustainable.
+The acceptance of Apache Wookie as a top-level Apache project       is therefore both a significant impact in itself, and evidence of impact       among a wider user group.
+Apache Wookie is integrated with Apache Rave, a       system for the development of widget based portals, and this argues       strongly for its future viability within the Apache ecosystem of       applications.
+This was recognised in a case study published by OSS Watch       [17]     3) Flexible service delivery     Wookie had been designed as a generic solution to a wider problem, that       of flexible service delivery across platforms.
+It therefore attracted       attention from a wide range of researchers and companies, both within the       field of education and beyond.
+Projects and applications which had a need       to integrate services across platforms adopted the software, for example:            The Learning Activity Management System (LAMS) Foundation in         Australia, see [11].
+The Omelette project, funded by the European Commission to develop a         platform for integrated telecoms and internet applications, see [12]       The Role project, funded by the European Commission to develop a         Personal Learning Environment, see [13].
+The EduKapp project, funded by Jisc to develop an application store         for education, and the iTEC Widget Store that builds on this, see [14].
+User-tailored Inter-Widget Communication Extending the Shared Data         Interface for the Apache Wookie Engine, see [15]       In work carried out in Estonia into the delivery of interoperable         assessment services [16]          Testament to the generic capabilities of Wookie is that the IEC won       funding for continued work with Wookie in the following projects: iTEC,       Omelette, Trailer, Edukapp, and Spaws, as detailed in the funding section       of this submission.

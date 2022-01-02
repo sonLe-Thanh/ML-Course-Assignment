@@ -1,0 +1,36 @@
+     The underpinning research has led to the development of novel imaging       biomarkers that are now routinely used in clinical trials to assess the       efficacy of new drugs and treatments.
+The biomarkers are also starting to       be used in healthcare diagnostics, e.g.
+for dementias such as Alzheimer's       disease (AD).
+Economic impacts     To maximize the economic impact of the research, a team of Imperial       researchers (Rueckert, Hajnal) started IXICO with colleagues from UCL       (Hawkes, Hill) in late 2004.
+It became IXICO plc and is now listed on the       Alternative Investment Market (AIM) of the London Stock Exchange in a deal       agreed in April 2013.
+Between 2008 and 2013, IXICO has grown from 5       employees to more than 40 employees.
+Its revenues have more than trebled       during the last three years to &#163;3.6M (year ending 31 May 2013).
+IXICO is a       profitable business and has won more than &#163;17m in business from the global       pharmaceutical industry (GSK, Pfizer, Bristol-Myers Squibb, Novartis,       EliLily).
+IXICO's image analysis technology is based on the underpinning       research described in section 2 and has been transferred from Imperial       during IXICO's formation and later as part of an IP pipeline agreement       with Imperial.
+It has been, and/or is currently being used to analyse tens       of thousands of medical images collected from a total of more than 400       imaging centres across North America, Latin America, Europe, Asia and       Australasia, including 25 hospitals in 10 cities across China.
+Since 2008       IXICO has been involved in over 40 clinical trials and analysed images       from more than 10000 subject visits using its image analysis technology       [A].
+The research also had a significant impact on the pharmaceutical industry       where medical imaging is rapidly becoming an important tool in clinical       trials to assess the safety and efficacy of new drugs using imaging       biomarkers.
+In clinical trials phase 1 is typically used to screen for       safety, phase 2 establishes the testing protocol, phase 3 is used for       final testing while post-approval studies are referred to as phase 4       trials.
+Clinical trials (especially phase III) are typically very       expensive.
+The average cost of developing new drugs can reach billions of       dollars for each one approved.
+According to a Deutsche Bank Market Report       (August 2012), the average cost of a new, approved drug has increased from       $100M in 1979 to $1.9B in 2011 [B].
+Imaging can significantly reduce these       costs by enriching the enrolled population, providing early evidence of       target engagement, or evidence of disease modification by being more       precise than clinical measures.
+However, the detection and quantification       of these subtle changes requires highly accurate and sensitive imaging       biomarkers that are determined via automatic and quantitative image       analysis.
+Such imaging biomarkers have been developed in the underpinning       research, in particular for the assessment of neurodegenerative diseases       and their progression.
+The developed imaging biomarkers provide several benefits to       pharmaceutical companies: In concept trials of AD therapies the developed       biomarkers allow pharmaceutical companies to power their studies with       fewer subjects.
+The developed imaging biomarkers do provide evidence of       efficacy with around 100 subjects per arm (an "arm" in a clinical trial       refers to any of the treatment groups in a randomized trial.
+Most       randomized trials have two "arms", e.g.
+untreated vs. treated groups) over       12 months rather than 400 or so per arm needed for cognitive testing.
+Based on a conservative cost estimate of $30k per subject enrolled, this       provides a significant cost saving for the companies.
+Similarly,       pharmaceutical companies use the developed imaging biomarkers to enrich       their clinical trials.
+In the context of clinical trials, such enrichment       allows the identification of a population of patients in whom a drug       effect, if present, is more likely to be demonstrable.
+In AD trials that       use the developed biomarkers, an increase in the conversion rate in a       prodromal Alzheimer's trial from 40% to 60% saves 30% off the cost of a       pair of pivotal trials that used progression free survival as an endpoint,       and which might otherwise cost $800m &#8212; $1bn [B].
+Impacts on public policy and services     The imaging biomarkers developed in the underpinning research have had a       significant impact on informing the development of new guidelines for the       use of Magnetic Resonance Imaging (MRI) and low hippocampal volume in       regulatory clinical trials: It now seems likely that to modify the course       of Alzheimer's Disease, it is necessary to start the treatment in the       pre-dementia (or prodromal) phase.
+As has been recently reported [C], the       identification of patients at this stage can only be done confidently with       the help of biomarkers: imaging provides a non-invasive alternative to       cerebrospinal fluid (CSF) biomarkers for this purpose.
+The critical       importance of imaging biomarkers in AD trials has been recognised by the       CAMD consortium by submitting to regulators an application to qualify low       hippocampal volume as a biomarker [D].
+This submission &#8212; approved by EMA       and currently under review by the FDA &#8212; incorporates key data obtained       using the underpinning research described here: the availability of this       technology, with the regulatory qualification, is having global impact on       the design of future trials of AD medicines in the pre-dementia       population.
+In particular, the EMA Committee for Medicinal Products for       Human Use [E] has issued a positive opinion on the use of MRI to measure       hippocampal volume as a tool to enrich recruitment into regulated clinical       trials in the pre-dementia stages of Alzheimer's disease [E], in which the       EMA directly refers to reference [5] of the underpinning research.
+This       was the first imaging-based biomarker to be qualified by a regulatory       agency.
+Impacts on healthcare     The imaging biomarkers developed in the underpinning research have been       so effective in clinical trials that IXICO has recently decided also to       develop products for diagnostic use (Brain Health Centre [F]).
+IXICO's product for diagnostics directly uses the methods described in       reference [5,6] of the underpinning research and has also been CE marked       [G].
+It is currently undergoing trials involving 200 patients as part of       new NHS brain health centres [F, H].

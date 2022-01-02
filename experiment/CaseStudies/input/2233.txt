@@ -1,0 +1,37 @@
+     How research on brain networks led to a new approach to discovery of         medicines     In the course of their research at Newcastle University, Young and Andras       gained insights into how neural connection data could be transformed into       models of the structure and organisation of neural networks.
+In later       work, they showed that such models were capable of simulating certain       features of the brain systems they described, including the vulnerability       of brain functions to specific lesions in the neural network (which have       been extensively described by experimental neuroscientists over the       years).
+The intuitive leap made by Young was that the same techniques he       used to transform neural connection data into representations of neural       networks could be used to transform protein interaction data (of which       there is much in the literature) into representations of the protein       networks that underpin basic cellular processes, including those       associated with disease.
+Thus by probing the network underpinning a       disease process, one should be able to identify a set of network points       (proteins) which when targeted will disrupt the functioning of that       network and thereby treat disease.
+The approach is set out in the first       patent: Method and apparatus for identifying components of a network         having high importance for network integrity (Ev a).
+e-Therapeutics     In 2003 Malcolm Young founded e-Therapeutics (Ev b), a medicines       discovery company spun out from his research at Newcastle University.
+The       company's new and unique approach, which involves network pharmacology, is       protected by six patents that contain more than 200 separate claims of       invention and granted in Europe and the USA (Ev a).
+A key feature of the company's method is that it identifies the crucial       few proteins that must be targeted to disrupt the disease process; it       therefore follows that a drug candidate which interacts selectively with       those target proteins must be identified.
+The company initially sought       candidates from among known molecules, using its approach to identify       those suitable for `repositioning' into the disease in question.
+Such       molecules often have safety data that can support rapid progress into       clinical trials and typically have well-characterised interactions with       human proteins.
+Previously undeveloped compounds are more likely, however,       to garner the strongest forms of intellectual property protection, so the       company's drug discovery programme is now mainly focused on identifying       novel molecules.
+Industry analysts have commented favourably on this new way of finding       medicines.
+The productivity of research and development spending by the       pharmaceutical industry has fallen dramatically over recent decades, and       it may be that the existing method of reductionist drug discovery -       identifying one `target' protein and then finding a drug that binds to it       &#8212; is not suitable for treating complex diseases such as depression and       cancer.
+In September 2011, the Wall Street Journal published an article       titled Drugs that are as smart as our diseases in which the       limitations of the old approaches to drug discovery and the merits of       e-Therapeutics' implementation of network pharmacology are described (Ev       c).
+Drugs in clinical trials     Two drugs, both repositioned, are currently being evaluated in clinical       trials.
+The company's anti-cancer drug candidate, ETS2101, is in phase I       clinical trials in the US and UK.
+ETS2101 is dexanabinol, a compound that       was thought to have a neuroprotective function after brain injury, but       that was shown in a phase III trial to be safe but ineffective for this       indication (Maas et al.,Lancet Neurology 2006.
+PMID:1636102).
+Network       modelling predicted an anti-apoptotic action.
+One trial involves patients       with primary or secondary brain cancer (started June 2012; key data on       safety and dosing expected Q4 2013) and the other involves patients with       solid tumours (started September 2012; key data expected Q1 2014).
+By May       2013, a total of 17 patients had been treated in the two phase I trials.
+No patient had experienced serious adverse events related to treatment       (although one patient experienced severe fatigue after dosing and       continued on a lower dose).
+One patient with oesophageal cancer had       experienced an objective anti-tumour response (Ev d and Ev j).
+The second drug candidate, ETS6103, is a generic drug with an established       safety profile.
+Trials of ETS6103 for an anti-depressant indication are       more advanced.
+A controlled phase IIa trial of the drug, which ended in       January 2009, demonstrated encouraging results when the drug was compared       with a marketed tricyclic anti-depressant (Ev e).
+A larger phase IIb trial       is expected to start shortly (Ev f).
+A third drug is currently in       pre-clinical development, which shows strong in vitro activity       against C.difficile, a major cause of hospital acquired infections       (Ev f).
+The company     e-Therapeutics has grown substantially since it was founded in 2003.
+It       was listed on the Alternative Investment Market (AIM) of the London Stock       Exchange in November 2007, and with a market capitalisation of &#163;37.3       million at flotation it has become a significant presence in the UK       marketplace with a current (26/06/2013) valuation of &#163;92.7 million (Ev g).
+In May 2013, e-Therapeutics became the eighth largest company by market       capitalisation in the pharmaceutical / biotechnology sector on the AIM (Ev       h).
+In the context of UK university spin-outs, e-Therapeutics ranks       favourably.
+The 2010/11 UK Higher Education Business Community and       Interaction Survey showed there were just over 1000 active spin-outs in       which HEIs had equity stakes that year and the average external investment       was of the order of &#163;0.7 million per company (Ev i).
+In contrast,       e-Therapeutics raised &#163;18 million in February 2011 and another &#163;40 million       in February/March 2013 via share issues (Ev j).
+The major investors are       currently Invesco (49.8% share) and Aviva (16.2% share) (Ev a and Ev j).
+e-Therapeutics employs 20 skilled people across two sites in the UK; the       Network Pharmacology Centre in Oxfordshire (opened in February 2012) and       the company's facility in Newcastle.
+Since 2008, research and development       spending has totalled more than &#163;11.3 million, and the money raised from       recent share issues is expected to sustain employment and high levels of       research spending through 2017 (Ev j).

@@ -1,0 +1,45 @@
+     The work of Salisbury's group to develop and use bioluminescent       biosensors has revolutionised analytical procedures and allowed rapid       direct in situ testing of bioactive compounds and formulations,       giving real-time, accurate data.
+The outcome of the research with       bioluminescent biosensors is to allow, for the first time, the direct       effects of physical and/or chemical challenge on a living cell to be       visualized and quantified in situ and in real time.
+The main       beneficiaries are pharmaceutical and clinical diagnostics companies       including Randox Laboratories, where the biosensors have led to improved       validation procedures, accurate data on drug efficacy and novel       manufacturing processes [see source S1].
+Summary of impacts:             Guidelines for antibiotic dosing.
+By using our real-time         bioluminescent Streptococcus pneumoniae biosensor, Glaxo         SmithKline has been able to determine bacterial recovery after challenge         with Gemifloxacin, a novel quinolone antibiotic they had developed.
+This         has helped them determine the correct dosage more directly and quickly         than was possible using their previous technique of using indirect         bacterial colony counts to show bacterial viability after antibiotic         treatment.
+It therefore contributed to the overall guidelines for dosing         of 1 tablet every 24 hours.
+Real-time demonstration of decontamination.
+Several companies         have made use of videos of the bioluminescent bacterial biosensor         technique made by UWE.
+They have used the videos as vivid promotional         tools for their products demonstrating very clearly, in real-time and in           situ, how rapidly the products kill bacteria.
+Examples include         Purest Solutions [S2], Clavis Pharma (demonstrating the effectiveness of         their antimicrobial patches against Staphylococcal infection) and Dycem         Ltd (demonstrating the effectiveness of their antimicrobial flooring         compared to normal flooring material).
+Video imaging (used on Dycem's         company website) of our bioluminescent Salmonella bacterial reporters         showed inactivation of bacteria in 1 hour on Dycem flooring compared to         4 hours on normal flooring.
+Bugdeath project, predicting microbial death kinetics:         Bioluminescent bacterial biosensors, developed at UWE were used in this         project, leading to a software application (Bugdeath 1.0) that simulated         the effect of heat treatment on the surface of a range of foods.
+Predicting the effectiveness of cancer chemotherapy.
+Here the         bioluminescent bacterial biosensors are part of a test platform that is         currently under evaluation.
+The full impact of the test platform will         not be evident until it can be used in a clinical trial.
+Meanwhile,         however, the bioluminescent biosensor research has been used to evaluate         a novel chemotherapy drug, Elecytarabine, in a consultancy project with         Clavis Pharma (2012).
+UWE's tests have enabled them to establish that         the new drug is effective for treatment in these situations and has         given the company a means of comparing their new drug to standard         treatment regimens.
+The biosensor has also provided a rapid means of         quality control testing between drug batches.
+It provides accurate data         on the time-course of drug uptake and conversion to active form by         leukemic cells.
+This has contributed to full drug evaluation during the         development of novel chemotherapeutics which has, in turn, helped in the         recent re-launching of the company [S3].
+Changing clinical attitude to phenotypic testing and           patient-centred chemotherapy.
+Even though current genetic testing         to predict outcome in leukaemia is simple and rapid, it has limited         value due to the wide range of genetic changes that can give rise to the         disease.
+There is no single genetic marker that will accurately predict         response to chemotherapy.
+The alternative of looking at the response of         actual patient cells (phenotypic testing) has been regarded by         clinicians as too complex and time consuming for routine use.
+Our rapid         test platform has renewed clinical interest in phenotypic testing.
+This         is evidenced by the support of the UK AML clinical trials working party         and clinical collaborators in UK, USA, Norway and Canada.
+Consultants         have changed their outlook in favour of pressing for the completed         development and approval of this technique as a method that meets real         clinical needs.
+The research has therefore effected a change in the         received wisdom amongst clinicians on the most appropriate kind of         clinical tests to pursue [S4].
+Changing leukaemia patient expectations.
+We collaborate with         Bristol Blood Buddies group &#8212; their representatives attend our research         group meetings.
+They have highlighted the many advantages of our assay         system from the patient's aspect including a) improved quality of life,         both during and after treatment; b) enabling high-risk patient groups         who would otherwise not be eligible under current drug protocols, such         as the elderly and children, to receive treatment; c) ensuring         drug-insensitive patients receive the level of dose or combination of         drugs they require for successful treatment of the disease; d) ensuring         females in particular receive the minimum dose necessary to treat the         disease whilst preserving fertility; e) limiting the number and severity         of infections, which subsequently require hospital in-patient stays.
+The         patient group have endorsed the project as follows "We consider the         unique selling point of the Rapid in vitro test is the ability         to conduct the test and receive results within hours to tailor the         immediate treatment required for each individual.
+Many of us required         immediate treatment upon diagnosis, so this test could have been         extremely relevant to us.
+As a patient group it appears clear to us that         tailor-made chemotherapy regimes will also lead to improved value for         money in respect to treatment, as well as fiscal savings for both the         government in general and the NHS, due to: a) shorter in-patient stays;         b) lower doses of chemotherapy; c) fewer doses of additional treatments         for chemotherapy side-effects; d) for working-age patients, less time         off work and therefore fewer benefit claims; e) lower requirement for         post-chemotherapy fertility treatment."
+The patient group is committed         to working with us and attend the project management board meetings.
+Benefits of using the biosensor assay.
+For both pharmaceutical         and clinical diagnostics companies, including Clavis [S3] and Randox         [S1], the benefits of using UWE-developed whole-cell bioluminescent         bacterial biosensors are considerable.
+Because these companies see great         advantages to them in this technique, they have created new in-house         teams employing staff to develop it further, and have scaled up the         technique into a fully deployed commercial production process.
+Large         amounts of biosensor are produced very cheaply by growth in         batch-culture (a new manufacturing process developed by Randox as a         result of our biosensor assay) and then dispensed into 1 ml amounts for         use and freeze-dried so that they can be stored indefinitely.
+The test         procedure using the bioluminescent biosensors is simple and does not         require the complex and expensive equipment used in HPLC or flow         cytometry.
+The test response is measured by change in light emitted by         the biosensor.
+This is sensitively measured with a luminometer or low-light 		camera, in situ and in real time, with no background         interference.
+The biosensors have increased sensitivity, compared with         other assay techniques; the biosensor assay is 10 times more sensitive         than HPLC for measuring nanomolar amounts of Ara-CTP (the active form of         the chemotherapeutic drug cytarabine) within leukaemic cells.
+This         technology, because of its simplicity, high sensitivity, low cost and         highly reproducible results, has been found to be ideal for batch         testing by pharma, and also for use in clinical diagnostics.

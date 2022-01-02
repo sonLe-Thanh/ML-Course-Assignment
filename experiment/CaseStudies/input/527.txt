@@ -1,0 +1,35 @@
+     Galaxy Zoo (GZ) is one of the most successful "citizen science" projects       ever undertaken, i.e., the engagement of the public in the collection and       interpretation of scientific data.
+From the beginning of GZ, it was clear       the volunteers wanted to do more than simply contribute their visual       classifications.
+Within two weeks of the GZ launch, the team was swamped       with thousands of e-mails requesting information or reporting interesting       objects.
+The volunteers' overwhelming desire to communicate inspired the       creation of the GZ internet forum[1], which encouraged users to       communicate with each other, thus allowing many of their basic queries to       be answered by other, more experienced, volunteers, and also allowed the       volunteers to share their thoughts.
+Through the forum, several rare classes of object were discovered by the       public, of which "Hanny's Voorwerp" is the most famous.
+Hanny, a       Dutch school teacher, discovered a strangely coloured outflow from a       nearby galaxy, which appears to be the light echo from a supermassive       black hole.
+Her object is now the focus of significant research (24       publications to date) and was memorialized in a popular comic book[2].
+Hanny is outspoken about the impact of GZ on her life, giving invited       talks and TV appearances about her experience, and she serves as an       excellent role model for volunteers (especially young women) interested in       astronomy and citizen science.
+In addition, several volunteers have organized science projects of their       own making.
+The largest such project is the search for irregular galaxies       that do not fit currently recognized classification schemes, while other       volunteers have been inspired to start research careers e.g.
+Alice       Shephard, a forum moderator, is studying a masters degree in Astronomy at       QMW.
+Galaxy Zoo is also a valuable educational tool (e.g.
+integrated into       the curricula at the Royal Observatory, Greenwich) and is part of       "Zooteach" where educators share teaching plans and resources [3].
+The GZ forum boasts more than half a million postings on nearly 18,000       topics (as of April 2013) making it similar in size to the largest       football fan forums.
+In addition to the forum, the GZ blog has become the       main mechanism by which scientists communicate with volunteers to provide       updates on the academic research being done with their classifications.
+The GZ blog presently has hundreds of articles, and ICG member Karen       Masters is a frequent contributor.
+Over the last year (2012-13), the       Zooniverse blogs have attracted 86,000 unique viewings.
+GZ has clearly had a major impact on public engagement in science.
+An       early quantitative survey (2008) of GZ volunteers [4] found they come from       a range of educations and ages, and have an evenly distributed gender       balance.
+According to this survey, the major motivation for volunteering       was a desire to contribute to scientific research (40%).
+In a more recent       (2012) online survey of over 2000 GZ volunteers [5], 87% confirmed GZ had       changed their behaviour in at least one of: (i) more visits to museums and       planetariums (34%); (ii) read more about science (68%); (iii) study more       formally (34%), and (iv) carry out their own research (12%).
+For       under-18s, 70% were encouraged to study a degree and 47% said GZ helped       their schoolwork.
+Overall, 39% of GZ volunteers said they had done more       astronomy (e.g.
+amateur observations) since starting GZ, and 75% would       recommend GZ to others.
+Finally, quantitative learning assessments given       to GZ participants indicate the volunteers do perform better at correctly       answering conceptually challenging questions on the astrophysics of       galaxies.
+Two studies show that, on average, the most experienced GZ       participants outperform their novice counterparts by as much as a full       letter grade (10%) [6]     The success of GZ inspired the creation of several follow-on projects,       e.g.
+a Google-funded project at Portsmouth asked the public to draw on       SDSS images in "Google Sky" to help measure the size and orientation of       galactic bars[7].
+Moreover, there now exists an array of different "zoos"       that span diverse disciplines and are organized under the common banner of       the "Zooniverse" [8], hosted and led by Oxford University.
+The Zooniverse       now has more than 20 projects running simultaneously, from climate change       to cancer research, with over 850,000 worldwide volunteers (08/2013).
+The       GZ methodology has inspired the "Citizen Science Alliance," which holds       regular calls for proposals of science projects that would benefit from       citizen science involvement.
+In August 2013, the University of Portsmouth       officially joined the CSA, based on our long-term association with GZ, and       will embark on new Portsmouth-specific Zoo projects.
+Galaxy Zoo has emphatically demonstrated the power of citizen science,       and has inspired new and exciting projects.
+There are now several       commercially-orientated citizen science projects including "DIYgenomics",       a mobile phone app to look for variations in genes, and "Crowdflower",       which provides businesses assess to citizen scientist volunteers [9].
+Also, Zooniverse projects like "Seafloor Explorer" have commercial       partners.
+These projects clearly illustrate the potential economic impacts       of citizen science and Portsmouth scientists Joe Cox and Karen Masters       have a funded EPSRC Digital Economy grant to research such potential       further [10].

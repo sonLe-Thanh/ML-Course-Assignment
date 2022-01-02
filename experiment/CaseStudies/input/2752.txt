@@ -1,0 +1,38 @@
+     Our research into FAF imaging has transformed clinical practice in       retinal disease.
+The 2010 text       book Medical Retina: Focus on Retinal Imaging describes how "the         era of FAF imaging as applied         today has begun in 1995.
+Von Ruckmann, Fitzke and Bird described in         their landmark paper the         use of a confocal scanning laser ophthalmoscope for FAF imaging in a         large number of patients"       [a].
+The subsequent widespread adoption of this technique has led       to patient benefits in terms of       earlier detection and monitoring of disease.
+The technique has also       impacted on the development       of new therapies, as efficacy can be better assessed.
+The economic impacts       on commercial       companies who produce equipment have also been substantial.
+FAF imaging is now a widely used technique in the assessment of retinal       disease, and is available       nationwide as part of NHS services.
+At Moorfields Eye Hospital alone,       between 300 and 500       patients per week are imaged by FAF (c.20,000 per year) [b].
+In       the Department of Health's 2007       document, What is Physiological Measurement?
+A guide to         the tests and procedures conducted by         Physiological Measurement diagnostic services, FAF is listed as a       standard technique, as follows:     "Test: Fundus autofluorescence (AF) with confocal         scanning laser ophthalmoscope         (Heidelberg Retina Angiograph HRA).
+Function: To         image the lipofuscin pigment in the         retinal pigment epithelium for diagnosis and monitoring of retinal         dystrophies and         degenerations.
+Indication: Retinal dystrophies;         Age-related macular degeneration" [c]     2009 guidelines from the Royal College of Ophthalmologists described FAF       as a "commonly used         retinal imaging technique" and recommended it in the diagnosis of       Age Related Macular       Degeneration as follows: "The use of scanning laser ophthalmoscopy to         generate fundus         autofluorescence images and the use of en-face imaging using spectral         domain OCT have made it         easier to diagnose GA [geography atrophy] as these can reveal areas of         GA which may not be         clinically visible on biomicroscopy" and "[Autofluorescence] can         give an indication of the health of         the RPE."
+The 2013 update to these guidelines further emphasised the       utility of FAF, saying:       "Several imaging modalities may be useful, in particular           fundus autofluorescence, in the evaluation         of GA" (emphasis added) and "Fundus autofluorescence imaging         especially when combined with         optical coherence tomography is helpful in distinguishing PD from AMD"       [d].
+That the impact of this technique on clinical practice has spread beyond       the UK is demonstrated by       a 2010 review article in Eye Net magazine (produced by the American       Academy of       Ophthalmology) which described how "Fundus autofluorescence (FAF) has         recently pole-vaulted         from a research tool to a real clinical application" [e].
+The application of FAF imaging in the clinic has considerable benefits       for patients.
+As described in       a recent review, which described FAF imaging as "a valuable asset in         diagnosing retinal disease",       the technique may allow for earlier identification of retinal diseases       which are not otherwise evident       [f].
+This allows earlier treatment, and better monitoring of the       efficacy of this treatment.
+Development of new therapies     New forms of interventions such as gene therapy and stem cell therapy       increasingly rely on FAF       and related novel forms of imaging to determine potentially beneficial       effects of treatment.
+Clinical       trials use FAF and other new forms of imaging in addition to conventional       endpoints such as visual       function (visual acuity or visual fields) and electrophysiological       measures.
+For example, a recent       trial of intravitreal injections of ranibizumab for pigment epithelial       detachment (PED) secondary to       AMD used FAF as one of its methods of assessment, as did another study of       subconjunctival       sirolimus for the treatment of geographic atrophy [g].
+One trial       investigator reported that "In         designing clinical trials that test new pharmacologic interventions,         [fundus autofluorescence] is         helpful in distinguishing progressers from slow progressers" [h].
+In the US, the FDA recently advised that: "FDA's Center for Drug         Evaluation and Research         (CDER) has accepted as an anatomic endpoint a decrease in the rate of         growth of an area of         retina that no longer has any photoreceptors.
+This can be measured in         one of several ways...
+The         hallmark of dry AMD is geographic atrophy in the macula.
+Geographic         atrophy is a breakdown in         the retinal pigment epithelium (RPE) and subsequent overlying retinal         tissue.
+There is not a         uniform destruction of the retina, and photoreceptors are often spared         at the periphery of the         lesions.
+These "fuzzy borders," when viewed by fundus photography or         autofluorescence, often         surround an area where there is complete destruction of the         photoreceptors.
+Reduction in the rate         of progression of these areas of complete destruction of the         photoreceptors can sometimes be         measured indirectly by fundus photography or autofluorescence.
+When the         area of complete         destruction of the photoreceptors in dry AMD can be measured, it is an         acceptable endpoint.
+A         change in the area of non-seeing retina has been used as a clinical         endpoint to support New Drug         Applications (NDAs) such as ganciclovir and foscarnet in the treatment         of cytomegalovirus (CMV)         retinitis" [i].
+Economic impacts     Since our first demonstration of FAF in the eyes of patients using the       SLO, numerous other       research centres throughout the world have taken up the technique and many       thousands of       instruments have been deployed clinically worldwide.
+Several major       companies now manufacture       these devices, including Canon, Heidelberg Engineering and Optos [j].
+Large numbers are sold       every year.
+[text removed for publication] [k].
+Globally,       it has been estimated that c.10,000 of       these instruments have been sold.
+Thus the economic impacts of this       industry are considerable:       with instruments costing about $200,000, this implies spending of c.$2bn       for the instruments alone.
+In addition to this sum, there has been worldwide investment in clinical       staff, infrastructure and       medical resources to provide FAF imaging for patients.
+This is a clear       indicator of the impact FAF       has on clinical practice and perceived benefit to patients.

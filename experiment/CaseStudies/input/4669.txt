@@ -1,0 +1,38 @@
+     How research was exploited       The research and landslide mitigation methodology was delivered using a       systems engineering, structured development process, from concept [6] to       delivery of construction on the ground (Table 1).
+The systems engineering       approach required coordination not just within the public sector, but also       between the public sector, civil society and the private sector; it       integrated efforts not just vertically within a sector, but horizontally       across sectors and geographically within a country.
+Early evidence of the       uptake of the methodology is provided by the St Lucia Government Cabinet       Conclusion #618 of 12 July 2004, which formalised the role of MoSSaiC       Management Committee within Government.
+As a result of MoSSaiC project       impact in the Eastern Caribbean, in September 2009 The World Bank approved       funding for Anderson and Holcombe to author a book on the methodology to       make it more widely available [a].
+Table 1: Steps used to implement the MoSSaiC methodology from 2008                                Steps           Sample Evidence                             1 International agencies engage             with MoSSaiC in the Eastern             Caribbean           2008 &#8212; MoSSaiC projects in communities visited by World             Bank, Caribbean Development Bank and USAID in St Lucia             and Dominica, and UNDP in St Vincent and Bequia.
+Agencies and Governments provide ~US$6M for drain             construction for MoSSaiC projects [b].
+the project.
+2 World Bank incorporates             MoSSaiC methodology in             disaster mitigation projects           World Bank funds St Lucia Second Disaster Mitigation             project 2009-2011, incorporating MoSSaiC approach to             landslide risk reduction in a further six communities [b].
+3 World Bank incorporates             MoSSaiC as a case study in             annual report           Inclusion of methodology in World Bank, World               Development Report 2010; &#8216;Climate Change and             Development&#8217; [c] and featured in the World Bank&#8217;s Aid               Effectiveness Showcase in Washington DC, 2011 [d].
+4 World Bank publishes book on             MoSSaiC as an accepted             methodology suitable for             widespread uptake           Publication of book: M.G.
+Anderson and E.A.
+Holcombe,             2013.
+Community-based landslide risk reduction: Managing               disasters in small steps.
+455pp, [a].
+Details of the beneficiaries       Since 2008, the MoSSaiC methodology has benefitted 12 communities,       totalling approximately 3000 inhabitants, across St Lucia, Dominica and St       Vincent and the Grenadines.
+In 2011, it was introduced to Jamaica through       a programme of community-based projects costing US$2.37M, funded by the       World Bank and implemented by the Office of Disaster Preparedness and       Emergency Management [e].
+Details of the nature of the impact and indicators       The methodology works: there have been no reported landslides in       any of the communities in which MoSSaiC interventions have been completed       [2].
+The Latin America and Caribbean Regional Disaster Risk co-ordinator       at the World Bank comments: "In the aftermath of Hurricane Tomas         (October 2010), there were numerous landslides in St. Lucia due to the         extreme rainfall.
+None were reported in any of the communities with         MoSSaiC interventions.
+This positive proof of the powerful results...         has motivated St. Lucia to scale-up the initiative nationwide, and to         institutionalize it" [f].
+In addition, it has been noted that these       communities "used to be affected by substantially weaker events in the         past" [g].
+The methodology pays: it has a benefit-cost ratio of 2.7:1 [2,h].
+In this study, the development and application of an integrated landslide       risk assessment and cost-benefit analysis methodology was grounded in data       acquired at this community scale &#8212; overcoming some of the methodological       issues regarding scale, data availability and process representation and       allowing the degree of landslide risk (and risk reduction) to be       quantified.
+Conducting a survey of community benefits, using both revealed       preference and stated preference (contingent valuation) methods, allowed       estimation of indirect project benefits.
+These indirect benefits to the       community were shown to be significant and included: lower water bills       through the harvesting of intercepted rainwater from rooftops; improved       access to and from the community due to reduced flooding and associated       debris on footpaths; and therefore fewer days of work missed and less time       spent clearing debris.
+In St Lucia, these benefits were valued at       EC$12,705 annually [2].
+In addition, over 80% of programme funds were       spent in the communities [c] with, for example, 25 local people employed       on the project.
+The methodology is being scaled up by The World Bank: Funding was       awarded for development of the functional and technical specification of       an online interface to MoSSaiC resources.
+The interface will give       structured access to the MoSSaiC book, and technical and project       management tools; allow development agencies and governments to design and       deliver landslide risk reduction projects; provide training modules for       the local teams delivering the landslide hazard reduction measures; and       include relevant calculators and tools for slope stability assessment and       drainage design.
+The combination of the ePractice user mode, user types,       content and functionality are particularly novel and innovative.
+It is       anticipated that the interface will become a template for other resources       in the field of Disaster Risk Management knowledge transfer both at The       World Bank and elsewhere.
+The specification was completed and signed-off       in June 2012 and will be built by and hosted with World Bank funding (for       which an agreement is in place).
+Creating a state-of-the-art interface for       all MoSSaiC resources, bespoke for each audience type at a site funded and       hosted by the World Bank, will enable global reach of the methodology, and       maximise impact in the period 2011-2014 beyond the current levels of       recognition [b].
+In addition, the World Bank is translating the book into Spanish (in       2013) and is establishing a `community of practitioners' in Latin America       and the Caribbean to roll out the methodology within the region.
+The World       Bank comments that "given this context of apparent success [in St.       Lucia], the World Bank sees the potential to encourage uptake of the         methodology more widely.
+To that end the Bank is publishing           in December 2012 the book `Community-based landslide risk         reduction &#8212; managing disasters in small steps'... [and] a Spanish         translation of the book will later be published by the Bank" [f].
+CHASM software recognition: CHASM software is recognised       internationally as `industry standard', with the US-based Scientific       Software Group marketing the software since 2000 [i], achieving CHASM       sales in more than 17 countries worldwide.
+In 2010, CHASM was awarded the       Grand Prize at the Random Hacks of Kindness#1 software event at       Microsoft, Washington DC [b].

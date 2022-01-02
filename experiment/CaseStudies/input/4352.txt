@@ -1,0 +1,37 @@
+     Particulate Matter (PM-PM10 and PM2.5) is now recognised as the air       pollutant with the greatest public health impact.
+The continuing       importance of this issue was underlined in the UK's Air Quality Strategy       (published in 2007) [source 1] which said that the estimated effect of       man-made PM pollution in 2005 would be expected to reduce life expectancy       averaged over the whole population of the UK by up to about 7-8 months.
+This health impact in 2005 was estimated to cost up to &#163;8.5-20.2 billion       per annum.
+The assessment estimated that if no further measures in       addition to those already agreed at the time were implemented, man-made PM       air pollution in the UK would continue to reduce average life expectancy       by up to about 5.5 months even by 2020.
+This health impact in 2020 was       estimated to cost up to &#163;6.2-14.7 billion per annum (vol.
+1 p42 and vol.
+2       pp42-43) [source 1].
+Roy Harrison has engaged closely with UK policy-makers for decades.
+Until       recently he served as a member of Defra Science Advisory Council [2009 -       2012], and is currently a member of the Department of Health Committee on       the Medical Effects of Air Pollutants and the Defra Air Quality Expert       Group.
+He has previously chaired the Quality of Urban Air Review Group       [1991 - 1997] and the Airborne Particles Expert Group [1998 - 1999] for       Defra's predecessor departments and was a member of Defra's Advisory       Committee on Hazardous Substances [2001 - 2006].
+He led the preparation of       the Second Report of the Quality of Urban Air Review Group (1993) which       warned of the problems associated with particulate matter and NOx       emissions from diesel vehicles.
+This impact case study focuses specifically on the take-up of PM       mass-closure techniques developed by Harrison's group into a UK       policy-making tool called Pollution Climate Mapping.
+Pollution Climate Mapping     The results from this research have been used extensively to inform the       Pollution Climate Mapping (PCM) model used by the Department for       Environment, Food and Rural Affairs (Defra) and the Devolved       Administrations to predict future concentrations of airborne pollutants       and to evaluate and compare abatement strategies.
+(Note: reference to       Defra, below, should always be taken to include the Devolved       Administrations).
+The PCM model is currently the sole model chosen by Defra to help meet EU       Air Quality Directive (2008/50/EC) requirements to report on the       concentrations of particular pollutants in the atmosphere at ground level       (Williams et al., 2011) [source 2].
+The PCM model is used for compliance       reporting as a substitute for widespread monitoring; it is vital,       therefore, that its components have a strong evidence base (vide section       3, above, for the PM component of PCM).
+PCM is also used for scenario       assessment and population exposure calculations to assist policy       developments.
+The PCM models are run by Ricardo-AEA on behalf of Defra.
+Work by the       Harrison group forms the basis of the component of the model dealing with       airborne particles used by scientists at AEA [sources 3 &amp; 4].
+Annual       reports to Defra are published by AEA summarising the results of UK       modelling under the Air Quality Directive (2008/50/EC) [sources 5 &amp;       6].
+The model for particulate matter is described in detail in the report       for 2010 (AEA, 2011) [source 6], describing the model for particulate       matter on pages 70-86.
+It is clear from the model description that the       fundamental formulation is based upon the receptor modelling work and       Pragmatic Mass Closure Model developed at the University of Birmingham and       the coefficients (e.g.
+Table 2, page 80 of AEA, 2011) derive directly from       the work of the Harrison group as reported in Abdalmogith et al.
+(2006),       Harrison et al.
+(2006) and the report to Defra cited by AEA (2011) as       Harrison and Yin (2006) which was published as Yin and Harrison (2008).
+A number of benefits have flowed from use of the model: 	     Under article 7 of Directive 2008/50/EC, the number of monitoring       stations may be reduced by 50% if high quality modelling is used to       estimate pollution levels in other locations.
+The total Defra operational       budget for automatic air quality monitoring in the UK is &#163;3.1M per annum,       of which a substantial portion relates to particulate matter.
+The capital       cost of instruments installed is of the order of &#163;3M.
+The model output forms the basis of background maps of air quality       across the UK produced by AEA on behalf of Defra (http://laqm.defra.gov.uk/review-and-assessment/tools/background-maps.html).
+These maps are considered the definitive information source on air quality       used in all environmental impact assessments within planning applications,       by local government in their air quality assessments and the Planning       Inspectorate in Public Inquiries.
+Planning applications worth many       billions of pounds each year depend upon the background air quality maps       in their environmental assessments.
+The PCM model has formed the basis for evaluating and comparing the       potential benefits of mitigation measures designed to improve air quality,       which are then subjected to cost-benefit analysis.
+Examples of the       benefits to PM10 concentrations and annual costs and benefits of measures,       which may exceed &#163;1 billion for individual measures, appear in Chapter 3       of the Updated Third Report of the Interdepartmental Group on Costs and       Benefits (Defra, 2007) [source 7].
+Implementation of abatement measures is key to the UK compliance with       EU Limit Values for PM10 [source 8].
+Continued exceedence of the Limit       Values will lead to infraction proceedings being initiated by the European       Commission with subsequent imposition of large fines upon the UK.
+In 2011,       fines of up to &#163;300 million were narrowly averted by a time extension       granted by the Commission.
+The PCM model was used to support a successful       application for a time extension to meet the PM10 Limit Value in London.

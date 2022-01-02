@@ -1,0 +1,34 @@
+ The `Portsmouth' model has been employed by the Naval Manning Agency to support manpower planning since 2000 and `has been found to be surprisingly accurate even in the short term' (Corroborating Source - CS1).
+This has had two consequences.
+First, it has enabled the RN to modify policy to realise labour efficiency cost-savings.
+Secondly, it has enabled DASA (Defence Analytical Services Agency, the agency responsible for providing defence statistics and policy advice to the government and the armed forces) to provide more accurate tri-service manpower predictions over the medium-long term (`Tri-Service/DESA Impact').
+1.
+The Naval Impact: In 2000, the RN seconded Commander Ross Rennison to work with Dr. Jaffry on further refining the `Portsmouth model.'
+This collaboration initially focussed upon improving the JOBSTAT database which held detailed deployment, pay, and personal information on all Naval personnel which underpinned the model.
+This task was completed prior to the 2008 `Impact window', and `provided the Navy with a rich source of management information that could be readily distilled and compiled to meet the needs of the latest enquiry' (Corroborating Person - CP1).
+This was swiftly exploited by the then Assistant Director of the RN Human Resources Policy and Planning team who, in the early part of 2008, set the Jaffry/Rennison team the task of producing a series of freestanding case studies between 2008 and 2010 to provide `support for the evidence based policies needed to address pressing issues at the highest levels within the organisation.'
+(CP2).
+Examples of this included:   Manning and Training Margin (MTM) review.
+Losses are incurred as personnel may be temporarily undeployable [ie: due to illness, resettlement etc.]
+and, as this may affect operational capacity, a `margin' is built into budgets to prevent such an occurrence.
+As the margin is the most volatile component of the manpower equation it is therefore the most difficult to estimate and cost.
+The Jaffry/Rennison team were tasked with assessing the degree of MTM reporting.
+Their investigation suggested underreporting of around 25% (equivalent to 1,200 people) and saw them advise that the MTM element `in the statement of planning liability should be revisited' (CS3 - p.47)  Cost growth in service pay.
+The data compiled to support `Portsmouth model' was employed to demonstrate that pay growth was double the assumed rate used in the then planning process due to institutionalised wage inflation (2.5% above inflation).
+These findings informed the work of the Force Structure Analysis Team (Policy and Planning Analysis Group) and resulted in adjustments being made in terms of the assumed wage inflation used by the centre in forecasting future manpower costs (CS4).
+Proposed Housing Loan Scheme.
+The RN also requested Jaffry/Rennison to determine the probable period individuals would spend in their base port in order to identify the likely take- up (and costs) of a proposed housing loan scheme as part of the Strategic Remuneration Review (SSR).
+The team estimated that as around 70% of staff would be deployed in their home port over a two year period (40% over a three year period) this made the proposed housing scheme unviable.
+The scheme was not introduced (CS5).
+In mid-2009, following discussions with the new Commander of the Maritime Reserves (Reserve personnel had to be at 28 days readiness to supplement the regular service in the event of unexpected contingencies), the decision was taken to adapt JOBSTATS structure to incorporate the Maritime Reserves.
+`This was a significant contribution to the further integration of the Reserve and Regular Service.... [and] it is much to the credit of Professor Jaffry that the flexibility in the original design of JOBSTATS, which he had set out, made this transition for the Reserves so straightforward' (CP3).
+Furthermore, CP2 in their letter of 17/5/2013 to the Dean of the Portsmouth Business School, notes that `this field of activity, initiated by the work of Professor Jaffry's team, continues to go from strength to strength.'
+2.
+The Tri-Service/DESA Impact: Although Dr. Jaffry had undertaken some experimental modelling of RAF and Army manpower needs in 2006, these two branches of the Armed Forces were unwilling to financially support further refinement of the model at that time.
+Nevertheless, by early 2008 the Senior Economic Advisor (DESA) was recommending in an internal memo distributed to all tri-Service Directors of Manning and the MOD Centre that `the success of the [Portsmouth] work leads me to encourage use of the approach in all three services as well as the Centre [DASA].'
+(CS1).
+This led to DESA inviting the Portsmouth team to brief the Technical Cooperation Programme (TTCP) Workforce Modelling and Analysis Working Group comprising military manpower planners drawn from Australia, New Zealand, Canada and the United States, on 27 May 2009.
+Feedback from the Head of Personnel Statistics and Analysis at DESA to Dr. Jaffry noted that `the TTCP nations found your contributions interesting and highly relevant to their own situations' (CP4)1.
+At the national level, DASA - in line with the Senior Economic Advisor's 2008 recommendations - `developed a tri- service manpower demand model for trained personnel in conjunction with Dr Jaffry, University of Portsmouth' (CS2).
+In early 2010 this model was used to rebut findings from RUSI (the Royal United Services Institute for Defence and Security Studies) and Professor Malcolm Chambers that a 10-15% real cut in the defence budget would lead to a reduction of 20% in trained service personnel (33,080 staff) between 2010/1 and 2016/7.
+Instead, the DASA/Portsmouth model estimated and advised tri-Services Directors that a forces reduction of 7% (11,000 staff) by 2012/3 and 13% (20,000 staff) by 2016/7 was more likely (CS2).

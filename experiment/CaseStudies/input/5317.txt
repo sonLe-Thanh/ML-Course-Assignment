@@ -1,0 +1,34 @@
+     The majority of patients benefitting from the rsMD technology have       suffered a brain injury that       reduces the blood supply to their brain.
+Brain tissue can cope with the       consequent reduction in the       supply of oxygen and nutrients if its metabolic rate is sufficiently low.
+Unfortunately, however, as       shown by the Boutelle group, a common consequence of such injury is the       occurrence of       synchronised waves of electrical depolarisation in the brain; generating       the synchronised waves       requires lots of energy and the injured brain consequently suffers from       the ischaemia.
+It is       therefore unsurprising that the occurrence of waves is associated with a       worse outcome [A].
+Since       the unsupported metabolism is itself a direct cause of damage, diagnostic       precision can be       increased by monitoring it locally, continuously and in real time.
+Currently this can only be achieved       with the Boutelle group's methods.
+Professor Boutelle is a founding member of COSBID [B], an organisation       established for the       investigation and treatment of patients with brain injury depolarisations       resulting from head trauma       or vascular stroke.
+Its 16 Centres are distributed worldwide.
+Six of them       (Charit&#233; Hospital, Berlin;       King's College Hospital, London; University Hospital, Cologne; St Mary's       Hospital, London;       Charing Cross Hospital, London; and University of Pittsburgh Medical       Center) monitor eligible       patients not only for depolarisation waves but also for ischaemia, using       rsMD equipment made by       Professor Boutelle.
+He also trained 15 neurosurgeons and other clinical       staff, and has run briefing       courses for approximately 30 intensive care nurses every 6 months, during       the REF period.
+The introduction of routine monitoring of brain ischaemia by rsMD       represents a change in clinical       practice.
+For example, Cologne uses rsMD to screen every patient with       sub-arachnoid       haemorrhage and some with traumatic brain injury (approx.
+10       patients/year) [C]; approximately       100 patients have been screened across all Centres within the assessment       period.
+The method       provides greater precision in the diagnosis of the patient's condition and       hence helps to guide the       selection of treatment options such as administering glucose, raising       blood pressure or performing       radical hemispheric craniectomy [D].
+It was highlighted as being of       "outstanding interest" in a       recent expert clinical review [E].
+The method has been extended to clinical practice in other surgical       areas.
+For example, it is       employed in reconstructive surgery of the tongue or jaw where a flap of       the patient's own tissue is       used as a transplant, usually following cancer treatment.
+Success in this       procedure depends on       adequate perfusion of the flap with blood; it therefore requires clot-free       blood vessels, and       microsurgical techniques to interface the vessels in the flap with those       of the surrounding tissue.
+Inadequate perfusion occurs in 9% of cases (and many more in patient       groups with adverse       conditions such as diabetes); the failure rate at salvage is then up to       66% [F].
+It causes flap       ischaemia and necrosis, ultimately leading to life-threatening septicaemia       if left uncorrected.
+Mortality for septicaemia in intensive care is approx.
+80-90%.
+Perfusion       is traditionally assessed       only by the feel and appearance of the flap; signs of failure appear late,       by which time surgical       rescue is difficult or impossible.
+To overcome this problem, rsMD biosensors from the Boutelle team have       been used to monitor 3       patients per month, starting in November 2011, at the Queen Alexandra       Hospital, Portsmouth;       monitoring takes place during both surgery and intensive care [G].
+This       represents a change of       clinical practice at the hospital, and improves outcome.
+After only ten       patients had been examined,       the system had detected a failure of tissue perfusion in two patients       after initial flap placement.
+The       surgical team responded by disconnecting the flap, where they found blood       clots.
+These were       cleared and the flap metabolic state dramatically improved.
+Without rsMD       technology, the clots       would have remained undetected, causing the tissue flap to become ischemic       and then necrotic,       probably leading to septicaemia with its associated high incidence of       mortality.
+The paper [H]       describing these cases was "highlighted" in the American Chemical       Society's Chemical &amp;       Engineering News [I] 2013;91:30.
+The surgeon is currently trying rsMD in       other, related classes of       operation including, with colleagues, reconstructive breast surgery.
+Overall, the impact of this technology during the REF period has been to       reduce patient morbidity       and mortality, reduce medical costs, and relieve burden on medical       infrastructure at the hospitals in       which the device has been used: Charit&#233; Hospital, Berlin; King's College       Hospital, London;       University Hospital, Cologne; St Mary's Hospital, London; Charing Cross       Hospital, London;       University of Pittsburgh Medical Center; and Queen Alexandra Hospital,       Portsmouth.
+Discussions       on commercialisation of the latest version of the rsMD technology are       underway with M Dialysis, a       Swedish company that dominates the clinical microdialysis market [J].
+The       technology will be       patented using the translational funds obtained for that purpose.

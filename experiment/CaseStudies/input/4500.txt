@@ -1,0 +1,24 @@
+     Cranfield developed a best practice process and software tool to predict       the obsolescence resolution cost for electronic components and materials       (figure 1).
+The tool helps to reduce the UK defence costs in two ways:     &#8212; the contingency sums that defence contractors would have incorporated       into availability contracts to resolve obsolescence issues will be lower       because the tool enables the costs to be predicted with greater accuracy       and confidence     &#8212; defence contractors will have a greater incentive to design equipment       with a view to minimising obsolescence issues.
+A DTZ estimate shows &#163;213 million per annum financial benefit for the       sectors (BAE Systems and MoD only) [C1, 2].
+Cranfield's software tool is       disseminated to other defence companies by MoD through a support contract       [C3].
+The research in cost engineering helped BAE Systems and MoD       systematically to identify uncertainties in cost estimation, and the tool       developed is used within BAE Systems to prepare bids [C4].
+The research       has also significantly influenced the national and international policy of       the Association of Cost Engineers (ACostE), and promoted the need for a       scientific approach to cost engineering in industry and government       organisations [C5].
+In addition, the Cranfield team developed cost models       that were used within Airbus as part of the "CADCO" project toolbox to       evaluate conceptual designs of new aircrafts [C6].
+This enables Airbus to       understand better the costs in the early phases of new projects, with       calculated uncertainty.
+The team helped Airbus to implement the CADCO tool       set across Europe and provided extensive training.
+Figure 1: Predicted cost of obsolescence resolution with uncertainties 	       Cost Engineering at Cranfield has developed novel approaches and tools         to predict the true whole life cost of complex engineering systems [C7,         C8].
+Cranfield has provided cost engineering training for over 12 years         and has trained over 700 engineers in over 50 companies with an         indicative financial impact of &#163;12 million per annum.
+Cranfield's effort         in improving the cost engineering practice across defence, aerospace,         automotive, railway, oil and gas companies has resulted in more         recognition of cost as a design driver and has helped in improving the         competitiveness.
+The indicative financial benefit from cost engineering         software developed at Cranfield (figure 1) is over &#163;400 million per         annum [C2], and the UK MoD is disseminating the software to more         companies such that and the financial impact will be further increased         significantly.
+To estimate savings, we consider that the UK civil aerospace sector         alone has revenue of &#163;12 billion per annum [C9].
+The training delivered         by the Cranfield team is estimated to help British aerospace companies         to gain at least an additional 0.01% of this market, which is an         additional &#163;12 million per annum new business.
+Cranfield developed cost engineering training and education programmes,       based on this research, with BAE Systems, Airbus, Ford Motor Company,       Rolls-Royce, Bombardier Transportation and the Ministry of Defence (MoD)       since 2001 [G1].
+The initial training programme at BAE Systems focused on       bridging the gap between the technical/ engineering functions and finance.
+The training improved the communication between the two groups and       therefore improved the cost estimating practice and policy, encouraging       the company to establish "cost engineering" as a distinct function.
+Once       the cognitive model for the cost engineers was captured, the team       developed detailed cost engineering training for the automotive industry       with Ford Motor Company and for the MoD in 2003, which is used to reduce       the learning curve of the novice.
+The training also included a `cost       awareness development programme' across Airbus (within Europe) and BAE       Systems.
+The training supported design engineers, manufacturing engineers       and procurement team members to improve their cost awareness.
+Since 2006,       the Cranfield team has delivered an online cost engineering course on       `Principles of Cost Engineering'.
+UK and international manufacturing       (aerospace, automotive, railway, oil and gas) and defence companies use       the course regularly.
+The face-to-face and online training courses have       supported companies like Airbus, Rolls-Royce, and BAE Systems to become       more competitive and manage their costs better, [C3,4,5,6].

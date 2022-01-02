@@ -1,0 +1,37 @@
+     The above research has solved practical problems for the aerospace       industry, by improving engineering analysis and design software.
+This has       involved direct engagement with the industrial end-user, providing a       straightforward pathway to impact.
+The research has reduced the time taken       to design components, and improved the final product.
+This has had a       critical impact on the design processes of major aerospace companies in       the following ways:     Meshing techniques     With the significantly increased use of computational flow field       simulations in the industrial design process, quality mesh generation       becomes even more important for accurate solutions, however it is very       time consuming for industrial designers to generate such meshes for       complicated geometries.
+The underpinning research on Delaunay mapping       method [R1], the buffer layer method and the zipper layer method [R2]       addresses this problem by shortening the mesh generation time for high       quality meshes and allowing the linkage of quality multi-block structured       meshes for industrial problems.
+In 2010, these methods were implemented in       the Rolls-Royce turbomachinery/gas turbine analysis and design package,       PADRAM, and had a critical impact on improving the design process.
+The impact is twofold: a direct impact on practitioners (design       engineers) at Rolls-Royce, and a consequent economic impact on the       Rolls-Royce business, in terms of time savings associated with the faster       software solution.
+This is evidenced by the supporting statement from       Rolls-Royce [S1]:     "The buffer and zipper layer methods have significantly simplified         quality mesh generation process for complicated engine geometries.
+These         methods are now directly incorporated in the Rolls-Royce engine design         optimisation suite... As a result we use the methods extensively for         design and optimisation of the turbomachinery components for the next         generation Jet engines.
+The methods are used by our design teams based         at [text removed for publication].
+The methods are particularly relevant         to the investigation of engine casing treatment by grooves, open rotors,         and engine cooling holes.
+I would estimate that we spend [text removed         for publication] per year modelling these issues, and that the new         methods represent an order of magnitude improvement to the time needed         to mesh such components"     In addition, there is evidence that the meshing techniques have       influenced the strategic approach taken by Rolls-Royce for the design of       future engines [S1]:     "As a direct result of the zipper layer method, we have developed an         innovative casing treatment design.
+This un-conventional and novel         distributed groove design [text removed for publication] was shown to         improve the stall margin at no cost to the engine efficiency.
+Two         patents have been filed by Rolls-Royce [with Qin et.
+al.
+as inventors]         to protect the meshing technology and the innovative casing treatment         design.
+Although this novel casing design is still at a low TRL level         (4-5), I expect our future engine would also benefit from this design         capability."
+3D shock control bumps     Drag reduction for transport aircraft is crucial for future greener       aviation.
+Most large transport aircraft fly at the so-called transonic       speeds (high subsonic near the speed of sound).
+However, in this transonic       region there is a key problem of drag due to shock wave formation on the       wing.
+The 3D contoured shock control bump developed by the research group       [R3] substantially reduces this drag.
+This development has had a significant influence on the design programmes       in the aerospace industry, in particular Airbus, as evidenced by the       following supporting statement [S2]:     "Due to the research undertaken by the Sheffield Team, our understanding       of the behavior of the shock control bumps for practical application onto       our aircraft wings, in particular in their robustness for different flight       conditions and for laminar wings with different transition locations, has       improved significantly.
+Their design and critical analysis of 3D bumps has       led to further Airbus internal and Airbus led EU programmes, including       wind tunnel testing."
+"...the use of shock control bumps is       actively being pursued in our research for future Airbus wing concepts, in       particular as part of our research into Laminar Flow wing designs.
+Here,       shock bumps have a potential role to play in helping to optimise the wing       design in terms of drag reduction, robustness to the effects of surface       imperfections, and 'Mach flexibility' &#8212; being able to fly the aircraft       above its design cruise speed without incurring a significant drag       increase and buffet onset."
+Solver methods     The implicit space marching technique for supersonic/hypersonic vertical       flows (IMPNS) software [R5, R6], can drastically reduce the solution time       for complicated three dimensional supersonic/hypersonic external flows.
+The software has been widely used by Defence Sciences Technology       Laboratory (DSTL), and the IMPNS code has been released through DSTL to       [text removed for publication].
+This has improved the performance of the       organisation by providing a significant time saving in comparison to       previous solutions.
+This is evidenced by the following supporting       statement from DSTL [S3]:     "One of Prof. Qin's CFD solvers, IMPNS, is regularly used in DSTL to         support a wide range of MOD projects.
+This solver is extremely         efficient, robust and accurate and represents a truly world class         capability.
+In comparison with commercially available CFD software, the         IMPNS solver is dedicated to supersonic and hypersonic problems of         particular interest to DSTL.
+The use of the IMPNS solver has reduced the         time DSTL scientists/engineers spend evaluating high-speed concepts by         at least one order of magnitude, from many days to a few hours.".
+The unique design tool based on the adjoint method (adj-MERLIN software       code) developed by Qin and LeMoigne [R6], enabled detailed design with       many hundreds of shape design variables.
+It has led to a number of novel       designs (products) by DSTL and impacted on their design practice,       evidenced by the following statement [S3]:     "Prof. Qin, along with his PhD student Joe Coppin, has developed a suite       of wing design and optimisation tools that are already having a       significant impact in the area of [text removed for publication] design       and performance.
+The adjoint based optimisation tool provides us with an       essential capability to conduct aerodynamic design with a very large       number of design variables.
+A number of novel designs have been developed       as a result of using this advanced capability, which would have been       impossible with traditional methods.
+".

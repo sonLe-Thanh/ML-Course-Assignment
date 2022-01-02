@@ -1,0 +1,42 @@
+     Food waste is a highly publicised priority problem since land and water       used in its production are the largest demands on global resources.
+According to the DECC/DEFRA Anaerobic Digestion Strategy and Action Plan (http://bit.ly/1995KKQ) 16 million       tonnes (dry weight) of food and drink waste is generated annually in the       UK, furthermore producing at least 10 times this in wastewater.
+It was       calculated [R6] that treating effluent using conventional       wastewater treatment requires about 800 KWh per wet tonne, up from 500KWh       in 2005.
+The immediate impact from this research has been to demonstrate new       technology that provides renewable energy whilst reducing wastewater and       greenhouse-gas emissions.
+Dissemination throughout the food and processing       industry will have significant economic and sustainability benefits.
+Our       partners, Unilever, have pioneered this application (R1) led by its       commitment to innovation and sustainability.
+Reducing waste at food       processing sites is a priority during any major investment or       refurbishment.
+The Marmite plant generates 15 tonnes of high-strength       food-processing effluent an hour round the clock and if the company were       to discharge this into the sewer it would cost more than &#163;0.5m per annum.
+This was one of the alternatives, which were either to discharge to the       Utility for treatment, to build a conventional tried and tested but carbon       intensive plant, or to use the risky, anaerobic digestion technology.
+Other questions that arose were whether all or only part of their       wastewater should be treated and if they should outsource operation of a       waste treatment plant.
+Analysis of these alternatives started in 2005 against the backdrop of       the renewable-energy incentives offered by the UKs commitment to reducing       carbon emissions and the enhancement of support for recycling.
+Unilever       enlisted Wheatley's help in their decision-making based on his previous       contributions to solving waste problems at this and other sites.
+Loughborough's work was fundamental to the feasibility and       decision-making meetings at Unilever (2005), at which the main       effluent-management options were compared and enumerated.
+A major       contribution was quantifying and reducing the risk from using innovative       technology for energy and water recovery.
+The uncertainty arose because       anaerobic reactors had rarely been used for treating industrial wastewater       in the UK and where they had, problems were reported.
+The incentives       however suggested site specific work and Unilever fully funded       Shelton-Smith at Loughborough [G4] to work out what would be       required to successfully adapt anaerobic digestion to the Marmite site.
+Wheatley and Shelton-Smith were able to use the previous research [R3]       on how to characterise the variable nature of food-production effluents to       optimise anaerobic digestion.
+Monitoring of the waste in this way was used       to suggest the best process-flow sheet to achieve reliability and       sustainability.
+Using these data and their experience with anaerobic       treatment of other wastes, the research team shortlisted the most       promising reactor designs and pre-treatment techniques.
+In all, the researchers worked with, contractors and other technical       experts from the Unilever group from 2005-2009 to detail the design and       commissioning.
+Extensive testing was crucial to gaining the confidence of       Unilever senior management in this untried approach to effluent-treatment.
+They financed the research and based on the results, investment was       approved and &#163;4m spent in 2009 on construction of a plant for energy and       water recovery implementing the treatment process developed and       established at Loughborough [R4].
+Wheatley and Shelton-Smith advised in the competitive procurement process       organised by Unilever to select the contractor and subcontractor.
+Loughborough researcher Theaker was appointed by Unilever in 2008 to lead       the commissioning of the plant, which has been operating successfully to       date [C1, C2, C3].
+The impact and reach of the research extends well beyond the Unilever       application.
+Our innovative procedures provide a practicable and       fundamentally different approach to the design of anaerobic wastewater       treatment plants.
+Our approach simplified the reaction rate model through       radical changes to waste characterisation and monitoring procedures;       (three instead of thirty parameters).
+The procedure is easy to use and is       to be incorporated as an update to the mechanistic International Water       Association model and described to the industry by the Foundation for       Water Research, the Chartered Institution of Water and Environmental       Management and Institution of Civil Engineers design guidelines to new       bioreactor designs.
+These are the standard guidelines for practitioners       working in the &#163;500m food waste processing sector.
+The research had significant economic impact realised through the new       wastewater-treatment plant's production of biogas and clean water.
+Unilever uses the biogas to produce energy, which currently the company       uses directly on site.
+Unilever have made the business case for further       investment for gas storage with the prospect of feeding electricity from       the plant into the national distribution network.
+Water from the treatment       plant is pure enough to be recycled for multiple uses.
+Excluding running       costs, the plant saved &#163;0.9m in 2012, a figure projected to increase year       on year, particularly with energy price rises.
+The new Marmite wastewater-treatment plant also makes a substantial       contribution to sustainability including the replacement of fossil fuel       from power generation estimated to be more than 10 million tonnes of CO2       per year [C1].
+The other environmental benefits are the reduction       in the volume and strength of effluent discharged to the sewer, which is       reducing the risk of odour, sewer overflows and overloads as climate       changes generates more intensive rainfall.
+Current research focusses on       recovery of other materials as well as water and gas, particularly       nitrogen and phosphorus from the solids residues.
+Unilever are working to extend the approach that we have pioneered at       Marmite to other Unilever food-processing plants across Europe, making use       of the EU wide incentives for renewable energy.
+The new procedures adopted       at Marmite have delivered a 10% reduction in operating costs through the       generation of renewable energy (20% of site use) and lowered       effluent-treatment costs by 90% [C1].
+Through their participation in the research (doctoral and post-doctoral),       five researchers have been able to disseminate these developments in the       engineering of anaerobic treatment and industrial effluent management.
+Shelton-Smith and Theaker were employed by Unilever as a result of these       research outcomes and to apply the technology to other company's sites [C1].
+Fell and two others work for other companies in the water industry.

@@ -1,0 +1,23 @@
+     The team's influence on affective computing has an international reach       both within the world of software and also commercially.
+The World Wide Web Consortium (W3C) recommended EmotionML as a standard       in April 2013.
+W3C is the body that regulates the web and sets standards       for all internet-based applications (a familiar standard is HTML,         used to code all web pages).
+As a standard, EmotionML is more       than a research instrument: it defines a policy that has major       implications for the web.
+Most immediately, using the standard ensures       that any computer programme that describes or uses emotion will be       compatible with another.
+The need to develop suitable descriptions for everyday emotions was       highlighted by Cowie and Cornelius in 2003 (see section 3).
+The process of       translating the academic analysis into a working standard was initiated       during the Queen's-led HUMAINE project, which began in 2004.
+Former       Queen's research fellow Marc Schroeder steered the project until 2012,       leading an incubator group that included academics, companies and W3C       representatives.
+The specifications for describing emotions combine ideas       and tools from many sources.
+In particular the project made use of Queen's       development of `trace' methods to describe emotions that change with time,       and the vocabularies needed to describe everyday emotion.
+The formal       defining documents for EmotionML (cited below) acknowledge the input from       Queen's researchers in developing the standard.
+A W3C standard is a policy statement by a transnational body, and       influencing such a standard is an impact in its own right.
+A second level       of impact comes from applications of the language.
+In W3C terminology       these are `use cases', and establishing that such cases exist is part of       the approval process.
+In the 2013 implementation report, nine cases where       the standard has now been implemented are listed, and they demonstrate the       next level of impact.
+The commonest use of EmotionML is as an interface       that allows different components to communicate.
+Deutsch Telekom       implemented it to describe the output of their speech analysis software;       Swiss-based emotion technology company nViso integrates EmotionML into       market research software that infers emotion from facial expressions; the       widely used open-source MARY text-to-speech system developed at the German       Research Centre for Artificial Intelligence uses it to describe the       emotional colouring that speech should express; and the WASABI simulation       of central emotion processes, used in the artificial museum guide Max,       uses EmotionML to let WASABI interface with other software.
+In a local development, that directly uses QUB's expertise and research,       a start-up company, Adoreboard was founded in collaboration with Dr Gary       McKeown in 2011 to build on the research into opinion dynamics, affective       computing, and emotion.
+The company has secured funding of &#163;470,000 so       far.
+This includes &#163;310,000 in private funding, &#163;60,000 from a Knowledge       Transfer Partnership and up to &#163;100,000 from InvestNI-the regional       business development agency.
+It currently has four employees and Dr Gary       McKeown serves as Chief Scientific Officer.
+Adoreboard is working with a       number of multinational companies who are interested in using their       sentiment analysis software to assess the emotional response that       consumers have to their products, based on their news, media and blogs, as       well as online comments on sites such as twitter, forums, chatboards and       review websites.
+Adoreboard was recently selected from UK start-ups by       Google to take up residence at its Google Campus in London.

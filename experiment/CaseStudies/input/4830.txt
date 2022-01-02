@@ -1,0 +1,33 @@
+     The design of the Pr&#234;t &#224; Voter verifiable voting system provides the       foundation for the vVote voting       system developed in conjunction with the Victorian Electoral Commission       (VEC) for local and state       elections in Victoria, Australia.
+The key impact at this stage has been on       Victorian public policy,       whereby the VEC, under the scrutiny of the Victorian Parliament, took a       decision in June 2012 to       develop the world's first voter verifiable electronic election system as       the best way of delivering       their key objectives for the election.
+It was the prototype developed by       Surrey [P3] in conjunction       with the VEC which was used in June 2012 as the basis for a decision by       the VEC to proceed to       full production development of the system to run the Victorian State       Election in November 2014.
+The Surrey team have since led on the development of this system, and are       implementing the back       end.
+The vVote project has also contributed to public policy debate in       Australia with respect to guiding       principles for e-voting, in the context of problems with non-verifiable       election systems elsewhere in       the world (especially the US, but also the Netherlands, Finland and       Ireland) [Source 5].
+A recent       Victorian Parliamentary Inquiry [Source 6] has noted "the VEC's         involvement in the world's largest         universally verifiable public e-voting system, based on "Pr&#234;t &#224; Voter".
+The Committee appreciates         the potential of this project and looks forward to receiving evidence         from the VEC about it as the         inquiry progresses."
+Other Australian states [see e.g.
+Source 7] are       closely watching the VEC       activity.
+The Australian Electoral Commission organised a workshop in July       2012 to discuss       guiding principles for e-voting.
+This was attended by senior       representatives from electoral       administration (Electoral Commissioners and Deputies) and IT (typically IT       Director) from all but       one of the States in Australia, and also New Zealand, and with academic       participation from       Australian academics as well as from Surrey.
+The existence of the vVote       prototype introduced the       concept of verifiability into the discussions and this is framing       part of the standard currently being       developed in Australia for electronic voting.
+The standards activity was       initiated after the July 2012       workshop and is ongoing.
+Australian elections pose a unique set of challenges which motivate the       introduction of electronic       systems for capturing and processing votes, and which vVote addresses,       delivering impact in       public services through improvements to accessibility and inclusion.
+Firstly, voters can vote from       anywhere, not just their registered district.
+This has previously been       managed using paper ballots,       but this introduces delays in returning the ballots promptly, particularly       from overseas.
+Secondly,       the complexity of ballot forms means that a percentage of voters       inadvertently spoil their ballots       (this is estimated to be around 2.5%), which would be mitigated by       electronic assistance for       completing the ballot form.
+It is unknown how many people vote without       spoiling but fail to have       their intent captured.
+Thirdly, disabled voters must be given equal       opportunities to vote secretly       and independently.
+Fourthly, voters who do not speak English must also be       catered for in any of       19 non-English languages.
+Working with the VEC, with Vanessa Teague of the University of Melbourne,       with Peter Ryan of       the University of Luxembourg, and others, the Surrey team applied the Pr&#234;t       &#224; Voter design to the       particular requirements of the Victorian Election System, including large       candidate lists (30-40       candidates), preferential voting, complex ballot forms (with `above the       line' tickets and `below the       line' candidate lists), and the associated desire for electronic       assistance for voters.
+Surrey       developed the back end of the system, including distributed ballot form       generation (to distribute       trust), incorporation of the mixnets, mixing and decrypting the votes, and       the print on demand       protocol.
+We maintained a constant interaction with the front end       developers and accordingly       influenced aspects of the front-end design.
+However, electronic voting introduces new risks to the security and       integrity of elections, and the       VEC were concerned that existing e-voting systems did not properly address       these.
+The novelty of       the Pr&#234;t &#224; Voter approach is the introduction of universal         verifiability, which enables all parts of the       processing of the votes to be verified, either by the voter or by       independent auditors, while       maintaining ballot secrecy by use of cryptography.
+This is at the heart of       the VEC's vVote system.
+VEC decided that a verifiable system was required, and identified that       Pr&#234;t &#224; Voter was the only       proposed scheme in the literature which was flexible enough to handle       preferential voting on a       large scale while maintaining usability for the voters and supporting the       existing voting ceremony.
+VEC approached Surrey as the natural partner, as a direct result of our       research activity in this       area.
+The impact of this system is that it provides more accessibility to       voters while preserving security of       the system and integrity of the election.
+Voters can now vote on       customised tablets in polling       stations, upload their (encrypted) vote to a public bulletin board, and       retain a receipt of their       encrypted vote for verifiability.
+This provides an improved handling of       early and out of district votes       &#8212; there are approximately 400,000 such voters in Victoria, of a total of       around 3,600,000 voters.
+On the basis of the demonstrator produced at Surrey backed up by the       underpinning research,       VEC took the decision to develop a system to run a politically binding       voter-verifiable election, the       first time this has been done anywhere in the world at this scale, even on       supervised electronic       voting services.
+Victoria has a proud history of electoral innovation,       having introduced the secret       ballot to the world (known as the `Australian Ballot') in 1856.

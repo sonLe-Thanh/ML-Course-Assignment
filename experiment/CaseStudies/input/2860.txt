@@ -1,0 +1,25 @@
+     The ManifestAR exhibit was called `Invisible ARTaffects' and was       presented as part of the Turning FACT Inside Out show that opened on the       13th June 2013.
+The physiological computing group at LJMU contributed to       the design of three out of the five pieces that comprised the ManifestAR       exhibit.
+The `Human Conference Sensors' project was concerned with       sustaining audience concentration via the introduction of augments based       upon heart rate activity.
+`Things We Have Lost' incorporated an EEG sensor       into an AR exhibit whereby the act of mental relaxation elicited the       appearance of digital objects.
+Biomer Skelters represented a piece where       vegetation in augmented reality was "planted" in the streets of Liverpool       via a biofeedback loop.
+The opening of `Invisible ARTaffects' was preceded by a number of public       engagement events and workshops at FACT.
+Between the opening of the show       on 13th June and 31st July 2013, 1,488 people had visited the `Invisible       ARTaffects' part of the show.
+Biomer Skelters was an interactive       experience based in the physical environment of the city.
+The idea behind       this piece was to `plant' a series of `virtual' trees and vegetation as       one walked a route through Liverpool.
+The rate of planting was controlled       by the heart rate of the person; specifically, the system was calibrated       to increase the rate of planting when heart rate was low indicating a       state of relaxation.
+LJMU, FACT and ManifestAR designed a Biomer Skelters       tour where two people used the system competitively as they crossed the       city, each trying to simultaneously "out-plant" the other by relaxing as       they walked.
+Five tours using Biomer Skelters ran through June and July.
+Questionnaires were distributed by LJMU to gauge public perceptions of the       technology, which indicated that users enjoyed the experience of using       this new form of technology and found the experience of regulating heart       rate whilst walking to be challenging.
+The tours elicited a number of comments from the public, a selection of       which are reproduced below:     (a) "Very impressive and would recommend to others to try.
+Beautiful       imagery."
+(b) "This technology has an awful lot of implications for both medical       and creative fields."
+(c) "Perhaps I should reconsider going to the gym!"
+By exposing the people to this emerging technology, it was clear that the       public perceived a number of benefits associated with the technology as an       aesthetic experience (a), therapeutic tool (b) and a health check (c).
+The two artists who created Biomer Skelters (Tamiko Thiel and Will       Pappenheimer) felt that collaboration with LJMU opened up possibilities of       incorporating the body into the virtual spaces created by their art.
+Tamiko Thiel articulated the impact of the collaboration on her practice       as follows: "My concern is to build AR artworks that really engage the       viewer/user in an exploration of the physical site and with their own body       in space.
+In this project the biosensor made these ubiquitous but often       unconscious connections and feedback loops between us, the artworks and       our environment tangible and perceivable as a complete system."
+The Research and Innovations Manager at FACT felt that the collaboration       with LJMU has already exerted a significant impact on their strategic       direction as the foremost arts organisation in the north-west; in his own       words: "the deployment of emerging tools introduced to FACT by the team at       LJMU has helped initiate the emerging FACTLab model that places impactful       scientific research as a touchstone for programming the public spaces of       the building.
+Several projects have already emerged as part of this new       approach including: a collaborative project with the RCA and Lancaster       University called Rhythmanalysis that uses such tools to improve our       understanding of work/life balance (to be exhibited in December 2013); a       project called Your Tour with the Sainsbury Centre for Visual Arts in       Norwich and the University of Central London University, that uses       locative tools to push artwork specific content to visitors in a gallery       setting and a commission with artist Daksha Patel that used       psychophysiological sensors to create a live and public participatory       performance artwork on the ground floor of FACT."
+The impact of our research is based upon the capacity of emergent       technology developed in academia to innovate digital art and influence the       strategy of a major arts organisation in the UK.
+The show and tours raised       public awareness about A2R technology as well as eliciting views from       potential users about applications for wearable computing.

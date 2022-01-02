@@ -1,0 +1,36 @@
+     UCL research into the effects of, and potential for, recovery from acid       rain damage has influenced national pollution policy and habitat       management, with a reach spanning local, national and international       agencies.
+The AWMN is the key provider of information on surface water       acidification to UK Government and Devolved Administrations.
+It is also       the sole UK provider of data and expertise to the UNECE International       Cooperative Programme on the Assessment and Monitoring Effects of Air       Pollution on Rivers and Lakes (ICP Waters), set up under the UNECE       Convention on Long-Range Transboundary Air Pollution (CLRTAP) [1].
+Through       the Freshwater Umbrella Programme, AWMN data are further used to develop       and apply critical load models used on a national basis for the provision       of data for freshwater ecosystems under the 1999 UNECE Gothenburg Protocol       to Abate Acidification, Eutrophication and Ground-level Ozone.
+As well as       providing original, high-quality data to guide decision-making by DEFRA,       the data are a major resource for organisations responsible for the       management of UK upland water catchments.
+Set national thresholds to identify the extent of acidification of         surface waters: The UK National Focal Centre (NFC), based at the       Centre for Ecology and Hydrology (CEH) (Bangor), has used UCL research for       freshwater critical loads mapping and modelling since 1991.
+The NFC submit       national critical loads data to the Coordination Centre for Effects (CCE)       in response to their calls, usually every year [2].
+These data are used in       the integrated assessment of European air pollution agreements.
+In 2005,       the freshwater critical loads dataset developed at UCL was expanded to       include 38 new exceeded sites from the North Yorkshire Moors.
+In 2008,       application of the FAB model to the expanded dataset was undertaken.
+This       showed that 37% of freshwater sites were still exceeded with 2004-06       deposition data, and that 25% of all sites will continue to exceed       critical loads beyond 2020.
+These 2008 revised data for freshwaters       contributed to the national critical loads dataset submitted to the NFC       and were subsequently used to revise the Gothenburg Protocol, which was       adopted by CLRTAP signatories 2012.
+Nitrogen deposition was shown by the       UCL research to be responsible for a major part of continued exceedances.
+Model and measure recovery of freshwaters: Using data provided by       UCL, the NFC also generates annual summary statistics of (i) catchment       area and (ii) the percentage of 1,700 freshwater sites with critical load       exceedances for England, Wales, Scotland and Northern Ireland and for the       UK as a whole [2].
+These data formed the basis of the critical load maps       presented in the DEFRA 2012 Review of Transboundary Air Pollution report       to evaluate the current state of rural air pollution issues in the UK       (RoTAP 2012; pp.
+132-135) [3].
+The same data were used by DEFRA's Joint       Nature Conservancy Council towards UK indicators with respect to       international biodiversity targets [4].
+Set new acidification standards for pollution of UK rivers:       Historically, pH standards for rivers were set using values that protect       against extreme events.
+The full time-series of AWMN data produced at UCL       highlighted a stronger relationship between mean pH and acid neutralising       capacity and biological communities than there was for extreme-event       minimum values [5].
+In 2012, the UK Technical Advisory Group accepted       these new acidity standards.
+This is beneficial because extreme events are       rare and difficult to capture.
+Using the mean allows more robust       relationships to be modelled between chemistry and biology.
+These new       standards are now used to help classify the ecological status (e.g.
+High,       Good, Moderate, Poor, Bad) of water bodies for WFD statutory reporting,       and because the standards come from an improved science base, they reduce       the discrepancies with observed biological status.
+Determination of ecological status of key UK protected habitats:       The Habitats Directive is the cornerstone of Europe's nature conservation       policy; the AWMN provides advice and data to Natural England, Scottish       Natural Heritage (SNH) and Countryside Commission for Wales (CCW) to       support their obligations under Article 17.
+UK conservation agencies use       AWMN outputs in their on-going reporting on the condition of the EC       Habitats Directive Annex 1 habitat type oligotrophic to mesotrophic       standing waters with vegetation of the Littorelletea uniflorae       and/or of the Iso&#235;to-Nanojuncetea (Habitat code H3130).
+For       example, SNH established the `favourable conservation status' of the       Merrick Kells, a Special Area of Conservation, using AWMN data from the       Round Loch of Glenhead.
+In 2011 UCL was contracted by SNH to update the       organisation on the recent acidification status of the Merrick Kells.
+The       resulting report [6] showed that acidity had decreased over the past 20       years because of UK pollution reduction strategies, but that post-2008 the       area's critical load still failed to meet UNECE targets.
+SNH have since       used these findings to report on the condition of the Merrick Kells and       the wider habitat type for Europe to the Scottish Government.
+Guide upland forestry planting: The Forestry Commission relies       heavily on the AWMN data to inform policy on managing forestry within       acid-sensitive areas.
+For example, forest managers are required to       undertake a catchment-based critical load assessment when new forests are       planted, especially if the planted area exceeds 30% of the catchment [7,       p. 4] [8, p. 30].
+These assessments are compared to the acid deposition       load received by the catchment (determined from UCL data provided to the       NFC).
+Where a catchment-based assessment shows acid deposition exceeding       the freshwater critical load, approval is unlikely to be granted for new       planting or restocking above certain thresholds of forest cover until       there are further reductions in pollutant emissions [7].
+In 2011-2012,       24,500 ha of new planting and restocking took place; where this exceeded       30% of the catchment they were required to undergo the assessment [9].
+AWMN datasets underpin the critical load assessment mandated in the 2011       guidelines, and are a key component of the draft guidelines under       consultation in 2013.

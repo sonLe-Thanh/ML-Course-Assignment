@@ -1,0 +1,35 @@
+     Impact on practitioners and professional services     CIRIA's Guidance on Water Cycle Management for New Developments:       The 2010 guide [a] was produced as an outcome of the WaND project       [i].
+It summarises and distils extensive research from CWS [1], to meet       the urgent challenge of how to provide water services for new housing       developments in water-stressed areas.
+The report was guided by a steering       group with representatives from government bodies (e.g.
+Environment       Agency), consultants (e.g.
+Arup) and water companies (e.g.
+Thames Water).
+It is widely used by practitioners in construction and the built       environment, a sector with a gross value added of &#163;89.5bn amounting to       6.7% of the British economy in 2011.
+BRE's Designing Resilient Cities.
+A Guide to Good Practice: The 2012       Guide [b] sets out a framework for implementing robust, future-proofed       solutions for urban regeneration.
+It was the key outcome of the       industry-guided Urban Futures project [ii] and four of the case studies       included are specifically derived from CWS research [2].
+The guide is       unique in supporting city planners, councillors, architects and their       consultants to redesign cities to be sustainable whatever the future       holds.
+For example, multinational construction and engineering firm CH2M       HILL is using the future scenario framework for "key future projects", and       is influencing the sustainability planning of cities across the world [c].
+Spon's Urban Drainage: This book [d] was originally conceived as a       text for students which may also be of use to practitioners.
+However, it       has also been widely taken up and used by professionals.
+For example,       unsolicited Amazon customer comments include: "Essential reading for any       drainage engineer (or those aspiring to become one).
+The best text       for UK drainage design and practice"; "A good value for money book       that should be on the shelf in every consultant's office"; "I have       just bought the book as the office copy is frequently borrowed"       [e].
+In the third edition (2011) the chapter, `Towards sustainable       water management' draws on research from completed projects [i], best       practice [a] and CWS's published research findings [1, 3].
+The book has       sold 5000+ copies worldwide, considered to be `very good' for a specialist       text [f].
+Economic impact: enhancing business performance by uptake and adoption         of CWS hydroinformatic software       Asset management: The Centre's EPR sewer deterioration model [6]       has been data validated by an industry funded research project [g] and       subsequently widely used to model water asset deterioration and to develop       infrastructure risk models for the water industry price review process       PR09 (2009 - 2014).
+Users include Anglian Water, South West Water       (in collaboration with Mouchel), Severn Trent Water (in collaboration with       RPS Water) and Wessex Water.
+In 2002, the Universities of Exeter and       Sheffield span out the company SEAMS.
+Today (2013) the company has       an annual turnover of &#163;3.4m and is the industry leader in software and       analytic services for asset investment planning decisions [h], still using       the WiLCO software [5] developed by the Centre.
+For example, SEAMS used       WiLCO extensively to support Scottish Water's &#163;1.1bn strategic       infrastructure investment decisions for their PR09 business plan [i].
+Benefits were not only the transparency of the decisions made under strict       audit conditions but also that the approach identified significant       efficiencies of up to 15% over the utility's own investment plans.
+Infrastructure operation: The Neptune project [vi]       decision-support system developed by CWS improves real-time fault       management of water distribution networks.
+The system takes advantage of       intelligent computational methods and tools applied to real-time logger       data providing pressures, flows and tank levels at key locations to allow       managers to assess and respond to service provision risk.
+The prototype       was tested on networks in Yorkshire Water (2009-2010) and was so       successful, it is now (2013) being customised for United Utilities       via a TSB Knowledge Transfer Partnership.
+This methodology has been       granted a 2009 patent [j] and this was subsequently sold to       project partner ABB Technology.
+Optimisation software &amp; studies: The optimisation software       GANetXL [4] has been developed and perfected by the Centre since 2008       and has over 400 users worldwide including consultants (e.g.
+Mouchel),       financial institutions (e.g.
+JP Morgan) and industrial research       organisations (e.g.
+SCION Research).
+The software provides easy access to       evolutionary, multi-objective optimisation algorithms for non-specialists.
+It has recently (2012) been used by consultants AECOM for South       West Water to optimize successfully sewer rehabilitation planning       considering costs, structural improvements and critical risk of failure.
+Cost reductions of almost 50% have been demonstrated compared with       original estimates of &#163;4-5m per annum spend [k].

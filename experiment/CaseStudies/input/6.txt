@@ -1,0 +1,31 @@
+ The significance of the underpinning research carried out at HySAFER has been through informing International Regulations, Codes and Standards and developing guidance documents with a reach across a range of stakeholders.
+More specific examples of these are detailed below.
+The work has contributed directly to inherently safer technological design.
+Research collaboration between HySAFER and Volvo/CEA/NSRCD described in Section 2 has resulted in justification of the hydrogen permeation rate limit of 6.0 Ncm3/h/L.
+This significant published research finding was first presented to the EC and UN ECE in 2009-2010 and was subsequently adopted into section 4.2.12.3 of the European Regulation on type approval of hydrogen-powered vehicles (sources 5.1 and 5.2).
+Likewise, HySAFER's permeation research, discussed in Section 2, was included in the UN ECE Draft Global Technical Regulation (GTR) for Hydrogen Fuel Cell Vehicles (source 5.1).
+The significance of the European Regulation stems from its EU wide legally binding status and the first to be hydrogen specific.
+This regulation facilitates and enables the wider introduction of hydrogen vehicles thereby impacting on the automotive industry in Europe and having global reach as vehicles must satisfy this European Law.
+The UN Global Technical Regulations provide a framework for the global automotive industry, consumers and their associations.
+HySAFER is actively involved in the development and review of standards for ISO/TC 197 Hydrogen Technologies and participates in the International Energy Agency (IEA) Hydrogen Implementing Agreement (HIA) Task 31 Hydrogen Safety.
+HySAFER's research, presented to ISO/TC 197 (source 5.3), on the pressure peaking phenomenon and fire resistance of storage tanks with a PRD has been incorporated into the recently revised ISO/TR 15916 "Basic considerations for the safety of hydrogen systems" (sources 5.3 and 5.4).
+This reference document is widely used by the hydrogen and fuel cell industry with a global reach.
+Its significance is in setting the benchmark for safety of hydrogen systems.
+As described in Section 2, HySAFER's expertise originally stemmed from work on deflagrations, in particular venting of deflagrations and the development of a vent sizing methodology.
+This vent sizing methodology and an engineering nomogram to estimate separation distances for high pressure releases and jet fires has been included in The European Installation Permitting Guidance for Hydrogen and Fuel Cell Stationary Applications (source 5.5).
+The significance of this guidance, developed in 2009 by a European and North American Consortium to address industry needs, is in providing a compendium of information with a reach across a variety of stakeholders including use by the hydrogen and fuel cell industry.
+The document was subsequently adopted by the Health and Safety Executive for application in the UK (sources 5.5, 5.6 and 5.7).
+The European hydrogen industry (New Energy World Industry Grouping, http://www.new- ig.eu/members) formulates requirements for industry-driven safety research in Europe through the Fuel Cell and Hydrogen Joint Undertaking (FCH JU).
+The international experts group, including Molkov, published the Reference Report on CFD Gap Analysis (http://publications.jrc.ec.europa.eu/repository/handle/111111111/15294) based on research carried out at HySAFER with significance in terms of influencing the European Commission's funding priorities and specifically the FCH JU Annual Implementation Plan 2012 and related funding call January, 2012 (source 5.8).
+The physical separation distance from hydrogen systems can be comparatively large with practical and cost implications arising from land values.
+The significance of safety devices such as PRDs as part of hydrogen systems is in providing a mechanism to reduce separation distances and hence cost.
+Research at Ulster into improved fire resistance of hydrogen storage tanks and PRDs that reduce flame length by an order of magnitude has led to a patent application (source 5.9).
+A discussion document on hydrogen safety devices issued by the UK Health and Safety Executive's Health and Safety Laboratory (source 5.7) incorporates the PRD work at HySAFER.
+Industrial gas company Air Liquide has been using HySAFER's research, specifically vented deflagration methodology, flame length correlation and the nomogram for pressure peaking to inform their internal design and industrial guidance (source 5.10).
+The significance of research at HySAFER has been its use by industry to improve product design, enabling the development of inherently safer technologies.
+In this context, research on releases and fires has provided the framework for assessing safety distances and developing safer commercial designs.
+A key example that illustrates industry relevance was a design study (2011) for a home refueller for 700 bar hydrogen-powered vehicles.
+This ITM Power led project for the US Department of Energy used HySAFER's modelling approach for unignited jets.
+Furthermore, a safety strategy developed at HySAFER was adopted by ITM Power with direct impact on their product development.
+Specifically the results for hydrogen release within confined spaces were used to modify their control system and hardware solutions to predict the behaviour of an unplanned release and the design of a safety case.
+This facilitated ITM Power's certification and compliance activities ensuring that the company produces safe, reliable products for the growing hydrogen economy with a potential reach across different economic sectors (source 5.6).

@@ -1,0 +1,43 @@
+The__O main__O beneficiaries__O of__O IMS__B-ORG are__O children__O and__O vulnerable__O adults.__O
+IMS__O has__O been__O used__O to__O interview__O children__O as__O young__O as__O 3,__O and__O is__O routinely__O used__O with__O school__O children__O of__O all__O ages.__O
+Professional__O users__O of__O IMS__B-ORG report__O that__O it__O is__O very__O effective__O in__O situations__O where__O a__O child__O lacks__O trust.__O
+It__O removes__O the__O need__O for__O direct__O eye__O contact__O between__O child__O and__O interviewer,__O helps__O to__O break__O the__O ice,__O and__O fosters__O a__O collaborative__O atmosphere.__O
+In__O the__O early__O 1990s,__O prior__O to__O the__O IMS__B-ORG project,__O psychologists__O predicted__O that__O computer__O assistance__O might__O be__O beneficial__O in__O interviewing__O children__O and__O vulnerable__O adults,__O but__O there__O was__O no__O detailed__O study__O about__O how__O this__O might__O be__O achieved.__O
+The__O underpinning__O research__O enabled__O the__O design__O and__O creation__O of__O such__O a__O tool__O and__O evaluated__O suitable__O mechanisms,__O first__O through__O paper-based__O pilot__O studies__O and__O then__O through__O a__O software__O prototype.__O
+As__O part__O of__O the__O research,__O the__O Department__B-ORG of__I-ORG Health__I-ORG selected__O 5__O local__O authorities__O and__O the__O prototype__O was__O evaluated__O by__O these__O authorities.__O
+This__O pilot__O led__O the__O way__O for__O the__O widespread__O dissemination__O of__O IMS.__B-LOC
+The__O necessity__O of__O training__O for__O practitioners__O was__O a__O major__O issue,__O and__O it__O was__O decided__O that__O the__O most__O effective__O mechanism__O for__O dissemination__O and__O training__O would__O be__O to__O team__O up__O with__O the__O not-for-profit__O organisation__O "Child__B-ORG and__I-ORG Family__I-ORG Training."__I-ORG
+This__O organisation__O delivers__O training__O in__O a__O number__O of__O tools__O for__O working__O with__O children__O and__O families.__O
+Most__O of__O these__O are__O paper-based__O tools.__O
+In__O fact,__O IMS__B-ORG was__O their__O first__O (and__O only)__O computer-based__O tool.__O
+They__O have__O offered__O IMS__B-ORG training__O since__O 2007.__O
+In__O order__O to__O harness__O the__O impact__O of__O this__O research,__O Jimmieson__O personally__O leads__O many__O of__O the__O training__O sessions__O at__O the__O University__B-ORG of__I-ORG Liverpool.__I-ORG
+As__O of__O July__O 2013,__O more__O than__O 750__O people__O have__O been__O trained__O in__O the__O use__O of__O IMS.__B-LOC
+IMS__O is__O used__O in__O a__O wide__O variety__O of__O contexts.__O
+We__O will__O not__O discuss__O individual__O cases__O in__O detail__O due__O to__O confidentiality.__O
+Instead,__O we__O first__O outline__O areas__O in__O which__O IMS__B-ORG has__O had__O greatest__O impact,__O we__O then__O explain__O who__O is__O using__O IMS,__B-ORG and__O finally__O give__O details__O of__O a__O survey__O of__O IMS__B-LOC users.__O
+In__O adoption__O and__O fostering__O cases,__O IMS__B-ORG is__O used__O by__O social__O workers__O to__O clarify__O the__O wishes__O and__O feelings__O of__O the__O children__O relating__O to__O their__O birth__O families__O and__O their__O carers.__O
+In__O schools,__O IMS__O is__O used__O to__O understand__O behavioural__O issues,__O for__O example,__O to__O discover__O the__O scenarios__O that__O trigger__O adverse__O emotional__O responses__O in__O children.__O
+IMS__O has__O been__O used__O in__O hospitals__O to__O decide__O the__O right__O dose__O of__O medication__O for__O children,__O because__O child__O patients__O often__O display__O an__O inability__O to__O distinguish__O the__O type__O and__O magnitude__O of__O pain__O due__O to__O their__O limited__O command__O of__O language.__O
+IMS__O has__O been__O used__O by__O forensic__O psychologists__O to__O interview__O children__O who__O may__O have__O been__O abused,__O and__O who__O have__O been__O previously__O unsuccessfully__O interviewed__O by__O more__O traditional__O means.__O
+That__O happens__O in__O both__O criminal__O and__O civil__O proceedings,__O but__O mostly__O the__O latter.__O
+IMS__O has__O also__O been__O used__O to__O provide__O evidence__O to__O a__O Coroner's__B-LOC court,__O in__O a__O case__O where__O a__O child__O was__O the__O only__O witness__O to__O his__O brother's__O death.__O
+Professionals__O that__O use__O IMS__B-ORG include:__O Educational,__B-PER Clinical,__I-PER and__O Forensic__B-PER Psychologists;__I-PER Teachers,__I-PER Classroom__I-PER Assistants,__I-PER Special__O Educational__O Needs__B-PER Coordinators,__I-PER and__O Speech__O and__O Language__B-LOC Therapists;__I-LOC Social__I-LOC workers,__O Family__B-ORG Support__I-ORG Workers,__I-ORG and__O workers__O in__O Child__O and__O Family__B-ORG Court__I-ORG Advisory__I-ORG and__I-ORG Support__I-ORG Services.__I-ORG
+Geographically,__O IMS__O is__O used__O by__O workers__O from__O 15__O local__O authorities__O in__O England,__B-ORG 2__O in__O Scotland,__B-ORG 2__O in__O Wales,__B-LOC and__O 1__O in__O Northern__B-LOC Island.__I-LOC
+The__O tool__O is__O also__O used__O internationally__O in__O Belgium,__B-PER Ireland,__I-PER Norway,__I-PER and__O Sweden.__B-LOC
+In__O Norway,__B-LOC training__O in__O IMS__B-ORG has__O been__O delivered__O by__O Otta__B-ORG Family__I-ORG Counselling__I-ORG Services__I-ORG who__O have__O run__O 13__O IMS__O courses__O since__O 2008.__O
+The__O Director__B-ORG of__I-ORG KF__I-ORG Otta,__I-ORG who__O heads__O the__O training__O in__O Norway__B-LOC and__O uses__O IMS__B-ORG as__O a__O family__O therapist,__O said:__O "We__O have__O had__O 13__O courses__O by__O now__O (for__O about__O a__O hundred__O professionals)__O and__O two__O refreshing__O courses__O (a__O new__O one__O on__O Thursday).__B-LOC
+And__O what__O we__O often__O experience__O is__O that__O IMS__B-ORG is__O a__O very__O valuable__O tool__O to__O talk__O to__O children.__O
+Especially__O in__O the__O start__O of__O a__O conversation__O to__O "break__O the__O ice"__O and__O get__O to__O know__O each__O other__O in__O a__O natural__O way.__O
+Not__O to__O sit__O and__O face__O each__O other__O helps__O a__O lot.__O
+And__O we__O get__O lots__O of__O information__O about__O both__O problems__O and__O resources__O that__O are__O very__O important__O both__O to__O get__O to__O know__O the__O children__O in__O their__O contexts__O and__O as__O a__O tool__O to__O start__O and__O go__O on__O in__O therapy__O sessions."__O
+In__O June__O 2012,__O we__O conducted__O a__O survey__O of__O IMS__B-MISC users__O from__O the__O UK__B-LOC with__O 39__O respondents__O covering__O 592__O cases__O in__O which__O IMS__B-ORG was__O used__O in__O practice__O since__O 2008.__O
+28.9%__O reported__O that__O they__O used__O IMS__O at__O least__O once__O for__O family__O placement,__O 42.1%__O for__O care__O proceedings__O and__O reviews,__O 47.4%__O in__O cases__O of__O child__O abuse__O and__O neglect__O and__O 63.2%__O to__O investigate__O the__O child's__O experience__O of__O education__O and__O school.__O
+66%__O of__O responders__O indicated__O that__O IMS__B-ORG was__O a__O significant__O help__O in__O their__O work.__O
+Here__O is__O an__O excerpt__O from__O a__O survey__O response__O from__O an__O (Independent)__B-MISC Chartered__O Clinical__O Child__O Psychologist:__O "The__O bulk__O of__O my__O work__O is__O assessing__O children__O and__O families__O in__O either__O Public__B-MISC Law__I-MISC Care__I-MISC Proceedings__I-MISC or__O Private__O Law__O Contact__O and/or__O Residency__O proceedings__O between__O parents.__O
+I__O see__O approximately__O 30__O families__O each__O year,__O often__O assessing__O all__O the__O siblings__O in__O a__O family.__O
+I__O use__O IMS__O in__O virtually__O all__O of__O my__O assessments__O of__O children__O over__O the__O age__O of__O 3.__O
+The__O extent__O to__O which__O I__O use__O IMS__O is__O testament__O to__O its__O usefulness__O to__O me.__O
+It__O forms__O a__O key__O part__O of__O an__O assessment__O process__O that__O I__O use__O with__O the__O majority__O of__O all__O children__O I__O see."__O
+(The__O individual__O goes__O on__O to__O describe__O 6__O particular__O ways__O in__O which__O IMS__B-ORG is__O useful__O for__O her__O work.)__O
+Details__O of__O the__O survey__O are__O presented__O in__O reference__O [4]__O from__O Section__B-LOC 3.__O

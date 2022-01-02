@@ -1,0 +1,36 @@
+            Applied industry-based research for industry's next generation         products has been one of the mainstream activities of the Applied DSP         and VLSI Research Group at Westminster.
+Often many of the projects and         tasks therein had a large proportion of integrated DSP systems that         heavily relied on and were limited by high computational and         implementation-complexity digital filters.
+These had to occupy the least         amount of silicon real-estate, operate as fast as possible, and consume         the minimum amount of power.
+This is unfortunately extremely impractical         and unfeasible to sustain in real life.
+The research underpinned in this case study has, on most of these       products, resolved this requirement-conflict issue.
+Through orientating       these applied research projects, guiding, and furnishing the design and       implementation cycles with BMT to maximise the output efficiency (as per       the requirements from the distinct specifications), this result was       achieved.
+The impact resulted in new reduced computational and         implementation-complexity approaches to integrated DSP systems that         found and continue to find use in a diversity of products and spheres.
+These range from mobile phones, to hearing aids, to onboard satellite         processing systems, satellite positioning systems to binaural 3D sound         systems, and beyond.
+This impact is strongly evidenced by the fact that         the real-life applications of the theoretical work that was done and         published back in the mid to late nineties is still keeping its currency         and finding used in real-world practical systems and products.
+The results of the underpinning research were disseminated to the         wider technical and industrial communities in a number of ways finding         uses in their products.
+These were primarily through the use of the open         literature publication channels, industrial company based short courses         delivered to industry which, in many cases, resulted in applied research         and development project contracts for their next generation products.
+The results and findings of the research was furnished and supported to         potential beneficiaries through invited talks, seminars, and word of         mouth, which eventually resulted in more funded projects, the most         recent of which started in April 2013.
+The main influential aspect           of the output that attracted commercial as well as academic interest           has been the approach's ability to reduce computational and           implementation-complexity, and hence, implementation cost without loss           of performance.
+The research and its results detailed in this case study were almost         exclusively undertaken at the University of Westminster, and the         beneficiaries have mostly come from industry.
+Exceptions to the         contributions were from J. Huopaniemi and V. Valimaki who were at         Westminster at the time of the research when they contributed to one         strand of the work in the area of Head Related Transfer Functions (HRTFs)         with their a-prior knowledge of FIR HRTFs and their associated problems.
+We subsequently solved this problem for them through BMT derived IIRs         and published papers with them, one of which is [5].
+Consequently, they         returned to Helsinki University of Technology and continued in this         strand of work and have undertaken applied research consultancy projects         for NOKIA.
+The products resulting from this work are known to have         produced superior fidelity and reduced complexity Head Sets which         generated multi-million revenues in the binaural sound and headset         industry.
+Dialog Semiconductor, and Ericsson Mobile Phones.
+IIR filters derived         using the BMT techniques have found use in the Ericsson 688 and 768         handsets (announced in 1997 and were in use till the early to mid 2000s)         delivering low computational and implementation complexity and low power         and therefore, extending the battery-life.
+We can only speculate as to         the sheer multi-million/billion revenues that resulted from these sales         judging by their popularity at the time.
+Mitel Semiconductor/Zarlink Semiconductor/Starkey Labs, BMT derived         IIR filters for their digital hearing aid codec and processors.
+Their         digital hearing aids containing our technology were launched in 2003.
+This opened up new avenues of opportunity for those hard of hearing,         improving their quality of life through extended battery life as well as         allowing them to individually customise their digital hearing         instruments.
+As these hearing aids have been in full production since         2003 we can once again, only speculate as to the multi-million revenues         that it generated, as well as the quality of life improvements achieved         for those who use them.
+Nokia, through HUT, on BMT derived low complexity IIR HRTFs.
+This work         has found itself in the heart of many of today's 3D binaural headsets         used in many gaming and immersive/virtual reality systems.
+Once again         the revenues and improvement of quality of life and superior user         experience resulting from the use of this technology can only be         speculated on.
+European Space Agency/Astrium, reduced computational and         implementation-complexity, low power onboard satellite processing         algorithms for communication satellites.
+Work in this area is now at its         maturity and has resulted in a very impressive output that Astrium and         the European Space Agency are very impressed with.
+Indeed, they will be         deploying it in their next generation satellites, as well as launching         into a new contract with us to look into further application areas.
+In         the space, namely satellite positioning filed the activity also found         use in a recent large collaborative EPSRC funded research project with         partners from Imperial Collage, UCL and Nottingham University where we         were responsible for the software and hardware design implementation and         prototyping for the next generation of Global Navigation Satellite         Systems.
+The industrial manufacturers/beneficiaries listed above have all         benefitted in the same way, namely in being able to integrate         computational and implementation-complexity reduced low power devices         into their systems on chip.
+The consumers have enjoyed cheaper and lower power, and hence, longer         lasting battery life and wider functionality offering products.
+Evidence to support the claims made in this case study can be provided         in the form of letters and testimonies form the industrial clients the         work was done for.
+The impact occurred 2 to 3 years after the work was carried out and         published continuing to date.

@@ -1,0 +1,36 @@
+     While the cause of aHUS was unknown, Newcastle researchers realised that       an effective treatment was more likely to be developed if the underlying       molecular mechanisms of the condition were understood.
+Treatment for aHUS       was limited, with patients reaching end stage kidney failure and requiring       lifelong dialysis while living with the risk of early death.
+Newcastle       research established that abnormalities in complement (a key component of       the immune system that allows the body to distinguish between itself and       foreign cells) were found in the majority of aHUS patients and that some       of the mutations affected products of the liver.
+Genetic testing     As most of the abnormalities were shown to have a genetic basis, an NHS       diagnostic service was established within the Northern Molecular Genetics       Laboratory at the Centre for Life in Newcastle in 2002 (Ev a).
+All aHUS       mutation screening for the UK is provided by the Newcastle laboratory.
+Between 2002 and 2007 16 samples were tested for three genes, CFH, CFI and       CD46; genes being tested sequentially.
+From 2008, 612 samples were tested       for these three genes with analysis being simultaneous and in 2011 testing       extended to five genes simultaneously, adding another 337 samples by July       2013 (Ev b).
+Best practice: diagnosis and treatment of aHUS     In 2009 Goodship, on behalf of the Renal Association, the British       Committee for Standards in Haematology and the British Transplantation       Society, led the development of national clinical practice guidelines for       the management of aHUS in the UK (Ev c).
+Genetic testing.
+Initial diagnosis and management of aHUS includes       the recommendation that screening for the genes identified by       Newcastle-led research be conducted in order to determine the best       treatment for the patient.
+The value of genetic testing to the patient is       that by identifying the exact abnormalities they carry, treatment options       can be directed to their particular manifestation of the disease.
+Kidney transplant.
+Accurate genetic testing can now identify those       patients who would benefit from a kidney transplant and those who would       not.
+Combined liver-kidney transplant.
+Two of the genes associated with       aHUS (CFH and CFI), identified by Newcastle-led research,       encode complement regulators produced by the liver.
+Finding mutations in       these genes in a particular patient indicates that the patient is at high       risk of a kidney transplant failing.
+For such patients a combined       liver/kidney transplant might be a treatment option.
+This procedure has       been undertaken successfully and to date 25 such double transplants have       been performed worldwide, including three in the UK (Ev d).
+Eculizumab: optimal treatment for aHUS     There is, however, a significant question of patient benefit in combined       liver-kidney transplant.
+With a one year mortality rate of 25% it is,       understandably, not an option chosen by many patients.
+This very high risk       meant that the researchers continued exploring other treatment options.
+Goodship and colleagues identified a complement inhibitor, the drug       eculizumab (an anti-C5 humanised monoclonal antibody made by Alexion       Pharmaceuticals (Ev e)) as a good candidate for repurposing to treat aHUS       patients.
+Two clinical trials, for which Goodship was the UK Chief Investigator,       were conducted (results in R6, Goodship joint senior author).
+Based on the       results, eculizumab was approved in 2011 by both the FDA (Ev f) in the USA       and the European Medicines Agency (Ev g) for the treatment of aHUS.
+There       are no other approved treatments for the disease.
+Funding treatment.
+Evidence of the efficacy of eculizumab in       treating aHUS led to the submission of an application for the       establishment of a National Specialised Service for aHUS in Newcastle with       funding for the drug.
+This was reviewed by the Advisory Group for National       Specialised Services (AGNSS) in June 2012.
+AGNSS considered that Eculizumab for aHUS was a life-saving and         life-transforming product that despite the very high cost should be         available in England to patients with aHUS.
+... With the exception of a         single member, AGNSS agreed that the combination of the factors       [detailed earlier in the document] justified recommending this         high-cost product.
+(Ev h)     The annual cost per aHUS patient, per year of eculizumab, has been       calculated as &#163;327,600 for an adult and &#163;163,800 for a child (Ev i).
+This high cost led to Government concerns about its affordability and so       the National Institute for Health and Care Excellence (NICE) were       asked to report.
+However, in 2013 NHS England implemented an interim       policy whereby eculizumab will be funded for aHUS patients.
+The Public       Health Adviser, Specialised Services Team, NHS England has confirmed,     As a consequence of the findings from recent clinical trials of the         terminal complement inhibitor eculizumab, on 1st         April 2013 NHS England adopted an interim policy of funding this drug         for those patients who had received it in the clinical trial and any new         patient who would benefit from it.
+(Ev j)     In practice this means that around 20 patients per year will receive the       drug and the interim policy is expected to be extended to aHUS patients       who receive kidney transplants in September 2013.
+The significance of this       decision is that no child or adult in the UK should now progress to end       stage kidney failure caused by aHUS.

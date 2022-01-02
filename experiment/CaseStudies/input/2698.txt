@@ -1,0 +1,24 @@
+     Stata is a statistical package used worldwide with a large user       community.
+An important feature of Stata is that StataCorp supports       integration of user-written software.
+This has meant that the programs and       supporting documentation developed by Schaffer et al.
+can be and have been       easily found and installed by users.
+Take-up of the routines by Schaffer et al.
+has been very substantial.
+The       software is stored on a service run by Boston College, "Statistical       Software Components" (SSC), in collaboration with RePEc (Research Papers       in Economics, www.repec.org).
+SSC       tracks all software downloads/installations; these details are available       via the SSC server.
+(NB: downloads reported on the RePEc website include       only those installations done "by hand" rather than automatically by the       Stata package, and understate the number of installations by roughly a       factor of 8-10.)
+As of August 2013, the software described above had been       downloaded 470,000 times, with over 400,000 of these downloads during the       REF period [S5].
+The most widely-used package is the core estimation       routine, "ivreg2", downloaded over 130,000 times during the REF period.
+These downloads include both first-time installations and downloads by       existing users of updates to routines.
+The programs written by Schaffer et al.
+are now well established in       non-academic institutions, particularly in governmental and       quasi-governmental organisations in the US, as well as in academia.
+A       partial list of institutions where use has been documented:       Federal Reserve Board       International Monetary Fund (IMF)       Mathematica Policy Research, Inc.       RAND Corporation       Urban Institute (Washington, DC)       US Census Bureau       US Department of Agriculture (USDA)       US Federal Trade Commission (FTC)       US Government Accountability Office (US GAO)       World Bank     A Lead Economist in the World Bank's Research Department explained how he       uses the programs: "In my work where I have to deal either with very         large cross-sections, or less frequently, with panel data, several         softwares developed by Mark were absolutely indispensable.
+... [Our]         paper investigated prevalence of corruption in transition economies and         argued that it should be less if there were more frequent changes in         government (alternation in government).
+We faced a tough problem of how         to find instruments for alternation in power because corruption could in         turn affect alternation (ruling party losing election because it is         corrupted) and thus the causation would run the other way round.
+In         (another) paper, the problem was similar: here I looked at decile income         shares in practically all countries of the world (ten regressions per         each country; one per decile) and tried to determine how they were         affected by trade/GDP ratios.
+I used GMM-IV approach, again as developed         by Mark.
+I also used the same software in a paper written with [a         colleague] that looked at decile shares in transition countries and the         effect that privatization (among other variables) had on them" [S2]     A Senior Research Associate from the Urban Institute described the       extensive use they make of the software.
+"We have completed hundreds of         studies where our analytical methods have been significantly affected by         your work.
+The software has been used to analyze the impact of mental         health treatment on work, and the impact of housing vouchers on family         economic status and health.
+The current frontier of policy analysis         quite simply would be far inside its current boundaries without the         development of the IV regression technology at Heriot-Watt University."
+[S3]

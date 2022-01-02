@@ -1,0 +1,36 @@
+     Use of approach in clinical practice     The underpinning research described above has enabled clinicians to       reveal abnormalities causing refractory epilepsy that were not previously       identifiable, presenting a target for surgical treatment.
+This results in       increased access to potentially curative neurosurgery.
+Functional MRI and       tractography approaches that we pioneered are now used by neurosurgeons       throughout Europe (particularly Zurich and Bonn) to identify the risks of       surgery in individuals, and to plan the surgery so that risks may be       reduced [a].
+Surgeons use tractography to visualise pathways of white matter fibres in       the brain in the pre-operative MRI scans.
+The system is used on roughly       one patient a week and it has been fully operational since mid-2012,       although a preliminary version was in clinical use for about a year prior       to that.
+The system helps surgeons avoid damaging nerve fibre pathways,       which can otherwise lead to visual deficits that would, for example,       prevent driving.
+An early evaluation of the system demonstrated its impact       by using the system in 21 patients undergoing anterior temporal lobe       resection.
+The outcomes were compared to a control group who underwent the       same surgery without the system.
+None of those who had their visual       pathway displayed to the surgeon via the tractography system had a visual       field deficit that would prevent driving, compared to 13% in the control       group.
+The experiment shows preservation of vision in the patients       operated on using the system [ref].
+As of mid-2013, around 140 patients have benefited from surgery at NHNN       performed using tractography, which has been of critical importance for       improving the precision and safety of neurosurgical treatment [b].
+As well as informing decisions about whether to undertake surgery or not,       scans are also used in the interventional MRI operating theatre during       surgery.
+A 3-dimensional map of critical brain areas can now be visualised       and presented to the surgeon as the operation proceeds, to enable the       guiding of the surgery away from critical areas that must be avoided.
+This       enhancement is already used in clinical practice at the National Hospital       for Neurology and Neurosurgery, resulting in safer surgery with reduced       risk of causing new deficits.
+Individual patient benefit and public engagement     A specific example of the dramatic impact of this technology was of a       28-year-old man with severe epilepsy that was not controlled by       medications.
+The nature of the epileptic seizures and the EEG recordings       suggested that their source was on the left side of the brain, towards the       front.
+Standard MRI scans were unremarkable, but a computerised analysis       identified an abnormal area approximately 2cm by 1cm in the middle frontal       gyrus.
+Functional MRI scans showed that this was a few millimetres above       areas involved in language, and abutted parts used to control the use of       the right upper limb.
+Tractography showed that the corticospinal tract,       which carries command and control information to the limbs, ran within a       few millimetres of the abnormal area.
+Large veins were directly over the       abnormal area.
+These data allowed the precise positioning of recording       electrodes in and around the abnormal area to pinpoint the site of seizure       onset.
+This led to precise surgical removal of the part of the brain that       was giving rise to the seizures, with the consequence that no further       seizures have occurred, medication has been withdrawn, and the patient is       going to college [c].
+For these individuals, the impact of our       research is thus immediate and life changing.
+A further example is that the 3D representation of the optic radiation,       which carries visual information from the eye to the brain, can be       displayed in the eyepiece of the operating microscope, so the surgeon       knows where this structure is, and the surgery can be designed to avoid       this pathway, and the risk of damaging vision averted.
+Our improvements to surgery have had a huge impact on the lives of       patients treated.
+One such example was featured on the 2010 BBC One       programme "How Science Changed Our World" [d].
+Emma, an       18-year-old girl, had surgery to treat epilepsy that had previously meant       she suffered from up to eight seizures per day.
+After the surgery she no       longer suffered from seizures and her quality of life was immeasurably       improved.
+New clinical procedures     The use of fMRI for testing language retention has entirely replaced the       carotid amytal test at the National Hospital for Neurology and       Neurosurgery, with benefits to patients and health providers.
+The old,       more expensive test could be dangerous, involved radiation and required a       two-day hospital stay.
+The hospital used to carry out around four such       procedures per month, but have done none since 2004, with the benefits to       patients continuing throughout the REF impact period.
+The fMRI method has       been widely adopted in epilepsy surgery centres around the world [e].
+NICE guidelines     The Institute of Neurology's focus on MRI applied to epilepsy contributed       to the development of epilepsy imaging protocol guidelines by the       International League against Epilepsy, between 1998 and 2011 [f, g, h].
+These underpinned the imaging guidelines for epilepsy that were used in       the NICE epilepsy guidelines of 2004 and 2012 [i], which       recommended that neuroimaging should be used to identify structural       abnormalities that cause certain epilepsies.
+MRI is particularly important       in those in whom seizures continue in spite of first-line medication.
+In       both 2004 and 2012, Duncan was a member of the NICE guideline development       group.

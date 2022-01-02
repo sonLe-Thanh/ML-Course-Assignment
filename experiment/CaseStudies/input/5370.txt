@@ -1,0 +1,43 @@
+     Nature of the impact: The DNA-based method has truly changed the       approach to taxonomic questions and the use of taxonomy.
+Until the       publication by Savolainen &amp; Barraclough [1], the botanical community       relied heavily on morphology-based species identification from       well-preserved specimens, struggling to reach a consensus on a suitable       DNA barcode.
+Paper [1] set "the community standard" [A] for DNA       barcoding.
+After we showed the appropriateness of the matK locus       as barcodes, DNA-based authentication from any part of a plant, even       reduced to powder, was made possible and led to various applications as       described below.
+We published additional technical protocols to facilitate       the use of matK by the broadest possible stakeholder audience [6].
+The Consortium for the Barcoding of Life (CBOL) endorsed matK as       one of the barcodes for plants in its 2009 PNAS paper [2], and the       technique is now used in "hundreds of laboratories around the world"       [A].
+Beneficiaries: the taxonomic community, museum scientists,       botanical gardens, the International Barcode of Life Project, government       bodies and agencies involved in trade control and consumer fraud.
+Significance: For centuries, all users of species identification       have relied on time-consuming morphology-based expertise by a few       specialists of each taxonomic group.
+This expertise has been reduced       severely over the past decades (Systematics         and Taxonomy Report 2008; House of Lords Science and Technology       Committee).
+With the advances of DNA barcoding, taxonomic identification       has become easier and much more affordable to non-specialist users.
+As an       example of the widespread utility of DNA barcoding, the International       Barcode of Life Project (iBOL), a 25-nation consortium, aims to create 5       million barcode records from 500,000 species (including plants) that are       endangered, of particular socio-economic importance or used in       environmental assessment by 2015 [B].
+Date of Impact: 2008-2013     Impact on environment:            Biodiversity inventories have been facilitated in numerous public         bodies and charities by using DNA barcoding protocols using the matK         locus method.
+For example: o The Botanical Garden of Wales has been barcoding the flora of           Wales, which has about 75% of UK flowering plants [C], intensively.
+The Barcode Wales project has created a reference database of DNA           barcodes based on "the 1143 native flowering plants and conifers of             Wales, assembling over 5700 DNA barcodes" [D].
+This has made           Wales "the first country in the world to DNA barcode all of its             flowering plants" [D].
+The Barcode Wales project has created a           powerful platform for a broad range of research from biodiversity           conservation to human health and "Welsh flora DNA barcodes are             freely available on the Barcode of Life Database (BOLD) for use by             researchers throughout the world" [D, E].
+o Following the completion of the Barcode Wales project, the team at           National Botanic Gardens of Wales has joined forces with teams from           the Royal Botanic Garden Edinburgh and the Royal Botanic Gardens Kew           to DNA barcode the rest of the UK flora [E].
+As a further example, The           Royal Botanical Gardens at Kew confirms that it has been barcoding           medical plants of Nigeria and Gabon using the matK marker [F].
+o In Southern Africa, Kruger National Park (South Africa) has been           barcoding its woody flora (Yessoufou et al., J.
+Ecol., 2013, DOI).
+By mid-2010 "most taxa of trees and shrubs (93 percent) [had been]             completed for the rbcL and matK regions" [G].
+The barcodes of           woody vegetation in the Cheringoma District in Mozambique have been           collected since 2010 [G].
+The African Centre for DNA Barcoding (ACDB)           lists a total of 9 plant DNA barcoding projects in Southern Africa and           reports that 11,451 specimens and 6,932 species have been barcoded (as           of Jan 2013) [H].
+In South Africa, a DNA barcoding project has started with the aim of         stopping the smuggling of endangered cycad species.
+The DNA database         will enable customs officials to identify specimens and help prevent the         illegal trade [I].
+A database for 50 tree species from the Convention on         International Trade in Endangered Species of Wild Flora and Fauna         (CITES) that are expected to be encountered at South African ports and         borders is also being built [G].
+DNA barcoding is being used to combat alien invasive species in South         Africa, where over 500 naturalized plant species listed are known to         have entered once pristine habitats.
+Alien plant species are of growing         concern in South Africa due to their negative impacts on biodiversity.
+In 2011, a government-funded collaborative project between the ACDB, the         South African National Biodiversity Institute and the Early Detection         and Rapid Response Programme of the Working for Water Programme was         formed as part of the iBOL project.
+The project collected invasive plant         and animal samples in South Africa, as well as South African species         known to be invasive elsewhere in the world, over an eight-month period         for DNA barcoding and provided access to the barcode data through the         BOLD system (see below) [J].
+Impact on economy/commerce:            The matK barcode and protocols to use it have been implemented         in the BOLD systems in Canada, which provides species identification         commercially.
+In April 2013, BOLD listed 176,905 species formally DNA         barcoded (plants and animals) [K].
+BOLD came into existence at the         beginning of the DNA barcoding movement, funded by the Canadian         government.
+Until the research reported here, it was only archiving DNA         barcodes of animals.
+After references [1] and [2], it has been archiving         and making available plant DNA barcodes to a large range of users.
+Impact on health/welfare:            Consumer fraud prevention in teas and herbal medicines now uses         protocols based on DNA barcoding protocols (as reported at the         International Meeting of DNA Barcoding of Life, Adelaide, Australia,         2011).
+Demonstrating the importance of accessible plant barcoding,         Stoeckle et al.
+findings indicate unlisted ingredients are common in         herbal teas (Scientific Reports, 1, 42, 2001, DOI).
+Government bodies, museums and botanical gardens are using these         techniques, although they might ask university laboratories to carry out         the work.
+By 2011, a library with DNA barcodes for "Malaysia's 1,200         plant species with potential medicinal value" was in development to         offer "`a quick one step detection kit' to reduce fraud in the lucrative         herbal medicine industry" [L].
+At that time, DNA barcode libraries were         also under construction for the medicinal plants of several other         nations, including South Africa, India and Nigeria [L].
+An integrated web medicinal materials DNA database, MMDBD (Medicinal         Materials DNA Barcode Database, [M]) was also created to archive plant         DNA barcodes for use in authentication of herbal medicines, particularly         Chinese medicines (published in BMC Genomics 11:402, 2010, DOI).
+The database can be accessed by anybody needing to identify medicinal         plants with DNA barcoding and had archived 1,658 species and 31,468         sequences by May 2012 [M].

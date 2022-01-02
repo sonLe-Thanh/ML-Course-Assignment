@@ -1,0 +1,56 @@
+ The BTC has had an impact on a wide range of management and policy issues related to megaprojects and major programmes in the UK and internationally.
+This case study highlights three examples.
+Improving Megaproject Decision Making in the UK Public Sector The UK government concurrently manages circa 200 megaprojects, worth more than GBP 350 billion.
+BTC research has directly changed the way these investments are prioritized and assessed through working in partnership with the UK's National Audit Office (NAO).
+Part of the NAO's remit includes value-for-money studies, which look at how projects are implemented and how projects can be improved.
+This joint interest between the NAO and the BTC led to an active collaboration.
+In 2012, BTC and NAO held multiple full-day workshops in Oxford and London to share new methods, research findings [e.g., R1, R2, R5], and collected data.
+In March-April 2012, the BTC wrote a research report for the NAO to identify measures of project complexity with the aim of identifying high-risk projects.
+The report was based on three years of research into project complexity and early risk indicators [Section 5: C1].
+10 factors were identified, showing that risks are mostly associated with the social and political environment of projects [C1].
+In September 2012, the research was included in an internal report entitled `Designing successful projects and programmes'.
+The report was combined with concurrent work by the Treasury's Infrastructure UK group (IUK) to form the revised complexity assessment of government projects [C2, C3].
+In January 2013, the new complexity assessment was rolled out as part of IUK's route map toolkit and applied to IUK's pipeline of 576 projects worth GBP 300 billion.
+The Director responsible for this work at the NAO, said: "The global research [you] have been undertaking ... has proved an invaluable source of evidence for the NAO ...
+Your analysis has made a substantial contribution to the evidence base underpinning our research into the factors driving the success, or otherwise, of major projects.
+An example of the impact which this work [has had is] our environmental complexity analytic [which] forms the front end of the IUK Route map published earlier this year.
+Your work &#8212; and importantly our discussions &#8212; was an important contributory evidence source."
+[C4].
+Achieving Impact through a Trusted Mediator In 2009, the BTC was approached by McKinsey to begin a collaboration to widen the reach, and transfer the research, in particular [e.g., R1, R2] into practice.
+From 2010-2012, BTC held multiple full-day workshops with McKinsey in Oxford.
+The impact was two-fold.
+First, the research allowed McKinsey to re-conceptualise their way of thinking about project management and subsequently changed McKinsey's methodology in the light of the advocated reframing.
+In turn the impact provided the data sources as well as relevant research questions that lead to [R5] and [R6].
+The McKinsey partners, who were involved, wrote that the "[McKinsey-Oxford] surveys of IT executives indicate that the key to success lies in mastering four broad dimensions, which, combined, make up [McKinsey's] methodology for large-scale IT projects that we call `value assurance'" [C5].
+The BTC research not only directly shaped the analytical tools of McKinsey's value assurance framework but also identified and prioritized the dimensions for which practical solutions to project problems are lacking.
+Subsequently, McKinsey has applied their new, BTC research-based, `value assurance' methodology to advise more than 30 global clients between 2012 and 2013.
+The cooperation with McKinsey allowed the BTC research to achieve a substantially more significant impact with greater reach, by not only shaping a new consulting service, but also providing a pathway for the BTC to achieve impact through other intermediaries, similar to McKinsey [C6].
+A key Partner at McKinsey wrote: "Reflecting on the research project I see three areas of impact in particular.
+First, the research created an empirical base to help us support the planning and decision making of our clients.
+So far the data from your research was used at more than 20 of our clients, who as a result have made a better informed decision.
+Secondly, your research has helped us in developing an assessment framework which we use to analyse the complexities a project faces and the organisational capabilities of our clients to deliver against that.
+Thirdly, your research has helped us to dispel commonly held assumptions about the true risk drivers of projects, for instance your insight that time is a much larger risk driver than project spend has led to an 11th hour decision in one of our clients to not go forward with a 5-year, multimillion IT project" [C7].
+De-Biasing the Largest Civil Project in the Developed World The USD 51.8bn California High Speed Rail project is the US federal government's single largest civil investment.
+Recent estimates total the cost of the two-phased development at approximately USD 90bn.
+In 2012, after 5 years of planning, the US congress requested its auditor, the Government Accountability Office (GAO), to review the final project plans.
+In autumn 2012, drawing on the research [R1, R2] and Flyvbjerg et al.
+(2003) the GAO approached the BTC for methodological advice on how to best establish an independent and unbiased view of the project.
+Three high-ranking GAO officials interviewed the BTC Academic Director at length.
+In particular, they were keen to learn more of the methodology developed by BTC for how to identify optimism bias and strategic misrepresentation in project forecasts [R4].
+The impact was two-fold.
+First, the GAO adopted this methodology to define what it considers best practice.
+GAO's final report stated "By not following all best practices, there is increased risk of such things as cost overruns, missed deadlines, and unmet performance targets" [C8].
+Out of five academic publications listed and used by the GAO to identify global best practice, one article [R4] and two further publications (Flyvbjerg et al.
+2003, Flyvbjerg and COWI, 2004) were authored by BTC researchers [C8].
+Secondly, the BTC research changed how the GAO viewed the veracity of the plans, in particular the ridership forecasts.
+GAO's Assistant Director, who led the project review, stated: "your work sensitized us to issues of veracity.
+I think this was also true for California High Speed Rail Authority and Cambridge Systematics.
+They seemed obliged to include low-ball ridership estimates, even though this took some of the shine off their presentation.
+"Your work was one of several factors we considered in reviewing the process used to prepare ridership and revenue forecasts.
+It was not our intent to opine on the precise point estimates of the forecasts but rather the process used to prepare the forecasts.
+If a sensitivity, and an extreme downside, analysis had not been conducted we would have discussed this in the report and suggested that it be addressed in future forecasts."
+[C9].
+In sum, the research has impacted on the performance of a number of projects by changing the way projects are planned, managed, and assured through multiple pathways of impact.
+The first example achieved impact through changing the planning and decision making procedures of the UK public sector through work with the National Audit Office (NAO).
+The second example achieved impact to several large-scale projects in the private sector through collaborating with McKinsey &amp; Company, as a trusted mediator.
+The third example showed the impact on a specific project, California High Speed Rail, which made the project team consider more realistic and de-biased cost and revenue forecasts.

@@ -1,0 +1,34 @@
+     The advances in sensor technologies made by BEST contribute to new       technology, product development and their adoption in a number of       industrial sectors including food, water and defence.
+The niche research       work has been extremely successful in attracting funding at national and       international levels to solve industrial challenges, a trend which looks       set to continue.
+The hygienic safety issue in the food industry for example [ref 4], has       proven that stainless steel switches eliminate the danger of food       contamination where there is a possibility of plastic switches being       smashed and entering the food chain.
+The use of stainless steel switches,       2012, allows them to be robust and provides them with the ability to       withstand harsh environments (e.g.
+temperature, ingress and high pressure       steam cleaning).
+This has enabled Mechan Controls PLC to develop       innovative products which have been commercially successful 2012-2013,       considerably raising their international market income and attracting       further investment partners.
+This has resulted in a fully deployed sensor       system in Proseal food machines, Alton Towers Fairground Safety, London       Eye carriages and Japanese rail.
+Since 2013, the company has sold 2,072       units of the Magnasave Safety product (product code MS8-SS-21-DC-05M) with       total revenue of &#163;103,270.
+The success of the product particularly in the food industry has been a       result of the significant benefits it affords.
+Namely, the use of       stainless steel has a positive environmental impact since it reduces       waste, enables greater product shelf-life and reduces manufacturing       down-time resulting from damaged switches which contaminate food products.
+Furthermore, the reduced down-time enhances overall productivity, saves       energy and ensures supply chain reliability, along with continued       affordability to customers.
+The Technical Director of Mechan Controls PLC states: "The success of         the research was tremendous for our core business and now the safety         standards are calling for greater integrity in the safety provision,         which is pushing the whole safety market, especially non-contact         devices, for high value products that have greater complexity and         reliability.
+This will certainly put Mechan products to the forefront of         any competitor markets".
+Continuing from the success of work in the food industry, work with       Animalia and Nortura in Norway has led to the application of our unique       sensor platform, 2011-2013, to replace a current industry gold standard,       the EZ Driploss Test, for meat quality.
+The current test is manual,       requiring a cut of meat and a 24 hour period to assess the quality; our       system, developed in 2012, can reproduce this in a 20 minute time period.
+Currently the system is undergoing industrial trials in Norway by       Animalia, and has significantly improved their capacity to test meat       quality at various points in the meat processing chain which has allowed       them to identify areas of improvement.
+Of particular importance is water       loss from meat as it impacts on tenderness and saleable value; for every       1% of water lost in a single Nortura processing plant it is estimated to       cost approx.
+&#8364;100,000 per day.
+The Senior Research Scientist at SINTEF states: "The sensor system         developed at LJMU has proven to be ideal for the meat industry and looks         set to become the new gold standard for meat quality indication which         will help inform meat processing improvements and ensure a high standard         of meat being delivered to consumers".
+Applying the developed sensing expertise to other sectors, a significant       example has been the water industry, 2011-2013.
+Current analytical       techniques require the attendance of a technician to acquire water samples       for off-site laboratory analysis.
+This approach has a significant       disadvantage &#8212; the sample taken represents only the condition of the       sample at the time of sampling or testing.
+It is a snap-shot.
+Online based       sensors are coming to the mark, but the cost of such sensors is high and       the range of measurable parameters is limited.
+The Technology Development       Manager of United Utilities said: "The developed real time         non-invasive electromagnetic wave sensors by LJMU have certainly helped         us in determining the quality of water with consistency and high         repeatability in real time without the need for the biological and         chemical laboratory testing."
+The importance of such sensors is       underlined by the EU Water Framework Directive, which regulates the       permissible contaminant levels in water; failure to comply results in       significant financial penalty.
+Our novel sensor platform was also adapted, 2011, to study activated       carbon in gas masks, successfully resulting in the only automated method       for monitoring activated carbon residual life.
+The Technology Development       Manager of dstl said: "The success of such a sensor has certainly         reduced the time taken for the conventional chemical test to a few         minutes, as verified by a 9 month study.
+The work has resulted in         significant transfer of knowledge from LJMU, and we are adopting such         sensor techniques in our activities at Porton Down".
+The UK has in       excess of 200,000 active military personnel, a considerable number of whom       will require the use of a gas mask during active duty.
+The current policy       is to exchange gas masks based on a fixed time interval which does not       consider actual use.
+This policy leads to significant waste as masks are       often replaced without being used.
+However there is the possibility that       some masks become contaminated and are therefore rendered useless prior to       this fixed replacement interval.
+Therefore, the impact of this research is       a significant cost saving in needless replacement of gas masks, in       addition to potentially saving the lives of personnel equipped with       contaminated masks.

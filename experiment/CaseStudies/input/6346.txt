@@ -1,0 +1,33 @@
+     While other bodies have been working on OA, the University of Southampton       has been the only UK institution carrying out research and development       while lobbying for policy change.
+Impact on Policy     "Gold" OA mandates require authors to publish their work in available OA       journals, whereas under "Green" they publish in toll-access journals and       their institution's OA repository.
+Southampton's recommendation to the       Select Committee on Science and Technology in 2004, that all UK       institutions and funders adopt Green OA mandates, was accepted by the       committee.
+However, in 2012 the Government accepted the Finch report's       recommendation to prefer Gold, which then informed Research Councils UK's       policy.
+Southampton has been increasingly successful in lobbying for       Green, as evidenced by the new HEFCE proposed policy advocating Green and       Gold (consultation launched July 2013) [5.1].
+Harnad submitted written       evidence on the two types of OA to the House of Lords Science and       Technology Select Committee and the House of Commons Business, Innovation       and Skills Select Committee (both February 2013) whose recommendations       were critical of the original Finch Gold strategy and highly supportive of       the role of open repositories [5.2].
+Impact on Practitioners     The original 2000 release of ePrints was the first "general purpose"       institutional repository software (other repositories had been       discipline-specific) and pioneered the notion that individual HEIs could       implement repositories across all their departments.
+Since 2008, 46 UK       institutions have implemented ePrints (total to date 113); as at July       2013, these institutions host 2.2 million publication records and sample       figures indicate each paper is downloaded around 50 times a year [5.3].
+ePrints installations are used at all forms of research-involved       organisations including:            Health: UK NHS Trusts (Heart of England NHS Trust) Ifakara Health         Institute in Tanzania, Fred Hutchinson Cancer Research Centre in the US,         Vinzenz Gruppe in Austria and the Swiss pharmaceuticals company,         Novartis.
+Charitable organisations: National Museums of Scotland, British         Library       Governmental: DEFRA in the UK, Queensland Department of Agriculture,         Fisheries and Forestry in Australia, National Oceanic and Atmospheric         Administration (NOAA) in the USA.
+NGOs: ICOMOS (Conseil International des Monuments et des Sites)         UNESCO, Global HIV Vaccine Enterprise.
+The Southampton team was instrumental to the formation of the       United Kingdom Council of Research Repositories, to drive the recognition       of repository administration and management as a professional function and       sharing of best practice.
+In the six years since its inception in 2007,       UKCoRR has grown to 257 members.
+Economic Benefit     Demand for ePrints led to the creation in 2006 of a successful service       business, ePrints Services, which since 2008 has provided repository       hosting services, training and consultancy to over 100 client       organisations.
+ePrints Services employs seven staff and has generated over       &#163;3 million in revenues [5.4].
+ePrints Services continue to develop ePrints       in response to the needs of industry as well as the public sector: the       latest version, 3.3.12, features "ePrints Bazaar", which allows repository       administrators to increase functionality by installing plug-ins and       extensions.
+A successful new business was also spun out in 2011 for the A-Stor       software: Arkivum, a contractually-guaranteed archiving service for       digital assets.
+Arkivum, which secured &#163;2.3 million in venture capital       funding, employs ten staff and has fifteen current client contracts [5.5].
+In addition to the direct impact on industry demonstrated by the launch       of ePrints Services and Arkivum, the work of the Southampton team       continued to influence the preservation and audiovisual communities       throughout the REF period.
+Partners of the "AVATAR-m", "PrestoSpace".
+"PrestoPRIME" and "RASSC" projects adopted best practice developed by       Southampton research [5.6].
+From 2012, risk management and cost modelling       techniques developed in PrestoSPACE and RASSC have been applied by Arkivum       to deliver data assurance services to 15 customers that include Tate       Galleries, MRC National Institute of Medical Research and the Financial       Conduct Authority.
+Other research outcomes such as open source tools for       preservation planning have been used by digital archiving and audiovisual       organisations like the National Archives (2010) [5.7].
+One significant commercial impact from the research has been to encourage       organisations to adopt a more cost-effective model for archiving and       disseminating research.
+The 2009 Houghton report (on the economic       implications of alternative scholarly publishing models) estimated that OA       publishing for journal articles could deliver system savings of around       &#163;215 million a year in the UK (at 2007 prices and publishing activity) of       which &#163;50 million would accrue to research institutions outside of HE       [5.8].
+Public Engagement     Southampton is active in OA policy design and awareness-raising       worldwide.
+Harnad has been a board member of EnablingOpenScholarship,       which promotes open education initiatives, since its launch in 2009 [5.9].
+He has also lectured on OA at events open to the public such as the 2008       International Science Fair in Trieste, Italy (which attracts around 30,000       visitors in total).
+Addis has been active in outreach on the curation and       preservation of audiovisual collections, e.g.
+through the Screening the       Future series of events for the audiovisual community, as organised by the       PrestoCentre (www.prestocentre.org)       advisory board member for the 4C project, (http://www.4cproject.eu/)       and as a member of the Digital Preservation Coalition.
+(http://www.dpconline.org/).
+Finally, Harnad and colleagues have done a considerable amount of work to       raise awareness and understanding of the benefits of OA among the general       public.
+Some examples among many include Harnad's authored article in The       Guardian (September 2012); his three 2009 YouTube videos, the first of       which has attracted over 700 views by July 2013; and an extensive February       2010 interview on Information Today Inc, which targets librarians and the       information industry.

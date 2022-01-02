@@ -1,0 +1,37 @@
+     Introduction     According to Cancer Research UK over 12,000 people were newly diagnosed       with malignant melanoma and more than 2,000 died from the disease in 2010.
+A critical factor in improving survival rates is early detection.
+General       practitioners, who are the first point of referral, typically miss a third       of malignancies whilst unnecessarily referring over 90% of benign lesions       to dermatology specialists.
+SIAscopy is a technology that has       improved GPs' diagnostic performance, potentially benefiting over 20,000       people that have been screened for melanoma by 2011.
+Development     Contact SIAscopy was developed in Claridge's group [1] and       subsequently patented (GB97/03177 1997-1998).
+Broad publicity from the       BBC, the national press and professional magazines attracted commercial       interests from Cambridge Design Partnership (CDP) [17-1] who acquired IP       rights and employed Dr Cotton (1998).
+A successful EPSRC-funded pilot       study in partnership with CDP [2,3,7] led to the formation in 2000 of the       spin-off company Astron Clinica, set up to manufacture and market SIAscopy-related       products.
+The first clinical device (CE-marked) was released in 2000 and       FDA-approved in 2002.
+Non-contact SIAscopy was developed within a Leverhulme Trust grant       [4,5,6,8] and patented (GB03/003367 2003-2004).
+Full IPR were acquired by       Astron Clinica (2005) who developed a range of products: Dermetrics,       MoleManager, MoleMapping (clinical); BeauVisage       (consumer cosmetics) and Cosmetrics (industrial research, in       partnership with P&amp;G).
+Commercial exploitation     Through a number of asset and IPR acquisitions SIAscopy products       were first controlled by Astron Clinica, then Biocompatibles and are now       marketed by MedX (key product: MoleMate-SIMSYS).
+SIAscopy       devices are sold worldwide to public health outlets, private dermatology       clinics, research organisations and cosmetics salons and clinics.
+Commercial impact: skin cancer     Astron Clinica (until 2009) provided employment in R&amp;D, design,       manufacturing, trial management, marketing, management and administration       for between 7 and 24 people per annum in Cambridge and Australia [17-2].
+Biocompatibles (2009-2011) estimated that "MoleMate is in use in       more than 200 primary care clinics world-wide including more than 100 in       Australia and over 30 in New Zealand [...], with more than 20,000 patients       having been examined.
+MoleMate is 510k cleared in the U.S."       [17-3].
+According to MedX (2011-present) "The U.S. market alone is estimated to       be a $1 Billion dollar opportunity, and MoleMate and SIMSYS       are the only FDA approved and patent protected SIAscopy products       in this important health segment."
+[17-4].
+Since 2011 MoleMate has been used by ScreenCancer Inc. to provide       cancer screening services to self-insured employers and insurance plans in       Australia, Europe and the U.S.
+The initial agreement is valued at over       $190,000CDN for 2011 alone [17-5].
+In February 2012 Health Canada approved       MoleMate for use by Canadian physicians [17-6].
+Many private       dermatology clinics both within and outside UK and EU (Australia, Canada,       China, Malaysia, New Zealand, Russia, South Africa, UAE, USA) use SIAscope       as a part of their services.
+P&amp;G, LenioMed Ltd and ScreenCancer are funding the expansion of the       underlying technology into new consumer and wound care markets [17-7].
+Clinical impact: skin cancer     GPs trained to use SIAscopy improved their recognition of       suspicious lesions and reduced assessment time [9].
+They demonstrated       higher diagnostic accuracy for melanoma and made fewer unnecessary       referrals to specialist clinics in comparison with GPs using conventional       techniques [10-13].
+Nurse-led triaging using SIAscope was shown to reduce the number       of benign lesions seen unnecessarily by a consultant whilst detecting most       melanomas, thus saving costs [14].
+A large NHS Trial (2008-2010) [10] showed that diagnosis using MoleMate       had strong agreement with expert assessment.
+In primary care setting it       performed better than GPs' current practice and similarly to GPs' best       practice [9].
+Appropriateness of referrals was reported as lower (by 7.7%)       [15] but cost-effectiveness was significantly higher (ICER= &#163;1896) than       best practice alone [16].
+"Clinicians were confident that the MoleMate       system enhanced their practice, and patients ranked satisfaction with       consultations higher with the MoleMate system than with best       practice alone" [15].
+Clinicians using the technology gave consistently       positive testimonials [18-1,18-2].
+Cosmetics impact     Although developed primarily for the health-care market, SIAscopy-based       product Cosmetrics has been used in the cosmetics industry       research to increase the formulation efficacy of products such as UV       protectants (P&amp;G [18-3]).
+IRSI found Cosmetrics to "radically       shrink the work and costs involved in proving the effects of [skin]       products"[18-4].
+P&amp;G jointly with Astron Clinica developed an in-store       scanning system for consultation in the retail environment [18-5,18-6].
+It       was used by Olay as an in-store beauty care system (e.g.
+Boots)       [18-7]: "The Beau Visage machine provides skin analysis using a       medically proven skin imaging and consultation system.
+Beau Visage       utilises SIA, the only technology which [...] images the blood supply       (capillaries), melanin (pigmentation), and sun damage to your face."
+[18-8].

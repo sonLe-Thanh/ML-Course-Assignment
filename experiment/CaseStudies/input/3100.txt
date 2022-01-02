@@ -1,0 +1,32 @@
+     See section 5 for numbered corroborating sources (S1-S7).
+Pathways to impact.
+Tumour hypoxia has been recognised as a barrier to successful radiotherapy       since the 1950s.
+However, translating this knowledge into more beneficial       outcomes for patients has been a slow process.
+To expedite this, we       have developed and applied therapies to target or overcome       hypoxia-mediated resistance; initially by using hypoxic-cell       radiosensitisers and hypoxia-activated cytotoxic drugs, and subsequently       by utilising molecular targeted approaches based on understanding the       biological rationale for combination.
+As the impact of these approaches is       beneficial primarily in patients with hypoxic tumours, we have       coincidentally led biomarker-based research programmes towards enabling       personalised therapy based on tumour oxygenation.
+Impact on prediction and diagnosis       Basic research into the biology of HIF-1 underpinned evaluations of       downstream targets, such as CA-IX and Glut-1, as surrogate (protein)       biomarkers of tumour hypoxia.
+The work has led to the patenting and       commercial development (via the SME, ALMAC) of a robust genetic       signature, based on CA-IX and Glut-1 that is highly prognostic across       multiple cancer types and can predict benefit from hypoxia-modifying       therapy (S1).
+The prognostic significance of these protein biomarkers/gene       signatures has led to their use in world-leading research-based treatment       centres to influence and guide the choice of treatment for many thousands       of patients.
+A letter from the University of Toronto Princess Margaret       Cancer Centre asserts, "The international impact of this work is that         these biomarkers are used in world leading Centres, to influence how         patients are treated in the new era of personalized cancer medicine".
+(S2).
+Impact on patient treatment       (a) Head and neck (H&amp;N) cancer:       Worldwide, there are 400,000 cases of H&amp;N cancer every year of whom,       300,000 will die of their cancer.
+Our early work led to clinical trials       showing that combining a hypoxic radiosensitiser, nimorazole, with       radiotherapy increases 5-year local regional control of all H&amp;N cancer       patients from 34 to 49% (S3,4).
+In hypoxic tumours (identified using the       molecular markers above) the control rates changed from 18% to 49% (S3,4).
+Nimorazole is now standard-of-care in Denmark and Sweden "with some 800         patients a year receiving drug"; meaning an additional 90 people per       annum survive their disease.
+Impact within the UK has been confounded by       the perceived lack of robust markers of hypoxia.
+Thus, the Phase III       NIMRAD trial has been developed incorporating the hypoxic gene signature       (above) into the evaluation of nimorazole with radiotherapy to sensitise       hypoxic tumours and avoid over-treatment of aerobic tumours (S4).
+(b) Development of molecular targeted therapies combined with           radiotherapy:       We have been instrumental in driving a paradigm shift in anti-cancer drug       development in the pharmaceutical industry leading to "combining drugs         with radiotherapy ... at a much earlier stage in the drug development         process" , as endorsed by the Head of AstraZeneca cancer iMed, and       subsequent acceleration of early phase clinical testing of drugs with       radiotherapy (S5).
+Previously, changes in clinical practice in       radiotherapy would take decades from the initial scientific observation to       becoming standard-of-care (S4).
+However, based on our supporting       preclinical data, two early clinical trials have been initiated: The       MEK-RT trial combining selumetinib with radiotherapy for the treatment of       Non Small Cell Lung Cancer (PI, Faivre-Finn); and the DREAM-therapy trial       of cediranib or selumetinib combined with preoperative radiotherapy in       rectal cancer (PI, Saunders).
+These trials began one year [2010] after the       Stratford/Williams preclinical publication.
+"The         DREAM-therapy trial is near completion and interim analysis shows         significant improvements in patient outcome with complete pathological         response rates that are at least twice the national average"(S6).
+This means that more patients are free of their disease.
+Multi-centre,       international, Phase III trials are being developed in order to define       these treatments as standard-of-care (S5,6).
+Impact on Pharmaceutical decision making       Our work has facilitated go/no-go commercial decisions for combining drugs       with radiotherapy.
+This is illustrated by the trials above, but a       corollary of this has been that industry has also made the decision for "drugs         not being taken further in clinical development with radiotherapy".
+Given the estimated &gt;$500 million investment required to progress drug       through clinical evaluation, early project termination yields significant       cost saving to the pharmaceutical industry (S5).
+Impact on national radiotherapy research environment       Stratford and Williams helped develop and are the       Scientific Executive members of the NCRI Clinical and Translational       Radiotherapy Research Group.
+The aim of this group is to develop       practice-changing clinical trials.
+Since the initiative began in 2009 the       number of radiotherapy trials has increased by 66% and the number of       patients in trials has doubled.
+Further, recent investment in staff has       been made by the NCRI to build on the Manchester paradigm and develop a       national translational radiobiology network to facilitate early clinical       trials of drugs in combination with radiotherapy.
+The overall impact has       been to increase the number of establishments within the UK that are       recognised as centres of excellence for radiation research and to increase       the international profile UK-based radiation-related research (S7).

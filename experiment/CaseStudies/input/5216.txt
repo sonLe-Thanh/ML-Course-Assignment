@@ -1,0 +1,33 @@
+     The ICR has made a major impact on the international search for       inhibitors of PKB, a key signalling enzyme and a major target for the       development of cancer therapeutics.
+This is a significant impact in       enabling a number of pharmaceutical companies to advance their research       programmes for the development and commercialisation of novel drugs.
+Currently seven novel PKB inhibitors are in clinical trial       (ClinicalTrials.gov), two of which are from the joint ICR and Astex PKB       drug discovery programme.
+Impacts on health     Two distinct drugs discovered by ICR and Astex Pharmaceuticals are           progressing through clinical trials in the UK and overseas; patients           are benefiting by being able to participate in these trials.
+ICR has discovered two series of PKB inhibitors in a collaborative       research programme with Astex Pharmaceuticals.
+As a result, one series was       licensed in a commercial agreement with AstraZeneca and the lead drug,       AZD5363, is currently undergoing clinical trials at RM, The Christie       (Manchester), the NKI ( Netherlands) and in Japan, involving a total of       over 400 patients (ClinicalTrials.gov Identifiers: NCT01226316,       NCT01353781, NCT01625286, NCT01692262, NCT01895946) [1].
+The ICR has led       on the first trial of AZD5363 and Dr Udai Banerji (ICR Faculty, from 2007)       gave an oral presentation at AACR 2013, summarising its exciting potential       in the clinic and reporting for the first time clinical responses in       patients whose tumours had PIK3CA and AKT mutations.
+This       highlights the fact that this drug has potential applications in a wide       range of solid tumours including breast and gynaecological cancers.
+Results of the first Phase I clinical trial of AZD5363 have reported both       partial responses and stable disease in patients harbouring mutations in       PIK3CA or AKT1.
+This therefore identifies these mutations as potential       predictive biomarkers of response for AZD5363.
+The clinical development       candidate from the second series, AT13148, which is being developed by       Astex Pharmaceuticals, has biological properties distinct from other PKB       inhibitors and could be useful in a different patient group.
+This drug is       also in clinical trial at RM (ClinicalTrials.gov Identifier: NCT01585701,       estimated enrolment 40 patients) [2].
+Worldwide, clinical trials of PKB inhibitors are being facilitated           by the ICR's work to define useful biomarkers and make protocols           generally available.
+The ICR was a key site in the first clinical studies of the Merck       inhibitor MK-2206 (Research Ref 5 above) (ClinicalTrials.gov Identifier:       NCT00670488) through its identification of clinical pharmacodynamic (PD)       biomarkers to monitor PKB inhibition, thus facilitating all PKB programmes       worldwide.
+In some cases these PD markers also have utility in trials of       other drugs, such as PI3K inhibitors.
+Protocols have been made available       for these biomarker assays.
+Companies that have licensed the protocols       (for a fee) include Quintiles and Boehringer Ingelheim.
+So far, six       international pharmaceutical companies have cited this key publication       (Research Ref 5 above) in work describing their PKB inhibitor programmes       (data from Web of Science) [3, 4].
+Impacts on commerce     Two distinct drugs discovered by ICR and Astex Pharmaceuticals are           being commercially developed.
+The drugs AZD5363 and AT13148, derived from chemical series discovered by       the ICR and Astex Pharmaceuticals, are being developed by AstraZeneca and       Astex Pharmaceuticals, respectively.
+Both are in clinical trial.
+This has       a commercial benefit to both these companies by adding to their       development pipeline and therefore increasing shareholder value.
+Results of the first Phase I clinical trial of AZD5363 have reported       partial responses in patients harbouring mutations in PIK3CA or AKT1.
+This highlights the fact that these drugs have potential single agent       activity in solid tumours.
+Multiple clinical trials of combinations of       AZD5363 are currently ongoing and in planning to maximize its potential in       a wide range of cancers.
+As stated above, the international PKB drug discovery effort has been       facilitated by the ICR's structural biology and pharmacodynamic biomarker       studies.
+In addition to the benefit to patients, this has also had       commercial impact, as a number of pharmaceutical companies have added PKB       programmes to their pipelines.
+For example, since 2008 GSK has made a       major investment into developing PKB inhibitors as novel therapeutics.
+Its       lead product, GSK2110183, progressed into Phase II clinical trials in       2009.
+Industry is investing in pre-clinical research and clinical           research to develop PKB inhibitors in the UK (including at the ICR and           RM) and overseas.
+AstraZeneca and Astex Pharmaceuticals are investing in the clinical       research of AZD5363 and AT13148 respectively by conducting clinical       trials.
+These drugs are based on the chemical series discovered by the       ICR.
+Companies such as GSK that have cited the ICR's underpinning research       are investing in clinical research worldwide (ClinicalTrials.gov lists       several GSK2110183 clinical trials eg: NCT01428492, NCT01531894,       NCT01532700 and NCT01653912), and seven novel PKB inhibitors are now being       developed.

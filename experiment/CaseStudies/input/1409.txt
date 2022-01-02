@@ -1,0 +1,29 @@
+     Our research has had three types of impact during the period 2008-2013:            economic impact by increasing the prosperity of TLC Ltd       practitioner/professional service impact on the RCP (and its members)         in its development of         the National Early Warning Score (NEWS)       health impact by the lives saved by the adoption of NEWS          Economic impact on TLC     TLC have incorporated our ViEWS (VitalPAC Early Warning Score) model (and       more recently,       NEWS, see below) into their VitalPAC family of products.
+This work was       done as part of a KTP       (April 2006 &#8212; April 2008) to give them that capability.
+The KTP associate       was also involved in the       development of the doctor interface to the system.
+TLC became aware of us       because of our BHOM       work and our links with the Vascular Society of GB &amp; Ireland.
+VitalPAC replaces the typical paper chart at the foot of a hospital       patient's bed by recording       (electronically on a mobile device) the vital signs measurements,       typically taken by a nurse every       few hours.
+ViEWS/NEWS translates the vital sign measurements into a single       number known as       an early warning score (EWS).
+Depending on the value, the nurse is       instructed to take some       action, which (in increasing order of severity) involves taking further       observations more frequently,       calling a doctor to see the patient, or calling a doctor urgently.
+Our       research identified       recommended thresholds for these actions.
+The economic benefits to TLC included increased turnover (13-fold over 3       years), created 15 new       jobs, and allowed them to attract over &#163;1m from private investors (source       1).
+The VitalPAC product       generates 80% of their revenue.
+Policy impact on RCP work     In 2012, the Royal College of Physicians (RCP) published a report       recommending adoption across       the NHS of a new National Early Warning Score (NEWS) for monitoring       patients in hospital (source       0, source 3).
+NEWS is (with only a couple of small changes) based on ViEWS       as published in our       2010 paper (research reference 6).
+The background to this was that the RCP had set up a NEWS Development and       Implementation       Group (NEWSDIG).
+One of the members of the group was Professor Gary Smith,       our long-time       collaborator and a former Consultant Physician at PHT, now affiliated to       Bournemouth University.
+David Prytherch and Gary Smith undertook (on behalf of NEWSDIG) the       performance analysis that       confirmed the weightings, triggers and escalation criteria.
+Health impact and the ultimate beneficiaries     Ultimately the research impacts everyone who is admitted to a hospital       that uses the system.
+Portsmouth Hospitals Trust led the way &#8212; it served as the development site       for the VitalPAC       software.
+PHT began piloting the software in 2006 and by 2010 its use had       spread to the whole       hospital.
+Currently, ViEWS/NEWS is used in 20 hospitals via the VitalPAC       system, but it has also       been carefully designed to be used in hospitals still using paper records.
+An ongoing survey of 116       UK hospitals by the National Outreach Forum (source 4) revealed that (as       of September 2013)       28% had already implemented NEWS, a further 31% planned to introduce it       within a year and a       further 9% had longer-term plans.
+Only 8% were not considering it.
+NEWS       has 100% adoption by       NHS Wales (source 5) and it has been adopted by the Health Service       Executive in the Republic of       Ireland (source 6).
+Since introducing VitalPAC, initial findings are that hospitals have seen       fewer unanticipated       intensive care unit admissions, shorter lengths of stay (source 7) and (in       one hospital) a 22%       decrease in seasonally-adjusted mortality (source 8).
+A paper evidencing       this is in preparation.
+A 2012 study published in the journal BMJ Quality and Safety found there       were nearly 12,000       avoidable deaths of adults in English acute hospitals annually.
+In the       publicity surrounding the       RCP's publication of NEWS, the chairman of the Working Party (Professor       Bryan Williams from       UCL) estimated that up to half of those lives might be saved.
+Not only       does NEWS aid in       identifying deteriorating patients in need of additional clinical       intervention, but its adoption       nationally results in savings in the training of nurses.
+This attracted       much press attention, for       example by the BBC (source 9) and the Independent (source 10).
+Finally, the collaboration between PHT and TLC for the development of the       VitalPAC system has       won three national awards (the NHS Connecting for Health Leadership in       Health Information       Accolades Scheme 2006, the "Technology and IT to improve Patient Safety"       category in the 2010       Health Service Journal/Nursing Times Patient Safety Awards, and the Bupa       Foundation Patient       Safety Award 2010).

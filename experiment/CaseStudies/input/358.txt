@@ -1,0 +1,38 @@
+ We first discuss direct economic benefits to Geomagic before describing wider impact on practitioners and professional services, many of which carry further economic benefits.
+Economic Impact &#8212; Cardiff University's research has orchestrated significant economic benefits for Geomagic.
+The pipeline and algorithms form integral parts of Geomagic Studio, the company's flagship product.
+This has provided important new functionalities that have considerable advantages over competitive software products.
+Geomagic studio now builds CAD models which respect the design intent of the scanned original object &#8212; unlike other software which fits a single global surface or needs intensive user interaction to fit multiple independent surfaces, lacking the constraints needed for a coherent overall design.
+Previously this facility was not possible but Geomagic are now able to publicly claim that Geomagic Studio has `The industry's most accurate and comprehensive 3D scan data processing capabilities' (http://www.geomagic.com/en/products/studio/features/).
+Tamas Varady, who served as Geomagic's chief technical officer from 2003-2010 states [5.1] that Prof Martin's outstanding research has "helped to ensure a leading market position for the product and provide a basis for Geomagic to retain that leadership well into the future.
+The algorithms based on Prof. Martin's research are now integral parts of Geomagic Studio, and thus used by many thousands of industrial users."
+The revenue and corporate value of Geomagic has markedly increased since the implementation of the research.
+During the REF period there were 10,000 licensed users, with current pricing ranging from $8,000 to $30,000.
+[5.1,5.2] The CEO of Geomagic stated that during 2008-2013 `annual revenue growth has exceeded 20%..despite very bad market conditions'.
+The company reports that it approached by multiple buyers in 2012-2013 but a sale was agreed in January with 3D systems for $55 million.
+3D Systems have commented that they expect Geomagic to be `accretive to earnings and contribute approximately $17 million of revenue over the next year' [5.3].
+Impact on Practitioners and Professional Services &#8212; The innovative and pioneering features of Geomagic Studio, implemented as a direct consequence of the research, have enabled new approaches to be adopted in a wide range of industries and areas including engineering, product design, medicine and cultural activities.
+The novel capacity to allow nearly every sub-problem of shape reconstruction has, for example, benefited aerospace and automotive engineering through the ability to capture existing components for computational fluid dynamic and finite element analysis.
+Alternative product designs can also be rapidly assessed by making and scanning physical prototypes to turn into computer models, which can be analysed and modified, and then used as a basis for computer aided manufacturing.
+Classic handcrafted designs can be re-used in a manufacturer's latest products.
+Analysis can be performed on actual rather than ideal shapes &#8212; alleviating problems with manufacturing processes that often result in objects whose shapes differ slightly from the design.
+Furthermore, in art and archaeology, digital models allow restoration and reconstruction of objects from fragments, as well as enabling a permanent record, and wider access by public and scientists to rare and precious artefacts.
+In medicine and dentistry, prostheses can be tailored to an individual patient much more quickly and accurately than by previous handcrafting, and treatment planning can be based on an individual patient rather than a generic anatomical model.
+These industry applications have generated far-reaching social and economic gain.
+Specific examples are provided below and a further 40 significant cases are evident from the company's website [5.4]: Motor Industry Research Association, UK &#8212; special vehicles, engineering analysis of existing designs [5.5].
+When there is no original design information available, accurate 3D digital models of components or vehicles can be made as the basis for new designs and analysis processes, facilitating downstream engineering activities.
+According to a Senior Engineer: "There's no doubt that the use of Geomagic Studio has enabled us to offer services that we couldn't offer before.
+More than that though, perhaps the biggest benefit internally is that with a 3D digital model, management can see what is being done and can have confidence in the process, as well as in the end result."
+Shriners Hospital, USA &#8212; planning a new treatment for severe cleft lip and palate [5.6].
+Here, reverse engineering leads to a less invasive, computer-controlled process with more consistent results and greater accuracy in correcting the growing palate and gum shape prior to lip repair.
+Greenhatch Group Ltd / English Heritage &#8212; cultural preservation: modelling of Stonehenge [5.7].
+Geomagic Studio was used to create the highest resolution, most dimensionally accurate 3D digital model ever of Stonehenge.
+Royal Australian Air Force &#8212; aircraft inspection &amp; repair [5.8].
+Traditional processes for crack repair, which previously could take up to six weeks, were reduced to just one day in the best case.
+Timberland, USA &#8212; last design for shoes [5.9].
+Timberland currently produces over 100 lasts per year.
+Switching to a process based on reverse engineering reduced the need for last rework by 75%.
+Large time-savings come from being able to modify lasts quickly, and by digitally transferring 3D last files to overseas factories instead of physical products.
+Timberland state that "if we effectively employed technology tools such as Geomagic and rapid prototyping to reduce the design and development segment of the cycle, the possibility exists to produce 75 to 90 styles every three months... it could mean a 25 percent increase in revenue since buyers will have additional opportunities to place new and original Timberland products in their stores."
+Germanic Studio Helps German Police Force [5.10].
+Reverse engineering was used to redesign motorcycle luggage compartments to carry speed detection and video recording equipment for unmarked autobahn policing vehicles.

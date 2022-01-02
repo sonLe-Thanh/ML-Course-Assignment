@@ -1,0 +1,47 @@
+     In 2003, Enecsys Limited was founded by Amaratunga (as Chairman), his       research team and an MBA student from the Judge Business School, who led       the development of the financial business plan.
+This followed their       success in winning the Cambridge Business Plan Competition earlier in the       same year (with the name "Cambridge Solar Electronics").
+Enecsys aimed to       commercialise Amaratunga and his team's solar PV research.
+All relevant       DoEng intellectual property was assigned to Enecsys.
+Amaratunga continued       as Chairman until 2009, when the first round of venture capital funding       was completed.
+He remained as a Director until October 2010.
+Enecsys won initial funding from Cambridge Enterprise (2005), the East of       England Development Agency (2004 and 2008) and the Carbon Trust 2008.
+Enecsys funded further research in the DoEng, while Enecsys worked in       parallel to develop micro-inverter products.
+Enecsys has 36 issued patents       of which 13 have been granted in the US, a further 5 have been allowed,       with 39 pending (2013) (Ref 7).
+Enecsys made sufficient progress with initial product development to win       A-round funding of GBP9M in November 2009 from Wellington Partners, Good       Energies and NES partners.
+The funding supported the development and       launch of three market-ready micro-inverter products: the single       micro-inverter (one inverter per solar PV panel), the monitoring system       and communications gateway.
+These were launched into the European and       North American markets in June 2010.
+Enecsys secured further B-Round funding of GBP25M in May 2011 from its       existing investors and Climate Change Capital Partners, bringing the total       investment in Enecsys during the REF period to GBP34M.
+The funding led to       further product development and subsequent announcement of a dual       micro-inverter (one inverter for every two solar PV panels) in 2011.
+All of the Enecsys micro-inverter products are founded on the       underpinning research that was undertaken in the DoEng.
+Enecsys reported       its first revenue in March 2011.
+It achieved USD1.4M in this first year of       sales, which grew to nearly USD11.7M in the financial year 2012/13.
+Enecsys has shipped more than 150,000 micro-inverter units between 2008       and 2013.
+In 2013, it employs 75 people based in three offices in Europe,       North America and Asia-Pacific, which is an increase of 68 from the       beginning of 2008.
+Enecsys has established distribution agreements with       installers in: Australia, Austria, Belgium, Croatia, Denmark, France,       Germany, Greece, Hungary, Italy, Luxembourg, Malta, Mexico, Netherlands,       Spain, Switzerland, Turkey, UK, Canada, and USA (Ref 7).
+These installers have achieved high-profile sales, for example, Afresh       Energy Limited has completed solar PV installations on over 225 homes in       the 2014 Commonwealth Games athletes' village in Glasgow using Enecsys       micro-inverters (Ref 8).
+Enecsys products offer benefits versus traditional string inverters for       solar PV installations that were made possible by the underpinning DoEng       research:            Each individual solar PV panel can be controlled, so that the         performance of the panel can monitored and optimised for maximum energy         harvest.
+A domestic customer and Professor at Stanford University said         of his Enecsys equipped domestic system: "We decided to go with the           Enecsys micro inverter system rather than a more old fashioned string           inverter system because our roof situation here is pretty complex.
+We've got a lot of shade.
+We've got a complicated roofline.
+Concerns           that would really make one these older systems impractical.
+The folks           at Enecsys estimated that we would be able to cover about two thirds           of our electricity needs with this installation.
+In practice, it turns           out to be more like 90%" (Ref 9)       Installation is less complicated, faster and cheaper because the         design and location of the PV array is not influenced by shade.
+PowerPac, a UK-distributor, states: "The new Enecsys solar micro           inverter solution is the latest breed of advanced solar technology           delivering a simplified PV array design.
+The new solar micro inverter           solution can now be installed on any available roof space due to its           new and innovative design.
+Whereas older versions are more difficult           to install, this one is a lot easier in comparison and therefore makes           it faster and cheaper to implement" (Ref 10).
+German PV system         installer, Mini Joule, gives similar evidence: "We trust Enecsys           micro inverters, because the system is easy to install, it is totally           `plug-and-play' and for complex installations with shading there are           no problems.
+And of course our clients love the monitoring system"         (Ref 9).
+Abakus Solar (USA) states: "Enecsys Micro Inverters           liberate installers from many previous shading-related constraints"         (Ref 11).
+An installation integrator based in Hawaii said, "The           Enecsys system allowed us to change the layout without having to get           new parts to install the inverters" (Ref 11).
+Less maintenance is needed, while lifetime and reliability is         increased, with Enecsys guaranteeing an operational lifetime for its         inverters that matches the typical 25-year lifetime of the solar PV         panels.
+Enecsys presents analysis of expected total lifetime maintenance         costs for a typical installation that shows reduction from GBP3000 using         string inverters to just GBP500 with Enecsys micro-inverters.
+PowerPac,         a UK distributor notes that "[Enecsys] maintenance levels are           significantly less" (Ref 10).
+Safety for system installers working at roof-top level is improved,         because Enecsys micro-inverters eliminate the need for high DC voltages.
+The Managing Director of Powercon BV, who has 30 years' experience of         the PV industry, said "I've become aware of the safety issues           affecting solar installations" and chose Enecsys micro-inverters         for the installation on his own house "because the system is safer           due to the lower operating voltages" (Ref 9).
+In addition to selling micro-inverters for permanent roof-top solar PV       arrays, Enecsys has worked with PV-panel manufacturers to create plug-in       solar power solutions in the home.
+The home owner sets up the solar PV       panel and simply plugs it into a standard mains outlet in the house.
+The       Enecsys micro inverter manages the conversion to alternating current and       synchronisation with mains electricity.
+In this way, the home owner       benefits from solar power substituting for grid power without any need for       expensive, professional installation.
+These kits sold by retailers in the       range from 200W to 1kW.
+Sales figures were not released (Ref 7).
+The Global Cleantech Group, a leading global research and advisory firm       focused on innovation in energy and the environment, listed Enecsys in its       Global Cleantech 100 awards in each of 2010, 2011 and 2012 (Ref 12).

@@ -1,0 +1,20 @@
+     A new vibration damping material for hollow blades (Araldite 1641) is         now used as a filler         for guide vanes on more than 2000 aircraft engines [text         removed for publication].
+Fan outlet guide vanes are non-rotating aerofoils that guide air flow       from the fan and support the       engine core.
+To minimise weight, vanes [text removed for publication]       comprise a titanium skin       into which lightweight, polymer-based filler is pumped.
+[text removed         for publication].
+The pathway to impact of our research was straightforward: work on       syntactic foams was directly       funded by Rolls-Royce with the specific aim of addressing the above       problems.
+The research was       in collaboration with Huntsman Advanced Materials, a commercial company       specialising in       chemicals.
+The Sheffield group's distinct contribution was to understand       how the chemical and       microstructural properties of the prototype materials were related to       desirable behaviour during       component assembly and in-service use.
+Meanwhile, the Huntsman group       contributed the       chemical formulation and production of the prototype materials.
+[text removed for publication] Our findings motivated an iterative       development activity [text         removed for publication] to create a material that would surpass       previous materials in damping       and be excellent for component assembly, or blade-filling.
+For each       material iteration, we used in-       house finite element modelling techniques to specify the properties of the       material required and       our numerical homogenisation-based model to specify the constituent parts       required.
+Huntsman       then produced the material, and we evaluated its performance.
+The end       result was a new       commercial syntactic foam comprising a blend of several different polymers       reinforced by glass       and thermoplastic microballoons.
+This was marketed by Huntsman as Araldite       1641.
+[text removed for publication]     The component life is increased by approximately 10%.
+This has reduced       annual maintenance       costs for the engine owners/operators     [text removed for publication]     A revolutionary fan filled with syntactic foam has been developed       [text removed for         publication]     Full-scale rotation and impact tests carried out by Rolls-Royce on fan       blades filled with syntactic       foams [text removed for publication] showed that viscoelastic       filler materials required significant       improvements in creep and impact strength if used in rotating blades.
+To       address this, we       conducted further research in collaboration with Huntsman (material       supply), University of Oxford       (very high strain rate tests), University of Nottingham (blade filling       methods) and Rolls-Royce [text         removed for publication].
+In addition to material design, our       contribution included the       understanding of creep and failure of the material [text removed for         publication] and included the       development of bespoke predictive software `JM63' for performing Finite       Element analysis of       components that incorporate syntactic foams.
+A particle damper for an aero-engine fuel pipe is in use on 580         engines     [text removed for publication] Using the understanding gained from       our research (e.g.
+the required       mass, shape, particle type and fill ratios), we guided Rolls-Royce       engineers in the design of a       suitable particle damper [text removed for publication].
+The       economic impact is that this damping       technology has been adopted in [text removed for publication] more       than 580 engines [text         removed for publication].

@@ -1,0 +1,47 @@
+     There are economic and social impacts.
+The economic are the ongoing       start-up, patent citation, and others' products.
+The social are: improved       public services for cities, education, and tourists; input to standards,       and enabling use of outcomes and technology by others.
+Background Gartner defines context-aware computing as the       concept of leveraging information about the end user to improve the       quality of the interaction and considers it a growth market [I1].
+Pathway to impact     The pathway to impact included a start-up company, external recognition       through awards and publicity in mainstream media with commercial       demonstrators based on underpinning work in ambient, context-aware and       mobile computing.
+Funding, for the start-up, AmbieSense Ltd., registered in 2005       began through a Royal Society of Edinburgh Enterprise Fellowship       for G&#246;ker (&#163;65K, 2004-2005) and access to business mentoring.
+A Technology       Transfer Entrepreneurship (EPSRC) and funding from Scottish Enterprise and       Grampian followed (&#163;20K, 2004-2005; &#163;4K 2004-2006).
+Mirrored support from       Innovation Norway (&#163;60K, 2005-2006) along with investor funding focused on       SINTEF hardware used.
+AmbieSense Ltd. has grown organically since, with a       maximum of eight staff and consultants.
+External awards showed the relevance of the work to industry and       commerce.
+G&#246;ker was a finalist in the highly-competitive Blackberry         Women in IT Award (2005), and part of a team that was selected for       the Entrepreneurship Development Program (2009) at MIT (Massachusetts         Institute of Technology) Boston, USA.
+Commercial demonstrations were presented by AmbieSense Ltd (e.g.
+[I2]).
+This continued to build on EU-AmbieSense media coverage around very large       scale trials in Oslo Airport and Sevilla city centre with 238 users, 438       responses to surveys (see also [R6]).
+The press coverage included       UK, Spain, Germany, Norway, and Euronews.
+BBC Radio Scotland and Scotsman       on Sunday were amongst mainstream media.
+Reach &amp; Significance     Economic Impact     Ongoing start-up: AmbieSense Ltd. is an ongoing business that was       based on our underpinning ambient, mobile, and context-aware       research.
+It continues to provide innovative products and services for the       distribution and delivery of content in mobile environments.
+Using       contextual information has enabled AmbieSense to remain competitive and       maintain technological edge as an SME [I3].
+In 2008-2013 it had up       to seven employees/ consultants, without VC/Angel funding applications.
+Patent citation: The underpinning work on context-aware search,       user logs and sessions was cited by a Microsoft patent US7657519 [I4],       which follows an earlier citation by Lucent-US7194454.
+Mobile Apps: The research outputs of EU-AmbieSense on mobile         contexts have been used to produce apps offered by Lonely Planet       (Citysync on PalmOS, later mobile guides with Java support) and Oslo       Airport (19.5 million passengers, Jan-Oct 2013, app for download to       mobiles via website and airport wifi).
+Social Impact     The main impact is social through children's history trails and tourists       via Seville-Spain, Bunratty-Ireland.
+Further social impact is through       contribution to standards and enabling others' work.
+History trails: AmbieSense Ltd. designed and developed a       historic Victorian trail for Aberdeen city centre, for public sector       customers Aberdeen City Council and Aberdeen Environment Education.
+The       route has 20 points of interest and was aimed primarily at school children       8-12 years old.
+The products and service spanned a five year period       (2004-2009), In the period 2008-2009, it involved around 1000 users, with       6-8 guided trails a month being carried out in term time, each with around       20-40 students.
+Teachers were able to choose between a paper-based and       mobile version of the trail for use.
+The mobile system was used for around       30%-50% of the trails.
+The hardware devices are still fully functional       after almost ten years.
+The core images and text were originally supplied       by Aberdeen City Council and the trail provided a data-recording and       interaction mechanism, via email, to help the users share their       experiences.
+The system was reported by end-users to be both engaging and       educational [I3, I5].
+Tourist trails, remote sites: In 2007-08, AmbieSense       developed a mobile guide for the Bunratty Castle and Folk Park experience,       in collaboration with Failte Ireland, Shannon Heritage and the University       of Limerick Tourism Department.
+The mobile guide was designed to encourage       visitors to explore the Folk park and particular areas that had been less       explored and often unmanned.
+The technology has also enabled other       projects including Historic Scotland's Living History (2011-present) [I6].
+This includes AmbieSense's wireless information points and a mobile app       for visitors to Historic Scotland sites that will improve the delivery of       information at remote locations.
+It exemplifies our holistic approach to       impact where we recognise that different staff can pick up others'       research in new projects (REF3a).
+Public service in cities and tourists: Sevilla city council       (Sevilla Global), as part of an ongoing wireless and Smart Cities       initiative, provided (until 2009) the AmbieSense platform as an example of       the application to develop new public services.
+The services included the       use of wireless information points and mobile city content.
+Furthermore,       Sevilla through its participation in TURAS project (www.turas-cities.org,       Nov 2011), put forward its AmbieSense infrastructure to help cities       develop resilience and sustainability.
+Sevilla is one of Europe's top       destinations.
+(e.g.
+2 million tourists /year 2011-2012).
+Professional Services Impact     Standards and open source: The AmbieSense context and user       model is now available via Github as an open-source Java project.
+Also,       there is an impact on standards.
+The model has been used as part of a       recently-submitted contribution towards MPEG standards on user models [I7].
+The standard is used by software developers for multimedia content storage       and delivery.

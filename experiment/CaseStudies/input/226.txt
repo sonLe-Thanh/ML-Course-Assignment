@@ -1,0 +1,41 @@
+     All modern semiconductor devices depend on highly reproducible,       nanometre-scale multilayer engineering for dielectrics, semiconductor       doping and heterostructures.
+The FLIG system has enabled semiconductor       companies to develop new generations of devices with ever increasing       miniaturisation and hence has been an essential technology in the       development of all modern electronics.
+The nanoanalysis capability that       the FLIG provides has contributed to the creation of many of today's small       computers, mobile phones, communications &amp; entertainment technologies.
+Research and process development at this level requires analytical tools       with sufficient sensitivity and spatial resolution to measure prototype       and production wafer compositions accurately, and uleSIMS is a key method       in this area.
+Dowsett's prototype FLIG-based SIMS instrument (EVA 3000)       was the first SIMS instrument in the world capable of routine SIMS       analysis at energies down to 200 eV.
+Subsequently, the IP for the FLIG was       licensed to Ionoptika Ltd (UK) and the Atomika Instruments GmbH 4500 SIMS       depth profiler was specifically developed as a vehicle for the FLIG.
+This       was the world's first commercial instrument with ultra-low energy SIMS       capability.
+Since its initial development in late 1993, its commercialization for OEM       application by Ionoptika Ltd. [10] and the first sale to Intel of a       FLIG-based instrument in 1996 by Atomika Instruments GmbH [11], the FLIG       has been in constant use in the R&amp;D laboratories of the world's major       semiconductor and technology companies, such as AMD, Fibics, IMEC       (Belgium), Intel, MA-tek, Motorola, Nichia, Osram, Toshiba, TSMC4, and       around 20 more worldwide, as well as in universities such as Imperial       College, NUS (Singapore) &amp; Warwick [12].
+The FLIG was the founding product for Ionoptika Ltd. Their CEO says:       "I would point out the benefit to my company, a small British enterprise,       only recently started up at the time that we took on the FLIG licence from       the University of Warwick.
+The FLIG quickly became the mainstay of our       business and remained so for the next 6 years.
+In that time it earned us       close to &#163;4M in revenue...
+However, the biggest impact is yet more       significant.
+This unique ion beam system has held its place as the state       of the art in shallow depth profiling from the day of its first       application in the Department of Physics at Warwick right up until the       present.
+Nothing else matches its depth resolution (measured in Angstroms)       and etch rates.
+The FLIG gave the semiconductor companies the ability to       develop new generations of devices with ever increasing miniaturisation.
+So, the FLIG was an essential technology in the development of all modern       electronics..." [10].
+Through mounting FLIG systems onto instruments by Atomika, and more       recently Cameca ISA, further sales worth tens of millions of pounds have       been generated and it remains an integral part of the Atomika (Cameca)       range of SIMS instrumentation [13].
+Ionoptika continues to supply the FLIG       amongst other instrumentation that includes state-of-the-art       time-of-flight-SIMS.
+Substantial royalties have also been paid to the       University of Warwick, the inventor, and the Paul Instrument Fund (who       recovered their initial investment).
+The impact of FLIG-based tools has been continuous since 1996 and       continues to grow alongside the expansion of microelectronic technology       into every area of modern life.
+They are in routine use today as process       control tools for the most demanding silicon industry, such as Intel,       where they have contributed to the development of PentiumTM,       XeonTM and CoreTM i7 (2008-date) processors:       "The development of the floating low energy ion gun (FLIG) by Professor       Mark Dowsett and his colleagues at the University of Warwick in the early       1990's was one of the most significant developments in analytical       instrumentation in the last 20 years.
+The refinement of the design and the       subsequent implementation on commercial SIMS instrumentation enabled       reliable, fast and accurate SIMS depth profiling of thin layers and       ultra-shallow junctions.
+This capability was critically important to the       semiconductor industry that was in an era of continuous junction scaling.
+Intel was an early adopter of the FLIG technology in the mid 90's and the       FLIG remains a key capability in our laboratory today."
+[14]     FLIG-based tools are routinely employed in research on established       electronic materials and new semiconductors, such as diamond, carbides and       nitrides [15].
+The high resolution depth profiling enabled by FLIG-based       tools is invaluable in developing a wide range of generic semiconductor       devices and other technologies, such as dynamic random access memory       (DRAMs) central to all computer data storage, quantum wells e.g.
+for GaN       light emitting diodes (LEDs), silicon germanium alloys, and high and low-k       dielectrics.
+Furthermore, the FLIG has had;       "... wider impact in organic electronics, pharmaceuticals, medical devices       and the characterisation of nanoparticles ... Dowsett and colleagues       pioneered the development of floating low energy ion gun technology (FLIG)       to achieve the high depth resolution necessary for inorganic       semiconductors.
+This continues to be state-of-the-art for the       semiconductor sector."
+[16]     To date, there are over 1,000 Google hits on FLIG associated items.
+Dowsett's name for the ion gun and its acronym FLIG, although trademarked       by Ionoptika (US         Trademark No.
+75047263), have become generically synonymous with       this type of technology.
+There are at least 100 peer reviewed papers, from       a wide range of international academic and commercial bodies, that       acknowledge use of the FLIG or Atomika / Cameca 4500, 4550 and 4600       instruments and hundreds of presentations at semiconductor workshops [e.g.
+17], which are the principal means of dissemination in the industry.
+Use       of the FLIG has spread well beyond its original technological drivers of       silicon, silicon germanium [17] and gallium arsenide, into nanotechnology,       diamond electronics, and cultural heritage [18].
+Finally, the SIMS response function developed, in 1994, by Dowsett to       relate the data obtained from a SIMS instrument to the underlying material       profile has given rise to a current ISO standard (ISO         20341:2003) [19].
+The function itself is thus also a significant       outcome of the original FLIG development.
+It is becoming known in the       field as the `Dowsett Function' [20] and has become important both for the       semiconductor depth profiling community and outside of the original       research field in the new science arising from depth profiling of organic       materials [21].
+"... the Dowsett function could be used to characterise the sputtering       process in these very different materials ...
+This now allows modern       organic electronic devices to be imaged in 3D with exquisite chemical       detail."
+[16]

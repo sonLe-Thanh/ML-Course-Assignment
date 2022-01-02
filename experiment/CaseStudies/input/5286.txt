@@ -1,0 +1,24 @@
+     Codes developed from the research have been used commercially, both       directly and in modified form.
+Numerical Rocks, a company spun out from       Statoil (the Norwegian state oil company) in 2005, and which merged with       an Australian Group, Digicore in 2011 to form LithIcon, uses the same       concepts for network modelling and employs the network extraction       algorithm developed at Imperial [6].
+Lithicon now employs over 50 people       worldwide and has an annual turnover in excess of $15 million.
+Lithicon's       Chief Technical Officer writes [A]: "the importance of this work cannot         be overstated: Predictive capabilities are the main reason why companies         such as Shell, Chevron, ADCO, Total and Statoil are users of digital         rock services.
+In addition, Imperial College has published algorithms         and methodologies that have enabled other researchers and companies to         reproduce the methods and enabled internal quality control of digital         rock analysis.
+This has contributed significantly to the rapid growth of         digital rock services in the petroleum industry."
+iRock Technologies is a start-up company, based in Beijing, that exploits       the technology developed at Imperial College.
+The CEO is Dr Hu Dong, a       former researcher in Prof Blunt's research group at Imperial, while Prof       Blunt himself is Chief Scientist.
+To quote from their website: "iRock         Technologies provides digital special core analysis (SCAL) software and         services to national and international oil companies.
+We leverage years         of research from the Imperial College Consortium on Pore Scale Modeling         to provide comprehensive reservoir insights that can affordably improve         recovery factor for oil and gas companies worldwide."
+iRock       Technologies works with the China National Petroleum Corporation and other       major companies to assess conventional and unconventional (shale)       hydrocarbon reservoirs.
+The company was founded in 2010 and employs 20       people with an annual turnover of more than $4 million [B].
+The methods have also been used directly internally in several major oil       and service companies, including Chevron, KOC (Kuwait), Shell, BG and       Schlumberger.
+The research continues with total current industrial funding       of &#163;220,000 per year from Total [C], Petrobras, JOGMEC, Statoil and BG.
+The research has been applied to predict flow properties in hydrocarbon       reservoirs that are difficult or impossible to measure directly.
+It allows       a much more detailed and accurate characterization of oil, water and gas       flow, allowing better design of oil and gas recovery.
+This has resulted in       savings in operating costs and additional hydrocarbon recovery, and helped       inform management decisions for oilfield development [C].
+In addition, the       technology is now being used to appraise unconventional resources, such as       shale gas [B].
+One example of the use of this technology, reported in the Society of       Petroleum Engineers conference proceedings, paper SPE 163331, [D] was to       manage the pressure decline in a large oil reservoir (Marratt) in the       Middle East, operated by KOC (Kuwait Oil Company) while avoiding problems       associated with the precipitation of asphaltenes (tar-like components of       the oil that restrict flow).
+The use of digital rock technology led to         savings of over $25 million in the cost of production operations to KOC,         and boosted recovery by 10 million barrels (worth around $100 million).
+The same ideas are now being applied the world's largest sandstone       reservoir (Greater Burgan; the second largest oilfield in the world)       operated by the same company [E].
+This is just one of dozens of uses of       the technology worldwide: these were discussed, for instance, at the 2013       Annual Symposium of the Society of Core Analysts [F].
+As other examples, the Principal Reservoir Engineer at Shell confirms       savings of "$3-4 million" for just for one reservoir alone using       this technology and points to recovery improvements of around 500 million       barrels for transition zone carbonate reservoirs, which are difficult to       describe and manage using conventional technology [G].
+A senior Petrophysicist at BG also points to recovery improvements in       this type of reservoir and cites our work on the Panna field (offshore       India) as an example of the use of the technology: he presented this case       study to engineers in Brazil in May 2012 [H].

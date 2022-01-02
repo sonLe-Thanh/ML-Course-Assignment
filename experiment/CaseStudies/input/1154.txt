@@ -1,0 +1,41 @@
+     Following the first publications on emissive lanthanide complexes in the       late 1990s, several companies independently contacted the Durham chemists       and began to support research in Durham.
+These included: Sensors for       Medicine and Science (1999-2001, Gaithersburg USA; Parker became a       foundation shareholder); Molecular Devices (2004-7, Sunnyvale,       California); and CISbio Bioassays (2005-2014, Codolet, France).
+In 2007/8,       Molecular Devices marketed an assay [Im1] for high throughput screening of       kinase inhibitors using a nanoparticle labelled with a Tb complex       developed in Durham [6], a five-figure deal was agreed with the       University, and it was protected by a primary patent (US Patent 7,517,701,       3 named Durham inventors) [Im1].
+Consecutive direct grant support from the       French firm CISbio developed new bright Eu complexes for time-resolved       assays protected by 4 patents (most importantly: "Nouveaux agents       complexants et complexes de lanthanide correspondant et leur utilisation       comme marquers luminescents", French Pat.
+No.
+1000118536; filed January       2013).
+These products, based on Durham research [5], are being considered       for commercialisation [Im3] as potential replacements for the emissive Eu       cryptate complexes used since the mid-1990s in high throughput,       time-resolved assays for the pharmaceutical industry.
+A Durham University spin-out company FScan Ltd [Im2] (company number       6550089), was set up in 2009 to examine the use of various anions as       screening biomarkers using responsive luminescent probes.
+Initial support       was via the EPSRC follow-on-fund (EP/G004773; &#163;99K) and subsequent support       was raised from the regional NStar Finance company (&#163;190K), the Northern       Universities N8 METRC fund (&#163;50K), and Ocean Optics Inc. ($10K).
+Granted       patents include EP 2041571 B1 and US patent 8193174.
+The FScan-related research led to a test of Durham complexes in screening       men for prostate cancer, by measuring citrate levels initially in       prostatic then in seminal fluid samples (1 microlitre only needed) [4,7].
+Ethical approval in late 2009 allowed an NHS study of 60 patients to be       undertaken in 2010/2011 with the James Cook University Hospital, Teesside       [Im4].
+This showed that a distinction could be made between patients with       high or intermediate grade prostate cancer from those with low-grade       cancer or benign hyperplasia.
+The first UCLH trial (Mark Emberton,       clinical lead, 240 patients) is underway, 80 samples have been measured       (Oct. 2013) and it will compare citrate screening with more expensive       methods such as those based on MRI and MRSI.
+International publicity in 2009 [Im5] for the citrate test for prostate       cancer raised significant public &amp; commercial awareness.
+The story was       carried by Reuters and reported in over 50 countries and in at least 30       magazines and papers (e.g.
+as a front page lead in the Daily Express; page       3 of the Sun; also in the Hindu in India).
+Live interviews were given on 5       radio stations in the UK and Eire and it was covered in Channel 4 News and       on the BBC web site.
+Figure 1.
+Publicity and science behind the FSCan prostate cancer diagnostic test and FScan&#8217;s Robert Pal undertaking related outreach demonstrations.
+The optical instrumentation developed in this work has also been       incorporated into the "Spectroscopy in a Suitcase" outreach project.
+This       allows the distribution of portable spectroscopy equipment to schools       throughout the UK.
+Since September 2010, over 5000 pupils and members of       the public have been educated and entertained by 35 on-site demonstrations       by a team led by Dr A Beeby.
+Examples include demonstrations of Eu       emission (e.g.
+on the &#8364;10 note) following UV excitation, and the       biomedical applications of emissive complexes are explained to attendees.
+Durham's research-derived expertise in lanthanide coordination chemistry       has also had major impact in the healthcare arena, particularly through       changes in FDA regulations surrounding Gd contrast agents used in millions       of MRI scans every year.
+This arose from the key scientific arguments and       insight Parker provided between 2008 &amp; 2013 [Im6,8] to Cleveland       lawyers developing the plaintiffs' case in a multi-district litigation       around the recently defined disease, nephrogenic systemic fibrosis (NSF).
+In 1993, Parker stated [8] that macrocyclic contrast agents, "are more       kinetically stable in vivo than DTPA-based ligands, and should       avert long term (i.e.
+chronic, rather than acute) toxicity problems".
+These concerns proved prophetic.
+In 2005/6, the fatal condition,       nephrogenic systemic fibrosis emerged, mostly in diseased renal patients.
+A link was made to the "unsafe" use of DTPA-based Gd contrast agents that       are susceptible to acid promoted dissociation, particularly GE       Healthcare's Omniscan and the related Optimark product.
+Durham advised the Ohio law firm involved via an initial 12 page report       followed by a formal court deposition involving 8 hours of video/oral       defence in London in September 2010.
+On January 24 2011 GE Healthcare       acknowledged these arguments and settled the first and four subsequent       "bellwether trials" out of Court; each was linked to scores of cases with       undisclosed settlements [Im 6,7].
+Parker continued to advise the       prosecution for the first case involving a single individual to come to       Court in March 2013.
+The Court asked GE Healthcare to pay $5M to Mr Paul       Decker, who had been rendered an invalid following one Omniscan MRI scan       in 2005 [Im7,8].
+In December 2009, the FDA issued new guidelines to the radiology       community advising against the use of DTPA based systems in renal       patients.
+This minimised risk to the 40 million patients each year that       undergo a Gd-assisted MRI scan.
+Since its launch, the DTPA-diamide       contrast agent Omniscan has been used in over 50 million MRI procedures at       a cost of around $30 per scan.
+Omniscan's share of the Gd contrast agent       market fell from 32% in 2005-7 (ca $130M) to just 10% in 2012.
+Macrocyclic       contrast agents are likely to dominate this market in future.

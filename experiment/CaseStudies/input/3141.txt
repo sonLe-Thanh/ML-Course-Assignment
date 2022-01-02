@@ -1,0 +1,30 @@
+     The need for effective treatments of obesity is substantial; the       incidence of obesity has increased rapidly in the last two decades and,       worldwide, one in every nine adults was obese in 2008 [see Section 5, C1].
+The disease burden associated with obesity and overweight now accounts for       &#163;5 billion of NHS spending a year [C2].
+Reversal of these trends and their       impact on both quality of life and health-care budgets will require       substantial lifestyle alteration involving both voluntary activity and       diet, although medical treatment of severe and morbid obesity, including       the use of anti-obesity drugs and bariatric surgery, will remain       important.
+The research described above had several material impacts on the       development and subsequent introduction of serotonin 2C receptor agonists       for the treatment of obesity.
+The primary impact was the launch of       lorcaserin as `first in class' serotonin 2C receptor agonist treatment for       obesity in June 2013.
+The research described in R1 was first published in Abstract form in June       1998.
+It indirectly supported a round of fundraising by Vernalis1       which allowed the initiation of the collaborative programme of research       between Vernalis and Roche for the development of serotonin 2C agonists.
+The work attracted considerable interest and it soon became clear that a       number of other companies had initiated drug development programmes in       this area after our work was published and Vernalis had announced the       Roche collaboration.
+Phase 1 studies of selected compounds were initiated       by Vernalis in 2001.
+Positive Phase 1 and 2 results on lorcaserin were       reported during the early 2000s.
+Vernalis and Roche decided that the range       of compounds that they had developed was not sufficiently selective,       especially in relation to the serotonin 2A vs serotonin 2C receptor, and       discontinued the project.
+This coincided with a broader strategic decision       by Roche, and subsequently by Vernalis, to focus towards cancer, and away       from psychiatric and other neuroscience-related areas, including obesity.
+The development of lorcaserin by Arena started in the early 2000s, after       the publication of R1, and the key description of the drug was provided by       Thomsen et al.
+2008 [C3] which cites R1 above.
+The Chief       Scientific Officer of Arena has confirmed the importance of this reference       in providing the scientific rationale for the drug development programme       [C4].
+His statement reads:     The development of 5-HT2C agonists for weight management was       largely based upon the clinical efficacy of fenfluramine, and in       particular the understanding that the efficacy of dexfenfluramine could be       explained by activity at the 5-HT2C receptor: A key piece of       evidence in this regard was the finding by Vickers et al.
+(1999)       that the effects of dexfenfluramine are absent in 5-HT2C       knockout mice.
+The Chief Scientific Officer, InterVivo Solutions, who has been       responsible for several serotonin 2C receptor agonist development       programmes, confirmed this point, stating:     I can assure you that the Vickers paper has made a significant       contribution to the development of 5-HT2C agonists as       treatments for obesity.
+In 1999, as I recall the dfen/5-HT antagonist       studies were pretty inconsistent with respect to 2C involvement and the       Vickers paper probably gave the most direct support that d-fen effects       were at least partially 5-HT2C mediated [C5].
+Phase 3 studies for lorcaserin were published in C6 and, as noted above,       lorcaserin received approval for general introduction in June 2012 but was       also referred to the Drug Enforcement Agency for consideration of abuse       liability.
+This was rated low in April 2013, allowing marketing of the       drug to commence shortly thereafter.
+It is the first obesity treatment to       have been approved by the FDA since their approval of the lipase inhibitor       Orlistat in 1999.
+As noted above, scheduling of lorcaserin by the DEA was       completed in April 2013 and the drug became available for prescription in       the United States in June 2013.
+Sales by Eisai (Arena's marketing partner)       in the first three months totalled $9M (C7) and the most recent       independent estimates suggest likely sales of $500 million in 2015 [C8].
+Other companies are also continuing to develop novel serotonin 2C       agonists for the treatment of obesity.
+An example is Bristol-Myers Squib       whose publication [C9] cites R1 and R6 above, as well as several others       publications from Clifton's laboratory.
+These papers are also cited in the       patent applications for this series of compounds.
+1'Vernalis' is used to identify the partner firm throughout.
+However, the corporate history is that Vernalis is the current name of the     firm that merged with Vanguard in 2003, and Vanguard acquired Cerebrus in     1999.
+It was Cerebrus who was the original partner &#8212; the collaboration     continued with both Vanguard and Vernalis.

@@ -1,0 +1,41 @@
+     Surveying current practice in the UK     To determine the extent of clinical adoption in the UK of UVB and       azathioprine on treatment of adult patients with refractory       moderate-to-severe atopic eczema outwith an acute flare, a survey of       current clinical practice was conducted.
+This was done in June 2013 by       Newcastle University researchers, through the UK Translational Research       Network in Dermatology and the UK Dermatology Clinical Trials Network (Ev       a).
+The design and implementation of the survey instrument was validated       by an independent consultant.
+The 61 completed responses from 310       consultant dermatologists surveyed were in line with expectations for this       type of research.
+Survey outcomes are discussed below for each of the       treatments and should be seen in the context of the estimated number of       new adult referrals in the UK per year.
+Responses from the consultant       dermatologists surveyed revealed an estimated 28,400 new referrals for       refractory moderate-to-severe atopic eczema in adults per year across the       UK.
+Narrowband UVB in guidelines and clinical practice     In 2012 a number of European dermatology societies, including the       European Academy of Dermatology and Venereology, European Task Force on       Atopic Dermatitis and European Society of Pediatric Dermatology, published       a consensus set of guidelines on treatment of atopic eczema.
+On UV       phototherapy they state:     `There is evidence that UV-therapy can be used in AE [atopic       eczema] to relieve pruritus [itch].
+Narrowband UVB seems to be         most preferable' (Ev b)... `Narrow-band UVB was more         effective than UVA' (Ev b).
+That recommendation cites and is largely based on Farr and Reynolds' 2001       trial results (R2): it is the only randomised controlled trial cited in       support, and Reynolds' was a significantly larger study than the other two       half-body comparison studies (which also reported later).
+The results of the 2013 Newcastle run survey of UK practice indicated       that phototherapy (using any one of a number of wavelengths of ultraviolet       radiation) was the most popular first-line treatment option for       moderate-to-severe refractory atopic eczema that was not controlled by       topical treatment.
+Phototherapy was chosen by just under half (46%) of       respondents, probably reflecting the widespread availability of       phototherapy units.
+Of those considering this approach, over 93% selected       narrowband UVB as their first choice, indicating that UVB phototherapy       (trialled by Newcastle) has been widely adopted across the UK as a       treatment for refractory atopic eczema.
+Based on the reported numbers of       patients treated by the consultant dermatologists in the survey, it is       estimated that about 8,200 patients are treated with or referred for       narrowband UVB phototherapy each year in the UK.
+Azathioprine in guidelines and clinical practice     The British National Formulary (BNF) is a standard resource for UK       clinicians, aiding decisions on which drug to use when treating a       particular disease.
+A full entry on azathioprine first appeared in the       skin section of the Formulary in edition 59, March 2010 (Ev       c).
+It states that azathioprine should be considered for severe refractory       eczema, and there is accompanying dosing guidance based on the thiopurine       methyl transferase (TPMT) activity of individuals, as first used by       Newcastle researchers.
+TPMT is an enzyme present in humans that       metabolises azathioprine and similar drugs.
+Genetic variation in the       population means that the drug is broken down at different rates by       different individuals.
+Patients with no TPMT activity should not receive       the drug.
+The dosing guidance of 1-3mg/kg/day for normal or high TPMT       activity, 0.5-1mg/kg/day for low TPMT activity reflects the doses used in       the Newcastle University-led trial (R3).
+A British National Formulary       clinical writer has stated,     `I can confirm that the paper by Meggitt SJ, et al .... Lancet 2006)         was used, among others, to inform this content change [the BNF entry       on azathioprine for atopic eczema]' (Ev c).
+In 2011 the British Association of Dermatologists published guidelines on       the safe and effective prescription of azathioprine for a variety of       dermatological conditions.
+On use of the drug for atopic eczema, the       guidelines state:     `Although azathioprine is not licensed for use in atopic eczema, there         is now strong evidence (from two RCTs) for a statistically significant         and clinically meaningful response to azathioprine.
+Both studies used         the drug as oral monotherapy in moderate-to-severe, refractory disease.'
+(Ev d)     The Newcastle University trial (R3) was the larger of the two studies       referred to and was the only one to employ dosing based on the TPMT       activity of patients.
+The guidelines specifically highlight the importance       of TPMT assessment in the clinic for avoiding drug toxicity.
+This trial       was also cited as significant underpinning evidence in an influential 2011       systematic review of several studies in which azathioprine had been used       off-label for treatment of skin diseases.
+The review contains a `strong         clinical recommendation ... for azathioprine in atopic dermatitis'       on the basis of high-quality level A evidence (Ev e).
+The Newcastle run 2013 survey of UK dermatologists (Ev a) indicated that       azathioprine has been widely adopted in the UK as a treatment of       moderate-to-severe refractory atopic eczema.
+Systemic therapy was the most       popular second-line treatment option chosen by 49% of respondents, and it       was also the second most popular first-line treatment option, chosen by       36% of respondents.
+Of those considering systemic therapy, azathioprine       was the most popular first-line choice of drug (46% of respondents).
+There       is evidence that because of its better safety profile than ciclosporin,       azathioprine is facilitating longer-term control of symptoms (for example       suppression of itching) in patients.
+Thus, the median length of       azathioprine treatment reported in the survey was 13 - 24 months compared       with three to six months for ciclosporin &#8212; the next most commonly used       drug.
+Almost 95% of respondents agreed/strongly agreed that TPMT level at       baseline should guide the choice of initial dose, a dosing strategy       pioneered by Newcastle.
+Based on the reported numbers of patients treated       by the consultant dermatologists in the survey, it can be estimated that       about 4,470 patients begin treatment with azathioprine each year in the       UK.
+Beyond the UK, the 2012 European guidelines on treatment of atopic eczema       recommend that azathioprine be considered for moderate-to-severe disease.
+They state (citing R3 as supporting evidence):     `Azathioprine may be used (off label) in AE [atopic eczema]         patients, if ciclosporin is either not effective or contraindicated.
+Patients should be screened for TPMT activity before starting         azathioprine therapy to reduce the risk for bone marrow toxicity by dose         adaptation.
+The suggested dose range is 1-3 mg2044 kg bw 2044 day.'
+(Ev         f)     There is little data on the extent of use of azathioprine in the adult       patient population across Europe, but a recently published survey of       paediatric dermatologists across the continent found that the drug was       prescribed as a first-line treatment in a fifth of cases of severe eczema       in children (Ev g).

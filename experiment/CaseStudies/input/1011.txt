@@ -1,0 +1,41 @@
+     Our research has identified 30 genetic mutations associated with a range       of inherited disorders       and enabled us to develop definitive diagnostic tests which have       subsequently been made       available by laboratories around the world.
+Every novel molecular defect       identified opens up new       avenues of research for what can be previously undefined or little known       conditions.
+Impact on health and welfare     Many thousands of patients have now been tested for mutations in the       disease genes we have       identified.
+We sought to quantify this by contacting directly the labs       offering tests.
+In total 353 laboratories offering molecular genetics testing are listed       on the Orphanet web site,       which is primarily European, while the Genetests website lists over 600       such laboratories, with a       greater emphasis on laboratories from the US and elsewhere (data confirmed       19/9/13).
+There is       little overlap, with laboratories tending to list on one site or the       other, and neither list is       comprehensive.
+It therefore seems likely that over 1000 laboratories       around the world offer some       form of genetic testing.
+Of these, 268 now offer a screen for GJB2       (Connexin 26, ref 2).
+We       contacted these and 15 responded, including 4 UK, 2 US and 9 European       laboratories, stating that       they carry out a total of around 1270 GJB2 tests per year, with       figures based largely on 2012 [A].
+Recognising that this is a small sample, it does allow us to infer that       perhaps in the order of 20,000       GJB2 screens may have been carried out in 2012 internationally, and our       survey suggests that       GJB2 screening is increasing [A].
+From the same sources above we       identified 37 laboratories       providing tests for the other genes noted.
+A definitive diagnosis can be essential for patients who put a premium on       knowing the cause of       their condition.
+It can also have a substantial impact on their future       care.
+More than a half of all       patients with a genetic disease used to wait more than a year for a       diagnosis, and are frequently       given incorrect diagnoses [B].
+The lack of an accurate test can mean       fragmented care with       different specialities and often unnecessary invasive clinical procedures       [B].
+Carrier and prenatal       testing can hugely reduce the impact on families carrying a defective gene       by allowing them to       make informed reproductive choices [B].
+A clear genetic diagnosis       establishes the risks in future       pregnancies and allows prenatal diagnosis.
+This is particularly important       for disorders which are       fatal     For many of the genetic conditions for which we have identified the       cause, genetic diagnosis       establishes the likely natural history and enables early intervention       improve the outcome for the       patient.
+Important examples include close surveillance for the seizure       disorders, hearing loss and       renal failure which are part of East syndrome (KCNJ10) [C].
+Early       identification of children with       ASPM (microcephaly) mutations established the specific diagnosis in a       syndrome with a wide       range of different causes [D].
+Deafness is one of the most common major       abnormalities present at       birth and a child with undetected hearing loss is at risk of failing to       develop normal speech and       language [E].
+Presymptomatic identification of children with inherited       hearing loss, only possible       through genetic testing in high-risk families, permits the initiation of       treatment, notably the fitting of       hearing aids, at a very early age, significantly improving outcome [E].
+The conditions for which we have identified a genetic cause are       relatively rare.
+For example       around 1 in 4000 individuals are affected by autosomal recessive deafness,       primary microcephaly,       Aicardi-Goutiere syndrome, and Joubert/Meckel syndromes.
+The burden of       congenital disease in       some populations and families is approximately doubled due to the practice       of consanguineous       marriage.
+Many characteristics of these conditions are mimicked by       non&#8212;genetic conditions, so       despite being rare, there are many patients for whom a test provides       crucial information.
+For       example 800 children are born every year in the UK with congenital hearing       loss, about 25% of       which is due to mutations in Cx26, but all warrant testing.
+Microcephaly       is the presenting complaint       of a wide variety of neurological disorders but all such cases should be       tested for mutations in       ASPM and MCPH1 as the commonest causes of primary microcephaly [D].
+Aicardi-Goutiere       syndrome can only be distinguished from congenital TORCH infection by       genetic testing, obviating       complex invasive clinical tests of doubtful value [F].
+Impact on public policy and services     In recent years we have been at the forefront in the utilisation of Next       Generation Sequencing       (NGS) to identify disease-causing variants.
+Due to our close links with       the Yorkshire Regional       Genetics Service we have been able to facilitate the introduction of NGS       into the NHS laboratory,       this is the first NHS laboratory in which NGS analysis has been accredited       for service provision [G].
+It has always been a key goal of our work to make our research freely       available.
+Around 20 years       ago, efforts were made by US researchers to patent gene sequences to limit       the widespread       adoption of clinical testing.
+We were among the majority of UK and       European researchers who       rejected this policy in order to provide genetic testing to as many       patients as possible.
+The       software and data available on our website ( http://dna.leeds.ac.uk/)       is accessed by laboratories       and researchers around the world.
+From our website there have been a total       of 6809 downloads       from unique IP addresses.
+Impact on commerce     Around 300 laboratories across Europe, including the UK, are using the       tests for the genetic       abnormalities we have identified [A], with many thousands of patients       offered a vital diagnosis and       subsequent management for their condition, as outlined above.
+Diagnostic       tests we identified are       also provided in the US, and Australia.
+The original discoveries we have made have been with the help of the       local Pakistani heritage       community &#8212; a group which has traditionally found it difficult to benefit       fully from research projects       which often fail to address their unique medical needs.
+We have provided       genetic tests directly to       families in Pakistan via their healthcare providers.
+We have provided       clinical and academic training       for genetic counselling staff in Pakistan [H].

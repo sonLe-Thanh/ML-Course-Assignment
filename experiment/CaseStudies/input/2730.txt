@@ -1,0 +1,43 @@
+     Responding to the needs of the Health and Safety Executive (HSE) who       estimated, during the       1990s, that around five million British workers were exposed to hand-arm       vibration in the       workplace.
+Approximately 1.7 million were believed to be exposed at levels       above the exposure       action value with around 900,000 of these exposed above the current       exposure limit value       (http://www.hse.gov.uk/foi/internalops/fod/inspect/hav.pdf).
+About 288,000 people were estimated       to have contracted vibration white finger while the number of claimants,       in June 2011, was 170,000       workers: https://www.gov.uk/government/publications/vibration-white-finger-compensation-scheme-statistics.
+According to the 5th European Working Conditions Survey       (www.eurofound.europa.eu/pubdocs/2011/82/en/1/EF1182EN.pdf)       reported levels of exposure to physical risks in the workplace have not       diminished much since       1991 and 23% of the workforce are exposed to health damaging vibrations       for a quarter of their       working time or more, which is similar to levels observed in 1995.
+Prompted by the HSE's release of the Control of Vibrations at Work       Regulations 2005, Reactec       commenced in 2001 the development of a solution with Marmo, which would       provide total health       protection for the worker as well as real cost benefits for the employer:       the HAVmeter.
+Here the ski       controller platform [5], and the expertise from the instrumented curling       brush [1, 4], were combined       and extended into a measurement device for preventing hand arm vibration       (HAV) syndrome       amongst operators of power tools such as construction workers.
+The HAVmeter measures vibration using one of two 3-axis, MEMS       accelerometers, with an       acceleration range between 2g and 10g.
+This permits the system to work       across the range of hand       held power tools including small drills through to large jackhammers.
+The       unit applies a custom       filter to ensure that it is detecting an active tool before selecting the       best signal to noise ratio within       three accelerometer ranges.
+Once the optimal sensor range has been chosen,       the HAVmeter then       applies a Fast Fourier Transform and adjusts for hand transmitted       vibration from BS 5349-1 to       indicate the vibration dosage.
+The commercial and occupational safety benefits arising from this       new product design are:            Design and developments of the HAVmeter for monitoring hand arm         vibration from hand tools by         the spin-out company Reactec.
+This novel product was quickly established         as the industry         standard vibration monitoring device.
+The HAVmeter has led to improvements in health and safety for the         construction and related         industry sectors, where around five million British workers are exposed         to hand-arm vibration.
+Sale of these devices between 2008 and 2013 have exceeded &#163;9M, which         corresponds to an         estimated 15,000 HAVmeters with an estimated 45,000 users.
+A further spin-out company was formed from Reactec, Xi Engineering         Consultants, which now         provides dynamic modelling and analysis for a range of vibration-related         issues.
+Reactec Ltd was initiated from an Edinburgh Technology Fund       business plan competition.
+Reactec went on to diversify and create the robust HAVmeter.
+"I         couldn't believe the HAVmeter         could survive those conditions.
+When we saw it slip into a flooded         cavity, we thought we'd never         see it again.
+However, when we found it again two months later, we just         took it out, wiped it down,         and carried on using it.
+It is a very impressive and resilient piece of         technology."
+Site Foreman,       Interlink M74 Project [S1].
+The initial support and funding allowed Reactec to grow and raise &#163;2.8M       in investment, involving       Archangel investment over 2005-11 totalling &#163;2.3M with Scottish Government       co-investment       funding of &#163;0.5M.
+Reactec now employs 23 people and generates profits on a       turnover of ~&#163;2.5M       p.a.
+In 2012 Reactec secured a place in the Deloitte FAST 50 UK Awards for       the second       consecutive year and was one of only 5 Scottish companies to be included       in the list.
+Key to the HAVmeter's success has been the automated approach to       report generation and the       accuracy and detail obtained from using the product to monitor and protect       workers' HAV       exposure.
+"Before the HAVmeter, we relied on manual input, with a guy         basically using his memory         at the end of the day for the time that he has spent using vibratory         tools.
+With the HAVmeter, we         have an accurate, user friendly piece of kit which allows us to manage         HAV more easily.
+It really is         a Health and Safety Management tool.
+We have been able to make major         savings through cutting         out administrative costs."
+Roads Manager, AMEY North Lanarkshire       [S2].
+HAVmeter monitoring has now been adopted as standard policy in companies       such as Balfour       Beatty, Tarmac, Morrison Construction, Environment Agency, Aston Martin,       Amey, Carillion and       many more organisations which use hand held power tools.
+The HAVmeter       product enables       companies to more effectively and accurately monitor and control the       exposure of their workers to       vibration hazards.
+"Paper based systems never really worked, the         HAVmeter replaced that system         with the latest technology which allows us to accurately measure and         monitor our employees'         exposure to HAVs...After rolling it out we are seeing a positive result         from the workforce who like         the system and think it is easy to use.
+It's great for self-monitoring         and the tool tags can also be         used as a tracking device...
+It's very difficult to quantify what sort         of amount of exposure an         individual has had &#8212; the HAVmeter provides the perfect solution".
+National Contracting Director,       Tarmac [S3].
+Additional HAVmeter user quotes can be viewed at: http://www.reactec.com/reactec/clients/case-studies       [S5].
+Key industry recognitions for Reactec are: 2011 European Rental       Safety Award (by Hire       Industry, http://www.hae.org.uk),       2010 National Joint Utilities Group (NJUG) Vision on Safety for       Hand Arm Vibration (http://www.njug.org.uk),       2009 Wimpey Minerals Trophy for Occupational       Good Health (http://reactec.com/reactec/about-us/awards).
+In order to broaden the company's reach, in 2011 the Reactec Board formed       Xi Engineering       Consultants to provide dynamic modelling and analysis across an increased       portfolio of markets       solving a wide range of vibration issues.
+"As former CEO of Reactec         and now Managing Director of         Xi Engineering I can verify that the early research to develop the         sensor and data capture systems         and expertise to analyse the output was instrumental in laying the         foundations to create the         underpinning technology that ultimately became the HAVmeter.
+This         created a solid foundation         that Reactec is based on, and from which we were able to establish Xi         Engineering" Managing       Director, Xi Engineering [S4].
+In addition to the industrial transfer of Buckingham, Watson and Marmo,       Iain Roberts (PhD in       Blackford's group) subsequently joined Xi Engineering Consultants in 2011.

@@ -1,0 +1,38 @@
+     4.1.
+Impact of pointer conversion     Pointer conversion is now available in Intel's commercial icc       compiler.
+This was added in 2005, and continues to be used in versions       11.0, 11.1, 12.0, 12.1, and 13.0 of this compiler, released in 2008, 2009,       2010, 2011, and 2012.
+Intel dominates the desktop and high-end processor       market.
+Research undertaken at Edinburgh is now used to improve code       performance on Intel platforms across the world.
+This is a wide impact       since the vast majority of desktop machines are Intel-based: according to       http://www.cpubenchmark.net/market_share.html,       estimates of market share since 2008 show that Intel has between 70% and       73% of the x86 processor market with ARM providing almost all the rest.
+A       smaller scale company CAPS-Enterprise (approximately 20 people) are also       known to have implemented this technique in their software tool chain,       which is used by Intel in their library development.
+4.2.
+Impact of machine-learning-based approaches     GCC is the most widely used compiler in the world.
+It is open-source and       has a large community of academic and industrial contributors of which IBM       is the leader.
+Working with IBM we developed MilePost GCC, a compiler that       automatically learns to optimise [A, B, C].
+The learning component is       available as a simple plug-in that determines optimisation based on prior       knowledge.
+Uniquely this can access a shared database allowing       community-based continuous optimisation.
+There have been 643 downloads by       developers, the number of end users is not known.
+This work led to the       creation of the Collaborative Tuning resource [D], a platform for exchange       of best practice in performance optimisation of program code.
+4.3.
+Impact of machine-learning-based approaches     Our work on compiler/architecture co-design in collaboration with the       architecture group at the School of Informatics influenced the design of       the reconfigurable EnCore processor.
+The associated ArcSim       high-performance architecture simulator is based on the parallel JIT       compiler technology developed by us.
+EnCore and ArcSim are the subject of       a separate School of Informatics REF impact case study.
+4.4.
+Impact of auto-parallelisation research     Combining our experience in parallelisation with machine-learning-based       optimisation has led to a major breakthrough in the area of       auto-parallelisation.
+This was recognised when ARM made a substantial       investment in a heterogeneous parallelism centre of excellence at       Edinburgh [E].
+This is ARM's first centre of excellence outside the       University of Michigan.
+The centre funds fundamental research in data       centre scale parallelism leading to patentable ARM IP.
+We are currently       jointly working with ARM on an LLVM-based OpenCL compiler based on this       work.
+This work has attracted considerable industrial interest: NVIDIA has       made one of our students a fellow for our work on heterogeneous       parallelisation while Freescale, Imagination Technology and IBM are       collaborating on a variety of projects.
+Samsung is developing a prototype       based on our JIT technology.
+The pioneering work on profile-directed       parallelisation is the on-going subject of commercialisation.
+The       University of Edinburgh and Samsung have signed a collaboration agreement       [F] publicised at http://wcms.inf.ed.ac.uk/icsa/news/samsung-research-collaboration.
+4.5.
+Details of on-going collaboration arrangements with industrial         partners     The ARM centre of excellence has two components: an overarching       collaboration agreement, and student project agreements.
+This allows       intellectual property to be jointly created and exploited by all parties.
+Students have a supervisor at both ARM and Edinburgh.
+They are paid an       enhanced stipend and undertake a three-month internship during their       studies.
+In 2012 Intel announced expansion of its Intel Doctoral Student Honour       Programme into Europe.
+The University of Edinburgh was one of only three       universities in the UK to be selected.
+In 2012 one of our students       Bhargava Rajaram was awarded an Intel PhD fellowship [G].
+Christophe       Dubach was awarded an Intel Early Career Faculty award: this was the only       award made to a UK academic [H].

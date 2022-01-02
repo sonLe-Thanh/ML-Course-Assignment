@@ -1,0 +1,31 @@
+     The toolkits developed from the research have delivered societal,       economic, and public engagement impacts:     The StoryBank system was successfully deployed in Budikote       (pop.
+3,000) and used to create and share content, including education and       healthcare contributions.
+The Head of Nokia's India Research Center said:     "On the practical level, we found the model implemented by StoryBank,         related to running ICT for Development projects in collaboration with a         local NGO, to be a fruitful one.
+We implemented the same model in         several of our future projects in rural India...
+In sum, the Nokia         internal impact of the collaborations around the project StoryBank was         significant... From the point of view of a company such as Nokia, this         insight can also be transferred to real value through digital products         aimed at the Bottom of the Pyramid market."
+The process for securing impact was greatly facilitated by collaboration       with IBM.
+StoryBank was instrumental in Jones receiving an IBM Faculty         Award (2010), recognising the impact of the work on end-users.
+Since       the Award, with IBM Research India, we developed the TapBack system [R3],       providing novel ways for end users to access spoken content; and, ACQR (a       telephone based sharing service).
+A Senior Researcher at Spoken Web, IBM       Research India, said:     "We collaborated with Swansea due to their track record in information         interaction for bottom of the pyramid users.
+The systems they have         developed with us since 2010 have been available to hundreds of farmers         in a geographically dispersed area in Gujarat state.
+The TapBack and         ACQR services remain integrated into our live services for those         communities to date" (March 2013).
+Farmers improve each other's productivity using the services.
+TapBack led       to a patent submission by IBM Research India.
+StoryBank findings       helped win funding for two software toolkits (along with       partners).
+The first, digitaleconomytoolkit.org, supports user generated       content creation especially in constrained contexts.
+Since its launch       (July 2012) the mobile phone application has been downloaded 14,190         times (to July 31st, 2013).
+Independent logs show many       regions have been reached: USA (27% of downloads); Philippines (11%);       India (8%); and Saudi Arabia (3%).
+Following national media coverage of our work in India, Valley       Kids contacted Swansea.
+Building on our research [R1, R2] we developed an       interactive kiosk for the Rhondda Lives!
+Archive of user-generated 	  content; this toured the Welsh Valleys in 2008, spent a month in       the Wales Millennium Centre (annual visitors &gt;1M) and exhibited in the       Rhondda Heritage Centre for 3 months.
+The second toolkit, Placebooks, enables people to       create and access content in flexible, resource appropriate ways.
+The       platform was integrated into the People's Collection of Wales (PCW)       service.
+The Online Digital Manager for PCW said:     "The development of Placebooks has been particularly useful for         the PCW as it has offered a solution to the demand from groups such as         the Ramblers that have felt frustrated by the lack of flexibility of the         core PCW trails system..." (it) "showcased at a         Ministerial level with a launch at the National Eisteddfod in the Vale         of Glamorgan in 2012... the Placebooks system, hosted by         the People's Collection Wales on an Amazon Web Service cloud server, has         been widely promoted and there has been a great deal of interest from a         wide range of potential users and partners in Wales and across Europe."
+Changes to Awareness and Attitudes: In July 2012 the toolkits were       launched at the Royal Geographical Society (London, 63 attendees), and in       March 2013 in Cape Town with 57 attendees &#8212; both events included NGOs and       commercial enterprises.
+83% of the London respondents (N=18) and 95% of       Cape Town respondents (N=38) said the work had changed their awareness of       digital inclusion issues; 61% (London) and 76% (Cape Town) said the       toolkit work had positively changed their attitude to the sorts of       approaches in the toolkits.
+"I was very inspired by the presentation and the organisation I am         part of, ACHA (The African Centre for Heritage Activities) has now         decided to integrate the use of the toolkit &#8212; Android phones as well as         the tablet platform &#8212; into a project we are starting in August"       (Cape Town, attendee).
+The StoryBank system was selected for the National Science Festival       (2009) and approximately 1,000 visitors used the system.
+Survey comments       and data indicate impact: e.g., 75% of respondents to the questionnaire       (N=50) agreed or strongly agreed that the work had impacted on their       awareness of digital divide issues.
+The research has impacted through The       Royal Society of Arts, which used user generated content from the       StoryBank trials in their Student Design competition and sent winners to       Budikote in 2008.
+The Engineering and Physical Sciences Research Council highlighted the       research as an exemplar in its "Impact on Society" series, and the       research also featured as an EPSRC Impact!
+example on the UK Collaborative       on Development Sciences (UKCDS) website.

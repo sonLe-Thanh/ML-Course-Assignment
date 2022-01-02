@@ -1,0 +1,38 @@
+     Gamelab's SEN output falls into two main areas: Interactive media / games       and linear video       TV production.
+Innovation in interactive technologies, for children with sensory       impairments (i.e.
+deaf and       blind), underpinned Gamelab's earliest outputs and has set the standard       since.
+Gamelab's       work is characterised by coupling robust education/learning objectives       coupled with novel and       innovative technological solutions to enable specific groups of users to       achieve those       objectives.
+Together with Jonathan Hassell** at the BBC, Gamelab coined       the terms `beyond       inclusion' and `reverse inclusion' for their products aimed specifically       at particular disabled       audiences, but with sufficient production value to appeal to audiences       without disabilities due       to their fresh approach to learning (see: http://www.hassellinclusion.com/2011/10/beyond-         inclusion-and-reverse-inclusion/).
+These ideas have impacted such       works as: the British       Accessibility Standards BS 8878 (http://www.hassellinclusion.com/bs8878/);       and initiatives like       RLSB's `Everybody Technologies' (see:       http://www.hassellinclusion.com/2012/12/everybody-technology-innovation/).
+While producing Performing Hands for BBC Jam, Gamelab developed       interactive signing       avatars (with signs being driven by XML data); a video mirror, supporting       users to learn sign       language through webcam relay; an action book concept; a British Sign       Language dictionary       with signing avatars.
+This was the first time digital solutions had been utilised in a learning       resource for deaf       Children.
+Utilising 3D audio, Sos and the Big Maths Adventure presented a series of       interactive audio       games to support blind children with maths learning.
+This was another       first, and is being taken       forwards in our current work with Guide Dogs for the Blind Association to       help blind children       learn mobility skills.
+The fully accessible user interface design that was employed for MyFuture       incorporated a fully       accessible video player.
+Much of this accessibility work was developed in       partnership with the       BBC and helped inform accessibility design for the BBC's iPlayer.
+The impact of Gamelab's work pioneering the use of Kinect to help support       the communication       and rehabilitation needs of different disabled groups is more recent and       growing.
+From winning       one initial speculative bid for money from TechDis, the competences that       Gamelab has grown       have already resulted in the development of products for three diverse       disabled groups, with       many other spin-offs under consideration.
+In the area of television, Gamelab has provided age-appropriate       televisual content dealing with       sensitive issues and subject matter not previously tackled in this way for       the target audience of       young people with learning difficulties.
+Dissemination of these outputs       has been via       transmission through BBC channels and networks of school SENCOs (Special       Educational       Needs Coordinators).
+These outputs continue to be available as online       teaching/learning       resources through BBC Learning Zone Broadband for seven years from their       first transmission.
+Prior to producing its television outputs, Gamelab's discussions with       partners, including       colleagues from the charity Mencap, highlighted three main issues in       relation to media       resources for people with learning difficulties:            a lack of media resources targeted at this particular audience;       resources that existed were of low production value;       very little age appropriate material was available.
+Gamelab has sought to address these issues in its broadcast and online       televisual resources.
+In relation to their content, these materials are seen as highly original       and of high production       value &#8212; as evidenced by the many BAFTA nominations associated with much of       the output.
+They are seen as highly relevant to the needs of their specific target       audiences and informal       feedback indicates high levels of usefulness.
+There is also evidence of       the materials being of       use beyond the school context (e.g.
+by health professionals).
+Dealing with       basic skills for life       through to more difficult issues such as body changes which young people       find difficult at the       best of times but young people with autism find particularly difficult to       deal with.
+Gamelab has       added to this music content &#8212; again written and developed at a cognitively       appropriate level       whilst still being age appropriate.
+Music has proven to be a suitable       topic for this particular       audience again because of the lack of age appropriate material as well as       providing a vehicle       for emotional exploration.
+So far Gamelab has produced three such programs       for BBC       amounting to 3 hours of transmitted output ( this is an addition to a       similar project also       produced by Gamelab for the Welsh Government).
+More recently Gamelab has been awarded grants from the Techdis and       Technology Strategy       Board for work in appliance of interactive technologies in assistive       context.
+Microsoft's Kinect       technology is being applied in various context such as recognition of       Makaton signing and       motion learning for blind children.
+One such development, uKinect &#8212; a       signing game- was       recently launched at the TRS SEN Exhibition as a commercial product in       association with the       Makaton Charity.
+This has too just been awarded a TIGA award for Best       Educational Initiative.
+Additionally Gamelab is developing a web browser tool for disability       access with support from       TSB     Key grants and consultancies:     2006-present BBC total value in excess of &#163;2m     2011 TECHDIS SBRI uKinect &#8212; application of gesture recognition to       learning disability &#163;150k     2013 Guide Dogs Association: A Motion training utility for blind       children.
+&#163;29k     2013 Technology Strategy Board : &#163;35k towards the development of a       disability web tool.
+Gamelab has in fact been BAFTA nominated EIGHT times since 2008.
+This         represents major         national industrial peer group acclaim.
+Additionally Gamelab was         nominated in the Japan Prize         in 2012 &#8212; this is the prestigious international competition for         educational media.
+Gamelab has been awarded an award for Best Educational Initiative from         TIGA the         independent games association in November 2013.
+Gamelab is also a finalist in the Guidedogs Association Partner of the         Year Awards     ** Jonathan Hassell is now also a visiting professor at Gamelab

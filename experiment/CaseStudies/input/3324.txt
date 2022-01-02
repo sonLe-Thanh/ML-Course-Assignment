@@ -1,0 +1,27 @@
+     The DNA polymerases of hyperthermophilic archaea were of interest to       molecular biologists because of their inherent ability to withstand high       temperatures.
+Such a property was valuable for the amplification of DNA in       the laboratory, using the polymerase chain reaction (PCR).
+PCR makes use       of DNA polymerases to replicate DNA and involves repeated heating and       cooling cycles, amplifying a small quantity of DNA into one large enough       for meaningful analysis and for many experimental approaches.
+However, the       high temperature phases of the PCR increase the rate of the deamination of       cytosine and lead to a build-up of DNA strands incorporating uracil during       the amplification process.
+The commonly used heat-stable DNA polymerase,       Taq (from Thermus aquaticus)       cannot proofread, so uracil generated during PCR using Taq polymerase       leads to the accumulation of T-A for G-C substitutions and loss of       fidelity.
+Archaeal polymerases have a proof-reading activity, but the fact       that archaeal polymerases stall at uracil make them less suited to PCR in       their native form.
+In the course of their work, not only had Newcastle researchers and their       colleagues identified a unique property of certain hyperthermophilic       archaeal DNA polymerases but, through their discovery that the uracil       recognition function was not present at the active site, they were able to       engineer a change in the structure of the uracil binding pocket to create       a novel DNA polymerase that was capable of reading through DNA strands       that included uracil.
+This combination of properties &#8212; both the high       fidelity and stability at high temperatures &#8212; was recognised as having       potential for commercial exploitation.
+Patenting a new enzyme       The new DNA polymerase, hereafter referred to as V93Q Pol, was co-invented       by Connolly and Mark Fogg (Connolly's PhD student) at Newcastle       University, and Professor Laurence Pearl at UCL, in 2003.
+The invention       was underpinned by insights gained through the researchers' studies into       how archaeal DNA polymerases recognise the base uracil.
+A patent to       protect the invention, Mutation of DNA polymerases from archaebacteria,       was filed in April 2003, and it has now been granted in many countries       worldwide (Australia, Canada, Japan, USA, UK and other European countries;       Ev a).
+The enzyme is unique.
+Some DNA polymerases used in PCR have been derived from hyperthermophilic       archaea but they become less efficient in the presence of even small       amounts of uracil in the reaction mixture, because their structure causes       them to stall at uracil.
+V93Q Pol was engineered to be uracil-insensitive       and is therefore not affected in the same way.
+Because of its broad       tolerance to the presence of uracil, V93Q Pol is often used for reactions       in which high-fidelity copying is required but reaction conditions have       not been optimised, or where the template is relatively long and contains       many cytosine residues (which can be deaminated to uracil, as described       above).
+Under equivalent reaction conditions, V93Q Pol typically yields       more DNA product than standard enzymes used in PCR.
+The V93Q Pol enzyme is particularly useful in DNA methylation studies,       which are important in understanding why genes are switched off in cells       (Ev b).
+Methods that target DNA methylation sites (bisulphite sequencing)       lead to degradation of much of the DNA, leaving very few intact copies of       the DNA sequence.
+Amplifying these few copies using PCR requires many       cycles of heating and cooling before sufficient DNA is available for       analysis and generates large amounts of uracil that other polymerases       cannot overcome.
+Commercial impact       The V93Q Pol enzyme has been on the market since 2003, but the substantial       commercial impact has only occurred since an exclusive licensing agreement       was signed between Newcastle University and [Text removed for publication,       EV d] on 1 November 2008.
+[Company name removed for publication] sell V93Q       Pol using the brand name [Text removed for publication] (Ev b and c).
+Income to Newcastle University from [Company name removed for       publication, EV d] in 2008 and 2009 was in the form of an agreed fee.
+From       2010 onwards income has been in the form of royalties on sales.
+Royalties       are shared 75% to Newcastle University and 25% to UCL, reflecting the fact       that Professor Pearl at UCL was an important collaborator in the early       stages.
+Most of the research that underpinned the development of the       enzyme was carried out at Newcastle University.
+[Sales figures removed for publication, EV d]     Expanding commercial impact       At the end of 2011, the licensing agreement with [Company name removed for       publication] became non-exclusive.
+Two further licensing arrangements have       now been signed, one in November 2012 and one in February 2013, expanding       the commercial impact of the invention [Text removed for publication, EV       d].

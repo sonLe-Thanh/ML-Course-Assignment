@@ -1,0 +1,45 @@
+     Process: From research to impact.
+Following initial experimental       work arising from the grant funding from Scotrail in 1996, Professor       Davies' team developed a prototype CIRAS system which was designed to       classify the reports received into technical codes or human action codes       based on the narratives from train drivers, conductors, signalling staff,       maintenance staff and railway management.
+Over the next three years, staff       operating trains in Scotland (Scotrail, Virgin Trains, GNER, Railtrack       Scotland and GT Engineering) were enrolled into the CIRAS programme.
+Following the Ladbroke Grove rail crash in 1999, the Government took the       decision to extend the CIRAS system to cover train operators in England       and Wales.
+In fact, CIRAS was specifically mentioned in the Cullen Report       into this accident.
+Paragraph 9.61 notes that "A confidential reporting       system, CIRAS, is now in place across the industry.
+This allows employees       to report safety-related incidents confidentially.
+It undoubtedly enables       "near miss" incidents to be reported and receive attention.
+It also       enables incidents to be categorised by type and location, and to measure       trends.
+It has great merit.
+It is to be hoped that in the longer term the       culture of the industry would be such as to make confidential reporting       unnecessary.
+I accept that this situation may be a long time in coming to       pass in the industry.
+In the meantime I fully support and encourage the       further use of the CIRAS system" (Source G).
+CIRAS continued to operate as a Charitable Trust until 2008 when,       following extensive consultation, the Railway Safety and Standards Board       took over its management and governance.
+They expanded its remit       immediately and significantly.
+The system was opened up so that everyone       working in any capacity on the railway network in England, Scotland and       Wales could use it.
+The coding system was significantly modified and       expanded to take into account a much wider variety of safety issues, and       changes were made to the screening of reports ensuring that the focus was       on detecting and processing only safety critical reports.
+Additionally,       once the CIRAS team had resolved problems through consultation with the       relevant companies, any key safety lessons learned were shared with all       users of CIRAS publications.
+A significantly expanded database was       introduced during 2011, building on the 16 years of data that the       taxonomic system had already accumulated and increasing the ability to       diagnose and resolve source problems.
+The CIRAS website was also rebuilt,       making it more user-friendly and accessible to use with mobile devices.
+This case study concerns the impact of the expanded CIRAS system.
+Types of impact: The research on human factors in the railway       industry has led to:            The adoption and use of a confidential reporting system across the UK         Railway network       The construction of a database to classify and resolve safety issues         before they occur       Sharing of best practice on safety within the UK railway industry       Enhancements to passenger and freight transport safety       Influence on the development and implementation of a reporting system         in the US and Canada          Adoption of CIRAS: Since 2008, the number of companies using CIRAS       has grown steadily.
+There are now over 300 companies registered (Source       F), although the number of companies involved fluctuates as maintenance       and operation contractors change.
+The safety service that CIRAS provides       is open to train and freight operators, Network rail and its suppliers,       London Underground, Heritage Rail and Light Rail.
+Database of safety issues: Currently, the CIRAS Report Library       (Source B) contains 17 categories of health and safety       concerns, including fatigue, infrastructure, security, signalling,       stations and platforms, training and workloads.
+Companies value CIRAS for       bringing safety issues to light which could otherwise have been undetected       and unresolved.
+Sharing best practice and improvements to passenger safety: In       addition, companies are able to share safety lessons via CIRAS       publications.
+In 2008-9, more than 300 reports were made to CIRAS,       resulting in 32 instances where CIRAS was able to negotiate tangible       changes (Source C).
+For example, a CIRAS report from that year raised a       signal passed at danger (SPAD) risk at platform 9, Liverpool Street       station.
+As a result of CIRAS' intervention, a review was undertaken of       the signal controls at this junction and subsequently train operating       procedures were changed (Source B).
+The estimated level of SPAD risk in       March 2012 was 69% lower than September 2006.
+The number of potentially       severe SPADs occurring fell from 43 in 2003-2004 to nine in 2011-2012       (Source K).
+In 2009-10, the number of reports to CIRAS grew to 561, with       117 positive actions.
+Eighty five of these processed reports contained       information which was new to the company concerned.
+One report revealed       that train drivers had spotted a loophole in the rules associated with       emergency speed restrictions allowing them to drive above the speed limit.
+The positive action taken by the company was that The Rule Book and       Railway Group Standard were changed so as to prevent a derailment through       inappropriate speed.
+The Rail Safety &amp; Standards Board's annual board       meeting reported that the implication of this report to CIRAS was that       potential accidents had been prevented (Source D).
+In 2010-11, the number       of reports made to CIRAS continued to grow to 679 (Source E), and in       2011-12 the number had risen to 855 with 50% of all reports resulting in       positive action and 30% of reports containing new information to the       company concerned (Source F).
+The CIRAS system works constantly behind the scenes, making sure that no       safety issues are overlooked or unreported, and helps to improve future       railway safety performance through gathering data on types of errors,       faults and their causes (Source A).
+The Rail Safety &amp; Standards       Board's annual safety and performance report for 2011-12 (Source I)       reported that: between 2008 and 2012 there were no passenger or workforce       fatalities resulting from train crashes on Great Britain's mainline       railway; in 2011-12 the ten-year average for the number of train accidents       resulting in passenger or workforce fatalities was less than one every two       years for the first time ever; the number of passenger fatalities was the       lowest level on record; the total number of public fatalities in 2011-12,       excluding trespass and suicide, was eight (lower than in previous years).
+A Workforce Risk Review published in 2012 (Source J) presented the       recurrent themes arising from the Office Rail Regulation (ORR)       inspections, Rail Accident Investigation Branch (RAIB) investigations and       CIRAS reports.
+Nine out of the ten recurrent themes were raised by CIRAS       reports, whereas ORR inspections highlighted four and RAIB investigations       highlighted six of the recurrent themes, respectively.
+International influence: Beyond its extensive use in the UK, CIRAS       has also impacted on the development of other confidential reporting       systems, such as C3RS, the Confidential Close Call Reporting       system launched by the Federal Railroad Administration in the USA (Source       L).
+Primary C3RS stakeholders include the US Department of       Transport, Amtrak, Canadian Pacific Railway and the Association of       American Railroads.
+The Federal Railroad Administration stated that they       used lessons learned from CIRAS when developing and implementing their       system and that previously unknown safety issues are being discovered,       with resulting actions having a positive impact on safety (Source L) "The       FRA implementation team benefited from the existing literature on       confidential close call reporting systems ... (including the) United       Kingdom's Confidential Incident Reporting and Analysis System (CIRAS);       Davies et al., 2000."

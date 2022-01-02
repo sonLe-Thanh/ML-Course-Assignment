@@ -1,0 +1,23 @@
+     The study findings led directly to a change in guidelines, a change in       clinical practice and quantifiable improvements in patient morbidity.
+4a: Change to national and international recommendations     Four examples of clinical guidelines around the world:             UK: The SLNB technique is now recommended by the UK National         Institute for Health and Clinical Excellence (NICE) [4]: "Sentinel           node biopsy ((SLNB) or axillary four node sampling) should be           performed to stage the axilla for patients with early invasive breast           cancer and no evidence of lymph node involvement on ultrasound or a           negative ultrasound-guided needle biopsy.
+SLNB is the preferred           technique."
+UK: Surgical guidelines in the UK were updated to include the         recommendation for sentinel node biopsy following the study publication         in 2005 [5].
+"To minimise morbidity from axillary surgery to obtain           staging information Sentinel node biopsy using the combined blue           dye/radioisotope technique is a recommended axillary staging procedure           for the majority of patients with early invasive breast cancer".
+Europe: The European Society for Medical Oncology         recommend sentinel node biopsy as the standard of care in early breast         cancer [6].
+USA: SLNB is endorsed as an alternative to ALND for the         diagnosis of axillary metastases in patients with clinically         node-negative early breast cancer in guidelines from the American         Society of Clinical Oncology (ASCO), which cites this trial as evidence         for the reduction in surgery-related morbidity [7], and by the US         National Comprehensive Cancer Network Guidelines [8].
+Australia: The Australian guidelines on management of breast         cancer recommend SLNB and explicitly cite this trial as evidence of the         reduction in side effects [9].
+4b: Change to standard clinical practice     SLNB has become routine in most breast centres.
+A survey published in       2010 reported that 69% of breast surgeons in the UK routinely use the       practice now [10], compared with 10% before this trial was published [11].
+Increasing trends in the use of SLNB have also been reported from Canada       and Ireland [12,13].
+4c: Development of new surgical training     Following the trial, successful training programmes have been       established, aimed primarily at surgical technique, but also incorporating       multidisciplinary training for nuclear medicine physicians, theatre nurses       and pathologists [14].
+4d: Reduction in morbidity     Around 38,000 women are diagnosed with invasive breast cancer in England       per year.
+The Second All Breast Cancer Report reported 32% of patients       receiving sentinel node biopsy in 2007 [15].
+However, more than half the       patients had missing data on axillary surgery in this audit.
+The audit of       screen-detected cancers for 2010/11 reported that 76% of screen-detected       cancers had sentinel node biopsy [16].
+A local audit in Staffordshire       reported 84% of patients with screen- detected cancers receiving sentinel       node biopsy [17].
+Taking the average of these three figures (probably       conservative because the proportion is increasing with time), an estimated       64% of eligible UK patients currently have this procedure.
+This estimate       is consistent with a survey of UK surgeons in 2008, which found that 69%       routinely performed the operation [10].
+The low incidence of lymphoedema observed in cohorts of patients treated       with SLNB [18] compared with observations in the pre-SLNB era (see for       example British Journal of Surgery 2000; 87: 1128) is consistent       with the numbers reported in our study.
+This translates to 3,405 patients       per year in UK (0.64 x (0.21-0.07) x 38,000) spared lymphoedema due to       this procedure.
+4e Extension of the technique to other cancers     The first cancer for which SLNB was introduced was melanoma.
+Following       the success of this approach in breast cancer, researchers have begun to       explore the use of the technique in other cancers, most notably of the       head and neck [19].

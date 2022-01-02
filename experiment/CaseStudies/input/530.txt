@@ -1,0 +1,29 @@
+     The selection and design of Euclid by ESA is a direct impact of the BAO       research done at the ICG over the last decade.
+As outlined above, ICG       researchers have established BAO as an important technique for measuring       dark energy.
+The importance of Euclid goes beyond academia, with major       economic and societal impact.
+This case study highlights such impact so       far until August 2013), while also highlighting the direct involvement of       ICG researchers in the present and future development of Euclid.
+Euclid is a 1.2metre telescope satellite mission built through a       partnership of ESA, industry and the Euclid Consortium (EC) [1].
+In total,       the whole mission hardware will cost over 600M euros [2], funded by       European governments via their subscriptions to ESA, with a further 400M       euros from the national funding agencies for the Euclid instruments and       the Science Ground Segment (SGS), or data processing, both performed by       the EC [3].
+UK industry is expected to receive approximately 16% (100M       euros) of this total mission hardware funding [4] as part of the "juste       retour" from ESA.
+Such space science projects are part of a growing sector       of the UK economy, now worth over &#163;7.5 billion [5].
+Euclid was born from two "Cosmic Visions 2015-2025" proposals       (DUNE &amp; SPACE); ESA then instigated a "Concept Advisory Team"       (CAT) in early 2008 to study merging these two concepts, and Bob Nichol       was one of the 12 European scientists involved in the CAT [3].
+The CAT       recommended (in May 2008) the first concept of Euclid, concluding: "all         members of the CAT agreed that a combined mission which involved probes         of both weak lensing and baryon acoustic oscillations offered a superb         mission whose combined strengths were very significantly greater than         either of them separately."
+This conclusion was based in part on the       BAO research performed by ICG researchers [9,10].
+The first industrial studies of Euclid started in late 2008 (for one       year) with initial ESA contracts granted to two European companies       (Thales-Alenia Space and Astrium).
+These assessment studies were then       followed by two definition phase studies (from 2010 to 2012; 18 months) by       the same two companies.
+These contracts were worth a total of nearly a       million euros for each company [3].
+These industrial studies were managed       by ESA but with scientific oversight from a series of official ESA science       teams (namely "Euclid Science Study Team", "Euclid Optimisation         Advisory Team" and "Euclid Interim Work Study Team"), which       all included Bob Nichol from the ICG.
+He was the only scientist in Europe       with an unbroken involvement in this series of science teams and had       significant input into official Science Requirements Document [6]       used by industry to design Euclid.
+Also, since May 2009, Will Percival has       been one of only four Science Coordinators responsible for organizing the       scientists within the Euclid Consortium [9].
+On June 20th 2012, Euclid was official adopted by ESA, and on       June 27th 2013, Thales-Alenia were selected as the prime       contractor of the satellite with a cost of 322.5M euros [7] (the Euclid       payload has been assigned to Astrium SAS).
+Bob Nichol remains part of the       ESA oversight of this mission [9,10] (including industrial contractors) as       a member of the official "Euclid Science Team" (EST), which       includes only 12 scientists from Europe and USA.
+His official title on the       team is "BAO Scientist".
+Euclid has entered the final design phase with the successful selection       of all the major industrial and university contractors with design reviews       schedule for mid-2014.
+For example, the Euclid visual camera (VIS) will be       constructed in the UK by UCL/MSSL at a total projected cost of       approximately &#163;7.5M, and includes scientists and engineers at Open       University and e2v to design and test new detectors [8].
+This work is       already underway and employs a number of people in UK industry via grants       from the UK Space Agency (UKSA) and ESA e.g., e2v will receive over 30M       euros directly from ESA to purchase the final detectors [4].
+Since the       initial studies in 2008, and including current commitments, UK funding       agencies (STFC, UKSA) will have spent &#163;7.455M by 2015 [4].
+Finally, the Euclid Consortium is responsible for the instrument       operation and data centres (Science Ground Segment, SGS), which is a major       computational challenge (costing over 150M euros in total across Europe).
+The SGS will be designed and implemented in laboratories and universities       across Europe, and in the UK [10], we are planning &#163;17M investment in new       computing hardware for this work.
+The SGS provides an investment in UK       businesses as well as significant training opportunities for software       engineers, students and scientists.
+At the ICG, Will Percival's prominent       role in Euclid and BAO research has resulted in a European Research       Council (ERC) Starting Grant entitled "Cosmology from Next Generation         of Galaxy Redshift Surveys" for a total of 880k euros (07/2008 to       07/2013).
+Moreover, Percival and Nichol have also received funding from       the UKSA for SGS and Euclid science management work packages totalling       &#163;395k to 2015.

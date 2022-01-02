@@ -1,0 +1,32 @@
+             Bus Priority: TRG studies into bus priority, funded by the EC         and TfL, have led to the design of new bus priority systems at traffic         signals in London.
+Implemented in 2009 through London's iBus system &#8212; a         satellite-based Automatic Vehicle Location system installed on all buses         across the network &#8212; TRG's research has enabled priority to be given to         8000 buses at 2000 traffic signals in London.
+TfL estimates that this         generates economic benefits of &#163;29 million a year between 2009 and 2014         (2007 prices) from reduced bus delays and journey times, benefitting         both bus passengers and operators [5.1, 5.7].
+Other positive impacts         included a reduction in bus fuel consumption and carbon emissions, as         well as encouraging a modal change from private low occupancy vehicles         to more efficient high occupancy public transport.
+The sophistication of         the algorithms also enable these benefits to be achieved with little or         no impact on non-priority traffic.
+Impact has reached other priority         vehicles as well as buses.
+For example, vehicles in the `Olympic Family'         benefitted from this priority provision on the London Olympic routes in         2012.
+Following the successful evaluation of the priority algorithms in         London by TRG, Siemens UK have incorporated the bus priority software         into the world-leading SCOOT urban traffic control system, developed and         marketed in the UK.
+Impact of TRG research is therefore felt in up to         250 cities around the world which operate SCOOT.
+Road traffic Operations: TRG's research into road traffic         operations allowed SERCO to introduce a range of improved traffic         estimating methods in 2008, including flow, delay, journey time and         incident detection [5.2].
+These new estimates were used by the NTCC to         provide improved real-time traffic information to drivers and improved         traffic management on the UK's strategic road network.
+While it is         difficult to assess the substantial positive impact of more accurate         journey time information, simulation modelling by TRG has indicated that         the early detection and identification of incidents is likely to have         saved around &#163;50m per year during the 2008-2013 impact period [5.8].
+In         2011 SERCO lost the contract for running the NTCC to a competing         consortium (Thales Group and Mouchel) and the NTCC evolved into the         National Traffic Information Service (NTIS).
+TRG research continued to         be supported by Thales and between 2011 and 2013, TRG researchers         designed new algorithms to reduce traffic incidents and more accurately         predict journey times within the NTIS for the benefit of drivers.
+Similar research has been undertaken by TRG on the urban network,         including research with Siemens to create a new road traffic state         estimation tool using diverse data sources as a platform for improved         traffic control [5.8].
+TRG's research into traffic signal optimisation         using human expert control and machine learning has used simulation to         indicate a potential 10-20% delay saving over current operational         systems; on-street trials and impact measurements are expected from         2014.
+In Vehicle Information Systems (IVIS): In 2008, Jaguar         supported TRG's research into IVIS.
+TRG academics led by Stanton used         the IV to compare traditional and intuitive voice-actuation systems with         manual and touch-screen operations.
+This led to a long-term         collaboration in which Southampton adapted a Jaguar car into a driving         simulator.
+TRG drew on the simulator testing results to advise Jaguar         engineers on how to consider human factors in the design of IVIS.
+Jaguar         has been able to implement design philosophies that improve the         usability of their systems for drivers.
+It estimated the value of TRG's         research on this one specific study at &#163;1 million to their business         [5.3, 5.9].
+Outreach and public Engagement: The TRG team has also engaged         the public in how engineering solutions are employed to control traffic         lights, and ultimately make their driving experience smoother and safer.
+Using a giant Scalextric to illustrate their research, the TRG team ran         a stand at the Royal Society's Summer Science Exhibition in June 2011         [5.4, 5.10], the first time any university-based transport group had         exhibited.
+The exhibit &#8212; 21st Century Traffic Control: The         Invisible Referee - was based on the research into novel machine         learning methods for traffic signal control.
+The exhibition attracted         more than 14,000 visitors, including senior policymakers and MPs.
+The         TRG stand was singled out in a review of the event by The Guardian         [5.5] and it led to the BBC commissioning a piece for the One           Show, which aired in August 2012 [5.6, 5.10].
+The show, which         attracts 5 million viewers, featured one of its journalists controlling         traffic more efficiently than a computer, which relates to the machine         learning research.
+The exhibit was designed in collaboration with the         Transport Research Laboratory (TRL), the Motor Industry Research         Association (MIRA), innovITS and Siemens, who were all industrial         partners in the showcased research [5.10].
+The exhibit has also been         part of the University of Southampton's Science and Engineering         Roadshow, which toured several national public engagement events in         2012, including the Cheltenham Science Festival and Bestival, the         four-day music festival on the Isle of Wight.
+According to Bestival         organisers, around 10 per cent of festival goers &#8212; 6,000 people &#8212;         entered the Science Tent, for which TRG's stand was one of the main         displays.
+The website and YouTube channel set up to accompany the         exhibit have received more than 6000 hits since July 2011.

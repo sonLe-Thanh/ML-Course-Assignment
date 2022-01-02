@@ -1,0 +1,42 @@
+     The research outlined above, continuously developed over a period of more       than a decade, has introduced a new paradigm to electromagnetic studies in       general, impacting the electromagnetic spectrum from static fields to       optical frequencies.
+The work has since resulted in numerous interactions       with commercial and government organisations.
+Pendry has personally       consulted on metamaterials for BAE Systems (2008-9), The Marconi Company       (1996-2000), Thales (2009), Defence Science and Technology Laboratory       (DSTL, 2012-), Wright-Patterson Air Force Base (WPAFB, 2011), the US Air       Force Office of Scientific Research (AFOSR), EADS (2008), Kodak (2007-11),       Intellectual Ventures (2004-), and Corning (1999-2000).
+These radical new       concepts are now filtering through into products.
+KYMETA Corporation     Intellectual Ventures developed a satcom device in 2010-11 that is an       order of magnitude cheaper than current products with a target marketing       price of $500 and operates from the USB port of a laptop.
+The company had       been interested in applications of metamaterials for some time [A] and in       2010 began to explore, in earnest, what "markets could be penetrated or         created through the integration of metamaterials-based designs" [B].
+Its main focus was on the development of flat-panel reconfigurable       antennas.
+In this area it was able to "leverage the work [Pendry had]         done in metamaterials" [B].
+Specific areas of influence included       resonant element design and numerical tools which help to predict system       response; such as homogenization techniques.
+Pairing these toolsets with       newly developed techniques in reconfigurable metamaterials, holographic       metamaterials and high-efficiency system design and fabrication resulted       in a "new technology" referred to as Metamaterial Surface Antenna       Technology (MSA-T) [B, C, D].
+This "technology has many applications,         but the first target for Intellectual Ventures (IV) was selected to be         the satellite industry" [B].
+In "an effort to exploit this         opportunity, IV spun off a new company, Kymeta Corporation" [B].
+Kymeta is currently (Aug 2013) over a year into its existence as an       independent entity and "has attracted significant interest in its         industry; including large development contracts from leading satellite         service providers" [B].
+Kymeta has 56 full time employees (as of       July 2013) and is continuously hiring [K] and was formed with $12M in       investment funding from Bill Gates, Lux Capital and cable company Liberty       Global [E, F].
+By using metamaterials, the antenna will be able to electronically tune       the array "to point and steer a radio signal toward a satellite",       creating "an unbroken broadband link to whatever device is carrying the         antenna&#8212;whether it's a boat, plane, or laptop" [F].
+The       company's first product will be "a portable, laptop-sized antenna that         gives you an instant Internet hotspot anywhere in the world" [F],       with an ultimate application allowing "cheap and fast Internet         connections on airplanes, trains, buses, cruise ships, and military         vehicles" [F].
+Intellectual Ventures says the company's first       customers will likely be mining and defence [F].
+In addition, a       spokesperson at Kymeta said: "the device has potential benefits for         news reporters in the field, emergency responders in disaster areas, or         even just average consumers looking to untether from public Wi-Fi and         mobile broadband signals" [G].
+Kymeta, based in Washington state, expects to have its first products       commercially available in 2015 [H].
+It has already attracted significant       interest in its industry including "large development contracts from         leading satellite service providers" [B].
+Intellectual Ventures       continues to invest in new application areas for MSA-T and metamaterials       technology more broadly in a variety of application areas [B].
+BAE Systems     BAE Systems has shown a longstanding interest in metamaterials,       originating with the work with Marconi (now part of BAE) in the 1990s, and       is looking to apply the principles behind metamaterials and transformation       optics in several areas.
+The techniques from the work between Pendry and       Marconi "have been used within missile seekers for RF filters and         reflectors, and in "stealth" applications where frequency dependent         absorption &amp; filtering built into a structure is useful" [I].
+Acknowledging Pendry's role in the area of metamaterials, BAE Systems       states that "essentially, you have fathered a whole area of scientific         and engineering endeavour" [I].
+A further application of       metamaterials by BAE is that in antennas, particularly making antennas       much more compact with increased directionality.
+Such developments are "very         significant in designing small, compact antennas for small platforms         including Unmanned Aerial Vehicles, and small antennas to work at very         low frequencies, for example for submarines" [I].
+A study for the European Defence Agency (EDA) on Active Camouflage and       cloaking informed BAE of the difficulties in using transformation optic       approaches to hide a complex object, which in turn gave very good       indications of "what might be practical for military applications".
+As a result BAE's studies "have looked at extending the potential uses         of metamaterials and the transformation optics approach into [the]         underwater acoustics domain" [I].
+A further area of application for       BAE which is being considered is in counter IED blast protection, with       metamaterials structures potentially being able to divert a blast wave       around an object.
+BAE comments on the significant level of activity worldwide relating to       metamaterials.
+It monitors the literature and patents arising in this area       (particularly those with relevance to a company like BAE Systems) and has       noted that a very significant level of work is being undertaken in the USA       as well as a significant level in China.
+US Department of the Air Force and Office of Scientific Research         (AFOSR)     In 2006 Pendry participated in an AFOSR-sponsored collaboration with       David Smith at Duke University.
+Since then research in metamaterials has       exploded and as a granting agency this is reflected in the AFOSR's records       which "presently include over thirty grants listing "metamaterials" as         a keyword, totalling over $11 million in funding, on projects ranging         from cloaking to plasmonics, particle-based nanoantennas, implementation         of electrically-controlled metamaterials, and a great deal more"       [J].
+The US Air Force's interest in the subject is a direct result of       engagement with Prof Pendry and the results of his previous research [J].
+Pendry actively engaged with AFOSR and related offices such as the Air       Force Research Labs (AFRL), visiting the labs on a number of occasions and       conferring with them on basic research tasks.
+His "consultation was         directly responsible for advances in an AFRL program to develop         conformal antenna arrays, using RF-photonic elements to sample incident         fields and embed them on an optical carrier" [J].
+This allowed       flexible beam forming, imaging, and other applications, in addition to       improved electromagnetic interference resistance.
+Pendry's "recent work         on broad band light harvesting structures was directly applied to that         [AFRL] program to yield improved bandwidth and overall efficiency,         resulting in a recent demonstration of a first-of-its-kind metamaterial         conformal RF-photonic array" [J].
+The AFOSR testifies that the       contributions of Pendry and his group have had "considerable impact"       on the organisation.
+Widespread impact     Almost every major organisation concerned with electromagnetism has a       shown interest in this field.
+The impact of metamaterials is widespread       with many thousands of references in the scientific and popular press and       on television.
+For example, there was an article on the BBC discussing       Pendry's research and its application in the development of an       invisibility cloak [K].

@@ -1,0 +1,43 @@
+     Context: As population projection software has become an       increasingly essential tool in planning and policy formulation within the       UK, POPGROUP has become the leading software for population planning.
+The       value of the POPGROUP software derives from its flexible framework which       can be tailored to each user's own environment, with impact delivered       through:            The widespread adoption of the POPGROUP software by government and         commercial planning agencies.
+The recognition of POPGROUP as the industry standard for local         planning.
+Users include local and national governments, health agencies, commercial       planning companies and universities, with the number of organisations       using the software increasing from 40 in 2008, to 111 by July 2013 (when       the most recent survey took place) [1][6].
+In October 2012 two-year       teaching licences were issued for the first time [1].
+The software       continues to develop, with the addition of the generalised Derived       Forecast facility in 2010, immediately utilised to implement forecasts of       long-term illness and disability in 2011 [2].
+Additionally, since 2010       Data Modules have been provided to fill demographic models with Government       (DCLG) &#8212; and other authoritative projections from within the UK &#8212; from       which users can develop in-house `alternative scenarios'.
+These       developments have led to a range of impacts:     1.
+POPGROUP has become the industry standard.
+Now "recognised         as the `industry standard' population forecasting model" [8], the       Head of Population Statistics at the Welsh Assembly notes how it has "contributed         to the development of the demographic knowledge base within local         authorities" [5].
+It was adopted in 2010 by the LGA, through an       agreement with the Steering Committee of software users, and is presently       used by 81 Local Authorities [1][6].
+Simpson, in collaboration with these       users, has taken the lead in designing each subsequent software       development, and is now technical manager to the Steering Committee.
+2.
+POPGROUP has facilitated the implementation of policy in socially         dynamic contexts.
+In particular, POPGROUP addresses the UK       Government's `National Planning Policy Framework' (2012) that requires       every local authority to make a `Strategic Housing Market Assessment',       supported by robust demographic projections.
+This is exceptionally       important, as the co-ordination of such assessments by regional bodies was       scrapped in 2010, as part of the UK Government's `localism' agenda.
+As the       co-chair of Local Authorities on the Central and Local Information       Partnership notes:     "POPGROUP allows Local Government demographers the flexibility to         examine population, household and labour force projections at a level         appropriate to their needs... alternative scenarios can be quickly         generated, by manipulating any of the components, and compared with         previous sets.
+This facility is particularly useful when looking at         alternative Planning scenarios for House Building as required by Local         Spatial Strategies; with the abolition of Regional Spatial Strategies,         this has become a key requirement for Local Authorities" [4].
+The success of POPGROUP in providing an accessible technical framework       for local planning has emerged directly from the underpinning research       cited, with its algorithms and understanding of common local needs across       diverse circumstances providing an accessible and user-controlled planning       tool.
+3.
+POPGROUP has been used throughout the nations of the UK in         socio-geographically diverse situations.
+The national statistical       agencies of Wales, Scotland and Northern Ireland have made use of POPGROUP       for their production of sub-national demographic forecasts.
+The Welsh       Assembly Government used the software for their council area population       forecasts (2010 and 2013); noting that "POPGROUP has proved to be a         useful tool in enabling government bodies such as the Welsh Government         to produce demographic projections at a local authority level &#8212; this         includes Unitary Authorities and National Parks" [5].
+National       Records Scotland also used the software for national park population       forecasts (2011), working with Simpson and Lomax to develop local ward       projections.
+Their Head of Population and Migration Statistics confirms       the value of this work:     "The project was in two phases the first of which was the production         of projections for multimember wards for Fife Council area and the         second phase was to work with National Records of Scotland (then General         Register Office for Scotland) to develop the same projections in-house         and to compare different methods using more detailed data.
+Comprehensive         recommendations and guidance was produced to allow others to more easily         produce their own projections for small areas.
+Feedback from Councils on         the project and on the guidance has been very favourable.
+Subsequent         recent follow-up work to produce user guidance for the derived forecast         model was also produced to very short deadlines and within budget."
+[7]     4.
+POPGROUP is increasingly used by commercial planning agencies.
+As of July 2013, six commercial organisations have purchased POPGROUP       (Barton Willmore, Ecorys UK, GVA Grimley, Nathaniel Lichfield and       Partners, ORS and Regeneris Consulting Ltd.) These organisations advise       local authorities and housing development companies in Britain, and have       turned to POPGROUP software as a `standard' since 2010.
+GVA, a large       consultancy firm working both for local authorities and private       development agencies, underlines this recognition:     "POPGROUP is becoming increasingly recognised as the Industry standard         population forecasting model.
+This is evident through the requirement to         have POPGROUP expertise in a majority of the recent public sector tender         opportunities we have worked on.
+This requirement has also stimulated         the commercial sector's use of the model to interrogate and challenge         published projections elsewhere.
+From our own experience we have used         POPGROUP both to define local housing requirements as well as challenge         those previously set.
+Our work using POPGROUP has been used to         successfully justify an increase in local housing requirement in support         of major housing development, by demonstrating a range of scenarios         where higher housing numbers would be required."
+[8]     In large part, it is POPGROUP's accessible Excel platform that has       assisted wider uptake.
+Ongoing engagement: In addition to these impacts, UoM's annual       training course in POPGROUP &#8212; in addition to self-training POPGROUP       practical modules &#8212; reflects breadth of impact.
+In 2013, the 18       participants came from: local authorities (9), Universities (4), national       statistical agencies (3) and commercial companies (2) [9].
+Moreover,       international interest has been reflected in users in the United States       (U.S. Census Bureau), Finland, Singapore and Malaysia, and the inclusion       of POPGROUP in a 2011 review of three demographic software packages       commissioned by the Latin American Population Association [10].
+The       influence of POPGROUP is ongoing, as upon the retirement of Simpson in       2009, Edge Analytics Ltd won a tendering process to support users and to       develop, distribute and market the software.
+According to Edge Analytics'       Managing Director, "the contract helped the company to develop and         enlarge from one to five staff by 2013, each of whom have had         significant workloads related to POPGROUP" [3].
+Simpson remains the       technical manager.

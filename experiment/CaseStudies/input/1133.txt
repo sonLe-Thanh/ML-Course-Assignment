@@ -1,0 +1,31 @@
+     Research into electronic voting, by Fairweather and Rogerson, played a       key role in a dramatic change from a steady move towards implementation of       e-voting in the UK to its abandonment in 2008.
+The Electoral Commission reported on the 2002 electronic voting election       pilots that: "The primary aim of the e-pilots was to establish the       security and reliability of the voting mechanisms and to start to build       public confidence; this was achieved," (2002, p4).
+In the same year,       Fairweather and Rogerson produced their technical report from the       "Implementation of Electronic Voting in the UK" project - a report which       was critical of the pilots and highlighted the need for more security       analysis.
+As part of their dissemination strategy of the "Implementation       of Electronic Voting in the UK" project, the Fairweather and Rogerson       (2002) report was made available on Government websites.
+From here, the       technical report was cited by the 2002 Security Study of the UK's National       Technical Authority for Information Assurance (CESG), who stated that       Fairweather and Rogerson (2002) had `interesting recommendations' (p 39).
+These `interesting recommendations' were then incorporated into the main       recommendations from the CESG (2002).
+The Electoral Commission took on board the criticism by both Fairweather       and Rogerson (2002) and CESG (2002) that more thorough security analysis       of pilots was needed.
+The subsequent security analyses revealed that the       pilot projects did not "apply best practice in the area of security"       (Actica 2007, p15).
+Between 2002 and 2008, decisions on further e-voting election pilots were       taken annually, however, during this period it was noted that "There has       been some impact on the pilots by some reports of academics in the UK,       making it more difficult to go ahead" (Pieters 2008, p49, quoting Peter       Facey).
+In November 2008, the Government announced that: "The Government are       considering what the appropriate next steps are in relation to remote       electronic voting," (Hansard 2008), simultaneously announcing for the       first time there would be no piloting in 2009.
+There have been no further       pilots of electronic voting since.
+The announcement in Hansard (2008) can       now be seen as the effective announcement of an end to progress towards       electronic voting in the UK, with an estimated annual cost saving of &#163;4m       (Actica, 2007, pp 19-20).
+In Finland, criticism such as that contained in       Heimo, Fairweather and Kimppa (2010) has resulted in e-voting not being       piloted at elections that have taken place since October 2008.
+Stahl's and Rogerson's research into the ethical issues associated with       ICTs has played a key role in the policy direction of the EUs FP7 and       Horizon 2020 research funding programmes.
+The European Commission recognises that ICT can raise specific problems       that require specific guidance, and for the FP7 funding programme they       established the website       http://cordis.europa.eu/fp7/ethics-ict_en.html       (European Union 2007) to help address these issues.
+The website was       constructed in close collaboration with the CCSR based on research       undertaken in the centre since its inception in 1996.
+The guidance       provided in it was aimed at all ICT research proposals submitted to the       FP7 programme (which ran between 2008-2013) and had an overall EC       contribution of approximately &#8364;7 billion.
+The European Group on Ethics in Science and New Technologies (EGE) is an       advisory body reporting directly to the President of the European Union.
+Under the direction of European Commission President Barroso, the EGE has       published an `Opinion on Ethical Issues of ICT'.
+Stahl was the first       external expert to present his views to the EGE in preparation of this       Opinion on 12 April 2011 and was re-invited for a public hearing on the       same topic on 15 Nov 2011.
+Stahl's presentation was based on the findings       and recommendations of the ETICA project.
+He also presented at the final       hearing of the EGE, in preparation for the publication of the Opinion       (published in 2012).
+The EGE's website       (http://ec.europa.eu/european_group_ethics/index_en.htm,       accessed 23.05.2011) states that "the Opinion may offer a reference point       to the Commission to promote a responsible use of the Digital Agenda for       Europe and facilitate the societal acceptance of such an important policy       item.
+The Opinion should take into consideration different possible       applications of ICT, such as widespread take-up and use by citizens of the       internet, 0435-health and use of ICT in environmental and agricultural       domains."
+EGE Opinions can be considered "soft law" as they are considered       in their area of expertise.
+The Opinion on Ethics and ICT has guided the       ICT research policy with regards to ethics and ICT for the remainder of       FP7 (2012-13) and established underpinning principles for the Horizon 2020       programme.
+The EU Directorate General Research and Technology Development,       Directorate B (European Research Area) is preparing a recommendation for       Member States on the topic of "responsible research and innovation" (RRI).
+The ETICA, PHM Ethics and CONSIDER projects are all financed by this       directorate and involved the CCSR as coordinators or WP leaders.
+As a       result of this research, the CCSR's Director, Stahl, was invited as a       participant in the first preparatory workshop (May 2011) to develop the       principles of responsible research and innovation and ways to achieve it.
+As a consequence of these and related activities, responsible research and       innovation is also being implemented as a cross-cutting activity in all       Horizon 2020 research (worth more than &#8364;70 billion).
+Thus, this research       has directly informed the policy framework for the Horizon 2020 programme       in two distinct areas.

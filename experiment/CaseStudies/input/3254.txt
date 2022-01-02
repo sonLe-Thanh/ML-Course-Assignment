@@ -1,0 +1,19 @@
+     The ABB electrostatic system based upon Teesside's research is currently       the most widely adopted commercial technology whereby PF flow can be       measured and PF flow distribution can be actively controlled.
+Since       demonstration of the technology and its commercialisation by ABB the       PfMaster flow measurement systems have been installed in many power       stations worldwide.
+The development of this measurement technology at Teesside, in       conjunction with colleagues at ABB, has led to 5 UK, 3 USA and 1         European patents since 1993 [1].
+Although the benefits of PF distribution control are highly site       specific, the techno-economic analyses undertaken in ECSC project 7220       PR050 [2] determine             NOx reduction of between 7.5% and 20%, depending on         the firing configuration of the plant.
+Boiler efficiency gains of between 0.22% and 0.37%.
+Payback periods between 3.5 and 7 years.
+Assuming the boiler efficiency improvements to result in equivalent       reductions in carbon intensity of combustion, these estimates lead to:             Carbon emission reductions of between 5 and 8 kg CO2           per tonne of coal.
+For illustration, Methil power station was a 60 MW facility.
+Assuming a       capacity factor of 75 % this equates to a constant output of 45 MW,       generating approximately 1 GWh each day.
+With a net calorific value for       coal of approximately 26 GJ/tonne, this equates to between 700 and 1,100       kg CO2 of emissions reduction per day.
+ABB Ltd have, between January 2008 and July 2013, sold in excess of 148         units for installation in international markets including USA,       Europe and China [1], and have sold 510 in total since 2000.
+The Greenbank Group UK are installers of the PfMaster technology and have       provided Teesside University with a report estimating the impact of       PfMaster installation [3].
+During the period 2008 to 2013 their revenue       from PfMaster sales totalled &#163;272,878.
+Greenbank state that       installation leads to improvements in coal distribution and particle       fineness consistency, leading to lower carbon-in- ash and improved power       station efficiency of 0.85% per fully installed unit.
+Greenbank estimate       that this has had an economic benefit on their customer stations of         &#163;2.4m during 2009-2013, based on a typical &#163;500,000 saving for a       typical 500 MW boiler and typical fuel process for the period.
+Greenbank further estimate that, based upon increased unit output       achieved through lower dust emissions, the installed units will have       generated a saving of &#163;160,000 per year over the period 2009 -       2013.
+Environmental benefits have been estimated by Greenbank to be valued       at &#163;240,000 over the period due to reduced ash disposal and a         NOx reduction of ~ 100 mg m -3.
+The development of the rope-breaker technology, underpinned by Teesside       research, contributed to Greenbank's receipt in 2007 of two Rushlight       Awards which support and promote clean technologies.
+Research in this area and the collaboration with both ABB and Greenbank       is on-going and led by Dr Zhang as part of the Analytical Instrumentation,       Measurement and Control Engineering theme of Teesside University's       Technology Futures Institute.

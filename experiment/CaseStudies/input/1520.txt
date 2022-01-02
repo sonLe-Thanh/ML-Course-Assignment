@@ -1,0 +1,33 @@
+     John Martin was a British artist whose epic painting, Destruction of         Pompeii and Herculaneum (1821) was a central work of his apocalyptic         sublime style, which has influenced popular representations of       catastrophes such as Lord Of The Rings and Hollywood disaster movies.
+Ironically, the painting suffered its own catastrophe when it was       extensively damaged following the 1928 Thames flood, including the loss of       approximately one-fifth of the canvas (Figure 1, left).
+Figure 1: Left = John Martin's The Destruction of Pompeii           and Herculaneum before treatment.
+Right = Tate conservator         hand-restoring the painting based on the life-sized digital composite         (displayed to the right).
+Photograph courtesy of Sunday Times (published         Sunday 4th September, 2011).
+The painting was considered lost until advances in conservation       techniques made a restoration feasible.
+However, the question of how to       fill the lost section without distracting from the remaining portion       remained.
+To answer this question, Dr. Smith was consulted.
+He worked with       the conservation department of TATE from October 2010 to September 2011.
+Together with the lead conservator, Smith created a digital reconstruction       of the complete canvas by integrating a digitized version of a smaller       intact copy by the artist.
+Digital manipulation of the reconstructed       version created a "best guess" of what the full original might have looked       like.
+The lost section was digitally altered to create several alternative       infill options, including a neutral colour infill (Figure 2, left), a       lower-contrast version, and an "abstracted" version with less edge       information.
+Computational saliency analysis by Smith predicted that       viewer attention would be undesirably attracted to the edge of the loss in       all versions, except for the full restoration and the "abstracted"       version.
+To validate these predictions, each version was presented to       twenty viewers.
+Eye movements were recorded using a Tobii TX300 head-free       eyetracker to approximate the conditions under which the painting would be       viewed in a gallery.
+Eyetracking illuminates which parts of the painting       attract attention (dots in Figure 2 indicate where the eyes stopped during       fixations), and how attention is shifted (Figure 2, lines).
+Analysis of       eye movements for the full digital restoration (Figure 2, right) revealed       that viewers spent most time fixating the mouth of the volcano and the       characters in the foreground.
+With the neutral colour infill (Figure 2,       left), the edges of the loss distracted from the original content, and       viewers failed to comprehend the subject matter of the painting when       quizzed afterwards.
+Prior to this eytracking evidence, TATE conservators       were considering the traditional technique of using a neutral infill to       replace the loss.
+Demonstrating the destructive impact this would have on       attention and comprehension led them to take the bolder step of a full       restoration with abstracted features in the restored section, to bias       attention towards the original content (Figure 1, right).
+Figure 2: Gaze scanpaths for one participant viewing the Neutral         Infill restoration (left) and full restoration (right) of the painting.
+Dots represent fixations; lines represent saccades.
+The restored painting went on display at TATE Britain as part of a John       Martin retrospective in September 2011.
+Critics of the painting       restoration plans were universally appreciative of the finished product: "Should         the canvas be made good and the missing portion left bare?
+...Or should         a full restoration be attempted, with the missing portions repainted,         exactly as they were...?
+Happily, the Tate chose the latter."
+(Waldemar Januszcak, Sunday Times, 2011).
+This view is mirrored by the       curator of the exhibition "The whole process behind making this         [restoration] decision was ... exemplary of how technical research,         experiment and curatorial and conservation can productively be brought         together.....A painting which has been in storage and neglected for over         80 years can be brought back to public view, and then not as a         `artefact' or technical curiosity, but as a powerful work of art.".
+The painting has now been re-entered into the TATE catalogue and again       serves to illustrate John Martin's role in British art history.
+The       experimental and computational techniques used in this project have been       positively received by the painting conservation community at an       international conference (Maisey et al., 2011).
+This novel approach to       restoration has obvious potential for future application in a domain where       decisions are usually based on intuition rather than empirical fact.
+According to TATE's lead curator "What would have been a curatorial         hunch was bolstered in very important ways by [the] empirical evidence."
+For the lead conservator of the painting, the project with Smith "has       changed the way I work on a day to day basis" (sources 2 and 3 below).

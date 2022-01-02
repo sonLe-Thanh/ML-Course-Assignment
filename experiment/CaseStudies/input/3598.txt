@@ -1,0 +1,35 @@
+     The predictive methods and novel techniques developed by the University       of Huddersfield's       research into machine tool accuracy have benefited a range of end-users in       industry, both       nationally and internationally, throughout the impact period.
+Leading UK employers such as BAE systems and Rolls-Royce (RR), as well as       major local       employers such as Yorkshire-based Micro Metalsmiths, were among the first       beneficiaries of PC-based       compensation systems (VCS) and have continued to use increasingly advanced       versions of       the technology since 2008.
+In the case of RR VCS was initially introduced       because two large       vertical turning lathes, designed to manufacture jet engine casings, did       not meet the accuracy       specification required by the company.
+RR still depends heavily on CPT's       compensation system to       produce its fan casings to the required tolerances.
+Collaboration with Siemens on developing the compensation system for       industrial CNC has led to       a number of high-profile installations on machine tools requiring new       levels of accuracy for the       Joint Strike Fighter (JSF) programme, the $1.1trn development and       acquisition programme       intended to replace a range of existing military aircraft used by the UK,       the US and their allies.
+The       programme validated the system and required that any manufacturers       supplying parts for the JSF       should use machines fitted with the VCS.
+Companies using VCS-equipped       machines for the JFS       programme include Rambaudi, Lockheed, Northrop Grumman, GKN Aerospace and       Delcam.
+As a       result of its collaboration with CPT, Siemens has produced a commercial       compensation system       and actively marketed it globally.
+The aforementioned compensation work at Rambaudi, a machine tool builder       in Italy, also resulted       in CPT being invited by Renato Ottone, then director of the company, to be       a partner in the       SOMMACT FP7 project (2009-2012), which used and enhanced both the TempSpy       and VirMach       systems.
+SOMMACT's main aims were a 50% reduction in product dimensional       errors, a 10-30%       reduction in total manufacturing time and a 70% reduction in       post-machining inspection for single-batch       production.
+Alesamonti, the SOMMACT co-ordinating company, is now       implementing many       aspects of the project into its product range of high-accuracy facing and       boring machine tools (i).
+A       patent application has been submitted for the KinLoc       six-degrees-of-freedom, high-accuracy       sensor developed by CPT.
+Under a TSB grant in collaboration with AsquithButler Ltd, the UK's only       manufacturer of very large       machine tools, the error compensation system, now known as Machine Tool       Compensation system       (MTC) has recently been integrated into a PowerCentre 500, 5-axis       horizontal ram, moving-column       machining centre (c).
+The volumetric error (geometric) was reduced by 90%       as a result.
+AsquithButler is now considering installing the system on other machines       within its holding       company, the Kingsbury Group.
+AsquithButler Managing Director, Paul       Hinchliffe, has remarked       that the system is "extremely desirable from a sustainability aspect" (d).
+Since 2011 the MTC       system has been part of a licensing agreement with Dapatech System Pte       Ltd., whose managing       director, Alexander Ponfoort, has commented that "the system will bring       benefits to the global       machine tool industry" (a,b).
+CPT was also selected to be a fundamental contributor to Rolls-Royce's       SAMULET project       (Strategic Affordable Manufacturing in the UK with Leading Environmental       Technology, 2011-2013).
+The objective was to develop a rapid calibration strategy for machine       tools and reduce the       average time for full 3-axis machine calibration from several days to less       than one hour.
+This has       been successfully demonstrated in CPT's CNC Laboratory and on machines in       R-R facilities.
+CPT       has been complemented on the outcome, and a further contract is now being       negotiated to       incorporate the process into RR workshops at Barnoldswick.
+In addition,       further collaboration       between CPT and Renishaw has produced a prototype laser capable of       measuring six degrees of       freedom simultaneously.
+This system is currently being Beta-tested in       advance of commercial       release (f).
+The thermal compensation research was key to CPT becoming a participant       in the FP7 project       ADAMOD (2009-2011).
+The project needed a thermal compensation system with       higher levels of       accuracy than achievable in any literature.
+The University of Huddersfield       successfully completed       the project by data fusion of on-machine strain measurement with       temperature into the thermal       compensation system.
+This has led to a further FP7 grant, EASE-R3, which       commenced July       2013.
+The use of CPT's new methodologies throughout the industry has led to a       series of industrial       training courses, developed and delivered in collaboration with Machine       Tools Technologies Ltd       and aimed primarily at maintenance engineers employed in advanced       manufacturing (e).
+Between       2008 and 2010 four five-week courses were run for engineers from R-R, BAE       and AWE.
+Additional       shorter courses for on-site training have also been provided.
+The       University benefits from income       (approximately &#163;15k per course for an average of six engineers) and the       strengthening of links with       industry.
+These courses also help reinforce collaboration between CPT and       its industrial partners,       with management and personnel who attend training often requesting further       work (e.g.
+appraisal       of machine tool purchase).
+From 2011 CPT staff have helped shape policy in the area of machine tool       metrology through       membership of the Manufacturing Technologies Association technical       committee and active       involvement in BSI and ISO standards committees (MTE1-2 and ISO TC39 SC02       respectively).
+As       chair of the BSI machine tool standards committee, Prof. Myers has an       overview of all BSI and ISO       standards relevant to machine tool accuracy.

@@ -1,0 +1,28 @@
+       Pratt &amp; Whitney are one of the `big three' global aerospace         manufacturers whose engines power more than 25% of the world's mainline         passenger fleet.
+They reported revenue of US$14 billion in the year 2012         [B1].
+In 2003, the United Technologies Company (UTC &#8212; Pratt &amp;         Whitney's parent company) technical advisory committee issued a         challenge to require all engineering analyses to have an associated         uncertainty (covering accuracy and precision) and range of         applicability.
+In response, Pratt &amp; Whitney undertook the         Uncertainty Quantification Initiative which, in 2008 [B2], became the         Design for Variation (DFV) Strategic Initiative [B3].
+This initiative         moved the design process within the company from a deterministic to a         probabilistic design framework, and is described in a paper written by         18 Pratt &amp; Whitney employees [B4] as a `paradigm shift' in their         engineering approach.
+Their introduction states that       "Much of the analytical structure of DFV is derived from the Kennedy           and O'Hagan (2001) [A1] paper on Bayesian model calibration.
+Kennedy           and O'Hagan developed models and methods for Bayesian model           calibration which, in addition to calibrating model parameters,           quantify systematic and random discrepancies between model and data."
+The main impacts of DFV at Pratt &amp; Whitney are:                 Increasing the time that an engine stays "on wing".
+This is           directly related to reducing important sources of variation, thus           aircraft availability or readiness can be managed and improved using           DFV technologies [B4].
+Improved identification of cost-reduction opportunities.
+DFV           technologies are used to highlight design and process features that           have little impact on the part or system performance but are expensive           to maintain [B4].
+Since DFV's inception, the company has realised a range of benefits,         including increased speed of design studies and optimisation, root cause         investigations using engineering model emulators, and improvement of         quality systems through identification of inspectable characteristics         that are more highly correlated with service performance [B3, B4].
+DFV has catalysed a shift in design paradigm across Pratt &amp;         Whitney, and has involved quantifying all of the uncertainties in their         design and simulation process.
+Grant Reinman (senior statistician and         DFV leader) based the company's approach upon [A1], and in 2011/12 he         gave a series of conference talks (including at NASA and the Isaac         Newton Institute [B5]) describing how the methods of O'Hagan have been         successfully implemented at Pratt &amp; Whitney.
+Al Brockett, former         vice president at Pratt &amp; Whitney, recently described how DFV has "changed           from a special initiative focused on statistical training to a           high-visibility strategic priority" for the company [B3].
+This         successful and large investment of time and money is the most complete         demonstration of the impact of the work developed by O'Hagan at UoN.
+Pratt &amp; Whitney estimates "that its component-level DFV           initiatives have yielded a 64 percent to 88 percent return on           investment by reducing design iterations, improving manufacturability,           increasing reliability, improving on-time deliveries, and providing           other performance benefits.
+As Pratt &amp; Whitney focuses           increasingly on the systems level, it estimates that it will realize a           40-times return on investment by achieving systems-level reliability           goals much earlier in the development cycle."
+[B3, see also B5].
+A         Business Case Study undertaken at Pratt &amp; Whitney quantifies savings         in costs for a large fleet of military aircraft at approximately US$1         billion [B6].
+Applying DFV is estimated to save 18-37% of scrap and         rework costs and 80% of the engineering support costs associated with         turbine aerofoils that do not meet final air flow requirements [B4].
+The scale of a typical DFV project is highly proprietary to Pratt &amp;         Whitney, but it has involved the creation of a new group within the         company (Parametric Modeling, Design Automation, Optimization and DFV),         and extensive training of a large number of staff across the entire         company in UTC's degree programme [B3, B6, B7].
+DFV has grown into a         core competency, and is applied as a 10-step process that guides all         engineering activities [B3].
+Pratt &amp; Whitney has created hundreds of         internal courses and over 200 engineers have taken the advanced         emulation and calibration classes, and 5 engineers have taken complete         graduate degrees in statistics [B6].
+Since the start of the DFV         initiative in 2008 [B2], 32 different key modelling processes have been         DFV enabled [B4], ranging through the entire engine design process, from         fan, compressor and turbine design, to performance analysis and engine         validation.
+The Uncertainty Quantification methodology is considered by Pratt &amp;         Whitney to be part of their competitive advantage, as controlling         variation has become one of the keys to improving performance while also         improving part yield and quality [B3].
+Other key competitors and         collaborators (e.g.
+General Electric, Airbus) are beginning to use         similar methods actively in their design processes [B8].

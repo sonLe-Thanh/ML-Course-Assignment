@@ -1,0 +1,16 @@
+     Cranfield's research on LCA has been used directly by ministers and in       public debate, informed public policy, and provided major contributions to       Foresight and similar planning.
+Ministerial and public debate     Our research has been used directly by government ministers, such as the       International Development Secretary when defending international trade       [1].
+Our work on GHGE from the national food system has also had a major       impact on public debate [2, 3].
+Such examples have helped lead to national       research on improving cattle health and reducing GHGE from milk and beef       production.
+Popular science books about carbon footprints also draw       heavily on Cranfield LCA research when considering food [4].
+Policy     Cranfield's research underpinned the Cabinet Office Strategy Paper "Food       Matters: Towards a strategy for the 21st Century' [5] and the       impact of our LCA work has been demonstrated by Defra's requirement for       the use of Cranfield's modelling in development of all-embracing       assessments of farming systems, including social and economic factors       (OF0386).
+Our research made a major contribution to the development of a       specification for the carbon footprinting of food production (PAS2050)       which has become the international approach to the application of carbon       footprinting to food.
+In particular, the research contributed methods for       quantifying uncertainty [6] and improving the approach to quantifying GHGE       emissions from land use change (LUC).
+The method for calculating LUC GHGE,       developed for WWF, also now forms the basis of the method the Dutch       livestock industry applies for the carbon footprinting of animal feeds       [7].
+Research on land use per functional unit led to a requirement from Defra       to study a number of key policy questions, including the best       configuration of livestock systems, and work for WWF on how to achieve       very low GHGE from UK food production.
+The WWF work on dietary change led       to policy-enabling work for the Committee on Climate Change, contributing       to the 4th Carbon Budget Report [8].
+The work on livestock systems also contributed to a major Defra workshop       on animal health, led by the Chief Veterinary Officer in March 2010, and       to subsequent quantification of the benefits of improving cattle health on       GHGE for Defra (AC0120).
+Using our systems approach to quantifying the environmental impacts of       and water use by grazing livestock has also helped levy bodies develop       roadmaps to reduce the impacts of their industries, and contributed to the       GHG Action Plan for the English agricultural industry [9].
+Foresight     The Government Office for Science Foresight Report &#8212; `The Future of Food       and Farming' [10] cited Cranfield's work on the broad spectrum value of       systems LCA, based on themed papers on livestock and land use, and       participation focused on resource use.
+Worldwide     Our LCA models are accessible to anyone to study and analyse as an Excel       spreadsheet (https://webapps2.cranfield.ac.uk/webforms/form.jsp?formId=12024).
+Over 800 users globally have downloaded the models.

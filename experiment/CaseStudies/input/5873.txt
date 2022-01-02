@@ -1,0 +1,43 @@
+     Provision of antibody-related tools and databases to the         pharmaceutical industry     Martin has been making antibody-related tools available for free use over       the Web since 1996       when KabatMan made the Kabat antibody sequence available in a manner that       let people perform       automated global analyses of antibody sequences for the first time.
+The initial development of Abysis, a new integrated database of antibody       sequences and       structures, was funded by biopharmaceutical company UCB (2006-9) in return       for which they       received a version for in-house use.
+This is now their primary resource       for analysis of antibody       sequence and structure and is used as a repository for their own in-house       antibody sequence data       [a].
+Abysis has been made freely accessible over the web since 2009.
+Between       October 2009 and       December 2012, Martin's antibody-related pages (including Abysis) have       been visited &gt;570,000       times (Abysis &gt;360,000) by nearly 43,000 distinct users (Abysis nearly       8,000).
+This represents an       average of &gt;14,600 visits per month (Abysis &gt;9,200) from &gt;1,100       distinct users (Abysis &gt;200) per       month.
+Commercial users of the online Abysis and the antibody web site       include: [text removed for       publication].
+Abysis has also been released under a commercial license since the end of       2009 through UCL       Business for in-house use by commercial customers.
+It has been purchased       by companies ranging       from small biotechs to large pharma for use in their antibody therapeutic       development pipelines       and has grossed [text removed for publication] of sales on annual licences       [b].
+Commercial users       with company installations of Abysis system include [text removed for         publication].
+(All have been       purchased on annual licences, most of which have renewed each year.)
+UCB       and the other       companies that have purchased Abysis use it to store their in-house       sequence data and compare it       with public data.
+This enables them to identify unusual features of their       sequences and to improve       strategies for humanisation [c].
+[text removed for publication]     [text removed for publication] also used the measure of humanness       available within Abysis to       show that Humira, the first `fully human' antibody (produced by phage       display), did not appear       especially human in nature.
+Recent results have shown that almost 30% of       patients develop anti-antibody       responses within three years, suggesting that this humanness measure may       well be a       useful tool to help predict immunogenicity, and it is being used within       Abysis for this purpose [f].
+In recognition of the commercial impact of the Abysis software, the BBSRC       funded a 1-year project       under its `Follow-On' scheme for further commercial development and       marketing of Abysis starting       May 2013 [g].
+This grant is allowing various improvements focused       on the needs of customers       such as easier installation, an improved interface, easier input of       proprietary sequence data and       interfacing with protein modelling software.
+In addition, it includes       funding for marketing including       market research and commercial stalls at key industry-attended       conferences.
+Another of Martin's programs, his ProFit software for protein structure       least squares fitting has over       75 commercial users including [text removed for publication] [h].
+Drug development     Collaborations with other UCL groups include work on anti-DNA antibodies       in systemic lupus       erythamatosus (Kalsi et al., 1996; Ravirajan et al., 1998).
+Here,       expertise in antibody modelling led       to structural models of antibodies interacting with DNA that were tested       though mutations.
+Other       collaborations include work on features of fine specificity (Lie et al.,       1999) and expression       (Kipriyanov et al., 1997; Saldanha et al., 1999), the latter suggesting       mutations that significantly       improved expression and/or stability without affecting binding.
+A review of the patent literature has shown that over 800 patents were       published in the REF period       where the patent applications cite the publications given above,       indicating significant commercial       relevance of Martin's work.
+The list of assignees that hold patents citing       Martin's research papers       include: Hoffman-La Roche, Novartis, AstraZeneca, GlaxoSmithKline, Abbott       Laboratories and       many more, around topics including antitumor antibodies, fibronectin       cradle molecules,       amyloidogenic disease and recombinant anti-interleukin-9 antibodies [i].
+Recently, a collaboration with the French Centre de Recherche du Service       de Sant&#233; des Arm&#233;es       (CRSSA) [j] led to Idec no longer maintaining their patent       restricting the use of macaque antibodies       as therapeutics (US5693780).
+Martin's measure of humanness, available       within Abysis, has shown       that, contrary to claims in the Idec patent, macaque antibodies can be       distinguished from human       antibodies.
+This has therefore given freedom to operate, in the use of       macaque antibodies as       therapeutics, to all commercial companies as well as for development by       the CRSSA.
+Provision of expert witness in court cases     Martin's expertise in antibodies was recognized by UCB who asked him to       act as an expert witness       in a series of related patent disputes from 1998 onwards, while his       general expertise in       bioinformatics was recognized by Human Genome Sciences and GlaxoSmithKline       who asked him       to be an expert witness in cases related to gene patenting.
+Those within       the impact period of 2008-13       are described below.
+2007-8 &#8212; Lilly vs. HGS (EP0939804B1, Ebner et al) [k, l].
+Lilly       challenged the validity of HGS's       patent on neutrokine alpha (also known as Blyss or BAFF) on the grounds of       industrial application       and obviousness.
+This was a very important case for Biotech in the UK.
+Lilly claimed that it was       obvious that this gene/protein was a member of the TNF family and       therefore there was no       inventive step.
+Martin argued for HGS in the UK courts that it was not       obvious what this gene       would do, showing the complexity of the bioinformatics involved in       identifying its function.
+This is an       important area for all genes/proteins whose function is determined through       Bioinformatics       approaches.
+The judge in the initial UK hearing was fully convinced by       Martin's evidence and this       area was never questioned again during the subsequent appeals [m].
+2010-11 &#8212; lnterference 105,705, US Application 10/938,117 (Adair et al.)
+v US6180370 (Queen et       al.).
+UCB counter-attacked PDL claiming that PDL's patent interfered with       their own.
+While it has       stood up in court, the PDL patent is open to certain interpretations that       mean that (depending on       the priority date to which it is entitled), it may be pre-empted by       various pieces of prior art.
+A       settlement was reached out of court [n].
+2011 &#8212; Appeal on refusal to grant patent &#8212; Colombian patent application     [text removed for     publication].
+While UCB have been successful in gaining patents in most     countries, the Columbian     patent office refused to grant a patent and Martin was asked to give an     expert opinion on matters     related to the grounds for refusal [n].

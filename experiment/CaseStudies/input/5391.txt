@@ -1,0 +1,39 @@
+            The initial external impact of the research and patented micro-slab         laser technology [4] has been through the formation of a spin-out         company, Midaz Lasers Ltd [A, B].
+Midaz was formed by Prof. Michael         Damzen and Dr Ara Minassian (Postdoctoral Research Assistant and former         PhD student) in 2006 as a vehicle to commercialise the technology.
+Until         its sale to Coherent Lasers Ltd in July 2012, Prof Damzen was on the         Company's Board of Directors and acted as Chief Technology Officer (CTO)         and Dr Minassian acted as Chief Scientific Officer (CSO).
+The initial         funding from Imperial Innovations and the business angel, Dr Paul         Atherton, in 2006 was followed through with further funding from the         same investors in the period 2008 - 2012 [C, D].
+The company has         employed three full-time and six part-time employees since January 2008.
+The primary market and beneficiary for Midaz laser technology is in         the industrial laser manufacturing sector.
+Midaz high gain technology         allows increased speed and precision of manufacturing with a significant         cost reduction and decrease in laser size for improved integration of         the laser technology.
+The laser processing market is the single biggest         laser application in terms of US dollar sales, with laser sales         exceeding 2 billion US dollars annually (Source: Laser Focus World,           Annual Review of Laser Marketplace).
+The main customers targeted         by Midaz were systems-integrators and laser solutions providers         (including other laser companies).
+Laser processing has grown enormously         in recent years, particularly in micro-electronics (e.g.
+laser         processing of silicon) and consumer products (e.g.mobile phones,         cameras, LCD TV, touch panel displays), as well as in more traditional         sectors (e.g.
+automotive, aerospace) and new high growth sectors (e.g.
+laser processing in solar cell production).
+The first laser installation &#8212; and the first external revenue income         into Midaz &#8212; was to the UK Laser Manufacturing Centre (UK-LMC) in North         Wales as early as Aug 2006, after just a few months of company         operation.
+An early prototype laser was successfully installed and         trialled by UK-LMC leading to the first invoiced income to Midaz [E].
+Midaz' main revenue since 2008 evolved from trialling prototype products         to customers in a number of industrial processing sectors (e.g.
+industrial diamond cutting, silicon wafer cutting).
+Additional company         income (~&#8364;150,000) arose from contract work to the European Space Agency         to develop alexandrite lasers for light detection and ranging (LIDAR)         applications [F, G, H].
+Since 2010, Midaz developed a few more fully engineered         (production-level) laser products incorporating the micro-slab         technology and the core patent [4] that derived from the Imperial         group's seminal research.
+This resulted in international sales of these         products, principally in Europe but also in N. America and Asia.
+In         particular, strong market traction of Midaz high gain amplifier products         occurred.
+Midaz amplifier products were both water-cooled (Product         Model: A70-W, [I]) and air-cooled (Product Model: A50-A, [J]).
+These         were attractive to other laser companies who could utilise the high gain         amplifier products to boost low power picosecond duration lasers to         powers relevant to the industrial market where power equates to         production speed.
+This simple step (low cost, low power seed plus Midaz         amplifier) offered massive potential cost savings over the current         expensive short pulse laser products.
+This market traction led Midaz to interactions with the world-leading         laser company, Coherent Lasers Ltd, and resulted in the investors'         decision to seek exit by sale of the shareholding of the company.
+On 23         July 2012, Midaz was successfully acquired by Coherent Lasers for $3.8         million, with a significant return for investors [K].
+Coherent, which is         headquartered in the USA, reported in their 2012 Annual Report and Form         10-K: "In July 2012, we acquired all of the outstanding shares of           MiDAZ Lasers Limited for approximately $3.8 million in cash.
+MiDAZ was           a technology-based acquisition.
+We intend to utilize the acquired           technology in low cost, compact pulsed solid state lasers" [L].
+As         reported in a Coherent press release announcing the purchase of Midaz         (the company also acquired Innolight Innovative Laser and Systemtechnik         GmbH at the same time), `"The acquisition of Innolight and MiDAZ           fits well into Coherent's mission of providing cutting edge solutions           to both industrial and scientific markets" states Mark Sobey,           Executive Vice President at Coherent.
+"We are excited not only with           the current Innolight product line, but also about the future ability           to extend the performance in many dimensions based on combinations           with MiDAZ and other Coherent technologies to address our customers           application roadmaps"' [M].
+A later quote by the CEO of         Coherent Lasers, detailing the impact of the Midaz acquisition, was         published in the online Optics.org newsletter: "And Coherent has           also snapped up Midaz Lasers.
+The UK-based company, originally             a spin-out from Imperial College, London, has developed           what [CEO] Ambroseo described as a "very compact and elegant"           solid-state amplifier operating across the nanosecond and picosecond           regimes.
+"Everybody at Coherent thinks it is very clever," said           Ambroseo of the Midaz technology.
+"[and that] we should have thought           of it first!""
+[N].
+Before the purchase by Coherent, Midaz had         highlighted the very high efficiency of the diode-pumped alexandrite         lasers that it has developed for satellite remote sensing applications.
+Coherent's plan for the future is to use the Midaz amplifier, in         conjunction with both existing Coherent lasers and those acquired from         Innolight, to improve capability in the general area of micromachining         [N].
+The CEO of Coherent assessed that, although the addition of         Innolight would have only a small impact on the company's sales in the         short term, the combination with Midaz' technology would deliver "tens of millions of dollars" in sales by 2015 [N].

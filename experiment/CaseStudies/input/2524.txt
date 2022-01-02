@@ -1,0 +1,30 @@
+     4.1.
+Formation of the company       Contemplate Ltd was formed in March 2009 to commercialise the research       described above [A,B],       and has obtained an exclusive licence to the corresponding IP for this       purpose from ITI Techmedia       (which owns the IP under the terms of its R&amp;D contract with the       University of Edinburgh).
+The       static analysis technology in Contemplate's first tool, ThreadSafe, builds       directly on the prototype       software developed in the course of the underpinning research.
+The       substantial performance       improvements over competing static analysis products offered by this       technology has been key to       Contemplate's success with clients.
+4.2.
+Reach and significance of the technology       ThreadSafe provides mechanisms for developers of highly sophisticated       multi-threaded enterprise       Java applications to understand their code and ensure that it is free from       errors.
+Contemplate's       initial market focus is in Investment Banking where in-house developed       low-latency trading       platforms and their front-ends provide banks with competitive advantage.
+Bugs in these       applications can be extremely expensive, whether they cause crashes or       deadlocks or unintended       or missed transactions.
+Estimates of the cost of downtime range from       US$25k to US$250k per       minute.
+Even more costly is the reputational damage caused by       client-visible bugs.
+Recent high-       profile examples in financial services are:            the cancelled IPO of BATS Global Markets, caused by bugs in its         software;       glitches in NASDAQ's software (reportedly caused by a concurrency bug)         which affected the         Facebook IPO and led to losses at leading investment banks of more than         $500m; and       bugs in Knight Capital's automated trading software leading to a loss         of $440m in 40         minutes.
+Controlling and quantifying the risk introduced by the possible presence       of such bugs is also       growing in importance, with ever-increasing regulation of risk in banking       including the US       Securities and Exchange Commission's proposed new rules ("Regulation SCI")       that regulate the       quality of software used by key market participants.
+4.3.
+Details of the problem       Multi-core hardware is becoming mainstream, yet most mainstream software       development is       currently unable to exploit it.
+Although Java has been designed to support       concurrency from the       ground up, most Java programmers are insufficiently versed in the       subtleties of concurrent       programming, since it is technically demanding and they have not needed to       use it.
+Concurrent       programming introduces new classes of highly unpredictable failures, for       which current testing       methodologies are inadequate.
+This leads to increasing numbers of bugs,       which are difficult to       resolve without supporting technology.
+4.4.
+Advantages of the static analysis technology       Contemplate's products, beginning with ThreadSafe, allow companies to       reduce costs and       minimise operational risk by producing better quality concurrent code.
+The       earlier that problems       are identified and fixed, the greater the saving or risk reduction.
+The       tools help software developers       eliminate bugs at an early stage, by providing:            interactive assistance to support good concurrency idioms       warnings by analysing concurrent interactions in programs as they are         written       visual feedback on the analysis to help the developer understand the         tool's findings.
+In 2011-2012, Contemplate worked with two of the world's top-ten global       investment banks in an       Early Adopter Programme in which pre-release versions of ThreadSafe were       applied to sample       production codebases.
+These trials were successful, with ThreadSafe       automatically revealing a       range of previously undetected important defects in these       business-critical applications.
+4.5.
+Release of the product       ThreadSafe was first released for sale in October 2012 [F,G,H].
+It has       been purchased for use in a       software project in one of the Early Adopter banks, with negotiations       underway with other projects       in the same bank, and is undergoing trials in other investment banks and       several other companies.
+Contemplate has agreed a partnership with GrammaTech, a leading US-based       static analysis       supplier, to make ThreadSafe's analysis engine available as an added-cost       plug-in to its       CodeSonar product, which targets mainly the embedded systems and aerospace       sectors.
+A       reseller arrangement has also been agreed with ArchitectGroup in South       Korea for distribution in       East Asia.
+Contemplate currently employs 5 FTE staff.
+Strong growth in revenue and       staff is predicted [C,D].

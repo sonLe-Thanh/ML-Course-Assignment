@@ -1,0 +1,34 @@
+     The interdisciplinary research described in section 2 coupled management-       and decision-science expertise with GIS technology to develop tools for       London's inward investment agency, Think London.
+As a result, the agency       was able to offer its clients across the world enhanced location analysis       to support business needs, to help make a stronger business case and to       facilitate relocation to London.
+For example, a technology company may       require a location which is close to major research universities, has good       transportation links with North America, and offers a cultural environment       which is attractive to the young urban professionals it seeks to hire.
+The       tool developed at UCL sifted through these, and dozens of other factors a       company would take into account, to provide profiles of suitable       locations.
+The business location decision support tools which emerged from the       research were used to develop three services, provided to Think London:     - A spatial database that captured the key dimensions of London's       business landscape, which enabled Think London analysts to provide       customised advice to businesses seeking to relocate to London.
+This was       accompanied by UCL-training for all Think London Business Development       staff members in the effective use of this tool.
+- Customised business location data generated for key clients.
+As a       special service for major Think London clients, UCL trained members of the       marketing team on the spatial analysis techniques required to generate       highly customised spatial analyses and reporting.
+- Development of a web-based tool for end-users.
+Following the success of       the original KTP, Think London co-sponsored an EngD for the KT Associate       to expand the decision-making tool and bring a version of it online for       remote users to access business location data without going through Think       London.
+Economic benefits and job creation       Prior to the merger of all inward investment functions into London &amp;       Partners in 2011, the tools and techniques developed in this research       formed an essential part of Think London's services to potential       businesses considering investment in London.
+From 2006-2011 they played a       significant role in developing the business case to support many of the       600+ inward investors attracted and hence contributing to the creation of       more than 18,000 jobs created [1].
+Even in the midst of the economic       downturn, London retained its place as Europe's number one business       location, facilitated by the services provided by Think London and London       &amp; Partners [2].
+Representative cases that specifically cite the value of such analyses in       support of business relocation and/or inward investment decisions are       described below.
+In June 2008, Microsoft announced its intention of opening a European       centre to invest aggressively in the search and advertising market through       its new product, the Bing search engine [3].
+In choosing a location for       Microsoft's European Search Technology Centre, Jordi Ribas (General       Manager) stated: "It is critical for an organisation like ours to be able       to tap into the best talent &#8212; and Think London worked with us from the       very start to help us find it" [4, p.26].
+In January 2009, the centre       opened in Central London, and became Microsoft's largest research and       development centre on search in Europe.
+This subsequently became a locus       for innovation in developing the Bing search engine; for instance, in May       2013, the release of its innovative `People Autosuggest' tool developed in       London, which helps narrow down searches for individuals [5].
+Samvo Group, an entertainment and gambling company, was seeking to open       its first retail outlets in London following an innovative new `caf&#233;'       model seeking to attract younger and more affluent customers.
+Tapping on       Think London's `latest research on location and talent clusters' [6,       p.14], Samvo opened two retail outlets in Camden and Hammersmith in 2011,       of which the latter was awarded an industry design award [7].
+In the midst of an economic downturn, the tools developed at UCL also       helped to prevent business flight from London.
+In 2008-09, for example,       KDDI Europe, a telecoms inward investor from Japan with headquarters in       London since 1972, was considering moving.
+As its director stated in a       Think London annual report, "We were evaluating our European locations and       one potential option was to move out of London.
+Think London's       intelligence and bespoke mapping technology created a convincing case for       staying in the City" [4, p.26].
+As a result, KDDI opened a new base in       east London which was both more affordable and close to its client base,       retaining 92 jobs which would otherwise have been lost, and expected to       hire 28 new staff members in the following three years [4].
+Supporting Think London's investment goals for the London Olympics       Think London was mandated by the Mayor of London and the London Olympics       Committee to generate 100,000 additional jobs over a 10-year period.
+Think       London's strategy was to emphasise the business opportunities immediately       around the Olympics, and the potential for growth even after 2012, and       provide the business intelligence and support to apply for Olympics       contracts.
+Given the dispersed Games sites and the investment       opportunities across the city which were available, expert and accessible       location analysis was an important part of this strategy.
+The web tool developed by UCL was an intrinsic part of the London       Business Intelligence Dashboard, launched in 2007, which provided an       interface to a wide range of data to support investment decisions [8,       p.14].
+This in turn was a significant component of Think London's Route to       2012 business road shows.
+Starting from 2007, Think London used a London       cab fitted with the Business Intelligence Dashboard as an iconic symbol of       the city and its business offering.
+This travelled across the US and       Europe, and a Mandarin version was launched to coincide with the Beijing       Olympics in 2008 [9].
+In 2009-10 alone, the road show moved between 13       North American cities [6, p.12].
+By 2010, these efforts had already led to       the creation of 2,400 jobs in London [6, p.13].

@@ -1,0 +1,39 @@
+ Route to Impact: Cardiff University agreed to undertake funded research on sales forecasting for Procter &amp; Gamble, as a result of a long standing relationship, from 1998 and 2006.
+The outcomes of this research were published in a series of confidential technical reports for Procter &amp; Gamble.
+In 2004, through the transfer of the Associate Director of Procter and Gamble, CMK (Phil Parker) to Nielsen, the company approached Cardiff University to further develop statistical and mathematical models for forecasting purposes.
+The research has been applied by Nielsen and has led to the following impacts: Economic Gain: Nielsen operates in Africa, Asia, Australia, Europe, Middle East, North America and South America.
+From 2011-2013, the company has consistently ranked first in the Honomichl Top 25 largest market research organisations in the World.
+In the group of top 4 global market research organisations, Nielsen research revenue dominates (US$5.4 billion in 2013).
+Moreover it has increased its global market share by 4% since 2011 outperforming all others in the group (5.1).
+The products offered by Nielsen (Consumer information, Consumer research and Market measurement) enable companies to understand consumers and consumer behaviour, subsequently increasing profits and expanding businesses.
+The research conducted at Cardiff University, under an exclusivity agreement, has been integral to the development of Nielsen's services.
+Predicting consumer buying behaviour, particularly regarding new or relaunched products, is key to the activities of the corporation.
+This involves the development of commercially viable analysis and forecasting systems.
+This is managed by a division called AC Nielson BASES.
+Prior to 2008 Nielsen was unable to justify a large investment based on the unproven NBD-Dirichlet theory since even the basic mixed Poisson model had not been validated on large household panel data sets.
+Nielsen required stronger confirmation of the applicability of mixed Poisson models to their data.
+They commissioned work at Cardiff University by Professor Zhigljavsky and his team to perform an in-depth analysis of the very large data sets provided by Nielsen.
+The database contains records of every transaction, through the scanning of individual items over a three year period with the variables including date of purchase, quantity, price per unit, flavour, brand and size.
+The database contains information on over 100 categories and subcategories of products ranging from cereals to soup, cosmetics to detergents and cough treatments to paper products.
+The statistical analysis of these very large data sets demonstrated that measured behaviour conformed to model predictions and therefore confirmed that the NBD-Dirichlet theory was a viable foundation for effective forecasting and market research analysis.
+Additionally (see section three) the research provided valuable insights into the most current and efficient mathematical modelling techniques in the market research industry and particularly in consumer buying behaviour.
+Nielsen has used the Cardiff research on forecasting consumer buying behaviour to provide services to a host of major corporations.
+These include Unilever, Procter &amp; Gamble, Coca Cola, Pepsi, Kraft and Nestl&#233;.
+Nielsen are unable to give explicit information on what services and methods are provided for what clients for reasons of commercial sensitivity.
+However, the research has been foundational to the work conducted for these global organisations and has enabled the consolidation and progression of corporate relationships.
+Subsequently, this has enabled Nielsen to compete on a worldwide scale and retain its dominant market position (5.2).
+Related research by Professor Zhigljavsky and his team has had significant impact for other companies, such as Procter &amp; Gamble.
+The models were applied to study sales data versus pricing in several European countries.
+The models developed at Cardiff University provided more reliable and accurate forecasts compared with the models that were previously employed by the company.
+For example, the model was used to show that in Italy, sales of a particular Garnier product in drug stores were reduced by modestly increasing the price, whereas in other Italian outlets increasing the price had minimal effect on sales.
+In the Netherlands sales of the same product were resilient to modest increases in price.
+Importantly, this has enabled Procter &amp; Gamble to selectively increase prices in different outlets and different countries without reducing sales.
+The financial gain associated with this is sizeable.
+As a direct consequence of this research Nielsen has invested US$10 million and a further US$20 million in research and forecasting operations.
+The Vice President of AC Nielsen Product Development (Phil Parker) stated that the research Cardiff has provided has helped them to better understand and address their clients' needs and develop their businesses.
+He commented that "The positive results of this work have confirmed the theory as a viable foundation for effective forecasting and related analyses, as well as providing insights on efficient methods for analysis and estimation."
+The subsequent economic rewards that have and will continue to be reaped from this extensive investment have remained confidential but are expected to significantly exceed US$50 million (5.2).
+Public/Industry Engagement: The research has been disseminated by Professor Zhigljavsky at over twenty national and international events, enhancing the knowledge and ability of leading organisations in the manufacturing and retail industries to implement more effective forecasting strategies and respond to a rapidly changing economic climate.
+These include presentations on the models in Russia, France, Austria, London and Glasgow.
+Audience members ranged from 30-100 people and included representatives from MindShare WW, MediaCom, DDB Matrix, Ninah, LMG, Billetts / Ebiquity, BrandScience, MacroAnalytica Limited, OHAL and D2D.
+Moreover, talks have been given to senior staff at GlaxoSmithKline, Sainsbury's, Tesco and the Cooperative (5.3).

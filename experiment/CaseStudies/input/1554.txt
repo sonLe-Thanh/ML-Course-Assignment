@@ -1,0 +1,23 @@
+     Upon the successful completion of his five year EPSRC Advanced Fellowship       Doran was awarded       a one year PPARC/RSE fellowship in New Venture Creation in 2004.
+These       awards were       designed to train research-council funded fellows in how to start a       business.
+Significant commercial       interest then led to the creation of spin-out Geomerics in 2005.
+The four       founders of Geomerics       were Chris Doran (who left the Cavendish to become CEO), Anthony Lasenby,       Mike Hobson and       Joan Lasenby.
+The background IP in geometric algebra was used to create a       series of       demonstrations and proofs of concept that were taken to potential       customers.
+These       demonstrations included applications in animation, physics and       electromagnetic modelling (which       was under consideration as a secondary market).
+Based on customer feedback       Geomerics       decided to focus attention primarily on lighting for computer games,       tackling the problem of real-       time calculation of global illumination in a virtual world.
+Geomerics is now a well-established company employing 22 people in its UK       and Canadian       offices, up from 15 in 2008.
+Its technology runs across a wide range of       platforms, from console to       PC to mobile, and in 2013 Geomerics was one of the first groups of       companies announced to be       working on the PlayStation 4 with Sony.
+To date Geomerics' Enlighten       software has been licensed       by over 30 titles, with customers in the USA, Canada, Iceland, Germany,       Sweden, Norway, Russia,       Ukraine, Japan and Korea.
+These customers include three of the largest       publishers on the planet:       Electronic Arts, Square Enix and Take 2 Interactive.
+All of these titles       have been developed since       2008.
+Geomerics biggest customer is EA, and Geomerics' Enlighten product is now       fully integrated with       EA's Frostbite game engine, as described in a joint Geomerics / EA       presentation [8].
+The single biggest title Geomerics has been involved with is Battlefield       3, released by the EA DICE       studio in 2011.
+EA DICE were the first customers of Geomerics, and       Battlefield 3 has become       viewed as the title that re-set the bar in graphics quality for games.
+The       game has sold nearly 20       million copies, and brought around $1bn of revenue into Electronic Arts       [7].
+It has won over 60       game industry awards, including the 2012 BAFTA for best game.
+Many of the       awards are for the       quality of its graphics [6].
+As well as Battlefield, Enlighten is now employed in some of the major       franchises in the industry:       Need for Speed (the leading racing franchise); Eve Online; Command &amp;       Conquer; XCOM; and       even Plants versus Zombies (the top-grossing launch title on iOS).
+In 2012 Geomerics was awarded a Develop Industry Excellence Award for       Technical Innovation.
+These awards are the only ones voted for by developers, and represent a       significant endorsement       of the technology and team at Geomerics.
+Since 2008 Geomerics' revenue due to sales of Enlighten have been in       excess of &#163;1.7M.
+[9]

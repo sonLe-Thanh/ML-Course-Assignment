@@ -1,0 +1,36 @@
+     The Kent team has been working closely with industrial organisations such       as Alstom Power, E.ON, Doosan Babcock Energy, EDF Energy and RWE npower       through previous and existing research projects since 2004.
+Since 2008 the       team has undertaken consultancy work for RWE npower, Drax Power, E.ON,       International Innovative Technologies and Land Instruments International.
+The power industry as a whole and, in particular, power generation       organisations in the UK, China, France and Saudi Arabia have gained direct       and indirect benefit from these research and consultancy activities.
+Fuel       handling, fuel tracking and flame monitoring practice has been influenced       in the power industry as have the design and implementation of new and       existing instruments.
+The Kent team has supported power plant engineers in diagnosing and       optimising the operation of full-scale coal, biomass and oil fired power       plants in the UK [S1, S2], China [S3, S4] and Saudi Arabia [S5] through       the application of their instrumentation systems.
+As one example, the       availability of the Kent flame imaging technology has made direct impact       on the diagnosis and optimised operation of biomass/coal and oil fired       power stations.
+Drax is the largest power plant in the UK with its output       capacity of 4,000 megawatts, making it nearly twice the size of the next       largest coal-fired power station in the UK.
+It provides enough power to       meet 7% of the UK's electricity needs and, to reduce carbon dioxide       emissions, converted three of its six generating units to burn sustainable       biomass in place of coal during 2011/12 in order to halve its carbon       footprint within five years.
+The Kent team operated their state-of-the-art       flame imaging system on Drax to acquire fundamental flame data [S2].
+The       technology allowed quantitative comparisons between different burners some       of which were coal fired, some biomass fired and some biomass/coal       co-fired.
+The combustion engineers at Drax were able to consider all       relevant quantitative flame characteristics and their correlations with       plant configurations and pollutant emissions.
+Such information has direct       implications on the safe and efficient operation of biomass and       biomass/coal fired power plants.
+Electricity generation is a key issue in Saudi Arabia given the high and       increasing demand for power &#8212; some 27 million people face sporadic power       cuts due to power surges from the operation of air conditioning systems.
+To help address this problem a 660 megawatts, heavy-oil-fired power       station was built in 2012.
+This encountered significant furnace vibration       problems.
+The Kent team was invited to join an investigative team to       identify the cause of the boiler vibration [S5].
+It was concluded that       unstable flames are a significant contributory factor, leading to serious       thermo-acoustic vibration of the furnace.
+The flame imaging data from the       Kent instrumentation system provided significant diagnostic information       for the investigators and plant operators, which has enabled them to       successfully resolve the vibration problem.
+Yan has been invited to give keynote lectures at seven international       conferences (IEEE EUROCON, INFUB, IFRF, IEEE ICSIMA, IEEE IST, IEEE ISICT       and ISMTMF) since 2008, many of which were attended by power plant       operators and combustion engineers [S6, S7], in addition to technical       presentations at industrial organisations (e.g.
+Alstom Boilers, Beijing       Huaneng Thermal Power Station (China), Cottam Power Station, Drax Power,       Greenbank Group, Hamworthy Combustion, Laborelec (Belgium) and Tilbury       Power Station).
+The research outputs from the Kent team have been widely       referenced by industrial practitioners [S4-S7].
+The Kent team successfully       ran two UK-China Summer Schools both funded by RCUK China (SS08-025 and       SS10-017), in 2008 and 2010, respectively, which were attended by       engineers from the power generation industry.
+Yan and Lu are contributing       actively to a wide range of activities of learned societies and       professional organisations including the IEEE Instrumentation and       Measurement Society, the Coal Research Forum, the Institute of Measurement       and Control, the Energy Institute and British Flame Research Committee.
+The flame imaging work was reported in television programmes and on-line       media following the Rushlight Commendation Award in 2009 (http://www.rushlightevents.com/rushlight-awards/background/roll-of-honour/).
+These measurement and monitoring technologies have enhanced the       capability of the power industry to burn low quality coals and renewable       fuels such as biomass and to reduce pollutant emissions.
+Meanwhile, the       resulting safe, efficient use of low quality coal, biomass and heavy oil       for power generation means that electricity is now produced from cheaper       fuels leading to lower electricity costs for consumers.
+The availability       of new technologies has also enabled conventional power plants to fire a       wider range of biomass fuels and thus reduce their dependence on fossil       fuels with a significant implication for energy security and a       considerable reduction in pollutant emissions.
+Lowering carbon emissions       in power generation not only benefits the UK and the international economy       but also has a positive impact on the global environment.
+The combustion       instrumentation research at Kent has made a great impact on efficient       operation of coal and biomass fired power plants in Far Eastern countries       such as China where 70% of energy is generated from coal fired power       plants.
+The increasing use of biomass for power generation in these       countries is playing a major role in reducing greenhouse gas emissions on       a much greater scale.
+Due to the `enabling' nature of the research, it is       difficult to quantify directly the economic and environmental benefits to       power generation and related industries such as steel and cement       production.
+Such plants are complex systems with thousands of variables.
+However, the benefits cannot be underestimated in view of the scale of the       industries across the globe.
+For example, within a typical coal fired       power plant, unoptimised units readily produce CO at full load.
+Optimising       the pulverising mill settings with the use of the Kent fuel tracking       system has been shown to "free up" typically 19kg/s air and thus prevent       CO breakaway on the unit.
+On the basis of 1000ppm CO production equating       to 3.77MJ/s loss, this gives an annual benefit of &#163;91.5k per unit if the       pulverising mill settings are optimised using the fuel tracking systems       alone [S8].

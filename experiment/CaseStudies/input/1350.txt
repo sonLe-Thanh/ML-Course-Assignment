@@ -1,0 +1,33 @@
+     Impact can be demonstrated in many areas but these elements interact       strongly with each other.
+Also, due to the immediate impact of research related to the security of       deployed systems, there is       a constant interaction between impact and the further development of the       research.
+It is not a       simple linear model of research leading to impact.
+Impact on public interest and public discourse     The team developed and led by Anderson at Cambridge is widely       acknowledged to be the most       visible independent centre of expertise in payment systems       worldwide.
+Other centres of expertise       are centred on specific large suppliers (e.g., IBM, Gemalto, NXP) and       rarely publish in the public       domain.
+Anderson's team has a high profile not only for research and       citations, but also in search       engines and conventional media.
+Thus many victims of fraud failing to get       refunds from payment       service providers contact the Cambridge team, providing interesting cases       for further research and       new insights into fraud patterns.
+The results have impact on the world       through product redesign,       improvements in operational procedures, and in the policy field.
+Impact on public policy     During the REF period, Anderson's research uncovered wide variations       between countries in rates       of electronic fraud (and also in the fear of fraud).
+The group has       unearthed systemic failures in the       Financial Ombudsman Service, in the implementation of the Payment Services       Directive, and in       online consumer protection generally.
+These examples of bad practice have       had impact not just       within Europe (the group has advised both the FSA and the European       Commission, and has also       given evidence to various parliamentary committees) but also globally.
+The       US Federal Reserve       commissioned papers by Anderson for their biennial Payment Systems       Economics conferences in       2008, 2010 and 2012 [9].
+The conferences were "distinctive in attracting       participation of       policymakers, industry leaders, and academics from around the world" and       were attended by key       policy makers including Federal Reserve current and former Presidents,       FVPs and COOs (Senior       Economist in the Payments System function of the Economic, Research       Department at the Federal       Reserve Bank of Kansas City [8]).
+Impact on performance of existing businesses     Anderson's group's research into API security rapidly established that       most cryptographic       hardware security modules (HSMs) used by banks and certification       authorities (CAs) were highly       vulnerable to simple attacks.
+This led Anderson to propose design changes       to the APIs presented       by most HSMs.
+Cryptomathic took a particular interest in this work, hiring       Dr Bond as a security       architect in 2006.
+"One of our latest products, CSG, the Crypto Service Gateway ... would         not have been built         without the great insights that arose from the Anderson group."
+[7]     Cryptomathic's CSG has substantially increased security levels for       Barclays, while increasing       performance and saving the bank more than &#163;1M per year on development of       new applications.
+The CSG is now the default at Barclays for any new application requiring       cryptographic services.
+Reference [7].
+Impact on business technology, public discourse, and public awareness     Anderson's research on EMV vulnerabilities in certification of PIN entry       devices - ref [2] above -       was used to explain why supposedly secure devices in the mid-2000s were       compromised almost       immediately, and on a large scale, by criminals after the rollout of EMV       ("chip and pin").
+Anderson's       research reported in ref [3], informed by patterns of customer complaints,       was used to uncover a       previously unknown protocol failure whereby enabled stolen chip and pin       cards could be used in       merchant terminals without knowledge of the PIN (the "no-PIN attack").
+Both of these findings       received extensive media coverage, particularly long pieces on Newsnight       (Feb 2008 and Feb       2010)[10].
+The research also resulted in industry being more open about       vulnerabilities.
+A       particular example is the random number analysis reported in ref [6],       which was reported in       confidence earlier in 2012 to EMV and led to changes in test requirements       issued by EMV in April       of that year [12].
+Impact on creation of new businesses     The Anderson group's research has been at the core of technology       developed and commercialized       by Cronto Limited, a spin-out company providing authentication systems for       online banking.
+Dr       Murdoch is the Chief Security Architect of Cronto in addition to his       research role at the Laboratory.
+Cronto's products are now securing online banking in Chile (Corpbanca),       Switzerland (Raiffeisen)       and Germany (Commerzbank).
+The Cronto system was launched to all of       Commerzbank's 11       million retail customers in February 2013.
+On May 20th 2013,       VASCO Data Security International       announced their acquisition of Cronto for &#163;17M.
+[11]     The group's research has contributed to the commercial success of Cronto       in two main ways.
+First,       the demonstration of the weakness of banking hardware (ref [2] above)       motivated the move to       performing authentication on personal devices, which the customer can       protect against tampering.
+Second, improvements to authentication devices proposed in ref [5] have       been incorporated into       the Cronto authentication system and have led to its high levels of       usability and security.

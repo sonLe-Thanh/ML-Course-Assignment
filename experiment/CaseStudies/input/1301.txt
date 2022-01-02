@@ -1,0 +1,36 @@
+     The DOGMA project brought together industry, research institutes and       universities to collaborate and exchange ideas.
+Procedures were developed       for multi-material structures that looked at joint design, material       development, life cycle analysis, recycling and clean manufacture.
+Several       industrial case studies were prepared by ADTRANZ, BAE Systems,       FY-Composites, IDMEC, Adtranz, Hoogovens, Neste and INASMET to show how       well the procedures worked.
+A special conference,'technology' days and       promotion online were used for dissemination.
+Enquires related to the       DOGMA project were still being taken up to 2010 and a current website with       all the case studies is still accessible to companies [9].
+The success of the DOGMA project and the LIVEMAN project fed into the       development of the Adhesives Toolkit.
+TWI, one of the LIVEMAN and DOGMA       partners, led this work which was sponsored by the DTI.
+This toolkit       incorporated the work developed by Brookes to provide software that could       advise industry in selecting and designing adhesive joints.
+The rationale       behind the toolkit was to ensure a consistent approach to adhesive joint       design to improve the competitiveness of UK industry [10].
+This toolkit       was updated in 2006 and is currently well used with active news and forum       website pages.
+The NVH project built on the work of DOGMA and LIVEMAN by investigating       the feasibility of replacing conventional metal panels and damping       materials with single-piece composite panels.
+The work was supported by       five companies (Bi Composites Ltd, Crompton Tech.
+Group Ltd, Ford Motor Co       Ltd, Oxford Magnet Tech.
+Ltd and Salex Acoustic Materials) across       different industrial sectors who were interested in the design and       manufacture of composites and their acoustic performance.
+The main       outcomes of the project were:     A new design of adhesive joint that is easy to implement and increased       joint strength by 40% and fatigue life by 100% when compared with       conventional lap joints.
+The design and manufacture of an acoustically improved polypropylene glass       filled roof to fit a Ford van.
+The first application of the Arnoldi-based MOR method to       structural-acoustic problems [11].
+Siemens Hydropower used the technique developed to deal with structural       acoustic problems to develop a model of a hydropower turbine for which a       paper was presented at the 2009 International Conference on Theoretical       and Computational Acoustics.
+Through the "High Strain Rate Modelling of Adhesively Bonded Joints"       project an epoxy adhesive that was used extensively in Jaguar vehicles was       characterised for use in impact studies.
+This part of the work was       particularly successful and the materials data generated from this project       are used currently by Jaguar Land Rover as their standard for epoxy based       adhesives in Finite Element analyses of bonded vehicle structures [12].
+The NOTS project succeeded in producing a patented 2D CFRP truss       structure modelled on an Airbus No17 wing rib which resulted in a weight       saving greater than 33% [13] and has been cited in 6 further patents.
+A       website was also created to share good practice between the partners and       articles written for magazines.
+A follow on project (ACTS, Advanced       Composite Truss Structures) looking at developing 3D trusses won the JEC       Composites 2011 Innovation Award.
+The Bamboo bike project which came out of the cycling passion of staff       combined with their expertise in composite joint design lead to a fully       certified bike design.
+The design has had a patent application filed and       has been commercialised, with an outside company, RAW Bamboo,       manufacturing the bicycles on license [14].
+Test apparatus for determining bearing versus bypass failure and for       testing aircraft sealants were developed for Airbus (UK) ltd.
+The results       from the bearing versus bypass testing showed that current methods       employed by Airbus in terms of final failure are conservative.
+Loss of       fuel from aircraft wings is environmentally damaging, mainly due to the       additional weight of the fuel and aircraft required to account for the       loss.
+A unique test method was developed that provides a standardised       method for testing sealants with traditional and composite materials that       was not achievable before [15].
+The DRIVENet project sought to develop a network focussed on material       waste reduction at vehicle end of life.
+The success of this can be seen in       the growth of the network to more than 300+ partners.
+Stannah stairlifts       have applied the design guidelines developed through the DRIVENet project       to improve the environmental impact of their products and have now       incorporated the guidelines into their operating procedures [16].
+Oxford       Brookes have also been involved in developing national standards for       designing for end of life [17].
+A follow on project that has started is the TARF- LCV (Towards       Affordable, Closed-Loop Recyclable Future Low Carbon Vehicle Structures).
+Oxford Brookes is looking at active disbonding and design to reduce end of       life recycling problems.
+This project involves three Universities and five       major car companies [18].

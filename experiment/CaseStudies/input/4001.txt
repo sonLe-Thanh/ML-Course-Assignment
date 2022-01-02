@@ -1,0 +1,31 @@
+     The probabilistic hourly weather files for over 40 locations across the       UK, across three time slices (2030's, 2050's and 2080's) and two emissions       scenarios (medium and high), addressed the critical lack in accuracy and       resolution that building designers faced in simulating building thermal       behaviour.
+Such simulation has previously relied only on historical       weather data, which is clearly unsatisfactory given the significant       expected changes in UK climate.
+These data have enabled the construction       industry to design new and formulate retrofit of existing buildings which       perform satisfactorily and meet building regulations under a changed       climate.
+The weather files are in .epw format in order to be compatible       with most building performance software.
+The weather files to date have been used in over 70 commercial       construction projects and downloaded over 500 times by industrial       designers and academics from the project website (http://centres.exeter.ac.uk/cee/prometheus/downloads).
+The weather files have been cited in the UK Government's 2011 Low       Carbon Action Plan Response as being used in the design process of more       than &#163;3bn worth of building projects [a], including Britain's first       zero-carbon school, an eco-town, and 40 out of 48 of the climate change       adaptation projects funded by the Technology Strategy Board's Design for       Future Climate competition including, North West Cambridge urban       expansion, Admiral Insurance Headquarters, London Bridge Station       Redevelopment, the Cooperative head office and more [b].
+Jacobs Engineering, with annual revenues exceeding $11bn and a key       stakeholder engaged with the PROMETHEUS project, comments     "The new weather data provided were readily useable in the TAS         modelling tools already being used in thermal simulations.
+The use of         the new data generally indicated that thermal comfort objectives for the         buildings would be challenged by future climate conditions and this is         something we would like to give further consideration to."
+[b]     Great Ormond Street Hospital (GOSH) London was built in the early 20thC,       is nearing the end of its useable life and is hence being extended in four       phases for completion in 2025.
+The PROMETHEUS weather files have been used       to assess the climate change risk of the GOSH Phase 2B as acknowledged in       the 2012 WSP Ltd Report for the Technology Strategy Board and GOSH       [c].
+The building design consultants AECOM have also used the PROMETHEUS       weather files to develop a 2011 climate change adaptation strategy       for the London School of Hygiene and Tropical Medicine, Keppel Street       Building and are cited in the Climate Change Adaptation Strategy [d].
+The       risks to the building and its users were identified as overheating,       localised flooding from excess surface water runoff and water       conservation, with overheating identified as the most significant.
+Buro Happold was commissioned to develop the energy strategy and the       design of a number of buildings within the Master-plan of the University       of Salford.
+This provided distinct opportunities for examining climate       change adaptation measures at both a site master-planning and a building       scale.
+The 2013 climate change adaptation study and the       sustainable design measures were developed using PROMETHEUS weather files       [e].
+The weather files have also been used in the design process of the &#163;60m       13,500 capacity Leeds Arena (started in 2009) [b], specifically       designed to `set the benchmark' for sustainable arenas of the future with       rainwater harvesting and air source heat pumps.
+Due to the high density of       occupants, heat waves may present an issue and thus adaption strategies       were considered such as increasing wall insulation and solar reflectivity       of the roof to reduce heat transfer into the building.
+Cumulatively these       recommendations added another 4.5% to the overall cost.
+Studies using the       climate weather files showed that the strategies would eliminate any       periods in which the internal temperature exceeded 28&#186;C, or to only 2.6%       of occupied hours using the upper climate change scenario.
+The Government announced its ambition in the 2008 budget that new       domestic buildings should be zero carbon from 2016.
+The Department for       Children, Schools and Families established the Zero Carbon Task Force to       develop a strategy for zero carbon school buildings, to make       recommendations on its implementation, and oversee exemplar projects such       as the Montgomery School Exeter [f].
+Montgomery School, with a capacity of       420 pupils, is the UK's first zero-carbon school based on Passivhaus.
+The       PROMETHEUS weather files were used throughout the design process.
+The       project totalled over &#163;9m and the school will exist in its current form       until 2080.
+Studies using the files highlighted the factors that needed       most attention during any value engineering [f].
+The files are now (since 2011) included within Integrated       Environmental Solution's (IES) `Virtual Environment', the world leading       simulation software for future proofing buildings [g].
+They have also been       incorporated into Sefaira concept software [h], a cloud based building       design tool with several thousand users across more than 200 architecture       firms worldwide.
+As IES state:     "To be truly sustainable, a building needs to last in excess of 100         years, and current design regulations and sustainability rating systems         only require you to design against weather data that represent at best         the next decade or so.
+Sustainable designs really need to make some         assessment of the impact of climate change on determining built form         suitability for the long term.
+Weather files such as those being         distributed by the University of Exeter and IES can help the building         sector adapt to the challenges of climate change."
+[b]

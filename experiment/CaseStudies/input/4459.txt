@@ -1,0 +1,23 @@
+     Sergio Velastin co-founded Ipsotek Ltd, a company providing video       analytic products, in 2001,       where he remains a consultant for R&amp;D. The company now has 20       full-time employees.
+Ipsotek       was engaged in a Knowledge Transfer Partnership with Kingston University       from 2007 to 2009,       resulting in at least &#163;200K additional turnover.
+The Ipsotek KTP developed people-counting technology based on the       underpinning research       described in [4] and [5].
+This technology has been in use since 2006 at       venues such the O2 Arena       in London, the LG in Birmingham (NEC), Heathrow Airport, and various       properties owned by the       Casino Group.
+At the O2, it successfully coped with capacity crowds at       events such as the Led       Zeppelin concert at the O2 in 2007 and the Prince concert in 2011.
+The       Ipsotek KTP has also       provided an object-counting component, to differentiate between different       categories.
+This has       since been modified to create an `anti-backtrack' system for airport       arrivals, which was been       deployed at Edinburgh, Birmingham and Bristol airports in 2010-2011.
+The intrusion detection technology deployed at the London Eye was       developed to address the       specific challenges of this environment: a round-the clock requirement to       monitor land and tidal       water approaches.
+The methods described in [2], [5] and [6] were used as       the underpinning       research to develop robust event (intruder) detection system, installed in       2007, and extended in       2011, also to process data from thermal cameras.
+Similar installations at       Colt telecom, after more       research and development, achieved i-LIDS primary accreditation.
+A further set of research contracts developed a system based on the       pedestrian tracking       technology described in Section 2 above, especially the publications of       Makris and Ellis.
+This       involves an operator selecting a person on the screen and then an       automated system tracking that       person in a multi-camera network.
+The idea was taken forward to       development in 2009-2011       through research contracts with Ipsotek (who became main supplier and IP       owner) and BAE       Systems (who are supporting the commercialization of this technology), and       has become known as       the "Tag-and-Track" system.
+The work was demonstrated successfully at       Manchester Airport in       2010.
+It has won awards such as "Winner of UK SME category for the Global       Security Challenge       2011" and runner up prize at "UK Home Office OSCT INSTINCT TD2 Challenge       2010".
+Ipsotek       was awarded `CCTV System of the Year' at IFSEC 2012.
+The link between Ipsotek Ltd. and BAe Systems also resulted in an       installation of an advanced       video analytics system including intrusion detection and abandoned package       detection at the       Australian Parliament in 2009, a &#163;2M export project.
+This used components       of the technology       described in the previous two paragraphs.
+The DIRC underpinning research has made a "significant impact" to the       growth in Ipsotek's       turnover, from approximately &#163;400K to &#163;1M.
+Furthermore, the totality of       the economic impact also       encompasses the customers at whose sites the Ipsotek technology was       installed.
+At the O2 arena,       the people-counting technology is used to calculate the tariffs charged to       the organizers of events,       and to the advertisers promoting products at these events.
+It enables       precision scheduling of the       site staff, to be on hand at the busiest periods.
+At the London Eye, the       presence of the intrusion       detection system enables other activities to be scheduled alongside this       facility, while maintaining       an institutional awareness of safety and security.

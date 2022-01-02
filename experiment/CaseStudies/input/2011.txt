@@ -1,0 +1,33 @@
+     The impact of the research falls into the category of economic benefit       which we illustrate through the benefits realised by UCB Pharma.
+Other       pharmaceutical companies such as Crysalin Ltd and InhibOx have also       benefited.
+The research also has downstream impact on patient health.
+Pathway to impact       pyFREAD has been made accessible through three different routes:            the direct implementation in 2010 of the software by UCB Pharma, who         were industrial partners in the research project.
+The Director of         Computational Structural Biology at UCB Pharma states [A] "...
+Professor           Deane kindly provided to us at no charge the software pyFREAD, which           was developed in her laboratory"       a web-based computational tool (http://opig.stats.ox.ac.uk/sites/fread/).
+The Head of Computational Chemistry, Crystalin Ltd, states in a letter         in October 2013 [E] "I downloaded it from your website ... last           August".
+a freely downloadable version of the FREAD software, published in         2010,         (http://opig.stats.ox.ac.uk/webapps/fread/php/)          Nature and extend of the impact       The impact of pyFREAD is most readily measured through its use by UCB       Pharma.
+They, as well as other major pharmaceutical companies, use X-ray       crystallography and molecular dynamics simulations to guide `lead       optimization' in an iterative fashion.
+Atomic interactions between each       compound and the target protein are analyzed and chemical modifications to       the lead compound are designed accordingly to improve potency and       selectivity.
+However, X-ray structures of the compound-protein complex       often have undefined residues due to experimental limitations; such       residues must be modelled before dynamic simulations can be carried out.
+The Director of Computational Structural Biology at UCB Pharma states [A]       "We used to rely on the software Prime from Schrodinger Inc to model         the undefined residues in X-ray structures.
+[...] This software       [pyFREAD] was at least 1000 times faster than Prime and also produced         more accurate results!
+For example, to model a stretch of 14 undefined         residues, it took 50 CPU hours with Prime but less than a minute with         pyFREAD.
+In another occasion, we tried to reconstruct 7 stretches of         undefined residues within the same X-ray structure; Prime crashed after         running for 3 days without producing any useable results, while pyFREAD         managed to generate accurate models in merely 3 minutes.
+Pleasantly         surprised by the lightning speed and accuracy of this software, we         immediately switched to using pyFREAD for such tasks and have not been         disappointed."
+He further summarises the immediate financial benefits [A] "It is         immediately clear that pyFREAD saves us not only &#163;45,000 in annual         license fee for Prime, but also thousands of CPU hours for each lead         optimization campaign."
+UCB Pharma operates in 40 countries worldwide and had a global revenue of       &#8364;3.4 billion in 2012.
+They identify (in [A]) that lead optimization is one       of the most costly steps in drug discovery and development, requiring on       average &#163;6 million per campaign (just one stage of the drug discovery       process).
+In order to bring an approved drug onto the market, typically 15       lead optimization campaigns have to be carried out, costing a total of &#163;90       million.
+The Director of Computational Structural Biology at UCB writes in       [A] "... that switching to pyFREAD shortened each lead optimization         cycle by an average of 3 days.
+A typical lead optimization campaign         lasts 2 years, the cost is &#163;3 million per year, or &#163;58,000 per week.
+Shortening each optimization cycle by 3 days translates to &#163;35,000 in         direct savings per iteration, or &#163;350,000 for a 10-iteration campaign.
+As 15 campaigns are needed to put one drug onto the market [6], the         total savings per drug approval achieved by using pyFREAD is expected to         be over &#163;5 million."
+This corresponds to saving UCB at least 5% for       each programme in which it has been used.
+The impact for UCB of this research goes beyond the financial savings.
+UCB state that [A] "The research work at Professor Deane's laboratory         has generated significant economic value for UCB Pharma through the         acceleration of the drug discovery process.
+More importantly, faster         drug discovery means that patients receive better treatment sooner.
+While the impact on patients' quality of life is hard to quantify, it is         what matters most".
+Evidence of wider, less quantifiable, impact of the FREAD methodology is       seen from its web-based computational version.
+The data available for 2013       show this has performed on average over 60 predictions per month and was       visited by over 200 unique users per month from throughout the world [B].
+As exemplars of the reach of FREAD, the Chief Executive Officer of       InhibOx, who have been using the software since 2011, states [C] "I am         writing to confirm that InhibOx has used the program FREAD to support         our drug design work.
+The program was used primarily by one of our staff         to assist in a project to build homology models of a malaria parasite         serine protease, which we have been working on as a novel anti-malarial         drug target", while the Head of Computational Chemistry at Crysalin       Ltd says [D] "Thank you for permitting me to use FREAD at Crysalin....       [it] is providing to be an invaluable addition to our existing tools."

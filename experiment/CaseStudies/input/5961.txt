@@ -1,0 +1,34 @@
+     In working with BAE Systems, a leading UK manufacturer of advanced       defence and security systems, Arnold has so far contributed to two       projects: the first, `Free Text Processing', took place from September to       December, 2009; the second, `Advanced Data Sharing Agreements', ran from       March to November, 2011.
+Given their potential uses in emergency       situations and high-security operations, both projects required systems       for NLP that utilised `high-precision' techniques.
+In his consultancy role       Arnold was able to draw upon his published research in the formal       description of English and computational grammar, as well as his expertise       in the syntax-semantics interface.
+It was not the case that BAE Systems       simply made use of Arnold's research and ideas.
+Instead, he was actively       involved in supplying practical guidance and was thus a key factor in       realising applications of his research and expertise.
+BAE Systems'       University and Collaborative Relationships Manager has corroborated the       claims made in this section and all quotations below come from a statement       that he has provided.
+The theme common to the two projects is the aim of allowing ordinary       users to communicate with various automatic systems using a subset of       English (`controlled English').
+In the case of the first project, the aim       was to allow Emergency Service personnel (e.g.
+police or ambulance crews)       to communicate precise narrative detail about a developing emergency       situation.
+This communication would take place through a discourse like "A       car and a bicycle have collided on Coval Road.
+The cyclist has injured her       leg.
+She has been taken to Chelmsford A and E.", which might generate a       pictorial display on a command and control room map.
+This type of       discourse poses serious analytic challenges at the limit of current       understanding and technology in NLP.
+BAE Systems have stated that "the       project successfully demonstrated that `free text' messages, in the       abbreviated and specialised language used by emergency workers, could       provide a valuable enrichment of the operational picture".
+The second project was similar in that it involved automatically       transforming text into a pictorial display.
+This project involved       developing a prototype interface for facilitating secure sharing of       sensitive data across organisations.
+Data-sharing agreements between       organisations determine which documents can be read by whom and in what       circumstances.
+The aim was to produce a piece of software that allows       data-sharing agreements to be visualised in order to verify that the text       is consistent (i.e.
+not self-contradictory).
+This means that an agreement       can be generated automatically from typescript in English, but no special       skills are required to either write it, or to read and understand it.
+The       software recognises contradictions, such as someone being allowed to view       documents under certain circumstances but forbidding them from being in       such circumstances.
+As BAE Systems have confirmed, both projects achieved their goals as a       feasibility-of-concept demonstration system was produced for each.
+Drawing       on Arnold's research and expertise, the BAE Systems project teams were       able to greatly improve their understanding of the problems and the       techniques and technologies available.
+BAE Systems have gone on record as       saying:     "Dr. Arnold's role in both projects was critical, in two main ways.
+First, his understanding and command of the fundamental theoretical       concepts meant that the projects were able to focus on the fundamentally       important issues, this was important both in the design and execution of       the projects.
+Second, his awareness of the capacities and limitations of       advanced research tools and toolsets for Natural Language Processing meant       that the projects were able to make more informed and appropriate choices       among existing tools, and were able to focus resources on areas where       existing tools are inadequate"     He was thus able to provide BAE Systems with tools and models for       conceptualising what they were trying to build.
+In so doing, he allowed       staff at BAE Systems to better understand the parameters of the types of       system they were attempting to construct.
+His guidance to BAE Systems included supplying information about which       systems were research-only and providing an appreciation of the limits of       different technologies.
+The latter proved crucial as his contribution       involved not only helping to develop certain systems but also giving       advice about what should be abandoned and what was not possible.
+Indeed,       BAE Systems have stated that Arnold's contribution enabled the teams "to       contemplate a range of novel projects, but also avoiding projects whose       goals are over-ambitious given the current state of the art."
+BAE Systems       added that avoiding over-ambitious projects is an "aspect of technology       transfer [that] is often neglected in university-industry collaboration       and Dr Arnold's contribution has been greatly appreciated".
+The success of the two projects is demonstrated by BAE Systems inviting       Arnold to work on a further initiative in March and April 2013.
+This       involved collaboration on a proposal for a future project on the       extraction of information from dialogue.
+Arnold prepared a report on the       current state of the art, which again relied on his research expertise on       rule-based machine translation.

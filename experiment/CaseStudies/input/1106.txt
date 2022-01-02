@@ -1,0 +1,26 @@
+     The project, informed by the expertise of Duce and Mitchell, enabled       Nominet to offer its clients improved performance, service and practice,       through understanding the prevalence and characteristics of typosquatting       and methods to detect abuse of the WHOIS system.
+Furthermore, the research has enabled benefits that are not only       immediate to Nominet but also to their industry through influencing their       practice.
+Of further significance are the on-going benefits to Nominet's       clients, who are better able to police their brands, and their customers       through a reduction in losses due to fraud.
+In 2009, the number of .uk       registered domain names passed 8 million increasing to 9.7 million in 2011       7.
+Importance of measuring typosquatting; improved policing and improved         services     The typosquatting work made Nominet realise that identifying appropriate       geometries to characterise various aspects of the Internet is a       potentially fruitful line of research.
+Based on this initial project, a       new line of research is being explored by Nominet, looking at developing       algorithms for analysing the registry that may lead to new and improved       products and services for Nominet's customers.
+One of the direct outputs of the partnership was a prototype of an       extension to Nominet's Public Register Search Service (PRSS) query system7,       which can conduct a typosquatting check.
+The PRSS system is used, amongst       other things, to assist in establishing or defending intellectual property       rights and other similar matters.
+The extension allows companies to better       police their brands, so reducing the amount lost to fraud.
+The work showed the potential to resolve problems experienced not only by       Nominet but also by other national domain name registries.
+It generated       sufficient interest to warrant presentations at industry workshops under       the auspices of the Council of European National Top-Level Registries       (CENTR; May 2008)3, and the DNS Operations and Analysis       Research Centre (OARC; June 2008)8.
+Database protection; increasing security, confidence and efficiency on         an international stage     The framework4,5,6 developed for WHOIS10 was       turned into a production system to issue daily reports system to the       Nominet operations team.
+This reduced the amount of work needed to detect       abuse, increased the sensitivity of the detection of abuse and enabled the       detection of distributed query systems which would have previously been       undetected.
+The anti-abuse system has helped to raise the profile of       Nominet in the international registry and internet community through       presentations at the international CENTR Technical workshop4.
+Research carried out by Nominet showed that consumers see .uk as a       trusted environment11.
+For businesses, the report highlighted       that a .uk web address is an important asset when doing business in the UK       with UK consumers and businesses.
+For consumers, a .uk address is an       important consideration when making online purchases.
+Incidents of data       loss can lead to a significant loss of confidence in the organisation       concerned.
+In Nominet's case, the impact of a well-publicised loss of a       large amount of data via abuse of its information systems could affect the       trust in .uk domains names.
+This would affect not only Nominet but other       businesses too.
+Such an impact is difficult to estimate, but from       Nominet's perspective, should it lead to as little as a 0.5% drop in       domain name registrations and renewals, turnover would be affected to the       tune of &#163;100,000 (0.5% of sales turnover).
+Through the project, Nominet detected an attack at an early stage and       managed to trace this to an organisation based in the US5.
+With       the evidence gathered through the project, a legal counsel was rapidly       able to obtain a promise for them to desist without the need to resort to       very expensive legal procedures.
+Nominet were subsequently contacted by       the Austrian registry who were having a similar problem and their legal       team were helping them in their action against the same company.
+Nominet       estimated that had they needed to go to court over this, they could have       incurred expenditure in the region of &#163;250,00011,12.
+The       anticipated savings to Nominet come in the avoidance of costs that would       be required if attacks on the WHOIS service and other information systems       were to continue and grow.

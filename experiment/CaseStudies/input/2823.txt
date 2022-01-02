@@ -1,0 +1,32 @@
+     The assessment of individual patients is possible using a purpose       designed publically available website www.qrisk.org         which displays the patient's risk using approaches which the patient       is likely to understand (smiley faces to represent absolute risk).
+The       website is can be used by anyone to determine whether they are at high       risk or not.
+QRISK is also integrated into another website as a decision       aid (www.qintervention.org)       which can be used to help determine how interventions may lower the risk.
+The QRISK web calculator is in constant use around the world with &gt;       500,000 hits since 2011[1].
+www.qintervention.org website was         rated by the Times as one of the top five medical Websites in 2013[2]     Formation of ClinRisk Ltd     With the University's support, Julia Hippisley-Cox set up a company       (ClinRisk Ltd) in 2008 to develop software to ensure the reliable and       widespread implementation of the QRISK into clinical practice across the       UK.
+ClinRisk has since developed the public facing website (www.qrisk.org)       and software which integrates the algorithm into clinical computer       systems.
+The University provided legal support to enable licensing of the       algorithm, trademark and software to industry for use across the NHS.
+Since 2008, QRISK software has been licensed by a number of companies       including the leading suppliers to primary and secondary care within the       NHS.
+Clinical utility of QRISK at population level     QRISK is also used to risk-stratify entire populations.
+The software,       which is now embedded in &gt; 90% of UK GP clinical computer systems, runs       calculations every night which generate a rank-ordered list of those at       high risk of heart disease or stroke.
+The software is used daily by       clinicians during consultations with patients and as a risk stratification       tool to identify patients for recall for further assessment.
+Patients at       high risk of cardiovascular disease can therefore be identified and given       interventions to lower risk where appropriate.
+Interventions include       weight reduction, smoking cessation, blood pressure lowering treatment and       cholesterol lowering treatment.
+The NHS Health Checks programme and Department of Health Policy     The NHS Health Checks Programme offers a cardiovascular risk assessment       to adults aged 40-74 years in England.
+The Department of Health endorsed       QRISK on publication and used it to develop the economic modelling       underpinning the NHS Checks programme in 2008, recommending its use for       the start of the programme in 2009[3].
+Changes to NICE guidance and GP contract Quality and outcomes         framework     Use of QRISK was ratified by NICE guidance in 2010[4,9].
+A favourable independent appraisal of QRISK2 [8] and other risk prediction       tools concluded that "QRISK emerges with the greatest potential.
+It is       most likely to be sensitive to the equity issues of great current concern,       it reflects best the contemporary British population and its initial       results are encouraging.
+The uncertain approach of NICE's guideline       development group illustrates how difficult it can be to judge how much       evidence is needed before a change in practice can be recommended, but if       QRISK lives up to its promise, it will in time become established as the       risk assessment method of choice."
+Use of QRISK is also an integral part       of the UK GP contract since vascular screening is one of the quality       indicators for which GPs are paid.
+The new indicator for primary       prevention of cardiovascular disease was introduced in 2010/11[5]     Implementation in NHS clinical computer systems     QRISK has now been implemented by all four major GP computer suppliers       covering in excess of 90% of all UK general practice: EMIS (5500 general       practices), InPractice Systems (1800 practices), The Phoenix Partnership       (2000 practices) and Microtest (~300 practices).
+Other suppliers use QRISK       in community and pharmacy contexts including Oskis, Wellpoint       (kiosk/pharmacies), Telehealth (kiosk/pharmacies).
+These pharmacy and       other community schemes use QRISK as part of the NHS Health Checks       programme.
+QRISK is also available as an app for the iphone.
+Clinical Beneficiaries     The main beneficiaries of QRISK are the patients whose risk is assessed       more accurately, especially those high risk patients from ethnic       minorities or deprived areas who would otherwise have missed out on       effective treatments if the Framingham score had been used.
+Other       beneficiaries include clinicians using QRISK since it is better able to       identify high risk patients than Framingham.
+Health care professionals can       use the web interface to display an individual's risk of cardiovascular       disease in a way which the patient is likely to understand thereby       involving patients in decisions regarding their care.
+Clinical       Commissioning Groups also benefit from the integrated automated electronic       population tools which are efficient at identifying those at high risk and       summarise the number of patients at high risk and those with modifiable       risk factors.
+Development of new technologies and approaches.
+To our knowledge, QRISK is the first risk prediction tool to be developed       using routinely collected electronic data from primary care medical       records.
+It has stimulated development of a new research area resulting in       other similar tools to predict risks of other major clinical diseases.
+Application of new technologies into clinical practice     The integration of QRISK software into multiple clinical computer systems       in a scalable, sustainable reliable way which can be regularly updated has       also provided a model which can be extended to other preventable clinical       conditions.

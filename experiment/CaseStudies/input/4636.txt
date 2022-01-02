@@ -1,0 +1,35 @@
+     Many compounds produced by basidiomycetes have already been recognised       for their medical importance, but they are synthesised by the organisms in       very small quantities.
+Previously, the inability to alter genetically and       manipulate this important group in order to increase expression of       desirable compounds made commercial exploitation economically unviable.
+However, the Basidio Molecular Toolkit, along with the underpinning       research, has made the production of valuable pharmaceuticals practicable       and opened up industry and government research areas that were previously       too costly to develop.
+Commercial benefits for the pharmaceutical industry       Between 2005 and 2012, Foster and Bailey and their team worked with the       pharmaceutical company, GlaxoSmithKline (GSK), to exploit the molecular       toolkit to work with the basidiomycete Clitopilus passeckerianus.
+This species produces a natural antibiotic called pleuromutilin, which is       effective against multi-drug-resistant Staphylococcus aureus       (MRSA).
+The research team successfully manipulated the genome of C.         passeckerianus using two different techniques       (Agrobacterium-mediated and PEG-mediated transformation) [4].
+Using these       methods, the partnership between Bristol and GSK, which established       techniques for manipulating and increasing the expression of the natural       antibiotic pleuromutilin in Clitopilus passeckerianus, resulted in       a patent, filed internationally with GSK, in 2012 [a].
+The collaboration       with Bristol and the implementation of the Basidio Toolkit directly saved       GSK over 70,000 hours of research and development [b].
+GSK estimated that       it "would have taken at least twelve full-time equivalents three years"       and there would have been the additional "risk of developing tools that       were not effective" [b].
+The research made it possible to genetically       manipulate production of pleuromutilin to generate derivatives and led to       increased titres, which reduced production costs.
+In addition, research conducted by Bristol [3, a] fed directly into       information prepared for the regulatory approval phase of one of GSK's       pleuromutilin derivatives, known as retapamulin.
+Armed with this       information, GSK was able to submit it with confidence as a new class of       fermented antibiotic [b].
+This led to the development and       commercialisation of the topical antibiotic, Altargo/Altabax, which was       approved for use in the EU in 2007.
+This was the first new class of       topical antibiotics approved by the US Food and Drug Administration in       nearly two decades and is one of four anti-bacterials in GSK's product       line, which had a combined turnover of &#163;1.2 billion in 2012 [c].
+In a similar case, in 2010, use of the Basidio Molecular Toolkit allowed       production of Fungal Immuno-modulatory Proteins (FIPs) at commercially       viable levels [d].
+Ganoderma lucidum is a popular medicinal       mushroom in traditional Chinese medicine.
+The anti-cancer effects of this       and similar species have been well documented [e, for review] and are       associated with FIPs, which are normally produced in very low quantities       in the fungus.
+The use of FIPs could result in improved outcomes for       cancer patients.
+The Basidio MolecularToolkit enabled the Institute of       Bioresource and Bioactive Substance in China to "get maximum expression of       the FIP", which will "allow full scaling up to industrial production" [d].
+Government agricultural research adopts new processes       From 2007 to the present, Foster and Bailey used the Basidio Molecular       Toolkit in their work with the US Department of Agriculture (USDA) to       develop a genetic transformation system for the pathogenic basidiomycete       fungus Armillaria mellea, commonly known as honey fungus [6].
+This       genetic transformation system has become part of the screening approach       used by the USDA in developing crops that are resistant to root disease       [e].
+Armillaria is responsible for root disease in almond and       walnut trees in California &#8212; two very significant crops for the state.
+California produces almost all the almonds and walnuts sold in the US and       approximately 70% of these crops worldwide [e].
+Root disease caused by Armillaria       reduces the average life expectancy of these tree crops from 30 years to       10 years.
+Ireland's Agriculture and Food Development Authority, Teagasc,       established and adopted an Agrobacterium-mediated transformation of Clitopilus         passeckarianus.
+It now serves as the "prerequisite control to assess       the effectiveness" of all their gene-transfer technology, such as the       development of disease-resistant crops [f].
+"This simply would not [have       been] possible without the Kilaru et al.
+[4] publication" [f].
+Other commercial areas significantly advanced by the Basidio Molecular         Toolkit       The tools and techniques developed by Foster and Bailey and their       colleagues at Bristol have enabled full gene analysis of a number of       basidiomycete species.
+From 2008 to 2012, Foster and Bailey collaborated       with a group of international researchers to publish the full genome of       the common button mushroom Agaricus bisporus [7].
+This species is       cultivated in more than 100 countries with an annual global production of       over two million metric tons.
+The tools developed at Bristol helped       demonstrate the functionality of enzymes important in the adaptation of Agaricus       to grow in a humic-rich leaf-litter environment [5], which significantly       advanced the research programme [g].
+It was estimated that the toolkit       saved the equivalent of six scientists up to three years in research and       development [g].
+Sylvan Biosciences, the global leader in fungal technology that provides       spawn and related products to the mushroom industry, was also part of the       consortium that generated the full genomic sequence of A. bisporus.
+The tools developed at Bristol have had a "significant impact" on the       "exploitation of this important group of organisms" [h].

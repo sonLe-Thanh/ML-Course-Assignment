@@ -1,0 +1,27 @@
+     Context     Federal-Mogul Corporation (FM) is a leading global supplier of products       and services to the world's       manufacturers and servicers of vehicles and equipment in the automotive,       light, medium and       heavy-duty commercial, marine, rail, aerospace, power generation and       industrial markets.
+The       company's products and services enable improved fuel economy, reduced       emissions and       enhanced vehicle safety.
+In 2008 FM approached Dr. Alexander Donev for help in reviewing       statistical issues in their       experimental practices both in R&amp;D and in the manufacture of friction       materials for use in disc       brakes.
+Poor repeatability and prediction from experiments using different       material compositions       had led them to suspect that there could be something missing in the       existing statistical       methodology.
+Prior to the work described in this case study, FM had used open source       and commercial software       (e.g.
+R, JMP) to design and analyse their experimental studies.
+However,       there is no such software       that can be used to construct designs for studying variability, and       therefore the company was using       only the so-called six-sigma methods.
+The benefits that such methods can       bring were already       exhausted, and more advanced statistical methods were required to achieve       the necessary       reduction in manufacturing variability.
+Pathways to the Impact     Since approaching Dr Donev in 2008, Federal-Mogul has funded the PhD       studentship of Liam       Brown, as well as an sKTP project with Sergio Loeza-Serrano.
+The very       nature of the projects       provided a natural pathway to implementing the results in the company's       technological processes.
+The novel models have been reported directly to Federal-Mogul [2] along       with computer codes that       implement the new statistical methods.
+Consequently, the new experimental       designs have become       standard procedures within the company.
+The collaboration remains active       and an EPSRC grant       application, with financial commitment of &#163;250k from Federal-Mogul, has       been submitted.
+An additional pathway to broader impact is provided via open source       versions of the computer       codes that implement the new statistical methods, which have been made       available for other       academic and non-academic users.
+Reach and Significance of the Impact     The research has had a significant influence on the practices within FM.
+Comparative analysis of       variation data from a recent production study and the methodology proposed       [1] showed that       statistically the same conclusions could have been reached with only 12%       of the experimental trials       originally used by the company, leading to considerable savings in R&amp;D       and in manufacturing [S1].
+As a result, the new experimental designs have been adopted as standard       procedures within       Federal-Mogul [S1].
+The first commercial application of the research was for modelling and       optimising the production of       a new design of the disc pad for Ford P415 SUV vehicles (typical US sales       of 40,000 per year       since 2010 [S2]).
+Response surface models based on the design were       verified experimentally and       found to be highly accurate.
+Disc brake pad production costs are due to       combination of raw       material costs and manufacture.
+The manufacturing costs are particularly       sensitive to process cycle       times, which determine the production rates on the allocated presses.
+Application of the new       statistical methodology identified optimal process conditions that lead to       a 30% reduction in overall       cycle time compared to that previously obtained with a conventional       production engineering       approach.
+This reduction in cycle time was critical to the economic       viability of the product and lead       to substantial cost savings for the company [S1].
+Further analysis of the new model identified multiple solutions that made       it possible to select       production process conditions to yield the desired specification with       minimum inherent variation.
+To       combine these aspects of maximising production efficiency with maximizing       product quality       requires accurate and detailed process models, which the company had been       unable to achieve       without such an effective experimental design [S1].
+Following the outstanding success of this Ford project, the use of same       basic design has become a       standard procedure within Federal Mogul for introducing new friction       products into production.
+During 2012, based on this experimental design, new disc brake pad       products for Audi, BMW,       Ford, GM, Mercedes Benz and VW have been optimised for production [S1].

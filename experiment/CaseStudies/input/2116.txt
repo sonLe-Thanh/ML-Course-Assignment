@@ -1,0 +1,33 @@
+     The Newcastle University spin-out company NewChem Technologies, which was       founded in 2002, is primarily a drug development company working in       association with industrial partners.
+The company is the route by which       the academic research of Golding and his group is commercialised.
+In 2008,       as the result of steady growth, NewChem invested in new laboratories       within the School of Chemistry which are adjacent to Golding's research       group, thus enabling continuous and fruitful exchange of information and       expertise.
+In the period 2008-2013, NewChem has provided employment for       high quality chemists (&gt;60 FTE) and has achieved annual sales of       greater than &#163;1 million, thus making a significant contribution to       employment in the North East region [E1].
+The impacts of Newcastle University research through the vehicle of       NewChem include contributions to the science of the drug anagrelide       (Xagrid), a core product of Shire, as well as development of prodrugs of       several therapeutic agents [e.g.
+galanthamine (Alzheimer's disease) ,       guanfacine (ADHD), meptazinol and oxycodone (pain) [E2, E3].
+NewChem developed several customised release mechanisms for prodrugs that       aimed to resolve disadvantageous drug properties, e.g.
+poor intestinal       absorption, poor bioavailability due to extensive 1st pass       metabolism, high abuse potential, local GI toxicity, colonic delivery etc.
+According to the Former Head of New Product Discovery (Small molecules) at       Shire: "The positive impact of that relationship [NewChem and       Shire] on the research output of Shire cannot be overstated and         singularly contributed to the development of over 40 patents on         potential new drug products" [E3].
+Anagrelide (Xagrid or Agrylin&#174;) which is used to treat the       myeloproliferative disorder called essential thrombocythemia (ET) has       annual peak sales of $97 million [E4].
+Individuals with raised       platelet counts have a higher risk of adverse thrombotic and haemorrhagic       events.
+Previous investigations identified a metabolite       3-hydroxyanagrelide, derived from oxidation of anagrelide.
+Whilst       anagrelide and 3-hydroxyanagrelide are similarly potent against ET, the       metabolite is nearly 40-fold more potent against       phosphodiesterase-III (PDE-III), which causes severe cardiovascular       side-effects.
+Based on prior Newcastle research a synthetic route to       3-hydroxyanagrelide was devised [P2] which made this biologically       potent molecule reliably available for the first time and enabled a full       determination of its pharmacological profile.
+An analogue of anagrelide       was developed (3,3-dimethylanagrelide, `Rafingrelide') [E4], which       retains potency against ET, but has much reduced activity against PDE-III.
+This compound "has completed phase 2 clinical testing...current         estimates of its market potential in the anti-thrombotic market exceed         $500 million" [E3 Former Head of New Product Discovery (Small       molecules) at Shire].
+Phase 2 clinical trials represent an average of       $19,300 per patient investment into the drug [E6].
+During 2008-2012, a major contribution has been made to the Shire drug       guanfacine which is used to treat attention deficit hyperactivity disorder       (ADHD) [E1].
+Children with ADHD are deficient in normal social       skills and lack the ability to focus on tasks.
+Current sales for the       established ADHD drug Vyvanse approach $1030 million per annum [E4].
+The alternative ADHD drug guanfacine has been converted into a novel       carbamate prodrug.
+Shire recently invested substantial effort via NewChem       in research for new prodrugs for alleviating pain.
+This has resulted in       the development of carbamate prodrugs of meptazinol and oxycodone, which       were produced by the synthetic methodologies analogous to those described       [P3].
+NewChem studies for Shire have also created novel prodrugs of       the anti-Alzheimer drug galanthamine [E2].
+Shire has requested that       the details of these prodrugs be kept confidential but we can disclose "that         three compounds (not to be named) that...[NewChem researchers] worked on         were nominated for IND [Investigational New Drug] studies (2009-2012)         and two of these went into man [phase 1 trials in humans]" [E5,       Senior Director Exploratory Projects, Shire].
+Phase 1 trials represent on       average an investment per patient of $15700 (USD) [E6].
+During 2012/2013 NewChem has provided invaluable assistance to two SMEs.
+This assistance included the synthesis of key intermediates and products       that could not be sourced elsewhere.
+A key step in the synthesis of       complex nucleotides for the company QuantuMDX was accomplished based on       Golding's knowledge of protecting group chemistry arising from his       Newcastle research on nucleosides and nucleotides [P3].
+QuantuMDx       have "...secured &#163;1.4 million from the Technology Strategy Board         `biomedical catalyst fund' for developing a handheld device for rapid         tumour profiling...and ... a &#163;3.5 million EU FP7 grant for         developing a handheld diagnostic test for Malaria..." [E7,       Chief Operating Officer, QuantuMDx Group Limited].
+In another notable       achievement, Golding's Newcastle research has also assisted the company       Glythera in the synthesis of heterocyclic derivatives that are the basis       of therapeutic applications.
+"Based on the success of these studies       Glythera has...secured its second tranche of funding of &#163;700,000 from its       investors" [E8, Chief Operating Officer, Glythera Ltd.].
+In all of       the projects described above prior Newcastle research on prodrugs,       protecting groups, heterocyclic chemistry, nucleosides and reaction       mechanisms was critical to success.

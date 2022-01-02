@@ -1,0 +1,25 @@
+     According to the seminal report1 by the United Kingdom's Marine         Accident Investigation Branch (MAIB), fatigue is a major causal factor         in collisions and groundings.
+It suggested that the factors which         probably contribute to collisions and groundings include, inter-alia,         watch-keeping patterns, working hours and sleep problems.
+The report         concluded that the majority of the groundings occurred between 0000 and         0600 and that they involved solo watch-keeping officers following a 6         hours on and 6 hours off working pattern for significant periods.
+HORIZON2 has successfully achieved the first-ever sets of         experimentally based and wide-ranging data on fatigue and cognitive         performance in the maritime field, and provided novel methodologies and         data to inform future research.
+From a quantitative point of view, the         potential impact of implementing the results of HORIZON is considerable.
+From the MAIB report alone, the casualty figures for UK Flag ships or         accidents in UK waters, studied from 1993 to 2003, revealed that 66         accidents occurred involving 75 large vessels.
+Of these, one third was         caused, or contributed to, by human fatigue.
+High-profile casualties,         such as the Shen Neng 1 grounding on the Australian Barrier Reef         have had major impacts in financial terms and on the destruction of the         environment.
+Such accidents continue to cause concern, and fatigue         remains a significant risk factor in maritime safety3.
+One major achievement of HORIZON is the production of a prototype fatigue       prediction model (MARTHA) for use in operations on all types of ship,       including cruise ships and tankers.
+MARTHA is based on a theoretical model       of fatigue, and incorporates data from other industries to produce       algorithms, which predict the levels of sleepiness of shift workers.
+HORIZON has also introduced original data on off-watch sleep patterns and       has developed the basic model to create a version which is valid for       marine use.
+It is envisaged that MARTHA will be used by voyage planners to       check fatigue levels of crews in areas of high risk and workload, such as       port turn rounds.
+Tiredness and risk of falling asleep can be calculated       for six weeks in advance, giving management time to plan and implement       options for mitigating the risk of personal accident and ship casualty       through fatigue.
+Although studies4 have been made of the operational life of the         seafarer before, including assessment of the fatigue experienced by         seafarers and others working in safety-critical industries, through the         use of questionnaires and sleep diaries, none of these studies produced         experimentally based data, and the shipping industry has been slow to         take up any self-regulatory measures.
+Project HORIZON included stakeholder partners representing key       international associations in the shipping industry and knowledge transfer       through these bodies and influential individuals has led to active       encouragement of shipping companies to evaluate MARTHA.
+One high-speed       ferry company is using it regularly to check roster schedules and a newly       funded project called MARTHA is currently scientifically evaluating the       software at sea.
+Other international research teams, companies and navies       are also conducting studies to evaluate and implement such models.
+The       impact of MARTHA could lead to a reduction in environmental clean-up costs       alone of millions of dollars, and lower insurance premiums for those who       successfully implement such fatigue prediction models.
+The working hours and the hours of rest of 2 million seafarers, and the       conditions they work under for long periods of time, are issues which       remain continuously under the microscope.
+In addition, with the advent of       maritime governance issues, new approaches are emerging to change the       safety culture of the industry through self-regulation, to provide both       competitive advantage for companies and, at the same time, the improved       health and wellbeing of employees and their families.
+A new externally funded project is now providing a pathway to raise       awareness of these issues.
+All these aspects of fatigue management at sea       will benefit from the impact of implementing the findings from HORIZON and       the application of the MARTHA software.
+These outcomes may also have a       wider application to any shift working industry ashore and could provide       further significant and long-term impacts.
+(see R4)

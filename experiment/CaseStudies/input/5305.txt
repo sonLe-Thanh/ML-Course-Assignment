@@ -1,0 +1,31 @@
+     The underpinning research led to the invention and patenting of a new       class of fuel cell, namely a       metal-supported SOFC operating at 500-600&#186;C [A,B].
+The core patent has       been granted on a       worldwide basis, and further patents have followed.
+The key commercial       impact of the invention       was the formation of a spin-out company, Ceres Power, in 2001 which has       provided continued       employment to over 100 people amounting to approximately 600 man years       since 2008 (the review       period).
+The new type of fuel cell invented by the Imperial team is       particularly well suited to       operation on hydrocarbon fuels (such as natural gas, LPG and diesel       reformate) and its robust       construction allows its application, as the core fuel cell module, in       several large volume consumer       applications.
+Ceres Power has developed a domestic mCHP unit around the 1       kWe core fuel cell       module which operates on mains natural gas and generates all of the       heating and hot water and       the majority of the electricity needs of a typical UK home.
+The       wall-mounted unit is designed to       replace a conventional central heating boiler and uses the same gas, water       and electricity       connections.
+The unit (Figure 1) has a high electrical efficiency of 45%,       and total efficiency of 90%,       which reduces the energy bill by 25%, and saves around 1.5 tonnes of CO2       per annum per       household, thereby reducing greenhouse gas emissions.
+This is being       developed with British Gas       [C] and Bord Gais based on a forward order for 37,500 units.
+The core SOFC       module is compact,       robust, cheap, fuel-flexible and has an output that makes it suitable for       non-UK markets and other       applications.
+These include auxiliary power units in large trucks or small       boats, operating on       reformed diesel, and off-grid power operating on LPG for use in remote       locations or for       uninterruptable electricity supply in collaboration with Calor.
+On-going research in the Materials Fuel Cell group has continued to       inform the Ceres Power       development programme through sponsored research and technical meetings       with the founders.
+Ceres Power listed on the London AIM market in 2005, and in 2011 employed       around 160       technical and commercial staff in its UK manufacturing facility in       Horsham, and its technology       centre in Crawley[D].
+On 25th April 2012 Ceres signed an       agreement with the Itho-Daalderop       Group B.V. to distribute Ceres fuel cell CHP products into the residential       mass market within the       Benelux countries.
+[E].
+On restructuring of the company in 2013, staff       numbers have been       reduced and the operating costs have also been reduced by 44% to &#163;10.2M.
+Figure 1: A Ceres metal supported cell with the CHP unit in the       background 		     Development of SOFC systems is a very competitive field of research in       terms of fundamental       science, technology development, and commercialisation.
+Ceres was       nominated by the Institute of       Materials Mining and Minerals for the Queen Elizabeth Prize for       Engineering in 2013 and John       Kilner was awarded the platinum medal [F].
+The Imperial /Ceres development       of metal-supported       cells has had a major impact on world development of SOFCs.
+This was       recognised in 2012 by an       independent review of the Ceres technology undertaken by an international       expert in SOFCs Dr       Nguyen Minh [G].
+Some of his findings are:     "Unique cell/stack designs based on thin stainless steel foil         interconnect and laser drilled         substrate, imparting high levels of mechanical robustness and thermal         cyclability and creating         compact, lightweight sub-systems.
+"; "Increased cell/stack         reliability due to durable and stable seals         formed by welding and compression (vs. delicate glass seals commonly         used in conventional         SOFCs).
+"; "Low-cost, volume manufacturability based on         conventional processes such as metal         forming and screen printing with ability for high levels of         automation.
+"; "Patents and know-how         covering laser drilled foil substrate, cell configuration, stack design,         manufacturing procedures and         conditions provide significant protection against competition".
+[G]     Because of these major advantages many researchers and developers (e.g.
+Topsoe Fuel Cells,       Denmark) are currently pursuing metal-supported cell technology operating       at approximately       600&#176;C. Thus the research in this impact statement has led the field by       approximately 10 years and       there have been many imitators (e.g.
+a recent EU Project METSOFC,       2008-2011).
+However, no       other developer has yet succeeded in matching the performance of the Ceres       Power cells.
+As a       result of this world-leading performance Ceres is now moving to embrace a       global market for its       products and in July of this year announced a commercial and technical       partnership agreement       with South Korea's largest boiler manufacturer, KD Navien.
+The press       release states "KD Navien is       the dominant boiler manufacturer in South Korea with the largest market       share of all installed       boilers.
+It is also a major exporter to key markets around the world,       particularly the US".
+[H]     In summary Ceres Power is a UK based SME, with globally leading fuel cell       technology based on       research at Imperial College London, and a strong foothold in the       burgeoning market for low       carbon technologies such as mCHP.

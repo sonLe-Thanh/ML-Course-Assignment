@@ -1,0 +1,42 @@
+     Process from Research to Impact:       The key process through which the research generated impact was the       development of guidelines and standards used in the maritime industries to       design vessels/structures with improved resistance to wave impact loading       and thus improved safety and economics.
+Results and recommendations from       the laboratory studies on wave impact were published as guidance by HSE in       2005 (Wave Slap Loading on FPSO Bows, Source 6).
+The results from       the SAFEFLOW and FLOW JIP projects were published as Summary         Report on Design Guidance and Assessment Methodologies for Wave Slam and         Green Water Impact Loading (Source 7).
+These documents are still the       most detailed and up to date guidance for the design of Floating Offshore       Platforms against wave impact.
+The guidance covers wave loading on the       hull, deck and deck mounted equipment.
+Whilst Safety Cases for offshore       platforms in the UK sector of the North Sea are not based on mandatory       guidance, industry would be expected by the regulators to refer to the HSE       and SafeFlow guidance.
+The two guidance documents underpinned by       Strathclyde research have been used to design (or redesign) offshore       structures to ensure safe operation, thus reducing the risks to the vessel       crew, and the risks of oil spillage to the environment, and loss of oil       supply to the public, whilst reducing economic losses to oil producers.
+The Strathclyde research on waves and wave impact has directly informed       the oil industry and regulator sponsors; furthermore, through Barltrop's       membership of the standards committees has informed the ISO standards (19904-1         Floating Offshore Structures (Source 8),19902 Fixed Steel         Offshore Structures (Source 9) for offshore oil and gas platforms.
+Barltrop also contributed to the International Electrotechnical Commission       IEC TC 88, which developed IEC/BS standard 61400-3 Wind turbines &#8212;         Part 3: Design requirements for offshore wind turbines (Source 10)       incorporating guidance on wave loading, published in 2009.
+Barltrop is currently working on the revision of both the ISO and IEC       documents, providing essential reference for the safe design of fixed and       floating offshore structures in the fields of oil, gas and wind energy.
+Impact on Marine and Offshore Design and Safety:       In 2010 the Schiehallion FPSO bow impact loading was       reassessed for BP by Atkins and Strathclyde, using the Strathclyde simple       rule formulae and both the Strathclyde and Marin time domain models.
+This       structure has subsequently operated safely until 2013 in the       Schiehallion field, West of Shetland.
+(Source 1) The cost of the lost       production due to 10 days downtime due to the damage incurred in 1999 was       estimated to be about $35 million.
+The Strathclyde and Safeflow research       has been the basis for the estimation of bow loading on the Schiehallion       replacement vessel.
+This has been approved by BP, accounting for the       HSE/Safeflow guidance and data from the Strathclyde/ Atkins 2010       wave impact studies.
+The replacement vessel (likely to cost in the region       of $2-3 billion) is currently in-build and will be installed in 2014       (Source 1).
+The series of circular FPSO vessels designed by Sevan Marine ASA Oslo,       were designed according to this guidance based on input to design       consultants British Maritime Technology (BMT).
+This series of vessels       including Hummingbird (launched in 2008) and Voyager       (launched in 2009), now owned by Teekay Shipping, are still       operating.
+Each of these vessels are worth around $US 0.5-1 billion       (Source 2).
+Knowledge gained from Strathclyde research has been used by Barltrop in       the assessment of safety of the structure during possible impact loading       on the deck of the North Rankin-A fixed platform off Western Australia for       Woodside Petroleum in 2009.
+Value of the North Rankin Platform is       estimated to be worth around $2-3 billion.
+Work by Barltrop contributed to       the decision that the platform could continue to operate safely (Source       3).
+In 2009 a damaged wave screen protecting the ferry berths in       Kirkwall Harbour, Orkney was subsequently assessed and redesigned using       results, from Barltrop based on software developed for the SAFEFLOW       project (Source 4).
+The value of this wave screen installed is estimated       to be &#163;300k; its presence has both a societal and financial benefit by       allowing ferry operations to access and remain in the harbour in more       severe weather for about 20% more time.
+The expertise has also been exploited to examine and provide guidance on       wave load and wave impact for safe design of offshore wave energy devices;       namely the Naval Dynamics AS device, designed in 2008 and the       Aquamarine Oyster II built in 2011 and currently undergoing full       scale testing at the European Marine Energy Centre (EMEC) in the UK.
+Influence on legal proceedings:       The oil tanker Prestige sank after breaking in half in 2002 off       the coast of Galicia, causing one of the most damaging oil spills in       history, with a clean-up cost estimated at &#8364;2.5 billion.
+In October 2012 a       Spanish court opened the trial of the former captain and three other       defendants over their involvement in the oil spill.
+The main defendant is       the captain of the Prestige, against whom prosecutors are seeking a       12-year prison sentence.
+Besides pursuing criminal charges, prosecutors       are demanding financial compensation from the ship's insurers to cover the       costs of the spill.
+The Spanish state raised its total claim to about       &#8364;4.33 billion, from an initial estimate of &#8364;1.9 billion.
+France has so far       claimed &#8364;86 million in damages.
+Based on his wave impact research, Barltrop was asked to write expert       reports (from 2009 to 2012) and to give expert testimony in the Spanish,       Galicia Region, High Court, in 2013.
+In court there were two experts on       hydrodynamics: Barltrop and another from Spanish Model Basin (Cehipar).
+Results of the Strathclyde research played an important role in explaining       the nature of the waves, wave loading, structural response and the       interpretation of the model test results.
+Of particular importance, owing       to the effects of air in the water, on the basis of his research, Barltrop       argued that the scaling factors applied by Cehipar were only 60% of the       correct values.
+This evidence is highly significant as it indicates the       hull strength must have been 66% higher than was implied by the Spanish       tests.
+This indicates a properly, rather than poorly, maintained hull and       this will affect the court's decision as to the cause of and       responsibility for pollution and clean-up costs (Source 5).
+Court       judgement is expected in before the end of 2013.
+Wider impact:       Research impact has been through the development of guidance and       standards, use of these guidance and standards by other parties, and       through consultancy and expert evidence by Prof Barltrop and Prof Incecik.
+The guidance and standards provide better understanding and quantification       of the response of the shell plating of FPSOs and conventional tankers due       to wave impact loads which in turn enables the designers to manage the       risk of oil pollution and possible loss of life due to shell rupture.
+Inevitably, we only know the detail of a small proportion of the overall       application of the standards and guidance: i.e.
+applications in which       Strathclyde researchers have had some direct involvement.

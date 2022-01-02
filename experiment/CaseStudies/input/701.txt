@@ -1,0 +1,33 @@
+     (i) Commercial licensing to companies       The GMPR research-based technologies have been patented and licensed to       companies in Europe and in the USA.
+Non-exclusive licensing agreements       with Adatis GmbH of Nurnberg, Germany (July 2009 and Feb 2011) has enabled       that company to develop a line of access control products using both 3D       and 2D face recognition algorithms developed at SHU (the Face Entry line       of products in [Source 1].
+In particular, we provided close assistance to       Adatis on porting the algorithms to their hardware.
+Furthermore, a number       of 3D algorithms were customised to the characteristics of their       processors.
+The licensing agreement was based on an access fee of 40,000       GBP for the source code, plus a share of the royalties on a sliding scale       for all Adatis products and derivative products using algorithms and       methods developed by GMPR.
+The licensing agreement with Polyskopos Inc San       Jose, California (Jan 2012) follows on the same lines but this is       exclusive to the USA market.
+The access fee to Polyskopos was stipulated       at 50,000 US Dollars plus a share of the royalties from all products and       derivatives containing or using original or modified GMPR algorithms.
+Polyskopos' business plan is ambitious, targeting various sectors       including medical and entertainment markets.
+We also signed a technology       cooperation agreement with xCAD Solutions GmbH, Leoben, Austria (Aug 2012)       to develop 3D scanning solutions for the furniture industry.
+Key factors       are our fast and accurate acquisition technology, our pattern recognition       algorithms, and methods for face recognition in 3D and in 2D.
+(ii) Transferring knowledge to SMEs       The GMPR research outcomes are being transferred to SMEs across Europe       through the EU funded MARWIN project (FP7 Research for the Benefit of SMEs       2011-2013, 7 partners [Source 2].
+The MARWIN project provides a cognitive       3D based vision system for robotic welding tasks, in which welding       parameters and robot trajectories are calculated directly from CAD models.
+This is a revolutionary concept in robot welding tasks designed to       increase overall productivity and quality of welding assemblies.
+The GMPR       technologies are a critical component of the MARWIN system and several       alternative designs of a 3D vision system have been developed.
+The SMEs in       the project are from Spain, The Netherlands, Bulgaria and Hungary.
+They       own the rights to commercialise the 3D technologies within the MARWIN       solution while SHU profits from background IP royalties and also through       exposure to such markets.
+The EU funded ADMOS project (FP7 Research for       the Benefit of SMEs 2013-2015, 7 partners) is another vehicle transferring       GMPR technologies to SMEs across Europe.
+The aim of the project is to       provide intelligent analytics on outdoor media by analysing and       categorising passers-by.
+ADMOS tracks people and determines their       approximate age and gender and whether or not they have noticed the       advert.
+GMPR technologies on real-time detection and tracking, recognition       and depth estimation are critical to the project.
+There are four SMEs on       the project from Belgium and The Netherlands, Spain, and Hungary.
+They own       the rights to commercialise ADMOS technologies while SHU will benefit from       background IP licensing.
+(iii) The social and cultural context of our research       With regard to impacts on society and culture, the JISC e-Content       Programme provided funding in 2011 for the 3D scanning of Museums       Sheffield Metalwork Collection [Source 3].
+This collection has a       designated status, meaning it is internationally important.
+Scanning and       modelling the metallic objects was extremely difficult due to their       shininess and complex surface shapes [Source 4].
+Our research on       structured light methods using both multiple and single stripe scanning       was crucial in overcoming these problems.
+This project produced a digital       record of the collection, thus helping wider understanding of the city's       contemporary and historical contribution to the metalwork industries.
+The       3D models are universally accessible through standard web browsers located       on the Museums' Sheffield website [Source 5].
+The `Man of Steel' will be a       `made in Sheffield' 30m tall stainless steel landmark and visitor centre       for the Yorkshire and Sheffield region celebrating the community's       connections with the steel industry [Source 6 - 9].
+In 2012 GMPR       technologies were used to scan a model of the sculpture to a high       resolution of 4 vertices per millimetre.
+The scanned model has over 2       million faces.
+It has been a critical tool in allowing architects to place       it within virtual models assisting visualisation of the sculpture's final       appearance and also in helping to obtain the required planning       permissions.
+Mehdi Sculptures Ltd [Source 10] stated that: `This [3D         scanning of Man of Steel sculpture] has been handled with       considerable skill, resolving many issues along the way and achieving a       result that will have an immediate effect in many areas including design,       planning and engineering.'

@@ -1,0 +1,45 @@
+     Impact on patients     As a result of the trials and cohort studies, the BHI team demonstrated       that the technique they developed is as safe as conventional CABG using a       cardiopulmonary bypass pump.
+[1-6] A 2010 study sought to compare off- and       on-pump surgery through a systematic review and meta-analysis of       propensity score analyses.
+[a] The estimated overall odds ratio was less       than 1 for all outcomes, favouring off-pump surgery.
+This benefit was       statistically significant for mortality (odds ratio, 0.69; 95% confidence       interval (CI) 0.60-0.75), stroke, renal failure, red blood cell       transfusion, wound infection, prolonged ventilation, inotropic support,       and intra-aortic balloon pump support.
+The study found off-pump surgery       superior to on-pump surgery in all of the assessed short-term outcomes.
+This advantage was statistically significant and clinically important for       most outcomes, including mortality.
+These results agree with previous       systematic reviews of randomised and non-randomised trials.
+A 2009 study       analysed the risk reduction of cardiopulmonary bypass complications       between on-pump and off-pump coronary artery bypass grafting in high-risk       patients.
+In the intention to treat analysis, the rate of the composite       primary end point was significantly lower in the off-pump group (5.8%       versus 13.3%).
+The risk of experiencing the primary end point was       significantly greater for the on-pump group (unadjusted odds ratio, 2.51;       95% CI, 1.23-5.10; P = 0.011; adjusted odds ratio, 3.07; 95% CI,       1.32-7.14; P = 0.009).
+The study concluded that OPCAB reduces early       mortality and morbidity in high-risk patients.
+[b]     A 2013 study queried the Society of Thoracic Surgeons National Cardiac       Database for all patients undergoing non-emergency, isolated coronary       artery bypass from 2005 to 2010, who had Predicted Risk of Mortality       scores and participant/surgeon identifiers.
+Of these 876,081 patients       ("all sites"), 210,469 underwent surgery at participant sites that had       performed more than 300 off-pump and 300 on-pump coronary artery bypass       operations during the 6-year study period ("high-volume sites").
+A number       of outcomes were analysed with conditional logistic models for all sites       and for high-volume sites, stratified by participant centre and surgeon,       and adjusted for 30 variables that comprise the Society of Thoracic       Surgeons CABG risk models.
+In this analysis, OPCAB was associated with       reduced risk of death, stroke, acute renal failure, mortality or       morbidity, and prolonged length of stay after adjustment for 30 patient       risk factors and stratifying for both centre and surgeon identity.
+OPCAB       had a significantly greater reduction in these adverse events in patients       with higher patient reported outcome scores.
+The benefit of OPCAB,       therefore, may be more apparent in high-risk patients.
+[c] The European       Association for Cardio-Thoracic Surgery (EACTS) Adult Cardiac Surgical       Database Report 2010, contains information on over one million patients       undergoing adult cardiac surgery in 366 hospitals in 29 countries across       Europe and China.
+It reports an associated mortality rate of 1.4% (OPCAB)       versus 2.9%.
+[d]     Impact on international practice     Many surgeons had previously been reluctant to take up OPCAB because of       concerns that the technique required surgery on the beating heart,       potentially causing late blockage of the grafted arteries.
+The literature       on graft patency from randomised controlled trials of OPCAB versus       CABG-CPB is inconsistent, and studies conducted in 2005-6 reported       findings for only relatively short durations of follow-up [e].
+To address       these concerns, the BHI has conducted and published in 2009 the longest       follow-up study in the world directly comparing the two techniques.
+Participants in two randomised trials previously undertaken at the BHI       comparing OPCAB and CABG-CPB were followed up for six to eight years after       surgery.
+The findings conclusively demonstrated that the likelihood of       graft occlusion was no different between OPCAB (10.6%) and CABG-CPB       (11.0%) [f].
+These data were presented and discussed at the 88th Annual Meeting of The       American Association for Thoracic Surgery in May 2008 (the world's largest       gathering of cardiac surgeons).
+The discussion clearly demonstrated that       in Japan, surgeons have adopted this technique for about 60% of patients       undergoing CABG, and in the Japan's National Cardiovascular Centre 98% of       CABG procedures have been performed using OPCAB.
+Currently, it is       estimated that 20-25% of CABG operations worldwide are carried out with       the OPCAB technique.
+The National Adult Cardiac Surgery Audit 2010-11 [g]       reported that more than 26,000 CABG operations in the UK in 2011 used       OPCAB (20% of all such operations).
+In the US, 18% of CABG operations are       carried out with the OPCAB technique as of 2010.
+[h] The EACTS Adult       Cardiac Surgical Database Report 2010 notes that in 29 countries across       Europe and China, "21% of those patients undergoing coronary artery       surgery in which the technique is described had off-pump surgery.
+This       varies between countries from 0.8% up to 91.4%.".
+[d] The report details       that 61% of CABG procedures have been performed using the OPCAB in       China.
+[d] Of the 95,000 CABG performed per year in India, 30% had off-pump       surgery.
+[i] OPCAB surgery is now routine practice for five out of the       seven Consultant Cardiac Surgeons at the BHI Hospital, constituting       &gt;95% of their coronary surgical practice.
+The total number of OPCAB       cases at the BHI has gone from &lt;5% (25-30 cases per year) in 1995 to       &gt;75% (&gt;750 cases per year; &gt;8000 cases in total) in 2011.
+[j]     NICE has recommended the safety and efficacy of OPCAB surgery, through       interventional procedure guidance noting that, "Current evidence on the       safety and efficacy of off-pump coronary artery bypass grafting is       adequate to support the use of this procedure provided that normal       arrangements are in place for clinical governance, consent and audit".
+[k]       An effective programme of training in OPCAB surgery has been implemented       at the BHI.
+[k] Once surgeons are trained and accustomed to do it, they are       reluctant to go back to CABG-CPB because they are more comfortable with       the OPCAB technique and its reduction in early post-operative morbidity       and use of resources.
+Consultants trained in beating heart coronary       surgery at the BHI and now performing this surgery elsewhere include six       in the UK outside of Bristol, and the following consultants       internationally: Mr A Gosh, Consultant Cardiac Surgeon, Kolkata, India; Mr       P Narayan, Consultant Cardiac Surgeon, Kolkata, India; Professor W Gomes,       Professor of Cardiac Surgery, San Paolo, Brazil; Mr A Pitsis, Consultant       Cardiac Surgeon, Athens, Greece; Mr W Dihmis, Consultant Cardiac Surgeon,       Amman, Jordan; Mr B Izzat, Professor of Cardiac Surgery, Damascus, Syria.
+Impact on resources     The OPCAB technique has had a profound impact on hospital resources and       cost, with a 25% saving per patient.
+A 2003 BHI study recorded a dramatic       reduction in intensive care unit and hospital stay [5], as shown in the       following table:                                           CABG           OPCAB                             ICU stay (&gt;1 day)           22%           7%                             Hospital stay (&gt;7 days)           29%           15%                          The reduction in hospital stay was confirmed in 2013 in a study that       reported an odds ratio of 0.77 for postoperative length of stay across all       of the sites analysed (adjusted by patient).
+[c] A 2005 meta-analysis       examined five studies which have reported on the in-hospital costs and       each of them showed OPCAB to be less costly than CABG, with an odds ratio       of 0.77 across all of the sites analysed (adjusted by patient).
+[e] The       study included a collation of all the hospital costs from the date of       surgery to the date of discharge including all patient services and       supplies.
+The study calculated an average cost per patient of $23,053 for       CABG and $17,780 for OPCAB.
+Across the 26,000 operations in the UK in 2011       using OPCAB, this equates to a saving of US$137 million.

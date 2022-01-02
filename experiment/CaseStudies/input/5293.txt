@@ -1,0 +1,33 @@
+     Oil-and-gas companies need to transport significant volumes of multiphase       fluid long distances through pipelines from deep-sea beds.
+This is a       process complicated by the complexity of multiphase flows.
+For instance,       the intermittency arising from slug flow enhances pipeline erosion and       increases the stresses on pipeline bends.
+Severe fluctuations in flow       volumes also cause unwanted flaring at separators on oil platforms       resulting in safety concerns and subsequent reduction in the operation       capacity of oil plants.
+These issues give rise to design challenges and       usually lead to design compromises that sacrifice efficiency and/or size       of the processing plant.
+The oil-and-gas industry is therefore in need of       validated predictive tools for flow assurance predictions.
+Software company members of the TMF programme have been key in spreading       the impact of the research.
+The slug capturing model in the TRIOMPH code       developed at Imperial [5] has been embedded in two new commercial codes,       namely LEDAFLOW issued by Kongsberg Oil and Gas Technologies and PROMPT       being issued by Multiphase Simulation Ltd. One of the companies supplying       consultancy and software to the oil-and-gas industry is FEESA Ltd, which       is based in Farnborough Hants.
+The Managing Director of FEESA Ltd, states:     "Though FEESA is a software company, it does not develop its own       multiphase models, rather it gives engineers access to the multiphase       models of others, such as the published (e.g.
+Beggs and Brill) and       commercial models (i.e.
+OLGA-S and LedaPoint from SPT and Kongsberg,       respectively).
+Though most developments in these tools are commercial in       confidence to their developers, FEESA is aware that they do borrow ideas       developed in TMF quite a lot.
+An example of this is the slug capturing       model in LedaPoint which .... proved to be a more physically reasonable       method for modelling slugs than the traditional slug tracking method.
+I'm       sure Kongsberg would not have gone down this route without Raad [Issa]'s       group in TMF blazing the way some years before.
+Better slug models mean       more confidence in surge volume predictions, which lead to smaller design       margins on topsides equipment, which can lead to designs being cheaper and       more optimal.
+There is also a safety implication of reducing separator       volumes on production facilities.
+In short, pressure is energy per unit       volume and the less stored up energy there is on manned facilities the       safer everyone is."
+[C]     Importantly, the codes are not credible without validation.
+The unique       experimental information in relation to slug flow provided by Imperial       research [1-4] has allowed successful validation, which in turn has led to       the results of their predictions being accepted by the industry as       accurate.
+This has enabled the oil-and-gas companies to determine the       operating envelopes, flow regimes and associated design considerations as       well as the energy requirements likely to be encountered in particular       applications.
+Two examples illustrating the contribution of TMF to the oil and gas       industry are provided:            SPT Group, now part of Schlumberger, is one of the largest software         providers to the oil-and gas industry with an operating income of $29.6M         in 2012.
+SPT has been actively associated with TMF since its foundation.
+The SPT group developed the single platform (OLGA), which is now the         world leading product for multi-phase oil and gas flow prediction.
+Chief         Scientist of SPT Group, states: "These flows are complex and           multiscale.
+Predicting their behaviour is central to this industry and           continues to be of paramount importance to the UK economy: North Sea           revenue alone is expected to raise &gt;&#163;11bn in revenues in 2011-12.
+TMF have championed the cause of making progress through reliance on           sound and rigorous fundamentals.
+...In terms of the impact generated           by TMF, it is clear that the TMF-related research             activities, both modelling and experimental, have led to significant             improvements in our ability to simulate the essential physics of             multiphase pipe flow, and thus to maintain our             position as market leaders... also through the training           of high-quality researchers that have taken up important positions in           the oil-and-gas industry, in oil-and-gas research and in SPT Group."
+[B]       Sr. Staff Scientist within Flow Assurance of Chevron (2nd         largest western oil producing company) states: "much of the           equipment (separators, filters, multiphase flow lines, etc.)
+being           installed would have not been possible without the knowledge obtained           through TMF.
+Without the knowledge from TMF, some of the oil industry           projects would have been too risky to proceed.
+Thus, it is possible to           say that the impact of TMF on the oil industry is worth hundreds of           millions of dollars."
+[A]          The TMF collaborative programme allows immediate use of the research by       the industrial partners.
+Additional routes through which the impact has       taken place include the recruitment of TMF PhD students by TMF sponsors,       and the consultancy work carried out by TMF academics on problems that are       of specific interest to the sponsors.

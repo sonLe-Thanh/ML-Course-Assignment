@@ -1,0 +1,52 @@
+     Process from research to impact: The Irish Sentencing Information       System (ISIS) project aimed "to develop a computerised information system,       on sentences and other penalties imposed for offences in criminal       proceedings, which may inform judges when considering the sentence to be       imposed in an individual case.
+The sentencing information system enables a       judge, by entering relevant criteria, to access information on the range       of sentences and other penalties which have been imposed for particular       types of offence in previous cases."
+[Source A].
+The project was overseen       by a Steering Committee of judges, "which conducted a survey of similar       systems in other countries and found that in Scotland to be most relevant.
+A study was then undertaken of the Scottish system [Source B,E], which had       been developed by researchers at the University of Strathclyde.
+Cyrus Tata       had previously contributed to the legal research underpinning the content       of the Scottish database, and John Wilson (UoA11) was the computer       scientist involved in the design and construction of the Scottish       database.
+From 2005 Tata "provided considerable assistance, guidance and advice" to       the ISIS Steering Committee and Tata's "in-depth knowledge and experience       of the Scottish SIS was invaluable in developing ISIS" [Source E].
+He       addressed and met with members of judiciary, the Steering Committee       (including its chair, Justice Denham, now Chief Justice), senior       management and staff of the Irish Court Service [Source E].
+The research       articles of Tata and colleagues were circulated, and some have been placed       on the ISIS website.
+Chief Justice Denham has stated that "ISIS has proven       to be a significant improvement over previous paper-based record systems       in Ireland, and was developed with the helpful advice and assistance of       Professor Cyrus Tata based on his prior research and development of the       Scottish Sentencing Information System" [Source E].Key issues on which       Tata advised were: public access and institutionalisation, data quality       and recording, case taxonomy, politics of sentencing reform, and       accordingly in some key respects the Irish approach improves on that of       Scotland.
+Unlike the Scottish SIS, the Irish system is publicly available.
+Contemporaneous data is recorded by those trained for the task.
+ISIS       continues to be directed by a steering committee chaired by the Chief       Justice, (rather than delegated to court/IT managers), and is expected to       be taken over by a Judicial Council [Source E].
+An initial data collection phase of the project ran between 2007-9 in       Dublin, Cork and Limerick Circuit Criminal Courts, Dublin District Court       (29993 cases) and the Court of Criminal Appeal (305 cases).
+The ISIS       website was launched in 2010 by which point it contained information on       over 1000 cases [Source C].
+In January 2013 funding was secured to enable       further expansion and development of ISIS [Source A].
+Announcing this       development, the Chief Justice of Ireland said ISIS "...gives a practical       overview and a snapshot in time of how our courts treat various offences,       who committed them and the circumstances in which they took place.
+It is       also a hub for keeping up with the latest judgments and academic thoughts       on various crimes and sentencing".
+Types of Impact:     1.
+Introduction of new technology to aid awareness of sentencing:       Prior to ISIS, public access to legal records was virtually non-existent.
+Although paper-based records were sometimes available they did not permit       a meaningful picture of sentencing practices.
+As a web-enabled database,       ISIS provides quick and easy access to sentencing patterns, individual       cases and other relevant knowledge about sentencing, according to a       flexible range of search criteria.
+ISIS aims to provide flexibility so       that information is available at aggregate and individual case levels and       including both first instance and appealed and data collection is ongoing.
+ISIS has international reach.
+Over 8900 user visits in 2011 originated in       50 different countries with the bulk coming from Ireland, the USA, the UK       and the Netherlands.
+Search phrases used indicate that users are looking       for information about specific cases as well as more general information       about sentencing in the Irish Republic.
+By 31st December 2012       there had been 32,544 hits on the ISIS website with over 8500 user visits,       and in the first quarter of 2013 alone there were 18,193 hits from 48       countries.
+2.
+Practitioner Decision-Making: ISIS enables judges, and others       engaged in the sentencing process to develop their knowledge and       understanding of sentencing practices, so enhancing the pursuit of       fairness and consistency in sentencing.
+This not only assists sentencing       practitioners, but also benefits those brought before the courts (e.g.
+defendants, witnesses including victims), as well as the wider public       [Source C].
+As well as being a point-of-sentence tool, consistent with       Tata's advice, the ISIS project has begun to mine the data to produce       occasional published reports about matters of particular legal and public       interest, which together with a regular series of sentencing seminars run       by the ISIS steering committee, help to inform practitioners.
+The ability       of ISIS to assist the pursuit of fairness and consistency in sentencing       and public knowledge without threatening judicial independence and       impartiality is widely regarded as a particularly significant development.
+For example, The Irish Justice and Equality Minister said in the Irish       Penal Reform Trust Annual Lecture 16th September 2011 that "The system         [ISIS] informs judges &#8212; it does not interfere with judicial independence         in sentencing.
+.
+.
+As Minister, I believe the website to be of great         assistance in ensuring greater uniformity of sentencing."
+[Source       D].
+Around 500,000 criminal matters are dealt with by the Irish criminal       justice system each year.
+By 2010 ISIS contained information on over 1000       cases [Source C].
+3.
+Stimulation of Public Discourse: A wide range of Irish media       have welcomed the public accessibility of ISIS as an act of transparency       in the exercise of justice [Source F,G].
+In making the ISIS publicly       accessible, the Irish approach contrasts favourably with that of Scotland,       as Tata advised the ISIS Steering Committee that the refusal to make the       SIS Scotland publicly accessible was one of the key reasons why it lost       momentum shortly after full implementation.
+Public access helps to embed       the system into everyday practices, as well as assist the public       understanding of sentencing and contributing to confidence in the justice       system.
+ISIS aids knowledge of , and understanding about sentencing and       criminal justice, which helps to stimulate more informed public debate.
+[Source C] In late January 2013, consistent with advice and research of       Tata (2000), data in ISIS has begun to be mined to produce occasional       `Sentencing Snapshot' reports which have been prominently reported in the       media , thus contributing to public knowledge and understanding, [Sources       C,H,I].
+ISIS has also been referred to in public discussion and debate       about sentencing practices sparked by high profile and controversial cases       [Source J]     4.
+ISIS enables greater predictability in the planning of policy and         management of criminal justice services: Beneficiaries also include       criminal justice managers and policy-makers including court service       managers dealing with the flows of first instance and appeal cases,       prosecution, prisons and community justice sectors.
+Greater knowledge and       understanding of sentencing, its dynamics, and the drivers of sentencing       trends enhance the ability to plan the provision of services (and the more       efficient expenditure of precious resources) and provide a more informed       basis for the development of criminal justice policy.
+For example, a       recent White Paper on Crime issued by the Department of Justice and       Equality commented : "A development of some significance is the Irish       Sentencing Information System (ISIS) website [...].
+This publicly       accessible resource includes statistics on sentencing, synopses of       relevant court judgments and a database on sentences imposed in various       crimes and cases.... [a] valuable tool not only for legal practitioners       and researchers but also for those concerned with the needs of victims and       their families."
+[Source K]

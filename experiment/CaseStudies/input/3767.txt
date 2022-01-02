@@ -1,0 +1,36 @@
+     The History of         Mathematics Archive (at http://www-history.mcs.st-and.ac.uk)       is arguably the most widely consulted mathematics information resource in       the world and one of the most accessed scientific websites.
+It has helped       to popularise mathematics and science to the public in the UK and       internationally, as well as to inspire future scientists.
+Its reach and       significance have been considerable in stimulating public interest,       engagement and understanding of mathematics and science across a       world-wide arena that includes schools, colleges and the general public,       contributing to a stated aim of government and other public and private       bodies of raising public awareness of mathematics and science.
+The Archive includes detailed biographies of 2740 mathematicians and over       2000 other pages of essays and supporting material.
+It is underpinned by a       great deal of research including that described in section 2, was produced       entirely by members of the University of St Andrews School of Mathematics       and is located on the School's webserver.
+It is a direct and highly       visible result of the School's research in the History of Mathematics,       incorporating both research published in learned journals and material       researched specifically for the Archive.
+The reach of the web Archive is vast in terms of the number of hits and       the countries from which they originate.
+The web         statistics [3] show typically 2 million pages of downloads (about       4.5 Gigabytes of information) by about 150,000 users each week       from 1st January 2008 onwards.
+For example, there were 11.6 million hits       during May 2012.
+Whilst many hits on the site are from UK, USA and Russia,       in a typical month hits are recorded from virtually every country in the       world, with India, Brazil and China near the top of the list.
+A high       proportion of downloads are from non- university users (e.g.
+with over 31%       from .com domains).
+The Archive is widely recognized as a major online educational resource;       for example, it is included in MERLOT,       California State University's Multimedia Educational Resource for         Learning and Online Teaching [4].
+A recent UK report History         of Mathematics in the Higher Education Curriculum [5] by a working       group set up jointly by the HEA MSOR Network, Mathematical Sciences Strand       of National STEM Programme &amp; BSHM refers to the Archive as "A         large and ever increasing repository of entries on a whole range of         people and topics within the history of mathematics.
+An excellent and,         in terms of search engine ranking, almost inevitable first port of         call."
+A recent article in MSOR           Connections states "There are many valuable resources on         the history of mathematics, and in particular the MacTutor history of         mathematics website is widely used by academics and students."
+[6].
+Many leading universities offer courses that depend heavily on the       Archive, for example Teaching         Math with a Historical Perspective at Harvard [7] and Mathematics         and its History at the University of Florida [8].
+Moreover, many       lecturers use the Archive for supporting material to provide historical       background when delivering mathematics and science courses; see [9] for an       example of a mathematics         course website with a direct link to the Archive.
+The Archive is widely used for high school teaching and projects.
+The         University of Chicago &amp; Chicago Public Schools Internet Project       states "This is the most comprehensive site on the web for the history         of math, biographies of mathematicians, and famous curves.
+It can be         used as a companion piece for research and for helping students         understand mathematical concepts."
+[10] There are direct links to       the Archive from the teaching and learning resource web pages of numerous       high schools across the world, see [11] for one         of many examples.
+Social networking now plays a role in disseminating the Archive.
+The       twitter feed @mathshistory       mainly provides a daily tweet linking to a mathematician of the day on the       Archive, and the number of followers has rapidly grown to over 16,000 at       the time of writing [12].
+The Archive is frequently used as a source for popular scientific       writers, lecturers and broadcasters.
+Best-selling writer Ian Stewart       writes "As a writer of popular science, specialising in mathematics, I         have found the MacTutor archive to be of great value when researching or         checking historical events and people.
+Since 2008 I have made extensive         use of it when writing the following 8 books..." [1].
+The Archive is       cited as a web-reference in many popular science books, e.g.
+A Very         Short Introduction to Numbers by Peter Higgins (OUP, 2011).
+It is a       resource for media presentations, such as Melvyn Bragg's Radio 4 In         Our Time series which has featured Roney-Dougal on several occasions       [13].
+Indeed, as a result of the Archive, Research Group members are       approached virtually every month to advise for radio and television       programmes [2] as well as for journal and magazine articles.
+MacTutor has received many internet and other awards, including in 2012       the Comenius Medal of the Societas Comeniana Hungarica (The Hungarian       Comenius Society) for "contributions to education particularly for the         MacTutor History of Mathematics Web Archive".
+The development of the web Archive is a dynamic and on-going process.
+It       is updated in minor or major ways almost daily and additional biographies       and other material are added regularly, with feedback and input from users       and mathematicians contributing to its breadth and efficacy.
+This provides       the impetus for further research and ensures that the vitality, utility       and impact of the Archive will continue into the future.

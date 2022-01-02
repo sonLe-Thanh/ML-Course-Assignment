@@ -1,0 +1,52 @@
+     Through collaboration between Lab21 and UoE, a malarial antibody         detection EIA (Enzyme ImmunoAssay) has been developed and is now       marketed commercially to screen blood donations from identified       malaria-risk individuals.
+Malarial antibody screening is considered to be       an effective strategy for dealing with donations from malaria-risk donors       in non-endemic countries.
+The use of this assay enables the collection and       release of blood donations from malaria-risk donors who otherwise would       have to be deferred either for at least 12 months in the case of       travellers, or from 5 years up to permanently in the case of previous       residents of endemic areas.
+This approach has been adopted by at least 10       national blood authorities, including England, Scotland, Wales, France,       Italy, Netherlands, Belgium, Portugal, Spain, Australia and New Zealand.
+Impact on health and welfare:     The UK has the highest incidence of travel-related malaria compared to       other non-endemic countries; several thousand cases are imported into the       UK every year.
+This constitutes an on-going risk of       transfusion-transmitted malaria (TTM).
+The risk of transmitting malaria is       complicated by the long and relatively asymptomatic period during which       infectious organisms can remain in the blood.
+Because of this, most blood       transfusion services have a policy of deferring `at risk' donors.
+Prior to       the introduction of the EIA screening test by the NHS Blood and Transplant       authority in 2002, UK blood transfusion guidelines recommended that blood       donation by travellers to malarial areas were deferred by at least 12       months and, in the case of previous residents of such areas, up to 5       years.
+This led to permanent inaccessibility to some donor groups,       substantial loss of blood donations, and the unnecessary permanent       deferral of many donors.
+The number of blood donations lost as a result of       the lengthy deferral period of malaria-risk blood donors was significant.
+In England alone, up to 60,000 donations per year were lost [a].
+This       figure was rising year-on-year with the increase in travel to, and       immigration from, endemic areas.
+An increasing number of donors are also       deferred for a wide range of other possible infection risks, and this led       to challenges in maintaining a sufficient blood supply.
+It became essential that blood transfusion services devised strategies       that ensure protection from TTM and also minimise the loss of donors and       blood donations.
+In March 2004, the European Union issued Commission       Directive 2004/33/EC for blood and blood components.
+Annex 2.2.1 details       the deferral periods for four categories of malaria-risk individuals for       blood donation.
+There is a reduced deferral or no deferral period if "an       immunologic or molecular genomic test is negative".
+Such a screening test       for malaria-risk individuals has to be sensitive enough to identify all       infected donations and have high specificity.
+It also has to be low cost       and straightforward to perform routinely in the laboratory.
+In 2001 we started working with Newmarket Laboratories Ltd to develop a       screening assay.
+We provided two purified recombinant antigens of MSP-2       and also alerted them to the existence of two MSP-1 proteins produced by       National Institute for Medical Research.
+Our advice was that only by       combining these four antigens in a screening assay could all malaria       parasite antibody-positive individuals be detected.
+Several important       results from our sero-epidemiological studies were essential in deciding       which antigens to include in the assay [b].
+Firstly, the high frequency       (&gt;90%) of recognition of MSP-119 by African sera       demonstrated in 1998 [1] provided supporting evidence for its inclusion in       any antibody screening assay.
+Secondly, one of the MSP-2 antigens used in       previous studies (Type A T9/96 antigen) [3,5] proved to have unacceptable       cross-reactivity with sera from malaria unexposed individuals, and was       substituted by another MSP-2 (Type A CH150/9 antigen) in subsequent       research studies [4] and in the screening assay.
+The Malaria EIA containing all four antigens was developed at Newmarket       Laboratories Ltd [b].
+The assay detects IgG, IgM and IgA isotype       antibodies to all four human malaria strains, P. falciparum, P. vivax,         P. ovale and P. malaria.
+It is reported to be 98% and 100%       sensitive for P. falciparum and P. vivax respectively with       98-100% specificity [c].
+This makes it the most successful malaria       antibody screening assay and is more sensitive than the previous "gold       standard" test, the IFAT, which is time-consuming and depends to some       extent on operator interpretation of antibody reactivity.
+The Newmarket Labs malaria EIA was trialled at the English National       Transfusion Microbiology Reference Laboratory alongside the in-house IFAT.
+The results, published in 2004 [d], represented the actual outcomes of       screening samples from malaria-risk donors.
+The data showed that the EIA       was indeed a sensitive assay and as a consequence, since 2004 donation       screening in England and Wales has been performed successfully using only       the Malaria EIA derived from UoE research.
+It is also in use as the       primary screening assay in Scotland and in several other European       countries and was adopted by Australia and New Zealand in 2005.
+This has a significant ongoing impact during the REF census period       2008-13.
+In England, ~3% of all donations require malaria antibody       screening.
+In the first 5 months of 2008, the English National Blood       Transfusion Service (NBTS) screened 24,400 donations for malaria       antibodies.
+Of these, 98% tested negative and so 23,919 donations were       cleared immediately for clinical use.
+These percentages are fairly       constant over time and so we estimate that over 320,000 donations were       enabled in England during the REF census period.
+The Scottish NBTS       screened 6210 donors using the malaria assay in a two-year period from       October 2010.
+96.3% of these were non-reactive and so over 5,900 donors       were returned to the donation pool [e,f].
+By extrapolation, we can       estimate that some 16,470 donors were enabled in Scotland during the REF       census period.
+The Welsh NBTS data shows that in 2008, 95.24% of donations       screened were non-reactive, enabling an estimated 13,600 donations to be       used during the census period.
+So, for these 3 UK countries alone, more       than 345,000 blood donations have been retained by the early re-admittance       of donors, thanks to use of the assay from 1st January 2008 to       31st July 2013.
+Prior to the routine use of the assay, the deferral period for       malaria-risk individuals in Australia was 12 months.
+Assessment of the       assay's performance using Australian blood donor samples from malaria-risk       individuals showed that over 40,000 donations are now retained annually       after screening [g], so for the REF impact census period, c. 220,000       donations were cleared for clinical use.
+Data from New Zealand shows that       90.2% of donations screened for malaria antibodies are non-reactive,       releasing approx.
+30,000 donations for clinical use during the REF census       period.
+Impact on commerce:     In 2006 Newmarket was acquired by Lab21, a global provider of       state-of-the-art diagnostic products and services.
+The Malaria EIA was       sold by Lab 21 throughout the whole of the REF impact census period and       distributed worldwide through Bio-Rad, a global life science and clinical       diagnostics product supplier [h,i].
+Trinity Biotech purchased the relevant       operational arm of Lab21 in July 2013 and now markets the Malaria EIA.
+[text removed for publication].

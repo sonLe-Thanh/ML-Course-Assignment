@@ -1,0 +1,46 @@
+     a. Computational Humour.
+Non-academic impact in this area was       achieved through an EPSRC- funded Partnerships for Public Engagement       project, The Joking Computer: An interactive language playground       [EP/G020280/1].
+Led by Masthoff and Ritchie, this project developed a       user-friendly, education-oriented implementation of computational humour       algorithms (previously developed by Ritchie and colleagues), and closely       related educational materials.
+The software allows users to compose their       own jokes and to rate the jokes produced by the computer.
+It was       installed, using interactive touch screen kiosks, in Glasgow Science       Centre (Dec 2009 - August 2010), the Satrosphere Aberdeen (March 2010 -       present), and Dundee Science Centre (May 2012 - present), where it took       part in the 2012 headline exhibition "Robot: the Fantasy and the Reality"       [S1].
+The session logs kept by the software show that these exhibits have       been used by over ten thousand members of the public.
+Workshops for       schoolchildren were run at various festivals (Word, May 2010; Techfest,       September 2010; Science in the City, October 2010), with more than 250       participants in total.
+Feedback was collected at the workshops, in the       science centres, in evaluation sessions in a primary school, and online.
+Teachers were very enthusiastic (e.g.
+"excellent teaching materials",       "covered many literacy and ICT skills", "pupils thoroughly enjoyed it")       [S2].
+The data gathered during the public's interactions with the software       will allow for more detailed analysis of the Joking Computer and the       public understanding of humour.
+A public talk was also delivered to the       general public (May 2010, 120 attendees) as part of the University of       Aberdeen's Public Engagement programme.
+Materials created for these       workshops have been made available to primary schools across Scotland.
+A       child-friendly website has been created, with educational information and       games, including a full-scale interactive version of the project's main       software.
+This site has had many visitors; the online database shows that       the interactive software has received nearly 200,000 hits.
+Users have been       asked to supply feedback via the website.
+This feedback has indicated that       they had gained insight in the mechanism behind jokes, and that their       experiences with the Joking Computer had taught them what Artificial       Intelligence can be used for.
+These activities have attracted much media       attention, resulting in articles in the press, radio interviews (e.g., BBC       Radio Scotland, BBC5 Radio, NorthSound2), and a TV appearance (STV), which       have tended to applaud the beneficial impact on children with       communication difficulties in particular.
+The media attention in this       technology has reach across technical [S3], main stream [S4] and       international [S5] media, and has sparked interest in using the technology       commercially.
+Debenhams, for example, issued a press release noting their       interest and engagement with the research team in using the software to       generate puns for Christmas Crackers [S4].
+Computational humour has proven to be a remarkably effective topic for       explaining the challenges facing Artificial Intelligence, and NLG       specifically.
+People with little background in computing often find it       difficult to understand how a computer program can tackle new problems.
+The Joking Computer allows users to play with algorithms, to discover how       a computer can itself invent a surprising new joke.
+b.Vagueness.
+The book Not Exactly: in Praise of Vagueness       presents the University's work on vagueness (e.g., [R5] &amp; [R6]) to       non-specialists.
+The book launch, organised by the KIM Center for       Contemporary Arts (Riga) in collaboration with the University of Latvia's       Centre for Cognitive Sciences and the Stockholm School of Economics, drew       over 100 visitors.
+Other invited public presentations include the literary       Word Festival (Aberdeen, May 2010), the Science &amp; Society       Forum at the European Molecular Biology Laboratory in Heidelberg (Germany,       Dec 2010), and a public lecture at Sun Yat-Sen University, Guangzhou       (China, Dec 2010).
+In June 2013, a bit over a year after appearance of the paperback       edition, the English-language version had sold 4,311 copies [S6].
+Global       interest in the text is substantial and growing: A translation into       Complex Chinese, published by the China Times Publishing Company, Taiwan,       has sold 1,950 copies (April 2013) and a licence for translation into       Simplified Chinese has been signed in April 2013 with Beijing Time-Chinese       Publishing House (covering 5,000 copies).
+An Arabic translation by the       National Center for Translation, Cairo, is to appear in Winter 2013/14.
+Additionally, a pirate version of the English edition has appeared in       China at Taobao (sales figures unknown).
+Reviews in publications such as Nature [S7]; Computational         Linguistics; Minds and Machines; and Laval Theologique         et Philosophique, and in non-academic forums such as The New         Scientist, Wall Street Journal, The Sunday Times, Science         News, and Guardian, are in agreement that the book has       contributed to civic debate on issues surrounding arbitrary borderlines       and false precision, and to the public understanding of Artificial       Intelligence.
+The Times Higher Education wrote:     "the concept of vagueness is set to be of huge significance in the next       few years (...).
+I suspect that the products and services that prove       ultimately successful will be the ones that have fully accommodated       vagueness as discussed here by van Deemter &#8212; thereby delivering a truly       human-friendly interface between the virtual and the real world.
+The style       throughout is amusing, persuasive, conversational and engaging, but this       does not detract from the thoroughness with which van Deemter approaches       his thesis."
+[S10]     There were prominent reviews in Corriere della Sera (one of       Italy's main broadsheets), Rigas Laiks (Latvia's paramount culture       magazine) and in Israel (Globes and Calcalist).
+New         Scientist wrote:     "the world turns out to be unexpectedly vague (see `Kees van Deemter: The       importance of being vague').
+It's not just that things we think of as       well-defined are actually a series of approximations, like the metre.
+More       profoundly, vagueness is a key part of communication: unless we get to       grips with it, robots will never `talk' naturally to people (...).
+Just as       well, then, that we have finally started to think precisely about       vagueness."
+[S8]     Legal and political implications were highlighted repeatedly, for example       in the Wall Street Journal:     "The vague boundaries of political terms (...) are what allows for the       differences in opinion that lend democracy its vibrancy.
+Vagueness, in Mr.       van Deemter's view, is language's gift to civic culture."
+[S9]     The book is not without its own academic impact (with 40 citations under       Google Scholar) and has achieved impact in pedagogic fields, being used in       courses at the Ecole Normale Superieure in Paris (Philosophy, P. Egr&#233;);       Northwestern University in the USA (Philosophy, P. Ludlow); Melbourne in       Australia (Philosophy, G.Restall); and Leiden in The Netherlands       (Archaeology, R. Corbey).
+Jointly the two parts of this Case Study &#8212; The Joking Computer       public engagement project and the popular science book Not Exactly: in         Praise of Vagueness &#8212; are engaging significant sections of the       public with Artificial Intelligence.
+In addition, they are giving a       non-scientific audience an insight into the basics of Computing Science       (e.g., What is an algorithm?)
+and are informing civic debate about the       role of language in culture and society.

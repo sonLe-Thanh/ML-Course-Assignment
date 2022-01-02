@@ -1,0 +1,45 @@
+     Context     There is a strong and growing legislative and regulatory drive to predict       the behaviour of       environmental systems, contaminated land and distributed engineered       assets, and in the latter       cases a clear commercial imperative.
+Our research showed that improved       data quality was       required and highlighted the failings of existing monitoring equipment       that had neither been       designed for specific environmental settings nor to function as an       extensive network.
+Best practice       had hitherto consisted of temporally and spatially limited data       collection.
+The identification of the       potential improvement in best practice as provided by a network of Clams       has led to the claimed       impact.
+Pathways to Impact     The research led to establishment of Salamander Ltd in 1996.
+Its initial       role was to develop       commercial products but from 2002 onward, subsequent to licensing the       products, it became       specifically to develop methodologies for their use and demonstrate these       to be "best practice".
+Dr       Boult founded the company and all the staff have studied at The University       of Manchester.
+The research allowed specific market opportunities in increasing the       resolution of environmental       data to be recognised, and also gave the opportunity to develop and test       the requisite       instrumentation in difficult environments (1-6).
+Initially the research       contributed in the design and       development of a data logging system for environmental applications by Dr       Boult and his team       including a wide range of sensors (1,2).
+As these products matured into       the specific Clams, each a       patented award-winning device for effective extensive monitoring, research       continued to contribute       to development of telemetry systems.
+The team's research into organic       contamination of       sediments (5,6) demonstrated a need for in-situ gas monitoring and       led to the development of       GasClam&#174;.
+Research has continued since the development of the Clams into optimal       product usage to       optimise data collection, understand the system and maximise the       cost-benefit (3).
+Iterative interaction between Salamander and ongoing research has       maximised impact by allowing       the product to be refined and the market to be identified and developed.
+&#163;600k equity was raised       by Salamander for product and market development and Hydraclam&#174;       and ChloroClam&#174; have been       licensed to Siemens (Hydraclam&#174; UK license 2005 and a       Chloroclam&#174; global license in 2010,       revised to a global license for both products in 2012) and GasClam&#174;.to       Ionscience in 2010.
+Water quality monitoring: Workshops (2011, 2012) involving all UK       water companies, 100's of       presentations direct to water companies, to conferences and professional       bodies in the UK and       10's globally.
+Ground-gas monitoring: 100's of workshops and presentations in the       UK to Local Authorities and       leading environmental consultancies.
+CL:AIRE (Contaminated Land:       Applications in Real       Environments) have disseminated a Technical Bulletin and webinar to which       most contaminated       land practitioners subscribe.
+Gasclam and recommendations for its use have       been written into       several documents referred to for guidance in the UK, USA and Australia       (Corroborating       Information).
+Reach and Significance of the Impact     Since 2008 royalties to Salamander, from Hydraclam&#174; and       Chloroclam&#174; have been &#163;700k over the       REF period (equivalent to sales of approximately &#163;4.2m at the current       royalty rate).
+Conditions of       the licensing to Siemens are minimum sales of 35,000 units worldwide by       2017, this is likely to       include monitoring water quality for all UK consumers and generating       royalties of &#163;18m solely from       the UK.
+Royalties from Gasclam&#174; were &#163;350k (equivalent to sales       of &#163;2.8m at the current royalty       rate).
+Royalty income can be regarded as Gross Value Added (GVA) and given       the likely re-investment       rate and R&amp;D status of Salamander, its activity alone &#8212; not including       licensees and       customers &#8212; has been responsible for &#163;2.32m GVA during the ref period [a].
+Salamander has employed 14 people since 1996, also the 2 postdoctoral       researchers involved in       the research have become employed by the licensees since 2011.
+Siemens       employ several staff       specifically to manufacture and market the Hydraclam&#174; and       Chloroclam&#174; [b].
+The availability of the       products has so far resulted in the employment in at least one water       company being specifically       related to their use.
+Furthermore, a consultancy based solely on Gasclam&#174;       use and employing 7       people was established in 2010 (www.ground-gassolutions.co.uk),       also a similar Australian       company has received major investment and launched in 2013.
+Thus       Salamander has had direct       influence on the sector in providing training and employment to skilled       technicians and scientists.
+Water monitoring     Water quality monitoring in-distribution is a regulatory requirement that       could not be met       extensively because practicable means were not available, such monitoring       is also a pre-requisite       of the type of proactive network maintenance now required to manage an       ageing asset.
+Consequently the availability and research-led demonstration of the       utility of Hydraclam&#174; and       Chloroclam&#174; have had a pervasive impact on the UK water       industry [b].
+At Workshops in 2011 and       2012 Water Service Providers (WSPs) presented the findings of their trials       to each other and       recognised that extensive quality monitoring is possible and that data       collection will have a cost       benefit.
+The successful investigations of specific problems have direct impact and       some WSPs have       already made general changes in management practices.
+Severn Trent Water,       which supplies 8       million people have made extensive use of Hydraclam to limit disruptions       to customers supply and       to minimise expense in mains cleaning.
+The resulting improved efficiency       has important financial       consequences as it has fed through into their Price Review submission to       OFWAT [b].
+Furthermore, Chloroclam has been successfully used in a large project and       is now being written       into Asset Management Plan 6 (AMP) the industry-wide 5 year funding cycle       [b].
+The finished       product only became available towards the end of AMP5.
+Siemens have invested a significant amount of resource into       productionisation &#8212; tooling, training       and calibration rigs at a major Siemens production facility in Poole UK &#8212;       and marketing [b].
+The       products were presented to the All Party Parliamentary Water Group at the       House of Lords in 2009       to showcase proactive network management.
+Gas monitoring     Gasclam&#174; has changed "best practice" in ground-gas monitoring.
+Salamander and UoM were       funded by Technology Strategy Board 2006-8 to develop and disseminate a       new methodology for       ground-gas monitoring, CL:AIRE and an expert advisory group consisting of       several of the authors       of present guidance were involved.
+Use of Gasclam&#174; and       methodologies using high temporal       resolution gas concentration data with high time resolution have now       (2008-2013) been included in       the latest guidance documents [c-g].
+A specific guidance document has also       been widely       disseminated in the UK and the USA which defines novel "purge and recovery       tests" and       "concentration duration curves" which are [h] are now widely used.
+The       latest ASTM (American Society for Testing and Materials)         Standard "Evaluating potential hazard due to methane in the         vadose zone" has been informed by Gasclam&#174; data; it         recommends the collection of high temporal         resolution data and explains its use [i].
+The use of Gasclam&#174; has begun to be recommended by         regulators e.g Staffordshire Local         Authorities 2012 [g].
+Gasclam&#174; is licensed globally to         Ionscience Ltd who have spent &#163;500k in         development and marketing and generated &#163;2.8m of sales to date.
+Gasclam         is used worldwide for         monitoring contaminated land but has also stimulating the growth of a         market for monitoring         greenhouse gases associated with fossil fuel extraction, including shale         gas and coal-bed         methane; 12 Gasclams&#174; have been installed by Cuadrilla at         their UK shale gas extraction site and         many more are about to be deployed in Australia.

@@ -1,0 +1,32 @@
+     Statistical methods for the analysis of single-patient data have largely       been developed in the       context of neuropsychology, so it is in this area where the impact of       Garthwaite's research is       greatest.
+Indeed, the results on deficit and dissociation found by       Crawford, Garthwaite and others,       and the associated software they have produced, have been used by a very       large number of       neuropsychologists.
+1.
+Single-patient studies that have been reported in the literature       provide the best       documentation of the impact of Crawford and Garthwaite's methods.
+In 2012       their papers in       the field received more than 140 citations and papers [3.1-3.5] have       together been cited       more than 500 times.
+Also, because only a very small fraction of patients       seen clinically are       of sufficient theoretical interest to warrant a subsequent write-up as a       case report, it is safe       to assume that the methods are being used on many more cases in practice.
+The citations mainly arise from their methods being used to analyse data,       rather than their       work simply being discussed.
+Studies that have used their methods include       papers in       Science [5.11] and Brain [5.3, 5.6, 5.8].
+Much of the work       that uses the methods is aimed at       influencing clinical practice.
+Recent examples include the work of       McGibbon and Jansari       [5.9], which raises the prospect of a standard test to diagnose       accelerated long-term       forgetting in a single clinical visit rather than requiring       multiple visits.
+Similarly, Borchers et       al.
+[5.4] propose guidelines for the diagnosis of optic ataxis.
+Their       conclusions note that `[in]       a first screening ... the lower C &amp; G 0.05 threshold (13%) would be a       good choice', where       `C &amp; G' refers to a method given in [3.2] that was used to determine       the threshold.
+2.
+Computer programs implementing the methods are available from the       website of Crawford,       who has received at least 400 emails from users between 2008 and July 2013       enquiring       about these quantitative methods and programs.
+The emails (email logs       available on       request) include numerous unsolicited comments testifying to their       clinical use, such as:            `Re-visiting your site to download .exe's to my new computer.
+Thanks         for all the         stunning work.
+Most helpful.'
+`I have been finding your website and resources absolutely fantastic,         and as a         clinician have recommended them to others.
+Thanks for all your wonderful         work, we         appreciate it down under!'
+`I just wanted to take a minute to tell you how much I appreciate the         contribution you         have made to the field with your work on statistical analyses of         psychometric         change, especially as it applies to neuropsychology.'
+3.
+Many reviews of methods for inference in the individual case have       devoted considerable       space to setting out the methods of Crawford, Garthwaite et al.
+and       recommending their       use [5.1, 5.2, 5.5, 5.7, 5.10].
+The recommendations have been very       positive.
+For example,       McIntosh and Brooks [5.10] note that the methods developed by Crawford,       Garthwaite and       colleagues `are now the tests of choice for single-case comparisons' and       that they `have       been adopted enthusiastically by the neuropsychological community' (p.       1155).
+4.
+The work is used by practising neuropsychologists to evaluate their       patients and assess       whether they have abnormal deficits or dissociations.
+Quantifying this       uptake is hard.
+However, the methods are linked to important psychological test batteries,       including the       Wechsler Adult Intelligence Scale, the Delis-Kaplan executive function       system and the       Repeatable Battery for the assessment of neuropsychological data.
+These       test batteries do       not routinely find their way into single-patient studies, but they are       commercially available       and used daily by clinicians.
+Given the ease with which the methods can be used, the large number of       citations and the positive       reviews and unsolicited comments, it is clear that the methods are well       used in clinical practice.

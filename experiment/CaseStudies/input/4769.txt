@@ -1,0 +1,35 @@
+     Our activities relating to RF energy harvesting stemmed from the need to       enable sensors and low power electronic devices to operate autonomously,       i.e., without interrupting operation whilst refreshing batteries, powering       devices in hard-to-access locations or reducing the cost associated with       refreshing batteries for a large number of devices.
+As such, RF energy       harvesting is an emerging field that has received unprecedented profile in       terms of research outputs and media profile in the last 12 months and       after our initial work was publicised in 2011.
+Thus the business arena       surrounding RF energy harvesting technology is still developing, yet       despite this our work has so far produced two patents, received a       significant media profile, attracted potential investors and even inspired       school children to consider novel sources of energy as alternatives to       batteries.
+i.
+We have undertaken performance modelling of our device, which includes       optimising our design for maximum performance and minimum material costs,       as detailed in references 3.2 and 3.3.
+This resulted in our initial patent       filing, which the Patent Office examiners have examined and have not       raised major concerns relating to our claims (filing number 1116273.2       September 2011) [5.1].
+ii.
+With our patent filed, in October 2011 we presented our findings at a       public seminar hosted by the University of Bedfordshire.
+This attracted a       University press release which triggered considerable international media       attention on BBC local and national radio, BBC television, local and       international newspapers and worldwide internet coverage, including       articles in the USA, Canada, India and New Zealand (sample listed in       section 5).
+The reach of the impact is estimated to be 2.4 million people,       with an indicative value (* method below) of &#163;27k [5.6].
+The       consequence of the extensive media coverage has been a large number of       enquiries from potential investors including EnOcean, Roke Manor Research,       Elster Metering, Honeywell, Shell, Axis Electronics, Arquiva, Cambridge       Design partnership and J-Mac [5.2], [5.4].
+Discussions are on-going with       several of them.
+A tangible impact resulting from our discussions was the       establishment of a technical innovation competition with private sector       backing from Axis Electronics (which ran in 2012/13 and is anticipated to       run again in 2013/14).
+The competition engaged university students and       staff, and invited entries demonstrating an innovative electronics-related       design.
+The prize, won by a team of 2nd year undergraduate       engineering students for their mobile phone detection device, was a tour       of Axis Electronics state-of-the-art factory, possible internship and the       possibility for their innovation to be commercialised.
+The winning entry       featured on the University website.
+Consequently, Axis Electronics made       substantive contribution to the Departments' Employer Engagement Panel       [5.3].
+Potential commercial opportunity in terms of funding a technology       spin-off venture also arose.
+This led to the team giving an invited       presentation to technology companies in the Milton Keynes area and the       conception of an `Innovation Den' at the University of Bedfordshire and in       partnership with BizTech - the technology business forum in Milton Keynes.
+* Estimated using a media monitoring platform called Precise.
+The         platform calculated the value and reach of the item.
+Value refers to the         space the item fills in terms of advertising space, and calculating the         cost if we had paid for the item space, so showing money saved.
+The         reach is the circulation of the magazines or newspapers, so the platform         calculates how many people read the publication and how many would see         the article.
+The financial value is achieved by comparing this with the         equivalent spend required on conventional advertising for the same         reach.
+iii.
+In July/August 2012 we had a concept demonstrator constructed and       tested by AND Technology Research Ltd who reported that our concept is       sound and also indicated areas where we can optimise our design further       [5.4].
+We are currently working on improving the design of our       demonstrator, raising enough investment to fund a product prototype and       conduct detailed market analysis.
+Through these activities we have       presented our ideas to several potential collaborators who have recognised       the value of what we have done to date, and have provided positive       feedback on our devices, both in terms of technical and market potential       [5.2], [5.3].
+iv.
+Our technology has been presented to more than 120 primary, secondary       school and college students from the Bedfordshire and Buckinghamshire       region, including at Drayton Parslow Village School where the activity was       followed up by the class installing a science table for pupils to freely       explore and dismantle electronic equipment [5.5].
+The objective of the       activity was to raise awareness of environmental and operational       limitations of batteries and present alternatives, including harvesting       energy from radio waves.
+Feedback from all of these activities was very       positive, with some secondary pupils considering studying electronics at       university, and primary school pupils feeling challenged that devices such       as electronic toys and torches can be power or charged by radio       transmissions.
+v. As a consequence of the work to date, a second patent relating to RF       energy harvesting has been filed by the University of Bedfordshire (filing       number 1305083.6, March 2013) [5.1].
+A research student, I Ivanov, is       working on further developments (and has made great progress in terms of       successfully demonstrating a more advanced experimental device as reported       on [3.3]).
+Discussions are on-going with the National Radio Centre at       Bletchley Park with a view to installing an interactive demonstrator       available to visitors.

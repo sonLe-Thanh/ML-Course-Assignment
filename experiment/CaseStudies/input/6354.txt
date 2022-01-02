@@ -1,0 +1,60 @@
+     Numbers in [] refer to sections 3 or 5.
+MEDICINE &#8212; Quoting Toby King, CEO, Bowman Power Group [5.1],       who was with Weston Medical:     "Fundamental published work on conical bubbles by Leighton et al.
+informed Weston Medical in the development of a needle-free           injector (for subcutaneous drug delivery).In 2002 the         business was worth &#163;6 million, but development was stalled by         performance issues.
+Weston Medical contracted Leighton to address         performance.
+His solution enabled further development, such that in 2006         the company Zogenix was formed around this technology, and has now         raised a total of over $150 million of Venture capital and loans,         primarily to fund approval (successfully achieved in the USA in last         year) and marketing of the product with a migraine drug, now called         Sumavel Dosepro.
+The current global market for just this one drug         (Sumatriptan) is over $1 billion per year.
+The needle-free injector is         now selling well in the US and the EU &#8212; they have just made their         millionth device, and quarterly revenues have grown from nothing to $7         million in only a year".
+Every diagnostic ultrasound scan performed in hospitals worldwide       since 2008 has been undertaken under the safety guidelines [5.2]       which Leighton co-authored for WFUMB, and which were informed by his       research [3.1].
+This amounts to around 700M births in the REF       period [5.2].
+The `Smart Stethoscope' device (now LithoCheck&#8482;) won The       Engineer's" 'Medical and Healthcare' award 2008, and was finalist in the       2009 Unico's National Business Impact Award and finalist for a 2007 NHS       Innovations award.
+Quoting Dr Fiammetta Fedele, Senior Physicist, GSTT [5.3]:     "Prof. Leighton's predictions of the acoustic signals emitted when         bubbles collapse against kidney stones during shock wave           lithotripsy (SWL) led (through collaboration with GSTT and         Precision Acoustics Ltd.) to a &#163;5,000 passive acoustic sensor         (patent applied for)).
+When placed on the patient's skin this sensor         diagnoses successful SWL treatments (with 94.7% accuracy in clinical         trials, compared to the 36.8% achieved by clinicians with the current         ~&#163;1M state of the art equipment suite) [3.6].
+An         accurate diagnostic is needed to conform with the 2004 `THE NHS         IMPROVEMENT PLAN: PUTTING PEOPLE AT THE HEART OF PUBLIC SERVICES' of         reducing the `patient pathway', because currently 30-50% of SWL patients         require re-treatment and an unknown number are overdosed.
+The device won         The Engineer's 2008 Medical and Healthcare award.
+The NHS is trialling         it as part of major plans to reduce inaccurate diagnoses and ineffective         treatments.
+GSTT has used the sensor on over 100 patients [from       2008-2012]".
+INDUSTRY &#8212; The ultrasonic cleaning research by Leighton       and Birkin (appointed lecturer in UoS in 1994) led to a patented cleaning       device `StarStream' that won the Royal Society's &#163;250,000       Brian Mercer Award for Innovation 2011.
+StarStream also won the 2012       Institute of Chemical Engineering Award for "Water Management and Supply"       (sponsored by Veolia Water).
+Three multinationals have paid &#163;130k to the       University in the last 2 years for licenses and associated contracts,       Leighton and Birkin are collaborating with Philips (who funded the       development of a prototype) with regards to consumer products.
+Sellafield       Ltd. also funded the development of 2 prototypes (one now in radioactive       zone at Sellafield): to quote Alex Jenkins [5.4] "the         University staff have embraced the opportunity of working with         industrial partners to see their technologies making a difference in the         workplace and wider society".
+Prototypes have been tested for       cleaning artwork for the Tate Gallery, and are now on trial in 3 labs for       hospital decontamination, dental and orthopaedic uses.
+The MD of Ultrawave       Ltd. [5.5] described StarStream as "the only true technological         leap forward in ultrasonic cleaning that we have seen for decades"       (see [5.0]).
+As cited in his 2012 election to the Royal Academy of Engineering,       Leighton developed ultrasonic bubble sensors for the US Dept.
+of Energy's       for the Oak Ridge National Laboratory's (ORNL's) US$1.4 billion Spallation         Neutron Source (ORNL SNS) [3.4] which serves numerous industries.
+The acoustic technology for quantifying underwater gas leaks [3.2]       was reported by Norwegian oil and gas industry to be `at least two         orders of magnitude more sensitive than current model-based techniques         for large, long pipelines' (to quote Statoil and Gassco experts in [3.2]).
+Statoil invited Leighton &amp; White to help shape their plan for       deployment of their hydrophone acoustic logging unit, and funded them to       analyse the data from it.
+The 3D Chirp sub-bottom profiler was licensed for production to       GeoAcoustics Ltd., and has been used in archaeological expeditions, by the       MoD for the identification of unexploded ordnance, and to investigate       offshore geohazards (Norwegian Deepwater Project oil industry consortium).
+This work has also culminated in a commercialization agreement for 3D       Chirp with Kongsberg-GeoAcoustics Ltd. (2004-present), which has just sold       its first system (First Institute of Oceanography, Qingdao, China).
+DEFENCE &#8212; Regarding TWIPS, the world's only sonar which can         work in bubbly waters [3.5] (which led to the acclaimed TWIPR radar       [5.0]), Dr Trivedi (senior engineer, BAE Systems) said:     "Following publication of the world's only sonar which can work in         bubbly waters [3.5] we commissioned further study from Leighton and         White to investigate the applicability of their sonar technique in         underwater scenarios of interest to us (details classified).
+This is a         top priority for BAE Systems Maritime Services" (see [5.6]).
+The MoD asked Leighton: to advise on Improvised Explosive Devices       technology as a member of its Brains Trust (Science and Technology       Rapid Assistance to Operations programme), leading to TWIPR radar [5.0];       to become an ordinary member of the Defence Scientific Advisory Council,       MOD (2004-8), in particular working on the Maritime Mine         Countermeasures Workgroup; to provide training to military staff on       littoral sonar; with 3 others from Defence Scientific Advisory Committee,       to conduct a Review of Underwater Acoustics Research throughout       all of MoD and related industry (the classified report now informs MOD       policy).
+The research on sonar in turbid waters was cited in the award of       the 2006 Institute of Physics Patterson medal as giving MOD the sonar       predictive ability to assess sonar performance in such waters in post-2008       operations (details classified).
+ENVIRONMENT &#8212; Leighton's quantifying air/sea gas flux was       part of the Natural Environment Research Council's UK Surface-Ocean/Lower       Atmosphere Study (SOLAS).
+SOLAS advised the House of Commons Science &amp;       Technology Committee [5.7] and informed a UNESCO report [5.8].
+The acoustic undersea leak detection technology [3.2] has been       included in Science for Environment Policy [5.9], the       European Commission's environmental news service for policy makers,       distributed to 14,000 subscribers.
+PUBLIC ENGAGEMENT &#8212; Example items (these, and more, can be       downloaded from [5.0]):             Sound in space &#8212; The equations developed for StarStream were         adapted to produce a device to simulate sounds on other planets         (including a voicechanger).
+This was licensed to Intech's Astrium         Planetarium for the world's first planetarium `sound in space' show         (shown to audiences since April 2012) which 93% of 545 audience         responses rated `good' or `great'.
+Also covered (April 10, 2012) by         Discovery Channel TV (115 Youtube hits incl.
+`Let's get building some         robots, get them there, test this stuff out'); and was basis for a         question in 19th annual Dutch national TV Christmas Science         Quiz (140 Youtube hits incl.
+`This was my favourite show').
+Secondary         impact via 15 radio shows in New Zealand, Ireland, UK, a feature on Pod         Academy (online comments include `Excellent piece.
+Thought-provoking'),         more than 20 articles by the public and journalists, around 10 public         exhibitions (incl.
+plenary lectures at Brighton Science Festival and         Southampton Multidisciplinary week &#8212; 332 Youtube hits), and even a         fashion show!
+(see [5.0]).
+Ultrasonic cleaning &#8212; The Starstream technology featured in the         top national science TV shows in Italy (2621 Youtube hits, including         `Bellissimo video, Grazie'), Germany (325 Youtube hits), UK (117 Youtube         hits incl.
+`She is right &#8212; that cleaning machine is magic!').
+Videos         were posted on the Royal Society (2739 Youtube hits incl.
+`such a great         idea!')
+and Ultrawave Ltd. websites (1151 Youtube hits incl.
+`It is         amazing').
+Secondary impact was via 7 radio shows in UK, Germany and         Ireland, and &gt;50 blogs by public and journalists (see [5.0]).
+TWIPS sonar &#8212; The Royal Society produced a video for their         webpage, and a 1-hour interview in USA was on Dr Kiki's Science Hour           TV, (TV Episode 139) `How do we sound' (339 Youtube views         including `bloody hooked!').
+Secondary impact was via one national radio         show and over 60 blogs/articles by public/journalists (see [5.0]).
+Humpback whale bubble netting &#8212; In a direct precursor to TWIPS,         in 2004 Leighton pioneered the theory of how humpback whales produce         `walls of sound' when catching prey using bubble nets.
+Now standard         patter for whale watching tour guides, it featured (without naming         Leighton) in BBC1's "Nature's Great Events: 3-The Great Feast" (Sir           David Attenborough); National Geographic TV "Humpbacks: Cracking         the Code", 2008 (363 Youtube hits, incl.
+`wonderful!
+'), CBBC (Children's         BBC) `Deadly Top 10' (1054 Youtube hits, incl.
+`me and my kids love         this'); and inspired a Russian composer Leighton had never met to         compose a piano sonata on whale themes and dedicate it to him (see [5.0]).
+Leighton gave guest lessons to primary and secondary schools on this.
+Leighton's apparatus for ORNL SNS was developed into a         teaching demo and filmed for BBC1 TV Richard Hammond's Engineering           Connections, Series 3 Episode 5 "Space Shuttle" (broadcast 5 June         2011; 39,762 Youtube hits); and 12 blogs by journalists and the public         (see [5.0]).

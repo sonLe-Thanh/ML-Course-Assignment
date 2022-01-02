@@ -1,0 +1,31 @@
+     Through the longstanding interaction with AVX Ltd the company was aware       of our unique academic research involving FIB micromachining allied to       microscopy of ferroelectrics to reveal intrinsic behaviour and identify       consequences of defects to capacitor behaviour.
+In 2011, AVX Ltd encountered a reliability problem concerning specific       MLCC product ranges.
+Through their Tier 2 customers Lear Corporation and       Johnson Controls Inc. who on behalf of their Tier 1 customer Volkswagen       Group (for VW and Audi) reported that the Volkswagen Group had revised the       environmental specification for MLCC (case sizes 0603 and 0805) for       automotive applications [Source 1].
+Under revised environmental stress conditions at the customer site and       subsequently replicated in the AVX Ltd. factory, of increased humidity and       temperature, the supplied parts where exhibiting unacceptable failure       rates.
+"The automotive industry is one of the most demanding markets         for MLCC with failure rates often pushed toward no more than 1:109       parts" [Source 1].
+This arises because both the owner and       the public on the road perceives particular brand of vehicle to have       broken down and to not associate the breakdown with failure of a supply       chain component.
+AVX Ltd made available a selection of operational and failed parts for       our investigation along with a technical brief on their electrical testing       to date on the basis that they "... were aware of the research in         ceramic capacitors and in particular the innovative focused ion beam         methods applied to ferroelectrics and capacitors that had been developed         at Queen's" [Source 1].
+With our previous research in more sensitive nanoscale capacitors allied       to our expertise acquired via the KTP project "handling `green' and         finished parts" we were familiar at handling their commercial       product and that was seen as `beneficial" [Source 1].
+A MLCC is comprised of a stack of several hundred interleaved       ferroelectric ceramic and nickel electrode layers.
+Electric contact to the       device is then made via end terminations of two layers of nickel and tin.
+The tin layer provides the region for solder contact to be made.
+In the       particular product that exhibited failure the electrode is connected to       the MLCC via a stress relieving silver-polymer composite layer.
+We were able to adapt and formulate a modification to our usual FIB based       micromachining protocols used in the creation of nanoscale capacitors to       develop a workflow that would allow us to extract representative sample       pieces for evaluation and inspection.
+This adapted workflow meant that we       were able to perform successional slicing of the MLCC's in a series of       testing locations.
+Electron microscopy imaging and associated chemical analysis was       performed on slices extracted and in regions from where they had been       removed.
+It became evident that the failure under humidity test was not       arising from damage to or degradation of the more sensitive ferroelectric       ceramic material, but instead it was originating at the interface of the       electrode layers and the ferroelectric ceramic.
+A major challenge, over the last fifteen or so years, in all research and       engineering of ferroelectric capacitors has been the move away from noble       metal electrodes and contacts to base metals such as nickel.
+Nickel will       unfavourably oxidise at the interface with the oxide-based titanate       ferroelectric.
+In this case of these failed parts further detailed       examination on FIB machined sections led to an unexpected cause of the       actual device failure.
+The final overcoat of tin was introducing       additional stress due to a high deposition rate that was exacerbating the       delamination of the nickel from the ferroelectric.
+That delamination then       provided a path for the metal in the polymer composite to escape under       application of voltage and caused part failure.
+A report [Source 2] of the investigation and outcomes was prepared       and a de-briefing meeting at AVX Ltd arranged and the findings presented.
+In addition to the technical staff of AVX Ltd at Coleraine also present       were engineers from their subsidiary plant in the Czech Republic that       undertakes the electro-plating of the metal electrode layers.
+In addressing the reach and significance of this impact we note that       while AVX Ltd is based in Coleraine, Northern Ireland (NI), they are part       of AVX Corporation who are in turn part of Kyocera Electronic Devices in       the Kyocera Group.
+As of 2012 AVX Ltd. employed 317 people in NI and had a &#163;108M turnover;       no profit figures are available [Source 3].
+The factory operates a       subsidiary activity in the Czech Republic.
+Product development and       principal manufacture in undertaken in Coleraine and then the parts are       shipped to the Czech Republic for the plating and sample testing before       supply to customers.
+On the basis of our technical report and de-briefing meeting, informed by       data acquired using our FIB micromachining protocols AVX Ltd were able to       undertake timely revisions to their manufacturing program.
+This eradicated       the part failures to an accepted tolerance level and thus allowed them to       deliver on the contract to their Tier 2 customers Lear Corporation and       Johnson Controls Inc. who then in turn supply to their Tier 1 customers VW       and Audi [Source 1].
+AVX Ltd. have confirmed that the value of the international contract was       "valued at $0.6M".
+[Source 1].

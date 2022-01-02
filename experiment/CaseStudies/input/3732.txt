@@ -1,0 +1,31 @@
+     Underpinning research at Swansea provided comprehensive evidence that       some genotoxic drugs       have thresholds for genotoxicity.
+Two levels of international impact       resulted from this research: (1)       peace of mind offered to patients involved in the Viracept&#174; case       worldwide; (2) international       regulatory changes relating to low-level genotoxin contamination.
+Reassuring patients who took contaminated Viracept&#174;C1.
+Work at Swansea has had an impact       on 25,000 HIV-infected individuals in 29 countries who had received an       anti-viral medication       (Viracept&#174;) containing the genotoxic agent EMS [C2].
+In 2007, Roche       reported that a batch of       Viracept&#174; had been contaminated with EMS during manufacture and withdrew       the drug from the       market [C1, C3].
+This incited fears among HIV-infected individuals on       antiretroviral therapies:     "The recent recall of Roche's         antiretroviral drug Viracept&#174; has `created panic' among HIV-positive         people taking antiretrovirals in Zambia, some of whom believe that other         drugs might not be safe."
+[C4]     Researchers at Swansea University had previously shown that the       genotoxicity of EMS had a       threshold dose.
+Following detailed discussions with Jenkins and       colleagues, Roche launched an in         vivo study to investigate the genotoxic dose responses of EMS in a       mouse model.
+According to       one of their main publications on the Viracept&#174; incident:     "a research group from the University of Swansea, UK, had published an         important article in this         context, which appeared in Cancer Research on 15 April 2007.
+This         article .... yielded reliable         evidence for a threshold for chromosome damage and mutations induced by         EMS in a human         lymphoblastoid cell line in vitro.
+These data encouraged Roche to         approach risk assessment for         Viracept&#174; patients."
+[C9]     The Roche study confirmed that there was a threshold for the genotoxicity       of EMS in vivo.
+The       newly defined threshold dose in mice allowed extrapolation to a safe human       exposure level.
+This       revealed that the HIV-infected individuals taking the contaminated tablets       were not at increased       risk of mutagenesis (and hence cancer).
+In July 2008, EMA accepted these       data as proof that       patients were not at an elevated risk of cancer [C2].
+Hence, the impact of       the work was first felt in       2008.
+Patients and professionals were informed of the decision and       therefore reassured in 2008.
+Swansea's threshold work over the preceding 8 years was central to this       final decision.
+Without       that original research on genotoxicity thresholds in vitro this       approach would not have been       envisaged by Roche: "The original work in vitro published by Shareen         Doak and colleagues in         Cancer Research in 2007 was the ultimate and indispensable trigger for         Hoffmann-La Roche to         enter further work in vivo to conduct a proper risk assessment         for HIV patients who have ingested         Viracept&#174; tablets contaminated for some period in 2007 with EMS.
+Based         on the studies in vitro         conducted in Swansea under supervision of the late Prof Jim Parry, Roche         was successful in         proving a threshold in vivo ....
+This reasoning was accepted by many         authorities around the world         after having been presented to the EU authorities in 2008."
+Lead,       Full Development Projects for       Toxicology, Hoffman-LaRoche Ltd. [R4, C11].
+This risk assessment allayed       the fears of the 25,000       individuals globally who had taken the contaminated tablets and allowed       their continued treatment       with these valuable anti-viral drugs [C3].
+This also saved Roche from financial compensation claims and the cost of       setting up a patient       registry to monitor these 25,000 patients, two activities estimated to       cost more than $100 million.
+Informing international regulatory policies     The impact of the acceptance of genotoxicity thresholds continues to be       felt in the updates to       regulations on safety assessments of drugs and chemicals.
+For example, the       UK Government       Committee on Mutagenicity (COM)'s statement on thresholds for in vivo       mutagens [C5] and other       COM reports have cited threshold work from Swansea University [C6-7], and       the European Food       Standards Agency (EFSA) has issued a report on genotoxicity testing       strategies [C8] that also notes       the issue of thresholds and cites the pioneering research undertaken at       Swansea University.
+Both       these advisory/regulatory bodies cite Swansea-led work as evidence for the       existence of thresholds       and propose accepting licensing of compounds with thresholded       genotoxicity.
+Key members of the Swansea research team have also been invited to join       or lead policy shaping       mutagenicity committees [C10].
+In 2009 Gareth Jenkins was invited to join       the UK Government's       Committee on Mutagenicity (COM) [C10]; in 2013 Shareen Doak was invited to       join COM [C10].
+In       2012 George Johnson chaired the Genetic Toxicology Technical Committee       (GTTC) Quantitative       Work Group of the International Life Sciences Institute (ILSI).
+These       activities have helped to       disseminate our key findings and to educate policy-makers about the       importance and relevance of       thresholds for genotoxicity.

@@ -1,0 +1,35 @@
+     The performance index for a magnetoresistive device, frequently called       the MR ratio, is conventionally cited as (RAP &#8212; RP)/RP       2219 100% where RP and RAP are the resistances of       the device when the magnetizations of the two magnetic layers are parallel       and antiparallel respectively.
+In a read head, the larger the MR ratio the       smaller the magnetic bits on the disk which can be sensed and the higher       the disk storage density.
+Higher storage density means smaller portable       devices.
+The GMR sensor was used in HDD read heads from 1997 until 2005       but its MR ratio levelled out at 15-20%.
+It was gradually replaced by a       TMR read head from 2005 onwards when Seagate produced such a device with       an amorphous alumina barrier and an MR ratio of up to 70%.
+It seemed       possible that a larger MR ratio might be obtained with coherent tunnelling       through a crystalline barrier but no-one had any idea how large it would       be.
+Consequently we proposed to do an accurate calculation of the MR ratio       for a crystalline Fe/MgO/Fe junction, a good candidate due to a favourable       lattice match [G3].
+The detailed calculation was carried out by Andrey       Umerski in collaboration with George Mathon and the remarkable result was       an MR ratio of over 1000% [3].
+A calculation for the same system by a       different method was made at the same time independently by Prof William       Butler's group at Oak Ridge National Laboratory with a similar result.
+Both of these calculations were published in 2001 and the huge predicted       MR ratio immediately presented a challenge to experimentalists.
+Umerski       and Mathon stressed the importance of a rather perfect Fe/MgO interface       which was difficult to achieve in practice.
+The race to observe the       effect, with its obvious commercial application, ended in a dead heat in       2004 (S.S.P.
+Parkin et al, Nat.
+Mater.
+3 862 (2004), S. Yuasa et       al, Nat.
+Mater.
+3 868 (2004)), both of the successful groups       citing the theoretical work.
+This 3-year world-wide effort might not have       been sustained without the startling theoretical prediction of such a       large MR ratio.
+There was still a long path to the market-place for the MgO-TMR read       head.
+Parkin had already taken an important step by preparing Fe/MgO/Fe       junctions of sufficient quality by sputter deposition which is suitable       for mass production, unlike the molecular beam epitaxy (MBE) method used       by Yuasa et al.
+The latter group subsequently collaborated with       Canon-Anelva to use their sputtering system.
+The MgO-TMR read head began       to reach the market in 2007 but its main impact occurred in 2008-9 since       when all manufactured HDDs are based on this technology.
+This is confirmed       by S.S.P.
+Parkin (IBM) who states: "The work of Mathon and Umerski         clearly played an important role in the development of these materials         and their subsequent widespread application to recording read heads in         ~2007.
+All disk drives manufactured since about 2008-2009 use recording         read heads based on magnetic tunnel junctions."
+[B]     IBM subsequently sold its hard disk business to Hitachi Global Storage       Technologies who have recently (2012) been bought by Western Digital.
+There are now only three major manufacturers of HDDs: Western Digital,       Seagate and Toshiba [A].
+In 2008 Western Digital reported "the         industry has made the transition to tunnel-junction magneto resistive         ("TMR") technology for the head reader function.
+We have completed the         transition to PMR [Perpendicular Magnetic Recording] and TMR in our         2.5-inch products and in the majority of our 3.5-inch products"       (Western Digital 2008 Annual Report and Form 10-K, [C]).
+By 2009 they       reported "We have completed the transition to PMR and TMR across all         product platforms" (Western Digital 2009 Annual Report and Form       10-K, [D]).
+An example of the use of TMR technology by Toshiba is given in       their product information for internal notebook hard drives which "use         proven state of the art .....TMR Head Recording technology for increased         capacity, reliability and performance" [E].
+The role of Mathon and Umerski's paper [3] in the emergence of       MgO-barrier magnetic tunnel junctions is emphasised in a review by S.       Ikeda for IEEE Transactions on Electron Devices [F].
+The 20th       Tsukuba Prize was awarded to Drs Yuasa and Suzuki for "Giant tunnel       magnetoresistance in MgO-based magnetic tunnel junctions and its       industrial applications".
+The significance of the industrial application       and impact on society of TMR technology is clearly stated in the prize       citation: in addition to tracing a direct path from the theoretical       prediction to the industrial application the prize citation states "The         giant TMR effect in MgO MTJs is expected to contribute to our society by         significantly reducing the power consumption of electronics devices and         improving the performance and security of computers" [G].
+Umerski's       theoretical prediction of 2001 has definitely had an impact on the huge       global HDD market, which was estimated to be $28 billion in 2012 [A].

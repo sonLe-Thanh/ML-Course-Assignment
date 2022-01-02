@@ -1,0 +1,34 @@
+     The impact of this work has taken place via Rolls-Royce, the second       largest maker of aircraft engines in the world, and a world leader in gas       turbine technology, and via the MoD and Thales Underwater Systems.
+A large       number of research contracts between Rolls-Royce and university research       groups have exploited Chapman's ray theory of aeroengine noise; this       research has concerned the design of new aeroengines, and has greatly       reduced the risk that certain types of aircraft might be banned.
+The work       has also been exploited in EU projects arising from EU directives.
+The       exploitation has taken place outside of Keele, most notably through the       long-standing connections of Rolls-Royce with the Department of Applied       Mathematics and Theoretical Physics, Cambridge University, and the       Institute of Sound and Vibration, Southampton University.
+The exploitation       in underwater acoustics took place via consultancy for the Successor class       nuclear submarine project, initiated by DSTL, and led to the report       Broadband Hydroacoustic Research (ref.
+9).
+Two recent articles co-authored by senior Rolls-Royce engineers are       explicit about the impact of Chapman's work on noise reduction.
+The first,       co-authored by Dr A.
+B. Parry, is the survey article `Modern Challenges       Facing Turbomachinery Aeroacoustics', published in 2012 in the Annual       Review of Fluid Mechanics (ref.
+1).
+The second article, co-authored by Dr       A. J. Kempton and published in 2010, is explicit about the way in which       Chapman's work is needed for prediction of the far-field directivity of       broadband noise using measurements made in the duct (ref.
+2).
+A world-class group which has exploited Chapman's ray theory is that led       at Cambridge University by Professor N. Peake, working jointly with       Rolls-Royce over a period of many years.
+The impact trail from Chapman's       work to industrial practice in Rolls-Royce lies in a series of EPSRC CASE       awards between Rolls-Royce and Cambridge University in which Chapman's ray       theory explicitly plays an underpinning role.
+A long-lasting contact at       Rolls-Royce is Dr A.
+B. Parry, an engineering specialist in aerothermal       methods, aeroacoustics, and aerodynamics.
+Full details of four of the above-mentioned research awards are given in       refs.
+2-6, in which the published papers noted refer to the collaboration       with Rolls-Royce and explain the relation of the results to Chapman's       work.
+These details provide the impact trail which leads from Chapman's       work to Rolls-Royce.
+The young researchers who worked with N. Peake       include E. J. Brambley, A. J. Cooper, C. J. Heaton, G. M. Keith, and B.       Veitch.
+The areas investigated in these research projects were            Resonant phenomena in gas turbines,       Aeroacoustic models of fan noise,       Wave propagation and resonance in aeroengines,       Turbomachinery broadband noise.
+The research awards cover the period 1998-2009.
+Given that Chapman's ray       theory provides basic underpinning science, and aeroengine development is       a long-term process, this continuity of use over an extended period is an       essential part of the impact which the work has to the present day.
+In       detail, the above research awards have led, via Chapman's ray theory, to       advances at Rolls-Royce relating to the acoustic effects of            the rotor, stator, and guide vanes in the aeroengine duct;       the precise shape of the duct, including for example the non-circular         cross-section, the curvature of the centre-line, the variation in         duct-liner properties, and angling of the front face of the duct; and       the interaction of the effects in (1) and (2), which occurs because of         scattering and diffraction.
+Another world-class group which has disseminated Chapman's work to       Rolls-Royce and the worldwide aircraft industry is the Rolls-Royce       University Technology Centre in Gas Turbine Noise at Southampton       University.
+This is housed in the Institute of Sound and Vibration       Research (ISVR).
+The research workers there have made frequent use of       Chapman's ray theory, often making use of Hocter's papers noted in Section       3, on sound radiation and reflection from the front face of the aeroengine       duct.
+This contribution to Rolls-Royce's research is indicated in ref.
+2.
+A further dissemination route of Chapman's work has been directly to the       European aircraft industry, via EU projects in Frameworks 5 and 6.
+The EU       directives 2002/30/EC and 2002/49/EC were to reduce aircraft noise, and       included the setting of noise standards.
+Two such projects were       SILENCE(R), referring to Significantly Lower Community Exposure to       Aircraft noise, and MESSIAEN, referring to Methods for Efficient       Simulation of Aircraft Engine Noise.
+Refs.
+7-8 give published papers       arising from these projects which refer to Chapman's ray theory and       provide a link to the European aircraft industry.

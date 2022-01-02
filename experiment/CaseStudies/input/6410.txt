@@ -1,0 +1,34 @@
+     SmartData is a project of the Office of the Information and Privacy       Commissioner of Ontario (IPC), in collaboration with the Identity,       Privacy, and Security Institute of the University of Toronto (IPSI).
+IPSI       is the home of the encryption specialist Dr. George Tomko who originally       conceived the technical dimension of SmartData.
+IPC is an agent of the       provincial legislature of Ontario that acts "to uphold and promote open       government and the protection of personal privacy in Ontario"       (corroborating source B).
+One of IPC's flagship policies is `privacy by       design', as proposed by Ann Cavoukian, the Information and Privacy       Commissioner of Ontario, and endorsed by the International Data Protection       and Privacy Commissioners meeting in Jerusalem in October 2010.
+As       Cavoukian puts it, "[p]rivacy can no longer be assured solely by       compliance with regulatory frameworks; rather, privacy assurance must come       from designing privacy protection right into technology, business       practices and physical design" (corroborating source C).
+Against this background, the goal of SmartData is to develop Web-based       autonomous agents that will act as an individual's online surrogate,       securely storing their personal information (e.g.
+financial details,       information regarding medical conditions and treatment), and intelligently       disclosing that information with appropriate sensitivity to the context of       any data request.
+The vision is one of protecting/reclaiming individual       informational privacy in an age of increasing worries about the ways in       which businesses, governments and criminal organizations may access and       control online personal information.
+The model for SmartData is       evolutionary computation and embodied cognition within a dynamical systems       framework.
+It is built on an optimism that, using this model, it will be       possible to artificially evolve online agents that are capable of       disclosing personal information in a context-sensitive fashion.
+The human       beings for which these virtual agents are online surrogates will need only       to set up the initial conditions for data release contexts and then inform       the agent should these conditions alter.
+Decisions regarding data release       will then be made by the agent through its autonomous context-sensitive       application of these conditions.
+Cavoukian has described SmartData as "an       innovation that is desperately needed because without it, our data will       move beyond our reach and our ability to ultimately maintain control"       (corroborating source D).
+The initial phase of the impact described here was direct but unplanned.
+As Michelle Chibba, the IPC's Director of Policy and Special Projects, put       it "[Wheeler's] book "Reconstructing the Cognitive World"... was the       inspiration for the Smart Data vision" (email of 27 October       2011; see corroborating sources E, F).
+The SmartData model combines       embodied cognition, evolutionary robotics and a dynamical systems approach       to intelligence.
+This was precisely the set of ideas that was explored and       developed, in a distinctive way, in Wheeler's Reconstructing the         Cognitive World.
+The book also focussed on context-sensitivity in       intelligence, and on the role of the set of ideas just mentioned in       showing us how the capacity for such sensitivity may be mechanized.
+The second phase of the impact involved a planned intervention.
+Wheeler       was invited by IPC to take part in the IPSI SmartData International       Symposium (`Privacy meets Evolutionary Robotics: Protecting our Freedoms       with Virtual Tools', Toronto, May 2012).
+This symposium refined SmartData       by bringing together academics, members of IPC (including the       Commissioner) and experts from the computer and Web industries (e.g.
+a       senior researcher from IBM's Blue Gene supercomputing project).
+Representatives from Google and Facebook, plus privacy stakeholders in the       public sector, were present.
+Wheeler gave two presentations (Philosophical       Reflections on the Design of Autonomous Agents: the Problem of Relevance'       and `What Matters: Real Bodies and Virtual Worlds') in which he applied       arguments and insights from the research described above to SmartData.
+He       also took part in a 4 hour closed meeting which brought together selected       invited speakers, the local SmartData team, and representatives from IPSI       and IPC, to shape the future of the project.
+Wheeler was asked to submit a       paper to the symposium proceedings, published by Springer in their       `Security and Cryptology' series (publication 6).
+This allowed his       experience at the symposium to influence his research, demonstrating a       mutually profitable interaction between impact and research.
+(The       corroborating sources for this paragraph are detailed in G.)     IPC subsequently invited Wheeler to be a named collaborator on a major       grant application (1 million Canadian dollars) made via IPSI to the       University of Toronto's 2013 Connaught Global Challenges Fund Award.
+This       award aims to support a project that "focus[ses] intently on a leading       global challenge of the 21st century" (corroborating source H).
+SmartData       was one of three shortlisted applications (corroborating source H).
+Although the bid was ultimately unsuccessful, IPC has been encouraged to       submit to the 2014 competition.
+In addition, in 2012, Wheeler drew on the       research described above to contribute to the design of a proof-of-concept       SmartData study, a mobile phone application for ordering books online, in       which a spoken request such as "Buy me a paperback copy of X, lowest       price, delivery time unimportant" will be carried out (including seller       credibility checks and payment) by an application that adapts over time to       user preferences.
+This study will test the SmartData concept, set a       baseline, and gain further insights into the theoretical and technical       issues.
+It is in progress.

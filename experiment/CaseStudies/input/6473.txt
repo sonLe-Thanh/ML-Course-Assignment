@@ -1,0 +1,42 @@
+     Blake's research and its adoption into the introduction of LifeMetrics       Indices in March 2007 demonstrate how academic ideas can translate into       sustainable market applications by creating new products, services and       market standards [1].
+The research led to the world's first longevity swap       executed in April 2007 between Swiss Re and the UK annuity provider       Friends Provident.
+This was a pure longevity risk transfer, although it was structured as an       insurance contract rather than a capital market instrument.
+It was       tailor-made and hence illiquid and difficult to unwind.
+The swap involved       Friends Provident's &#163;1.7billion book of 78,000 pension annuity contracts       written between July 2001 and December 2006.
+The first longevity swap exclusively based on the LifeMetrics Index (for       England and Wales) was then executed in January 2008 between JP Morgan and       Lucida (a UK insurance company focused on the annuity and longevity risk       transfer business which was bought by Legal &amp; General in 2013) [2].
+The deal, in the region of &#163;100M in size, had a 10-year maturity and       provided a partial hedge for the longevity exposure acquired by Lucida       when it reinsured more than &#8364;100M of Bank of Ireland Life's annuity       business.
+The swap was structured by JP Morgan so that Lucida would       receive money if more of its policy holders survived for longer than was       originally anticipated, but would pay JP Morgan if the opposite happened.
+The first index-based longevity swap to apply basis-risk-minimising       hedging techniques was executed in February 2011 between JP Morgan and the       Pension Fund of Pall (UK) [3].
+This was a particular type of longevity       swap called a q-(or mortality) forward since it was based on future       realised mortality rates [4].
+Andrew Thomson, Chairman of the Pension       Fund's Trustees, said: "Like other pension plans, our Fund has been hit         by significant life expectancy rises over the past decade.
+This flexible         and innovative arrangement helps us manage the key risk of longevity"       [3].
+Gordon Fletcher, risk consultant at Mercer (a leading global provider       of consulting, outsourcing and investment services) and lead adviser to       the Trustees, said: "In general, the uncertain life expectancies of         people still yet to retire pose a far greater risk to pension plans than         those who have retired.
+Current practice has been to focus on mitigating         pensioner risk, so this new transaction marks a huge advance in the         longevity risk market place.
+It is flexible with minimal cash         implications on day one and is, therefore, likely to be of interest to         many occupational pension plans that are actively de-risking" [3].
+In April 2011, ownership of the LifeMetrics Indices was transferred to       the new Life and Longevity Markets Association (LLMA), a membership body       which comprises the principal investment banks and insurance companies       operating in the market [5].
+Additionally the S-(or survivor) forward swap       based on survival rates rather than mortality rates, as proposed in Dowd et         al (2006), was adopted by the LLMA and is offered by its members       [6].
+These are global companies such as Aviva, AXA, Deutsche Bank, JP       Morgan, Morgan Stanley, Legal &amp; General, Munich Re, Pension       Corporation, Prudential (UK), RBS, Swiss Re and UBS, ensuring that the       Indices have become the global standard for hedging and trading longevity       risk.
+At the time of the transfer, David Epstein, Executive Director at JP       Morgan, said: "We are proud of what we have achieved with LifeMetrics         and are delighted that it will now officially form the backbone of an         industry standard through the transfer to the LLMA" [5].
+The impact of Blake's work has had further global reach.
+Building on the       research in Blake et al (2006), the world's first successful LB       (the Kortis Bond) was issued by Swiss Re in December 2010 [7].
+This is an       8-year bond worth $50M which triggers payments to Swiss Re in the event of       a large divergence in the mortality improvements experienced between male       lives aged 75 to 85 in England and Wales and male lives aged 55 to 65 in       the US.
+The first international longevity swap (value &#8364;12billion) then       took place in January 2012 between the Dutch insurer Aegon and Deutsche       Bank [8].
+There is growing support for the government issuance of LBs of the type       designed by the Pensions Institute.
+The World Economic Forum, in its 2009       Report 'Transforming Pensions and Healthcare in a Rapidly Ageing World`,       argued that: "Given the on-going shift towards defined contribution         pension arrangements, there will be a growing need for annuities to         enhance the security of retirement income.
+Longevity-Indexed Bonds and         markets for hedging longevity risk would therefore play a critical role         in ensuring an adequate provision of annuities" [9].
+The International Monetary Fund, in its Global Financial Stability Report       published in 2012, stated that: "Although the private sector will         further develop market-based transfer mechanisms for longevity risk if         it recognises the benefits of doing so, the government has a potential         role in supporting this market.
+Measures could include provision of         better longevity data, better regulation and supervision, and education         to promote awareness of longevity risk.
+Those governments that are         able to limit their own longevity risk could consider issuing a limited         quantity of longevity bonds to jumpstart the market" [10].
+The impact of Blake's research and of the annual International Longevity       Conference series has received numerous endorsements from market       participants.
+The following examples come from three practitioners, all of       whom have participated in the annual Conference series.
+Edward Giera,       Managing Director at JP Morgan in London, said: "The Pensions Institute         has made a valuable and influential impact on the pension and insurance         markets over the past several years" [11].
+Amy Kessler, head of       longevity reassurance at the Prudential Insurance Corporation (US) said: "We         often appreciate your [Blake's] excellent, common sense quotes in the         pension and financial press...you are sharing your thought leadership         with a market that has long needed a good, common sense approach to risk"       [11].
+Alan Rubenstein, CEO of the Pension Protection Fund (UK) said: "We         welcome its [Cass Pension Institute's] interdisciplinary approach         involving economics, finance and actuarial science.
+The PPF has found         its extensive work on longevity in recent years of particular interest"       [11].
+To date, Blake's work has contributed to significant success in the use       of longevity swaps to hedge longevity risk, with index-based swaps which       minimise basis risk increasing in use.
+There have been a total of 16 swaps       worth &#163;21billion in the UK since 2009, with 20 internationally since 2007       valued at &#163;25billion.
+There has also been one international longevity       swap, namely the Aegon swap, valued at &#8364;12billion.
+In the context of a       society where longevity is increasing, the long-term benefits of the Life       Market are clear.
+In addition to the economic value to the insurance and       pensions industries, more companies can unwind their legacy defined       benefit pension liabilities and do so with less expense.
+These liabilities       are a dragging anchor on a company's performance, if not its very       survival.
+As a result, pension plan members receive better security and       the risk that governments will have to pick up the pension liabilities of       failed companies through, for example, the PPF in the UK, is significantly       reduced.

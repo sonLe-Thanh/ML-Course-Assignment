@@ -1,0 +1,48 @@
+     Context     Measurement of stress hormones in blood and other tissues has provided a       step-change in the assessment of life-threatening endocrine and metabolic       disorders and has underpinned the advance in knowledge of many       physiological processes.
+However understanding the hormones involved in       the body's response to stress and the effects on metabolism lagged behind,       and this has limited studies on hormone secreting tumours, and the       implications of hormone interactions in progression of Type 2 diabetes and       mechanisms resulting in obesity.
+The limitations in this field were in part because the techniques to       measure ACTH were problematical.
+White's approach to produce monoclonal       Abs to ACTH enabled them to develop a "new generation" immunoradiometric       assay for quantifying ACTH.
+This was the first such assay and the Abs were       licensed to a number of companies to enable them to develop diagnostic       assays.
+It also provided proof of concept to allow other companies to       develop diagnostic assays for ACTH.
+White's research then contributed significantly to the discovery that the       precursor of ACTH (POMC) was released into the blood in addition to ACTH       [2].
+Her research group designed and produced monoclonal Abs to POMC and       developed the first immunoradiometric assay.
+This provided evidence that       ACTH assays are also measuring ACTH precursors but to varying degrees       depending on the assay (1-10%).
+Patients with non-pituitary tumours       causing Cushing's syndrome and those with pituitary macroadenomas can have       much higher concentrations of POMC than ACTH.
+This can be diagnosed using       the POMC assay but ACTH assays may mis-represent the underlying pathology.
+This diagnostic tool has been used to support clinicians in the UK and       internationally in the diagnosis and treatment of patients with       ACTH-related disorders.
+Pathways to impact     The research was presented at leading conferences (e.g.
+American       Endocrine Society Meeting) and published in leading endocrine journals       (e.g.
+Journal of Clinical Endocrinology and Metabolism [e.g.
+1,2,3]).
+This       led to the POMC Abs being licensed to Immunodiagnostic Systems (IDS) in       1998, who developed the POMC assay into a kit which was available to       clinical endocrinologists and researchers worldwide.
+The discovery that       POMC was released into the blood by specific lung tumours [2] led to a       grant from CRUK in 2009, and the exclusive licence for the POMC assay was       transferred from IDS to CRUK.
+The understanding of the cross-reactivity of       POMC in the ACTH assay [1,2,3], led Roche Diagnostics to take a       non-exclusive licence agreement in 2004 and pay &#163;200k for the Abs.
+With       collaboration from White's research team, Roche incorporated the ACTH       monoclonal Abs into diagnostic testing kits, which is sold and used in       hospital labs worldwide.
+Technologies for measuring POMC, ACTH and other POMC-derived peptides       have continued to be developed using White's Abs and assay formats.
+Under       a Material Transfer Agreement set up in November 2012, IDS are       incorporating the Abs to ACTH into an automated analyser system.
+Once the       assay has been fully characterised, a licence agreement will be set up and       it is anticipated that the assay will be in the analyser and used in       hospitals for diagnosis in autumn 2013.
+POMC (provided by White) is now       being included in the National External Quality Assessment Service for all       ACTH assays in the UK.
+Reach and significance of the impact     White's Abs and assays for POMC and other ACTH-related peptides are used       and sold worldwide for diagnosis, decisions on treatment, monitoring for       recurrence of tumours and prognosis in a number of patient groups with       endocrine disorders.
+This therefore has global health impact in relieving       suffering and in improving patient care, as well as commercial impact in       sales of ACTH assays and analysers.
+Commercial impact:     Roche Diagnostics &#8212; sales of ACTH tests: The Abs to ACTH       have been incorporated into diagnostic testing kits by Roche ("ACTH       Elecsys" tests), which have been sold in all regions worldwide (e.g.
+UK,       UAE, Brazil, Russia, Thailand and South Africa) [A].
+Roche confirm that       "the ACTH Elecsys tests are an important part of their portfolio and more       than 6 million tests were sold from 2008-2013" [A].
+Roche is the world       market leader in in-vitro diagnostics and has 16% market share.
+AstraZeneca &#8212; investment in research and influencing company           strategy: Measurement of POMC and ACTH in human blood is also       valuable to assess the stress hormone axis and is predicted to underpin       the personalized medicine approach to treatment of type 2 diabetes.
+White       has a collaboration with AstraZeneca (AZ) to measure these hormones, which       were part of their drug discovery programme for type 2 diabetes/obesity       and subsequently for other indications [B].
+This was underpinned by &#163;578k       total funding and &#163;1.5m contribution of resources and reagents at AZ       (2008-2014), and joint publications (including [5] and [C]).
+Project       Leader for the Cardiovascular and Metabolic Diseases therapy area at AZ       states that his collaboration with White's group has been "critical to our       understanding of potential drug targets... and the assay systems used to       drive these drug discovery programs" and "instrumental in AZ's planned       translational strategies for evaluating biomarkers of HPA axis       activation", including its "decision not to progress its clinical       evaluation of 11betaHSD1 inhibitors..." [B].
+Impact on health &#8212; improved diagnosis and management of disease:     Endocrine disorders: White collaborates with       physicians worldwide in assessing patients with abnormalities in secretion       of POMC and other ACTH-related hormones, disorders with significant       morbidity and mortality.
+Head of the Endocrine Consult Service at the NIH       Clinical Center states: "the work of Dr. White's laboratory has had       substantial public health ramifications and is likely to improve our       ability to make the proper diagnosis in adrenal disorders" [D].
+A leading       expert on diagnostic assays for hormones in the USA at the Medical College       of Wisconsin, states: "... the work from Dr. White's laboratory has       revolutionized how these patients are evaluated" and "... is a paradigm       for truly translational research where a brilliant basic researcher works       closely with clinical colleagues to greatly advance and improve the tools       we use for the laboratory diagnosis of pituitary-adrenal disorders" [E].
+A Professor of Medicine at Columbia University has developed a POMC assay       using White's Abs, which she uses to advance the clinical care of patients       with neuroendocrine diseases (including Cushing's Syndrome) and her       research on the brain regulation of energy balance in humans [F].
+Although       these endocrine conditions are relatively rare (e.g.
+~500 pa in the USA),       they are often complex and an improved understanding of the case has       marked benefits.
+Where the patient has a complicated aetiology, White's       research group undertakes more detailed analysis to find the underlying       cause of their clinical symptoms (10-20 patients per year).
+Her research       informs these investigations and the diagnostic assays they undertake       provide valuable information for the treatment of these patients.
+White's       work is cited in the global clinical decision support resource UpToDate       ("The only clinical decision support resource associated with improved       patient outcomes") in the article "Measurement of ACTH, CRH, and other         hypothalamic and pituitary peptides" [G].
+Cancer: Using the assays, White discovered that POMC       is released into the blood by ectopic tumours (which are outside the       pituitary gland), affecting ~10-20 patients pa in the UK, whereas tumours       in the pituitary primarily release ACTH [2], thus allowing these two types       of tumours to be distinguished.
+Following this discovery, a leading expert       on diagnostic assays for hormones in the USA uses the Abs to evaluate such       patients ("these assays have greatly improved the ability to diagnose and       treat.." these patients &#8212; [E]), and White's research group has identified       POMC in a subset of patients with small cell lung cancer as a potential       biomarker of disease progression, funded by a grant from CRUK (2009-11,       &#163;111k) (Stovold et al., Br J Cancer 2013, doi:       10.1038/bjc.2013.112).
+Obesity: A number of children with profound obesity       have mutations in neuropeptide pathways in the brain.
+In four patients,       measurement of POMC using White's assays has been important in the       elucidation of abnormalities in the processing of POMC in the hypothalamus       where it regulates food intake [4,5].
+A Professor of Clinical Biochemistry       &amp; Medicine at the University of Cambridge has reported that "this has       facilitated the identification of two previously unknown human syndromes",       and "making these diagnoses has aided patient counselling, prognostication       and is now leading to plans for trials of targeted therapy".

@@ -1,0 +1,58 @@
+     Impact: The underpinning research was exploited in the design of       CAN network layer software, called the Volcano Target Package (VTP), and       network schedulability analysis tools, called Volcano Network Architect       (VNA).
+The Volcano Target Package is deployed in ECUs, while Volcano       Network Architect is used to configure networks and to ensure that the       configurations obtained result in all messages meeting their time       constraints.
+The research was initially exploited by a start-up company       called Northern Real-Time Technologies Ltd. (NRTT) that developed the       first versions of the Volcano Target Package for Volvo Car Corporation       (VCC) and worked in conjunction with Kimble AB to develop the first       versions of Volcano Network Architect.
+Fully commercial versions of the       Volcano technology (VNA and VTP) were later produced by Volcano       Communications Technologies AB, which was sold to Mentor Graphics in 2005       [6].
+Today, the Volcano Target Package is available for more than 30 different       ECU microcontrollers [7], including: Fujitsu 16LX, FR Series; Hitachi H8S,       SH7055, SH7058; Infineon C16x, TC179x, TC176x, XC800, XC2000; Renesas       M16C, R32C/M32C; Freescale HC08, HC12, MC683xx, MPC5xx, MAC71xx; S12,       S12X, MPC55xx, MPC 56xx; Mitsubishi M32R, MC32C; PowerPC; National CR16;       NEC V85x, 78K0; ST Microelectronics ST9, ST10; Texas Instruments TMS470;       Toshiba TMP92/TMP94.
+Since the introduction of the Volvo S80 in 1998, Volcano Network       Architect has been used to configure CAN communications in all new Volvo       production cars, with the Volcano Target Package used in the majority of       Electronic Control Units (ECUs) in these vehicles.
+During the period 2008       - 2012, this includes the S40, S60, S80, V50, V70, XC60, XC70, XC90, C30,       and C70; total production volume 330,000 to 450,000 vehicles per year.
+A       rough estimate of the number of Volvo cars in use during the period       2008-2013 which use this technology can be obtained from the production       figures for the decade 2001 to 2011 which are approx.
+4.5 million [17]       (Note we cannot say how many of these vehicles remain on the road).
+The Volcano technology (VNA and VTP) is also used by Jaguar, LandRover       and Aston Martin, and by Airbus [11].
+Since 2007, this technology has been       used in own branded vehicles by the Chinese automotive giant SAIC [9].
+In       2012, Mazda announced that they would be using Volcano technology in order       to make more efficient and reliable use of CAN in vehicles featuring their       "Skyactiv Technology" [10].
+The Volcano Target Package is also used by the       world's leading automotive suppliers, including Bosch and Visteon.
+Corroboration of all of the facts presented above can be obtained from       [11].
+Route to Impact: Above we detailed specific exploitation of the       technology and impact and during the REF period.
+We now detail the       evidential link between the underpinning research and that impact.
+The       research in [1] was disseminated at the 1st International CAN Conference.
+As a direct result of this Ken Tindell was approached by Antal Rajnak,       then working for Volvo Car Corporation.
+In April 1995, Ken Tindell and       Robert Davis founded a start-up company called Northern Real-Time       Technologies Ltd. (NRTT) to exploit the research in [1], [2], [3], and       [4].
+This company was contracted by Volvo Car Corporation to develop a CAN       software device driver library and associated configuration tools [12],       now referred to as the Volcano Target Package.
+Over the next two years,       NRTT developed the Volcano Target Package through 4 major versions, and       ported it to more than 10 different microprocessors used in the Volvo S80       and other automotive applications.
+At the same time, the message priority       assignment policies and schedulability analysis techniques first       introduced in [1], [2], [3], [4] were implemented in a CAN message       configuration and analysis toolkit called Volcano Network Architect (VNA).
+The initial versions of VNA were developed by Kimble AB (a Swedish company       founded by Antal Rajnak), working in conjunction with NRTT.
+Rights to the       initial versions of the Volcano Target Package were transferred to Volcano       Communications Technologies AB (a Swedish company founded by Antal Rajnak)       which subsequently developed fully commercial versions of the Volcano       technology (VNA and VTP), before being acquired by Mentor Graphics in 2005       [6].
+From 1997 onwards the Volcano technology was used in the Volvo XC90, S80,       S/V/XC70, S60, S40, and V50 cars.
+When Volvo was bought by Ford in 1999,       this technology was adopted by Ford Premier Automotive Group, including       Jaguar, Land Rover, and Aston Martin.
+As part of its work on the Volcano technology, NRTT consulted with       Motorola, strongly influencing the hardware design used in the on-chip       peripheral MSCAN controller [12], [13] (section 4.2).
+This design used a 3       transmit buffer solution to ensure that the MSCAN controller can send out       a stream of high priority CAN messages without releasing the bus &#8212;       essential in achieving high bus utilisation without deadline failures.
+The       3 transmit buffer solution reduced the silicon area, and hence the unit       cost of the hardware, compared to a `full' CAN controller with 15 or 16       transmit buffers.
+This gave Motorola a competitive advantage, and reduced       unit production costs for Volvo.
+Since 1997, microprocessors using MSCAN       have been used in the door modules and other ECUs in a wide range of Volvo       cars.
+In 2007, [5] was used by Mentor Graphics to verify that the analysis       provided by VNA [14] was correct.
+Further details of the Volcano Target       Package and Volcano Network Architect can be found on Mentor Graphics'       website [15], [16] with a detailed description given in [8].
+Beneficiaries: Volcano Network Architect, and the Volcano Target       Package software that conforms to its assumptions, enable system       architects at automotive manufacturers to configure in-car networks using       CAN such that all of the messages are guaranteed to meet their deadlines       at bus loads (utilisations) of up to approx.
+80%.
+This compares with a       maximum of approx.
+30% using the approach otherwise prevalent in industry,       where message IDs (priorities) are assigned in groups according to ECU       supplier, and extensive testing and a large engineering margin for error       is used to gain some confidence that message deadlines will be met.
+Achieving higher bus utilisation enables far more functionality to be       supported using the same bus speed and communications hardware, providing       those automotive manufacturers that adopt this technology with a key       competitive advantage.
+With higher bus utilisations, more ECUs can be       connected to the same network, and the network can support a larger number       of signals and messages.
+Wiring complexity can be reduced, with fewer       connectors, increased reliability, and improved brand image.
+Further,       there is enhanced support for the addition of lucrative `software-only'       options.
+These benefits are summarised in the Volvo Technology Report [12] "The         advantages to Volvo of the development and application of Volcano         include: Production cost benefits due to high bus efficiency (four times         as many signals can be transmitted at half the baud rate).
+Development         cost benefits (in the form of a single, proven implementation which is         much cheaper than multiple implementations by suppliers and conformance         testing by Volvo).
+Improved network reliability, resulting in higher         product quality.
+Reduction in Volvo&#180;s test load.
+Reduction in supplier&#180;s         test load.
+High degree of flexibility (useful in many situations).
+Recognition of the real-time problem (Volvo developed solutions before         the problem had been recognised generally)".
+Although [12] was       written in 1998, the benefits of using this technology remain the same       today.
+They are highlighted in [9] (2006) in relation to the Chinese       automotive giant SAIC, "By using Volcano, network design is made easy         and predictable, guaranteeing data communication, which reduces the         verification effort to almost zero and eliminates warranty and change         costs caused by networking issues."
+Similarly, in [10], (2012) "Mazda's         use of VNA has enabled significant improvements in network efficiency         and reliability"..." continues, "This procedure increased the         network utilization and significantly reduced the testing requirements         and time".
+The underpinning research also led directly to the design by Motorola       (now Freescale) of a low-cost on-chip CAN peripheral MSCAN [12], [13] that       requires less silicon area than a `full' CAN controller, and so reduces       unit costs in production.
+In summary, car manufacturers and their sub-suppliers have benefited from       the underpinning research in terms of reductions in development,       production, and warranty costs.
+Development costs have been reduced via       improvements in the time taken to verify network timing behaviour,       reducing the cost of testing, and time-to-market.
+Production costs have       been reduced via the ability to run in-vehicle networks at high loads       while ensuring that all message deadlines are met.
+This has enabled       increasing amounts of functionality to be accommodated using the same low       cost CAN hardware.
+Improvements in network reliability, via off-line       guarantees that messages will always meet their deadlines, have reduced       warranty costs, in particular, costly `no fault found' ECU replacement.
+In       a competitive marketplace, benefits to the car manufacturers have been       passed on to the consumer, in terms of less expensive vehicles, with more       functionality, and better reliability.

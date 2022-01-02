@@ -1,0 +1,25 @@
+     Across industry, numerical simulation has become an increasingly       important tool for understanding fast mechanical processes, due to both       the high cost of performing full-scale experiments and the additional       insights obtained through using these tools.
+Examples range from ballistic       impact in a military environment to fragmentation of rock during mining       operations.
+However, without experimental support to develop appropriate       material models and validate output, such simulations are of limited       value.
+In general, simulations can only be applied to complex systems with       confidence if the high rate response of the underlying materials is well       understood, characterised, and if adequate materials models can therefore       be applied.
+In terms of the impact described here, the specific area of interest is       metallic systems.
+The body of underpinning research within the SMF       Fracture &amp; Shock Physics group has contributed to development and       validation of a whole series of material models within industry, and led       specifically to substantial model development and validation at QinetiQ       plc.
+The details of exact models are proprietary, and many of the       applications of such models are defence related.
+For many projects it is       therefore difficult to provide detailed metrics relating to the impact, as       it relates to confidential, commercially sensitive, or classified       projects.
+However, one application in the public domain which demonstrates       the impact of Cambridge material characterisation work is the development       of a novel reactive metal perforator for the oil and gas industries.
+The principle of the device is to use an explosively formed metal jet to       perforate material around an oil/gas borehole, releasing oil &amp; gas       from the surrounding strata.
+Previously, QinetiQ plc developed perforator       like devices using materials models validated against SMF Fracture &amp;       Shock Physics group data.
+The enabling research included basic       understanding of the compaction and shock response of metallic systems,       such as that described in [1].
+For example, copper is widely used in       explosively formed perforators, and the validation data described in [2]       was made available to QinetiQ well before the publication date.
+The       particular impact described here involved replacement of a standard       metallic component with a reactive component formed from at least two       species of compacted metal powders.
+Achieving this required a detailed       understanding of the compaction and shock response of powdered materials       [3,4].
+The critical element of this new device was a reactive metal `liner',       formed from a mixture of compressed powdered nickel and aluminium.
+This       enabled QinetiQ to develop novel equation of state (EOS) models for the       composite material, making use of the underpinning high-rate material       characterisation data provided by the SMF Fracture &amp; Shock Physics       group research.
+In addition to fundamental understanding [1-4], the SMF       Fracture &amp; Shock Physics group provided further specific data on the       response of nickel-aluminium compacts.
+The data was in the form of a       confidential technical report and data provided prior to the report, some       of which has been reported in [5].
+Using these models, it was possible to develop and test a novel reactive       metal perforator rapidly, using a nickel-aluminium-titanium mixture.
+The       device has been commercially produced since 2007 and has sold over one       million units since then [6].
+The oil and gas industries are substantial       beneficiaries of the technology; the product enables more effective       perforation of the rock strata around boreholes, substantially improving       oil and gas recovery, particularly in more difficult oil fields, and thus       extending their economic viability.
+The development of the project by       QinetiQ plc, using underlying data provided by Cambridge, won the QinetiQ       / DSTL John Benjamin Memorial Prize, 2012 [8].
+Over a million devices have       now been manufactured since 2007.
+Companies such as Shell (who were       involved in commercialisation of the product, since the very first stages)       have reported substantial increases in perforation charge performance       using the new devices, which is measured through oil recovery (up to       30-40% increase) as summarised in article [9].

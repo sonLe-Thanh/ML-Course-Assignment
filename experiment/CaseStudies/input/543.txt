@@ -1,0 +1,27 @@
+     Large areas of England and Wales, mainly in the south and east of       England, are below the highest       sea levels.
+About 10% of the population live or work within areas       potentially at risk from river or       coastal flooding or from coastal erosion.
+The capital value of assets at       risk is now approximately       &#163;275 billion, with coastal flooding representing 60% of this figure.
+Without flood and sea defences,       the average annual economic damage in England and Wales would be more than       &#163;3.5 billion.
+In       practice, insurance companies pay out around &#163;1 billion annually.
+Even so,       the true costs are       much greater than the sums paid out by insurance companies, because some       households and       businesses are not insured or are underinsured.
+In addition, the costs of       emergency measures       and repairs to infrastructure fall on central and local government.
+Furthermore, there are hidden       costs to society, such as increased health care expenditure due to       sickness and stress-related       illnesses.
+Days are lost from work due to the need to deal with       disruption.
+Unfortunately, changes in our climate are resulting in rising sea levels       and more severe storms,       increasing the probability of coastal flooding.
+However, with sufficient       warning of sea defences       being overwhelmed by waves, the emergency services can be alerted, local       government       authorities can take appropriate action, and the general public can       prepare themselves.
+Flood       warning is the provision of advanced warning of conditions likely to cause       flooding to property and       risk to human life.
+Its main purpose is to save lives by allowing people       to prepare for flooding and       to alert the support and emergency services.
+A secondary purpose is to       reduce the impacts of the       flooding by providing time for valuable property to be moved to safer       locations and for operating       authorities to close flood gates and other control structures.
+Temporary       measures can also be       implemented, such as fitting flood boards and deploying sandbags in order       to prevent water from       entering properties.
+To assist local government authorities and the emergency services in       responding to floods, it is       necessary to provide information in good time, both of the expected       location and likely extent of the       flooding.
+The new systems for North East England and the Firths of Forth       and Tay replace earlier       schemes which provided less accurate and more regionalised information.
+They combine       computer predictions of weather and sea conditions from the UK       Meteorological Office with (a)       modelling of wave transformation close to the coast, and (b) the Liverpool       wave overtopping model       described in section 3, in order to provide warnings up to about 36 hours       ahead of real events.
+The new system for the North East was developed by Black &amp; Veatch and       Royal Haskoning, and       has now been fully operational following an assessment of performance in       January, 2008.
+The       system incorporates a prediction of inshore waves which are then analysed       using the Liverpool       wave overtopping model to predict flooding.
+The methodology was       implemented in the new Firths       of Forth and Tay flood warning scheme introduced by the Scottish       Environmental Protection       Agency in 2012.
+For the North East coastline, over 200 alerts (the list is in the       evidence) have been issued in the       period of operation.
+A key feature is that these alerts are localised to       one part of the coastline,       allowing a targeted reaction.
+The Liverpool overtopping model provides a       reduction in       conservatism of these flood alerts, increasing the credibility of the       system.
+The paper with Lane       from the Environment Agency as first author, describes the development and       evaluation of the       warning system, and states that development work showed that the standard       overtopping model       available "significantly over-predicted overtopping in some places.
+This       would lead to warnings       being issued when there was no need for them and would result in a warning       system that the       public would soon distrust."
+The Liverpool overtopping prediction resolved       this difficulty.

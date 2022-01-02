@@ -1,0 +1,62 @@
+     The impact of the work arises at a number of different levels.
+In several       instances evidence is       provided that research results, proposed methodologies or developed models       have been       incorporated into best practice for the design of new, and the       re-assessment of existing, offshore       structures.
+This is often achieved by the inclusion of the work within the       recommendations arising       from Joint Industry Projects (JIP's); the latter representing a       co-ordinated study addressing a       specific problem area that has been highlighted by industry as being of       practical concern, both       from an operational and/or a safety perspective.
+In other instances,       research results have been       used to solve particular design problems.
+During the period covered, Swan       has been involved in       six JIP's, each producing its own design guidelines.
+Most importantly, he       has played a major role in       setting the scope for two of the largest JIP's ever undertaken in ocean       modelling; the CREST and       SHORTCREST JIP's.
+In considering this work it is essential to       recognise that, following the loss of       the Piper Alpha structure in the North Sea, offshore regulation is much       less prescriptive, requiring       safety cases to be prepared and justified by owners/operators.
+Where       research results have been       successfully employed in such cases, a material or practical impact has       been achieved in the       sense that the required reliability (hence safety) has been achieved or       the design uncertainty       reduced.
+During 2006-2008 Noble Denton, a leading UK certification agency,       undertook a JIP to re-appraise       the loading methodology appropriate to Jack-up structures; the purpose of       this work being to       expand their safe working range [A].
+An essential element of this revised       methodology was an       empirically corrected wave kinematics model; the empirical coefficients       being calibrated using the       fully nonlinear wave model proposed by Swan [5].
+Without the fully       nonlinear model, the revised       methodology could not have been achieved.
+The CREST JIP was undertaken from 2007-2010.
+The technical work       was conducted by       internationally leading experts and supported by 24 industrial sponsors;       the latter including all the       major oil companies and numerous regulatory authorities.
+The only       university involved in this work       was Imperial College; Swan leading WP2 on nonlinear wave modelling and       contributing       significantly to WP4 on fluid loading.
+A key output from this study was       the recommendation that the       existing crest-height distributions are non-conservative in the most       severe sea states; the       recommendation being that an additional 5-8% is added to account for the       full nonlinearity.
+This       was entirely based upon the work outlined in [5] An additional 1-2 metres       of crest elevation has       major implications for both the cost / design of new structures and the       re-appraisal of existing       structures.
+Evidence of the importance of this work being provided by the       studies undertaken in       respect of the North Rankin A platform (Australia) [C,D], the Arbroath       platform (UK &#8212; North Sea) [C]       and the Tyra field (Denmark &#8212; North Sea) [D].
+The CresT JIP also considered the prediction of the wave-induced       velocities; the commonly       applied design solutions being bench-marked by comparison to the models       outlined in [4].
+Recommendations were made concerning the need to incorporate the essential       physics and, in the       case of the most extreme waves, to include the full nonlinearity [B].
+Building on this work, the latest       revision of the International Standards Organisation (ISO) design guidance       note for offshore       structures (Part 1: Metocean design and operating considerations; ISO       119901-1.
+[E]) notes that       commonly applied design wave solutions may be "non-conservative"       and that nonlinear wave       models are "recommended".
+Indeed, a new section on nonlinear wave       modelling has been       introduced.
+This emphasises the physical properties of real sea states       noting that "for many         purposes, a more accurate nonlinear wave model may be helpful or         essential".
+Indeed, the       standard goes further noting that for the calculation of wave-in-deck       loads and the wave forces on       a fixed structure in steep waves, "a fully-nonlinear wave model is         required".
+To date, the only fully       nonlinear wave models applied in practical offshore engineering design are       based upon those       developed by Swan at Imperial College [4].
+Project specific examples of the impact arising from these wave models       are provided as follows.
+In       2008, kinematics calculations undertaken for Conoco Phillips were       incorporated into a DNV (one of       the largest certification agencies worldwide) technical note concerning       the re-appraisal of an       existing North Sea structure [F].
+They concluded that accurate       fully-nonlinear velocities may differ       from typical design calculations by as much as 25%; whilst the total       sub-structure loads could be       reduced by 15%.
+More recently (2008-2010), calculations undertaken for       Woodside Energy Ltd. [C]       showed that under tropical cyclone conditions the total sub-structure       loads would be reduced by       more than 18%.
+In this case the certification authority (Lloyds Registry)       questioned the significant       departures from the American Petroleum Institute (API) guidelines.
+In       addressing this point it was       shown [C] that the results were not inconsistent, but that accurate       kinematics predictions allowed       the API guidelines to be extended to the most severe sea states.
+In both       cases the reduction in the       applied substructure loads was key to achieving the required reliability       and hence the desired life       extension.
+Swan's work concerning the nonlinear wave interactions with large volume       concrete structures [6]       has also produced important impacts.
+In the first instance the work was       applied to explain the       occurrence of wave impacts on the Brent Bravo gravity based structure       (GBS) in the North Sea.
+Having established that the integrity of the structure was not threatened,       but that the size and       layout of the legs were such that significant wave impacts could arise,       the areas of greatest       susceptibility were identified together with the magnitude of the maximum       loads and the areas over       which they act.
+This was important for the continued operation of the       structure.
+Following this work,       the UK HSE funded a JIP on nonlinear inertial loading; the resulting       guidance note listed under [G].
+This work was subsequently incorporated into the ISO technical note on the       design of offshore       concrete structures [H].
+This specifically comments on the unexpected       occurrence of wave impacts       and the need for detailed model testing.
+Based on this approach we have:       (a) Examined the       optimal column size and layout from the perspective of wave loading and       wave impacts on a new-build       GBS.
+(b) Addressed difficulties arising at the Sleipner A GBS in the North       Sea; a structure       that is integral to the UK gas supply from Norwegian fields and which has       suffered unexpected       shut downs due to the occurrence of wave impacts.
+This work has considered       the wave impact       loads arising on the column face, the underside of the deck structure, on       essential safety       equipment (including free-fall life boats) and, most recently, the loads       on newly installed processing       equipment [I].
+(c) Assessed the implication of the wave-structure       interaction for the       decommissioning of the Brent Delta GBS.
+This structure is the first of its       kind/size to be       decommissioned.
+Work undertaken by Swan has quantified the kinematic       enhancement factors,       allowing the fluid loads on subsea infrastructure, essential to the       initial stages of the       decommissioning, to be calculated [C].
+This information was vital to       ensure the proposed       decommissioning can be undertaken with the appropriate environmental       safeguards.
+Our work on shallow water wave modelling [3] has also produced a number       of key impacts.
+This       work led to our participation in the LOWISH JIP.
+This project was       managed by Shell International       and supported by 5 major oil companies.
+A key output from this study was a       new laboratory data       base generated by Swan at Imperial College.
+The immediate impacts arising       from this work were       (a) design guidance on shallow water wave statistics, (b) updated breaking       criteria for waves on       mild bed slopes and (c) guidance on kinematics predictions [D].
+More       recently, others have applied       this data base producing the following impacts: (a) Improved calibration       of the breaking module       within the SWAN shallow water wave model [D].
+This model       originates from TUDelft and is       extensively applied in design applications world-wide.
+This work was       supported by the US National       Oceanographic Partnership Programme (NOPP) and funded by the US       Office of Naval Research.
+(b) The formulation and validation of a new empirical wave height       distribution model developed in-house       by Shell [D].
+(c) The overall recommendations of the LOWISH JIP,       to which the laboratory       data generated by Swan contributed greatly, have been incorporated within       a leading hindcast       model; the latter work undertaken by Ocean Weather Inc. as part of the       Southern North Sea       Extension Hindcast (SNEXT) JIP [D].
+(e) It has also provided new       design wave kinematics for the       PLUTO pipeline, a large infrastructure project extending across the       continental shelf of north-west       Australia [J].
+Finally, our expertise in nonlinear wave modelling and laboratory wave       generation led to the       development of a theoretical transfer function, optimising the performance       of force controlled wave       machines.
+This has facilitated further industrial impact in terms of       assisting specialist UK       manufacturers to secure international orders.
+Edinburgh Designs Ltd.,       implemented this work as an       integral part of their software control, regarding it as a key component       in successful bids to supply       wave makers for two very large model testing facilities [K].
+The first of       these was at MARIN (the       Maritime Research Institute, Netherlands), and the second the Naval       Surface Warfare Centre at       Carderock, USA.
+The costs of these facilities were &#8364;17M and $25M       respectively.

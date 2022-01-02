@@ -1,0 +1,59 @@
+     Project 1: me and my shadow     1) Impact on public audiences.
+The project reached non-traditional arts       audiences through       participatory experience in venues such as the National Theatre foyer       (during their 'Inside Out'       festival) and the Galleries Royales Saint-Hubert in Brussels (a busy       shopping street in the very       centre of the city).
+2) Education.
+Both the Centre de Arts and the National Theatre had       extensive school visit       programmes, covering all age groups.
+3) Impact on other practitioners (across music, digital arts, technology       and creative industries       sectors).
+The four project residencies directly involved over 100       participants (as listed in the       MADE white paper), and were designed to engage local arts and technology       communities through       talks, workshops, 'hack days', and process showings to share technical and       aesthetic       developments arising from the research.
+4) Technical innovation.
+The installation was a worldwide first in       combining full-body Kinect-based       motion capture with telepresence, and as such attracted considerable       attention from the tech       sector, as evidenced by exposure in Microsoft (manufacturers of the       Kinect) in-house publications       and tech TV shows such as BBC Click and BBC Arabic 4Tech.
+5) Influence on public policy.
+The MADE project was funded in part by the       European Commission,       and its findings on Artist Mobility in the Digital Arts were presented in       the form of a white paper       (details below).
+Indicators            Footfall for the four (single-user) installations conservatively         estimated at around 5000 visitors.
+The me and my shadow website blog recorded just under 3500         discrete visits during the         exhibition period.
+Visitor feedback was overwhelmingly positive &#8212; a small number of the         thousands of comments         collected can be found at http://madeshadow.wordpress.com/feedback        The MADE White Paper was presented to the European Commission by lead         author Philippe         Baudelot at a public event at Europe House, London, on 19/09/12.
+http://www.we-made.eu/fr/wp-content/uploads/maquette.pdf        A multimedia exhibit based on me and my shadow was presented         in Europe House's 12 Star         Gallery from 19-28/09/12.
+Selected Press            Feature on BBC Click (BBC World Service) 19.06.12.
+BBC World Service         audience estimated         as up to 166 million.
+http://www.bbc.co.uk/programmes/p00t7x3x         (11:30-17:30).
+Feature on BBC Arabic 4Tech, 20.06.12.
+BBC Arabic audience estimated         as up to 32 million.
+Article in El Pais Technology section, 21.06.12.
+El Pais total         readership estimated as up to 7.7         million.
+http://blogs.elpais.com/arte-en-la-edad-silicio/2012/06/cuatros-portales-para-entrar-en-un-mundo-virtual.html.
+Article in Beaux Arts magazine, Issue 336 (June 2012), pp.
+40-42.
+(59,856 sold monthly).
+Article in Telerama, 06.06.12 (691,337 sold weekly).
+Article in Regards sur le Num&#233;rique (Microsoft Europe         Magazine):       http://www.rslnmag.fr/post/2012/06/14/DIstanbul-a-Paris-un-corps-a-corpsnumerique.aspx       Article in Stylus magazine online (June 2012).
+Funding       The MADE project attracted c.&#8364;400,000 in funding.
+The majority came from       the European       Commission, but other matched funding came from the Arts Council of       England, the National       Theatre, the City of Mons, The City of Enghien-les-Bains and The       Brussels-Wallonia Federation.
+Project 2: danceroom Spectroscopy     1) Impact on audiences.
+To date, over 20,000 people have attended danceroom         Spectroscopy       and Hidden Fields events.
+Web statistics show over 40,000 hits for       related content, and Googling       `danceroom spectroscopy' gives more than 200 pages of hits.
+Notable live       events include:            Shambala Arts Festival (27-28 August 2011)       Bristol's Arnolfini (21-22 July 2012)       London 2012 Cultural Olympiad, Weymouth (4-5 August 2012)       London's Barbican Arts Centre (3-4 November 2012)       London's Big Bang science/engineering fair (14-17 March 2012)       Watershed danceroom Spectroscopy festival, Old Passenger Shed, Bristol         Temple Meads (24-26         October 2013)          A recently awarded grant from the Arts Council of England, along with       additional funding from       NVIDIA will facilitate further development and a Europe-wide tour from       Autumn 2013 to Spring       2014.
+Confirmed dates include the Barbican (01-02.03.14) and the Zentrum       f&#252;r Kunst und       Medientechnologie (Karlsruhe, 04.01.14).
+2) Education.
+Both the Centre de Arts and the National Theatre had       extensive school visit       programmes, covering all age groups.
+The Big Bang fair has an explicitly       educational role.
+3) Impact on other practitioners.
+danceroom Spectroscopy and Hidden         Fields have had substantial       impact on our non-academic collaborators.
+Laura Kriefman (choreographer)       has enjoyed       significant exposure, with invitations to conduct workshops with       institutions including the Royal       Academy of Dance (London) and Northern Ballet.
+Phill Tew (programmer) has       boosted his       international reputation as a generative digital artist.
+He was awarded a       Watershed Pervasive       Media Studio residency, which led to his participation in other high       profile projects such as the       REACT project The Secret Lives of Books.
+Nathan Hughes and Jacob Parish       (film-makers)       produced a series of documentaries on the project.
+One of these was       shortlisted for a $100,000       Forward Focus prize sponsored by GE.
+The five dancers have gained valuable       experience at the       collaborative frontiers of art and science, and learnt strategies for       incorporating technology into arts       practice.
+4) Technical innovation.
+danceroom Spectroscopy represents the       first ever real-time 360&#176;, 3D       depth-capture system, and has yielded a state-of-the-art GPU accelerated       framework for carrying       out quantum molecular dynamics.
+The latter has attracted interest from       science and computing       communities, indicated by a sponsorship relationship with leading       graphics-card manufacture       NVIDIA.
+5) Commercial impact.
+On the basis of the technical innovations developed       through this project,       David Glowacki, Phill Tew and and Laura Kriefman have formed a spin-off       company, Interactive       Scientific Ltd. with a projected turnover of &#163;100k during 2013 - 2014.
+6) Broader cultural impact.
+danceroom Spectroscopy was       highlighted by the newly appointed Arts       Council England chair, Sir Peter Bazalgette, during his inaugural lecture       in March 2013.
+The       project's impact has been strengthened considerably through connections to       Bristol's Pervasive       Media Studio (Watershed) and Arnolfini Art Gallery.
+The Watershed has used       danceroom       Spectroscopy as a Talent Development Case Study detailing successful       examples of cross-       fertilization between media organisations and the academic sector, and       built their 2013 showcase       event around it.
+Indicators       Awards            Royal Television Society 2012 `Best Digital Innovation'.
+Mention, Prix Ars Electronica (Hybrid Arts category), May 2012.
+University of Bristol 2013 public engagement award.
+On the basis of his work on danceroom Spectroscopy, Glowacki won a         nine-year Royal Society         Kohn Award `for excellence in engaging the public with science',         starting October 2013.
+Selected Press            Chemistry World: http://www.rsc.org/chemistryworld/News/2012/March/danceroom-spectroscopy-video-science-art-visualisation.asp         (readership 45,000)       Physics World: http://physicsworld.com/cws/article/multimedia/2011/nov/01/dancing-in-the-quantum-world         (readership 110,000)       Spark Salon: http://spark.qualcomm.com/salon/escaping-uncanny-valley        Newsletter of the Society for Applied Spectroscopy: http://danceroom-spec.com/wp-content/uploads/2012/03/SAS-Feb2012.pdf           Funding       Orr-Ewing, Ashfold, et al, New Horizons in Chemical and Photochemical       Dynamics, EPSRC       EP/G00224X/1, 2008-13, &#163;5,934,426       Glowacki, Ashfold, et al., danceroom Spectroscopy: collectively generating       music from movement,       EPSRC, EP/I017623/1 &#163;20,000       Glowacki, EPSRC Pathways to Impact Funding, University of Bristol, &#163;37,000       Glowacki, Arts Council England, &#163;57,234       Glowacki, NVIDIA Academic Partnership Grant, &#163;10,000       Glowacki, Artist residency from Bristol Arnolfini, &#163;19,500       Glowacki, New Talent Residency from Bristol's Pervasive Media Studio,       &#163;17,500

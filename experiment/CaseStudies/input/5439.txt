@@ -1,0 +1,46 @@
+     The main academic collaborators, Grindrod (Reading) Estrada and Higham       (both Strathclyde) made equal contributions in the co-authored       publications that led to this impact.
+Process from research to impact     Bloom is a Leeds-based digital marketing and advertising company.
+The       Bloom Insight Team, led by Peter Laflin, came across the SIAM News article       [3], which cites the Physical Review E paper [2].
+After implementing the       algorithms in [2] with some success, Bloom contacted Grindrod and Higham       and have since engaged in a range of on-going discussions about the best       way to apply the algorithms to real social media data and to deal with       various practical challenges.
+In particular, Bloom obtained Technology       Strategy Board funding in 2011 to investigate whether the concept of       dynamic communicability, which was introduced in [2], can be exploited by       their data analytics team.
+This 12 month project, entitled Digital       Business Analytics for Decision Makers, had costs shared between Bloom       (&#163;64K) and TSB (&#163;94K).
+The project led directly to the development of       Bloom's planning tool Whisper, which includes a facility to quantify and       monitor a client's current visibility and influence in the on-line digital       arena.
+Collaboration and knowledge exchange with Bloom has also led to a       co-authored case study [5] illustrating the success of the approach, and       further academic research [4] motivated by issues raised by Bloom.
+Higham       has visited Bloom's offices on three occasions, and members of the Bloom       team have visited Strathclyde a further three times.
+The two groups have       co-presented work at two conferences (Digital Economy Annual All Hands       Meeting, Aberdeen 2012 and Socinfo 2012, Lausanne).
+Dr Alex Mantzaris, an       EPSRC-funded Research Assistant at Strathclyde from 2011-2013 is now       based at Bloom, working on a 12 month joint EPSRC/Bloom funded knowledge       exchange project, where further insights from the Mathematics of Large       Technological Evolving Networks (MOLTEN) project are being shared.
+Bloom's       policy is to publicize their achievements and position themselves as a       leading player in digital media, working alongside cutting edge academic       partners.
+Hence, in addition to running confidential client-driven       projects, they have published a number of public domain blogs that       showcase this network methodology in analysing, for example, social media       activity around television and sports events.
+Types of Impact     Adoption of new data analytics tool:     The Bloom website for Whisper [Source 1] recognizes the Strathclyde       research: "In 2011, we set about building Whisper with the support of a       grant from the Technology Strategy Board.
+Working with the Universities of       Reading and Strathclyde, we have been able to implement innovative       mathematical algorithms to measure how influence in social networks       changes over time."
+The website also presents a range of topical case       studies.
+Their website states that "Whisper uses social media data to       provide a deeper understanding of your customer profile-their brand       affinity, their mood, what device they're using and where they are.
+Whisper can track changes in your customer profile in real-time...(and)       pinpoints exactly which social media profiles your brand should be       following, monitoring and engaging with during a campaign, helping your       brand's message to transfer to new networks as the conversation grows.
+..
+Whisper matches your CRM database with their social media accounts.
+This       means you can use these customers on social media to find new customers       and track which accounts went on to purchase.
+Whisper's ability to show       how, when and why a message both starts and stops having impact despite       continuing tweets and retweets can help your brand to understand how       messages become viral.
+This information can be used to accurately plan       creative campaigns that achieve virality."
+In a letter to Higham [Source 2], Peter Laflin, Head of Data Insight at       Bloom, makes a range of points that indicate the advances that the company       has achieved through the implementation of the research of Higham et al.
+He confirms that Whisper is the first data analytics tool that can       accurately measure impact and Return on Investment from social media.
+He       states "At the heart of Whisper is a specific implementation of your work       and the measure of `influence' is a proxy for your communicability ideas."
+He estimates "by the end of 2013 Bloom expects to have invested close to       &#163;200K in the research and development project around Whisper."
+Laflin explains that "A major use of Whisper is to speed up the market       research cycle.
+By mining social data at scale, and then filtering noise       through the use of influence metrics, we are able to quickly and       accurately assess the "Mood, Mode and Context" of a conversation, which       provides more specific and targeting information than a traditional       marketing research would provide.
+This is saving our clients' money,       cutting the costs of conducting research to assess market conditions and       dynamics."
+Improvement in business plans and performance: In terms of Bloom       and their clients, Laflin states that "Our brand is heavily focused around       having unique insight for our clients, and Whisper allows us to deliver       this; in fact we changed our brand direction to include "unique insight"       as a direct consequence of the success of implementing your ideas.
+This       brand direction has been nominated for a 2013 Drum Award for the         Digital Industries (DADI).
+Whisper has opened doors for Bloom;       meetings with Adidas, SKY, Nestle, Perform, Peugeot, Emnos, QVC, Centre       Parcs, BAT, Virgin Atlantic and ITV have all resulted from Bloom's ability       to use Whisper to uncover unique insight.
+These brands are becoming       clients of Bloom and the reason they are converting is because the       technology and insight we can provide cannot be found anywhere else in the       market place.
+Without Whisper, Bloom would not have had the opportunity to       excel in these meetings and provide a platform for delivering work on       behalf of these clients.
+Whisper is also providing us with an opportunity       to white label analytics to other marketing agencies."
+Laflin summarizes       the impact by saying "Without your support, or the support of the TSB,       this work would never have got off the ground and Bloom would not be       speaking to some of the world's largest brands."
+The Drum, an Advertising/Marketing Trade Magazine, reported on 2 April       2013 that [Source 3] "Leeds-based digital marketing firm Bloom has grown       its income to &#163;2.4 million it has revealed, as a result of working       alongside brands such as LA Fitness, Anglian Home Improvements and       Infosys.
+The agency, which has doubled its staff numbers to around 60 in       recent months, has grown its income by half, it claimed, while also       released a real-time social planning tool for brands, Whisper."
+Alex Craven, chief executive of Bloom explained how placing data driven       insight at the heart of the agency's model had impacted, saying: "This       change in direction has driven some significant wins for us as we become       the agency of record for well-known brands.
+As real time, content driven       campaigns continue to grow in importance for brands, we believe we are       well positioned for growth over the next two years."
+Skilled employment: Since October 2011, Bloom has hired two       mathematics graduates from the University of Leeds, in order to work on       embedding the algorithms from the underpinning research [2] into Whisper.
+Bloom is providing &#163;26K (matching the EPSRC/Strathclyde Impact       Acceleration Account funding) to second Dr Alex Mantzaris for 12 months,       and has also sponsored a CASE studentship at the University of Leeds that       will develop ideas in this area.
+Wider recognition for the new technology:     Bloom's use of Whisper for Anglian Home Improvements was shortlisted at       both the 2012 Some Comms Awards and the 2012 Social Buzz Awards.
+Bloom staff Laflin, Ainsley and Otley also co-authored with Grindrod,       Higham and Mantzaris an entry in the Royal Society 2013 Picturing Science       Competition [Source 4].
+Their image, titled `Twitter activity: a         snaphot of tweeter-follower interactions as a conversation grows',       created with the Whisper software, was runner up in the Infographics       category, and therefore went on public display at the Summer Science         Exhibition 2013 on 2-7 July in Carlton House garden, attended by       Bloom representatives.

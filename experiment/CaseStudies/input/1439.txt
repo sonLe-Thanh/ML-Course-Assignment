@@ -1,0 +1,27 @@
+     Duffett-Smith founded spin-out Company Cambridge Positioning Systems       (CPS) in 1995 in order       to commercially exploit his tracking technology, developed in the       Cavendish Laboratory, where he       remains still as an academic member of staff.
+The company's products,       navigation and positioning       systems were based entirely on the research described above.
+Cambridge       Silicon Radio (CSR)       acquired CPS in 2007 for $35 M. Key CPS Research and Development       personnel, including       Duffett-Smith, moved from CPS to CSR to form a new location unit within       CSR, which has       continued the development and extension of CPS ideas and know-how to       benefit CSR's products.
+As CSR's CTO says in his letter (all text in italics below are from this       letter[1]) `From 2007 the CPS         team remained a unit within CSR's CTO organization and has been mandated         to study, propose         and implement advance location algorithms covering all non GNSS         positioning methods.
+Thanks to         CPS's current indoor location solution, including novel and unique         methods for autonomous         learning.
+CDR's current silicon and software solutions, SiRFStarV,         SiRFusion and SoftFusion are         all using these algorithms for providing location solutions in isolation         or in combination with other         sources of information.
+These algorithms can be traced back to CCPS's         original methods.'
+And       also `CPS bolstered CSR's intellectual property portfolio by adding a         significant amount of new         Patent families, covering both terrestrial and GPS related inventions in         the field of location         technology.
+More than 20 patents were added and a significant number of         applications in process         which have since been granted.'
+In 2008 CPS incorporated CPS's eGPS technology into one of its       Bluetooth/GPS chips.
+The       technology provided assistance to a software-based GPS engine incorporated       into mobile devices.
+This chip improved the performance and usability of GPS inside buildings       and other shielded       spaces.
+The eGPS technology was developed during the period 2001-2009 by       CPS with Duffett-       Smith's active engagement with the project since it was derived directly       from the Cavendish       research described above.
+CPS servers deployed by a major customer of CSR served 40 per cent of the       available market       worldwide by 2009.
+The computer servers employed CPS-written software,       based on VLMU,       Matrix, and eGPS, to enable location-based services on mobile phones.
+Users would not have       been aware of the details of the computations going on behind the scenes,       but would have       experienced better performance than would otherwise have been the case,       such as quicker       response times and more-accurate positioning.
+`CPS brought a strong         server component, which         was incremental to CSR's expertise.
+The server technology has         subsequently been developed into         what is now a central strategic element to CSR's business, namely its         'Location as a Service'         (LaaS) business.
+CPS servers were deployed by a significant CSR customer         to facilitate various         location services, and in or around 2009 were powering around 40% of the         available market,         according to the data available to us.'
+CPS technology enabled CSR to offer hybrid positioning systems to one of       its major customers in       2011.
+A hybrid positioning system involves the use of two or more separate       positioning       technologies at the same time in order to obtain the fastest and       most-accurate position of a mobile       device.
+In this case, the combination was GPS and Matrix (using the GSM       telephone signals), the       former assisted by eGPS techniques, with measurements from each method       combined into a       single calculation of position.
+`Further work between 2009 and 2011 saw         innovation based on both         CPS's server technology and CPS's intellectual property to cover further         engagement with this         leading customer and a network operator.
+CSR was commissioned to supply         the essential         components permitting mobile phone location determination in the context         of hybrid systems         combining GPS, GLONASS, CDMA/A-FLT and LTE/OTDOA.
+In particular CPS's         unique methods         of estimation of network synchronization (VLMU) were central to that         approach.'
+The relevance and applications of all that CPS has brought to CSR       continue to open new avenues:       `Finally, with the increasing availability of bandwidth in         communication systems, CPS's         synchronization techniques and methods for determining positions using         time difference of arrival         are continuing to be relevant and applicable.'
+CSR's published accounts for 2012 show a revenue exceeding $1bn and an       operating profit of       over $100M.

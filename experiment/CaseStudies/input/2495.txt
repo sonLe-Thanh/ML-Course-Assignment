@@ -1,0 +1,33 @@
+     The concept of genomic selection was first developed by Haley and       Roslin/SRUC have remained at the forefront of the development and       implementation of genomic selection.
+Optimal contribution theory         (described above), provided the theoretical basis to balance genetic         selection and conservation of genetic resources (including avoidance of         inbreeding) and has been adopted by breeding companies [5.1].
+Applications of genomic selection currently have the greatest quantifiable       impact in the dairy cattle breeding, poultry and pig breeding industries.
+Impacting dairy cattle       Dairy cattle breeding is a multi-million dollar international industry and       genomic selection has been implemented in large national breeding       programmes since 2008 (initially in the US, Canada, Australia, New       Zealand, Ireland and The Netherlands).
+It now has been extended to nearly       all major breeding programmes, including the UK (led by SRUC) in 2012.
+When implemented in dairy cattle breeding, compared to traditional progeny       testing, genomic selection double rates of genetic progress whilst, at the       same time, reducing costs of the breeding programmes [5.2].
+Currently, virtually all bull semen commercially available to dairy       farmers comes from bulls evaluated using genomic selection/prediction       techniques.
+However, cows born from genomically-selected bulls have       probably been milking for only 2 years in the REF impact window, in       countries that were earliest to adopt.
+Genetic trends for the dairy       populations in the US and Canada were analysed recently [5.3].
+Attributing       only half of the recent additional genetic gains from the use of young       bulls to genomic selection &#8212; which is likely to be conservative &#8212; suggests       that genomic selection has contributed at least &#163;200M to these dairy       industries in the last 2 years.
+This will rise rapidly as more of the       population descends from genomically-selected parents.
+Impacting poultry       Poultry breeding achieves benefit through the extremely rapid       multiplication of stock.
+At Aviagen (an Edinburgh-based poultry breeding       company) a single male bird in the breeding nucleus today can be the       great-great-grandparent of ~50 million birds in 4 years' time, producing       ca.
+76,000,000 kg of meat.
+Thus, small improvements in the precision with       which superior birds are identified and utilised in the breeding nucleus       scales up to huge benefits at the consumer level, after only four years       [5.2].
+Conservatively, we may expect a genetic improvement in productivity       due to selective breeding of ca.
+1% per year (as shown by 5.3), i.e.
+an       extra 760,000 kg from a single male bird after 4 years, with these       benefits cumulating across all male birds used in the breeding nucleus,       and also cumulating over years with each successful round of selection.
+Increased precision of selection further increases these gains: Aviagen       implemented genomic selection in 2012 and an improvement of 20% in the       identification of genetically superior males would lead to a further       152,000 kg of meat per nucleus male breeding bird per year.
+Aviagen's       activities lead to 50% of the world's marketed chicken and &gt;50% of the       world's turkey.
+Further, scientists controlling the Aviagen breeding programmes are       almost entirely Edinburgh trained, and The Roslin Institute currently       advises Aviagen on its breeding strategies and on optimal implementation       of genomic selection.
+Impacting pigs       Optimal contribution theory has enabled efficient and sustainable breeding       programmes to be implemented in many species, and it is the key to       efficient long-term exploitation of both traditional and genomic       selection.
+Its current impact is best illustrated through interactions       with Genus, formerly PIC, which runs the world's largest pig breeding       programme [5.1].
+Genus currently has a 36% share of the "technified" (improved genetics)       segment of global pork production, which comprises 40% of global pork       production.
+Therefore, Genus contributes the genetics for 14% of total       global pork production.
+A LINK-funded project "Sustainable use of animal genetic resources"       (1999-2002) involving Roslin, SRUC, Genus and two other partners       identified optimal contribution theory as the single most potent       technology to bring an immediate clear improvement to the breeding system,       with a predicted 10-25% increase in genetic gain [5.4].
+This extra gain       was assessed using software [5.5] developed through a joint Roslin       initiative, which is now widely used within the breeding industry.
+Genus       implemented these concepts through placement of a geneticist within the       Roslin Institute, from 2002 onwards.
+Optimal contribution theory was first implemented into Genus breeding       programmes in May 2003, however the major benefits have arisen since its       use was scaled up after 2008.
+The company currently uses optimal       contribution theory to optimize selection and matings, on a weekly basis,       in 33 GN status lines from 10 farms on 4 continents.
+The data included in       these evaluations stretches back ~25 generations to the early 1980s.
+Over       13 million records are used in routine genetic evaluations, which are       performed weekly.
+Over 54 million piglets born alive are registered in the       Genus database, resulting from application of this technology,       contributing substantially to the world supply of pig meat, as indicated       by their global share described above.

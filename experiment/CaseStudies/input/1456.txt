@@ -1,0 +1,36 @@
+     Most pollutants are diffuse and although their concentrations are often       low, they can be toxicologically significant.
+Monitoring such pollutants       in water is a major challenge, but both regulators and the water industry       need to meet this challenge to fulfil statutory obligations placed upon       them.
+The development of passive samplers, such as the Chemcatcher, has       offered solutions to this challenge.
+The efficacy of the Chemcatcher was       proven in extensive European field trials(b,d), and this led to       significant interest for adopting the technology by end-users within the       environmental monitoring community.
+From 2008, Portsmouth has promoted and       facilitated the further uptake of the Chemcatcher technology, together       with other passive sampling techniques, which has resulted in important       impact as described below.
+Impact on practice through development of new international standards:       The application of passive samplers, including the Chemcatcher, for       statutory monitoring of water quality required the development of new       standards.
+Portsmouth led the group that developed a British Standards       Institution Publicly Available Specification (BSI PAS 61: 2006) within the       STAMPS project(b), which informed the basis of a later ISO/CEN       standard(viii) (2009) (leader and author R. Greenwood).
+These       two standards have ensured end-users employ the technology correctly in       the field thereby increasing the reliability and hence acceptability of       data by regulators.
+These standards also furthered the marketability of       Chemcatcher.
+Use of passive sampling for monitoring surface water in Europe:       Our role in the SWIFT-WFD project(d) was to effect field       evaluations of all available passive samplers including the Chemcatcher.
+This work involved dissemination workshops at demonstration sites [Eijsden       (2005), Ribble (2006), Lille (2007)] for end-users.
+The workshops showed       the reliability and cost effectiveness of this new approach.
+Subsequently       it led to the uptake of the technology by environmental agencies and       institutes (e.g.
+England and Wales, Finland, France, Norway, Slovakia(3))       across Europe, and to an improvement in the quality of information       available for guiding regulators in the design and location of sampling       campaigns.
+A further outcome was the inclusion of passive sampling as an       acceptable monitoring method, in a European Commission publication (Common       Implementation Strategy for the Water Framework Directive (2000/60/EC)       Guidance Document 19 Guidance on Surface Water Monitoring under the Water       Framework Directive &#8212; authors R. Greenwood and A.J.
+Allan).
+This has led       to the further uptake of Chemcatcher by environment agencies and water       companies across Europe, Australia and Japan (e.g.
+Environment Agency of       England and Wales(1) (now devolved into two Agencies), Scottish       Environmental Protection Agency, South West Water Ltd(2) and       Westcountry Rivers Trust, Finnish Environment Institute, Norwegian       Institute for Water Research, Swiss Federal Institute of Aquatic Science       and Technology, CSIRO Australia(4)).
+Specific examples of the use of passive sampling:       Monitoring contamination of drinking water by pharmaceuticals.
+The presence of trace pharmaceutical residues in drinking water is an       international health concern.
+As the Chemcatcher can be deployed over       extended periods (weeks) it permits the detection of low concentrations of       chemicals that could otherwise be missed by other techniques.
+The device       was selected to monitor these chemicals by the Drinking Water Inspectorate       (2008-2010) in collaboration with University of York, Centre for Fisheries       and Aquaculture Science and Centre for Ecology and Hydrology.
+The data       obtained gave a better understanding of the presence and distribution of       pharmaceuticals and hence their overall risks to health.
+Results were       published in a national industry guidance document (Targeted Monitoring       For Human Pharmaceuticals In Vulnerable Source And Final Waters, Drinking       Water Inspectorate Project No.
+WD0805 (Ref: DWI 70/2/231)).
+Detection and quantification of siloxanes.
+The expertise of       Portsmouth has led to impacts using samplers other than the Chemcatcher.
+An example is the development and application of polyethylene samplers for       measuring methyl siloxanes in collaboration with Unilever (2008-2012).
+These chemicals are used in personal care products and are ubiquitous,       persistent pollutants.
+Siloxanes are difficult to measure and many       governmental agencies have failed to implement methods for monitoring       these compounds.
+Our development lowered the limit of detection of these       pollutants, allowing their measurement at low concentrations and enabling       their fate in the environment to be determined more effectively.
+Monitoring radioactive compounds.
+Collaborations with Chiba       Institute of Technology, Japan and 3M Tokyo have resulted in a modified       Chemcatcher for monitoring radio-caesium in waters near the Fukushima       reactor.
+A bespoke receiving phase with a high affinity for this element       lowers detection limits and removes the need to collect of large volumes       (c. 200 L) of potentially radioactive water.
+Chemcatcher (all design       variants) is now being manufactured and marketed by 3M Japan (from 2013)       via a license from Portsmouth.
+Japan and the Pacific Rim was a previously       unexplored market for the Chemcatcher (see:       (http://www.mmm.co.jp/filter/empore/chemcatcher/pdf/chemcatcher_campaign.pdf).

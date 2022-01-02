@@ -1,0 +1,27 @@
+     Tetrahertz radiation encompasses frequencies invisible to the naked eye       in the electromagnetic spectrum, lying between microwaves and the       infrared.
+Frequencies in this region offer many applications and are       intrinsically safe, non-invasive and non-destructive.
+The success of the       Semiconductor Physics Group in developing this unique technology to emit       and detect terahertz light, and to harness its remarkable diagnostic and       inspection properties to provide unique 3D image and spectroscopic       measurements, has facilitated solutions for a number of industries.
+TeraView developed the TPI imaga systems, the first commercial terahertz       imaging systems for material characterization.
+A total of 70 of these       systems have been sold to date, half within the impact period at a cost of       approximately $300k each.
+These have been supplied to laboratories in       Europe, North America and the Far East.
+Roughly half of these are       industrial laboratories.
+TeraView has received &#163;16M investment so far,       &#163;3.5M within the impact period, and has 25 employees with two key       appointments since 2008 (Heads of Semiconductor and Industrial       Businesses).
+TeraView is the largest supplier of terahertz imagining       systems by a factor of 5-10x in terms of installed base.
+The main industrial area to have benefitted initially was in the       pharmaceutical sector where two main applications have been developed:            Detection of polymorphic changes of active ingredients in tablets.
+Non-invasive imaging of the coatings and internal structure of tablets         to provide a quantitative assessment of the character of the internal         interfaces separating different chemical constituents.
+This is emerging         as a technique of first choice.
+Both of the above applications have resulted in projects with Big Pharma       and equipment sales.
+In 2013 Takeda Pharmaceutical Company conducted       ground-breaking quality control research of layer separation of       pharmaceutical tablets, comparing use of TPI to use of other analytical       methods and determined that "TPI can aid in quality control by providing a       precise estimate of the layer separation risk and robust quality of       bilayer tablet development with better understanding of layer separation".
+In the area of healthcare, the high quality of the generation and       detection of the radiation has resulted in joint projects with medical       groups as terahertz can distinguish healthy and cancerous tissue.
+Evidence       is the joint publications with the clinical community.
+Studies of skin       cancer have shown that the growth of a tumour below the skin surface can       be detected and now a joint project with Guys Hospital is investigating       the applicability of a hand held probe for assessing tumour margin during       surgery for removal of breast cancer.
+Late in 2012, TeraView and its       collaborators at Guys performed the first set of in-vivo (in-patient)       pre-clinical trials on a subject undergoing breast conservation surgery to       remove a tumour; this is a world-first for the technology, and will       hopefully lead to more in-depth clinical trials.
+Results of the       pre-clinical trials were extremely positive, with several patients       measured in the theatre and promising results for breast conservation       procedures.
+Other recent applications of this technology are described below:            The detection and identification of explosives where the absorption of         THz at several specific frequencies allows the type of explosive to be         identified and distinguished from clothing or other inert materials.
+Teraview market a system specifically for the stand-off detection and         identification of explosives.
+TeraView have a range of applications for the photovoltaic (PV)         industry having delivered terahertz inspection systems to major solar         manufacturers.
+Applications include the detection and imaging of cracks         and defects buried in silicon, as well as inspection and quality control         of coatings used on crucibles for production.
+Semiconductor fault analysis and quality control of integrated         circuits.
+A system has been developed by Teraview, in collaboration with         Intel, to use Time Domain Reflectometry to non-destructively discover         faults in integrated circuits.
+This system can locate faults such as         short circuits and open circuits to 10&#181;m, dramatically reducing the time         for failure analysis in production.
+This techniques has applications to         a wide range of devices including smartphones and tablet PCs.

@@ -1,0 +1,35 @@
+     The research group at Essex recognised that the outputs of their work       held broad applicability for providing debug support to MPSoCs in a vast       array of global scenarios that rely on embedded systems.
+In a marketplace       where nearly half the cost of chip development is currently spent on       de-bugging activities, the novel architecture resulting from the research       conducted at Essex could be used to write much more reliable software.
+This would have significant economic and safety implications in consumer       electronics and safety-critical applications.
+Essex researchers sought to       share the capabilities and associated benefits of this technology with a       wide audience, and developed a robust strategy in order to transform       research insight into practical benefit.
+This centred on a broad range of       dissemination activities that targeted investment from a variety of       sources, in order to help commercialise the technology.
+Initial       activities, undertaken by the group in translating research towards impact       between 2005 and 2008, have been well documented in external media.
+In       providing detail, this account initially draws on corroborating sources       produced by: [1] Praxis Unico; [2] The Industrial Systems Institute,       Patras, Greece and; [3] RCUK.
+In 2005, the group founded `UltraSoC' to commercialise the practical       implementations to be developed from research [see corroborating source       1].
+The group began to actively seek funding that could be used to develop       their initial concept, with the aim of marketing and delivering a       commercial product.
+In 2006, an initial proof of concept was produced,       aimed at the automotive market and supported by the South East Seed Fund       [2].
+In the same year UltraSoC was also a finalist in the RCUK business       plan competition and received &#163;10k to further develop the business plan       [3].
+The group continued to enter competitions and apply to programmes       which could support further development of their growing market potential.
+In 2007 UltraSoC was shortlisted for the Software in Design award,       as part of the IET Innovation in Engineering awards.
+The group       also reached the final stages of the East of England Development Agency's       Running the Gauntlet competition [2].
+In 2008, UltraSoC became a joint spin-out from the Universities of Essex       and Kent [2].
+The group's proactive approach to seeking funding and       investment had not only attracted financial support, but critically it had       also generated significant market exposure for their technology.
+In 2009       UltraSoC received seedcorn funding worth &#163;400k from the South East Seed       Fund and the Iceni seedcorn fund [1].
+This allowed the company to open a       Cambridge office and produce a commercial demonstrator of their       technology, named `UltraDebug'.
+This represented the first commercial       implementation of the group's research and offered a highly flexible       platform to provide application-level debug support to multiprocessor SoCs       [1].
+The architecture was designed to enable the embedded systems industry       to create more advanced and reliable products in a range of domains, such       as the automotive and consumer device markets.
+Embodying the novel       features of the group's research, UltraDebug provides source-level       debugging with superior trace and trigger facilities, and represents a       step change in performance compared to existing commercial offerings.
+In       2010, UltraSoC received a Series A investment of &#163;2million from venture       capitalists Octopus Ventures [4].
+This enabled development of the       UltraDebug platform into a licensable product.
+Following excellent       progress both in technical and commercial programmes Octopus continued to       support UltraSoC, awarding a Series A+ investment of &#163;1million in October       2012, followed by a further &#163;1.5million in 2013.
+The company is now funded       to a total of approximately &#163;5million, of which venture capital forms the       majority.
+The remainder is provided by public sources including RDAs and       the TSB [5].
+In May 2013, UltraSoC announced that it was working with its first       customer, the American semiconductor company PMC-Sierra, which develops       and sells devices in the communications, storage, printing and       embedded-computing markets.
+The development programme, which is expected       to lead to PMC taking a license to the IP, incorporates UltraSoC's       innovative technology into PMC's next generation of storage controllers.
+It places UltraDebug at the leading edge of PMC's embedded systems, and it       is anticipated that the technology will be rolled out in chips in the       latter part of 2013.
+The VP of Product Development for PMC's Enterprise       Storage Division has acknowledged the significance of partnership with       UltraSoC [6], explaining:     "Analyzing complex hardware and software interactions in high-end SoCs       requires insight into what is happening through the entire device...PMC       partnered with UltraSoC because we recognized that their unique monitoring       and debug infrastructure would give us the needed visibility to both       enhance our device operation and accelerate our time to market for our       customers".
+VP Product Development, Enterprise Storage Division, PMC-Sierra     In addition to this large-scale commercial interaction, UltraSoC also       remains active in engaging with government-funded development programmes       in the UK.
+In February 2013, the company announced the successful       completion of the Debug Platform Development for Automotive Systems       (DPD-ASOC) project.
+The &#163;375k project, part-funded by the TSB and the       European Regional Development Fund (ERDF) delivered a debugging       demonstrator called `UltraAuto', which will form the basis of a       computational control system to enable reduction of engine carbon       emissions, thereby adhering to future EU legislation [7].
+UltraSoC has       also received further funding under the TSB's Emerging Technologies &#8212;       Energy Efficient Computing competition.
+In partnership with the University       of Cambridge, this supports the spEEDO (Energy Efficiency through Debug       suppOrt) project, which began in March 2013 [8].

@@ -1,0 +1,35 @@
+     The impact arising from the research was enabled through the KTP projects       referred to above.
+The results of the research enabled the development of a software package       which could:     A. tie together a number of existing electric motor design packages       within one framework,       allowing each to be used to its full potential but together rather than       separately.
+B. so far as possible, not require detailed technical understanding (from       the user) of each of       the individual packages.
+C. so far as possible, be intuitive in its use and not require highly       developed programming       skills.
+A number of key features were introduced in the design of the system as       an impact of the initial       research.
+A modified flow chart structure was used at the top level, since       this was known to be       accessible and understood by users.
+When more detail was required, and       number of options were       provided, depending on the level of the user's technical understanding.
+For those with limited       technical ability, a revised/expanded form of flowchart was used; for       those with limited       algorithmic/programming skills, common scripting was used across all       integrated packages; for       those technically experienced in any or all of the integrated packages,       the actual syntax and       operational methodologies of those packages could be embedded.
+The initial       research showed       that such an approach should be successful and indeed it was when the       various prototype       versions came to be tested.
+These principles were extended and updated       through the various       alpha and beta versions of the developed software.
+The end product, known as "Motor-Lab", was produced in 2012 and refined       for final release in       2013.
+The following is taken from the company's literature:     "MDL's unique combined electromagnetic and thermal modelling tool is         the first of its kind in the         marketplace; no other modelling tool offers equivalent functionality.
+Motor-LAB was developed to         enable rapid and accurate modelling of any permanent magnet AC motor         over the entire         operational envelope.
+It is specifically designed to aid the design of         motors for traction         applications.
+With Motor-LAB, engineers can create efficiency maps, plot         torque/speed         characteristics, study the continuous and peak thermally constrained         operational envelope and         analyse performance over driving cycles.
+It is fast, easy to use and the         techniques have been         experimentally verified.
+Motor-LAB has an intuitive user interface: data         is produced in a simple         format that can easily be exported to Matlab, Microsoft Excel and other         applications.
+A wide variety         of graphs can be generated and a number of publication-quality output         formats are supported."
+Marketing and selling of Motor-LAB has only just begun but early sales       are promising and the       company has very high hopes for this product and has invested heavily in       its marketing.
+Initial       reviews are excellent and significant sales, and subsequent increase in       company turnover, are       expected.
+Alongside the financial returns from Motor-LAB has been a fundamental       shift in the company's       business approach.
+It is no longer necessary to write individual, somewhat       fine-tuned, software       solutions for each customer.
+Instead, Motor-LAB can be shipped to all       customers with features       relevant to them enabled/disabled as appropriate.
+The charging model is       then applied consistently       on the basis of what services are offered.
+This leads to a more       transparent portfolio of services       and better customer perception of the MDL `catalogue'.
+Feedback in       response to this new strategy       has been excellent and the customer base is expanding rapidly.
+Finally,       in-house training for both       customers and MDL staff is also simplified and made more efficient.
+In the course of the design of the universal package, a separate,       specialist package was       developed with a particular focus on building and analysing an efficiency       map for electric motor       design.
+The package known as "Eff-Map" was produced and marketed in 2011.
+A final spin-off from the research collaboration has been the development       to market of the `FE-Therm'       module within the existing Motor-CAD package.
+FE-Therm provides increased       detail on       conduction heat transfer in various components; it can be used to analyse       conduction heat transfer       for complex geometries such as multi-layer interior magnet motor rotors       and to calibrate analytical       lumped circuit models, thus improving accuracy.
+These developments are significant since MDL have a number of         customers and collaborative         partners all over the world.
+They are recognised as the world-leaders in         their (this) particular field         of specialism.
+Other companies offer small parts of the MDL service in         isolation but none of them         can match the integrated approach to motor design that MDL can now         offer.
+Their global influence         continues to grow.

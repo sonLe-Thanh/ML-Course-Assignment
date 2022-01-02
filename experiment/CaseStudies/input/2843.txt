@@ -1,0 +1,51 @@
+     Context     "Insurance underwriters evaluate the risk and exposures of potential       clients.
+...
+Underwriting involves measuring risk exposure and determining       the premium that needs to be charged to insure that risk.
+... Each       insurance company has its own set of underwriting guidelines to help the       underwriter determine whether or not the company should accept the risk.
+The information used to evaluate the risk of an applicant for insurance       will depend on the type of coverage involved.
+...
+Depending on the type of       insurance product, insurance companies use automated underwriting systems       to encode these rules, and reduce the amount of manual work in processing       quotations and policy issuance.
+This is especially the case for certain       simpler life or personal lines insurance."
+[Wikipedia: Insurance Underwriting]     "Insurance underwriting is a complex decision-making task traditionally       performed by trained individuals.
+...
+Specializing to life insurance,       there is a natural dichotomy in applicants &#8212; those who have medical       impairments (such as hypertension or diabetes) and those who do not (who       are "clean").
+Clean case underwriting is relatively simple and we have       been able to represent it by a compact set of fuzzy logic rules.
+Impaired       underwriting is more difficult, as the applicant's medical data is more       complex.
+Underwriters thus use more judgment and experience in these       cases.
+Therefore, rather than create an enormous and un-maintainable fuzzy       rule base, we turned to CBR to handle the impaired cases."
+[I1 p15].
+Genworth Financial, a spin-off from the insurance business of GE, is one       of the largest insurance and financial services holding companies in the       U.S. Its GENIUS&#8482; digital underwriting tool exploits previous insurance       cases to underpin the decision support it provides to assist human       underwriters assess life and health insurance applications.
+Pathway to Impact     Our introspective learning methods had been well publicised at       International and European CBR conferences and IJCAI during the period       2000-2002 including [R3,R5].
+These conferences were attended by CBR       researchers from GE Global Research working on innovative applications of       AI.
+Our generic GA-based Self-Optimising Retrieval [R1,R5] inspired the       evolutionary approach to tuning CBR parameters in General Electric's       SOFT-CBR tool [I1].
+Our work was explicitly credited during the       SOFT-CBR presentation at the 5th International Conference on       Case-Based Reasoning [I2].
+One particularly successful application       of SOFT-CBR was GE's Digital Underwriting Tool for automating the       underwriting of insurance applications [I1-I4].
+In order to protect IP associated with Self-Optimising Retrieval       for insurance underwriting, GE filed the patent Process for case-based         insurance underwriting (November 2010):     "A process for at least a partial underwriting of insurance policies         is described.
+Based on the similarity to previous insurance         applications, a decision on the current request for underwriting may be         made.
+This decision-making process represents an analogical approach to         the placement of an insurance application to an underwriting category,         whereby a given insurance application request is compared to previous         requests."
+[I5].
+This was extended beyond retrieval to Introspective CBR, together       with a similar introspective learning for fuzzy rules, with the patent Process         for optimization of insurance underwriting (March 2011):     "A robust process for automating the tuning and maintenance of         decision-making systems is described.
+A configurable multi-stage         mutation-based evolutionary algorithm optimally tunes the decision         thresholds and internal parameters of fuzzy rule-based and case-based         systems that decide the risk categories of insurance applications.
+The         tunable parameters have a critical impact on the coverage and accuracy         of decision making, and a reliable method to optimally tune these         parameters is critical to the quality of decision-making and         maintainability of these systems."
+[I6]     In all, 16 US patents have been granted for the Digital Underwriting Tool       [I7].
+Genworth Financial was spun off from GE's insurance business in the       largest IPO of 2004, for $2.8 billion.
+At the time of the IPO, stock       analysts specifically cited digital underwriting as one of the key       advantages Genworth has over its competitors.
+The patents played a       critical role in the valuation of Genworth [I3, I4, I8].
+Reach and Significance     Genworth is now one of the largest insurance and financial services       holding companies in the U.S.
+It is a Fortune 500&#174; company with       more than $100 billion in assets, $1-5 billion revenue, 6000 employees,       and a presence in more than 25 countries [I9].
+At Genworth, the digital underwriting tool is now called GENIUS&#8482;, and is       the responsibility (from an underwriting standpoint) of the Chief       Underwriter [I10].
+GENIUS&#8482; sets up the cases for the underwriters       and new business associates, receives requirements, and manages work.
+When       a new case is received, GENIUS&#8482; walks the application through the       underwriting process, alerting the underwriters and new business       associates to relevant tasks.
+The use of GENIUS&#8482; within Genworth is       significant; it processes all life insurance applications &#8212; currently 2000       per week.
+Although a digital underwriting tool might be expected to provide       decision-making, by proposing insurance solutions automatically, only 3-4%       of Genworth's applications are processed automatically, and an underwriter       nevertheless still touches all these cases.
+Instead the main purpose of       GENIUS&#8482; is to provide decision support to the underwriters by suggesting a       course of action, highlighting issues that should be taken into account,       and proposing solutions.
+As a tool supporting human underwriters, it is       important that its assistance is evidence-based; i.e.
+captured from       previous insurance cases.
+GENIUS&#8482; uses evidence from 9 years worth of       insurance cases.
+One of the main advantages is how it presents information to the       underwriters.
+For example when laboratory data is received, GENIUS&#8482; makes       a first pass at evaluation by highlighting to the underwriter things that       are abnormal and things that should be checked; e.g.
+when blood test       results are received; perhaps check liver enzymes.
+In this way GENIUS&#8482;       provides relevant information about the case being considered to the       underwriter and helps the underwriter make sound decisions.
+The biggest advantage of GENIUS&#8482; is in Genworth's New Business       department, where a 40% improvement in productivity was achieved.
+The       impact of GENIUS&#8482; for underwriting in general is in improved consistency,       and for underwriting, consistency is very important.
+There is no empirical       evidence of the improvement in consistency, but the decision support that       GENIUS&#8482; provides is repeatable in what it flags as normal/abnormal, and       this influences the subsequent decision-making.

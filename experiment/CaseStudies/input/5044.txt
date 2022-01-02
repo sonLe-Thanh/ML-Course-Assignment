@@ -1,0 +1,24 @@
+     In recent years, Damiano Brigo has been working on the formulation of       accurate pricing models for       the valuation of counterparty risk in an arbitrage free framework.
+Because       of the practical relevance       of this work, it generated substantial impact of various types, including       impact on practitioners and       professional services, and economic impact.
+Impact has been realised along       three different       dimensions as described below.
+First and foremost, the significance and relevance of Brigo's research       for the financial industry is       shown by the fact that many of the counterparty risk models and       techniques, introduced by him, are       nowadays implemented in banks and related institutes.
+However, given the       relative secrecy of the       front office environments in banks, it is hard to document this in       writing.
+Nevertheless, a few cases       can be testified to by a former colleague (see Section 5).
+A second dimension of Brigo's influence relates to his impact on public       policy and services.
+This is       demonstrated by the fact that he co-authored a report (see article [A] in       Section 5), together with a       regulator for the German Federal Financial Supervisory Authority (BAFIN),       who is also a       representative at the Basel III panel.
+This report was published in the       official Bundesbank discussion       paper series, which testifies to the significance attached by the       Bundesbank to the findings of this       paper.
+Another report in a working paper series of a similar calibre has       been published by the Bank       of International Settlements (BIS) as a response to the consultative       document "Fundamental review       of the trading book" issued by BIS earlier on, see article [B] in Section       5.
+Moreover, Brigo's research on the calibration of structural first-passage       stochastic models to credit       default swap data and the related application to Lehman Brothers' data,       has had impact on public       policy in the form of a verdict by an Italian Court of Law.
+In 2011, the       court in Novara, Italy, retried a       case of financial intermediation after the spectacular bankruptcy of       Lehman Brothers Holdings Inc in       September 2008.
+The court based its analysis on research of Brigo.
+In       particular, the reasons for the       judgement explicitly refer to Brigo's research article on credit       calibration, which was an online       published preprint version of article [1] in Section 3.
+The relevant part       of the sentence translates as     "... in a recent study two different mathematical models (AT1P and SBTV)       have been applied       to the CDS trend of Lehman, and this shows that, despite a worsening of       the estimate, even       from a mathematical point of view, based on the CDS patterns, the survival       probability of       Lehman, even near the default event, was still high."
+Third, not in small part because of the fact that Brigo's models are       implemented in banks, he has       received numerous and regular invitations as plenary speaker to key       industry events, as participant       of round tables and as teacher of master-classes at major industry       conferences.
+These master-       classes are very specialized, and participation is expensive.
+Attendance       is typically in the range 10 -       20, with participants attending to learn first hand about theory related       to models implemented at their       employers' institutions.
+Although Brigo's research led to publications in leading academic       journals, he has also been       working on the application of his ideas in the financial industry.
+Relevant results have been       published and discussed in the top industry magazines with the highest       impact on practitioners and       professional services (see Section 5).
+Brigo's reputation in the financial       industry is further       underlined by a variety of interviews in relevant newspapers and by his       award as the most cited       author in Risk Magazine 2010, one of the most influential industry       magazines in the area of financial       risk.
+To put publications in industry magazines, and invitations to industry       events into proper perspective,       one should bear in mind that nowadays the interests of practitioners from       the financial industry and       academics working on financial mathematics diverge significantly.
+Hence,       active involvements of       academics in industry discussions are very rare.
+Indeed, Brigo is one of       only a few examples of       mathematicians whose expertise is not only highly rated in academia but       also much sought after in       the financial industry.

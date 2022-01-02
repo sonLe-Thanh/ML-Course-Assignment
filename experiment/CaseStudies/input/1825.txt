@@ -1,0 +1,20 @@
+     The research has had an economic impact and an impact on public services.
+Academics at Queen Mary and imperial looked at a series of fundamental       problems in computer science.
+Their work turned into research that       focussed on automatic memory safety verification for critical software.
+That innovative and breakthrough research had a significant impact on the       academic world, and also proved to have enormous industrial potential.
+Partners across academia and industry collaborated to maximize the       commercial and real-world impact of this game changing research,       including:     Monoidics: This London-based start-up company was founded in 2009       by Distefano &amp; Calcagno, and has grown to include offices in the UK,       USA and Japan.
+Monoidics markets INFER, an automatic program verification       tool which builds on ideas in P1-P5 above.
+Monoidics has ten employees (8       in UK), seven of whom hold advanced degrees, and a revenue of &#163;588,000 in       2012.
+Customers include government agencies and industrial clients like       Airbus, ARM, Lawrence Livermore National Laboratory, Mitsubishi and       Toyota.
+Recently Monoidics has been acquired by Facebook to improve the quality       and the security of their code base.
+Within Facebook, the verification       technology originally designed by Distefano and Calcagno will impact over       one billion users of this very public social networking service.
+Head         of Facebook London office said to The Telegraph [l9]: "This asset         acquisition represents our investment in the quality of our mobile         applications platform and also our people, as members of Monoidics         talented engineering team will join us to work at Facebook's London         office once the deal closes," [I2]     "One example of deep computer science being put into practice in the         Old Street area is Monoidics, a software verification provider whose         technology is based on research at Queen Mary, University of London and         Imperial College London."
+&#8212; says InformationAge[l3].
+Microsoft: There are separation logic-based tools being       implemented in Microsoft's labs in Redmond and Cambridge.
+One of these,       SLAyer, was released in 2011, and has been applied to numerous Microsoft       device drivers [I1], where it has found bugs missed by Microsoft's       powerful collection of analysis tools.
+SLAyer builds on the ideas of       Calcagno and Distefano found in publications P1 and P2 above.
+Microsoft's       Cambridge lab has at least two full-time researchers and one software       engineer working on Separation Logic based Analysis Tools (based on       Calcagno and Distefano's work) from PhD's in the UK (one from Cambridge,       two from QM).
+Microsoft has hired upwards of 10 post-docs and interns to       work on Automatic Analysis Tools based on Separation Logic.
+Several routines of Windows device drivers were analysed with this       technique and numerous real bugs were uncovered, and confirmed by the       Windows Kernel Team.[I1].
+The impact of this work on improved Microsoft       Windows reliability is worldwide via release of improved drivers.
+Press Coverage: The work of Monoidics Ltd has received extensive       press cover: in Japan, a primary market for the tool, see for example       [l4]; in UK in the context of the Tech City [l3,l9]; In other       international press in context of the CARP project [l5,l6,l7, l8]

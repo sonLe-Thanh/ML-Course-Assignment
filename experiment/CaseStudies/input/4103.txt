@@ -1,0 +1,27 @@
+     Eutrophication is a process involving the excessive build-up of nutrients       in a water body       leading to the deterioration of the water quality.
+Whilst eutrophication       can happen naturally,       human impacts such as sewage discharge can greatly enhance the process.
+As       such,       eutrophication status is controlled by The European Urban Waste Water       Treatment Directive       (UWWTD) of 1991.
+The UK set up the Comprehensive Studies Task Team (CSTT)       to produce       guidelines for studies to check that British waters were not becoming       eutrophic.
+However,       despite these guidelines, in 1999 the European Commission (EC) accused the       UK of infracting       the UWWTD, by failing to identify certain coastal waters in England and       Wales as eutrophic.
+This accusation led to a court case in the European Court of Justice,       which was finally decided       in the UK's favour in 20097.
+The CSTT model, developed by UHI,       Napier University and       University of Bangor was key to the UK's successful defence1.
+The UK was brought before the Court in 2007, and presented its defence in       writing over the       next two years, culminating in a hearing in Luxembourg in April 2009.
+Prof. Tett contributed       written and oral evidence during this period and attended the hearing in       person as an expert       advisor, supporting the UK government solicitors and Defra officers.
+The defence included data showing lack of undesirable disturbance due to       nutrient enrichment       of UK waters, and made the argument, based quantitatively on the CSTT       model, that many of       our coastal waters and estuaries were light-limited, and therefore not       eutrophic1.
+As part of the judgement, the Court ruled that eutrophication comprises       four linked steps: (1)       enrichment with nutrients; (2) accelerated growth of algae, etc.
+; (3) an       undesirable disturbance       to the balance of organisms; (4) an undesirable disturbance to water       quality; and that, for       eutrophication to be proven, a causal relationship between each step must       be demonstrated1.
+It was agreed that the relevant waters in question were nutrient-enriched       (step 1), but the UK       claimed that accelerated algal growth (step 2), was often prevented by       turbidity.
+Results from       the CSTT model were put forward to show that this was the case1.
+In December 2009 it was announced that the UK had won the relevant part       of its case1.
+The       CSTT model provided the scientific evidence which helped to uphold the       reputation of British       scientific research and save the British government and taxpayers a hefty       bill for additional       water treatment.
+A similar case was lost by the French government in 20042,       resulting in heavy       fines and the expensive obligation to build extra sewage treatment plants.
+Enforcement of the       directive, if the UK had lost the case, would have required the       installation of nutrient-stripping       treatment systems to all waste water discharges identified as being       eutrophic &#8212; affecting every       major city and town from the east of England up to Liverpool, an area with       a resident       population of around 20 million.
+This tertiary level of sewage treatment       would have cost on the       order of &#163;6 billion to implement, accounting for initial capital costs of       installation, running costs       and maintenance over a 20-year period1.
+It is assumed these       extra water treatment costs       would have been passed down to consumers.
+Other impacts of the research include:            The Centre for Environment, Fisheries and Aquaculture Science (Cefas)         (with funding         from the Environment Agency) continues research to combine the CSTT         model with         their `combined macroalgae and phytoplankton model' (CPM), for         use in evaluating the         trophic status of shallow coastal water bodies such as Poole harbour.
+UHI collaborates         on this evaluation project3.
+In 2011, Prof. Tett was invited to serve on a European Task Group set         up by         International Council for the Exploration of the Sea and the EC Joint         Research         Committee, chaired by Dr. Jo&#227;o Ferreira, to provide guidance to the         European         Commission on implementing 'Qualitative Descriptor' 5, Eutrophication,         of the Marine         Strategy Framework Directive.
+Prof. Tett led clarification of the         definition of         eutrophication (Ferreira et al., 2011)4.
+Further developments of the model by UHI for use in aquaculture by         Profs.
+Tett &amp; Inall         (2005-2011 SARF (Scottish Aquacultural Research Forum) funded research)         have         been transferred to Marine Science Scotland and Scotland's Environment         Protection         Agency (SEPA) and reported to the industry at the Association of         Scottish Shellfish         Growers Conference in 2011.
+A report on the Development of Assimilative         Capacity         and Carrying Capacity Models for Water Bodies utilized for Marine         Bivalve and Caged         Fish-farming, was prepared by Prof. Tett on behalf of SARF and published         on the         SARF website to provide a guide to the model system and advice on model         software         for businesses and regulators5.

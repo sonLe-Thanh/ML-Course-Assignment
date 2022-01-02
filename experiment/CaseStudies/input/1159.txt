@@ -1,0 +1,34 @@
+     A recent report from the UN's Office on Drugs and Crime (UNODC) on       organised crime across the Asia-Pacific region estimated that the market       in counterfeit goods is worth $24.4 billion i.e.
+about 2% of world trade,       and that it is as profitable for criminal gangs as the trade in illegal       drugs [C1].
+This highlights the scale of the problem, and also the scale       of the potential impact of successfully combating forgery.
+Ingenia Technology (UK) Ltd was incorporated in October 2006 to       commercialise the technique, now known as Laser Surface Authentification       (LSA).
+There followed much more research and development after Prof       Cowburn's move to Imperial College in order to turn the process into a       feasible, practical and robust technique to counter forgery and       counterfeiting, resulting in a whole series of subsequent patents which       cite the original work [e.g.
+P4-6].
+LSA has major advantages over previous methods of authentication such as       watermarks or holograms in that the surface is an inherent rather than an       additional feature of the document so does not require additional       manufacturing.
+The speckle pattern depends on the nanoscale fluctuations       over the entire illuminated surface, and there is no known method to       fraudulently reproduce this, unlike watermarks/holograms which are       difficult but not impossible to replicate (if you can make it, you can       fake it).
+Ingenia Technology claims that it "has been described as         being like a fingerprint or DNA sequence for the item, is unique for         every document, card and carton and can be used to uniquely and         unambiguously identify the item."
+[C2]     Much of the business is in designing bespoke implementations, with       applications in security (Fig 4, from C2), customs, and law enforcement.
+These are highly sensitive, so the company will not release details.
+However, several applications are public, including authenticating       packaging of luxury goods and pharmaceutical products.
+The packaging is       scanned on the production line and the speckle pattern stored on a secure       custom database (LSANet).
+A mobile LSA field unit (Fig 5) can scan the       package anywhere in the world and authenticate it against the database       [C3].
+This application was developed in partnership with Bayer Technology       Services GmbH, a subsidiary of Bayer GmbH which offers fully integrated       solutions for chemical/pharmaceutical plants [C4].
+It is also used by       Cartondruck, a German based folding carton manufacturer, who installed an       LSA system on one of its production lines for packaging high-end perfumes,       cosmetics and other luxury products.
+Cartondruck Head of Sales and       Marketing says: "The LSA system is simple and 100% reliable, and it         works with different materials.
+Our customers don't have to come to us         or to send the product to us to have a scan made.
+We are happy to have         this market advantage."
+[C5].
+The newest scanners, released in April       2013, are capable of processing 50 items per second, and the LSANet       database can now hold up to 100 billion items [C6].
+Fig 4: securities application of LSA technology   Fig 5: LSA portable unit designed for use in the field      The technology is not limited to paper but can be used on other systems       which exhibit stochastic fluctuations.
+Ingenia Technolgy has developed a       complete authentication system for precious metals with leading Swiss       refiner PAMP.
+This Veriscan&#8482; system uses Ingenia's Laser Surface       Authentication system to scan and code every gold and silver bar produced       by PAMP and then enables authentication by multiple users across the       world.
+Ingenia hosts the secure database for PAMP and has developed a       customised version of their hardware and software for them [C7-8].
+In 2010 Ingenia Technology signed a partnership agreement with IDT       Systems Ltd, a leading 2D and 3D in-surface decoration systems provider.
+IDT will include LSA as part of its in-surface decoration and       personalisation offerings, specifically targeting the consumer electronics       sector.
+"Working with Ingenia Technology will allow us to offer a much         more comprehensive authentication and identification package for our         customers," commented the CEO of IDT Systems.
+"Ingenia's LSA         technology is the most robust and sophisticated solution for product         tracing and anti-counterfeiting that we have seen in the marketplace"       [C9].
+Ingenia Technology (UK) Limited has its headquarters in London with       satellite offices in Vienna and Zurich.
+At 31st December 2011,       it had shareholder funds of just over &#163;5M on its balance sheet [C10].
+The       Ingenia team consists of 15 people, with a mix of business and security       experts.
+It includes three members who were originally part of the       university research team as well as specialist engineers and physicists       with many years of experience in electronic and product engineering [C11].
+The company have won multiple awards including the prestigious 2006 Global       Security Challenge Award for the most promising Security Start-Up of the       year, with subsequent awards in 2007 from Hermes for Best Technology       (together with Bayer Technology Services), and two awards for Emerging       Technology Companies (Red Herring Europe 100 and Red Herring Global 100)       [C12].

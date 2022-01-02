@@ -1,0 +1,36 @@
+     The research described has been crucial in enabling the aerospace       industry to produce more fuel efficient, longer lasting engines and       aircraft at reduced cost.
+The roll-out of the DATUM project results across all R-R businesses       worldwide began in 2008.
+As a direct result of the project, the use of       unit cost modelling tools applicable at different levels from whole engine       to feature, and from preliminary to detailed design, offers Rolls-Royce a       novel capability to facilitate the dialogue between design and       manufacture.
+The roll-out is on-going both in the United States and       Germany.
+In 2008, Professor Scanlan was given the Rolls-Royce R&amp;T       Directors Award for Creativity in recognition of the under-pinning       research.
+In the last four years, the tool has been further developed and       integrated into design optimisation workflows [5.1].
+Throughout the impact assessment period, Scanlan has been the Director       (and founder) of a spin-out business based on his academic research.
+Plexus Planning Ltd, founded in 2003, now has a turnover of over &#163;500,000,       with annual growth of over 20%.
+Plexus has developed a software toolkit       that enables massively complex problems to be simplified.
+For example,       Plexus was used by Boeing to help find high risk problems in a network of       over 500,000 suppliers.
+This enables the representation of a wide range of       management problems from project planning to supply chain management.
+In       2011, Plexus was chosen by Rolls-Royce as a strategic tool which has since       been rolled out across their global IT infrastructure.
+This ensures that       the widest possible community within Rolls-Royce is able to make use of       the research of the Southampton UTC following a &#163;300k licence deal [5.1].
+Plexus has now established a strong reputation within the aerospace       industry, with customers including Airbus (since 2005 [5.2]), Boeing       (2007), Bombardier (2004) and the UK Ministry of Defence (2009).
+In 2011,       the US Navy bought Plexus licences to model all concept design work.
+Another tool developed as a direct result of the research is the Optimat       toolkit, a collection of optimization tools that plug into Rolls-Royce's       chosen integration framework (Isight).
+From 2009, this toolkit was made       available to Rolls-Royce staff worldwide for strategic design improvement       work on aero-engine components.
+It makes use of advanced surrogate       modelling methods that offer world leading capability for dealing with       problems with multiple goals and multiple levels of analysis fidelity.
+For       example, this toolkit was used in the improvement process for the fan in       the Trent 1000 engine used in the latest Boeing 787 airliner now entering       service.
+A study carried out by R-R engineers in December 2009 showed that       Optimat doubled the gains being made by computational studies of the fan       system as compared to the previously used approach.
+[5.1]     As a direct result of the research into stochastic analysis methods, in       2010 these methods were inserted into the Rolls-Royce production finite       element analysis system (SC03).
+This permits an assessment of the impact       of manufacturing and operational uncertainty on the lives of critical       engine components up to ten times more quickly than by conventional       approaches.
+The results of the research are now being used in the       development of the high pressure turbine assembly of the R-R Trent XWB       engine for the next generation Airbus mid-range airliner, for which R-R       has more than 500 orders worldwide.
+In 2012, Scanlan and Keane facilitated the setting up of a new company,       Solair Aviation Ltd, in collaboration with a local company and local       investors, using the sophisticated computational engineering modelling       developed by their team.
+The company is developing a new piloted micro       light aircraft (The Swallow) under a licensing arrangement with the       university.
+The local entrepreneur [5.3] who is supporting this initiative       has estimated that there will be a market of over 100 Swallow aircraft per       annum with an eventual turnover of over &#163;6 million.
+Scanlan's work on unmanned systems under the DECODE project led to him       assisting an ex-Southampton PhD student to develop an autopilot for       unmanned air vehicles.
+This in turn led to the creation of a successful       spin-out business called SkyCircuits in 2010 (http://www.skycircuits.com/)       of which Scanlan is now a director, assisting its growth and development.
+This company has a large number of customers to whom it has sold over       &#163;100k worth of autopilot systems including the MET office and several       leading airborne surveying companies, including QuestUAV and CAllen Lenz.
+In addition the systems have been bought by Bath, Cranfield and Reading       Universities.
+Some aspects of the research have attracted strong public interest,       leading to widespread international publicity.
+This is true in particular       of the team's work developing the world's first plane manufactured wholly       through 3D printing using laser sintering (SULSA).
+Publications that       reported this development in detail included BBC online (February 2011);       the New Scientist [5.4]; the Los Angeles Times; MSN India; the Irish Times       (all August 2011) and others.
+These articles, all written for       non-specialist audiences, enhanced understanding of the new technology and       its practical significance among the wider public.
+A YouTube video of the       SULSA project has now attracted over 200,000 viewings.
+In November 2010, Scanlan - on the strength of his research activities       and excellent industry connections &#8212; was invited to organise a seminar on       Design Search for leading aerospace industry and academic experts, which       was held at the Institution of Mechanical Engineers, London.

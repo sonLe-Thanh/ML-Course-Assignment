@@ -1,0 +1,55 @@
+     Context     Existing carbon footprinting methodologies and software tools are either       too simplistic or too       complex and thus not suited for use in-house by industry.
+As a result,       most companies have to rely       on external consultants, which often inhibits them from estimating carbon       footprints because of       associated costs and confidentiality.
+Furthermore, most previous       approaches have only considered       estimation of carbon emitted directly by organisations rather than the       emissions along the whole       supply chain &#8212; a key requirement in mitigating climate change.
+CCaLC       overcomes these barriers       by enabling them to estimate the carbon footprint and identify optimal       reduction strategies in-house.
+The research laid the foundations for addressing these issues by taking a       life cycle       approach with the aim of helping companies to identify carbon reduction       opportunities from `cradle       to grave', in-house.
+Pathways to Impact     We recognised that the key to achieving practical impact from the work       was to embed the rigorous       CCaLC methodology in software tools simple enough to be used by       non-experts.
+Working with the       18 industry partners in the research (joined subsequently by 15+ others),       we developed a suite of       software tools incorporating a database with 6000+ data entries: CCaLC       for estimation of carbon       footprints applicable to all sectors; CCaLC Optimiser for       optimisation of carbon footprints       applicable to all sectors; CCaLC PVC applicable to the PVC sector;       and CCaLC BIOCHEM       applicable to the industrial biotechnology (IB) sector.
+To encourage       uptake, CCaLC is provided       free of charge.
+The first version was launched in July 2010 and up to 31       July 2013 had around       3300 users from more than 70 countries.
+Several updates have been released       since the launch       (currently v.3.1).
+To aid dissemination, we worked closely with the       Chemistry Innovation       Knowledge Transfer Network (CIKTN), who helped disseminate CCaLC widely       across industry.
+Examples of dissemination routes pursued by CIKTN included promotion to       250 SMEs across       Europe to stimulate innovation in bio-based products, presentations to       over 150 UK businesses, a       series of industry events, and the CIKTN website.
+CCaLC is also included       in CIKTN's Sustainable       Design Guide to help drive innovation [A].
+Amongst new partners was the       World Bank who, as a       result, recommend CCaLC as part of their Platform for Climate-Smart       Planning [B].
+Reach and Significance     CCaLC's international user base is made up of companies (~65%),       government bodies (~10%)       and others (~25%), including universities and individuals.
+CCaLC has       significant geographical       reach: 50% of users are UK-based, 25% are based in rest of Europe and 25%       span countries as       diverse as Australia, Brazil, Canada, China, India, Indonesia and USA.
+Examples of specific       impacts are given below for four key industrial sectors.
+PVC Industry: PVC is one of the most extensively used plastics in       the world with current global       demand of 37 Mt and a forecast annual growth of ~5% from 2011-2020.
+The       European PVC sector       is committed to carbon reductions through VinylPlus, an ongoing 10-year       voluntary initiative to       improve its sustainability.
+The CCaLC-PVC software has been used for the       reduction and       management of the carbon footprints of PVC products, processes and supply       chains.
+It has been       endorsed by DEFRA [C], and across the PVC sector, including by the British       Plastics Federation       and INEOS ChlorVinyls &#8212; a leading VinylPlus partner and Europe's largest       PVC producer,       employing 3000 people.
+Using CCaLC has provided INEOS with the insight       that the use of       recycled PVC offers a 20-fold reduction in greenhouse gas (GHG) emissions       compared to virgin       product, leading directly to a focus on recycling as a pathway to reducing       the industry's emissions       [D].
+Currently Europe recycles 100 kt pa of waste PVC window frames,       equivalent to a saving of       around 200 kt CO2 eq.
+pa [2] - a &#163;42m pa saving through       mitigation of climate change based on       the findings of the Stern Report.
+Use of CCaLC showed that achieving the       VinylPlus target of 800       kt pa recycled PVC by 2020 would result in a 1.6 Mt pa reduction in CO2       eq.
+emissions, equivalent       to 2.4% of the emissions from the sector.
+CCaLC also showed that a saving       of 6.7 Mt CO2 eq.
+pa       could be achieved by using a new non-aqueous polymerisation route, instead       of the current       aqueous process [D].
+This would represent a 10% saving of annual GHG       emissions for the whole       PVC sector, half of the emission reduction target of 20% set by VinylPlus       for 2020 and, based on       Stern's findings, equivalent to a saving of &#163;360m in mitigation of climate       change.
+Summarising the       impact, INEOS ChlorVinyl state that "CCaLC is increasingly being used         across the PVC sector,         and is viewed as a central plank in the European PVC industry's carbon         commitment.
+...It has         proved valuable because it continues to provide a simple yet effective         tool to illustrate how various         players in the vinyl value chain can make a difference to carbon and         other environmental savings."
+[D].
+Industrial Biotechnology: In recognising that the industrial       biotechnology (IB) sector will be "one       of the strongest driving forces behind the world's low-carbon revolution",       the BERR (now BIS) IB       Innovation and Growth Team for UK Government recommended adoption of CCaLC       as the       preferred toolkit for the calculation of carbon footprint [E].
+Subsequently, CCaLC is now used       across the IB sector to identify carbon hot spots and improvement       opportunities.
+An example is the       UK-based speciality-chemicals company Croda International, who have 3400       employees in 34       countries, and boast revenues in excess of &#163;1bn.
+Croda manufactures 70% of       its chemicals using       renewable materials and use CCaLC to calculate the carbon footprint of       their products.
+As a result,       they found out that, contrary to their expectations, the GHG emissions       from cultivating raw       materials are typically twice those from the manufacturing process [F].
+In       2011 Croda rolled-out       CCaLC across the whole company, training 18 key staff internationally in       its application; CCaLC is       now used routinely to monitor opportunities for carbon reduction [G].
+Commenting on the       usefulness of CCaLC not only for identifying improvement opportunities but       also for responding to       increasing requests by their customers for information on the carbon       footprint of their products,       Croda state that "Without CCaLC, Croda would not be able to provide         useful and meaningful         information to our customers without significantly more work and cost,         ...which could potentially         result in lost business."
+[F]     Healthcare Industry: GSK, one of the world's largest health-care       companies, used CCaLC, in       collaboration with the UoA, to estimate the carbon footprint of 20 key       products, including asthma       inhalers and Horlicks.
+CCaLC showed that, contrary to company's       expectations, the use and end-       of-life of these products add significantly to the company's carbon       footprint.
+For example, Ventolin,       used by ~300 million asthma sufferers worldwide, is one of the main       contributors to the total       carbon footprint of the company owing to the use of HFA-134a propellant.
+To reduce the carbon       footprint, GSK have started to collect and recycle waste inhalers which       still contain a significant       amount of unused HFA &#8212; in the UK alone, 90,000 inhalers have been       collected to date, saving       682 t CO2 [H].
+CCaLC has also shown that large carbon       reductions can be achieved by replacing       Ventolin with a dry powder inhaler also produced by GSK, saving 630 kt CO2       eq.
+per year, or 10%       of GSK's total GHG gas emissions.
+GSK are also working with suppliers to       reduce the carbon       emissions in their supply chain, for example in the production of milk       used in Horlicks, which       contributes more than half of the 800 kt CO2 from this product.
+GSK state that "Having a tool like         CCaLC is very powerful as we can quickly get into very detailed         discussions on how to work with         suppliers to reduce supply chain carbon footprint as well as reduce         overall cost."
+[I]     Food Industry: Kellogg's, one of the world's leading producers of       cereals and convenience foods,       with sales of ~$13 billion, are committed to reducing energy use, GHG       emissions and water use by       15-20% by 2015 (on 2005).
+The company has been using CCaLC since 2010 to       estimate the       carbon footprint of their entire product range (ca.
+2000 products),       allowing them to track the cradle-       to-grave impact for the first time [J].
+They were surprised to find that       transport had a low       contribution to their carbon footprint, enabling them to refocus on areas       of product life cycle that       have a higher contribution, such as raw materials, packaging and energy       efficiency.
+CCaLC       estimates have shown clearly that Kellogg's carbon footprint can be       reduced by up to 20% by       focusing on these life cycle stages, helping the Company meet their 2015       targets [J].
+Kellogg's       have also found CCaLC to be useful in product design, helping them choose       low-impact       ingredients and recipes.
+An example is Special K, for which both       carbon and water footprints were       reduced by up to 20% as a result of using CCaLC [J].
+The company state       that "CCaLC has helped         Kellogg's to identify business-wide hot spots and provide focus in terms         of future priorities for         carbon reductions along the entire value chain ... We habitually use         CCaLC in all new food and         packaging innovation and design... We've also found CCaLC is useful to         inform how to design         more sustainable future products and as a vehicle for engagement with         suppliers" [J].

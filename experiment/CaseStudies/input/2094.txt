@@ -1,0 +1,32 @@
+     Following the trial, the Children's Kidney Unit at the Royal Victoria         Hospital (RVI), Newcastle changed its policy, so that alteplase was       used in place of heparin as the routine `lock' (i.e.
+preventative dose of       anticoagulant) for venous central lines.
+In the intervening period, most       of the paediatric kidney units in the UK and Ireland have followed the       practice at Newcastle and switched to using alteplase.
+A blocked central       line is traumatic, causes delays in treatment and incurs costs for the NHS       through taking up the time of medical and nursing staff.
+The line is used       repeatedly and, without anticoagulation, the lumen would become occluded       by blood clots between treatments.
+Repeated blockage of central lines       requires re-siting, a traumatic procedure that cannot be repeated       indefinitely.
+If haemodialysis (HD) becomes impossible, the consequences       for the child are dire.
+Impact in significant reduction of re-siting     Prior to the Newcastle trial, any child with a central line in for a year       would need to have it re-sited for thrombosis with probability 0.7.
+This       failure rate is consistent with rates found elsewhere [E1].
+After our       research, from 2008 to 2012, similar numbers of children were treated at       Newcastle, but none of the lines has been replaced for thrombosis.
+There are about 10 HD patients at any one time at the unit and each       patient needs about 50-150 doses of alteplase per annum, usually until a       renal transplant becomes available.
+Some indication of the financial cost       is given by Canadian figures, where one dose costs around $50 whilst the       cost of one catheter replacement is estimated to be around $1200, but may       incur a further $6000 for hospital treatment costs if there are       complications (caused by bacterial infections in a few percent of clotting       events) [E1].
+The high cost of the drug is therefore partially offset by       savings in treatment regimen.
+Impact on practice in other units     Following the research, information was obtained from all 14 paediatric       kidney units in the UK and Ireland [E2].
+This revealed that 12 have       changed to using alteplase.
+Five centres (Newcastle, Cardiff, Guy's,       Glasgow, Manchester) use it as their routine treatment, three times       weekly: a further five centres (Nottingham, Belfast, Great Ormond Street,       Birmingham, Liverpool) use it three times weekly in some patients and in       others use it once per week with heparin on the other two occasions to       minimise the expense.
+The two centres, Dublin and Bristol, use heparin       initially, but move to using alteplase three times weekly if they       encounter any problems, which is quite common (for example, alteplase is       used for eight of the ten children currently treated in Dublin (June,       2012)).
+Typically, at any given time, the total number of children being       haemodialysed in these units is around 100.
+Supply of alteplase     The letter [E2] provides evidence, in the form of an e-mail survey, of       the effect of the research on this usage of alteplase across the UK and       Ireland.
+Confirmation that the preventative use of alteplase spread from the RVI       is provided by the distribution of alteplase from the RVI to other       hospitals.
+At the time of the research, alteplase was marketed as a       treatment for pulmonary emboli in adults and was supplied in much larger       quantities than required for paediatric HD.
+Since 2009, the RVI pharmacy       has been breaking 300mg ampoules down into 2mg doses suitable for locking       dialysis lines and these have been supplied to other NHS trusts.
+The table       below shows the number of alteplase units repackaged and issued by the RVI       to other NHS trusts [E3].
+The numbers have increased substantially in       Newcastle for various reasons including some longer term HD patients.
+In       the other trusts, the numbers are reducing because small doses are now       available in a commercial product.
+This approach means that the drug costs       in Newcastle are substantially lower than the Canadian figure quoted       above.
+Newcastle Hospitals           Other Trusts                             Alteplase issued by the RVI 04/2010-03/2011           1692 UNITS           5350 UNITS                             Alteplase issued by the RVI 04/2011-03/2012           2470 UNITS           3491 UNITS                          Prevention of harm     Further reinforcement of the importance of changing to alteplase is given       in [E4] which notes that "Clots form easily in relatively large central         lines, such as those used for haemodialysis, presumably because blood         enters the distal lumen", and that "Owing to the risk of         pulmonary embolus, it is routine practice for children's dialysis lines         to be aspirated before every use &#8212; it is apparent that small subclinical         clots must be occurring, as evidenced by cardiac and post-mortem studies         in children with lines for at least 3 months".
+The significance of the problem is also indicated in the article:         "Cumulatively, these small clots may cause morbidity.
+A child having a         clot weighing about 14mg dislodged on 60% of days would have 3g of         thrombus showered into their lungs annually.......If cumulative small         thrombi did cause the gradual development of pulmonary damage, this         might be difficult to detect, or even suspect clinically, especially in         children whose other serious disorders had necessitated the use of a         long-term central line".
+Use of alteplase for locking dialysis lines is beginning to spread to       other countries.
+For example, a US review article from 2012 on tunnelled       catheters (TC) [E5], cites Newcastle research in concluding that "Since         the introduction of TCs in the late 1980s, heparin catheter lock has         been the standard prophylactic regimen for the prevention of TC         dysfunction.
+More recently, alternative catheter locking agents have         emerged, and in some cases have shown to be superior to heparin lock         with respect to improving TC patency and reducing TC-associated         infections."

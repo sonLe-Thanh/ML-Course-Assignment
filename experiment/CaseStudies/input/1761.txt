@@ -1,0 +1,42 @@
+     QRisk had an impact in five areas: implementation and use of QRisk in UK       primary care (GP surgeries and pharmacies); direct uptake and use by the       public and patient organisations; informing policy on NHS Health Checks;       informing methodological work on risk score development and validation;       and inspiring further research on the use of QRisk-type scores for other       chronic conditions.
+We consider these in turn below.
+4a: Implementation and routine use of QRisk in UK primary care       The success of QRisk has depended both on its robust scientific basis and       on intensive efforts on the implementation of the score in front-line       general practice.
+The effort included:            Dr Robson worked with the GP system supplier EMIS to ensure that the         risk score was fully integrated in GP computer software to give a         `one-click' QRisk calculation covering 55% of the English population.
+An accessible website (www.qrisk.org)         including a user-friendly risk calculator aimed at both health         professionals and the public.
+The website currently receives ~25,000         visits per month (around 2 million visits to date).
+Dr Robson advised the DH and a London-wide team on QRisk         implementation.
+Locally in east London, he was a member of the North         East London Cardiac Network Board, CVD lead for Tower Hamlets PCT and         advisor to other local PCTs in east London.
+Using QRisk rather than Framingham as the risk score on GP computer       systems is more equitable for the needs of high risk ethnic minorities,       the socially disadvantaged and is estimated it will prevent 3,000 more CVD       events in five years in those at high risk in England because QRisk       identifies a risk group that is on average, at higher risk than that those       identified by Framingham.
+In people found to be at high CVD risk, events       will be further reduced by targeting treatment for high blood pressure and       earlier identification of diabetes.
+Dr Robson collaborated with Prof Hippisley-Cox to design the QRisk       calculator and website and worked with EMIS, the largest UK computer       supplier to integrate QRisk in their electronic record using minimal       additional data and no duplicated entry.
+This was complex, requiring       automated on- line real-time connection to a remote `cloud' calculator,       which returns the score to the GP record within milliseconds in a seamless       electronic tool for busy clinicians and their patients in the consulting       room.
+An app is now available.
+The new QRisk-lifetime score was presented       by the Joint British Societies to replace the previous Framingham score as       their preferred risk engine [9].
+QRisk has now been implemented by all GP system suppliers in England and       Wales.
+Other system suppliers use QRisk in community and pharmacy contexts       including Oskis, Wellpoint (kiosk/pharmacies), Telehealth       (kiosk/pharmacies), Cumbria Mental Health Trust, Informatica, Health       Diagnostics and Health Smart.
+These pharmacy and other community schemes       use QRisk as part of the NHS Health Checks programme (see below).
+By 2011 the NHS Health Checks programme had identified 2.8 million people       at high CVD risk who have been started on statins &#8212; most of whom are       likely to have been identified with QRisk (as EMIS covers 60% of GP       practices and QRisk is implemented on all other major computer systems) &#8212;       though some will have been identified with Framingham.
+As statins reduce       CVD events by 25% and the average risk of those identified is around 10%,       it is estimated that this programme is preventing 9,000 CVD deaths or       events every year &#8212; about 50,000 since the programme started in 2009.
+This       is a major public health achievement [10].
+4b: Uptake and use by the lay public and patient organisations       A key aspect of the QRisk website is that it can be used by an untrained       layperson to calculate their own cardiovascular risk, allowing       self-diagnosis and prompting people to attend their GP or pharmacist for       further investigation and advice.
+Public dissemination has been extensive       and QRisk is included on a number of websites including Patient UK,       National Prescribing Centre, NHS Health Check and NHS Improvement       websites.
+It was endorsed by the Director of the British Heart Foundation       and is included in their factsheets.
+The QRisk website is now being       accessed about 300,000 times a year, including 40,000 visits from outside       the UK.
+4c: Informing policy on NHS health checks       Dr Robson has been an advisor to the Department of Health on NHS Health       Checks and a member of the London NHS Health Checks Implementation Group.
+The NICE guideline [1 above], chaired by Dr Robson, provided the       scientific rationale and recommendation that underpinned the 2009 national       NHS Health Checks programme, which offers cardiovascular risk assessment       to all adults aged 40-74 years in England.
+On publication of NICE guidance       in 2007, the Department of Health endorsed QRisk for CVD risk estimation       in its NHS Checks programme [11,12] and used it to develop the economic       modelling underpinning the NHS Checks programme in 2008 [13].
+This       demonstrated that QRisk potentially provided better value than Framingham       for the &#163;200m annual cost of NHS Health Checks [13].
+In 2010, NICE revised       their original guidance to support the use of QRisk2 [14].
+QRisk       technology integrated into the GP electronic record has been an essential       component of implementation and instrumental to widespread adoption.
+4d: Informing methodological work on risk scores       QRisk development has contributed to the discussion on validation and       statistical comparison of models to predict risk, and to debates on       multiple imputation.
+For example, QRisk was a case study in a workshop       convened by the Foundation for Genomics and Population Health, Cambridge       [15,16].
+The debate around the use of routine GP data for predictive       purposes has highlighted the potential of large primary care datasets for       research purposes (eHealth records research capacity and capability MRC       2011).
+The open source QRisk calculator has been downloaded from the QRisk       website by over 500 separate organisations in the last year and has been       used by a number of UK universities (including SCHARR for the health       economic modelling for NICE), Cambridge and Imperial.
+QRISK&#174; is       a registered trademark and IP is protected by GNU licences.
+QRisk has had       an international impact &#8212; for example, an American paper on health       economic assessment used QRisk in an Austrian population [17] and an       American review highlighted the importance of socio-economic data in       predicting individual and population CVD risk [18].
+4e: Promoting development of further risk prediction scores       The principles behind the development of QRisk &#8212; using readily available       data items on GP systems to calculate real-time risk scores to inform       treatment decisions with patients and public health planning &#8212; have been       applied to other chronic conditions.
+These include diabetes risk scores       (with Dr Robson QDiabetes 2011 www.qdscore.org)       and cancer, osteoporotic fracture, renal disease and thrombosis risk tools       (Hippisely-Cox J www.QCancer.org).
+Prizes, awards and grants       In 2011, Dr Robson received a NICE Shared Learning Award for his work       implementing NICE guidance on cardiovascular disease and the John Perry       Award of the British Computer Society for his work on this topic.
+In 2011,       he was awarded a two-year NIHR grant to evaluate the NHS Health Checks       programme, which will study the extent to which QRisk has been       implemented.
+The team is an important component of CHAPTER &#8212; the       successful &#163;5m MRC eHealth bid (PI Harry Hemmingway UCL) as the primary       care `arm' of this bid.
+The team are working to develop data linkage and       to demonstrate the success of a new paradigm in improvement science &#8212;       using networks of local practices that have produced a step change in       process and outcomes.

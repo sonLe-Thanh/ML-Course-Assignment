@@ -1,0 +1,34 @@
+     Motors are at the heart of all electric machines including power tools,       pumps and aircraft; a car       alone can require hundreds of electric motors (including windows,       steering, wipers, etc.).
+For 25       years, Miller and his team within the SPEED Laboratory at the University       of Glasgow researched,       developed and maintained the world's leading software for the design of       electric machines.
+The       University of Glasgow SPEED Laboratory has created significant impact by:            improving motor design for industry across the world, underpinning the         development of         thousands of new motors for everyday machinery and a wide range of         industrial products.
+Millions of machines have been produced as a result of the SPEED         software.
+being successfully commercialised in 2011 and bought for an         undisclosed sum by CD-adapco,         the world's largest independent provider of computer-aided engineering         simulation software for         fluid dynamics and heat transfer.
+This secured excellent opportunities         for the future design,         research and innovation of electric machines.
+In the 1980s, modern electrical machines demanded new motor designs.
+An         experienced motor         engineer could take weeks to develop a new design without knowing if the         design was optimal.
+For         more mature machine types (induction motor and brushed DC), there was no         commercially         available design package.
+The SPEED software overcame all these         difficulties and was designed         for a range of modern motor types.
+It was user-friendly and provided         simulation solutions for         optimised designs in hours rather than weeks.
+SPEED increased         productivity, differentiated         product ranges and enabled the design of better motors.
+In addition, the         SPEED Laboratory         provided documentation and comprehensive training packages for all         companies who used the         software tools.
+From 2008, SPEED Laboratory research was funded through membership of         an industrial         consortium that included many of the world's leading manufacturers in         the electric machines sector         such as General Motors, Robert Bosch GmbH, Grundfos, Muirhead Aerospace,         Tecumseh         Company and General Electric Company.
+In addition, SPEED had         distributors of its software         based in the UK, USA, France, Germany, Australia, Japan, Korea and         Taiwan.
+Together these         generated around &#163;600k p/a from membership and licence fees and funded         ongoing research at         the University of Glasgow, including the incorporation of new techniques         and features into the         SPEED software.
+Until 2011 the research outputs of the SPEED Laboratory were shared         with the consortium         members through annual upgrades to the licensed SPEED software and via         regular training         courses in Glasgow and at the companies' premises across the world.
+Over         1000 engineers in         more than 60 member companies utilised the software as a key tool for         the design of electric         machines.
+As end users of SPEED, the following companies exemplify the impact it       has created:            Grundfos, the world's largest pump manufacturer, based in Denmark,         identify six products         developed from 2008 that have relied on the SPEED software.
+These new         products/ranges all         exceed European legislative requirements for energy efficiency.
+In the         years 2008-2013 the         annual volume of motors have been in the range from 10-14 million         units/year and products         associated with around 50% of sales have been designed or upgraded using         SPEED software.
+Tecumseh Company, one of the largest manufacturers of hermetic         compressors for refrigeration         and air conditioning in the world adopted the Speed Software in 2009.
+One market sub-segment         increased by 30% when a SPEED-designed compressor was introduced.
+General Motors rely on SPEED software to design the critical motors in         their hybrid and electric         vehicles, including those for propulsion and transmission.
+The Chevrolet         Volt was introduced in         2010 and had sold over 38,000 worldwide by June 2013.
+The Power Tools Division of the Bosch Group is the world market leader         for power tools,         accessories and measuring devices.
+In 2011, it generated sales of some         &#163;1.2 billion from         products introduced since 2009.
+SPEED software was used for the         development of two of these         product lines.
+Muirhead Aerospace recently used SPEED to `design two concentrated           winding brushless           motors for a large European Aerospace company for a helicopter landing           gear' and `sizeable           orders have been received.'
+Taking into account the global companies who have used and continue to       use SPEED, the       research has contributed to the generation of many billions of pounds of       economic impact.
+In 2011, CD-adapco acquired the SPEED Laboratory as part of its strategy       to remain competitive       in a world of ever-increasing performance and efficiency, therefore       propelling the company to the       forefront of electric machine design.
+SPEED was combined with the existing       STAR-CCM+       flow/thermal CFD-centric CAE software to introduce a new and unique       process for the design of       electric machines focused on their key markets of aerospace, automotive,       industrial and       refrigeration.
+Miller and McGilp joined CD-adapco in 2011 and the initial       impact of their       collaboration was the release of a new version of SPEED and an increase in       end users to over       1500.
+In 2012, CD-adapco opened an office in Glasgow - securing employment       for the staff from       the University Laboratory and demonstrating the company's commitment to       furthering electric       machine design.

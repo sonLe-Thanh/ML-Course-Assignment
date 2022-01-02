@@ -1,0 +1,33 @@
+     This research has delivered a step change in industrial membrane       filtration practices.
+For several decades, membrane-based filtration       processes have been a staple technology in a range of sectors.
+From the       1970s to the 1990s, however, membrane fouling became a bottleneck limiting       usage.
+The original research led by Cui and Field resulted in solutions       that have enjoyed rapid, extensive industrial take-up and delivered       substantial improvements in the efficiency and effectiveness of membrane       filtration; for instance, injecting air bubbles into membrane systems has       proved an economic, easy-to-implement fouling control technique that has       now been adopted by many membrane manufacturers and water companies       including Siemens, GE Water and Norit Membrane Technology BV, as well as       securing widespread recognition among membrane researchers in academia.
+Indeed, in the last decade, the research has led to a revolution in the       way membrane plants in the water industry are designed and operated.
+For       example, all MBRs now use low flux to achieve low fouling; and all MBRs       are operated with big bubble, rather than small bubble aeration.
+Both are       direct results triggered by the research undertaken by Cui and Field.
+Several companies have now developed processes based on air bubble       injection, for which Cui provided the design basis both through       publications or direct consultancy.
+They include:            The AirFlash&#174;, AquaFlexTM and Airlift&#8482; MBR (Fig.
+4)         developed by Norit Membrane Technology BV and now Pentair X-Flow.
+The         underlying process was developed by Cui in the mid-1990s [2, 7] around         10 years before the products came to market.
+The MemPulse&#8482; MBR system (Fig.
+5) developed by Siemens Water         Technologies (formerly US Filter and Memtec) [8].
+The adoption of gas         sparging in this was first described in [3].
+The ZeeWeed&#174; MBR systems developed by GE Water (formerly Zenon         Environmental).
+Cui's analysis helped to cut the energy cost of         filtration in these systems [8, 9].
+Fig.
+4: X-Flow Airlift&#8482; MBR &#8212; a commercially available system.
+Fig.
+5: Siemens' MemPulse&#8482; MBR &#8212; a commercial installation.
+Fig.
+5: Siemens' MemPulse&#8482; MBR &#8212; a commercial installation.
+In addition, Yorkshire Water has explored the use of Cui's concept for       water and wastewater treatment.
+Introduction of fouling control for       membrane processes used in food production has also significantly       increased productivity at Cargill Inc., the largest private company in the       US, by at least halving the downtime needed for cleaning during amino acid       production, according to their Senior Vice President [10].
+Similarly, Field's work on critical flux has created a paradigm shift in       membrane process design:            His contribution has been acknowledged by leading consultants.
+For         instance, according to the Director of Membrane Consultancy Associates:         "the `direct-flow' method of designing membrane filtration drinking         water plants (which is the new standard) was born out of critical flux         theory" [11].
+International researchers, including the Director of the Singapore         Membrane Technology Centre (SMTC), have widely recognised Field's         contribution [12].
+For nearly 10 years, Field has collaborated with the         Singapore group and contributed to SMTC's development into the largest         membrane research centre in the world today.
+Cui and Field's work has therefore benefited both users and suppliers of       membrane technology:     Economic Impact 1 &#8212; a growing market for membrane filtration     Rapid growth in membrane use is a direct outcome of the effective       mitigation of membrane fouling, to which the research has made a       significant contribution.
+Use of membranes within the water industry grew       by 20% per year worldwide between 1998 and 2008, the MBR market is       currently growing at 10.5% per year and the global desalination market now       exceeds US$19 billion [13].
+Economic Impact 2 &#8212; cost savings for industry     Users of membrane systems that incorporate findings from the research       have secured economic benefits through reductions in, for example,       membrane cleaning costs and the amount of energy consumed by membrane       filtration processes.
+Compared to traditional filtration processes,       membrane plants are also far more compact.
+Environmental Impact &#8212; benefits of reduced energy demand     Reduced energy use equates to a reduced carbon `footprint' for membrane       filtration processes, helping water companies and other users to achieve       their environmental targets.

@@ -1,0 +1,48 @@
+     Industry benefits from the Group's research work addressing key questions       on the viability of new non-destructive testing (NDT) methodology, and       developing equipment for their adoption.
+The spin-out company Sonemat has operated continuously throughout the REF       impact period.
+It has commercialised EMATs for NDT and engaged in a large       number of industrial-academic collaborative programmes.
+During its 9 year       existence, Sonemat has maintaining long-term sustainability as a small       enterprise without the need to dilute equity with external investment.
+It       has repaid the Dept.
+'s investment many times over, and made a year-on-year       increase in profits that are invested in the protection of intellectual       property of new strands of technology [12].
+As an SME, Sonemat has also       taken part as a validated EU Partner in several projects large EU       projects, such as `I-Rail' www.i-railproject.eu, in which it has       established itself in a key role in bringing leading technology to       industry via collaboration.
+Sonemat produces a range of off-the-shelf products for purchase by       industry and industrial researchers; it also uses the expertise of its       highly skilled researchers to provide bespoke products and consultancy       tailored to customer's needs.
+Sonemat's Director writes [12]:       "[A] fundamental understanding of ultrasonics [has led] to analytical       advances for the non- destructive testing (NDT) industry.
+The research       performed by Prof. Dixon into guided wave inspection of plates and pipes       has led to a significant improvement in industrial capability, and a       number of successful business collaborations with international NDT       inspection companies as we work with them developing real-world inspection       systems."
+Companies are enthusiastic about the application of the research into       industry, as this sample list of testimonies shows:     i.
+Senior Scientist [13] at TNO Netherlands writes "Corrosion is one of         the most important mechanisms of structural damage...affecting the         economy around the world (Oil and Gas, Chemical, Power generation, Civil         infrastructure, Public assets).
+The current annual cost of corrosion         worldwide is over 3% of the world's GDP (about US$2 trillion)"         TNO use         EMATs designed and developed by Dixon and Sonemat: "Their in-depth         knowledge together with their capability to translate our demanding         requirement to working prototypes has turned out to be very         valuable...led to a spin-off company called CiT         (www.cit-corrosion-Group.com).
+TNO's investment over the last few years         in this technology is about one million euros which is now generating a         steady turnover of several million a year [since 2011] on a variety of         related fields".
+ii.
+Ritec Inc., an established US equipment manufacturer and global leader         in high-power ultrasonics, whose Director [14], states "We do not         manufacture transducers ... arguably the most important component in an         ultrasonic measurement.
+This is where Sonemat comes in.
+... Not only         does Sonemat make EMATs well, but they are willing to design EMATs         tailored to a customer's application.
+Over the last two years,         approximately 5% of the systems we have sold are being used in         conjunction with EMATs manufactured by Sonemat."
+Ritec are developing a         tool for a large petroleum company for detecting corrosion and wall         thinning in pipelines.
+Corrosion is responsible for at least a quarter         of failures in the oil and gas industry, costin&#285; $1.4 billion in 2013.
+This project represents 8% of Ritec's total revenue in 2012-13; it has         "potential for significant growth over the next few years, and it would         have been difficult without Sonemat and Professor Dixon's expertise"         [14].
+iii.
+Director of Spectrum Subsea Inspection Services [15], a US company         specialising in NDE technologies for the petroleum industry writes:         "The significance to our customers can be put into perspective when         considering the EMAT inspection service we provide to our customers on         their oil platforms and oil refineries that cost billions of dollars to         build and maintain.
+The health, safety and future of these structures         relies of the quality and innovative methods and technologies we supply.
+The EMAT advancements from the Dixon Group and through Sonemat have         enabled my company to develop world leading technology and successfully         perform EMAT inspections never before accomplished."
+iv.
+Senior Integrity Engineer [16] at Sonomatic, a worldwide organisation         providing inspection services , writes "our largest client base is in         the challenging oil and gas industry, both upstream and         downstream...such customers include Shell, BP, Marathon, ConocoPhillips         and Chevron.
+We have invested over &#163;50,000 in producing a commercial         EMAT inspection product based on the technology developed within the         Dixon Group at Warwick...the EMAT system that has been developed         provides information on the condition of subsea and top-side pipelines         that may otherwise be un-inspectable".
+Dixon's research, undertaken through the RCNDE, which led to the       development of a new design of EMATs that can generate large ultrasonic       compression waves, has benefitted US manufacturer of non-destructive       testing solutions, Innerspec Technologies Inc..
+The CEO states [17]:       "The device has been incorporated into a novel, patented, ultrasonic       system designed to measure liquid levels in beverage cans on-line.
+Innerspec have invested in this development as we see it as a complete       change in technology and process in which we have focussed a stream of our       company strategy due to the overwhelming potential in the beverage       industry application and wider.
+We see this as a revolutionary approach to       fill level inspection - a transformation of the on-line measurement of       fill levels in beverage cans compared to previous practice and a       significant step change, based from the research of Professor Dixon."
+Research in eddy current driven testing [6] has brought important       economic benefits to several significant companies.
+In 2007, the Group       began a collaboration with Cummins Turbo Technologies, a global power       leader (with sales over $1 bn p.a.
+), on the eddy current inspection of       turbocharger components.
+This has benefited Cummins by incorporating the       improved techniques for sub-surface flaw detection in their casting       foundry, as suggested by the research work and introducing batch       modifications and processes that reduce scrap materials and field failures       and thereby provide long-term cost savings.
+A former Warwick EngD student,       now Senior Materials Engineer [18] leads the development of new inspection       techniques at Cummins and states:       "The research provided Cummins with a detection method for the       identification of critical surface and sub-surface casting defects,       through the novel use of eddy current technology, which has previously not       been possible.
+The availability of this detection tool has enabled us to       quantify the quality of our supplier castings with a greater resolution       and as a result has driven multiple casting improvement initiatives which       aim to improve the turbocharger durability, improving our reputation for       reliability and reducing warranty costs.
+Multiple other benefits stemmed       from the research, reaching beyond the objectives of the original project,       including a greater understanding of how the casting defects are       distributed within a casting and ... when and how life-limiting defects       can be introduced into the casting process."
+Other companies to benefit from this eddy current testing research       include Rolls Royce and RWE npower.
+Rolls Royce are starting to implement       eddy current array scanning technology, on the basis of a firm       understanding of its strengths and limitations; this will provide       significant cost savings and improved reliability [19].
+RWE have developed       their own Inspection Management Service www.nde.rwepi.com, using       specialised NDT applications from the Group's research.
+This has provided       significant savings in time and surface preparation costs.
+Head of NDT       [20]) states       "The original work we have benefitted from in this field resulted in       significant process cost and time savings during plant shutdowns.
+The       ability to use EMAT transducers to monitor boiler tube thicknesses without       having to surface prepare the component has saved on average &#163;10,000 per       unit shutdown."
+Many more collaborations occurred in the 2008-13 period from which       companies have derived impact; however, confidentiality restrictions (and       space) mean that not all can be described in detail.
+Those expounded on       above thus represent a sample to illustrate the breadth of our impact.

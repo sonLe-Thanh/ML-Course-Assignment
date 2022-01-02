@@ -1,0 +1,25 @@
+     The impact had five facets.
+It affected a decision pathway at Pfizer: the research gave strong         doubts into the viability of an on-going project and on this basis         Pfizer decided to terminate this project and redeploy the resources         elsewhere.
+This impact had clear financial implications, but Pfizer has         not revealed the value.
+Pfizer is part of a consortium in the US called the Centre for Protein         Therapeutics (which also includes most of the other major pharmaceutical         companies).
+The mathematical analysis, reported in the JTB paper, formed         the basis for a proposal by Pfizer for an experimental project by this         consortium.
+The proposal was ranked first out of all the proposals         competing for funding in this consortium.
+The project aims to exploit         the theoretical ideas by focusing on techniques to influence the         association constant of proteins such as antibodies.
+The impact has sector-wide implications as the major drug companies         such as Pfizer are now aware of the importance of both the dissociation         and the association constant in the efficacy of proteins and antibodies.
+As evidence of this secondary impact, a team at Bristol-Meyers Squibb Co         in the USA, has adapted the analysis and simulation techniques from this         project to their drug discovery process.
+They reported their results in         one of the highest impact industrial journals issued by the American         Association of Pharmaceutical Scientists: Chimalakonda et al, Amer.
+Assoc.
+Pharma.
+Sci.
+J.
+(2013), doi: 10.1208/s12248-013-9477-3.
+In the design of therapeutics, the question arose as to whether a         longer half-life antibody would be more likely to cause rebound in         antigen levels after treatment cessation.
+However, the rebound analysis         showed that this was not the case, allowing the Pfizer project to move         forward.
+On a more general level, this project gave new confidence to the idea         of using mathematical models as a guide in the early drug-discovery         process to develop and identify the most promising candidates.
+Pfizer stated;       "As the pharmaceutical industry strives to improve decision-making at         all stages of drug discovery and development, one aspect that has gained         attention is the ability to make more objective decisions, especially at         an early stage of projects, using quantitative tools.
+This collaboration         is at the forefront of this shift in expectations.
+A key aspect of the         mathematical analysis practiced by Dr Derks and Dr Aston is the ability         to draw general conclusions about the "design property space" that is         not suitable for a particular project &#8212; a conclusion that can elude a         purely simulation-based analysis.
+While being elegant, this aspect has         the hidden advantage of condensing a lot of information into simple         outputs that can be more easily conveyed to a non-quantitative audience,         and hence used in decision-making. "
+The principal impact occurred in the period 2011-2012, with research       interaction continuing which will further the mathematical modelling of       the discovery process in drug manufacturing.
+The team is currently working       on part 2 of the rebound paper, in collaboration with a new industrial       partner, MedImmune, the worldwide biologics research and development arm       of the international biopharmaceutical company AstraZeneca, based in       Cambridge.
+Further research and industry interaction: (a) a MMath       placement student was embedded in Neusentis (a part of Pfizer) for 7       months in 2013, working on 2 compartment TMDD models; (b) an EPSRC-DTG PhD       student will start in October 2013 under the supervision of Drs Aston and       Derks, in collaboration with Pfizer (a new team at Pfizer), to work on the       analysis of extended TMDD models; (c) funding is being sought for an       academic-industry partnership in the area of "Mechanistic Modelling of       Biologics".

@@ -1,0 +1,37 @@
+     Video Domain Technologies (VDT) Direct Limited, based in Mansfield,       approached the UoA in 2009 after being advised by a growth consultant to       investigate university collaboration as a source of expertise.
+Engagement       has since taken various forms, including a University-funded Innovation       Partnership involving several members of the UoA in technical consulting       activities (S. Reiff-Marganiec, R. Heckel, Emilio Tuosto in 2009-10) and       three Masters (MSc) projects co-supervised by R. Heckel in 2010-12.
+The initial focus of the products developed focused on the commercial       rather than residential use where they provide for curtailing of losses       (e.g.
+the theft of copper cables on rail lines or lead on churches).
+Traditional alarm systems involve the use of land-based servers which are       situated in physical buildings and monitored at computer screens.
+The       monitoring is often carried out by security company staff who lack       "on-the-spot" knowledge of what they are looking at and therefore find it       difficult to accurately interpret video footage.
+The collaboration has led to the development of novel alarm system       software called WebEye.
+The software enables the company to offer       an alarm system (Videofied) which has several advantages over traditional       systems.
+Uniquely, the alarm system consists of a network of       battery-operated video cameras which are triggered by motion sensors to       capture a 10-second video clip when movement is detected.
+The video       footage is then remotely transmitted to a web-based system received by       WebEye software.
+Internet servers receive the video and forward it to the       customer, using a web-based application chosen by the customer &#8212; Browser,       purpose built app, text message, email, Facebook or LinkedIn, for example.
+The recipients of the message are able to view the video footage, assess       whether a crime is taking place and take action if appropriate, within       seconds of the motion being detected.
+The academics enabled the product to be developed by informing the design       of the system, consulting on the technologies used in its implementation,       providing training to enable the company to take up the advice and       supporting the development of more innovative aspects in MSc projects       underpinned by Heckel's expertise in designing, reengineering and testing       web-based and service-oriented systems and Reiff-Marganiec's expertise in       context-aware systems and services.
+The work has informed the WebEye project in particular in view of the       location-based delivery of alarms to mobile clients, which requires       monitoring their locations based on the GPS sensors of these devices and       deciding which client (serving a mobile security guard) is best placed to       receive the alert, as well as in the service-oriented architecture of the       application itself.
+Managing Director of VDT had identified the potential for a web-based       alarm system but the company lacked technical expertise to deliver the       business idea.
+He said: "There is no doubt in my mind that WebEye would       not have been developed without the University of Leicester expertise.
+We       would not have taken the first steps and we wouldn't have had the       confidence to invest in this idea."
+The company is the first to market with this new system and there are two       novel and patented aspects:     1.
+Progressive alarm delivery &#8212; a cloud-based platform allows for       the use of mobile technologies for delivery of the alarm.
+This enables the       alert to be delivered to customers on the move, via their mobile phone, in       a progressive manner using different technologies, ie persistent       connection, push notification, sms, email, twitter, dependant on recipient       response or the lack of it.
+2.
+Alarm response monitoring &#8212; provision to monitor whether the       recipient has actioned the alert.
+The second point is of particular       importance and interest to insurance companies who are keen to establish       what remedial action has been taken following the triggering of an alarm.
+Most alarm systems operate on a "send and forget" basis, whereas the novel       systems continues to use different methods of communication &#8212; e.g.
+email,       social media, text alert &#8212; until an alarm is acknowledged by the       recipient.
+The new product has found a market need driven by an epidemic of copper       thefts across the UK over the past 10 years.
+Cabling at telephone       exchanges and electricity substations, church roofs and even manhole       covers are targeted by thieves.
+In 2011, experts estimated the total       annual cost to the UK of copper theft had grown to &#163;770 million with       emergency services, transport services and online business security being       undermined, as a result of railway lines and telephone networks being       routinely disabled by thefts.
+In 2011, Chief Superintendent Eamonn Carroll       of British Transport Police described the theft of copper cable as "the       next biggest priority after the terrorist threat.
+The disruption and the       problems it can cause are immense".
+More than &#163;1 million of the company's &#163;1.9 million turnover for 2012 was       directly attributed to sales of the new system.
+The VDT chief executive       said that the key market sectors currently using the WebEye alarm system       were the rail, ecclesiastical and construction markets.
+There are now 800       WebEye alarm systems operating in these sectors &#8212; 600 of them paid for,       with the other 200 operating on a demonstration-basis.
+These systems are       delivering cost, effectiveness and efficiency benefits for customers       including Network Rail, the Ecclesiastical Insurance Group, Bloor Homes       and Taylor Wimpey.
+The residential market (total 25 million homes in the UK) for WebEye is       now being targeted by a network of 30 installers in the UK.
+Agents for       WebEye have also been employed in the US, Australia, New Zealand and       Ireland to exploit commercial markets.
+As of July 2013, global security       providers Securitas were using the WebEye system in 15 test sites in the       US.

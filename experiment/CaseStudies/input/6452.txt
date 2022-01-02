@@ -1,0 +1,46 @@
+     The underpinning research demonstrated how complex mathematical       optimisation techniques can       bring about significant positive impacts on the quality of rostering for       staff and employers across       areas as far-reaching as call centres, hospitals and care homes.
+Call centres.
+Initially the impact was realised within the call       centres at Scottish and Southern       Energy (SSE).
+SSE had succeeded in strengthening its customer base       substantially by 2008, due       in large part to the high quality of its call centre agents.
+A       sophisticated team-working system was       being used, based on a complex rotational roster.
+Glass was approached "to         assess the degree to         which SSE's current rostering methodology is `employee friendly', and to         offer a `health check' on         workforce management practices"[1].Glass and Knight successfully       adapted their implicit ILP       optimiser methodology to handle the complexity of team-working, to       accommodate fairness       between staff and to improve night working arrangements and rest periods       between shifts, in line       with ergonomic guidelines [2].
+The accuracy of the optimiser enabled them       to match staff       availability to requirements with 12% fewer staff, equivalent to a       year-on-year saving of &#163;5.5M p.a.
+At a follow-on meeting SSE confirmed that: "City's employee rostering         approach fits well with our         focus on Customer Experience ... it has the potential to keep employees         happier while at the same         time reducing employment costs.
+"[3]     Doctor and nurse rostering in the NHS.
+Around the time of the SSE       work, there were increasing       concerns in the NHS with regard to the rostering of nurses and junior       doctors and compliance with       the newly-introduced European Working Time Directive (EWTD) and the New       Deal.
+The       importance of rostering was highlighted by the Royal College of       Physicians' 2006 report [4] which       identified a 35% reduction in fatigue factors of doctors achieved by good       rota-making practice       alone.
+As a result, Glass and Knight started to work on how City's       optimiser could enhance the       quality of rosters for both doctors and nurses in the NHS.
+Between 2008       and 2009 they worked       with collaborators at two NHS hospitals: Dr Landau of Whittington       Hospital, London and Dr Todd of       the Horton Hospital, Oxfordshire.
+Glass and Knight worked with Dr Landau to capture the challenge of       rostering junior doctors in the       Emergency Department.
+They developed optimised rosters with ergonomic       features, within the       NHS mode of rotational rolling rosters, known as rotas.
+Dr Landau was "delighted         with the quality         of the rotas and being able to quickly produce a rota for any number of         doctors of different levels of         seniority.
+We usually work from a long-standing template, but on this         occasion we needed to         accommodate an extra doctor into the rota, which is extremely difficult         to do manually.
+In addition,         it saves me the many hours of work it would otherwise take to produce a         compliant rota."
+[5]     Dr Todd was responsible for rostering the Accident &amp; Emergency       Department's junior doctors.
+An       initial four-month trial of the City software was undertaken in 2009.
+Dr       Todd's evaluation is that "the         new rosters produced for junior doctors accommodate most holiday         requests and distribute fairly         the number of hours worked, days on leave, weekends off and bank         holidays, none of which are         normally considered.
+The quality of the rosters is greatly improved by         the fact that they are able to         limit both number of consecutive night duties and the number of         consecutive days while still         covering the work and complying with the New Deal and EWTD.
+Feedback         from Junior Doctors         confirmed that the computer-generated rostering system helpfully         improves on fixed rolling rotas."
+[6]     A 2011 report by the Economist Intelligence Unit [7] confirmed       that City's nurse rostering software       demonstrates improved quality and can accommodate flexible working.
+Dean       Fathers, now Chair       of Bassetlaw Primary Care Trust, testified that "City's system would         help the NHS to avoid wasting         resources and avoid hefty fines for non-compliance with regulations such         as the Working Time         Directive.
+Health sector employers are particularly vulnerable to         litigation, given the long hours         worked and the stressful conditions faced by many medical staff."
+Helen Young, Executive Clinical       Director and Chief Nurse at NHS Direct, stated that inefficient rostering       systems &#8212; manual       or       electronic &#8212; can result in financial penalties and clinical safety issues.
+At this juncture, further research stopped temporarily due to the       long-term sickness of Dr Knight       and it resumed in 2011.
+In the intervening years, the NHS adopted       so-called nurse e-rostering       systems and the market is now dominated by a few large players.
+These have       recently offered       some automation but this is limited to heuristics with no account taken of       the fatigue and risk       aspects of a roster.
+Glass was approached by the Chief Executive of an NHS       Trust in July 2013       seeking to investigate ways the City optimiser could be adopted to       encourage better rostering       practice.
+Care homes have arguably the greatest need for automated rostering       as almost all of the 18,000       care homes in the UK currently use labour-intensive manual rostering.
+In       2011 City started to       collaborate with Ian Turner, currently National Chairman of the Registered       Nursing Homes       Association (RNHA), to develop a rostering system for care homes.
+A       rudimentary system was       trialled in 2012 by Turner's The Partnership in Care Group of nursing       homes in Suffolk.
+As a result       of feedback, an upgraded system, named Roster Care, was piloted in four       additional nursing       homes from June 2013 and received extremely positive feedback.
+The system       has been found to       save 12 days per year in staff time for producing rosters alone.
+Ian       Turner observed: "This is a very         exciting development for the care homes sector.
+The underlying software         is good and we have         worked closely on the user interface.
+Our staff have embraced the idea         enthusiastically and they         will certainly be looking to use it in our homes.
+...the benefits         offered by this innovation will apply         equally across the whole sector.
+One of the key issues for us is that         the majority of our staff work         part-time and have other commitments, making rostering difficult for us.
+The idea that we can use         this feature to our advantage through shift management and recruitment         strategy has been a real         eye-opener.
+Being able to prepare the roster so that it is fair to all         staff, closely matches hourly         requirements and also being able to juggle it in real time for         unforeseen changes, helps us to         ensure that quality of care is maintained at all times, our staff are         not burnt out and that our         budgets are being used as efficiently as possible."
+[8] The       University is now exploring mechanisms       for the commercialisation of Roster Care.
+City's rostering software has already shown that it can make a       significant impact in the health and       welfare domain by improving outcomes in the NHS and social care sectors       where all key       stakeholders (organisations, employees and patients) are beneficiaries.
+It       has improved the       workforce planning and management of human resources in organisations       where it has been       trialled and piloted (the NHS and care homes); has demonstrated reduction       in measurements of       fatigue and risk (call centres and the NHS) and more conducive rosters to       the satisfaction of staff       (junior doctors and care homes); has demonstrated to the satisfaction of       managers a new efficient       way of implementing legislative changes affecting work patterns, hence       reducing the number of       fines (NHS); has been acclaimed for its cost-effectiveness and efficiency       in delivering services       through better matched staffing levels (all), for releasing staff time       (doctors and care homes) and       for its ability to reduce staff turnover through fairer rosters and more       even workload (call centres       and nurses); and challenged conventional wisdom over the benefits of       e-rostering software for       organisations (the NHS and care homes).

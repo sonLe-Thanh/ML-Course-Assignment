@@ -1,0 +1,44 @@
+     Impact was achieved first commercially and then in a clinical       application.
+Although there have       been minor contributions from collaborators regarding the clinical work,       all impact claimed here is       a direct result of research conducted only at the University of Edinburgh       [5.GRE].
+This starts from       the basic components required to convert text into speech, implemented as       the Festival toolkit.
+This is combined with the speaker adaptation and noise robustness of       Yamagishi's work       embodied in the HTS toolkit.
+Together, Festival and HTS have had       substantial impact on the       speech technology industry [5.CON; 5.TAY].
+Adding to this our unique       ability to repair disordered       speech has led to an assistive technology application which enhances the       quality of life of people       with speech disorders [5.DON].
+Our techniques work automatically from       data: they can be       deployed widely and cost-effectively.
+A small-scale clinical service has       already benefitted patients.
+There is a funded roadmap to a full service for patients (funding: MNDA       &amp; MRC).
+Commercial R&amp;D: Our tools are widely used as a research       &amp; development framework by industry       [5.TAY; 5.CON; 5.FIN].
+This represents a major form of impact for every       individual research       contribution embodied in them and a reach extending to most of the large       industry players.
+The       release of working implementations has higher impact than the published       papers, since re-implementing       complex techniques is time-consuming and expensive [5.TEC].
+Evidence for       the       reach and significance of this impact for both corporations and other       companies during the period       2008-2013 can be found at any workshop or conference, where typically       around half of all papers       presented are based on research performed using the Festival and HTS       toolkits with an estimated       one quarter of all papers coming from industry groups.
+A typical example       is Proc Interspeech       2010, where the majority (9/14) of papers on speech synthesis authored by       researchers in       industrial labs used either Festival or HTS to conduct their experiments.
+The documentation for       the various releases of Festival (online manuals and papers describing the       architecture) have       been cited over 400 times between 1 Jan 2008&#8212;31 July 2013 (source: Google       Scholar), again       with an estimated one quarter of these being from industry.
+According to a       senior researcher at       AT&amp;T "almost every industrial researcher in the field has used or is       familiar with both Festival and       HTS" [5.CON].
+Commercial products: Festival is released as Open Source       under an unrestrictive license.
+It has       formed the basis of products and led to company formations [5.SPN].
+A       direct spinout from CSTR,       Rhetorical Systems, led to follow-on companies (Phonetic Arts,       CereProc)&#8212;see below for more       detail&#8212;and to continued use of Festival and HTS by major corporations       including AT&amp;T [5.CON],       Nuance, Google [5.TAY] and Microsoft.
+We also license specific       technologies on a commercial       basis to a wider group of companies.
+Our Combilex dictionary system has       been licensed to       companies in the UK, Eire, Switzerland, Poland, USA, China (&#163;31K to date);       our voice databases       and the tools developed for our clinical application, which are also       available for non-clinical use on       healthy voices, have been licensed to companies in the UK, Poland, USA       (&#163;9.5K to date) [5.LIC].
+Google's current speech synthesis group and the speech synthesis company       CereProc both have       their roots in Festival.
+Taylor (CSTR 1993-2001) founded Rhetorical       Systems in 2000, which used       Festival as the basis for its commercial product rVoice.
+Rhetorical       Systems was then acquired by       Nuance in 2004 for &#163;3.6 million.
+Taylor then founded follow-on company       Phonetic Arts in 2006; in       2010 it had a turnover of &#163;154K from products including a unit-selection       text-to-speech system       closely following the approach in Festival.
+Google's current speech       synthesis group was formed       by acquiring Phonetic Arts in 2010 for an undisclosed sum.
+As their       Technical Lead of TTS has       stated, the impact of TTS at Google is "huge," with millions of unique       users of their TTS systems       every day; Festival has been "highly influential" for their system, and       their speech synthesizer "has       its roots in HTS" [5.TAY].
+Aylett (CSTR 1999-2000, 2006-09, 2012-ongoing)       was also involved in       Rhetorical Systems (2004-05), and founded CereProc in 2005.
+This company       is still trading and       has a unit-selection product which closely follows the Festival approach,       and a statistical       parametric product based on the HTS code.
+AT&amp;T continues to develop their own commercial product based on the       Festival architecture       [5.CON].
+CSTR's recent speech animation spinout Speech Graphics, formed in 2010       and still trading, is       based on research conducted in CSTR, including the speech synthesis       research outlined in       section 2.
+Its customers include Supermassive Games and Havok; in 2011 it       was awarded a       prestigious John Logie Baird Innovation Award for Knowledge Transfer, in       2012 it was a finalist in       the TIGA (trade body of the UK Games Industry) Awards.
+Benchmarking and evaluation: Festival and HTS are both       important reference implementations       for industry well beyond our own spinouts [5.TAY].
+Our systems have become       the benchmarks by       which other systems are judged, mainly because of the high quality speech       they generate but also       because they are publicly available and provide reproducible results.
+Every year since 2005, they       have been used as benchmarks in the Blizzard Challenge, a competitive       evaluation, organised by       King, of systems from companies including Microsoft, IBM, iFLYTEK, IVONA,       Voiceware, Nokia       alongside those from leading research groups worldwide [5.BLZ].
+This is       the only place where       direct comparisons can be made between commercial systems.
+The Challenge       is funded by       industry subscriptions, cash awards from Google [5.FIN; 5.TAY] and       contributions in kind from       Phonetic Arts, Toshiba, Lessac Technologies, ATR, IVONA/Amazon and       Loquendo [5.BLZ].
+Evidence of the importance of Blizzard to the industry is demonstrated by       the high levels of       participation in the Challenge itself and the attendance at the workshop       of senior industry figures.
+"The most prestigious event in the calendar facilitating an exchange of       ideas among those       conducting research into speech synthesis [...] a unique opportunity to       compare different state-of-the-art       TTS technologies with a view to discovering innovative solutions aimed at       improving the       quality and accuracy of text to speech" (Paul Coppo of Loquendo [5.BLZ]).
+Clinical: The first pilot study with Motor Neurone Disease       sufferer Euan MacDonald using a 3-minute       sample of his voice was conducted in 2010; the resulting voice is now       installed on his eye-tracking-based       communication device and is in daily use [5.DON].
+The next phase involved       a       more extensive trial using a voice banking service (one hour of speech       from each of 600 people,       including the Scottish First Minister and many MSPs) to gather the data       needed to train the       underlying statistical model, and treating more patients.
+Everyone who       contributes their voice for       use in reconstructing patients' voices, also has an insurance policy in       the event their own voice       becomes disordered.
+We have successfully provided 10+ patients with a       reconstructed voice that       they can use on a smartphone or tablet [5.DON].
+Further evidence of the       impact includes funding       awarded because of the success of initial trials, including donations made       by the MacDonald       family in 2010-12 [5.DON], an MRC Confidence in Concept award (awarded       early 2013) and       funding from the charity MNDA (awarded late 2012) sustaining this project       into the clinical trial       phase; and purpose-built recording facilities designed to our       specification at the new Anne       Rowling Regenerative Neurology Clinic (opened 2013), funded from a       donation made by J. K.       Rowling.

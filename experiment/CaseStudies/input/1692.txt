@@ -1,0 +1,23 @@
+     Cranfield's research in manufacturing and measuring has led to production       techniques and machines that have transformed the manufacture of       ultra-precision surfaces such as the mirrors used in space telescopes.
+A       spinout company has taken Cranfield's research and created a multimillion       pound business.
+The research has also laid the foundations for a new       definition of the kelvin in a radical revision of the SI unit system.
+Major elements of impact include:            UPS2-IKC [G4, G5] designed and built a large-scale         diamond-turning and structuring facility, implementing the production         research it had funded.
+Cranfield staff operate this commercially on a         site now managed by Glynd&#373;r University.
+Trading as UPS2, it         is recognised by its customers as the world's leading commercial         facility [C1, C2, C3] for the supply of ultra-precision large-scale         structured drums for making structures such as lenses.
+UPS2 has         sold in excess of &#163;2 million of product in three years to more than 30         customers, several of which are global industrial companies with         household names, such as 3M, Samsung, Microsoft, and Amazon.
+Optropreneurs Ltd was industrial co-creator of the UPS2-IKC         proposal to EPSRC [G4, G5].
+In 2008, with assistance of UPS2-IKC         and based on production technology developed through the UPS project         [G2] reported in [P2], Optropreneurs secured a &#8364;5 million contract from         ESO to manufacture prototype primary mirror segments for the world's         largest telescope [C4].
+ESO's European Extremely Large Telescope (E-ELT)         Construction Proposal [C5] identified the Cranfield Box grinding machine         for its production planning for the primary mirrors [P3,P4].
+Contracts         for their manufacture will be valued at &gt; &#163;100 million to the         selected contractor.
+The James Webb Space Telescope (JWST), NASA's replacement for the         Hubble Space Telescope, is due to be deployed in or after 2018.
+A         principal aim is to find life-supporting earth-like planets.
+Cranfield         made more mirror surfaces for JWST than any other organisation.
+The         mirror surfaces (accurate to &lt; 10nm RMS) were made on machines         designed and built at Cranfield using novel machining and metrology         techniques, since copied elsewhere.
+The Mid InfraRed Instrument (MIRI)         made in the UK containing the Cranfield mirrors has been delivered to         NASA [C6].
+This impact has been publicly recognised by NASA [C7].
+A radical revision of the SI unit system is underway, involving the         redefinition of its seven base units in terms of fundamental constants.
+This achievement of unprecedented low uncertainty of measurement would         have been impossible without Cranfield's research in manufacturing and         measuring [C9].
+The kelvin will be defined within two years in terms of         the Boltzmann constant.
+A UK team, including scientists from Cranfield,         has completed the lowest uncertainty temperature measurement ever         performed, establishing a new estimate of the value of the Boltzmann         constant, which for the first time is accurate enough to meet the         kelvin's redefinition criteria.
+The measurement has been founded on the         accuracy of manufacturing of a new configuration of acoustic resonator         made at Cranfield, based on world-leading research in surface generation         through freeform diamond turning and freeform surface metrology.
+This         means the value of the kelvin and all temperature measurements           worldwide &#8212; or more explicitly the traceability of the kelvin's         universal definition from the Boltzmann constant &#8212; will be secured by         the accuracy of machining and measurement of the Cranfield apparatus         [C8].

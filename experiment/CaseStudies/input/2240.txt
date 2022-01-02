@@ -1,0 +1,39 @@
+ The challenge of dementia Dementia is one of the largest issues facing society today, with 35.6 million people affected worldwide &#8212; a prevalence of nearly 5% in those aged over 65.
+The 2009 World Alzheimer's report (EV a) estimates that dementia has an annual global cost of $315 billion, and contributes nearly 1% of all Disability Adjusted Life Years (DALYs).
+However, since dementia is largely a disease of older people, in the over 60s it accounts for 4.1% of DALYs and 11.3% of Years Lived with Disability worldwide.
+The most common type of dementia after Alzheimer's disease is dementia with Lewy bodies (DLB) which, together with the related disorder Parkinson's disease dementia (PDD), comprise 15-20% of all dementias in older people (EV b, c, d).
+DLB and PDD are characterised by persistent and disabling psychiatric symptoms, which cannot be managed using standard anti-psychotic (neuroleptic) treatments because of increased morbidity specific to DLB, such as deterioration of cognition and increased parkinsonism.
+European guidelines from 2012 state: "[patients with DLB] show a propensity to have exaggerated adverse reactions to neuroleptic drugs, with a significantly increased morbidity and mortality."
+(EV e).
+This specific sensitivity was originally recognised by Newcastle researchers (McKeith et al.
+1992 BMJ, PMID: 1356550).
+The impact of Newcastle research on guidelines Newcastle work found that CHEIs significantly reduce psychiatric symptoms and improve cognition, without substantial risk of side effects.
+As a consequence, CHEIs are now widely recommended for use in both DLB and PDD.
+This is the first time treatment has been available to manage the symptoms of these conditions.
+NICE clinical guideline 42, updated in March 2011, (EV f, p 36) recommends that people with DLB should be offered a CHEI under certain conditions: "People with DLB who have non-cognitive symptoms causing significant distress to the individual, or leading to behaviour that challenges, should be offered an acetylcholinesterase inhibitor."
+The guidelines include R4 as the only trial to compare the CHEI rivastigime to placebo in DLB.
+These guidelines also report that "Overall, the results of the economic analysis indicate that acetylcholinesterase inhibitors are likely to be a cost-effective treatment option for people with DLB experiencing non-cognitive symptoms" (EV f, pg 257), drawing on R4 as the sole source of effectiveness data.
+The 2011 Consensus statement from the British Association of Psychopharmacology (EV b) gives a category A (strongest) recommendation of the use of CHEIs in both DLB and PDD: "There is type I evidence [strongest] to support treatment with cholinesterase inhibitors in ... both dementia with Lewy bodies and Parkinson's disease dementia and that both cognitive and neuropsychiatric symptoms improve" (pg.
+1004).
+Within these guidelines, R4 forms part of the evidence that "[randomised controlled trials] of cholinesterase inhibitors have demonstrated benefit in cognitive and non-cognitive symptoms in DLB and PDD" (pg.
+1003).
+These guidelines also state that CHEIs improve patient quality of life, for example alleviating symptoms such as hallucinations, apathy, anxiety and sleep disorders (pg.
+1003).
+Recent guidelines from the European Federation of Neurological Societies (2012, EV e) also recognise the benefit of CHEIs in DLB patients, stating that "patients with DLB respond to cholinesterase inhibitors with improvement in cognitive and psychiatric symptoms" (pg.
+1176).
+In terms of patient quality of life, these guidelines state that "Cholinesterase inhibitors... also may decrease or prevent psychotic symptoms, particularly hallucinations... and DLB" (pg.
+1177).
+These guidelines draw on the 2012 Cochrane review by Rolinski et al., in which the only paper to support use of CHEIs in DLB is R4.
+The impact of Newcastle research on drug prescribing in clinical practice Newcastle work has revolutionised the drug management of patients with DLB and PDD, allowing the disabling symptoms to be managed for the first time.
+Using the results and methodology of Newcastle research into CHEI use in DLB, a later study (Emre et al.)
+showed that rivastigmine was effective in PDD.
+This provided evidence for the Medicines and Healthcare products Regulatory Agency (MHRA) granting the first UK licence to use CHEIs in PDD in November 2009 (licence number PL 10622/0450, EV g).
+Since then, six further licences have been granted to companies worldwide, including the US and UK (EV g).
+Trials to support similar licensing for DLB remain ongoing, although practice guidelines (EV b, e, f) support the widespread off-licence use of CHEIs in DLB.
+The Professor of Biological Psychiatry at the University of Southampton (EV h), states: "As a university researcher in dementia I can state that cholinesterase inhibitors ... are widely prescribed across the UK and the world for the condition of dementia with Lewy bodies...
+The evidence produced by Prof McKeith was sufficient for the prescribing of these drugs to gain a drug licence and was sufficiently compelling for inclusion in the 2011 British Association of Psychopharmacology treatment guidelines...
+It is common practice [to prescribe] these drugs which have resulted in much patient benefit for both the patient's cognition and other associated psychopathology."
+The National Clinical Director for Dementia, NHS England (EV i), has stated: "The recognition of Lewy bodies as a cause of dementia and its unique clinical characteristics have been made possible by the work and descriptions of the Newcastle group ... the basic science and cutting edge translational research which highlighted the benefits of the cholinesterase drugs ... has had a significant influence on clinical practice."
+Summary Newcastle work showed that CHEIs were effective in patients with DLB and PDD, whose symptoms could not be managed using existing drugs.
+This allowed an extension of the use of CHEIs, demonstrated by their recommendation in national and European guidelines, and MHRA licensing since 2009.
+CHEIs are now widely used to treat the disabling symptoms of DLB and PDD, improving patient quality of life.

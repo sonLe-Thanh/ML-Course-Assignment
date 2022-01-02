@@ -1,0 +1,37 @@
+     There are two main areas where IMPUTE software has made an economic       impact on companies       working in the area of genetics and pharmaceuticals:            IMPUTE has had a significant impact on the company Affymetrix.
+It has         led to the         introduction of new products and has significantly changed a design         process.
+The company         has benefited by recently winning a genotyping contract worth ~&#163;25M.
+IMPUTE has led to the improvement of a drug response study carried out         by Roche.
+This         saved the company an estimated ~$1,000,000.
+Affymetrix licensed the source code for both IMPUTE v1 (2009) and v2       (2010) from Oxford       University for &#163;250,000 [A].
+Affymetrix use Impute v2 as a central part of       the process of designing       both generic and custom-made SNP chips (a chip is a collection of       microscopic DNA spots       attached to a solid surface).
+In addition, licences for use of the       software, without the source code,       worth ~&#163;70,000 in total have been sold to Genentech (2008),       GlaxoSmithKline (2008),       Biocomputing Platforms Ltd. (2009) and PGxHealth (2010) [A].
+IMPUTE has       also been used in a       study of drug response by Roche via a 2011 consultancy agreement with       Marchini.
+Optimizing product design at Affymetrix using IMPUTE     Genotype imputation is now a central method in human genetics utilized by       researchers carrying       out GWAS.
+The method is usually applied to data collected from genome-wide       SNP arrays.
+Affymetrix is a $300M US company that makes such arrays together with the       equipment and       reagents to run the experiments.
+Such equipment is essential in any lab       carrying out its own       GWAS.
+The company has used IMPUTE in the design process for a new series of       population-specific       arrays called the "AxiomTM Genome-Wide EUR, EAS, LAT and AFR Arrays",       targeted at the       European, East Asian, Latino and African populations.
+These arrays are       sold commercially to       research groups carrying out GWAS [B,C].
+Affymetrix recently won the bids       to genotype &gt;500,000       participants for the UKBiLEVE (http://www.mrc.ac.uk/Newspublications/News/MRC008925)       and       UK Biobank (http://www.ukbiobank.ac.uk/)       studies, with a total study cost of ~&#163;25M.
+The UK       Biobank project is the largest single genotyping study on record in the       world as well as the largest       single project in the Affymetrix Genotypic revenue base [B].
+The company       states that "a significant         competitive advantage of the Affymetrix proposal was a custom GWAS grid         that draws significant         power from using IMPUTE2 in its design" [D].
+The Vice President for Informatics at Affymetrix says in [B] "The         impute software that we licenced         from Oxford University has been used extensively at Affymetrix and is an         essential tool used to         compute and describe the coverage of our genotypic arrays.
+[...]         In particular, the SNPs on these         arrays were selected in such a way as to maximize imputation coverage.
+This has made a         significant impact in the way we design arrays and could not have         happened without using         IMPUTE2, which has been shown to be the most accurate method         of imputation in the literature.
+[...] Affymetrix had total revenues of about $300 million in 2012 and         is using IMPUTE2 in the         design and dissemination of all its genotyping products Affymetrix has a         significant and rapidly         growing share of the worldwide market for genotyping arrays, the size of         which is on the order of         $600m million annually."
+Roche saved ~$1,000,000 by using IMPUTE in a study of drug response     Pharmacogenetics is a particular type of GWAS applied to subjects that do       or do not have an       adverse reaction to a particular medication.
+Many medications exhibit a       variable response rate that       is thought to be partly genetic.
+Therefore, there is a great interest in       discovering biomarkers that       aid physician decision making, through the identification of patients who       will or will not respond,       and therefore derive greater benefit from a particular therapy.
+The pharmaceutical company Roche has investigated the genetics of       response to the drug       tocilizumab for the treatment of rheumatoid arthritis (RA).
+Tocilizumab is       prescribed to RA patients       who had inadequate response to disease modifying anti-rheumatic drugs.
+Genotype imputation       using IMPUTE v2 was used in this study to combine studies together for       greater power.
+Since the       subjects in these studies had a variety of different ancestries the use of       IMPUTE v2 together with       the HapMap3 reference panel provided an ideal and practical solution to       the prediction of the       unobserved genotypes in each study.
+The study was able to implicate the       involvement of 8 loci in       the patient response to tocilizumab treatment.
+Patients carrying the       specific genetic markers had a       higher remission compared to those who did not [F].
+The Roche study used three different Illumina genotyping chips (550K,       Human1M-Duo and       HumanOmni1-Quad) on different sets of individuals.
+A Senior Statistical       Scientist at Roche [E]       states "The IMPUTE program was used and generated high quality data for         the union set of SNPs         on the three chips.
+This allowed us to analyse the data from all 1600         patients together.....Without         the genetic data imputation carried out with IMPUTE, the best way to         reproduce the study would be         to genotype all study samples using an IlluminaOmni1-Quad chip.
+This         would have involved re-         genotyping 1,157 samples at a cost of $750 each plus an additional         operational cost of 20%.
+Therefore the total cost saving is ~$1,000,000.
+In addition to the cost         saving, the imputation work         also allowed us to save time and complete the analysis in time to meet         decision timelines set by         the development program".

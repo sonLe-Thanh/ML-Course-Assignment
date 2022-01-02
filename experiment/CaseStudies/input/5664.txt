@@ -1,0 +1,44 @@
+     Two major impacts can be traced from the Southampton SST research group:     A) The new capability to produce high-resolution blended SST datasets       through the Group for High Resolution Sea Surface Temperature (GHRSST) [5.1].
+Such datasets have rapidly become an essential link in the data chain by       which ocean satellites improve the operational forecasting of       environmental conditions on land and at sea.
+They are used by US,       European, Japanese and Australian agencies to improve the reliability of       daily SST maps and hence weather forecasts.
+B) The new use of shipborne radiometry to establish the absolute accuracy       of satellite SST measurements, traceable to international references,       allows global time series to be used with enhanced confidence for       monitoring the changes in spatial and temporal patterns of SST in response       to climate change.
+A) Southampton's SST research activities contributed directly to the       creation of the GHRSST in 2002 through having trained its founding       director, Craig Donlon, and by supplying several Science Team members.
+Their role in the successful evolution of GHRSST was to provide the       scientific understanding of temperature structure near the ocean surface.
+This understanding was needed to underpin the procedures in the GHRSST       Data Specification which is the "recipe" for successfully blending data       from different satellites.
+Donlon et al.
+[3.3] describes the       challenge of persuading several major agencies to agree to a common       protocol for processing SST measurement from satellites.
+The newly       specified GHRSST products were first prototyped by the Medspiration       project [3.4] led from Southampton (2004-2008), that confirmed the       effectiveness of the GHRSST approach.
+Until this point global SST data       from individual satellite sensors had been inadequate for operational       applications requiring daily SST at fine spatial resolution.
+By 2008,       Medspiration data products, including AATSR data, were used routinely by       agencies around the world as the primary source for creating their own SST       analysis products.
+In 2009, the AATSR Exploitation Board acknowledged       that,     "During the past two years, the operational use of (A)ATSR data has         taken a major step forward as a result of the ESA-funded Medspiration         project, the European backbone of GHRSST-PP".
+"A consensus view         is emerging that (A)ATSR data, although offering less coverage than         other sensors, are the most accurate available and can be used in         multi-sensor analysis schemes as the benchmark against which data from         other sensors can be bias-corrected" [5.2].
+Since 2008 the       UK Met Office has been producing their own daily global SST analysis,       OSTIA, that first grew from the availability of Medspiration products.
+The       Met Office operational Numerical Weather Prediction system switched to use       OSTIA after rapid melting of Arctic ice in 2007 had revealed problems in       their previous SST analysis.
+This change has measurably reduced errors [5.3]       and improved the quality of weather forecasts.
+GHRSST is now a truly international collaboration with over US$18 million       invested across all of the project activities [5.4].
+It provides       the framework within which all satellite SST data can be shared, indexed,       processed, quality controlled, analysed and documented.
+Global and       regional SST products are now produced by GHRSST regional data assembly       centres in Australia, Japan, USA and Europe.
+SST products are passed in       near real time to operational GHRSST global data assembly centres where       they are integrated together into reliable, error-quantified, analysed SST       maps, irrespective of cloud or weather.
+High resolution SST maps based on GHRSST principles have become essential       inputs to local weather forecasting models in many parts of the world       making routine forecasts for many sectors of society.
+Meteorological       agencies aim, for example, to issue flood warnings, predict the extent of       ice on highways, or forecast rain probabilities in sufficient local detail       that users as diverse as water companies, road gritters or farmers at       harvest time can depend on them.
+The same SST maps are also needed by       ocean forecasting systems for offshore industry and military operations,       validation and forcing of ocean and atmospheric models, ecosystem       assessment, tourism and fisheries research, amongst many others.
+[5.5].
+B) Southampton's development of the autonomous ship radiometer (ISAR)       introduced a significant improvement to the quality assessment of       satellite SST data.
+Comparison between satellite and ISAR measurements,       which both observe the skin SST, completely eliminates the ~0.3K       uncertainty from estimating &#916;T when using buoy measurements in       conventional validation.
+ISAR's calibration to better than 0.1K allows       validation of AATSR data to an equivalent precision for each individual       match-up between satellite and in situ observations.
+The high       quality of AATSR data confirmed by ISAR [3.6] has encouraged       widespread use of AATSR.
+It justifies the use of AATSR for bias adjustment       of inferior SST datasets when producing analysed SST maps [5.2]       with reliably estimated uncertainties.
+This is particularly valuable for       operational forecasting applications where quantification of forecasting       uncertainty is critical such as search and rescue or route-planning for       sea transport of large structures [5.5].
+The Global Climate Observing System (GCOS) is the international body       established to ensure that the observations and information needed to       address climate-related issues are obtained and made available to all       potential users.
+It has defined 50 Essential Climate Variables (ECV), of       which SST is one, that are necessary to support the work of the United       Nations Framework Convention on Climate Change and the Intergovernmental       Panel on Climate Change (IPCC).
+Because ISAR is subjected to validation       against an infrared radiation source before and after each autonomous       deployment, every SST measurement is traceable to the S.I.
+reference       standards against which the radiation source is tested.
+Thus accumulated       ISAR observations can be treated as a SST "reference dataset", meeting the       strict traceability requirements of the GCOS and are therefore useful for       independent validation of other SST ECVs.
+The policy impact of this unique       capability, contrasting with conventional SST measurements, is now       acknowledged by Professor David Mackay, Department for Energy and Climate       Change (DECC) Chief Scientific Advisor:     "We recognise...in-situ measurement using radiometers traceable to         international reference standards is highly desirable to ensure         climate-quality datasets" [5.6].
+The ESA Climate Change Initiative programme, overseen by Dr Craig Donlon       [5.7], has the task of producing a new SST dataset to the GCOS       specification of an Essential Climate Variable, which requires that       satellite SST validation must provide traceability to international       reference standards.
+Using ISAR to validate AATSR SST data now provides       the SI traceability needed to establish AATSR as the key input to the new       global SST time series.
+ISAR-type sensors are specified by ESA as       essential for validation of the AATSR successor instrument, SLSTR.
+This is       further evidence of the impact of Southampton's ship radiometry work on       ESA validation policy for climate quality satellite SST datasets [5.8].
+The published success of ISAR deployments created a demand from agencies       around the world wishing to use shipborne radiometers.
+Since 2009, six       ISARs have been sold by UoS to Institutes in USA (2), Japan, China,       Denmark and UK, producing a turnover of &#163;250,000, supporting a technician       for two years and demonstrating a modest commercial and employment impact.
+The Southampton group's major impact on operational applications of       satellite oceanography has been recognized by the presentation of the       prestigious 2011 Remote Sensing and Photogrammetry Society Award to       Professor Robinson [5.9].

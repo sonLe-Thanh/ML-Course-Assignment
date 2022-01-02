@@ -1,0 +1,37 @@
+     The inhalation device market is predicted to reach a value of       approximately $20 billion by 2017 [a].
+This approach provides       essential, and often life-saving, therapy for the management of a range of       diseases including asthma and chronic obstructive pulmonary disease.
+Inhalation therapies are in development for both treatment of infection       and gene therapy for cystic fibrosis, as are many systemic delivery       therapies for conditions such as migraine, sexual dysfunction and pain       control.
+The need for control and understanding of inhalation products is       therefore critical.
+Inhalation particles are inevitably small (less than 5 microns is the       norm) or at least of low aerodynamic size.
+The large       surface-area-to-volume ratio of small particles makes them very sensitive       to changes in surface properties.
+In the 1980s and early 1990s there was       an awareness that batch-to-batch variation in performance was common, but       at that time, all the available analytical techniques (such as       differential scanning calorimetry and powder X-ray diffraction) would show       every sample to be identical.
+There was an urgent need to develop       analytical methods which were at least as sensitive as the product in       terms of a material's properties.
+The understanding, developed to a large part from the work described       above, that micronised material will have amorphous content and that the       presence of that amorphous content will give rise to variability in the       manufacture and performance of inhalation products is now well       established.
+In particular, isothermal microcalorimetry is now a standard       means of measuring amorphous content, as pioneered by Buckton.
+Widespread       use of this method has had a profound effect on sales of related       instruments within the pharmaceutical industry.
+A microcalorimetry expert       associated with instrument sales stated: "The realisation that the         instruments can detect small quantities of amorphous material changed         [the] sales profile totally and annual sales to this sector increased 5         fold in the period from mid-1990s onwards and maintained at this level         for a decade.
+The market is even more buoyant now with new applications         but the core solid state pharmaceutical market is still the basis of our         market leading position.
+Key to the solid state application is Graham         Buckton's initial amorphicity studies where the methods he developed are         still used, almost unchanged, today" [b].
+In addition, the       use of gravimetric vapour sorption, new scanning calorimetric techniques       and spectroscopies have all contributed to the science and understanding       of partially amorphous materials.
+The methods developed in the work described above allow for reliable       quantification of amorphous content in micronised powders.
+The impact of       the body of work has therefore been to profoundly influence the current       industrial practices associated with quality control of powders for       inhalation as well as the choice, development and indeed sales of       methodologies associated with measuring small quantities of amorphous       material.
+A materials scientist working in product development at GSK       said: "the work he has conducted has influenced the way in which we         characterise inhaled products (a major market at GSK worth some &#163;7.3b in         2012).
+The key findings that we picked up at GSK were the development of         methodologies in which very small amounts of amorphous material could be         measured...we developed our material characterisation procedures with         his papers very much in mind" [c].
+Furthermore, a drug       product design scientist at Pfizer has confirmed: "The work performed         by Graham's group on using a range of techniques to detect these small         amounts of amorphous material has been seminal in developing the control         strategy for pharmaceutical materials.
+We currently have isothermal         microcalorimetry and solution calorimetry instruments for precisely this         purpose and have developed the use of the approaches developed by Graham         into material characterisation and drug product design" [d].
+As well as influencing industrial practice, the work outlined above was       also central to the creation in 2000 of Pharmaterials Ltd, a spin-out       company from the School of Pharmacy [e].
+This company provides       consultancy and expertise to large and small pharma and related       industries, with a particular (initial) specialisation being the physical       characterisation of drugs, excipients and dosage forms based on the body       of work developed by Buckton.
+The company has since grown to include       formulation, analytical sciences, stability and manufacturing of clinical       trial supplies and at the present time is involved with all aspects of       product development.
+In January 2008, Pharmaceutics International       Incorporated USA (PII) acquired a majority shareholding in Pharmaterials [f].
+[text removed for publication] [g].
+The company have       invested [text removed for publication] on equipment since       acquisition [h], and there has also been substantial spend on the       new building [i] reflecting the manner in which the       characterisation research has translated into commercial activity.
+The company provides a service for GMP-compliant measurement of amorphous       content for many companies, including active ingredient manufacturers, SME       development companies and large multinationals.
+Initially, this service       was offered in a problem-solving capacity, but with the changing       regulatory environment (see below), the data generated by Pharmaterials       are now used in the development of product specifications and are       submitted to regulatory authorities around the world.
+Pharmaterials now       uses the knowledge of this materials science in order to provide a full       inhalation development service.
+[text removed for publication] [g].
+In addition to these activities, the research has also influenced       regulatory processes.
+In 2002, the US Food and Drug Administration (FDA)       invited Buckton to advise on developing a regulatory framework for       amorphous materials [j].
+It subsequently became a requirement for       all new low molecular weight drugs for powder inhalation to be tested for       amorphous material as part of the regulatory process.
+The US Pharmacopoeia       followed the FDA's position in developing their standards and specify the       use of microcalorimetry to measure amorphous content [k].
+In the       UK, Buckton served on the MHRA's Committee on Safety of Medicines, where       he similarly advised on amorphous materials.
+It is now also a requirement       in Europe that inhalation materials are tested for amorphous content prior       to licensing [l].

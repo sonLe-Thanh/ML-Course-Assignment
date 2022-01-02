@@ -1,0 +1,59 @@
+     Process/events from research to impact:     The underpinning research on data compression has been commercially       adopted in two areas     1.
+Customer relations analysis and product recommender support       (ThinkAnalytics)     2.
+Video surveillance (Digital Barriers)     The idea of entropy coding in which data is represented by minimal bit       collections emerged from research at Strathclyde.
+During the process of       patenting the database aspects of this work, contact was made between       McGregor and Mr Tim Jones of Planning Sciences plc.
+and this led to the       licensing of the patent by Planning Sciences.
+Between 1993 and 2000,       Planning Sciences' technical products and know-how were successively       transferred to Gentia Software plc., K.wiz Solutions and then to       ThinkAnalytics Corporation.
+The patent was used in K.wiz (the commercial       name of K.wiz Solution's main product) as the basis for internal data       storage (1998).
+In this way, the output from research on database       compression was transferred to the K.wiz product.
+In 2002, the K.wiz       software was reorganised by ThinkAnalytics to expand its functionality.
+The reorganised software was influenced by implementation experience       gained from the patent.
+The design preserved the dependence of the system       on an internal data store using techniques informed by the Strathclyde       data compression research programme.
+K.wiz was reused by ThinkAnalytics as       the basis of recommender software (Think RE, Source A).
+This suite of       programs is currently (2013) in use by ThinkAnalytics for providing       consumer-directed recommendations based on patterns found within TV       viewing data.
+The experience of implementing the compressed data store       provided direction during implementation of data handling in Think RE       (Source A).
+In parallel with the exploitation of database research, the novel entropy       coded video compression research led to the construction of a University       Spin-off company, Essential Viewing Systems Ltd in 1999.
+The aim of this       company was to commercialise the principle that video compression can be       achieved by the use of a codebook of image primitives that resides with       both the encoder and decoder.
+Essential Viewing Systems Ltd was a       successful operator in the area of video surveillance until it was taken       over in 2011 by Digital Barriers plc.
+The video compression research at       Strathclyde was used to design Essential Viewing's product and       subsequently Digital Barrier's remote surveillance system called Tactical       Visual Intelligence (TVI) (Source C).
+1.
+Adoption of technology for customer relations analysis and product         recommender support:     The Think RE software suite developed by ThinkAnalytics is used       particularly for providing customer relations analysis and product       recommender support to cable TV networks and broadcasters.
+In this       context, it monitors usage patterns and can provide the basis for advice       to consumers on optimising their experience of televised entertainment.
+ThinkAnalytics' recommender engine is currently (2013) the basis of the       software that is offered by the company.
+ThinkAnalytics' Recommendation       Engine is marketed directly to broadcasters and cable TV operators and has       more than 50 such customers worldwide including Liberty Global, Cox       Communications, BSkyB and Virgin Media.
+Through these intermediaries,       Think RE provides a service to more than 130 million end users in over 16       countries, making ThinkAnalytics the world leader in this area and Think       RE the most deployed Content Recommendations Engine in the market.
+(Source       A confirms all claims relating to the company.)
+Benefits to Customers: Customer relations analysis benefits       consumers by ensuring that services that are offered to them can be       closely tailored to their personal taste.
+Personalisation benefits such as       these are not available without the software to support the analysis of       large data collections.
+Service providers supported by Think RE report a       significant increase in Video on Demand and live TV usage as a consequence       of deploying the system.
+The software helps end-users to discover material       that they would be unlikely to find on their own.
+Benefits to the company: ThinkAnalytics has the largest market       share for customer relations management software that supports cable TV       customers (Source A).
+The company was nominated as provider of the Best TV       Experience Enhancement in 2013 by the TV Connect Industry Awards.
+The       ThinkAnalytics Recommendations Engine won the 2013 Best Video Discovery       Service award at the Streaming Media European Readers' Choice Awards.
+Typical competitors include Viaccess-Orca (16 million subscribers) and       TiVo (3 million subscribers) both with significantly smaller user       communities than ThinkAnalytics.
+The Think RE engine makes possible the       combination of data sources such as Video on Demand, broadcast TV, the       Web, and social media to provide an improved end-user experience in the       context of recommending entertainment material.
+Multilingual support is       provided in 17 different languages.
+Successful deployment of Think RE       enabled ThinkAnalytics to double its revenue and profit in 2012 (Source       B).
+2.
+Adoption of the technology for video surveillance: Video       surveillance is an important means of observing industrial and medical       processes as well as having impact on the monitoring of human behaviour.
+Increase in the usage of such systems presents a challenge for data       transmission.
+The video compression developed by the University of       Strathclyde spin out company Essential Viewing facilitates the sending of       video images over IP networks.
+This makes transmission easier since such       networks are widely available, and this provides the key advantage of       Digital Barrier's TVI product (Source D).
+The compression approach is       particularly suited to transmission over Wi-Fi or 3G connections in real       time, providing higher quality video than would otherwise be possible.
+In       the context of surveillance systems, the video compression approach is       essential to prevent streaming from exceeding bandwidth limitations, which       can result in the loss of potentially important frames.
+Digital Barriers       has expanded its range to include new products with new capabilities and       to extend their overseas sales reach.
+Since 2009 Digital Barriers' has been providing hardware and software       solutions into the UK, and increasingly into global markets under the       brand name of TVI.
+The video compression concepts developed during       research at Strathclyde are currently used in Digital Barrier's TVI       product to support transmission of high quality video images over       low-bandwidth networks.
+Benefits to Customers: In marketing their data compression-based       video surveillance product, Digital Barriers concentrate their commercial       effort on 20 major customers including governments and big international       companies.
+Within the UK, every police force uses the TVI products for       operations including mobile traffic enforcement, community safety, driver       training and dashboard cameras in patrol cars (Source C).
+In addition to       national law enforcement agencies, the MoD are also customers and the       equipment capability is viewed as world class when compared to offerings       by other suppliers (Source C).
+There are more than 3000 end-users of TVI.
+This product has now been deployed in more than 40 countries across the       globe, providing world class technology for law enforcement, government       and military customers by supplying protective surveillance capabilities       (Source C).
+Benefits to the company: Essential Viewing Systems Ltd was       acquired by Digital Barriers plc.
+for &#163;3.4M in March 2011.
+Digital       Barriers are a UK business created in 2009 and listed on the London Stock       Exchange (Aim market) in 2010.
+Since 2008 the number of staff employed in       this company has grown to 41.
+Revenues from Digital Barriers have       continued to expand, growing from &#163;1.3M in 2010, when the company first       reached profitability through to &#163;6M in the year to March 2013.
+The future       for the business looks bright, as the reach of Digital Barriers has       allowed sales to increase into an increasing number of countries with       revenues set to grow further in 2013 and beyond (Source E).
+This growth       has also been facilitated by incorporation of the video compression       technology into the wider Digital Barriers' product architecture     Benefits to the local economy: In addition to the growth in the       engineering aspects of Digital Barriers' enterprise, many of the back       office functions for the company such as Finance, Operations and       Manufacturing are being co-located within the Glasgow office, building on       the capabilities already provided by the Essential Viewing Systems team       and leveraging the manufacturing expertise in Scotland (Source C).
+All of       the products are manufactured in the UK with many of these being       manufactured in Scotland and utilising the expertise within the UK       manufacturing base in electronics (Source C).

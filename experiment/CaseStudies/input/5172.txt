@@ -1,0 +1,31 @@
+     Breadth of use of CATH, PDBsum and LIGPLOT     The CATH classification is made available on a UCL-hosted website,       maintained by the Orengo group [a].
+This internationally renowned       resource is one of the leading protein structure classifications in the       field.
+Web access to CATH ranges from 8,900 (Google Analytics) to 22,500       (Webalyzer) unique visits per month and the number of pages accessed       varies from 85,000 to 2m per month depending on the method used for       analysing access.
+Two thirds of these web accesses are from industry-based       sites [b].
+CATH data is further disseminated through DAS and the InterPro web       server, at the European Bioinformatics Institute (EBI).
+InterPro is one of       the most widely used web portals by biologists in industry and academia,       with more than five million web page accesses per month.
+It combines       protein family data from multiple resources to assign greater confidence.
+DAS was established by 30 European partners as part of the Biosapiens       network, headed by Janet Thornton whilst the InterPro server is being       developed by a consortium of eight European partners, including CATH.
+Information from CATH is also disseminated via the web portal of the       international Protein Databank (PDB) resource [c], the primary       source of protein structures.
+Further links to CATH are provided by many       international web-based computational biology resources (e.g Pfam, BRENDA       [b]).
+Thornton and Orengo have given talks on CATH and PDBsum in Europe, the       United States, Japan, South Korea and India, including through the EBI       Industry program [d], and to computational biologists at several       pharmaceutical companies.
+Orengo spoke at a Gordon Conference on drug       design in 2009, which was attended by a significant number of researchers       from the pharmaceutical industry [e].
+CATH, PDBsum and the threading algorithm were three of the four major UCL       bioinformatics resources used to establish the UCL company Inpharmatica in       1998.
+This was involved in predicting structures and functions for       proteins via the `Biopendium'.
+Inpharmatica sold this and other related       software packages to several large pharmaceutical companies including       Pfizer, Astra Zeneca and Glaxo-Wellcome.
+Inpharmatica was acquired by       Galapagos in 2006 [f].
+More recently, the latest structure comparison algorithms underpinning       CATH (CATHEDRAL) and LIGPLOT have been distributed directly to       pharmaceutical companies including [text removed for publication].
+Together these tools have generated [text removed for publication]       in licence income to UCL within the census period [g].
+PDBsum is       widely used by pharmaceutical companies with 34,000 unique visitors/month       in total (1.1m web hits).
+[text removed for publication]     Papers published by Thornton and Orengo have been cited 13 times across       11 patent documents published in the assessment period, indicating the       commercial relevance of their work.
+The patents are filed across the USA,       Europe and Internationally through the PCT system and are assigned to GSK       Ltd, Biogen Idec Inc. and Pharnext [i].
+Specific applications to problems in the pharmaceutical industry     CATH is routinely used by the pharmaceutical industry to identify the       structures of proteins implicated in disease.
+CATH prediction methods and       domain assignments are widely used by industry, as are the methods for       analysing the structures (e.g.
+LIGPLOT, PROCHECK).
+CATH is widely used by       researchers in the pharmaceutical industry to explore protein structure       function relationships and to aid in drug design.
+Structure is highly       conserved during evolution and 3D information can give better clues to the       molecular mechanisms associated with a protein's function than purely       sequence data.
+Since very few human proteins are experimentally       characterised (&lt;10%), CATH and related resources are used to search for       homologues with known, experimentally validated functions and the       structural data associated with these relatives can be then be exploited       to build 3D models for the human proteins.
+In addition, the CATH       classification can be searched with the structures of proteins which are       potential drug targets to identify close relatives which might also bind       the target drug, giving rise to side effects.
+[text removed for publication]     CATH has been exploited by the NIH-funded, international, structural       genomics initiatives to select proteins from pathogenic organisms for       structure determination to aid drug design.
+Since 2000, more than 3,000       protein structures have been solved by these initiatives representing       about 30% of the unique structures deposited into the PDB from all       sources, worldwide, during this period.
+These structures have shed light       on how structure is linked to function and provided important details of       binding sites in proteins implicated in cancer and pathogen associated       diseases.

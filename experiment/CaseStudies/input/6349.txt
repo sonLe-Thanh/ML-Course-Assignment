@@ -1,0 +1,35 @@
+     Total sales of the ISVR-invented rail dampers, marketed as SilentTrack&#174;,       amount to [exact figure removed for publication] as of the end of FY       2012/3, evidence of significant financial benefit to Tata Steel.
+Royalty       income to the University from Tata Steel is also significant [exact figure       removed for publication].
+The Project Manager of Tata Steel writes:       "Following the development work based on ISVR's research, the subsequent       sales of the SilentTrack rail damper has given Tata Steel a valuable new       income stream which is independent of our traditional manufacturing       activity, whilst remaining integral to our core product, the rail.
+The       input of ISVR to the initial prototypes and their on-going support during       our product development phase has been vital to the successful       commercialisation of this product" [5.7].
+The successful commercialisation of the ISVR/Tata Steel rail damper has       facilitated the expansion of rail services in Europe and Australia over       the last five years.
+Capable of delivering noise reductions of up to 5-7       dB, it is the only technology, barring the use of high-cost and visually       intrusive noise barriers, to deliver this level of noise reduction at       source [5.1].
+The benefit-cost ratio of rail dampers is twice that of noise barriers       [5.2, 5.10], which cost on average &#163;1 million per km depending on the       height [5.3].
+In Germany 362 km of noise barriers have been constructed       along existing railway lines and in Switzerland they cover 144 km of track       [5.4].
+The Betuwelijn, a new freight route in the Netherlands that opened       in 2007, has 160 km of noise barriers along its 160-km-long route.
+In       contrast ISVR/Tata Steel rail dampers manufactured and sold by Tata Steel       have been installed in 16 countries since 2001.
+Despite reluctance in the       rail industry generally to adopt new technology, approximately 155 km of       track have been fitted with these dampers, with the majority (130 km)       installed from 2008 onwards [5.7].
+In the Netherlands, the number of passenger trains has doubled on some       lines in recent years.
+The introduction of noise emission ceilings means       that an increase in passenger trains can reduce the permitted number of       freight trains [5.3].
+In response, Dutch rail infrastructure owner ProRail       has installed rail dampers on over 90 km of line in order to comply with       the new laws.
+The resulting 3 dB reduction has allowed a doubling of       traffic at a significantly lower cost than installing noise barriers       [5.3].
+In Australia, the ISVR/Tata Steel rail dampers were used in 2009 to       resolve severe noise issues on the controversial 16 km Epping to Chatswood       Rail Line (ECRL) in the northern suburbs of Sydney [5.5].
+After a series       of delays to the line, which resulted in intense media scrutiny, RailCorp       discovered that noise levels were akin to the landing of a Boeing 737.
+Any       further delays would have incurred hefty fines for the operator of the       &#163;2.3 bn service, which was already significantly over budget.
+Tata Steel       supplied the rail dampers on time and the line's successful opening       allowed the New South Wales government in February 2010 to announce a new       $2.1bn North West Rail Link to connect with the ECRL.
+Network Rail's &#163;6bn Thameslink Programme, which is upgrading the       north-south route through central London, marked the first installation of       rail dampers in the UK.
+ISVR/Tata Steel rail dampers were fitted on 1.5 km       of track at Blackfriars Station in 2012.
+The installation was featured in       The Engineer in 2012 [5.6].
+Network Rail is now considering the use of       rail dampers on a national scale as part of the Action Plans required to       comply with the EU's Environmental Noise Directive (2002) [5.8].
+German       and French railways also consider rail dampers as potential candidates for       Action Plans required by the Directive [5.9, 5.10].
+In each case the main beneficiary is the railway infrastructure       authority, who would otherwise need to implement a more expensive       solution.
+As a result of rail dampers, the height of noise barriers can be       reduced or even eliminated to achieve the same level of noise reduction       [5.3].
+Estimated savings in noise barrier costs amount to at least &#163;16       million, according to cost-benefit analyses [5.2], with the potential for       future savings of several hundred million pounds based on expected future       quantities of noise barriers.
+More generally the research has led to improved quality of life for       people living near railway lines where the rail dampers are installed and       ultimately highlighted the potential for a sustainable modal shift to       railways away from a more carbon-intensive means of transport.
+The TWINS software developed by Prof Thompson has become the de facto       software standard for the rail industry for the design of wheels for new       rolling stock.
+A European standard for wheel design (EN13979-1), published       in 2004, explicitly recommends using TWINS to ensure designs conform to       regulations.
+ISVR's published research has led to further EU grants from 2010 to 2013       totalling more than &#163;500,000 to work with leading European rail companies       such as SNCF, Deutsche Bahn, Alstom and Bombardier, to advance damping       technologies.
+This includes &#163;200,000 awarded to ISVR in 2011 to contribute       its expertise to Acoutrain, an FP7 project coordinated by UNIFE &#8212; the       Association of the European Rail Industry, which aims to speed up acoustic       authorisation of new railway stock to encourage innovation and cut costs.
+A recent German-French project STARDAMP has developed standardised       methods to assess rail and wheel damping treatments.
+Due to the ISVR's       expertise in this area, the consortium considered it essential to the       success of the project that they should be included and, as they were not       eligible for German-French funding, the 9 partners subcontracted ISVR to       develop test methods and software for the assessment of dampers [5.9,       5.10].
+In 2008 Prof. Thompson was invited to join the international reference       group for the &#8364;30M Noise Innovation Programme (IPG) in the Netherlands       which included field tests of rail dampers and in 2011 began advising       Swiss Railways on rail damper field tests, with a view to installing them       on tracks in Switzerland.

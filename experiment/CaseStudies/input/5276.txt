@@ -1,0 +1,31 @@
+     We now provide details of the five aforementioned impacts and their link       to underpinning research:     Impact 1: Xilinx Corp. is a US$2.2 billion company       (2012) with nearly a 50% share of the FPGA       devices market.
+The impact of our research in FPGA technology is evidenced       in their testimony       (Distinguished Engineer from Xilinx [A]):     "The research group led by you (Prof. Luk) in Department of Computing         and Professor Peter         Cheung in Department of EEE ... is second-to-none internationally, both         in terms of quality and         quantity.
+Your team has pioneered many key technologies which have         resulted ... in significant         industrial impact."
+For example, the Engineer from Xilinx refers specifically to our work on       partial run-time       reconfiguration [1], which "... has had a major impact on multiple         generations of Xilinx devices that         support run-time reconfiguration", and "..... underpins the         design flow for the latest Xilinx device         supporting partial run-time reconfiguration".
+The specific devices       introduced since 2008 were       Virtex-5 (65nm), Virtex-6 (40nm) and Virtex-7 (28nm) devices as well as       their latest Zynq device       family, which embeds ARM processor cores within the FPGA fabric.
+Xilinx's       document UG702,       entitled "Partial Reconfiguration User Guide" and published in October       2012, demonstrates that our       work [1], first published in 1997, has stood the test of time: its impact       is still found in design flow for       Xilinx Zynq devices introduced in 2011 [A].
+Impact 2: Our underpinning research into       acceleration of compute-intensive algorithms using       FPGA technology has led to its successful commercial exploitation in the       start-up company,       Maxeler.
+The company, with Head Office in Hammersmith, employs 70 members       of staff in the UK       and US.
+Many of the key technologies it employs can be traced directly to       the research conducted       by the team at Imperial College [2, 3, 4].
+In particular, the MaxCompiler       and MaxGen tools are       rooted in Imperial tools.
+These tools enable MaxCloud, the industry's       first FPGA-based cloud       computing service, to provide high performance dataflow computation       capability through the cloud       [B].
+Underpinning research by Cheung and Luk also led to several US       patents (US6369610,       US7543283, US12/747650) assigned to Maxeler in Nov 2012.
+Moreover, Maxeler       US patent       US20130139122 A1 refers to this work on word-length optimisation [3].
+Impact 3: The FPGA-based technology from Maxeler is       used by JP Morgan [C] and by other       finance companies such as Scottish Widows [D] for accelerating a variety       of financial modelling       calculations including risk analysis.
+This is therefore indirect impact of       our research in [2-5].
+In one       example, the compute time was reduced from 8 hours to less than 4 minutes       [E].
+The       effectiveness of this technology resulted in JP Morgan purchasing a 20%       stake in Maxeler [F].
+According to JP Morgan's Managing Director and Global Head of their       Applied Analytics Group,       the total investment made by JP Morgan in deploying our reconfigurable       technology amounts to       US$30m with an annual estimated saving in running cost of US$6m, in       addition to compute time       reduction.
+Furthermore, the reconfigurable computing systems "support         our business units that         manage the risk on positions in the trillions of dollars" [G].
+Impact 4: In addition to financial applications, our       reconfigurable computing technology [2-5] has       had a strong impact on oil and gas exploration.
+The oil and gas industry       is a major user of high-performance       computing.
+In geoscience, computational cycles are dominated by relatively       few and       well defined kernels.
+Using Maxeler's FPGA-based hardware platform and       optimising the algorithm       implemented with the Maxeler tool flow, speedups of almost 250 times       compared to the use of a       single CPU core have been reported by Chevron [H].
+Faster seismic analysis       and imaging allows       more application runs or modelling with higher fidelity, or both.
+Quicker       and more accurate results       enable oil and gas companies to make more informed bids on parcels and       subsequent drilling.
+Shorter turnaround time on these seismic applications is critical to the       company's profit, especially       when they are in a bidding process for drilling rights.
+Impact 5: BlueBee Technologies is a start-up company       that provides tools for heterogeneous       multi-core platforms.
+The success of its tools was recognised by a       prestigious Valorisation award       from the Dutch Technology Foundation, STW, in December 2012.
+According to       BlueBee's CEO [I],       several key components in the BlueBee tool chain &#8212; such as task       transformation and mapping       selection &#8212; are directly based on our research on high-level compilation       tool chains for       heterogeneous systems [6]; success of BlueBee can be attributed to our       pioneering research       which laid the foundations for many important developments in word-length       optimisation [3] and       high-level design transformation [6].
+Recently BlueBee has teamed up with       HL Steam, a company       responsible for the Ancoa financial market integrity platform, to support       FPGA-based acceleration       for such platforms.
+The impact of our research is therefore also ongoing:       the enabling of real-world       workloads of millions of financial transactions per second to be       efficiently processed at lower dollar       and energy cost [J].

@@ -1,0 +1,26 @@
+     Amaratunga and Udrea founded CamSemi in 2000 to commercialise their       research on high-       voltage power devices.
+The University of Cambridge assigned the DoEng       intellectual property (IP)       to CamSemi, provided GBP250k in seed funding from the University's       Challenge Fund and took       shares in the company.
+CamSemi has since attracted investment of over       GBP35M in several       rounds of funding.
+(Ref 6)     In 2004, CamSemi appointed David Baillie as the CEO.
+Baillie invested       CamSemi funds in a       strategic programme to develop dedicated controllers for AC to DC power       supplies.
+The controllers       provided distinctive capability and had an immediate impact in the market.
+CamSemi's total annual       sales have risen from GBP1M to just under GBP10M from 2008 to 2012.
+(Ref       6)     The controllers are manufactured and packaged by subcontractors and sold       to customers.
+This       "fabless" business model meant that CamSemi was able to grow its sales       faster than its growth in       staff numbers or physical assets.
+The employee headcount rose quickly in       CamSemi's first seven       years to establish the business and, in 2013, is around 60 people.
+The       majority of CamSemi's staff       are based in the UK, but there are offices in Taiwan, China, Hong Kong and       Korea.
+(Ref 6)     [text removed for publication]     Between 1 January 2007 and June 2013, nearly 500 million power control       chips have been       shipped by CamSemi to their ODM customers.
+500,000 power supplies are now       manufactured       every day with CamSemi chips with about 175,000 of these employing the       high voltage technology       referred to here (Ref 6).
+[text removed for publication]     CamSemi products are attractive to manufacturers of electrical goods       (e.g.
+mobile phones and       laptop computers that require chargers), because they are lightweight, low       cost and reduce power       consumption both in active use and in standby mode.
+CamSemi chips enable       system solutions,       which make chargers up to ten times lighter than traditional units with       obvious benefits to end       users, who often need to carry chargers when travelling.
+The saving in       weight relates to the       dramatic reduction in the size of inductive components and in the number       of additional discrete       components.
+Given the high price of copper and other metals, this reduces       costs greatly too.
+In       active use, adapters built with CamSemi's initial products are typically       over 85% efficient compared       with linear power supplies which can achieve only 50-60% efficiency (Ref       6).
+In standby mode,       CamSemi products consume almost no power, which addresses a problem       highlighted in a report       by Intertek for DEFRA, DECC and the Carbon Trust - UK homes typically       waste 47-81W of       electrical power as a result of devices being left on standby, which       equates to 9-16% of domestic       electricity consumption (Ref 7).
+Reductions in CO2 emissions through the use of CamSemi       technology provide broader       environmental benefits.
+CamSemi has sold nearly 500 million chips between       2007 and 2013 (Ref       6).
+Savings of the order of 100GWh of electricity and 50,000 tonnes of CO2       emissions per year can       be estimated given the following assumptions: 5% of units sold are in use       at any one time, each       unit saves 0.5W of electrical power versus a traditional linear power       supply whether on standby or       active, and 0.45kg of CO2 is released per kWh of electricity       (UK energy mix).
+In 2012, Udrea was awarded the Royal Academy of Engineering Silver Medal,       which is an award       given to British engineers who "have achieved significant commercial       success in their fields and       are recognised for advancing the cause of engineering in this country".
+The Royal Academy cited       Udrea's role as founder of CamSemi.
+(Ref 8)     The Company itself won the following awards:            "Start-up of the Year 2008" in the National Microelectronics Institute         (NMI) annual awards (Ref         9)       Finalist in the 2008 EDN 18th Annual Innovation Awards (Ref 10)       Carbon Trust Innovation Award (buildings category) in 2009 (Ref 11)       Listed in Global Cleantech 100 in 2009 (Ref 12)       "University Spin-out of the Year" in Rosenblatt New Energy Awards 2009         (Ref 13)       International Trade Prize in the Business Weekly East of England 2011         Business Awards (Ref         14)       29th place in the 2012 Sunday Times Hiscox Tech Track 100         listing of the UK's fastest-growing         private companies and the fastest growing semiconductor company in that         list (Ref 15).

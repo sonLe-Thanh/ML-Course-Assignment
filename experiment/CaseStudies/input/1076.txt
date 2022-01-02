@@ -1,0 +1,29 @@
+     The immediate beneficiary of the research is Rolls-Royce plc.
+The S-duct       for Rolls-Royce's latest engine, the Trent XWB, was designed at DoEng       using the understanding developed in the research.
+Key design       investigations for the Trent XWB were undertaken by Miller and Hodson's       team, in consultation with Green, in 2008 and 2009.
+The engine received       certification from the European Aviation Safety Agency (EASA) in February       2013, and will enter service in 2014 as the sole option available to power       the new Airbus A350 XWB aircraft [5].
+The increased fuel efficiency which the new design of S-duct brings is a       significant selling-point for the Trent XWB, which is marketed as "the         world's most efficient aero engine flying today... [with] the lowest         carbon emissions of any widebody engine" [6].
+As at 31 July 2013,       Rolls-Royce has an order book for the Trent XWB of more than 1400 engines       [7], of which 832 were received during the period 1 January 2008 to 31       July 2013 [8].
+Although the company does not publish the value of this       order book, an estimate can be made using announcements on the value of       specific orders.
+For example, the order for 25 aircraft from Air Lease Corporation on 4       February 2013 cited a list-price order value of USD 1.1 billion (GBP 714       million) for 50 engines [9].
+This suggests that the whole Trent XWB order       book at the end of the assessment period, at list price, is worth       approximately GBP 20 billion (of which GBP 12 billion represents orders       achieved during the period).
+Even when commercial discounts (which are not       published) are taken into account, this represents a significant       proportion of the Rolls-Royce Civil Aerospace Sector's total order book of       GBP 56 billion, and indeed of the Company's whole order book of GBP 69       billion [7,10].
+In all Rolls-Royce Trent engines prior to the Trent XWB, the radius       dropped across the rear stages of the intermediate-pressure compressor.
+This reduced the efficiency of the compressor, increasing engine specific       fuel consumption (SFC).
+The technology developed by DoEng in partnership       with Rolls-Royce led directly to the duct in the Trent XWB having a larger       radius change.
+This allowed the radius of the rear stages of the       intermediate-pressure compressor to remain high, maintaining optimal       performance and resulting in a 0.15% reduction in engine SFC [11] (a       significant contribution, given the historical rate of engine reduction of       ~1% SFC per year [12,13]).
+According to Rolls-Royce estimates, the benefits from this improvement in       duct technology are expected to be "a fuel burn saving of USD 30k per         aircraft per year, which represents a CO2 reduction         of 120 tonnes per aircraft per year."
+[11].
+Once the Trent XWB       engines currently on order enter service &#8212; on the 682 twin-engine A350 XWB       aircraft on order as at 31 July 2013 [14] - this will translate into an       annual fuel burn saving in excess of USD 20 million per year, and a CO2       emissions reduction of more than 80k tonnes per year.
+These benefits,       however, will accrue outside the assessment period; within the period, the       impact is the way in which the expectation of these benefits has       contributed to the competitiveness of the engine.
+Chief of Global Aerothermal Technology and Senior Fellow of Thermofluids,       Rolls-Royce plc, and Chairman of the Aerodynamics National Technical       Committee, commented: "Research in Cambridge's Department of         Engineering has made a significant contribution to the huge success of         the Trent XWB engine.
+The team led by Rob Miller and Howard Hodson         developed the understanding of S-duct aerodynamics necessary to achieve         improved compressor efficiency, and the incorporation of this into the         Trent XWB.
+This has contributed to Rolls-Royce's ability to present the         engine to the market as the world's most efficient engine.
+In a         highly-competitive market focussed on fuel efficiency, the levels of         improvement offered by such breakthroughs represent a key competitive         advantage, and can make all the difference to winning a contract.
+The         Trent XWB has become the fastest-selling widebody engine ever, with over         1400 engines on order from 34 customers &#8212; more than twice the number of         orders for any comparable engine, at this stage of the programme"       [15].
+The Technical Lead for Trent XWB Compression System Aerodynamics at       Rolls-Royce, added: "The way of working with the Cambridge Engineering         Department within the UGTP made a critical contribution to Rolls-Royce         being able to realise the benefits of the research.
+As well as being         able to spend lots of time working closely with the research team, the         unique duct test facility allowed us to conduct testing to a technology         readiness level of 4, higher than could be achieved with CFD or with a         facility with non-engine representative boundary conditions &#8212;         effectively, to test that the technology would work in real engines.
+The         technology has opened up areas of the design space which could not         otherwise have been achieved" [11].
+Please note that the DoEng case studies for Rolls-Royce 3D Compressor       Blade and Decision Rationale Editor (DRed) also reference the success of       the Trent XWB engine among other impacts.
+The lines of research in each       case study are entirely separate and carefully defined in each case study.
+The impacts for each line of research are also accurately delineated.

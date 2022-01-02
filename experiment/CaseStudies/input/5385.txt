@@ -1,0 +1,53 @@
+     The research in [1-3] provided both the original observation that       "natural nanostructure" could be       probed with enough repeatability using a relatively simple and inexpensive       laser geometry as well       as the physical understanding of the scattering mechanism required to       translate this laboratory       observation into a proper technology that could be deployed into       real-world settings.
+The impact was secured by Imperial forming a partnership with the       investment company Ingenia       Holding Ltd (formed in 2003) which provided both the research funding       required and the       technology transfer know-how to fully launch the company, to engineer       products and to form       business partnerships.
+Buehlmann and Buchanan's positions at Imperial were       both funded via a       &#163;1M per year research contract between Ingenia and Imperial.
+Imperial also       allowed Professor       Cowburn's teaching duties to be bought-out in 2005-2010, thus freeing his       time to serve as Chief       Technology Officer to Ingenia Technology from 2005-2010 [A], ensuring that       the research and the       impact were closely aligned.
+The company started trading in 2005,       following the publication of [1],       and was incorporated in England and Wales in 2006.
+The physics of the optical light scattering that underpins LSA is more       complex than it first       appeared.
+This has important consequences for the optimum way to engineer       products based on       LSA.
+Without the close relationship between the physics research within       Imperial and those trying       to commercialise the technology at Ingenia Technology, success would not       have been possible.
+Dr P Seem joined the Ingenia team after graduating in 2009 and Drs S       Buehlmann and JDR       Buchanan joined after leaving Imperial in 2010 [A].
+Ingenia Technology now employs seven people in total [A].
+Its       headquarters are in the City of       London and it also has offices in Vienna and Zurich.
+It is part of the       NewScope Group, a Swiss-       based, privately funded business, comprising a number of specialist       high-end technology       companies.
+The Ingenia team consists of a mix of business and security       experts and of specialist       engineers and physicists with many years of experience in electronic and       product engineering and       includes three members of the original research team from Imperial College       [B].
+Ingenia currently offers several main products including line and field       scanners, and LSAControl       and LSANet software [A, C].
+The research at Imperial contributed, either       directly or indirectly, to the       development of these products [A].
+Ingenia supplies these solutions to       luxury product       manufacturers, carton producers (e.g.
+CARTONDRUCK, Grafiche Bramucci),       precious metal       refiners (PAMP), one of the world's largest perfume manufacturers,       pharmaceutical firms (e.g.
+Bayer [D]), government agencies (e.g.
+International Atomic Energy Agency,       IAEA) and national       laboratories, as detailed below.
+These projects have ranged in value from       &#163;20,000 to &#163;200,000       each [A].
+With the IAEA Ingenia developed the LSA system to "extract an intrinsic       material signature from       both the copper and brass parts of the IAEA CAPS metal seal" [E].
+The LSA       system "has been       delivered and tested to meet IAEA specification for usability and       accuracy" [E].
+The technique will       augment and potentially replace the subjective imagery analysis method of       comparing metal seal       optical images that are currently used, thereby providing strong       protection against counterfeiting.
+In 2010, Ingenia signed a partnership agreement with IDT, a leading 2D       and 3D in-surface       decoration systems provider, allowing IDT to offer Ingenia's LSA       technology to its customers.
+"Working with Ingenia Technology will allow us to offer a much more       comprehensive authentication       and identification package for our customers," commented Peter Woodd, CEO       of IDT Systems.
+"Ingenia's LSA technology is the most robust and sophisticated solution       for product tracing and       anti-counterfeiting that we have seen in the marketplace, making it a       perfect complement to our       existing D Series system technology" [F].
+In 2010 a partnership with CARTONDRUCK, a leading worldwide manufacturer       of high-quality       cartons, was announced, "supporting movement into the luxury goods market"       [G].
+This agreement       allows "Germany-based CARTONDRUCK, a manufacturer of high quality boxes       for the cosmetic       and fragrance industry...to offer Ingenia Technology's Laser Surface       Authentication (LSA) anti-       counterfeiting technology as a service to its customers" [D].
+The cartons       are used by       CARTONDRUCK's customers to authenticate and track their products.
+The most       important       function in this market is to combat diversion of products from one       country to another and sale of       products by unauthorised retailers.
+The "agreement will also see both       companies partnering to       promote LSA technology more broadly to empower owners of high value brands       with an effective       tool for fighting counterfeiting and smuggling" [H].
+In 2013 a similar deal was announced with luxury carton manufacturer       Grafiche Bramucci,       enabling Grafiche Bramucci to provide clients in cosmetics, fragrance and       luxury products       customers with access to Ingenia's LSA technology.
+Grafiche Bramucci has       installed Ingenia's       scanning and coding system as part of what it describes as a       "comprehensive anti-counterfeiting       and anti-diversion initiative" [I].
+Commenting on the deal, Francesca       Bramucci, director and owner       of Grafiche Bramucci, said "With the rise of illicit trade within the       luxury sector and given our       prestigious customer portfolio, it is vital that Grafiche Bramucci is able       to offer the very best       solutions for anti-counterfeiting and anti-diversion" [I].
+The Italian       firm counts a number of luxury       goods companies among its clients, including Garnier, Giorgio Armani,       Lancome, Moschino and       Versace, as well as other premium brands such as Campari [I].
+Ingenia has developed a complete authentication system for precious       metals with leading Swiss       refiner PAMP, the world's leading bullion brand.
+This Veriscan&#8482; system       uses Ingenia's LSA       system to scan and code every gold and silver bar produced by PAMP and       then enables       authentication by multiple users across the world.
+According to the PAMP       press release, "PAMP,       the renowned industry innovator, once again transforms the world of       precious metals by       introducing the latest in Laser Surface Authentication technology:       VeriScan&#8482;.
+With a uniquely       individual and imperceptibly present `surface signature' that is up to       four-times more distinctive       than a human fingerprint, each PAMP bar is designed to enhance       authenticity while offering you a       world of possibilities to identify and manage your transactions of PAMP       bullion.
+Progressive       worldwide rollout begins early 2013" [J].
+Ingenia hosts the secure       database for PAMP and has       developed a customised version of their hardware and software for them.
+The practical value and novel benefit of Ingenia's LSA technology was       nicely described in an       Economist article in 2011.
+The article describes the novel "tamper-proof       method of "laser surface       authentication"....developed initially at Imperial College, London" [K].
+The "fast, low-cost" method is       praised and described [K]:     - "Nor is the system easy to fool.
+A piece of paper such as a banknote       can be crumpled, soaked       in water, scorched and scribbled on but still have its surface clearly       readable.
+Even torn,       scratched and partially missing surfaces can be read."
+- "With scan times of less than a second, the system is fast enough to be       used on a production       line."
+- "Ingenia has tested the system on the packaging used for various       high-value goods, like       perfume, along with the security seals used on dangerous or valuable       substances, and on       passports, postage stamps and documents such as financial instruments.
+As       the system       provides each item with an identity, it can be used to track genuine goods       and documents.
+Should a bank want to, it would be able to match every note it issued with       the serial number       printed on it.
+However clever a counterfeiter is, forging that is likely       to prove impossible."
+The LSA system is very versatile and "can be used to validate the       authenticity of official       documents, passports, visas, evidence certificates, ID cards, packaging       and products...LSA&#8482; can       be also used: (i) in the protection of national borders through the       authentication of documents and       personal identities, (ii) to identify counterfeiting of pharmaceuticals,       tobacco products, alcohol and       other vulnerable goods, (iii) to ensure secure supply chain management,       (iv) to help detect       currency counterfeiting, (v) for authentication of critical parts for the       aerospace and automotive       industries, (vi) to reduce 'grey market' issues, (vii) to prevent revenue       fraud, (viii) forensic analysis,       (ix) art and collectable item authentication, (x) document security" [L].
+Since its inception LSA has been internationally recognised via the award       of numerous prizes:            Winner of Global Security Challenge (2006)       Winner of Hermes International Technology Award with Bayer Technology         Services &#8212; a         &#8364;100,000 prize awarded at the Hanover Fair for the best new technology         exhibited (2007) [J]       Red Herring Global 100 award (2007) - the naming of Ingenia by the         investment magazine         Red Herring as one of the best 100 companies in the world for investment       EU Descartes Prize Nominee for excellence in trans-national         collaborative research (2008)

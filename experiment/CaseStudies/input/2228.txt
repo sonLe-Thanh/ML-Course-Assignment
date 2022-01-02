@@ -1,0 +1,33 @@
+ In many industrial sectors, the costs of designing for dependability can limit the range of potentially valuable applications that are developed.
+The proposition underpinning the technology developed in this study is that computer-assisted analysis of system models early in development allows the exploration of trade-offs between design alternatives, and the checking of critical properties related to dependability (including safety and security).
+This permits early elimination of infeasible or unsatisfactory designs before expensive commitments are made to implementation and test.
+Newcastle University research, embodied in tools VDMTools &amp; Rodin, allows improved analysis of system models; they automate processes, manage mathematical complexities and link with existing industrial standards like UML and the Eclipse IDE.
+The research has had two major impacts: one on business and one social in the educational and developer communities.
+Improved product development processes for industry The advantage to industry is in i) improved development processes that ii) make it more feasible to create dependable applications.
+Beneficiaries are not just businesses but the end users provided with new technology.
+Adoption by practitioners has been wide [E9] e.g.
+AeS Group in Brazil, Bosch in Germany and Space Systems Finland.
+We highlight further examples:  FeliCa Networks, a subsidiary of Sony and NTT DoCoMo, used VDM tools [E1, pg.345, 354] to develop firmware for the "mobile FeliCa" IC chip which allows mobile phones to be used as contactless swipe cards.
+This chip has many applications, e.g.
+they may be used to pay for services, used as train tickets or operate as door keys.
+The chip was incorporated in over 100 million Sony mobile phones in Japan [E1, pg.
+343] by 2009, and in over 200 million phones worldwide by 2012 [E7].
+The large numbers of users and the social infrastructure this technology supports mean that correctness of design is essential [E1] &#8212; the tools make this venture feasible by reducing the chances of errors in the end product.
+The Japanese company (NTT) who have adopted these tools report that using VDMTools improved error detection rates by factors of between 1.5 and 5 over previous processes [E2].
+Detecting errors early reduces development and maintenance costs, time to implementation, and take up of systems by users, all of which provide financial and competitive advantages, as the case of Mobile FeliCa above highlights.
+Two French companies (Systerel and ClearSy) [E6, E10] are using the Rodin tools and its plugins for validating large data sets in the railway domain, a venture made more efficient using the tools.
+Systerel has successfully used the method and the tool to improve the confidence in the specification of automated interlocking.
+Siemens have used the Rodin tools in various industrial projects for developing metro lines and airport shuttles in 2011 &amp; 2012 [E3, E9]; these include the modernisation of ALGER line 1, Sao Paolo line 4, Paris line 1 &amp; Charles de Gaulle Vehicle Automatique Leger.
+As with the railway system mentioned above, correctness of design is especially important for safety critical systems and any modification would be complex and expensive, making these tools especially important in making such ventures feasible.
+Adoption of research results by practitioners and educators Formal methods techniques, mostly inaccessible without expertise, are widely regarded as impractical outside of critical software analysis research [1].
+Our novel tools and approach to disseminating formal methods research has influenced industry to adopt and benefit from these techniques and engendered a lively international community of formal methods end-users.
+Some indicators &amp; examples:  The research has had an impact in the Higher Education sector extending beyond Newcastle University and the UK.
+The "Top SE" programme run by the National Institute of Informatics (NII) in Japan now in its 7th year, is supported by 45 companies, and accepts around 30 students per year, and aims to bridge the academia-industry gap in advanced software technology [E5].
+All courses in the Formal Specification series use VDM or Event-B.
+SAP, the world leader in enterprise software with operations in more than 130 countries has integrated the model-based scenario testing features of Rodin into developer kits [E3, E9] used by their large customer base.
+SCSK Systems, one of the largest software houses in Japan is now marketing VDMTools as a commercial toolset for the VDM and VDM++ design methods.
+The online prevalence of blogs, tutorials &amp; other support materials, third party plug-ins and support tools (not created by the researchers) are evidence of a large un-recorded market of users and beneficiaries.
+Sourceforge.net report over 800,000 downloads of Rodin tools in the impact period from a wide range of countries [E8].
+The Overture tool, available online, is an extended open source set of tools for VDM developed by the end-user community.
+"I regard the success of the Deploy project as a milestone in progress of formal methods....I am delighted that the continuing legacy of the project includes a form of repository, and a toolset in the public domain".
+Sir Tony Hoare (Microsoft) [E4]

@@ -1,0 +1,35 @@
+     Context     The impact of protection measures needs to be seen in the context of the       cost both financial and human when the power system fails.
+The cost of a       wide area blackout, caused by protection mal-operations and human errors,       is immense, e.g.
+the NE USA blackout (2003) directly caused 11 deaths and       cost the US economy $6bn [A] and the Indian blackout (2012) affected 700       million people [B].
+National Grid own and operate an increasingly stressed transmission       network in the UK, which is expected to become less stable and more       congested as fossil fuelled and nuclear power stations are retired.
+The       solution is multi-faceted, but transmission utilities are helping to       address their problems by exploiting research at Manchester on high       reliability protection and control.
+Pathways to Impact     To ensure the widest application of the research four strategies were       adopted:            Signing of a licensing agreement between Alstom Grid and the         University to ensure confidential information was made available to help         Alstom develop a commercial GPS synchronised differential protection         device.
+Input to industry related journals, conferences, and international         bodies.
+Two international organisations critical in the power systems         area are the Council on Large Electric Systems, (CIGRE) and the         International Electrotechnical Commission (IEC), which produce the         international technical handbooks and standards used by industry         globally.
+Provision of skilled engineers and researchers.
+Six of the PhD         students and Postdoctoral researchers involved in the research         subsequently joined Alstom or National Grid, which has helped these         companies to commercially exploit the research outcomes and develop         products based on the research.
+Investment by the University in a protection and control test facility         used by industry to evaluate new products.
+The facility allows         evaluation of time-synchronised protection with merging-units and         Ethernet communications, and evaluation of wide-area time dissemination         systems for use with protection and control.
+Reach and Significance of Impact     1. International Standards and Policy development     Prof Crossley was the convenor of a CIGRE working group that used this       research to help prepare the technical brochure, effectively the       engineers' working practice guidance document, on the life-time management       of relay settings (CIGRE 539 GT B5.31).
+The approved version of this       document was published in June 2013 [C] and this guide is now influencing       global protection strategy and helping manufacturers deliver what       utilities require.
+IEC61850 is the international standard for digital electrical       substations.
+The standard has developed over time and its extension to       protection and control was enabled by the implementation of time       synchronisation envisaged in this research.
+The IEC61859 standard was       updated to include the model for time synchronisation in July 2011 [D]     In the UK, National Grid have utilised the Manchester concepts to change       the National strategy on integrating the Control and Protection functions       within a substation (2002-2010) and to influence policy on the       Architecture for Substation Secondary System (AS3) (2010-date).
+This policy defines the functional architecture for all new protection and       control systems used on the GB Transmission Network.
+National Grid's price       control agreement with OFGEM allows expenditure of &#163;334.3m over the RIIO       period 2013-21 [E].
+2.
+Industry Uptake and Product Development     Most important transmission lines in the developed world are protected by       a combination of differential and distance protection, and the former       often uses GPS for time synchronisation.
+The major manufacturers have       developed products to meet the demand for such systems (e.g.
+Alstom MiCom       P594 GPS Synchronising unit; Toshiba Line Differential Protection GRL100;       GE L90 Line Current Differential System [F].
+Electrical equipment installed on the Power System typically has a life       of 40-60 years.
+As a consequence the rate of uptake of new developments       can be relatively slow in terms of the number of units installed.
+Nevertheless the global market in 2010 for GPS synchronised differential       feeder protection was worth more than &#163;400M per year, with the largest       user being China State Grid [G].
+3.
+Use of IEC61850 in substations     Industry has further developed the concepts originated in the research to       produce products of higher added value through the implementation of       centralised time servers which are synchronised with GPS and distribute       the time signal across Ethernet networks [H].
+National Grid has implemented GPS synchronisation within IEC61850 within       the AS3 development as part of their research and development       with the low carbon network fund provided by OFGEM.
+The project estimates       a potential saving of &#163;0.5m per year as the system is rolled out to       refurbished and newly built AS3 substations [I].
+With the UK       representing circa 5% of the global market this would suggest a global       market for substation upgrading of &#163;10m per annum.
+4.
+Mitigating Risk     At the end of the day the real value of all protection and control       systems is not in the value of systems implemented but in the costs       avoided by prevention of failure as shown by the $6bn economic loss in the       US blackout [A] and 700.000 people affected by the India blackout [B].
+The       cost of the systems implemented can be viewed as the insurance premium and       their effectiveness is measured by the lack of interruption of power       supplies.
+In the developed world most consumers now have the expectation       of power supplies being permanently available as they have rarely or never       experience a power network failure.

@@ -1,0 +1,40 @@
+     The extensive research which led to the demonstration of `bio-factory on       a chip' functionality       allowed Bangor to acquire a deep appreciation of the capabilities of laser       micromachining.
+The       unique combination of both excimer laser and femto-second laser       micro-machining at Bangor       provided a strong platform on which to broaden the use of a technology       which allows cost-effective       high resolution and accurate manufacturing using an almost unlimited range       of materials.
+Developmental activities pre-2008       A three-stage process was followed to utilise insights gained via research       to create industrial       impact of Bangor's laser micromachining expertise.
+In 2001 the activity       was included in the Institute       of Biological and Molecular Microsystem (IBMM) Centre of Excellence for       Technology and       Industrial Collaboration, CETIC (2001-2008) established at Bangor with       &#163;600k Welsh Government       funding.
+Dr N. Rizvi joined IBMM in 2003 having an innovative       profit-sharing salary package which       incentivised the provision of machining services to outside clients.
+In       2005, Bangor gained &#163;1.8M       support from the DTI Micro and Nanotechnology (MNT) Programme to host the       UK Laser       Micromachining Centre (UK-LMC) providing open-access service provision to       industry and       academia.
+UK-LMC was set up in 2005 to run financially independently from       the university through       the Bangor-created company Laser Micromachining Ltd (LML).
+This       independence was essential       in allowing UK-LMC to provide confidential services within very short time       frames.
+In July 2007 LML was also awarded the IMechE's Manufacturing Excellence       `MNT Quality Mark'.
+The award helps the company attract clients due to the external,       nationally competitive, recognition       of the quality of LML work attested by the MNT Quality Mark.
+Initially LML       made use of the laser       tools at Bangor, then in 2007 an independent facility was created at St       Asaph Business Park, north       Wales.
+Impact through knowledge transfer occurred through the movement of       Rizvi and Goater to       LML with Burt on a long term 70%-time secondment to the company since       2008.
+Industrial impacts of LML services       Since 2008 LML has commissioned 8 different laser workstations covering       deep UV to infrared,       nanosecond to femtosecond pulses, mask projection and direct write       machining methods.
+These       facilities have enabled LML to process a wide range of materials including       metals, polymers,       glasses, ceramics, semiconductors and more diverse materials such as       aerogels, diamond and       elastomers [6,7].
+LML's contract portfolio ranges from making modestly-       priced prototypes (often       delivered within days of receiving the order) through to multiple       production of intricate structures.
+This versatility has enabled LML service the requirements of a wide       customer base.
+LML Managing       Director Dr. Rizvi confirms that since 2008 LML has undertaken over 984       contracts for more than       280 different enterprises ranging from SMEs through to multinational       corporations [1, 3-5].
+While       most of its clients are UK- based around 20% are international.
+LML works       with a diverse set of       industries including medical (31%) biotechnology (6%) energy (9%)       photonics and optoelectronics       (13%) and microelectronics (8%).With an annual turn-over of circa &#163;0.5M,       LML has created and       sustained 5 full-time jobs.
+LML has also regularly provided training to       over 150 pan-European       researchers and industrialists in laser micro-machining via FRSM,       Neuchatel, Switzerland [1].
+LML's commercial services also enabled academic research with 36 UK, 11       European, 8 USA and       a further 8 worldwide universities using its services since 2008.
+Of the       QS World University       Rankings 7 of the top 10 universities are LML clients, 29 clients are       ranked in the top 100       universities.
+The following specific examples illustrate the significant economic       impact and the wide reach of       LML activities.
+Because of confidentiality, examples of specific impacts       below are provided without       disclosing company names.
+Company A is a global organisation originally with roots in       consumer electronics.
+While developing       a new biomedical cell sorting product, during 2011/2 company A made use of       LML's expertise to       produce sacrificial masters of the complex, core, disposable consumable of       the product.
+This       allowed full system automation and miniaturisation by 33%.
+These masters,       comprising a network       of microfluidic channels of differing depth, dimensions and blended       cross-sectional shape       machined to micron precision and sub-micron surface quality, were used in       an electroforming       process to produce metal mould tools for the large scale production of the       company's product       which, since early 2013, has been on sale worldwide.
+Company B and Company C, working in partnership to create       products to reduce energy wastage       by domestic appliances, tasked LML in 2010 to produce the critical       component of their products.
+Understanding of machining processes along with the development of bespoke       metrology solutions       allowed over 4 million parts to be produced for incorporation within the       final commercial product       with sub-micron reproducibility in aperture size.
+In 2012 Company D, a long established globally recognised name in       IT and electronics,       contracted LML to investigate the machining of candidate polymer display       materials.
+This work       used knowledge in laser/material interaction along with process control       for machining quality and       thermal management to study how a range of possible display materials,       both as pure materials       and composite structures, could be patterned using laser micromachining.
+In this work Company D       commissioned an extended research activity drawing on LML's practical       machining, process       development and data analysis capabilities.
+Industry and Customer Feedback confirms satisfaction with the       service provided by LML :       " Having followed LML's growth with interest it is clear that the company       now operates at the       highest levels of service provision and is very highly regarded for its       offering.
+"[2]     "Knowing well the challenges that the MNT centres faced in developing       their own commercial       propositions, the position which LML has established for itself within the       UK and international       micro-manufacturing community in such a short time is to be commended.
+"[3]     " The laser tools available in LML enable the company to process an       almost unlimited range of       materials and this allow LML to use its capabilities in fields from       medicine to microelectronics.
+It is       a testament to the deep and wide-ranging expertise resident within LML       that such a small, young       business has been able to compete in the international arena at such a       high level.
+"[4]     "LML is to be congratulated for having the agility to sustain and grow       its operations over the past       few years to a level where it has a reputation for excellence far outside       of the UK.
+Given the       increasing emphasis on micro and nano-technologies in many industrial       sectors it can be expected       that LML will be able to use its expertise to support users in industry,       commerce as well as in the       research community.
+"[5]

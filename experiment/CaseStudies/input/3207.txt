@@ -1,0 +1,31 @@
+     Direct Impact on classification and diagnosis       Diagnosis of myeloproliferative neoplasms.
+The discovery of JAK2       V617F (Green group and others) and exon 12 mutations (Green group) has       revolutionized the way in which MPNs are diagnosed (Refs 1-4) and these       changes became embedded in national and international guidelines between       2007-2011 (e.g.
+Refs 5-8, Guidelines from British Committee for Standards       in Haematology Guidelines, European LeukemiaNet and World Health       Organisation).
+Simple PCR-based assays for the mutations now provide       inexpensive and robust tests that are used throughout UK and in multiple       other countries as front-line diagnostic tools, improving patient care at       reduced cost (i.e.
+rendering unnecessary multiple tests previously       required for diagnosis).
+Polycythaemia vera.
+Prior to the identification of the JAK2 V617F       mutation the distinction of PV from other causes of erythrocytosis was       based on a complex diagnostic algorithm that included bone marrow       cytogenetics, growth of erythropoietin-independent erythroid colonies,       nuclear medicine red cell mass studies and spleen imaging.
+These       investigations are now no longer needed.
+The diagnosis of PV can be made       on the basis of a raised haemoglobin or haematocrit together with the       presence of the JAK2 mutation ((Refs 2 and 3), an approach now firmly       embedded in national and international guidelines (e.g.
+Ref 5, BCSH       guidelines for polycythaemia/erythrocytosis 2007; Ref 6, BCSH guidelines       for thrombocytosis 2010; Ref 7, European LeukemiaNet guidelines for       Philadelphia-negative classical myeloproliferative neoplasms 2011; Ref 8,       WHO guidelines for myeloproliferative neoplasms 2008, all of which cite       Green's work).
+Essential thrombocythaemia and primary myelofibrosis.
+Thrombocytosis is usually reactive in nature and only a minority of       patients with a raised platelet count have ET.
+Prior to discovery of the       JAK2 V617F mutation, the diagnosis of ET was primarily one of exclusion       and required eliminating the many possible causes of a reactive       thrombocytosis.
+Similarly bone marrow fibrosis has multiple possible       causes in addition to primary myelofibrosis.
+Identification of the JAK2       V617F mutation in ~60% of patients with ET or PMF has provided a simple       and objective test that removes reliance on subjective bone marrow       morphology and also the need to undertake investigations to exclude       reactive causes (Refs 1 and 2).
+Detection of the JAK2 V617F mutation is       now a key feature of national and international guidelines for ET and       primary myelofibrosis (PMF) (Ref 5, BCSH guidelines for       polycythaemia/erythrocytosis 2007 (still current); Ref 6, BCSH guidelines       for thrombocytosis 2010; Ref 7, European LeukemiaNet guidelines for       Philadelphia-negative classical myeloproliferative neoplasms 2011; Ref 8,       WHO guidelines for myeloproliferative neoplasms 2008).
+Budd-Chiari syndrome, intra-abdominal thrombosis, cerebral sinus         thrombosis.
+The introduction of testing for the JAK2 V617F mutation       has demonstrated that a subset of patients with a variety of large-vessel       venous thromboses has an occult MPN despite having normal haemoglobin,       white cell and platelet counts.
+Such patients can now be identified and       monitored for the development of an overt MPN (as described in Ref 4).
+Idiopathic erythrocytosis.
+Green's discovery of JAK2 exon 12       mutations in 2007 revealed the existence of a distinctive MPN syndrome,       patients with which had previously been labelled as having idiopathic       erythrocytosis.
+These patients present with an isolated erythrocytosis       usually without other features of PV, but the course of their disease is       similar to PV and includes transformation to myelofibrosis and acute       myeloid leukaemia.
+Detection of JAK2 exon 12 mutations allows accurate       diagnosis and is now embedded in national and international guidelines       (e.g.
+Refs 2,3,7 and 8).
+Direct impact on patient management       Therapy of myeloproliferative neoplasms and other malignancies.
+The       identification of gain-of-function mutations in most patients with an MPN       was followed by the rapid development of multiple different JAK2       inhibitors.
+Following on from the research of Green and others, the first       studies in man were reported in 2010 (Verstovcek et al NEJM 2010) only 5       years after the original reports of the JAK2 V617F mutation.
+Subsequent       phase 2 and 3 clinical trials have shown that the JAK inhibitor       ruxolitinib reduces systemic symptoms and splenomegaly in approximately       30% of patients with advanced phase disease including myelofibrosis       (Harrison et al NEJM 2012; Verstovcek et al NEJM 2012).
+Ruxolitinib is now       FDA approved for use in patients with myelofibrosis and several other JAK2       inhibitors are also in clinical trials.
+The relevance of JAK2 inhibitors       has significance to cancer research beyond the MPNs since JAK2 mutations       are seen in other haematological malignancies (e.g.
+acute lymphoblastic       leukaemia) and increased levels of JAK/STAT signalling are seen in many       forms of cancer.

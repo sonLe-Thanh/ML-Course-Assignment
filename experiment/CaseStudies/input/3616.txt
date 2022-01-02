@@ -1,0 +1,33 @@
+     1) Marine Energy     On EPSRC grants GR/S12333 and GR/S12326 CMMFA and project partners,       Queen's University Belfast (QUB) carried out a linked experimental and       numerical study of Oscillating Wave Surge Converters (OWSCs).
+The Marine       Renewables Energy Group at QUB are acknowledged world-leading device       developers within the wave energy community credited with the development       and installation of LIMPET,       the world's first grid-connected wave energy converter (WEC).
+The OWSC was       a novel hybrid of the LIMPET oscillating water column device and a       pendulor-type system with a hinged paddle surge converter.
+The work       involved wave tank tests at QUB and numerical modelling with CMMFA's       AMAZON suite of codes to extensively map the parameter space of the       device.
+This enabled particular parameters such as the hinge point       location and position of an inclined back plane to be isolated, studied in       detail and revised.
+The models allowed realistic scenarios to be explored       to provide device productivity results.
+The impact was design guidance         for OWSC devices and the OYSTER WEC was developed as a direct result of         this project [A].
+Subsequently, Aquamarine Power plc with a team of 45 people was formed in       2005 to bring the OYSTER technology to the commercial market [B].
+Since 2010, two full-scale prototypes of OYSTER         800 have been built and tested.
+In May 2013, the Scottish Government       granted a license for Aquamarine Power plc to develop the world's largest       grid-connected commercial wave power array deploying around 50 OYSTER       devices with a combined capacity to power almost 30,000 homes [C].
+In 2012, RCUK cited OYSTER as one of its Impact exemplars of UK energy         research and capacity building [D].
+2) Offshore Wind     The CMMFA was Co-Investigator on the Phase 2 EPSRC SUPERGEN WIND ENERGY       TECHNOLOGIES-CORE Consortium project EP/H018662, `Towards the Offshore       Wind Power Station' [2010-2014].
+This involved 26 academic and 7       industrial partners undertaking research to achieve an integrated, cost       effective, reliable and available Offshore Wind Power Station.
+CMMFA was       also a Co-Investigator on Phase 1 of the SUPERGEN WIND Energy Technologies       Consortium project EP/D034566 [2006-2010].
+The focus of the SUPERGEN WIND       project was on the technological challenges related to the exploitation of       the UK's extensive offshore wind refsource through interdisciplinary       research consisting of all relevant branches of engineering embracing       environmental impact, socio-economic and regulatory aspects.
+In       particular, this included electrical power engineering; condition       monitoring; use of innovative materials and active load reduction; rotor       aerodynamics; lighting and radar visibility; subsea foundations and       hydrodynamics.
+The project had 2 parallel themes.
+The first dealt with the       underlying physics and engineering of the offshore wind turbine farm       whilst the second looked specifically at the wind turbine itself, building       upon SUPERGEN Phase 1.
+The results of the two themes are now feeding into       a third Gathering Theme, which is developing the wind farm as an offshore       power station.
+Development focuses upon how the station should be       designed, operated and maintained for optimum reliability.
+It also       considers what form future developments should take such as the up-scaled       facilities on novel floating structures and the economics associated with       their implementation.
+CMMFA was the only UK CFD group involved as Investigators in SUPERGEN       WIND Phases 1, 2 with sole project responsibility for the subsea       foundations and hydrodynamics areas.
+Working with partners at Lancaster       and Hull universities, it combined numerical modelling with laboratory       studies of foundation scour at wind turbine mounts and wave loading on       fixed and floating mounts.
+Knowledge transfer (KT) in SUPERGEN WIND Phase       1 and 2 occurs outside of the traditional dissemination routes of academic       publications.
+In SUPERGEN WIND KT occurs through i) formal Consortium       Management Group Meetings, which are attended by all academic partners and       the 7 industrial project partners (e.g.
+E.ON plc, GL Garrad Hassan,       Alstrom Grid Ltd) [E], ii) Research Monographs targeted at       knowledge transfer to industry [F] and iii) development of future       industrial energy leaders through EPSRC Doctoral Training Centres (DTCs).
+These DTCs are part-funded by industrial partners who are also involved in       project selection, placement and recruitment of doctoral students [G].
+Knowledge transfer also occurs via the SUPERGEN WIND Annual Assembles [H]       at which CMMFA have presented their research.
+Annual Assemblies are       attended by over 50 industrial players in the wind energy sector and EPSRC       Programme Managers and Policy Makers, who set and revise the agenda for       the RCUK Energy programme.
+CMMFA were invited participants at the January       2013 Wind Energy Scoping Workshop convened by EPSRC [I].
+This       workshop defined the research areas to be prioritised for funding in Phase       3 of the 5-year programme from 2015, leading to the current Call for       Proposals under SUPERGEN WIND.
+The new areas in Phase 3 include further       work proposed by CMMFA on improved and adventurous foundation concepts to       increase understanding of the dynamics of floating platforms in deeper       water underpinned by the work carried out by CMMFA and partners in Phase 2       of the programme.
+CMMFA is the only UK university research group involved       as investigators and project partners in both SUPERGEN WIND and SUPERGEN       MARINE [J] programmes.

@@ -1,0 +1,38 @@
+     Approach to impact     Initially, the research (see Section 2) was undertaken by the team in the       Rolls-Royce UTC in Control and Systems Engineering within ACSE who       rigorously worked the programme through Technology Readiness Levels (TRLs)       2 and 3 from 2002-2004.
+In 2005, the academic team were invited to work closely with an       industrial research team [text removed for publication] to demonstrate the       feasibility of the concept for large civil engines, working through TRLs 4       to 6.
+The role of the RR-UTC team was to provide technical advice, design       procedure detail and supporting evidence through detailed simulations.
+A       team of experts representing systems, engine operability, performance and       control monitored the scheme.
+The scheme was submitted to an Approval Meeting [text removed for publication] 	for acceptance, and it proceeded through the remaining TRLs.
+Economic impacts     1.
+Rolls-Royce's business performance has been improved through the         introduction of the new design process     The new design process achieves a ten-fold reduction in the number of       tuning parameters (from 55 to 5) without detriment to control system       performance [S5, S6].
+This simplification of the design has led to cost       savings as a result of improved design practice, reduced development         effort, and streamlined verification requirements.
+Improved design practice:     The simplified design process provides a unified approach across       different projects.
+The simplified process is intuitive and makes the       controller easy to tune, thereby making it easier to train engineers to       use it.
+By adopting the same design methodology across the emerging       Rolls-Royce fleet, the company has made continued cost savings across       projects.
+The process has proven robust.
+A key characteristic of the design       methodology is the invariance of the designed controller to changes in the       engine design throughout the Engine Development Programme.
+There is no need to obtain a linearised model at various set points and       no need for an associated frequency-domain analysis.
+Dispensing with the       need for frequency-domain analysis enables the Rolls-Royce control       engineers to align with the non-linear time-domain models used by the       company's Performance Department.
+Reduced development effort:     The design exercise is:     shortened - requiring fewer tuning parameters;     simplified - it is no longer necessary to develop linearised GTE       models, nor is it necessary to use these models to define gains at all       power conditions and all altitudes; and     suitable - for modular insertion within the existing architecture       and, subsequently, to become part of the Rolls-Royce Product Line.
+As a result, development effort is both reduced and simplified, leading       to the need for fewer and less specialist design engineers.
+Streamlined verification requirements:     The costs associated with safety-critical aerospace software       certification are substantial and inroads into these costs are hugely       beneficial commercially to the company.
+The significant reduction in the       number of tuning parameters automatically leads to a simplification of       low- level software verification effort.
+The power dependency is now       encapsulated in a single internal table and the altitude dependency is       expressed within a simple thermodynamic scaling term.
+In the context of the certification-driven environment for introducing       changes to civil engines, the adoption and implementation of this new       control methodology to be used by Rolls-Royce engineers across the range       of configurations across the Trent engine fleet is a remarkable       achievement [S1].
+"This is the first new radical control law for over         20 years" (Control Systems Design Architect, Rolls-Royce).
+2.
+A sector has adopted a significantly changed technology     Control laws designed using this methodology are now implemented across       the latest Trent fleet of engines.
+The Rolls-Royce Trent 1000 engine,       achieved on-time certification on August 7, 2007, over seven months ahead       of the rival General Electric engine for the Dreamliner [S3].
+In 2013       Rolls-Royce was awarded certification for its higher efficiency and thrust       "package C" variant of the Trent 1000 engine that will power the Boeing       787-9 Dreamliner aircraft [S4].
+The new control system was granted a US       Patent in 2012 [S2].
+The Dreamliner's first flight was in December 2009 and it entered service       with All Nippon Airways (ANA) on October 26, 2011.
+The engine, has       delivered a dispatch reliability of better than 99.9%, which is a record       for a wide body aircraft engine [S4].
+The control law is currently in use on Trent 1000 (Boeing 787       Dreamliner), Trent XWB (Airbus A350 airframe) and BR725 (Gulfstream G650)       engines, and is planned for use on all future variants.
+Over 20 customers have selected the Trent 1000 to power their 787       Dreamliners and these include All Nippon Airways, Air China, Air Europa,       Air New Zealand, British Airways, Delta, Icelandair, International Lease       Finance Corporation, LOT, Thai Airways and Virgin Atlantic.
+Overall       commitments for the Airbus A350, powered by Trent XWB, total more than 592       with 34 customers.
+With spares, this will mean a requirement for more than       1100 engines.
+Firm aircraft orders include customers such as Emirates,       Qatar, Cathay Pacific and Singapore Airlines.
+The control law has also been implemented and validated on industrial       engines - evidence of its suitability as part of the wider Rolls-Royce       Product Line.
+Important reported benefits concerning its implementation on       industrial engines include simpler code implementation, reduced CPU       processing time and less code to maintain as a result of the control code       being reduced by approximately 40%.
+3.
+Performance has been improved through highly skilled people taking         up specialist roles drawing on their research     [text removed for publication]     The UTC is also proud to record that well over twenty of its engineers       have been recruited into Rolls-Royce and Aero Engine Controls; a       significant proportion already hold senior technical positions within the       company.

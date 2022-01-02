@@ -1,0 +1,30 @@
+ Although the experimental mixtures work conducted by Kortenkamp, Sumpter and co-workers raised the profile of the topic, the scientific findings in and of themselves could not open up avenues for improvements of chemical risk assessment and regulation.
+To achieve this, translational work in the appropriate political context in the European Union was necessary.
+Kortenkamp was actively involved in this translation and a State of the Art report on Mixture Toxicology for the European Commission (published whilst Kortenkamp was at the London School of Pharmacy) had considerable impact.
+It cited the work carried out by Sumpter, Brian, Tyler and Thorpe (Brunel staff and students at the time the research was carried out) as "Ecotoxicology that has played an important role in advancing mixture toxicology, with human and mammalian toxicology slowly catching up" (Kortenkamp et al, 2009).
+Several recent pieces of European chemicals legislation now require consideration of mixture effects, including the Plant Protection Product Regulation, PPPR (1107/2009) and the Biocidal Products Regulation (EU 528/2012), REACH, the Water Framework Directive, and the Cosmetics Directive.
+In the Water Framework Directive, it states that mixtures can be considered when their qualitative and quantitative composition is well described and that the concentration addition concept defined by Brunel's researchers can be used as a default for setting quality standards.
+Indeed, it is now unanimously agreed that for chemical mixtures, a classical tiered approach should be used and that the concept of concentration addition (CA) described by Brunel researchers is a suitable approach for the first tier assessment.
+Implementation of legislation is a separate step, requiring a framework and a methodology, that has still not been taken for the Water Framework Directive, the PPPR, the Biocidal Products Regulation or REACH, albeit there have been many calls for action.
+For pesticides and biocides, the European Commission mandated the European Food Safety Authority (EFSA) with working out the details for considering combination effects during the setting of maximum residue levels in food items.
+To this end, the EFSA Plant Protection Product Regulation (PPR) Panel instituted a working group which Kortenkamp was called to join as an external expert.
+The task of this group was to draft a Scientific Opinion of EFSA which was to be adopted by the EFSA PPR Panel.
+The EFSA working group began by deciding which chemicals should be considered together in mixtures risk assessment, in so-called common assessment groups usually made on the basis of specific criteria regarding common chemical structures and common toxicological mechanisms.
+The EFSA working group, however, developed a novel grouping strategy that began not with considerations of mechanisms, but instead using common adverse outcomes as the starting point for creating common assessment groups.
+Novel grouping criteria, based on the concept of shared toxicity and common adverse outcomes, irrespective of mechanisms, were developed for application to the regulatory framework.
+With this new grouping approach, all pesticides that affect e.g.
+the thyroid gland are considered together.
+The resulting large groupings (around 100 pesticides in the case of the thyroid) can then be broken down into finer groupings, according to additional mechanistic criteria, as and when they become available.
+This strategy was chosen with explicit reference to work conducted by Kortenkamp and collaborators (Christiansen et al.
+2012, Orton et al.
+2012) showing that cocktail effects of chemicals could occur independently of chemical and mechanistic similarity between the ingredients of the cocktail.
+In June 2013, the EFSA PPR Panel adopted this Scientific Opinion (EFSA 2013, published in July).
+The adoption process involved rigorous reviews to which Dr Daniel Pickford of Brunel's IfE contributed substantially as an EFSA PPR Panel member.
+Some of the proposed new assessment groups consist of nearly 100 active pesticidal substances.
+This marks a radical departure from practice in the USA, where up to now a maximum of 5 pesticides are included in the same assessment group.
+The novel approach taken by EFSA will set a precedent internationally, not only for pesticides regulation, but for the regulation of chemicals in general.
+The Scientific Opinion (EFSA 2013) is shaping profoundly the way in which maximum residue levels for pesticides in food items are set.
+For the first time, these decisions will be made by taking account of combination effects of pesticides.
+In certain cases, maximum residue levels may have to be lowered and this will lead to better protection of consumers from pesticide residues.
+In turn, this will reduce total health impacts from pesticide use in Europe (currently estimated at around 2000 disability adjusted life years lost per year) and reduce EU consumer concern regarding pesticide residues (currently the EU barometer states 72% of EU consumers are worried about exposure to pesticide residues).
+The "knock on" effects internationally, will also lower general public and occupational allowable exposures to pesticides in other countries, such as the USA and Japan.

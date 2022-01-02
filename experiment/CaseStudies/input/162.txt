@@ -1,0 +1,23 @@
+     Research reference 2 above led to immediate interest by the       pharmaceutical industry.
+A large body       of in vitro and in vivo evidence supports the hypothesis       that disrupting the Nrf2/Keap1 interaction is       a valid approach for anti-inflammatory therapy.
+Traditionally, the       disruption of such protein-protein       interactions has been highly challenging for the pharmaceutical industry.
+Nevertheless, small       molecules had been found that bind to Keap1 and prevent its interaction       with Nrf2.
+Although one of       these (bardoxolone) has entered clinical trials, it attaches to Keap1       covalently, with the potential for       undesired side effects by nonspecific binding.
+It would be preferable to       achieve Keap1 blockage       with a reversible competitive ligand, and work by O'Connell and Searcey       was the first to show that       the Nrf2/Keap1 interaction can be blocked in cells by a reversible ligand,       provided that the       molecule has high cell permeability.
+The results provide a valuable proof       of concept that reversible       Nrf2/Keap1 disruption has the same anti-inflammatory effects in cells as       the earlier irreversible       approach.
+This discovery lays the foundation for the discovery of second       generation reversible       ligands with improved drug-like properties over the original peptides.
+Searcey was contacted by Novartis, who requested samples of the       peptide TAT14 for their       research.
+To quote [text removed for publication] at Novartis UK:     [text removed for publication]     (Corroborative source A)     Later, Novartis had a contract company make the peptide as the       amount needed was too large for       the Searcey group to synthesise in-house.
+Independently, AstraZeneca       showed interest in the       activity of TAT14 and carried out studies in their own laboratories,       including Surface Plasmon       Resonance (SPR) and other techniques to quantify the binding between the       peptide and Keap1.
+Following these expressions of interest from the pharmaceutical industry,       TAT14 is already       available in the catalogues of two pharmaceutical/fine chemical companies.
+In 2013, Searcey was       approached by the biotech company Tocris Bioscience to discuss the       sale of the TAT14 peptide as       a chemical biology tool.
+Tocris describes the utility of TAT14 as       follows:     "Currently, there are very few pharmacologically active and         commercially available         tools for studying this (Nrf2) transcription factor in cell culture.
+Nrf2 activation tends         to be an ancillary activity for most of the small molecules Tocris         sells for this target         (e.g.
+curcumin, andrographolide, methyl fumarates).
+Therefore, a peptide         selectively         targeting Nrf2, particularly one with proven cellular activity should         prove to be an         important tool in the arsenal for cell biologists studying cellular         stress mediated         through the Nrf2/Keap1 pathway."
+(Corroborative source B).
+Tocris made TAT14 available for sale in March 2013 and cite       reference 2 above on their web page       (Corroborative source C).
+Within a few months, they had sold [text       removed for publication] TAT14.
+[text removed for publication]       the commercial potential of       TAT14 will only be known after a full year on the market.
+Meanwhile, the       American biotech       company, EMD Millipore Chemicals (also known as Calbiochem),       has introduced TAT14 for sale       (Corroborative source D).
+Although this research was only published in 2012, the commercialisation       by two companies less       than a year later highlights the utility of TAT14 for inflammation       research and drug discovery.

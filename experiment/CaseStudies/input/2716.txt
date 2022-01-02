@@ -1,0 +1,33 @@
+     ERPE researchers have advanced and contributed to the science of       automatic feature recognition.
+This research was critical to the development of the feature finder       functionality now incorporated in the EdgeCAM "Solid Machinist" module and       brought the product to market significantly quicker than would otherwise       have done [S5].
+According to the Software Development Manager, Vero UK       (Planit's parent company), "This work brought Solid Machinist to market         quicker and some of the algorithms are still in use.
+The technology was         part of the reason why Planit PLC bought Pathtrace in 2006, as the vital         part of the functionality in EdgeCAM was the principal product of         Pathtrace" [S1].
+Solid Machinist is used by customers all around the       world for milling and turning of components, modelled in various different       CAD formats.
+EdgeCAM Solid Machinist uses automatic feature recognition [1, 3]       to interrogate the solid model and quickly identify machinable features.
+EdgeCAM then offers the user the most appropriate tooling and machining       strategy to generate accurate toolpaths [2].
+"The research developed         collaboratively with ERPE provided the building blocks of the software         used by our core customers in industries such as aerospace, automotive,         energy and medical sectors.
+From a position where 7 years ago, 20% of         our customers used the software, to approximately 65% of our customers         using the software now demonstrates that the integrity of the         collaborative research means that the technology meets customer needs         more closely.
+Without strong University collaboration, developing         sustainable R &amp; D is very difficult to justify financially for a         company like EdgeCAM.
+While it is considered one of the world's leading         independent solid machinist CAM package, with 10 - 15% of the world         market, the demands on the business mean that there is little capacity         to undertake such high risk work."
+Senior Manager at EdgeCAM.
+[S2]     The related company ShapeSpace Ltd., was developed to provide       leading edge tools to design engineers and to those concerned with the       management of design data.
+With Scottish Enterprise and Royal Society of       Edinburgh support in 2005, through an Enterprise Fellow award, Sherlock       launched ShapeSpace.
+Private funding and a SMART award led to the       development of search software for engineering and manufacturing companies       in 2008.
+A specific problem addressed is the location of product-related data in       large file systems and intranets.
+The ERPE 3D shape browser was thus       designed [4, 5] to allow engineers to search for product data in their       management systems or databases via the associated part shapes.
+This       enables design re-use, better file management through the identification       of duplicate and similar parts.
+Additionally recent collaborations have       led to the development of tools that assist managers to better view the       state of the total design effort for new products.
+"One of the most costly overheads of 3D CAD design and modeling is the         creation of stock parts.
+ShapeSpace makes searching for these, sometimes         mislaid, parts a fast and intuitive process and has already saved me         hours spent recreating already existing models...We model shapes in 3D         so what better way to search for them than in 3D!"
+Senior Design       Draughtsman, Chemring EOD Ltd., [S3].
+These tools have led to directly sellable products that are now offered       by the company and its long term development plan is based on ERPE       collaboration.
+In 2008 the company's strategy changed to develop expertise       which would make them recognized as world experts in part searching       technologies and in the representation of complex product data.
+This led       to the ShapeSpace partnering with Actify Inc., (a San Francisco based       software company) on an initial two year contract with Jaguar Land Rover       for the supply of product status tracking software for all new vehicle       programs in development.
+In October 2012, the formal investment and equity sharing arrangement       with Actify Inc., http://www.actify.co.uk/resources/press-releases/812-2/,       led to the opening of a joint office [S6] with a new period of growth to       access to new markets, especially automotive industries in the US and       Germany, and the continued development of new products around data       analytics and business intelligence for discrete manufacturing.
+Currently,       6 people are employed in the Edinburgh office.
+ShapeSpace current market       value, calculated on recent share trades is around &#163;0.7M, following the       significant investment by Actify.
+The new products, which enhance the original technology, in the area of       data analytics for product data which result from the 2012 SMART award,       have seen significant traction in the market both in the UK and globally.
+Current customers include Jaguar Land Rover, Weir Group, CSC, JCB, Lucy       Switchgear in the UK and Exterior Systems Engineering, Benteler Automotive       Corporation, Magna Inc, Complete Prototype Services, Inc., Inalfa Inc,       Dienamic Tooling Systems, Inc and Autotek Mexico, S.A. in North America.
+"The research at the University of Edinburgh on geometric reasoning         for shape recognition was instrumental in the development of the         technology that underpins ShapeSpace's growth in the area of data         analytics for engineering and manufacturing industries.
+The University's         support of Andrew Sherlock's academic career, which led to him securing         the Royal Society of Edinburgh-Scottish Enterprise funded Enterprise         Fellowship, very successfully enabled the formation of our company,         ShapeSpace."
+Senior Software Engineer, ShapeSpace [S4].

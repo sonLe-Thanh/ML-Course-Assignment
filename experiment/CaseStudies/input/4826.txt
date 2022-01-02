@@ -1,0 +1,41 @@
+     The primary impact of Surrey's research is economic through the creation       of a viable spin-out company, new jobs, and new commercial products.
+Impact from the research started in 2001, and it continued throughout the       REF period.
+Soon after the terrorist attacks in the USA on September 11, 2001, Morton       met with leading experts in security inspection.
+This meeting inspired the       creation of a spin-out company, called CXR Ltd, in the summer of 2002.
+Morton was the founding director and CEO, and three members of the       university research team (Luggar, DeAntonis, Menezes) were employed there.
+This job creation marked the first example of economic impact.
+The work       conducted at the University and subsequently at CXR Ltd. led to the filing       of over 20 patent families on all aspects of the design and application of       RTT systems [Corroboration C1].
+In 2004, after three rounds of investment,       OSI Systems Inc, a global privately-held company, embedded CXR's       technology in its security division company, called Rapiscan Systems,       which is based in the UK.
+According to an OSI Systems report in 2005, the company had the vision       that RTT "if successfully completed, could provide significant       improvements over current hold baggage screening technologies."
+[C2]       Today, the primary application of RTT technology is in the security       inspection business, specifically for high-throughput automated screening       of hold baggage for improvised explosive devices.
+Since the formation of the spin-out company, many $M have been invested       in the technology.
+In early 2009 two types of high-speed baggage systems,       with tunnel diameters of 80 cm and 110 cm, were trialled at Manchester       Airport in a $7M contract (making additional economic impact).
+[C3] The key       objectives of the trials were to establish reliability of the system with       real passenger bags, to collect data for certification, and to benchmark       the system integration efficiency.
+Certification was obtained for the 80       and 110 cm systems in 2012 and 2013, respectively, approving them for use       as standard three-hold baggage screening systems with automated explosives       detection.
+Following the trials, the first two fully-operational systems       will be installed at Manchester Airport as part of a contract worth in       excess of $20 million.
+Scanning airport baggage for explosives and other suspicious items is       usually a time-consuming task.
+First, bags go through an automated X-ray       system and, if this shows something suspicious, the bag is put into an       automated hospital-style X-ray computerised tomography (CT) scanner, which       is used to build up a cross-sectional image.
+However, CT scanning is slow,       and the initial X-ray scan often throws up false positives.
+Surrey's       research developed a system that can produce CT images in the same time as       a single automated X-ray system.
+RTT cuts out one step of the scanning       process, it reduces the cost of scanning, and it also reduces false       positives [ref.
+C4, C5].
+When applied to hold baggage, RTT scanners can       scan 1200 to 1800 bags per hour, which is four times faster than current       technologies, which is beneficial to the aviation industry and to airport       passengers.
+Rapiscan's RTT 80 System offers significant cost savings in       comparison to standard CT scanning [C6]: up to 50% on maintenance; 33% on       infrastructure (installation and integration); 23% lower hardware costs       (fewer machines required because of faster scanning); and 30% on lifetime       recurring costs.
+The technology arising from Surrey's research has led to job creation and       new industrial products.
+More than 50 engineers are employed on Rapiscan's       RTT programme at a new UK factory in Salfords, Surrey that was       specifically built for the manufacture of the key technology in the RTT       system: the multi-emitter X-ray tube.
+Thus, the technology and principles       behind RTT are together creating economic impact through a major       export-led business, based in the UK, with US financial backing.
+[C7]     There is other continuing economic impact in job creation and exports.
+A       broad technology platform for high energy X-ray inspection of cargo       systems, developed by Morton, is manufactured in the UK from a       purpose-built factory (65,000 sq.
+ft.) near Stoke-on-Trent.
+This factory       currently employs over 60 staff in both engineering and operations.
+From       here, $M high energy inspection systems are exported to all parts of the       world.
+Parts of these systems use the core detection and electronics       technologies that were initially developed with University expertise at       CXR.
+EPSRC has recognised the Surrey research as having a high impact.
+Specifically, they highlighted the Surrey research in their 2011 Annual       Report as an example of "high quality and high impact projects funded       through investigator-initiated research base funding."
+[C8] The       significance of the RTT technology behind the Rapiscan Systems products       was recognised by an award from The Engineer magazine in the       category of Defence and Security and by the Best Innovator Award (2011/12)       from the Airport Operators Association.
+[C9]     Rapiscan Systems and CXR Ltd. have made significant efforts to engage       with the wider research community.
+Active research programmes are in place       with the University of Surrey as well as with STFC staff at Harwell and       Daresbury.
+There is on-going research on RTT reconstruction algorithms.
+The methods so developed are now being written in real-time       implementations for use in the main RTT systems.
+EU European Civil Aviation Conference "Standard 3" requirements for       explosive detection systems stipulate that after 2014 all new baggage       systems must use CT scanners and by 2018 all old, non-CT systems must be       replaced.
+With the RTT scanner that emerged from Surrey research, Rapiscan       Systems is therefore well placed to become the major supplier of CT       scanners to airports in Europe and the rest of the world.

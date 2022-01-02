@@ -1,0 +1,33 @@
+     Stephenson's work has had a range of impacts on the industry.
+The       publicly released source code for the anti-aliased noise research has been       used at a number of studios and led to commercial rendering systems       introducing their own variants (P3); vector texturing techniques allowed       2D vector artwork to be directly applied to 3D surfaces, which was       implemented by Pixar in 2011 (P4); file compression techniques were used       at Core Studios, Toronto to significantly reduce their disk space usage       (P5).
+The most significant impact though is that of Stephenson's motion blur       research.
+The NCCA made the full implementation details publically       available in an `open source' format, with the intention that the approach       could be widely adopted.
+Following the SIGGRAPH 2005 presentation, Stephenson entered discussions       with Pixar about his new techniques for motion blur.
+The Vice President of       PRMan Products and a number of software developers were present.
+In 2007,       Pixar implemented "Slow Shutter Opening/Timing" in their Photorealistic       RenderMan (PRMan) Softwarewith the first films to use the technique       emerging in 2008.
+The shutter opening controls were announced as a "Major       New Feature" of PRMan 13 (R2).
+In an email to BU, dated 27/07/2011, the Business Director for PRMan at       Pixar said: "The Shutter Opening feature in Pixar's RenderMan software       derived significant inspiration from the SIGGRAPH 2005 Sketch and JGT [Journal         of Graphic Tools] 07 paper on Motion Blur authored by Ian Stephenson       of Bournemouth University."
+He concludes: "The influence of this work on       the development of the Shutter Opening Feature is fully acknowledged by       Pixar Animation Studios'' (R3).
+PRMan is used to produce all of Pixar's films as well as being       commercially sold to other animation and digital effects production       companies.
+Though motion blur is only one aspect of the highly complex       techniques used for rendering, attention to detail at this level is what       distinguishes high end commercial systems such as PRMan.
+Pixar's       promotional material for their PRMan software specifically highlights the       improved Motion Blur as one of its key features, describing shutter timing       as "an innovative creative control for artistically sculpting the fall-off       of blur" (R4&amp;R5).
+Pixar     The first Pixar animation to make use of Shutter Opening was in       production of the short film, Presto, released in 2008.
+Director, Doug       Sweetland considered that appropriate motion blur was essential for the       story and was very specific about the type of effect he wanted.
+Shutter       opening was the feature that made the film possible.
+He describes the new       approach as "critical [for creating the] specific look", providing       "creative control [and allowing the] creative vision to be realised" (R4).
+Presto was used in the opening for the animated film Wall-E in 3,992       theatres in the US alone.
+Wall-E's worldwide gross was in the region of       $521,311,860 (R6).
+Presto itself was nominated for an Academy Award and an       Annie for Best Short film.
+In Internet Movie Database's (IMDb) list of       best short films of all time, Presto received the highest rating (R7).
+Following the success of the technique in Presto, Pixar began producing       Cars 2, which was released in 2011.
+Motion Blur was used extensively in       the film, which was more dependent on high speed action than any previous       Pixar film.
+Cars 2 has a worldwide gross of $559,852,396 (R8).
+Wider Influence     Pixar are an important software developer within the film industry (R4)       and their software has been used by 49 out of the last 53 nominees for       Visual Effects Academy Award.
+They sell their PRMan rendering software to       most of the major digital effects studios.
+The extensive reach of the       software is evident through their international clients, which include       Digital Domain, USA; Weta Digital, New Zealand; Moving Picture Company       (MPC), USA and Canada; Industrial Light and Magic (ILM) UK; Framestore (UK       and USA), Cinesite, UK and Double Negative, UK among others.
+PRman       currently costs $2000 per copy, plus $600 annual maintenance.
+Studios such       as these require thousands of copies each; generating significant revenue       for Pixar.
+Through its inclusion within PRMan, the Shutter Timing technique is now       part of the software used on virtually every major feature film production       including (in 2012 alone): The Avengers, Bourne Legacy, Brave, The Dark       Night, The Hobbit, Jon Carter, Life of Pi, Men in Black 3, Prometheus,       Ted, Total Recall and Skyfall (R9).
+Though motion blur is a tiny part of these projects, the films alone       generated billions of dollars in revenue and were viewed by hundreds of       millions of people.
+Artists working on them recognise the importance of       small details and, although the average audience member may not be able to       explicitly identify them, they contribute significantly to the viewing       experience.
+This in turn contributes to the global animation industry       worth $207 US billion.

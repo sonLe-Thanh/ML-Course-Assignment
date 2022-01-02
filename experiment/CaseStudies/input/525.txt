@@ -1,0 +1,33 @@
+     In the early years of this century, a number of international companies       were interested in commercialising the then-nascent area of software agent       technologies, with the goal of obtaining competitive advantage in the       fiercely complex area of distributed software systems.
+Whitestein       Technologies AG was one such company.
+Based in Switzerland, with offices       in Z&#252;rich, Stuttgart, Luxembourg, and Bratislava, Whitestein is a software       solutions provider, operating in the domains of financial services,       logistics, and telecommunications, both in the private and public sector.
+Founded in 1999, Whitestein aimed to develop a robust,       industrial-strength suite of software development tools and techniques,       which would leverage the advantage that they perceived the agent paradigm       would gain in the complex software systems marketplace.
+To this end,       Whitestein developed an Agent Modelling Language (AML), which was       essentially a UML-adapted instantiation of the Gaia methodology.
+In the       words of Whitestein's current Chief Operating Officer:       "Gaia directly influenced, and indeed inspired, the development of our       Agent Modelling Language (AML)."
+(16 March 2012)     This is borne out by the standard reference on AML:       R. Cervenka and I. Trencansky, The Agent Modeling Language - AML: A         Comprehensive Approach to Modeling Multi-Agent Systems, Birkh&#228;user       Verlag, 2007.      which both cites Gaia preeminently among agent-oriented methodologies       (page 4), and offers Wooldridge's work as the rationale for the       development of AML (page 6).
+The AML was in turn used as the basis for Whitestein's GO-BPMN language.
+GO-BPMN (Goal- Oriented Business Process Modelling Notation) is a       proprietary extension of the Object Management Group's Business Process       Model and Notation (OMG BPMN 1.2/2.0 - see http://www.bpmn.org/).
+This extension makes it possible to specify objectives (goals) directly in       a process model.
+The GO-BPMN language is the centrepiece of Whitestein's       Living Systems Process Suite for business process management (BPM) which       is the major commercial offering by Whitestein.
+The chief advantage brought by the Gaia/agent approach over alternative       BPM approaches is its goal-orientation, both at the model level (notation)       and at the execution level.
+The execution level has a goal-oriented engine       wherein every process instance is managed by an agent.
+Process goals are       explicitly represented within the agents, which then reason about the       optimal path of execution for the process in real time.
+The goal-oriented       view is significant in that it allows businesses to abstract away from the       specific processes used to achieve business goals, and to reason instead       about business goals, the relationships between them, and the overall       processes and plans that can be used to achieve these goals.
+Competing BPM       frameworks tend to focus instead on procedures, rather than on goals.
+In addition to his direct influence on the development of Whitestein's       Living Systems Process and AML via the Gaia Methodology, between 2000 and       2005 Wooldridge also interacted with Whitestein employees through the       AgentLink EC-funded Network of Excellence for Agent-Based Computing, which       Wooldridge founded in 1997.
+A key mission of AgentLink was to foster links       between academic providers of new technologies and systems and industrial       consumers of such technology.
+Evidence for the impact and innovation of Whitestein's Living Systems       Process Suite since 2008 is provided by reports from three internationally       leading IT advisory companies.
+First, Gartner Inc. named Whitestein a Cool       Vendor in BPM in 2010 (see [3] in Section 5).
+Gartner defines a cool       vendor as a company that offers technologies or solutions that are innovative       (enable users to do things they couldn't do before) and impactful       (have, or will have, business impact - not just technology for the sake of       technology) and states in its report:       "The concept and architecture behind Whitestein's Living Systems Process       Suite is unique because it leverages a multiagent approach to create       self-adaptive behavior in a proactive and reactive manner."
+Second, international analyst and consultancy firm Ovum Ltd. states in       its report from 2011 (see [4] in Section 5):       "The Living Systems Process Suite stands out because of its goal-oriented       structure, which delivers adaptive case management capabilities as a       seamless extension of dynamic BPM."
+Third, European IT advisory firm MWD confirms in 2010 (see [5] in Section       5):       "Many BPM technology vendors talk about being able to support continuous       process improvement and dynamic process optimization, but with an approach       that uses goals as a first-class design citizen rather than being an       add-on specified in a monitoring tool, the Living Systems Process Suite       truly delivers on that promise."
+Whitestein's Living Systems Process Suite delivers several million pounds       per year of revenues, which corresponds to 50% of their total business       revenues.
+Whitestein now has more than 50 employees (figures accurate as       of March 2013).
+Customers of Whitestein's BPM technology since 2008       include the following:             Daimler Benz AG has used Whitestein's BPMS since 2009.
+It has been         deployed to over 12, 000 users in Daimler engineering centres worldwide         (see [6] in Section 5).
+Global energy commodity trader Transcor Astra Group uses Whitestein's         BPMS since 2011 for commodity and financial instrument trading processes         (see [7] in Section 5).
+Vienna Insurance Group uses Whitestein's BPMS since 2011 to gain         operational agility in damage assessment (see [8] in Section 5).
+The US Department of Veterans Affairs are using Whitestein's BPMS for         automated claim processing.
+Here, Whitestein's Living Systems Process         Suite is at the core of an automation project that was nominated by PEX         Week Orlando 2013 as one of four finalists for the 2013 Best BPM Project         award (see [9] in Section 5).
+In summary, the Gaia methodology provided the foundation upon which       Whitestein developed tools and services that provide the core of their       successful continuing business.
+The approach provides clear advantages for       Whitestein and their customers in an important marketplace.

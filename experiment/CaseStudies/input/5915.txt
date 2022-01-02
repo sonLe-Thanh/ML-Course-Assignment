@@ -1,0 +1,52 @@
+     Impact:     The underpinning research was exploited in the design of an RTOS, used in       automotive ECUs, and its associated schedulability analysis tools.
+The       research was initially exploited by a start-up company founded by       University of York researchers, which was subsequently bought by ETAS (www.etas.com/en/).
+ETAS currently       sell two versions of the RTOS, RTA-OSEK and RTA-OS compliant with the OSEK       (Offene Systeme und deren         Schnittstellen f&#252;r die Elektronik in Kraftfahrzeugen;       in English: "Open Systems and their Interfaces for the Electronics in       Motor Vehicles") and AUTOSAR (AUTomotive Open System ARchitecture)       operating system standards respectively.
+The RTOS is currently available for more than 25 different ECU       microcontrollers [6] including: Renesas: V850E, SH2, SH2A, H8S, H8SX,       M16C; Xilinx Microblaze, PPC405 Core; Texas Instruments TMS470P, TMS570P;       Infineon Tricore TC17x6, C166, XC2000; Freescale Star12, MPC555, MPC55xx,       S12X, MPC56x, HC12X16, HC08, HCS12; Fujitsu 16LX; Analog Devices Blackfin,       STMicroelectronics ST30, ST7, ST10.
+Since 2008, the RTOS has been deployed in 50 to 55 million new ECUs each       year.
+ETAS customers for the RTOS cover a wide range of application areas       within Automotive Electronics: [text removed for publication].
+Each of       these customers supplies different families of ECUs incorporating the       RTOS.
+The RTOS has been standardised upon (used by default in all ECUs) by       [text removed for publication].
+([text removed for publication] in terms       of world-wide automotive powertrain systems suppliers.
+[text removed for       publication] all rank in the top [text removed for publication] world-wide       for chassis electronics).
+The RTOS is used in vehicles produced by [text removed for publication]       and many others.
+Revenues from the RTOS exceeds [text removed for publication] per year.
+Corroboration of all of the facts presented above about ETAS and its       products and customers etc.
+can be obtained from [7].
+Route to Impact:     Above we detailed specific exploitation of the technology and impact and       during the REF period.
+Below we detail the evidential link between the       underpinning research and that impact.
+In 1997, Robert Davis and Ken Tindell (both previously members of the       RTSRG) co-founded a company called Northern Real-Time Applications (NRTA)       Ltd., with the aim of developing an RTOS and schedulability analysis tools       specifically tailored to automotive applications that use low cost       microcontrollers.
+In doing so, they utilised the underpinning research       that they had been involved in and heavily exposed to while at the       University of York (see Section 2).
+There were two fundamental design goals: (1) The real-time behaviour of       systems built using the RTOS must be fully analysable using schedulability       analysis tools.
+In other words the behaviour of the RTOS must match the       assumptions of the underpinning schedulability analysis techniques.
+(2)       The memory and execution time overheads of the RTOS must be significantly       less than those of any other RTOS available for use in automotive       applications.
+Robert Davis led the team that developed the SSX5 RTOS and associated       schedulability analysis tools (originally called the "Time Compiler",       later "Real-Time Architect (RTA)").
+The schedulability analysis tools       implemented Response Time Analysis as introduced by the underpinning       research [1], [2], [3], [4], and [5].
+The SSX5 RTOS was developed       precisely to meet the assumptions of this analysis.
+The execution time       overheads were minimised and made constant, independent of the number of       tasks, allowing them to be accurately measured and this data used in the       schedulability analysis.
+The memory overheads of applications built on       SSX5 were radically reduced by comparison with other automotive RTOS.
+This       was achieved via the use of single-stack execution and compile time, i.e.
+off-line, configuration of the RTOS data structures to minimise RAM usage.
+NRTA attracted significant venture capital funding in 1998 (&#163;1 million       from 3i) and again in 2000 (&#163;9.2 million from 3i and TecCapital).
+In 2001,       the company changed its name to LiveDevices Ltd.
+In March 2003 LiveDevices was sold to ETAS GmbH, a wholly owned       subsidiary of Robert Bosch GmbH.
+The reason for the trade sale was that       Robert Bosch had benchmarked RTA-OSEK and found it to be significantly       more efficient than its subsidiary's Ercos RTOS.
+Rather than attempt to       write a new OSEK RTOS from scratch and compete with LiveDevices, ETAS       chose to buy the company, bringing the RTA-OSEK technology and the 20+       LiveDevices engineering team in-house.
+Standards:     During the development of the SSX5 RTOS, the automotive industry was       working on standards via the OSEK organisation.
+As a Technical Committee       Member of OSEK [8], NRTA influenced the OSEK OS standard [9] ensuring that       the basic conformance classes (BCCx) could be achieved with a single-stack       RTOS, leveraging the execution time and memory savings which that approach       facilitates.
+NRTA modified the SSX5 RTOS to comply with the OSEK standard,       in the process renaming the product RTA-OSEK.
+Subsequently, ETAS, as a premium partner [10] of the AUTOSAR (AUTomotive       Open System ARchitecture) partnership, have been heavily involved in       specifying the AUTOSAR operating system standard [11], which extends the       OSEK operating system standard.
+ETAS derived an AUTOSAR compliant RTOS       called RTA-OS from RTA-OSEK [6].
+(Note in [6] RTA-OSEK `Planner' is the       new name for the schedulability analysis tools, while `Builder' is the       name for the off-line configuration tool).
+Beneficiaries:     Use of the RTOS and its associated schedulability analysis tools has       benefitted automotive manufacturers and their Tier 1 suppliers in the       following ways: (i) A reduced memory footprint means that cheaper       microcontroller variants with smaller on-chip RAM / Flash memory can be       used.
+This has reduced unit costs in production.
+(ii) The very low       execution time overheads of the RTOS mean that more functionality can be       included on a given low cost microprocessor reducing costs by avoiding the       need for hardware upgrades to more capable but expensive devices.
+(iii) A       reduction in the time spent debugging intermittent timing issues.
+Schedulability analysis and appropriate use of proven real-time mechanisms       have enabled off-line analysis of task response times, reducing system       integration time and testing effort, and improving reliability.
+For these       reasons the world's major ECU suppliers and car manufacturers have adopted       this technology.
+In a competitive market, some of these benefits will have       been passed on to their customers in the form of cheaper, more reliable       vehicles.
+The Automotive Electronics market is both huge and highly competitive,       with electronics now contributing 15-30% of overall vehicle production       costs.
+For the reasons given above, the world's leading Automotive OEMs       and Tier-1 suppliers have adopted the RTA-OSEK and RTA-OS operating       systems.
+They have done so for the substantial benefits it brings to them       and to their customers.
+The technology has led directly to the creation and sustaining,       throughout 2008-2013, of over [text removed for publication] high       technology jobs in York [7].
+The fact that ETAS has offices in York is a       direct consequence of the underpinning research as described in the       narrative.
+(Note ETAS is head-quartered in Germany and has offices in 12       other countries).

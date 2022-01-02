@@ -1,0 +1,45 @@
+     The main contribution of the research is to provide numerical-statistical       methods that make the practical use of generalized additive models as       reliable and routine as the use of generalized linear models has long       been, ensuring wide uptake of the methods beyond academic research.
+The       quality of the methods produced by the research has been recognised by the       R core team's inclusion of the Bath produced software "mgcv" as one of       only a dozen recommended packages (out of thousands) supplied with all       versions of the R statistical computing environment.
+R is an open source statistical package/environment that is widely used       both in academia and beyond [A].
+While the wide academic uptake of R is       doubtless driven partly by the fact that it is free, this is less likely       as a primary driver of business uptake, where reliability and flexibility       are overriding concerns.
+mgcv and its underpinning research are part of       providing this reliability and flexibility.
+Example 1.
+The electricity company EDF produces 22% of Europe's       electricity consumption, generating 652 TWh per year (at a wholesale price       of around &#163;40 per MWh).
+It is the dominant electricity producer in France,       where it is also the monopoly distributor.
+French grid load varies between       30 and 80 GW, and with daily energy flows of around 1 Million MWh,       accurate load prediction is critical to the success of EDF as a company.
+Moreover, as the dominant producer, substantial wider social benefits       accrue to client countries through the provision of a reliable electricity       supply [C].
+Load prediction is particularly important for EDF because it generates       77% of its electricity from nuclear power plants, which cannot respond       rapidly to unforeseen demand.
+Under-prediction of load leads either to       supply failure, or to EDF having to buy in energy at premium prices.
+Over-prediction leads to unnecessary production and business       inefficiencies.
+The cost to EDF of over-production by 1% for a single day       is around &#163;0.5M [C].
+EDF have developed methods for electricity grid load forecasting based on       the mgcv software and its underlying methods.
+EDF's use of GAMs has been       built directly on collaboration with Bath on large dataset and       autocorrelation issues [D].
+The EDF work is, in particular, reliant on the       high degree of numerical reliability provided by the methods developed in       Bath [1, 2], on the ability to handle large datasets [D], and on the       handling of interaction terms [3].
+An EDF representative [E] states that the Bath mgcv work "has had a         number of concrete and important impacts on our work at EDF...
+These are         commercially important for EDF, both in terms of complying with the         requirements of the national grid management bodies, and of matching         supply to demand in an economically and environmentally efficient         manner".
+He goes on to list several specific areas:            "The methods encoded in mgcv are used to discover and investigate           new effects... A number of such effects have subsequently been           incorporated in the parametric models currently used for operational           forecasting.
+The methods have been successfully employed in pilot studies on EDF           subsidiary companies, and are currently being further developed for           operational forecasting purposes for these companies.
+The methods have been used operationally on the French national grid           as a tool to help operators when special meteorological events happen           (extreme absolute temperatures or rapid temperature variations, for           example).
+In these cases the GAM based models capture the electricity           grid load dynamics better than the current operational models, and are         used to correct the operational models.
+EDF uses the methods for forecasting of heat demand for cogeneration           plants where it achieves a 20% gain over the existing methods.
+EDF leads some important research projects around [the methods].
+Among them ... collaborations with IBM to implement GAM for massive           simulation and online forecasting."
+[E]          Example 2.
+The methods are widely used in fisheries where they       contribute to policy decisions about quota setting, as the following       examples illustrate.
+The enhanced reliability offered by the methods       allows CSIRO Tasmania to use GAMs to analyse and design their fisheries       independent survey programme, which helps to improve management of the       south east of Australian fisheries (estimated annual value AU$700M,       2005/6) [F].
+Similarly, models based on [2] and [5] above have been used       as part of IFREMER's (French Research Institute for Exploration of the       Sea, wwz.ifremer.fr) input to quota setting for the Blue Ling Fishery [G].
+The methods have also been used to develop models for catch per unit       effort standardization in deep sea fisheries which in turn inform the       policy and management advice of ICES (International Council for the       Exploration of the Sea), which is used by the EU for quota setting and       other management [H].
+A separate use of the methods developed models for       fish stock indicator indices used by the EU for stock management       assessment [J].
+To illustrate the breadth of extra academic impact within       fisheries, of the 689 publications citing Bath mgcv related papers on       Google Scholar from fisheries, 77% had at least one author with an address       outside higher education and on average each publication had 1.3 such       addresses [K].
+The project has been sufficiently successful in making GAM       use statistically routine, that many fisheries uses result in no citation       [L].
+It is the numerical reliability combined with sound smoothness       selection methods that has changed practice among many fisheries       statisticians involved in assessment so that they now use the Bath/mgcv       based methods.
+The success of the methods means that they have become part of the       `statistical infrastructure', and in combination with their availability       as free software, this complicates the process of gathering direct       evidence of extra-academic reach.
+However, indirect evidence is obtainable       [K].
+By September 2013, there were over 3200 citations to Bath authored       mgcv related publications (i.e.
+to publications from 2006 onwards) on       Google Scholar.
+Approximately 55% of these have at least one author with a       non-academic address and the average number of non-academic author       addresses per paper is about 0.9.
+A substantial proportion of these were       government institutes charged with natural resource management (fisheries,       forestry, agriculture), but there were also private companies, health       charities and bodies, Government bodies (e.g.
+Deutsch Bundesbank) and       international bodies (e.g.
+WHO and UNESCO).
+Notable topics were fisheries       (689), air pollution (425), medicine (730) and energy (391).
+Further       evidence of the extra academic impact of the work is that SAS, the       major commercial provider of statistical software to industry are       currently implementing GAM functionality into their software, based on the       Bath work [M], while private statistics companies run courses in which       mgcv is a major component [N].

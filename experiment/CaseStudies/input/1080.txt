@@ -1,0 +1,50 @@
+     The technologies developed at Sheffield have enabled a variety of impacts       of which three principal ones are: (i) economic impact of KM       technologies in large distributed organisations (Terminology recognition       currently in use at [text removed for publication] and Sheffield spin-out       K-Now); (ii) economic impact via monitoring of driver       behaviour for motor insurance pricing using mobile phones (commercialised       by Sheffield spin-out The Floow); and (iii) public services         benefit via the monitoring of social media for emergency response       (large public events/flood monitoring).
+Knowledge Management in Multinational Organisations     Our technology for acquisition, integration and sense-making for KM       within large organisations, as described above, has led to economic impact       via two routes.
+First, the technologies have been applied and refined for       use within [text removed for publication], leading to substantial economic       impact within that organisation.
+Our Terminology Recognition model,       algorithm and software [R4] were developed as part of a [text removed for publication] 	  CASE studentship supervised by Ciravegna.
+They were       further developed by [text removed for publication], who subsequently       hired the student.
+The technology was certified for use within [text       removed for publication] in February 2012.
+TR is the core component of a       knowledge management improvements programme focusing on information       extraction from, and data mining of thousands of documents.
+This enables a       one- point access (e.g.
+via searching and visualisation) for information       that would otherwise be lost in the myriad of repositories and documents.
+[text removed for publication] currently estimates the programme brings         cost savings of millions and has been delivered to over [text       removed for publication] engineers [S1].
+It enables product       improvement through automatic quantification of customer impact of       manufacturing non-conformance.
+The company shortlisted TR in 2009 for the       prestigious [text removed for publication] award for solutions which can       sensibly change the future way of working of the company.
+Second, with the strong encouragement of [text removed for publication]       who wanted us to advance our approaches for large scale knowledge       management beyond technology readiness levels 4-6 (the generally accepted       limit for academic technology), we created a spin-out company, K-Now,       in 2008.
+K-Now has commercialised part of our technology for acquisition,       integration and sense-making (as described in [R6]).
+It now has a team of       6 software engineers and an annual turnover of &#163;250,000.
+It maintains and       extends the KM software for [text removed for publication] and has       numerous other major customers, including KPMG, Deloitte, Adelie Foods,       Comet and Associated British Food [S2].
+Driver Behaviour Monitoring     The Floow Ltd is a company spun out from K-Now Ltd (who provided the       technology, CTO and Head of development) and the University of Sheffield       (who provided scientific support and lead via Ciravegna) to       commercialise telematics solutions that capture information about driving       behaviour via mobile phones.
+Currently their turnover is over &#163;1M and they       employ 13 full-time staff in Sheffield [S3].
+Their technology enables       insurers to create a very detailed profile of insured drivers and hence to       offer premiums that are tailored to their actual personal risk.
+It does       this based on graph data models that utilise information from GPS sensors       on an in-car mobile phone in the context of huge amounts of geographic,       social and insurance data.
+Specifically, the technology calculates the       risk of a driver's behaviour at a specific GPS-signalled location, by       comparing the behaviour with all the facts known about this place (number       of past incidents, traffic jams, topology, potholes, zebra crossing,       schools, etc.)
+and the way all other drivers have behaved there (e.g.
+if       the driver is at the speed limit, say, 30 mph but everyone else reduces to       20 mph there, then the driver's behaviour is dangerous).
+The technology is       based on relatedness and information integration models directly derived       from Ciravegna's group's work.
+The Floow was founded in 2012 and has two major customers: Direct Line       (the largest UK motor insurer) who is offering the solution to two million       of their customers and AIG (Chartis), one of the largest American       insurers, who is trialling the system with 30,000 drivers in Argentina,       India Singapore and Israel.
+They have plans to extend the application to       their world-wide operations [S3].
+The Floow's technology provides a       quantifiable reduction in risk on the side of the insurers and can       dramatically reduce the premium paid by careful drivers (e.g.
+on average,       careful young drivers reduce their premium from &#163;2,500 to &#163;850).
+Drivers       with telematics car insurance policies have claims typically 30% smaller       (study by Co-operative Insurance).
+By motivating drivers to drive more       safely in order to benefit from these lower premiums, the technology is       indirectly also having a positive health impact.
+Real Time Intelligence for Emergency Services via Social Media         Monitoring     The real-time evolution of major events (e.g.
+floods, fires, protests       etc.)
+is now being widely documented through social media.
+We developed a       technology (TRIDS) able to monitor social media (Facebook, Twitter, etc.)
+that is being used by emergency responders, security companies, festival       organisers and local councils to plan deployment of resources and respond       to evolving situations.
+The technology automatically sifts through       millions of Twitter messages per day and identifies those that are       relevant to the event under consideration.
+It facilitates the       identification of critical situations by: (a) providing access to the       relevant messages; (b) visualising the contained information to give an       overview picture (through trends and topics); and (c) organising messages       and information according to location and timeline, as well as authors,       keywords and topics.
+Impact on Public Services A major impact of the technology is       improved situation awareness before and during large public events       involving hundreds of thousands of people.
+The new TRIDS technology,       developed in the OAK group and commercialised/marketed by K-Now, has been       adopted by several public service organisations, as well as private       festival organisers and is enabling improved delivery of civil/crowd       monitoring and protection services.
+For example:             Bristol City Council's Civil Protection Unit (CPU) evaluated         the TRIDS technology during the 20011 St Paul's Festival and, following         the positive outcome of that trial, invited the OAK group to support         them with the technology for the St Paul's Festival (90,000+ visitors)         and the Bristol Harbour Festival (250,000+ visitors) in 2013.
+The Head         of the Bristol CPU says: "The use of the OAK Group technology already           positively changed our vision and practices on emergency management"         [S4].
+Bristol CC is now convinced that the monitoring of social media is         the most effective future technology and they are heavily investing in         further development together with us and K-Now via the European funded         Project Eppics.
+TRIDS was used by the Manchester Police during the protest         surrounding the Conservative Conference in October 2011, where the         technology enabled monitoring social media during the event and helped         inform operations in some critical situations, including the breaking         away of some groups.
+It was also used by the Met Police to         derive the requirements for the social media monitoring platform for the         Olympics during a bomb drill at the disused underground station in         Aldwych (London) in February 2012.
+The [text removed for publication] organisers used the TRIDS         technology to monitor social media relating to the 2013 Festival.
+Their         Commercial Director says: "Information identified by the system was           used by the Event Control Room to manage potential and actual events           during the Festival ... (we) believe this type of technology and           monitoring will become key to the management of future Festivals".
+They plan to use TRIDS to monitor the Festival for at least the next 3         years.
+TRIDS was also used by the organisers of the Leeds Festival in         2013.
+Doncaster Council is using the technology to help establish "Citizen         Observatories" for river flooding to deliver "more efficient,           empowered and informed risk planning policy and response arrangements".
+They say: "the technical and professional support from Sheffield           University ... is having a very beneficial impact on our resilience           and emergency planning policies and strategies, and is being used by           emergency responders in Doncaster to harness citizen risk information           and flood risk information to shape and inform our emergency response           activities in a more cost effective and safe way" [S5].

@@ -1,0 +1,50 @@
+     Today, SIP is a key enabler of essential functionality within       voice-over-IP (VoIP) and       videoconferencing systems, as the standard interoperable method by which       VoIP and       videoconferencing systems signal and establish calls.
+Since 2008 it has       been of benefit to the       many millions of users who place multimedia calls, as well as the many       vendors &#8212; including       Microsoft, Apple, Cisco, Siemens, and Polycom &#8212; who market the software       and hardware that       underpins these calls.
+The market for these products, all of which interoperate by virtue of       SIP/SDP, is substantial.
+A       report by Visiongain, a telecommunications market research firm, estimates       global VoIP revenues       at $65 billion in 2012 [d].
+IBISWorld, another telecommunications market       research firm, estimates       that the size of the US VoIP market has grown by 15.3% annually in the       five years to July 2013 [e].
+As Baset et al.
+state in their February 2012 journal article, "It [SIP]       has been an unquestionable       success in becoming the lingua-franca for voice calling between vendor       products and between       domains."
+[a, p. 101] Although SIP/SDP are by no means the entirety of the       technologies       encompassed by VoIP and videoconferencing, SIP is the dominant open       standard for the call       signalling functionality in VoIP and videoconferencing.
+Baset et al.
+note:       "There are hundreds of       SIP product vendors, thousands of deployed SIP networks, and millions of       SIP hosts in       deployment today."
+[a, p. 93]     SIP/SDP's standardisation in the Internet Engineering Task Force (IETF)       and publication as       Requests for Comments (RFCs) played a central role in their dissemination       to the broad       community of vendors of software and hardware for Internet-based       communication.
+Many of these       vendors actively participate in the IETF standards body, and nearly all       monitor developments there       in order to keep abreast of and influence new Internet protocol designs.
+RFCs are standards       documents that specify the protocols used in Internet communication.
+They       undergo a rigorous       process of review by Internet researchers and technologists.
+SIP/SDP were       proposed sufficiently       early in the development of Internet-based multimedia communication that,       when vendors first       began designing products in this area, they were available as known,       standardised solutions for       the core problems of call routing and establishment, and for describing a       session's content.
+As documents, RFCs are rigorous specifications of protocols, but somewhat       abstract.
+Often       vendors are more likely to adopt a protocol when there is a prototype       implementation of it that they       can examine and experiment with, since reading and running code reveals       many nuances that       aren't immediately apparent in an English-language specification.
+Accordingly the prototype       SIP/SDP implementation, distributed as open-source software in Handley's       Session Directory,       Revisited (SDR) session directory tool and widely used in the 1990s by       many thousands of Internet       multimedia researchers, contributed to SIP/SDP's adoption.
+Since its       adoption, as Baset et al.
+note:     SIP has been implemented in hundreds (if not thousands) of different       products.
+It has been       implemented in phones, ranging from IP hardphones to soft clients to       telephony adapters.
+It       has been implemented in PSTN gateways, from single port analog gateways to       massive,       carrier-grade SS7 gateways.
+It is part of many enterprise PBX products,       from small-scale       small-medium-enterprise solutions to large multinational IP PBXs.
+It is a       feature on nearly       every carrier softswitch.
+Most firewalls have a SIP module.
+Indeed, SIP       has given rise to       entirely new product categories.
+Session Border Controllers (SBC) were       born of industry       needs around inter-domain SIP deployment.
+[a, p. 99]     These impacts have been on-going through the entire REF impact period and       have, as Baset et       al.
+suggest, facilitated the development and improvement of a great many       products used by a       great many people around the world.
+There are, however, two very large       such constituencies       who have benefited both particularly directly and particularly       significantly from SIP/SDP.
+One, as       noted by Baset et al., is the many millions of individuals and enterprises       who today place       multimedia calls that are routed, signalled, and described using SIP/SDP.
+Some of those calls       are placed over the Internet; others are placed over mobile telephone       networks that have       adopted Internet protocols for some of their functionality.
+This class of       calls includes VoIP       telephony and videoconferencing.
+Wired telephone handsets that use VoIP are now widely used in business       and home settings alike.
+BT, Vodafone and all major telecoms companies provide SIP trunking       capabilities, allowing       businesses to directly connect SIP-based Private Branch Exchange (PBX)       systems to the global       phone network in a cost-effective manner, circumventing the need for       conventional dedicated       telephone lines, and providing access to advanced features.
+Thus, for       example, by connecting to       its worldwide audio conferencing service provider via a SIP trunking       service, Oracle Global IT       "realised a cumulative $18 million in cost savings since 2010, while       experiencing a 32% increase in       minutes of use to over 60 million minutes per month."
+[f] Moreover, as       Baset et al.
+further state,       "SIP has been deployed by dozens, if not hundreds, of service providers,       and runs within countless       enterprises.
+Billions of minutes of traffic are carried on SIP" [a, p.       99].
+Commercial benefits       comparable with those within Oracle Global IT have accrued to many of       those enterprises.
+Many 3G and newer mobile telephone networks use SIP for call signalling       of enhanced features       such as user location and video calls; as such, SIP also underpins the       routing and signalling of       calls for the world's vast population of 3G mobile telephone users.
+Videoconferencing, another       application in which SIP/SDP provides call signalling, is also very widely       used, not only in high-end       telepresence systems and VoIP hardware phones, but also in software       available for laptops or       smartphones.
+The second main constituency benefitting from SIP/SDP since 2008 consists       of the many vendors       who sell software and hardware for VoIP and videoconferencing that route,       signal, and describe       calls with SIP/SDP.
+Many of these vendors discuss SIP-related issues in an       industry forum       devoted entirely to SIP [g].
+Today, Cisco, Siemens, and Polycom       manufacture VoIP handsets that       implement SIP/SDP; Cisco and Siemens also make and sell VoIP       infrastructure such as SIP proxy       servers and SIP registration servers, and Cisco and Polycom now make       high-definition       telepresence systems using SIP [c, h].
+To date, Cisco has shipped over 50       million SIP-enabled IP       phones.
+A statement from Cisco's Chief Technology Officer for the       company's Cisco Collaboration       division noted: "SIP is the core call signaling protocol across our       portfolio today and it has helped       us interoperate between our products and with other vendors.
+Cisco       collaboration is a nearly 4       billion dollar business of Cisco representing over 8% of revenue."
+[h]     Myriad mobile telephone base station vendors also implement SIP for 3G       (and later) call signalling.
+Furthermore, Apple's popular FaceTime videoconferencing software, which is       now included with       every iPhone, iPad, and MacBook, signals calls using SIP, a fact noted by       Steve Jobs in his       introduction of the iPhone 4 during a keynote speech at Apple's Worldwide       Developers'       Conference (WWDC) in 2010 [b].

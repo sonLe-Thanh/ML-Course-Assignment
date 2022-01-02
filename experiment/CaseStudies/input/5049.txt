@@ -1,0 +1,32 @@
+     Financial losses due to red weevil attacks are caused by two factors:       direct loss of seedlings due to       infestation, which includes the investment in nurture of the seedlings,       estimated at approximately       &#163;10 million per annum in Sri Lanka alone, and the loss of production while       replacement trees are       established for those that are infected, taking five years to reach       production maturity.
+The latter       loss is estimated at &#163;5 million per annum in Sri Lanka.
+Early detection of       the red weevil can       significantly reduce the lost investment in seedlings and the loss of       production, since early       chemical treatment can kill the pests.
+Sri Lankan production amounts to       about 2% of world       production of palm nuts.
+The Coconut Research Institute of Sri Lanka (CRI) has been investigating       technologies suitable for       detection of RWL for more than a decade.
+However, earlier devices had       failed to achieve adequate       levels of detection accuracy and suffered from high power demands and       weight.
+For example, the       Davis detector and a further Sri Lankan design, both require two 9V       batteries for operation and       were too bulky for convenient portage around plantations.The CRI       approached Dr Nanayakkara to       request his help in the development of a new device.
+Dr. Nanayakara proposed going beyond acoustic signal processing to a       hybrid approach       combining embedded signal processing with the human auditory signal       discrimination capacity,       based on both neuroscientific research and the biological basis of the RWL       crunching behaviour.
+The development of the device progressed from laboratory       prototypes to a field trial version capable of deployment.
+The       final design is deployed, currently in small numbers, although       larger scale manufacture is in progress.
+Weight reduction and compactness: By careful design for     efficient energy management Nanayakkara and his team     engineered a system powered by a single 9V battery.
+Their new     technology not only saves power, but also reduces the total     weight of the device.
+The current design (show in use in Figure     2) uses only 10 x 8 x 4 cm of space (a more than five-fold reduction in     volume over the first prototype).
+Figure 2: The novel detector being used in a field trial.
+Higher accuracy of detection: Field-testing over the last two       years has supported better       understanding of the ideal way to use the device and the final device       detects infested palms with       an accuracy of 97% at the first observation, which can be further improved       by re-checking one       month later.
+It is also highly reliable (93%) in identifying true       negatives (identifying unaffected       trees).
+This field trial evidence has been critical in the progress from       field trial to the       recommendation for widespread use.
+Design Success Recognition: In 2012, Dr Nanayakkara was       shortlisted by the Royal Academy of       Engineering for the ERA Foundation Entrepreneurs Award in recognition of       the significance and       design achievements in the construction of the detector [B].
+Deployment: Once a quality assurance report was obtained from the       Coconut Research Institute       of Sri Lanka, 25 devices were manufactured and sold to farmers.
+It was       found from the feedback       from the farmers that in addition to the high reliability of detecting       infested palms, the use of the       device provides many advantages:     a.
+Detection of early stage of infestation, even when external symptoms       are not visible.
+b.
+No cleaning of palms is required before use, which saves the cost of       labour compared to       the checking of palms by the previously recommended method.
+c. A very short time of about 1 - 3 min is required to check each palm.
+d. The device can be used to check whether chemical treatment applied on       palms is effective.
+e. User-friendliness in mounting of the sensor on the palm and clear       output of crunching       sound make the device convenient and practical to use.
+The farmers are overwhelmingly positive about the use of the device.
+The Coconut Research Institute director confirms [A]: "25 units have         already been distributed         among the farmers at cost and there is an overwhelming demand to produce         more.
+We have         commissioned an initial production run of 50 units while we tender for         large scale manufacture of         the device."
+and "In recognition of Dr Thrishantha Nanayakkara's         significant role in the R&amp;D phase,         the CRI has included him in the patent application that has been filed."
+He also observes [A]: "The Coconut Research Institute considers this         Red Palm Weevil detector to         be the best tool to aid coconut estate owners to detect the Red Weevil         Larvae in palms at the early         stage of infestation, allowing them to treat the pest as early as         possible.
+We have therefore         recommended it to the coconut estate owners in Sri Lanka."

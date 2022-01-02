@@ -1,0 +1,12 @@
+     There are two important contributions of the research of direct interest       to Unilever, a global       manufacturer of personal care products, including shampoos and       conditioners, which has clear       interests in understanding quantitatively the properties of hair.
+Unilever Global Senior Vice President for Home and Personal Care R&amp;D       confirms these impacts in       a letter, saying:     "The first is the differential equation now known as the `Ponytail Shape       Equation', whose solutions       describe the envelope of a hair bundle as a balance between elastic,       gravitational, and random       curvature effects.
+This has allowed Unilever to address a number of "what       if" questions about hair       in a very straightforward way.
+Since this is coded in Matlab, which is a       standard Unilever       application, it has been circulated widely and can be used by all       researchers in house."
+The second important contribution is the suite of image analysis       protocols that Goldstein and       Warren developed to image both single hairs and bundles reliably and to       extract from stereoscopic       images their three-dimensional shapes.
+The strong verification that the       team did with these       protocols gives Unilever confidence in their accuracy.
+Unilever Global Senior Vice President for Home and Personal Care R&amp;D,       adds "In a Fast Moving       Consumer Goods business such as ours, we know that even just a three-month       reduction in time       to market for an innovation in one of leading billion Euro brands could       readily correspond to an       incremental turnover of the order of several hundred thousand Euro, if not       more."
+In 2012 the team was awarded an Ig Nobel Prize for this research.
+The Ig       Nobel Prizes honour       achievements that first make people laugh, and then make them think.
+The       prizes are intended to       spur people's interest in science, medicine, and technology.
+The original       announcement of the       research, followed by the Ig Nobel Prize award, generated worldwide media       attention.
+The       research has featured on international radio programs (Canada, Germany,       UK), on worldwide       press, and has led to invited presentations in schools and universities       internationally.

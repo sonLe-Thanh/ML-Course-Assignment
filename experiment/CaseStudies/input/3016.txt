@@ -1,0 +1,35 @@
+     See section 5 for corroborating sources S1-S5.
+Context     MRI is increasingly acknowledged as a tool for the provision of       quantitative measurements of tissue structure and function.
+It is used as       diagnostic marker and a tool for monitoring disease.
+The market for       imaging biomarkers is global and growing, with estimated value of $400m       (S1).
+We established a programme to develop translational imaging       biomarkers for industry and healthcare that probe the pathophysiology and       morphology of disease.
+We demonstrated that focussed effort on the       development and characterising of MRI methods allows application in a wide       range of diseases with clinical and industrial relevance.
+Pathways to impact     In 2001, a gap was identified in the growing academic and industrial       interests in quantitative imaging methods.
+These interests were brought       together at UoM to provide concerted action to address the development and       application of MRI biomarkers.
+The QBI Lab was set up with industrial       research income to develop imaging biomarkers.
+Since its creation, the QBI       Lab has received ~&#163;12.5m funding from industry, charities and research       councils.
+Methodological developments were initially presented at leading       conferences organised by The International Society for Magnetic Resonance       in Medicine (ISMRM), the Organisation for Human Brain Mapping (OHBM) and       Information Processing in Medical Imaging (IPMI), with subsequent journal       publication.
+IP protection and industry take up: This dissemination of our       methods development led to further significant interest from the       pharmaceutical industry and for clinical research applications.
+Patent       protection was obtained, in particular relating to lung imaging and tissue       oxygenation.
+Potential routes to market were explored by Visual Automation       Ltd, a company wholly-owned by the University, which is embedded in the       research group, and which specialises in transferring imaging science       research into practical applications, licensing arrangements and new       business opportunities.
+The period 2001-2008 included an expansion of research work funded by the       pharmaceutical industry and clear evidence of commercial demand for MRI       biomarkers for clinical trials.
+Software tools developed within the QBI       Lab were licensed to industry in 2011 at &#163;5k per licence per annum.
+Incorporation: The spin-out Bioxydyn Limited (S2) was created in       2009, with initial investment from University's intellectual property       venture capital fund.
+The company, with 12 staff and turnover of &#163;630k in       2012, has provided an important route to market for the research,       providing specialist imaging services for numerous clinical trials and       currently developing diagnostic imaging products for general healthcare       (S3).
+Reach and Significance of the Impact     Workflows     The major medical imaging companies are increasingly focussed on adding       value to their imaging products by delivering MRI data acquisition and       analysis solutions to support clinical workflows; specialised SMEs and       not-for-profit open source initiatives also address this market.
+Impacts       of our research in this field include:            Siemens, Philips and GE all have large MRI development teams that         develop acquisition and analysis components for clinical workflow         products.
+For example, between 2006 and 2013 our work on perfusion and         diffusion MRI has enabled development and refinement of Philips' MRI         tools in this area.
+A Philips Healthcare Clinical Scientist comments         that: `as part of our active research collaboration with the University         of Manchester, we request and receive expert feedback and direction         regarding the utility of both product and research (prototype) options         on Philips MRI systems.
+This informs our Clinical Science organisation         which contributes to decisions on future product developments.'
+(S4)       Bioxydyn has received ~&#163;2.6m investment to develop MRI-based         diagnostic imaging products for lung disease, based on oxygen-enhanced         MRI methods transferred to the company from our research group         (2007-2013).
+These tools are being developed for CE marking and FDA         clearance to allow marketing to clinical centres for diagnostic use         within the EU and USA within the next 2-3 years (S3).
+Imaging Biomarkers for pharma     Major pharmaceutical companies also make significant use of quantitative       MRI measurements as they provide sensitive, non-invasive, repeatable,       non-ionising probes of physiological and morphological change associated       with drug action and disease progression.
+This contributes critically,       therefore, to decisions on continuing or halting development of a given       compound, with significant financial implications (potentially &#163;100s       millions; S5).
+They also provide tools for patient       selection/stratification, thereby maximising the value of medicines in the       healthcare environment and thus overall improving the business proposition       for pharma.
+This also facilitates more agile drug development strategies       (particularly shorter, smaller trials), leading to savings when bringing       each drug to market.
+There is particular demand for imaging biomarkers in       chronic diseases, such as dementias, rheumatoid arthritis, type II       diabetes and lung disease, alongside continuing needs for biomarkers in       cancer.
+The imaging biomarkers market is estimated at ~$400m (S1).
+Specific impacts based on the research include:            Investment of ~&#163;10m by AstraZeneca, in partnership with spin-out         companies (including Bioxydyn) and the University, to develop, validate         and de-validate imaging biomarkers of disease to enable rapid and         cost-effective drug development (2007-2013) (S5).
+University and Bioxydyn delivery of imaging biomarkers for cancer,         neurological disease, lung disease, inflammatory conditions in multiple         phase 0-phase III clinical trials for AstraZeneca, Merck-Serono, Roche,         Amgen, Synageva, BMS, Centocor, UCB-Celltech, Cytopia, GSK, Pfizer,         Genentech (2001-2013).
+Each of these trials was industry-led and         designed to provide commercially-critical information, typically in the         form of internal decision-making information with which the companies         can inform go/no-go decisions relating to continuing the development of         specific candidate pharmaceuticals.
+In the case of AstraZeneca, this         activity had direct impact on the development of at least seven         different molecules (S5).

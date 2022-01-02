@@ -1,0 +1,44 @@
+     Not only has Billmonitor had a substantial economic impact, it       has also affected public policy and had a significant impact on society.
+The main beneficiaries are the parent company Optimor and the       general public.
+Billmonitor is the sole product of the parent company Optimor,       which was established specifically in order to bring Billmonitor       to market.
+The resulting price comparison website, launched in 2009, was       the first of its kind to be recognised by the independent regulator,       Ofcom.
+The Mobile Phone Guide [A], published by Ofcom's Consumer       Focus and Communications Consumer Panel, explains how Billmonitor       can help consumers track down the best deal.
+Since the launch of Billmonitor,       over 110,000 users have provided details of their mobile phone usage       through the site.
+The savings available over the lifetime of a contract       (typically 12-24 months) identified for those users total over &#163;35 million       [B].
+Reports such as http://www.billmonitor.com/billmonitor-national-mobile-report-2012       by the Billmonitor team, which estimate a total overspend on UK       mobile phone contracts totalling literally billions of pounds per annum,       have received extensive press coverage.
+How research underpins impact       The founder of Optimor discussed the idea of the company with       Holmes and Meinshausen, who realised that their previous research provided       just the insights required for building an accurate algorithm for       predicting an individual's future mobile phone usage.
+He states [B] "The         research done by Professor Chris Holmes and Professor Nicolai         Meinshausen of the University of Oxford was an essential component which         has enabled us to build an accurate algorithm for predicting an         individual's future mobile phone usage and we have used this to develop         Billmonitor."
+Users provide access to their mobile phone call plan, call histories and       billing and Billmonitor finds a telephone contract optimised to       the individual's pattern of use (see figure).
+The user's call history is       treated as a time series, and makes predictive inference for future calls.
+For each potential contract, the algorithm uses robust bootstrap methods       for adaptive prediction to construct a distribution over future       pseudo-bills.
+Two particular problems present themselves when trying to       use this to predict an individual's future mobile phone usage.
+First, user       behaviour evolves with time, resulting in regime shifting and consequently       a bias-variance trade-off associated with window scale selection.
+The       insights provided by Holmes's previous work were key to the development of       the windowing approach taken in Billmonitor.
+The second problem is       that users show occasional large deviations from their `usual' behaviour,       exposing them to potentially heavy losses.
+The importance of the       distribution of loss in the context of regime switching, which was so       important in Holmes's work on segmental classification of genetic       sequences [2], becomes the accurate estimation of the distribution of the       upper tail of the `pseudo-bills' for each contract.
+The choice of window       size in Billmonitor is optimised via a bootstrap study of the       population exploiting a blocked bootstrap method.
+Prototyping was       completed using R.                    Once prototyping of the statistical tool was complete, the front-end user       interface of the programme was designed by engineers at Optimor,       with Holmes and Meinshausen advising on the graphical displays of       information.
+Nature and extent of impact       The parent company, Optimor, employs a managing director and four       developers.
+Holmes and Meinshausen were directors of Optimor       (Holmes from April 2008 until January 2012 and Meinshausen from April 2008       until September 2011) and continue to act as scientific advisers, and       there are three further commercial advisers.
+The company's financial model       allows it to provide a completely unbiased price comparison tool: Billmonitor       receives a small affiliate commission if users purchase via the links on       the site.
+However, they will pay no more than if they had bought direct.
+The links are non-biased and advice is given exclusively on the basis of       which plan provides the best deal for the user's projected usage.
+In 2009, Billmonitor was the first price comparison site to be       awarded the price accreditation scheme logo from Ofcom, having met the       terms of a rigorous independent audit, which tests whether information       given to consumers is accessible, accurate, transparent, comprehensive and       up to date.
+The head of company performance at Consumer Focus, the       statutory organisation campaigning for consumer rights, explained at the       time why this was such an important step: "Accreditation for comparison         sites is vital.
+With tens of thousands of mobile phone tariffs on the         market consumers need peace of mind that before they take up a new deal         they [can] get comprehensive and unbiased advice" [C].
+In       2010 Billmonitor featured in Ofcom's guide to obtaining the best       mobile phone deal [A].
+Since the launch of Billmonitor, a number of rival comparison       sites have been launched.
+However, as the online technology magazine CNET       puts it "There are enough mobile phone price comparison sites out         there that someone should launch a price comparison comparison site.
+Except that they don't need to, because Bill Monitor is simply the best"       [D].
+TheBillmonitor site is also ranked top for accuracy by the       online consumer advice service MoneySavingsExpert [E] who describe it as       the "Best for any decent handset".
+In 2011, the Billmonitor team published an analysis, based on       28,500 UK mobile phone bills, which revealed that three out of four users       were paying an average of &#163;195 too much for their mobile phone contracts,       equating to almost half their annual spend.
+This report received       widespread media coverage, with articles in The Times, The Guardian, The       Telegraph, The Daily Mail, The Financial Times and The Wall Street       Journal; and features on Sky News and Channel 5's Gadget show [F].
+In a       feature on BBC1's The One Show, Billmonitor was used to help the       people of Bristol save &#163;1,000 in one hour [G].
+The 2012 Billmonitor National Mobile Report painted a similar       picture, and recommended a "tariff diet" for Britons to help put an end to       an estimated &#163;6 billion pounds annually wasted on mobile phone bills.
+The       team also published a separate smartphone data report, featured, for       example, on the BBC news website [H].
+The Founder and Managing Director of Optimor states [B]: "Since its         inception, Billmonitor has analysed over 1.5 million phone bills, an         average of 14 months worth for each of a total of over 110,000 users,         and identified &#163;35 million of savings.
+We estimate that the overspend on         UK mobile phone contracts totals literally billions of pounds per annum."
+According to URLmetrics [I], the Billmonitor site receives an average of       725 visits per day.
+As one might expect for an internet service, it       receives a huge amount of coverage on the internet.
+An internet search on       `Billmonitor' reveals literally hundreds of blogs and websites       recommending the service.
+Typical, is a piece on the personal finance       website Money to the Masses, "Billmonitor I salute you as I will save         over &#163;360 a year" [J].

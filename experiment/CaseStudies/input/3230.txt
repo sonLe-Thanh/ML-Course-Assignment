@@ -1,0 +1,36 @@
+     UCL's work has introduced two new processes into digital photography,       enhancing the ability of photographers to process their photos in a much       more robust and consistent way.
+The methods were first disseminated through conference and journal       publications.
+Both Exposure Fusion and local Laplacian filtering were made       available as open source, in 2007 and 2011 respectively, to be used freely       by anyone.
+Releasing code in this way was the crucial component in       influencing users and beneficiaries, as it was easy for software companies       and open source developers to test and validate the methods.
+As both approaches achieve high-quality results, they were taken up very       quickly by a variety of tools.
+Exposure Fusion was incorporated into       Photomatix (commercial software), Bracketeer (commercial software), Enfuse       (open source, the first tool with Exposure Fusion, in 2009), Tufuse       (freeware), and mobile phone cameras [a].
+A professional photographer       outlines the benefits the method brings to photographers: "Exposure fusion       results in noise reduction (contrary to local tone-mapping which amplifies       noise) &#8212; this makes it perfect for night and long-exposure `HDR' photos;       images have more natural look [and] are free of halo artifacts; using       exposure fusion might be easier because it has fewer parameters to set &#8212;       also it is more intuitive as many photographers are familiar with notion       of blending images."
+[b]     The key beneficiaries to date are photographers who want to avoid over-       and under-exposed areas in their photographs.
+This encompasses hobbyist       photographers, real estate agents taking pictures of interiors [c] and       special effects companies for creating backdrops, For example, in creating       the backdrop for the great hall scene in Harry Potter and the Deathly       Hallows: Part II, released in 2011, Exposure Fusion reduced the amount of       work and time that was needed to achieve desired backdrops because it       reduced the amount of noise on the film plate [d].
+Noise would normally       need to be removed by filtering or time-consuming and painstaking edits.
+Real estate agents can also now create pleasing photographs without much       manual intervention and without spending much of their time on them.
+Previously, there was no easy way for them to create interior photographs       that could depict the interior as well as the exterior in a consistent way       (often the outside would be overexposed or parameters would need to be       tweaked to achieve a good photograph).
+One professional architectural       photographer comments: "Most of my exposure blending is done through a       process called exposure fusion.
+My experiments with HDR were less than       ideal, looking over-processed which is why I moved to exposure fusion.
+Architecture and real estate photography requires a realistic, natural       look so as not to misrepresent the subject.
+I use Photomatix' exposure       fusion mode which, when set properly, helps create realistic looking       images.
+I do charge more for HDR real estate shoots since it really       improves the image quality and helps create more attractive real estate       photos."
+[c]     The user base for this particular method is vast; the aforementioned       commercial and free tools are very commonly used (e.g., the Photomatix       group on Flickr alone has more than 400,000 photographs [e] [text removed       for publication]).
+It is difficult to get an exact number of installed       software, as software vendors are reluctant to disclose this information,       but an estimate is that millions of users have used Exposure Fusion.
+The local Laplacian filtering work was demonstrated to Adobe product       teams in 2011 and they were immediately convinced that UCL's proposed       method was superior to any other method they had tested.
+Starting from the       publicly released prototype implementation, the Adobe Lightroom and Camera       Raw team integrated the UCL method into their products (released in April       2012).
+Professor Kautz's Laplacian filtering technique now forms the main       image-editing tool (for contrast, shadows, highlights, etc.)
+in Adobe       Lightroom and Camera Raw.
+The new processing tools based on UCL's work       have been reviewed in the popular press numerous times and the quality of       the processing is always highlighted.
+For example, Digital photography       review site, dpreview: "[A]fter processing dozens of images in PV2012, I       find I am consistently getting pleasing results in fewer discrete steps.
+";       The Guardian: "Pros: new processing algorithm, powerful and mostly       intuitive to use"; Technology news site, Ars Technica: "It looks like       Adobe's made some real progress with this, in both quality and ease of       use."
+[g]     Adobe describes the effect of local Laplacian filtering: "The Lightroom       and Camera Raw team has been very pleased with all of the positive       feedback on the new image processing (PV2012) available in the Lightroom 4       beta...
+The ability to recover shadow and highlight detail with a       straightforward set of controls without introducing artifacts or       over-the-top faux-HDR effects is a huge leap forward in image processing.
+I thought Scott Kelby summed it up quite well when he said, `Your photos       look better processed in Lightroom 4.
+Period.'...
+The team would like to       share the praise that we're receiving for the new processing controls with       the authors of this research paper [output [4], above]" [h].
+Since the method changes the basic manipulation tools (contrast, etc.
+),       it has affected virtually every user of Adobe Lightroom and Camera Raw, of       which there are millions.
+While it is difficult to get reliable numbers,       the beta-version of Lightroom 4 was downloaded 300,000 times [i].
+The full version has more users, and in combination with Camera Raw, Adobe       estimates there are at least one million users [j].
+The method is also in       use in the latest version, Lightroom 5, released in June 2013 [k].

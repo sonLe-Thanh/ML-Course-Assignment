@@ -1,0 +1,44 @@
+     Path to Impact     Semmle was founded in December 2006 by Oege de Moor through ISIS       Innovation to create from scratch the novel technology that realises the       potential of the research set out in Section 2 in the context of Datalog,       widening the scope of application to business intelligence rather than       just program analysis.
+Further research was done in Semmle and six patents       were filed by Semmle to protect these advances after the creation of the       company.Semmle's first two years were dedicated to developing its       technology and products.
+Its first major customer was signed up in 2008       [text removed for publication].
+Direct Economic Impact     [text removed for publication].
+Since November 2011, Semmle has been       backed by a private investor group in the San Francisco Bay Area [text       removed for publication] Many of Semmle's major clients are located in the       US [text removed for publication] [A].
+Large software engineering organisations struggle with a lack of       visibility of how outsourced development teams are performing.
+To create       such visibility it is necessary to analyse many different data sources,       including the code itself, version history, the bug database, and test       results.
+Much of this data are graphs and hierarchies, and thus writing       the appropriate analysis to get visibility is hard.
+The research described       here has (through further innovations at Semmle) led to a query language       that, for the first time, opens up all the relevant data.
+Semmle's       technology is routinely used in software production and management at       numerous clients around the globe and has had significant benefits for       them, as described below.
+NASA Jet Propulsion Laboratory (JPL) has highly rigorous quality       requirements and makes use of all the available leading commercial       products in this area to help to ensure that its software is free of       errors.
+Writing custom checkers is key in this environment.
+Together with       Gerard Holzmann at JPL, Semmle has used its query language to implement       his well-known "Power of Ten" rules for C programming.
+Together with Klaus       Havelund, Semmle has implemented a new Java coding standard for use at       JPL, and Semmle technology was used as one of a suite of static analysis       tools to help secure the safe landing of the Curiosity Rover on Mars in       August 2012, a $2.5 billion space programme.
+As Curiosity travelled       towards Mars, computer scientists at JPL continuously tested and adjusted       its software.
+In February 2012 a JPL engineer discovered a previously       undetected code defect in the critical Entry, Descent and Landing (EDL)       software.
+The defect had no adverse effect on the functioning of the       software, but it highlighted the possibility that similar issues could       exist in the code with more severe consequences.
+Any failure in the EDL       system could lead to a catastrophic failure of the entire mission.
+The       standard set of rigorous static analysis checks performed on every build       of the code could not detect the flaw, and JPL contacted Semmle directly       for help.
+Semmle created a custom analysis that, when run on the code that       controlled the spacecraft, quickly identified the known issue and a few       related cases, giving the engineers time to fix the code and helping to       secure a safe landing [B].
+In May 2012 Gerald J. Holzmann, one of the two       leaders of NASA JPL's Laboratory for Reliable Software, published a ranked       assessment of static source code analysis tools on his website placing       Semmle at the top with the comment: `The tool gives accurate results         and, once the database is built for a new application, queries are         resolved very fast.
+Highly recommended.'
+[C]     Certipost is an important player in the European market for electronic       communication and document processing, used by 85,000 companies and       520,000 individuals.
+Originally Certipost attempted to improve software       architectures with open source tooling, but this was found ineffective       because it was too generic: custom analyses were required.
+In particular       Certipost wanted to check that the state of the code was in accordance       with the design diagrams; using Semmle's query language, this was achieved       with a minimum of effort.
+In 2012 Certipost published a paper describing       the way in which Semmle technology was customised with rules encoding       Certipost architecture, thus enabling them to keep code at a high level of       quality and in sync with the defined architecture [D].
+The head of       architecture and analysis at Certipost has commented: `Certipost can now       cross-check code and architecture against each other and detect gaps       quickly and easily.
+The benefit is a reduced cost of keeping these in       sync, keeping key quality attributes at desired levels.
+Semmle has become       an indispensable solution for Certipost.'
+[text removed for publication]Murex is the 2nd largest       independent software vendor in France.
+It has a large code base, which       other products had difficulty processing.
+Semmle's efficient queries were       able to process it without problems, and again custom queries that linked       code and other artefacts (in this case XML descriptions of screens) were       imperative.
+Semmle's query language also proved valuable in implementing       complex, large-scale refactorings.
+It is estimated that Semmle has saved       them a 30% reduction in developer time on structural improvement and a 10%       reduction in corrective maintenance on products that use Semmle.
+Murex       have publically stated the benefits of using Semmle technology; their COO       states: "The insight provided by Semmle has been critical to the success       of several improvement projects at Murex.
+We find the ability to formulate       custom analyses a key advantage.
+Semmle business intelligence is essential       for a clean and clear understanding of complex software engineering data."
+[E]     EMC Corporation is an American multinational corporation that sells data       storage products and services used to build web-based computing systems.
+Its big data division uses Semmle to impose rigorous coding standards,       especially in the mission-critical query optimiser.
+EMC trialled products       from vendors that are much longer established, but opted for Semmle       because of the greater accuracy, which is enabled by the special query       language.
+The Director of Software Engineering at Greenplum, a subsidiary       of EMC, states: `Semmle has changed my view of software engineering.
+Semmle ensures a tight adherence to our standard of software excellence.
+New team members get help in avoiding common beginners' mistakes, and       experienced developers can spread their knowledge of good practice.'
+[F]

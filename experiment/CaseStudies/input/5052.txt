@@ -1,0 +1,28 @@
+     Similarity measures developed by the Division of Imaging Science &amp;       Biomedical Engineering at KCL have either been directly used or have very       strongly influenced commercial systems by Accuray Inc (Cyberknife),       Philips Healthcare (Echo Navigator) and Cydar Ltd (a KCL spinout company).
+These systems use 2D-3D image registration to transfer information between       medical images.
+This information is then used to guide surgical treatment       or radiotherapy.
+It is therefore extremely important, for long and       short-term patient care, that the information is transferred accurately       and robustly.
+Accuray CyberKnife       The CyberKnife is a state-of-the-art radiosurgery system, delivering       high-energy radiation to patients based on a treatment plan devised from a       pre-operative 3D CT.
+It is manufactured by the US company Accuray Inc and       while first developed in the early 1990's, it is being continually       developed, with a new version &#8212; the CyberKnife M6 System &#8212; released in       2013.
+Accurate guidance is achieved by registering the 3D plan to 2D X-ray       images acquired from the patient during treatment.
+The robot follows the       treatment plan, and due to regular 2D-3D registrations, radiation can be       accurately delivered even if patient movement occurs.
+KCL research has       strongly influenced the registration similarity measures used by Accuray,       who state that our developed measures, "pattern intensity and gradient       difference have proved to be the most efficient and robust methods, a       conclusion also verified by our (i.e.
+Accuray's) work" [7a] (which cites       Penney et al.
+1998 and 2001).
+The publication and subsequent Accuray       patent [7b] (which also cites Penney et al.
+1998 and 2001) describe a       similarity measure that is extremely similar to (approximately a hybrid       between) the pattern intensity and gradient difference measures.
+The CyberKnife system uses this similarity measure to link the treatment       plan to a radiation delivery system for intracranial targets (6D skull       tracking) [7a] and spinal tumours (Xsight spine tracking) (7c, which cites       Penney et al.
+1998 and 2001; and refers to the similarity measure as       "pattern intensity"), ensuring that the radiation is delivered to the       patients according to the treatment plan.
+As of 2010, 90,000 patients had       been treated with the CyberKnife system [7d] &#8212; a large percentage of which       would have had their radiation treatment guided using a derivative of the       similarity measure developed at KCL.
+There are 272 CyberKnife centres       worldwide, five in the UK, one of which is at the Royal Marsden, who       describe how a great many of the benefits of the CyberKnife can be       attributed to its accuracy, a major component of which is the registration       similarity measure [7e].
+Philips Healthcare       After the KCL first-in-man clinical study in partnership with the       Department of Cardiology at Guy's and St. Thomas' NHS Foundation trust       (Housden et al.
+2012), Philips released a robust clinical prototype to       other international partner sites (University of Colorado Hospital,       University Hospital Zurich and Lenox Hill Hospital New York) to perform a       larger clinical study.
+In October 2012 a commercial product allowing       integration of real-time 3D trans-oesophageal echo imaging with real-time       X-ray fluoroscopy (Echo Navigator) was released by Philips [8a].
+FDA       clearance was obtained for the Echo Navigator in March 2013.
+The attached       letter from Philips Healthcare confirms the pioneering KCL research       underpinning this product [8b].
+Cydar Ltd image-guided surgery system       In 2009 consultant vascular surgeons, Mr Tom Carrell and Mr Bijan Modari,       requested KCL expertise in providing additional guidance for a new       procedure: complex endovascular aortic repair.
+KCL researchers developed       an image-guided surgery system, using the previously KCL developed       similarity measures (described in Penney 1998, 2001 and 2011), to overlay       3D information from the CT accurately onto the intraoperative 2D X-ray       images.
+This system has helped treat over 100 patients at St Thomas'       Hospital, London and continues to be in regular clinical use, leading to       the formation of a KCL spin-out company, Cydar Ltd [9a], to translate this       system into a clinical product.
+Two patents (which reference Penney 2011)       filed by KCL are pending as International PCT Applications and have been       licensed to Cydar Ltd.     Public dissemination       KCL's image guided surgery system was chosen to be one of the 24 exhibits       at the week-long Royal Society Summer Science exhibition in 2011, an event       that increases awareness, understanding and enthusiasm for UK science.
+This exhibition attracted over 14,000 visitors including school pupils,       general public, media and Royal Society Fellows [10a].
+The KCL system has       also achieved widespread media attention through KCL's collaboration with       Microsoft to design a touchless interaction interface based on the       Microsoft Kinect gaming technology, with coverage on the national BBC       news, Radio 4 (Today programme) and in New Scientist [10b].

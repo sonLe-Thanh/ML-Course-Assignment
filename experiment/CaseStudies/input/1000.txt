@@ -1,0 +1,37 @@
+     Metail was formed in 2008 with the aim of providing online fashion       retailers with technology that would enable their customers to see on       screen how they would look in new clothes before purchase, so that:            customers would have more confidence when making an online purchase       retailers would see increased sales because of this confidence       retailers would receive fewer returned goods from dissatisfied         customers.
+Metail was founded by Tom Adeyoola (Ref 7) and Duncan Robertson (Ref 8).
+Adeyoola was a University of Cambridge graduate.
+Robertson was a       postdoctoral researcher from Cipolla's team, who had partnered with       Cipolla to commercialise research findings through their firm Redimension       (founded in 2000).
+Cipolla had introduced Robertson to Adeyoola following       a request for computer vision consulting services on an earlier project.
+Metail has 25 employees (July 2013) including Robertson, who became       Metail's Chief Scientific Officer, and another member of Cipolla's       research team.
+Metail raised more than GBP3.5M in equity funding in six funding rounds,       all from private individuals.
+Metail funded fundamental research at the       DoEng with Cipolla's team to answer the technical challenge at the core of       its business proposition: how to generate an accurate 3D model of a       customer from a single photograph and a few simple measurements such as       height and weight.
+This research is described in section 2.
+All       intellectual property arising from this research was assigned to Metail,       which filed patent applications.
+The first version of the Metail application was launched in 2011 via       Facebook.
+Metail has completed live trials, in which real customers make       real purchases, with five retail businesses in the UK, Europe and South       America.
+Three of these businesses have signed full contracts and       discussions are underway with the other two.
+By the end of July 2013, over       300,000 people have created 3D body models, called MeModels, using Metail.
+Details of the use of Metail by five retail businesses are subject to       strict confidentiality, but the following information has been released:             Tesco agreed to trial Metail on its Facebook online retailing         page in 2012.
+Emily Shamma, Director of Tesco Clothing Online, said: "We           know the main reason people get nervous about buying clothes online is           simply because they cannot try them on first.
+Although there has been           talk about 'virtual fitting rooms' before, until now the technology           has not been able to combine styling, accurate fit and size based on           peoples' specific measurements.
+If our customers tell us they like           this, we could see real business benefits, not only with more people           opting to shop online for clothing, but also helping to reduce           returns, commonly caused by people ordering the wrong size" (Ref         9).
+Tesco ran online tests with control and variant samples to         measure the effect of Metail technology on the interest-to-sale         conversion rate and the product return rate.
+The benefits of Metail were         clear.
+In 2012, CEO and Senior Executives at Tesco gave it Tesco's Best         Online Innovation Award (Ref 7).
+Tesco moved to contract with Metail and         the strapline on Tesco's Virtual Fitting Room Facebook page became: "We're           delighted to let you know that the F&amp;F Virtual Fitting Room has           been so successful on Facebook that we have made it part of our main           website!"
+(Ref 10).
+Warehouse signed a long-term deal with Metail in January 2012         and has stated, "We're hearing feedback from customers who are           saying, 'I love this' and 'This is really exciting.'
+It's been really           positive" (Ref 11).
+Shop Direct publicly endorsed Metail at the Internet Retail         Expo in Birmingham in 2013, when Paul Hornby, Head of eCommerce for Shop         Direct, described the use of Metail in an experiment on the         www.very.co.uk website at the end of 2012.
+The experiment was to measure         the effect of Metail on sales of 150 product lines.
+Shop Direct's main         objective was to reduce product return rates, but was pleased to see         that it also increased sales conversion rates by 0.4%.
+Paul Hornby         stated, "It also reduced returns by half a percent.
+Now, half a           percent doesn't sound massive in comparison to some of the numbers           that you will hear, but we sell thousands and thousands and thousands           of items every single day and if I can reduce returns on all of them           by half a percent, I'm happy with that, so this, for us, was a big big           deal" (Ref 12).
+Shop Direct has contracted with Metail (Ref 7).
+Zalando, a Germany-based international retailer, has invested         in testing Metail's virtual dressing room on its live site for an         estimated 200 product lines from its own brands with the aim of reducing         product returns (Ref 13).
+Dafiti, South America's fastest growing online fashion         retailer, is trialling Metail (2013) with a view to adopting the         technology (Ref 7).
+In addition, the television broadcaster ITV has partnered with Metail to       support the fashion segment, "Takeover the makeover", in its live       programme, "This Morning", which is broadcast every weekday.
+The Metail       system has featured on the programme since December 2012.
+A guest in the       studio uses Metail to view clothing options and the audience can       participate interactively at home by offering advice.
+The show has       generated over 20,000 user outfit submissions per show during the live       hour and more than 10,000 `forwards' to the retailer's webpage per show       (Ref 7 and 14).

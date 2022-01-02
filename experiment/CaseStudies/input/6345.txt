@@ -1,0 +1,40 @@
+     Southampton's work has had major impact in a short period, attracting       investment from governments, multinational businesses and research       institutions.
+Eric Schmidt, Google CEO, has said: "Web Science represents       a pretty big next step in the evolution of information.
+This ... is likely       to have a lot of influence of the next generation of researchers,       scientists and ... entrepreneurs who will build new companies from this."
+[5.1]     Impact on international standards and practice     Southampton created (and now hosts) the Web Science Trust (WST) in 2009,       a charity for which Hall and Shadbolt are directors.
+It supports the       global development of Web Science by engaging with industry through a       network of world-class laboratories known as WSTNet.
+It is or has been       supported and sponsored by organisations that include BT, IBM, InfoSys,       Edelman, Switch, Wipro, NESTA, the Media Standards Trust, the Web       Foundation and Highlands and Islands Enterprise.
+Building on Southampton's research into Web Science, WSTNet now comprises       15 research labs in the UK, continental Europe, USA, Brazil and Asia [5.2]       which together employ hundreds of scientists, and have attracted funding       to develop research programmes on the impact of the Web in business and       society and on innovation on the Web.
+The WST also coordinates the Web       Observatory, a project set up in 2011 to develop a global data resource       for the advancement of economic and social prosperity.
+The Observatory is       focused on education, promotion and support and has engaged technology       partners (including Infoys, Edelman, Switch, BT, Twitter, Microsoft, HP),       key repositories such as the Internet Archive, and the British Library,       and engagement groups for data such as the Open Data Institute.
+Southampton has coordinated a number of Web Observatory workshops to       promote, develop and disseminate the concept around the world.
+The WST is influencing teaching practice through its curriculum       development programme (with prominent contributions from Carr), which has       informed the content of Web Science degrees in the UK, US, China, South       Korea and Europe [5.3].
+This is equipping cohorts of graduates       with the sociotechnical skillset required for understanding and developing       the Web.
+In 2009, the University of Southampton secured &#163;6 million in       EPSRC funding for a Doctoral Training Centre for Web Science, which has       partnerships with about 40 private and public organisations, including       IBM, BT, Dow Jones, BBC, The British Library, NHS, SOCA and Ordnance       Survey [5.4] who are given exclusive early access to latest       research developments and the opportunity to recruit outstanding students.
+The DTC has produced, or is in the process of producing, over 70 highly       skilled postgraduates that have taken up specialist roles that draw on       their research with some of the most prestigious companies in the world.
+Examples of organisations hiring our DTC graduates include Price       Waterhouse Coopers, UK Civil Service Overseas Territories Directorate,       Ordnance Survey, White Space Analysis (market analysis consultants) and       Switch Concepts (2nd fastest growing tech company in UK, Sunday Times       ranking 2013).
+Southampton's research into the basic foundations of the Web has led to       its central involvement in the work of the World Wide Web Consortium       (W3C), an international community co-led by Berners-Lee to develop       standards that will allow the Web to reach its full potential.
+Contributions outlined in section 2 have put many Southampton innovations       at the core of the linked data Web.
+The W3C PROV Working Group, co-chaired       by Moreau, has produced standards whose core constructs are derived from       OPM, and has over 50 participants from academia, government and industry,       demonstrating widespread and international agreement as to the importance       of this work [5.5].
+Participants include the Oracle Corporation,       IBM, the Mayo Clinic, TopQuadrant, Revelytix Inc, the National Archives,       the Library of Congress and NASA, several of which have adopted the       standard specifications in their products.
+Impact on the economy     Web Science at Southampton, particularly the areas of the Semantic Web,       Linked Data and Provenance, has engaged sectors ranging from medicine to       defence, leading to substantial engagement with IBM, ARA, General       Dynamics, QinetiQ, Fraunhofer Gesellschaft among others.
+It has also       created commercial applications and spin-out businesses.
+Garlik, a company       that helps consumers protect themselves from the risk of identity theft       and fraud, was spun out of the Semantic Web research at Southampton; the       company employed 18 full time employees and had a turnover of &#163;2.3       million.
+Garlik was awarded Technology Pioneer status by the Davos World       Economic Forum and won the UK national BT Flagship IT Award in 2008.
+By       December 2011 it had over half a million users and was acquired by       Experian, the global information services company [5.6].
+Oracle       has commercialised a product that extends PROV with a 100-strong team of       developers, led by a member of the W3C Working Group.
+Oracle described it       as "a significant achievement for Oracle to implement this standard and       demonstrates Oracle's leadership position in the technology industry" [5.7].
+Technology firms Clark &amp; Parsia [5.11] and 3 Round Stones [5.12]       have also implemented PROV in their linked data platforms.
+Impact on public policy and debate     The UK government has adopted linked data standards; the commitment to       use linked data is embedded in the public data principles recommended by       Southampton [5.8].
+Linked data standards underpin the UK's lead in       Open Data &#8212; the subject of a separate impact case study from Southampton.
+Use of linked data produced applications such as the National Archives'       legislation.gov.uk and DCLG's opendatacommunities.org, which serve to       improve the efficiency and transparency of governance.
+The London Gazette       is published using linked data, while PROV is mandated for all UK Official       Gazettes (the government journals of record) to log the creation and       processing of all new artefacts; this follows the Stationery Office, which       launched a data enrichment service that generates OPM-compliant       provenance.
+In 2010, Shadbolt and Hall were invited to co-organise Web Science: a         new frontier, one of ten public discussion meetings held to       celebrate the 350th anniversary of the Royal Society [5.9].
+Hall       and Shadbolt edited a special issue of Philosophical Transactions A,       with the proceedings, including contributions from top researchers in the       field of Web research and analytics.
+Shadbolt acted as Series Consultant       to the BBC's 2010 BAFTA Award-winning Virtual Revolution documentary       series about the Web [5.10].
+Impact on the Environment     The 2013 National Climate Assessment report to US Congress makes complete       provenance using PROV specifications available to the public.
+This       includes reference to a huge author team and over 550 direct technical       inputs (papers, datasets, graphs, etc.)
+which each have their own       provenance tracing back to even more data, research, models, analyses,       sensors, satellites, etc.
+Public access to that provenance information       will be made through API and human browsable interfaces to PROV       information.
+NASA is involved in compiling this report, and has a       representative [5.7] on the W3C Provenance working group.
+NASA has       also incorporated OPM into its provenance encodings for its environmental       satellite programme.

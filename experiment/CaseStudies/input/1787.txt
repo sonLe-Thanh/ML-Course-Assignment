@@ -1,0 +1,39 @@
+     4a.
+Change in UK breast screening policy     The Department of Health (which was aware of the findings of the trial       some months before the BMJ publication appeared) issued an Executive       Letter in early 1995 requiring all breast screening units to move, within       8 months, to two-view mammography for the prevalent screen [4].
+There was       some uncertainty about whether the full benefit of two views could be       realised in practice, especially since the NHS Breast Screening Programme       was under workload pressures.
+For this reason, the introduction of       two-view mammography was initially restricted to the prevalent (ie first       screening) round while one view was used for incident (ie subsequent       screening) rounds [5].
+In September 2000, the Department of Health published The Cancer         Plan, which announced the intention to introduce two views into       every attendance at the NHS Breast Screening Programme by December 2003       [6].
+4b.
+Change in clinical practice     Many UK breast screening units adopted the two-view approach back in       1995-96 in accordance with the research findings and Executive Letter [4],       and the rest followed.
+By December 2003, 90% of the programmes had       achieved the target set out in The Cancer Plan, with the remaining       10% projected to do so shortly afterwards [6].
+Two-view mammography is now       routine in the UK setting.
+4c.
+Improved sensitivity and specificity of cancer detection     Between 1997 and 2005, the NHS Breast Screening Programme undertook a       series of audits of the impact of one- and two-view screening protocols.
+One audit, for example, compared the cancer detection rates in the       incident round of those programmes that had introduced two views at every       attendance with the majority of programmes that used single view for the       incident round [7].
+They found the two-view programmes detected 42% more       small invasive cancers (&lt;15mm) &#8212; a rate at least as good as, and       perhaps even better than, the results obtained from the randomised trial &#8212;       and also that two views helped to protect against observer error (in which       some but not all assessors would be able to detect a small cancer on a       single view but far more would detect it on two views).
+The reduction in       recall rate predicted by the trial took some years to establish and may be       partly attributable to other influences (eg more double reading of films).
+An audit of the NHS Breast Screening Programme in 2000-05 showed a 20%       increase in overall incident screen cancer detection rate, with the       biggest effect seen for small (&lt;15 mm) invasive cancers [8,9].
+This       increased detection rate was achieved with an 11% drop in recall rate.
+Similarly, an audit of the Welsh National Breast Screening Programme       between 2000 and 2005 [10] compared 98,752 women who had single-view       mammography with 95,464 who had two-view.
+Five hundred and fifty-five       cancers were detected with one view and 744 with two, an increased       detection rate from 5.6 to 7.8 cancers per 1000 women screened &#8212; a 39%       increase (p=0.01) [10].
+Two hundred and thirty-nine small (ie early,       potentially curable) cancers were detected with one view and 323 with two,       increasing the detection rate of these cancers from 2.4 to 3.4 per 1000       women screened &#8212; a 42% increase (p=0.05).
+In 2004, the Director of the NHS Cancer Screening Programme summed up the       benefits of this change in screening practice in the Journal of Medical       Screening:     "The move from single view at every round to two views at every round         has been an evidence-based, cost-effective quality improvement.
+It has         contributed to the high-quality NHS BSP [Breast Screening Programme]         operating currently."
+(page 56) [5].
+4e.
+Quantified estimates of benefits continuing during the impact         period 2008-13     In 2008, a review of advances in breast cancer screening named the       introduction of two-view mammography as one of the three most significant       advances in breast cancer screening in the previous 20 years [11].
+These       early improvements in sensitivity and specificity are now beginning to       have long-term impacts on morbidity and mortality (because a small breast       cancer detected through screening would typically have taken many years to       kill the patient had it gone undetected).
+Thus, whilst the improvements in       sensitivity and specificity of national breast screening programmes began       before 2008, it has continued and (because of progressively increased       uptake around the world) extended further year on year.
+Two-view mammography remains the national gold standard and this is a       direct result of the UKCCCR trial results published in 1995.
+It continues       to have significant health impacts up to the present day, since the same       policy and practice remains in place.
+An audit undertaken by Queen Mary researchers in 2010-12, based on the       national cohort of women who were first screened with either one-view or       two-view mammography in 2003-04 and/or in 2004-05 and who were then       followed up for up to three years, showed that there was a highly       significant reduction in subsequent interval cancers: the incidence of       such cancers with two-view mammography was 0.68 relative to the incidence       with one-view mammography [12].
+To illustrate the sustained quantitative benefits of this research, we       cite figures from 2010-11 [13].
+The NHS Breast Screening Programme       screened 2,221,938 women in England, Wales, Northern Ireland and Scotland       between April 2010 and March 2011.
+17,838 cancers were detected in women       of all ages; 80% were invasive.
+Cancer detection rates for all cancers       were 8.0 per 1,000 women screened and for small invasive cancers (&lt;15mm       in diameter &#8212; the ones that are typically too small to be felt) were 3.3       per 1,000 women screened.
+Using the (relatively conservative) figure of       39% for the incremental detection rate with two-view mammography, it is       estimated that around 2,500-3,000 invasive cancers are now detected in UK       annually (many of them early and treatable) that would have been missed if       one-view mammography remained the norm [13].
+4e.
+Impact on screening programmes and cancer detection beyond UK     The use of two-view mammography in breast screening is now recommended by       numerous professional bodies worldwide, including the World Health       Organisation's 2006 recommendation, which is still current [14].
+The US       National Cancer Institute acknowledges the superiority of two-over       one-view mammography [15].
+Two-view mammography is now practised in almost all screening programmes.
+In EUNICE, a systematic data warehouse on breast cancer screening in       Europe, a review in 2012 of 25 national and regional programmes in Europe       found that all used two-view mammography at prevalent screen and 64% (16       out of 25) used two-view at all screens [16].

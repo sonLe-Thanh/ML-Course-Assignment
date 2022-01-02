@@ -1,0 +1,29 @@
+     There are two principal uses of magnetometers in space:            For space science and planetary research; this is the field in which         the SPAT group has traditionally been active (see section 2).
+For satellites in earth-orbit, a magnetometer can also be used to         return the direction of the magnetic field, which can be compared with         the known earth-field in order to obtain the pointing direction or         `attitude' of the satellite (the magnetometer is used like a         sophisticated `digital compass').
+The SPAT group developed our miniaturised magnetometer for the first of       these applications, i.e.
+for physics research in space, however it was       soon clear that the new design could be applied to the second with       commercial benefits, since most satellite manufacturers need an attitude       magnetometer and will purchase these from specialist suppliers.
+Prior to       our impact, most of these commercial magnetometers used fluxgate sensors       which are relatively large and heavy (e.g.
+http://www.bartington.com/three-axis-fluxgate-magnetometers.html).
+Some satellites have used magnetoresistive sensors, however these do not       have the performance of the SPAT instrument.
+Consequently, the design       fills a gap in the market for a small, lightweight (~200 grams), high-       performance yet relatively cheap satellite attitude magnetometer.
+One such company, which had previously marketed a fluxgate instrument to       the commercial satellite sector, is the UK-based company SSBV Space &amp;       Ground Systems UK (formerly called Satellite Services Ltd).
+In 2010 the       company approached the SPAT group to engage in commercialisation activity       that to successfully transferring the electronics know-how and a license       for the sensor heads.
+In October 2010, Imperial Innovations granted       Satellite Services an exclusive 3-year license to market the design [A,       B].
+The license terms required Satellite Services to make a one-off       payment to Innovations of $30k plus a royalty for each subsequent unit       sold [A, B].
+The license allows Satellite Services to integrate Imperial's       electronics design into its own attitude and orbit determination system so       that it can be sold as an integrated package [C].
+For instance, in cubesat       applications the magnetometer comes as part of the SSBV Attitude Control       System (ACS) board which can also host additional ACS sensors and       actuators.
+In microsat applications the additional electronics is       integrated with the sensor head resulting in a very compact unit that is       simple to accommodate.
+SSBV market the instrument as a low cost       magneto-resistive magnetometer designed for use in low earth orbit       smallsats and cubesats [C].
+As at January 2013, Satellite Services has ordered 8 units from Imperial       Innovations, 7 of which have been sold to various clients including       academic groups in France, Spain and China, and also a commercial       satellite customer in Russia [B].
+As reported by the company, customers "are         using the units for controlling the attitude of their satellites in a         robust and low cost way enabling a new generation of missions to be         developed" [B].
+As corroborated by the CEO of Satellite Services Ltd [B], with a price       per unit of roughly &#8364;10,000 these units have contributed significantly to       the turnover of the company.
+In addition, the magnetometer technology has       allowed the size and cost of space-based magnetometers to be reduced       significantly, whilst simultaneously increasing their robustness to the       harsh space and launch environments [B].
+This has therefore not only       impacted the end users economically, but more importantly also improved on       previous technologies available, assisting in improved and more successful       launches within the satellite sector.
+The magnetometer is also on sale       through CubeSatShop.com, a webshop that offers a broad range of       standardized, off-the-shelf components and subsystems for CubeSats and       nanosatellites [D].
+CubeSatShop.com offers the Imperial designed       magnetometer for &#8364;11,000.
+This new design will fly on the TechDemoSat mission [E], which is a       British technology- demonstrator satellite designed to give spaceflight       experience to new technologies developed in the UK.
+TechDemoSat is       scheduled to be launched in Kazakhstan in the first quarter of 2014.
+In       support of this activity, the TSB awarded Imperial a Knowledge Transfer       Partnership which funded an Imperial RA to spend 6-months working with       Satellite Services.
+At the end of this KTP, the RA entered full-time       employment with the company.
+SSBV have approached Imperial Innovations regarding the potential renewal       of the license [B].
+Imperial Innovations consider the benefits of the       magnetometer will extend to other markets and are currently undertaking a       business analysis in this regard [B].

@@ -1,0 +1,41 @@
+     Impacts on clinical practice: diagnosis and treatment     MuSK and myasthenia gravis.
+Vincent's work has had an impact on       the diagnosis and treatment of this condition.
+European Federation of       Neurological Societies guidelines for myasthenia gravis (Section 5, Source       1) highlight that the MuSK antibodies have therapeutic relevance.
+The two       standard treatments for myasthenia gravis are anticholinesterase drugs,       and removal of the thymus gland (`thymectomy').
+In MuSK-positive cases,       the guidelines state that thymectomy `should not be recommended',       and anticholinesterases used `with some caution'.
+These treatment       implications were not present in the previous (2006) version of the       guideline.
+Autoimmune encephalitis.
+Guidelines for encephalitis now recommend       testing for auto-antibodies (e.g.
+NMDA receptor, VKGC): Association of       British Neurologists and British Infection Association National Guidelines       and European Federation of Neurological Societies (2011):            The British guidelines for adults (Section 5, Source 2) includes the         statements: "Metabolic, toxic, autoimmune and non-CNS sources of           sepsis as causes for encephalopathy should be considered early in           patients...(B, III)."
+"The differential diagnosis of acute           encephalitis is broad, encompassing infectious, para-infectious           immune-mediated, autoimmune, metabolic, vascular, neoplastic,           paraneoplastic, and toxic aetiologies as well as brain dysfunction due           to systemic sepsis (Tables 2, 3 and 9)".
+5 (of the 7) papers cited         as evidence guiding their recommendations about autoimmune encephalitis         are from the Vincent group.
+The British guidelines for children (Section 5, Source 3) include the         statement: "Patients presenting with a sub-acute (weeks to months)           encephalitis should trigger a search for autoimmune, paraneoplastic,           metabolic aetiologies (C, III)."
+The review cites a Vincent group         paper (Irani et al., 2010b) as evidence for NMDA receptor antibody         encephalitis.
+Vincent's research has also had a dramatic impact on how patients with       encephalitis are managed, since a positive antibody test leads directly,       in most cases, to use of immunosuppressant treatments.
+This would not have       occurred otherwise.
+Data from UK and European clinicians indicate clearly       the improvement in outcomes following immunotherapy (e.g.
+see Irani et       al., papers cited in Section 3, plus the review by Granerod et al, Lancet         Infectious Diseases 2010;10:835-44).
+Providing a clinical diagnostic service     Vincent's group provides a clinical service, jointly with the local NHS       Immunology lab, testing for all the antibodies described above, and others       (Section 5, Source 7).
+This was the first such service in the UK, and       remains by far the largest both for testing NHS samples and for providing       clinical advice.
+The number of requests, and positive results, has risen       dramatically, with over five times as many tests performed in 2012 as in       2007 for the antibodies mentioned in this case study (Table).
+For example,       in 2007 there were 605 requests for AQP4 antibodies and 85 positive       results; in 2012 the corresponding figures were 4867 and 356.
+About 80% of       requests are from NHS clinicians, the rest mostly from Europe.
+The ~&#163;100K       annual surplus made by the testing service is used to support Vincent's       research.
+Year           Number of tests for the antibodies           Number of positive results                             2007           5198           291                             2008           9784           470                             2009           13088           761                             2010           18303           1098                             2011           23015           1510                             2012           27177           1702                             2013,             to July           15460           728                          Impact of improved methods to detect auto-antibodies     The live cell-based assays developed by Vincent, e.g.
+for AQP4, have now       been adopted by other centres (Source 5), notably the Mayo Clinic, USA,       which tested 20,334 patients in 2011.
+Also, Vincent has provided resources       and guidance to help set up the assays for centres in France, Greece,       Hungary, Australia, Korea and China.
+Her work also led to establishment of       an NHS clinical service, jointly with the University of Liverpool, for       patients with AQP4 disease, with greatly improved management of this       life-threatening disease.
+The greater sensitivity of Vincent's AQP4 method was confirmed by Iorio       et al., (Section 5, Source 6) who state: `These observations predict         greater disease sensitivity and specificity for the cell-based         serological assays'.
+This newAQP4 detection method has also been       applied in a Japanese study to show that AQP4 antibodies contribute to a       wider range of diseases than had been suspected, extending the clinical       impact (Sato et al., Neurology 2013; 80: 2210-6).
+Commercial impacts: Patents and licensing     MuSK antibody for diagnosis of myasthenia.
+With Dr W Hoch, University of       Tuebingen) PCT/GB01/02661.
+Filed June 16th, 2001, subsequently       filed in Europe and Japan.
+Licensed to Athena Diagnostics USA who       sublicensed to RSR Ltd in 2003; income to Oxford University ~&#163;1M, of which       &#163;500K has been received since 2008.
+(Section 5, Source 8).
+Autoimmune Disorders (VGKC-complex proteins, LGI1, CASPR2, contactin-2)       PCT/GB2009/051441.
+Filed 26.10.2009.
+Licensed to Euroimmun AG,       Luebeck, for the development of diagnostic tests.
+Income to Oxford       University in 2013: &#163;65K.
+(Section 5, Source 9).
+New method (Membrane vesicles for antibody assays) Isis project 9557         (N118855-GB), patent application number 1310855.0, filed 18 June       2013.
+Other impact on patients/carers     Public information about encephalitis now includes description of       autoimmune encephalitis, reflecting the identification of this category of       disease from the work of Vincent, and others (Section 5, Source 10).

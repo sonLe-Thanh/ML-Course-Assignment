@@ -1,0 +1,59 @@
+     Our work has had direct impact through providing new mechanisms for       software development in a number of sectors, including semiconductor       design, large-scale real time systems, healthcare and space.
+Testimonial       statements are provided as evidence in each of these sectors, and download       data are also presented to show the breadth of take up.
+The impact has       been amplified by others who have contributed to the libraries and to       documentation, as well as through developing their own versions of the       JCSP library in different programming languages.
+JCSP in Design and Build of a New Compute Platform: Dr. Aly Syed       (NXP Semiconductors, the Netherlands) [S2]       has used JCSP to simulate the working of a parallel distributed system of       sensors and actuators in the design and development of a new type of       compute engine for these nodes.
+Once the design was validated, the system       was migrated to FPGA and a real wireless communication system without       introducing logic errors.
+He writes: "we were able to concentrate on         designing and building a new compute platform with some sensors and         actuators attached to them, using JCSP to simulate communication.
+This         was a great help as JCSP made it easy to program parallel behaviour in         our system and we did not have to spend a lot of effort on this part of         the problem.
+Out of this work, NXP Semiconductors have filed a European           patent application, number EP12/190957.6, entitled: An         Interpretation Engine and Associated Method.
+This patent application         cannot be made public at this time but in about 1 year [2014], it will         be available ... . "
+JCSP in Large Scale High Concurrency Projects: Dr. Rick Beton (Big       Bee Consultants Ltd, UK), [S3]       notes the importance of JCSP in his company's solutions for customer       projects: "We have been able to use JCSP in some very effective ways         in a range of projects.
+The largest design-in was in the London         Congestion Charge control centre.
+Here, JCSP orchestrates the Java         server that collected the feeds from nearly 1000 cameras, with 7 TCP         connections per camera.
+This task is highly concurrent and high volume         (typically 1.5M records captured per day).
+... JCSP has been         found to be an effective way of synchronising and exchanging data.
+In my         work, JCSP is now also being used from Scala and other JVM-based         languages."
+Formalising Interfaces and Automated Testing: Dr. Marcel Boosten       (Philips Healthcare, the Netherlands) [S4]       writes: "Within Philips Healthcare, the ideas that         came out of Kent primarily (but also other Universities present at the         WoTUG conferences in the years 1998..2006) have inspired [us] to look at         communication protocols and especially interfaces between components /         systems from a different perspective.
+For years, interfaces, especially         their dynamic behavior, between complex software driven systems were a         worry.
+...
+Since 2007 or so, Philips Healthcare cooperates with         [start-up] Verum and uses their [CSP] techniques especially for         formalizing interfaces and automatically testing them against formal         specification, but also for software development of control software.
+Philips Healthcare, I believe, was the first 'big' contract for Verum,         allowing them to find investors and really kick-off.
+So, yes, I do         believe that the work of your University has paid off via its ideas,         also for Philips Healthcare &#8212; as described in the history above."
+Competitive Advantage in the Space Industry: Dr. Barry Cook (CTO,       4Links Ltd) [S5]       writes: "4Links Limited has used the CSP/occam model as the basis for         its design of a very successful range of test equipment for the Space         industry.
+We are seen as a world leader in this field and export ... our         products ... to more than twenty countries.
+We gain significant         competitive advantage in our complex, high performance, mixed         hardware/software designs from use of the CSP/occam model.
+The         University of Kent has provided a focus in exploring ideas that guide         us, validated by their producing proven implementations in KRoC, JCSP         etc.
+as well as numerous examples."
+Sir Charles Antony Richard Hoare (FRS, Microsoft Research) [S1]       writes generally of the work: "The achievements of the Kent research         group in Communicating Process Architectures is unique in its class.
+The         team has combined two successful theories of concurrency, CSP and the       &#960;-calculus, into a single language.
+It has implemented the         combination with worldbeating efficiency.
+And it continues to serve a         group of appreciative industrial users in UK and Europe."
+Separate from these testimonials, evidence for the impact of our work is       recorded in the published research and activities promoted by others on       the web.
+One of the most active communities focuses on concurrency       education via process-oriented design (and occam-pi), using robotics and       other applications running on small low-memory low-powered devices (such       as the Arduino and Raspberry Pi) for hands-on practice.
+This was started       by six PhD students at Kent, four of whom have graduated and left for       employment (USA, Denmark and UK), and who manage the supporting website [U3], mailing list and develop the       technology.
+This technology is based around the Transterpreter [U4, U5],       a virtual machine for occam-pi byte code, that originated at Kent and       shares the compiler and application libraries from our occam-pi tool-set       (KRoC).
+The websites contain a wealth of information for new users,       especially for students and ultimately schoolchildren, including an online       book ("Plumbing for the Arduino", 93 pp, [U6])       and LGPL-licensed software.
+As evidence of the sustainability of JCSP, there have been important       third party contributions to the JCSP library from the University of       Aberdeen (Alastair Allen, Bernhard Sputh) and Napier University (Prof. Jon       Kerridge, Kevin Chalmers) supporting the safe termination of networks [U7] and a       significant revision and upgrade to the distributed and mobile       channel/process package [U8].
+The ideas and mechanisms within JCSP have inspired and challenged similar       developments for other programming languages, including the CSP library       for Scala (Communicating Scala Objects by Bernard Suffrin,       Worcester College, Oxford [U9]),       three CSP libraries for Python (PyCSP by Rune Friborg at al, Univ.
+of Twente, the Netherlands; python-csp by Sarah Mount et al.,       Univ.
+of Wolverhampton; Hydra by Waide Tristram et al, Rhodes       University, SA - papers downloadable from CPA 2009 [U10])       and the Groovy version of JCSP [U11]       (by Jon Kerridge, Napier Univ.).
+Independently written tutorials on JCSP have been written for the IBM         DeveloperWorks Technical Library [U12,       U13,       U14].
+These were authored by Abhijit Belapurkar, a senior technical architect at       Infosys Technologies Limited, Bangalore.
+The main tutorial [U13]       has had 12,092 views to date, and the main tutorial in the Japanese       version [U15]       had 2,503 views.
+Evidence of the use of two of the main products of our research (the KRoC       occam-pi toolset and the JCSP library and documentation) lies in       download/update counts and citations.
+Both products are made available       under the GPL and, where possible, L-GPL open source licenses.
+Both are       obtainable from more than one place and in more than one form (raw       download or SVN updates).
+From the original KRoC website [U16]       and in the period from January 2008 through July 2013, there were       approximately 6,500 raw downloads of KRoC.
+Over the same period, there       were over 325,000 visits to the site from over 27,000 unique IP addresses.
+However, access through Kent CSProjects (U17)       was established in October 2007 and this has since become the main source:       from January 2008 through July 2013, over 12.5 million visits (48,598       unique IPs) were made and 118,974 SVN updates recorded (either new       user downloads or existing user updates to get latest versions).
+In April       2013, KRoC sources moved to Git [U18]       and we have no figures for downloads or updates from there.
+Since June       2009, another website [U19] was set up       by Dr. Adam Sampson (an ex-Kent PhD and research associate, now a lecturer       at the University of Abertay, Dundee), with collected links to KRoC       occam-pi, JCSP and all the CSP libraries for other languages (C, C++,       Scala, Python), and XC (the XMOS CSP extension to C).
+In the years 2010,       2011 and 2012, this site attracted 7,763, 6,619 and 26,280 unique IP       address visitors respectively.
+For 2013 to the end of July, there have       been 22,409 different visitors.
+This shows continuing healthy growth.
+JCSP version 1.1 (a major revision) was released in October 2007.
+In the       period from January 2008 through July 2012, there were over 15,300       downloads of JCSP from the main JCSP website [U20].
+Over the same period, there were almost over 2.4 million visits to the       site from over 60,000 unique IP addresses.
+The JCSP packages and       documentation are also mirrored at a Codehaus git repository [U21]),       for which it has been impossible to obtain any statistics.
+In summary, JCSP and KRoC occam-pi have proven impact in the software       development industry across a variety of sectors (semiconductor, testing,       space, real-time), as well as broad take up through open source       distribution.
+Both technologies have attracted third-party contributions       of code and documentation, as well as triggering similar developments for       other programming languages.

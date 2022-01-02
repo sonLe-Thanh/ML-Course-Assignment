@@ -1,0 +1,23 @@
+     The space industry is a UK Government prioritya high growth       sector with growing market in climate monitoring.
+QUB has made a       significant and recognised contribution to this growth by developing new       technologies and IP which have contributed directly to the UK space       industry (not defined here &#8212; but below) securing a [text removed for       publication] contract for advanced instrument development which is       guaranteed to use QUB technology.
+The UoA has been responsible for significant technology transfer to the       UK and EU space industry.
+The main stakeholders, ESA, Astrium, RAL Space,       the UK Space Agency and the UK Centre for Earth Observation       Instrumentation (CEOI &#8212; www.ceoi.ac.uk) fund programmes which bring       together academia and industry to identify and advance critical instrument       technologies.
+In 2008 a consortium comprising these organisations and the       UoA was formed1 with the express purpose to put the UK in an       extremely strong bidding position for known future millimetre wave       radiometry programmes through engagement with a series of carefully       selected projects.
+These projects were chosen to reflect UK priorities, by       identifying gaps in short- and mid-term radiometer instrumentation       enabling technology requirements, where UK developed technology would have       the largest impact.
+FSS technology is a key enabler for improved sensitivity of remote       environmental monitoring instrumentation.
+Since 2008 we have developed a       variety of world leading patented FSS devices, European Patent EP1 861 896       B1, 2010, US patent US 7982 686 B2, 2011, based on advanced micromachined       fabrication techniques.
+Consequently the UoA is the current main supplier       of FSS to ESA.
+Working in partnership with RAL Space (2003-2008), QUB has       supplied prototype micromachined frequency selective filters: quartz based       FSS (2003); and improved air-spaced FSS (2008).
+Several of these FSS have been used in PREMIER-Ex (Kiruna, Sweden 2010)       and ESSenCe (Kiruna, Sweden 2011) scientific space instrumentation       programmes resulting in two-to three-fold improvements in sensitivity in       all observing channels.
+The higher-quality spectra obtained in these       Swedish campaigns has resulted in more accurate retrieval of atmospheric       constituent profiles.
+Another mission currently employing patented       technology is the MARSCHALS radiometer.
+MARSCHALS is an airborne testbed       for a new class of millimetre wave limb sounder and is the first such       instrument to be explicitly designed and built for the purpose of Upper       Troposphere and Lower Stratosphere composition sounding.
+By 2011 MARSCHALS       represented approximately [text removed for publication] worth of business       to RAL2.
+A major mission deploying QUB FSS technology is the Microwave Sounder       Instrument (MWS), part of the MetOP-SG mission.
+When launched in 2020 this       will be the world's most advanced meteorological data acquisition system.
+In 2008 the UoA started work on developing the different FSS structures       for the MWS breadboard instrument.
+In (2012) ESA awarded QUB mandatory       tender status for this mission-critical FSS work3.
+One of these       structures &#8212; delivered in Feb 2013 - makes it possible to combine all of       the scientific functions of the mission into one instrument thus saving       more than [text removed for publication]3 and halving the       footprint of the payload on the satellite platform.
+In Feb 2013 ESA preselected Astrium UK as the prime contractor to supply       the advanced radiometer instrument for the MetOP mission.
+The QUB       contribution to the proposal was critical to the success of the UK's bid       to supply the instrument and QUB are guaranteed as the FSS prime for the       instrument4.
+The value of the contract to Astrium is [text       removed for publication] and the project will provide an estimated [text       removed for publication] jobs in the UK resulting directly and indirectly       from MWS4,b.

@@ -1,0 +1,30 @@
+     The key area for impact of the Camino toolkit and the research it       implements is on patients undergoing neurosurgery.
+The research has       enabled neurosurgeons to visualise white matter fibre pathways, which form       the communication network of the brain, prior to their intervention.
+This       helps them avoid cutting these fibres during the operation, helping         patients avoid severe cognitive deficits unrelated to the original       problem that led to the surgery.
+Source [a] provides general corroboration for this claim stating that the       more complete knowledge of brain connectivity that arose from Alexander's       atlasing work documented in output [2] generally supports neurosurgeons to       ensure better post-operative outcomes for their patients.
+The atlas in       output [2] underpinned the discovery of new connections in the brain       documented in Catani et al (see [a]).
+The report by Benzagmout et al in       [a] is from 2007, but the impact on patients continues to the present, as       the knowledge that arose from Alexander's atlasing work, via Catani et al,       is now common among surgeons performing such operations and used to avoid       brain damage during intervention.
+The following describes two more specific examples of supporting evidence       for the impact of Camino on brain surgeons and their patients:     Improved outcomes for epilepsy patients: Surgeons use tractography       algorithms, specifically that published in output [3], and refined and       implemented in the Camino toolkit, to recover pathways of white matter       fibres in the brain from pre-operative MRI scans.
+An image acquisition and       analysis system is in place in the National Hospital for Neurology and       Neurosurgery (NHNN) in London specifically to support neurosurgeons making       anterior temporal lobe resections (they cut away brain tissue to remove       the seizure focus) to cure refractory epilepsy (cases in which standard       medicines do not control seizures).
+They use the system on roughly one       patient a week and it has been fully operational since mid-2012 [b],       although a preliminary version was in clinical use for about a year prior       to that.
+The system helps surgeons avoid damaging fibre pathways,       which can otherwise lead to visual deficits that would, for example,       prevent driving.
+The system itself is documented in [c].
+It relies on the experiment       design optimisation in output [5] for image data acquisition as well as       the tractography algorithm in output [3] implemented in Camino.
+Early       evaluation of the system (see [b]) demonstrates its impact by using the       system in 21 patients undergoing anterior temporal lobe resection.
+The       outcomes are compared to a control group who underwent the same surgery       without the system.
+None of those who had their visual pathway displayed       to the surgeon via the Camino-based system had a visual field deficit that       would prevent driving, compared to 13% in the control group.
+The       experiment shows a significantly better retention of visual skills in         the patients operated on using the system.
+The impact came about through Alexander establishing a collaboration in       2004 with the epilepsy group at NHNN, which began to use Camino in their       research into ways of ameliorating neurological deficit after       neurosurgery.
+The surgical-support system they now use was engineered at       UCL in collaboration with the epilepsy group at NHNN using the Camino       toolkit largely as an off- the-shelf software library.
+As of mid-2013,       around 140 patients have benefited from surgery at NHNN performed by       Camino tractography, which the head of NHNN confirms is of "enormous       importance for improving the precision and safety of neurosurgical       treatment."
+[b]     Improved outcomes for brain tumour patients: Since 2012,       neurosurgeons in Milan have been using tractography based on the NODDI       technique in place of existing connectivity mapping for planning       interventions to remove brain tumours.
+As in the epilepsy surgery       described above, this helps surgeons avoid damaging white matter pathways       so the impact on patients is that they are less likely to have         unrelated post-surgical cognitive deficits.
+Common cognitive       deficits resulting from brain tumour resection are verbal, sensory, or       motor problems; surgical planning informed by tractography reduces the       likelihood and severity of these deficits.
+The surgeons have been       experimenting with off-the-shelf tractography for some time for       presurgical planning.
+They switched to using NODDI tractography in 2012,       because it reveals "white matter fibres in the vicinity of tumours         much more clearly than conventional tractography, because it is less       vulnerable to pathological effects, such as oedema, which arise commonly       in and around brain tumours.
+This is a significant benefit to surgeons       planning brain tumour resections, because they get a much clearer picture       of white matter pathways near the tumour."
+(from source [d]).
+They have       now imaged around 130 brain-tumour patients using NODDI, about 80 of whom       went on to surgical intervention planned via NODDI tractography (see [d]).
+Within the CONNECT consortium Alexander established a range of       collaborations around Europe to develop microstructure imaging techniques       and translate them to clinical practice.
+A neuroradiologist who was       involved in the same consortium, and works closely with brain surgeons in       Milan, picked up on the NODDI technique and began using it, under the       guidance of the Camino team, in particular Gary Zhang, for tractography in       brain tumour patients.
+He discovered the benefits in connectivity mapping       in the vicinity of tumours, which led to its direct application for       planning interventions on brain tumour patients.

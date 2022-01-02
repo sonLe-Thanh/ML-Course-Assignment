@@ -1,0 +1,26 @@
+     German Waterways Board, NAG Ltd [text removed for publication]     Despite increasing awareness of the benefits of AD, these techniques are       not yet routinely used in modelling and optimisation outside a few niche       areas, due to a lack of suitable commercial tools.
+The CompAD project       based at the University of Hertfordhire developed the world's first       industrial-strength Fortran compiler with built-in support for AD, based       on the NAG Fortran compiler.
+Following successful completion of the second phase of the CompAD project       in September 2008, the research compiler was re-purposed to meet the       requirements of various end-users, as consultancy work carried out by       members of the CompAD research project team (including Jan Riehme, then a       research fellow at the university, now senior research scientist at       Software Tools for Computational Engineering, RWTH-Aachen).
+For example, to predict flow and profile of sediment along the river       Danube, the German Waterways Board/Bundesanstalt f&#252;r Wasserbau has been       using the AD-enabled NAG Fortran compiler since August 2009, with a view       to making its dredging operations more effective &#8212; the Waterways Board is       responsible for 7,350km of inland waterways and 23,000 square km of       shipping lanes.
+Instead of calculating just a single value for the       evolution at one point in time and space, the compiler-based Automatic       Differentiation approach allows a probability distribution of the       evolution to be automatically derived from the morphodynamic model.
+Reliability analysis then allows the uncertain input parameters to be       ranked according to their level of uncertainty.
+The new modelling approach       shows good agreement with the Monte Carlo approach previously used, but       (for first order reliability analysis) takes only 22 minutes instead of 5       hours.
+The Waterways Board recognizes this advantage:     It cannot be hoped to overcome this [exponential computing time]       limitation of the Monte Carlo method only by increasing computer power.
+Hence non-linear methods based on algorithmic differentiation seem the       more promising way.
+[Sect.
+5, Ref.
+1]     Meanwhile, NAG Ltd has made the CompAD compiler available on a commercial       basis to its customers, including engineering and financial sector       organisations.
+In response to customer requests, NAG took the commercial       decision to develop AD versions of a number of mathematical library       routines, using an enhanced version of the CompAD compiler.
+[text removed       for publication]     In particular, NAG is already providing AD software and consultancy       services based on the CompAD research.
+[text removed for publication]     The C++ tools involved     were developed in partnership with RWTH-Aachen, building on the research       pioneered by the CompAD project.
+[text removed for publication]     Thales Group, SAP and SSCH     Other compilation technology tools, including SAC, S-Net, and SVP &#8212; which       were developed at the university by Professor Alex Shafarenko and Dr       Sven-Bodo Scholz (formerly Reader at Hertfordshire, now Professor at       Heriot-Watt) in conjunction with EU grant academic and industrial partners       &#8212; have been taken up by industry.
+Following completion of the Aether       project in 2009, Thales group successfully applied our technology to a       pre-existing signal processing application [Sect.
+5, Ref.
+5]; SAP (the       largest software consultancy company in Europe) has been using our tools       since 2010 to solve NP-hard optimisation problems; and SCCH benefits from       significant speed-ups of their classification algorithms.
+An expert from       SAP headquarters in Karlsruhe, Germany, wrote in November 2012 to say       that:     We found that S-Net gives us an easy way of changing the parallel       implementation of the ACO algorithm.
+Using the S-Net technology, we could       quickly try different approaches to modeling concurrency simply by       changing a few lines in S-Net code, .
+.
+.
+S-Net imposes only very little       overhead compared to another standard parallelization approach and it       offers the opportunity to efficiently utilize the available number of       parallel processor cores.
+Further tribute comes from the Head of Knowledge-Based Technologies at       SCCH, who has said that, thanks in large part to the EU FP-7 project       Advance (2010-12), which supported this aspect of the university's       research and knowledge transfer, `high performance computing has become an       established technique at SCCH', and `we are very thankful to be integrated       in your active and motivating research team'.
+Impact via export of former project personnel includes Stephan Herhut       who, following his PhD (2012), was headhunted by Intel Research in Silicon       Valley, to develop proprietary compilation technology.

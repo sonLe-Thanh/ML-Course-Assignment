@@ -1,0 +1,39 @@
+     The new ink formulations were introduced in the Royal Mail processes in       2006-7, defining the date       of onset of impact.
+Embedding of Technology: Key to the realisation of the impact of       this research programme was       the embedding of the technology developed at Lancaster University into       Royal Mail Research       Laboratories.
+Linda Swanson [1-5] was a PhD student on the programme, who       was subsequently       employed by Royal Mail for three years.
+Paul Brown and Alistair McCabe,       employed at Royal Mail       Research Laboratories, were members of the research team [1-5].
+The       research initiated through       the partnership with Lancaster University was subsequently refined at       Royal Mail Research       Laboratories, which led to a further patent [7] where practical ink       formulations are described which       include the addition of an opacifying agent (to enhance the fluorescence       signal on highly coloured       envelopes and wrappings, and therefore enhancing the reliability of the       automated barcode       reading equipment).
+A further development was to incorporate dyes that       could be monitored at two       distinct excitation wavelengths (e.g.
+365 nm and 420 nm) which can be       `read' using a combination       of UV and visible illumination.
+Such formulation is typical of what is       used by Royal Mail to print       digital postmarks (DPMs) as barcodes on letters and parcels.
+The IMPACT is evident under THREE distinct headings:     SAFETY &#8212; The earlier formulations, based on formaldehyde (a       suspected carcinogen), have been       replaced by safer polyacrylic and later styrene-acrylic resins [7].
+The       principal impact is on the       safety of Royal Mail workers who operate the barcoding printers where the       risk of exposure to the       wet inks is greatest.
+Other postal workers, such as postmen and women who       are exposed to the       cured inks throughout their daily employment, will not be subjected to       persistent formaldehyde       outgassing.
+Neither will the general public be exposed to formaldehyde.
+Safety, of paramount       importance, is a significant impact that is directly related to the inks       developed through the       Lancaster University/Royal Mail partnership.
+EFFICIENCY &#8212; Royal Mail is characterised by its massive       daily throughput of letters and parcels       (typically 58 million items per day [8]).
+The logistics can only be       realised in a sensible and cost-effective       way through the extensive application of intelligent automation.
+Fundamental to the       automation of postal delivery is the ability to assign each postal item       uniquely, and with sufficient       data to ensure accurate delivery to the intended destination.
+The DPMs, as       barcodes, are readable       by intelligent letter sorting machines.
+Prior to 2006, most mail was still       hand sorted, which is a       "slow and cumbersome process" [8].
+Royal Mail introduced a major       modernisation programme in       2006-07, coincident with the updated coding ink formulation [7], [8].
+During this modernisation       programme, 64 intelligent letter sorting machines were installed, each       capable of processing up to       40,000 items of mail per hour [7].
+This has also led to the adoption of       Compact Sequence Sorters       that are "walk-sequenced", so that letters are ordered to minimise the       travel distance by postmen       and women.
+This now accounts for about 75% of all deliveries.
+This has the       direct impact of       reducing the workload of the delivery personnel, and thereby increasing       efficiency of the delivery       process.
+In turn, this efficiency improvement leads to a reduction in       cost.
+During the year 2011-12,       a total of 235 new, refurbished or upgraded process sequencing machines       were installed across       the UK Royal Mail network.
+The coding inks are pivotal to the IMPACT       achieved in terms of postal       delivery efficiency.
+FINANCIAL &#8212; Royal Mail has been hit by a general decline in       mail volumes within the last decade       due to electronic substitution of paper communication (for example, Royal       Mail observed a 3.1%       pa decline in letter volumes between 2005 and 2008).
+For Royal Mail to       remain competitive       alongside the trend towards electronic communication, it has been       essential to enhance their       efficiency, as described above.
+This will continue to be an acute risk for       Royal Mail, as they predict       letters will decline 5% pa during the period 2013-18; and 4% pa during       2018-23 [9].
+The UK market       present and predicted volumes are: 2012 (Letters 13.8 billion; Parcels 1.7       billion); 2023 (Letters 8.3       billion; Parcels 2.3 billion) [9].
+Recent (2011) revenue figures for Royal       Mail are &#163;5.2 billion pa [8].
+This is a significant business in its own right that is dependant for       efficiency upon the coded inks       developed from the expertise at the University of Lancaster.
+From a       societal standpoint, the       IMPACT is far greater, since the mail volume accounts for vital       communications within both the       domestic and business sectors, with a predicted volume in excess of 10       billion items pa up to       2023, even in the light of the trend towards electronic communication.
+The       recent flotation of Royal       Mail, the oversubscription of prospective shareholders, and the rapid       increase of share value by       48% [10] is clear evidence of a flourishing business with a strong future       prospect.
+The IMPACT of       the coding inks has played a significant part in the success of Royal Mail       through the facilitation of       considerable efficiency gains through intelligent automation.
+This is       IMPACT that is set to continue       to deliver for the foreseeable future [9].
+With respect to corroboration, we quote below from a correspondence [11]       with Linda Swanson       who contributed to the fundamental research as a PhD student but then went       onto work for Royal       Mail and played a key role in embedding the printing inks science and       technology within Royal       Mail.
+She is therefore well placed to corroborate the implementation of       the technology within Royal       Mail.
+`the most important and tangible output from this work is the red ink         which currently appears on letters         coded by Royal Mail &#8212; this was the ink that was designed and developed         at Lancaster during that         project.'

@@ -1,0 +1,40 @@
+     The research findings of Whiteside, Varley and colleagues led to the       theoretical conceptualisation, technical production, and clinical testing       of the software program "Sheffield Word" (SWORD) [http://www.propeller.net/sword.htm].
+SWORD allows patients to self-administer the high intensity therapy       required to stimulate neural reorganisation and speech recovery.
+The       impact summary highlights the commercialisation of the SWORD treatment       software and its benefits for patients, patient families and clinicians       achieved since January 2008.
+Commercialisation and deployment.
+The project evolved through a       series of phases: from theory development and testing, through design of       pilot software and a preliminary clinical trial, to design of market-ready       software and the completion of a major intervention study.
+All these       stages were completed at the University of Sheffield.
+The software       development was supported by commercial development teams within the       University, and then evaluated by Fusion IP, the University of Sheffield&#180;s       commercialisation partner.
+Fusion IP led the subsequent commercial       negotiations with a SME partner, Propeller Multimedia Ltd.
+The software is       available in two versions &#8212; SWORD Professional and SWORD Home.
+The       software was licensed to Propeller and since its market launch in October       2008, over 200 units have been purchased.
+This includes direct sales to 47       NHS Trusts across the UK, which incorporates 72 NHS hospital-based       speech-language therapy teams and 27 community-based rehabilitation teams.
+The Professional version is available at a cost of &#163;435 for a single user       licence.
+This version is largely used by practitioners who can then refer       patients to the Home version.
+The Home version is available at the lower       cost of &#163;150 and allows people with stroke illness to directly access high       quality speech rehabilitation.
+A `Community USB Dongle' version can also       be purchased for &#163;765.
+This version incorporates three `Community' Home       licenses and one `Admin' license with full functionality of the       Professional version.
+The `Community USB Dongle' allows the remote       administration of speech therapy to several clients simultaneously.
+Program sales to date have been across the UK, Ireland and India [S1].
+Patient beneficiaries.
+Stroke rehabilitation is an NHS priority.
+Every year, an estimated 150,000 people in the UK have a stroke and it is       a leading cause of severe adult disability.
+A recent Care Quality       Commission report (2011) indicated that although there had been       improvements in services for the treatment of acute stroke, there was a       need for improvement in longer term care and support services.
+Furthermore, inequities were recorded in the provision of care across       regions.
+The AOS project and the resulting SWORD software are targeted at       improving longer term care following stroke.
+It is a full speech       intervention programme that enables high quality, equitable services to be       provided to people with post-stroke speech disorders.
+Evidence shows that       people with stroke illness were positively and directly impacted by the       research [R5, R6].
+Participants in the clinical efficacy study       demonstrated significant gains in speech fluency and intelligibility that       were maintained after the withdrawal of the program [R6].
+The project       included a group of users who were engaged in the research process at the       University, and had the opportunity to inform the content and course of       the research.
+Furthermore, this model of service delivery, and the       availability of a home version of the software, allows users to       self-administer therapy at times and locations convenient to them, without       the need for a therapist to be present or to travel to a hospital or       clinic.
+The software was designed so that the user (who could be a       computer novice) self-administered the intervention.
+This in turn reduces       the speech and language therapists' role to one of monitoring the progress       of intervention.
+As a result, service users gain considerable control of       their own treatment, contributing to regaining autonomy after stroke       illness.
+The SWORD program has been well received by patients and carers,       and continues to be used in speech and language therapy adult services       [S2].
+Health economic analysis of the clinical trial indicated that health       and social gains from the treatment were cost effective within NICE       guidelines (below the &#163;20,000 threshold per Quality Adjusted Life Year       (QALY) gained).
+This analysis showed that improvements in patient       communication were associated with physical and psychosocial enhancements       to quality of life [S3].
+Professional beneficiaries.
+Linked to the release of the software,       the research group has provided consultancy and education services to       clinicians and also educational materials on the design and use of the       program on the SWORD website (e.g., http://www.propeller.net/sword.htm).
+Training       consultancy has been provided to clinician special interest groups (e.g.,       South West England Motor Speech Special Interest Group, Bath, October       2010; West Hertfordshire NHS PCT, June 2010) and via invited keynote       addresses at clinician-led conferences (e.g., British Aphasiology Society       Conference, Reading, September 2011; Irish Association of Speech and       Language Therapists, Dublin, November 2011).
+Initial reporting of pilot       study outcomes attracted international interest in the clinical speech       pathology community, with reference to the work in an American       Speech-Language-Hearing Association report [S4], and a Cochrane Review of       the related post-stroke impairment aphasia [S5].
+Development of SWORD       Version 2 with updated interfaces and additional program features (e.g.,       audio-visual samples representing a North American Accent) is underway.

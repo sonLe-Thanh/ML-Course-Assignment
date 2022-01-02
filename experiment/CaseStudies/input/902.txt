@@ -1,0 +1,38 @@
+     Contributing to clinical practice guidelines       The Leeds research has influenced clinical guidelines internationally.
+For example, the trial demonstrating patient benefits from routine       measurement of quality of life using automated measurement significantly       contributed to clinical practice guidelines published in 2011 by the       International Society for Quality of Life Research [A].
+The SDI-21 was       referenced in pan-Canadian clinical practice guidelines published in 2009       by the Canadian Partnership Against Cancer (Cancer Journey Action Group)       and the Canadian Association of Psychosocial Oncology (information on       downloads available only from Canadian Partnership Against Cancer       2012-June 2013 = 45) [B].
+The National Cancer Survivorship Initiative       Vision, published in 2010 referenced SDI-21 as a questionnaire for       assessing the quality of life of cancer survivors [C] (Google analytics       unique page views www.ncsi.org.uk:       PAGE: /?s=vision+document 01/02/10-14/08/13: 59,688 document downloads)       [C].
+Change in policy       NHS policy and the Health and Social Care Act 2012: The Health and       Social Care Act 2012 endorses the use of PROMs to put patients at the       centre of the NHS.
+Sir Michael Richards, National Cancer Director       (1999-2013) said: "Health services must become more patient centred.
+We urgently require methods to measure this aspect of care.
+Leeds         researchers have provided us, not only with technologies for this         purpose but also evaluated their measurements in a positive randomised         controlled trial.
+This was very influential in development of policy and         the incorporation of Patient Reported Outcome Measures as a central         theme within the NHS" [D].
+Since 2010 Velikova and Wright       have been members of a Department of Health/Macmillan National Cancer       Survivorship Initiative advisory group on metrics.
+This group reviews       research on PROMs; it made recommendations on which PROMs should be       included in the pilot and full NHS PROMs survey (see later).
+Changes in practice       Adoption of electronic self-reporting tools in clinical practice:       In 2012, the Leeds Cancer Centre and the Yorkshire Cancer Network       pioneered electronic Holistic Needs Assessment within routine patient       care; the self-reported data are integrated into electronic patient       records.
+This facility allows nurses to assess quality of life issues,       leading to an agreed care plan in discussion with patients.
+The web-based       questionnaire system is undergoing quality assurance testing prior to       application for kite marking for use as a medical device.
+In 2012 Electronic Holistic Needs Assessment (eHNA) was piloted by the       Department of Health/Macmillan National Cancer Survivorship Initiative at       four sites in England.
+A larger scale rollout is currently underway at 25       sites using a new prototype system in 2013.
+This software implements the       2007 National Cancer Action Team's guidelines, which, were strongly       influenced by Leeds research into the social impact of cancer.
+The eHNA       tool included the Leeds-developed SDI-21 as one of the assessment measures       [E].
+Velikova and Wright are both members of the eHNA       steering committee as experts in such electronic systems.
+The Leeds team       provides on-going advice regarding electronic assessment to the eHNA       project [E].
+The SDI-21, one of three validated questionnaires, has been used in national         evaluations of the quality of life of cancer patients and survivors:       in 2011 it was used to collect data for the Department of Health national       pilot PROMs survey of 4,992 cancer survivors [F]; it is also being       used in the full national PROMs survey of 50,000 cancer patients during       2013.
+Internationally, the SDI-21 is being used in routine cancer       practice in Canada as part of an electronic Distress Assessment and       Response Tool (DART) for assessing, monitoring and supporting cancer       outpatients.
+Between October 2009 to December 2012 47,661 DART assessments       were undertaken with 13,672 assessments including the SDI-21.
+The use of       DART has led to significant improvements in patient well-being (see below)       [G].
+Velikova provided professional advice leading to the adoption of       the Leeds approach in a new clinical programme for lung-heart transplant       patients monitoring in Edmonton (Alberta, Canada) [H].
+Clinicians       developed specific guidelines on the use of PROMs to individualize patient       care and the monitoring has become standard practice.
+By 2010, 172       lung-heart transplant patients participated, 98% were happy to complete       the assessments regularly; 91% of clinicians endorsed the use of PROMs in       routine practice [H].
+Velikova's work and professional advice       significantly influenced the decision to launch the Patient Outcomes       Program to promote patient-centred care at Cancer Treatment Centers of       America (CTCA) at Midwestern Regional Medical Center (Zion, IL, USA;       private cancer hospitals in USA) [I].
+The current quality of life database       of CTCA consists of 12,000 patients; the data are being used by the       clinical teams providing supportive care to patients on cancer treatment       [I].
+Changes in health outcomes       Enhancement of the patient experience, improved well-being and clinical         outcomes: In Canada the evaluation of DART has provided evidence of       improved patient well-being (measured by reductions in SDI-21 scores over       four consecutive outpatient appointments) [G].
+SDI-21 items are strong       predictors of suicidal thoughts [J]; use of the tool alerts clinicians to       patients with these ideas so they can offer appropriate support to prevent       harm.
+Overall, DART enhanced the patient experience with measured       improvement of patient's perception of treatment and support.
+A       differential benefit of DART was demonstrated for low income patients       (p=0.046).
+Clinical outcomes also improve with the use of DART.
+Clinician       assessment of high distress scores was associated with an increase in       patient's ability to complete chemotherapy from 50% to 85%.
+This       improvement in compliance was achieved with no change in health service       burden (clinic length or workload).
+Staff felt DART improved systematic       inquiry about concerns.
+Most patients (88%) felt DART improved       communication of symptoms and concerns with the health care team [G].

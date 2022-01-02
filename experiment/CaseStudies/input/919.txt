@@ -1,0 +1,24 @@
+     The area of biomarker discovery has seen significant developments over       the last 10 years and the team at NTU continues to offer unique and       leading approaches in the field.
+Novel non-linear approaches have been       applied to the identification of biomarkers, from complex genomic data,       addressing clinical questions such as prognosis and response to therapy.
+These biomarkers have subsequently been validated using       immuno-histochemical techniques and applied in clinical practice and       decision making.
+Clinical collaborations with the Ian Ellis group, Nottingham University       Hospitals Trust, have identified biomarkers of proliferation and prognosis       in breast cancer (Refs 5 and 6).
+These have been used to re-define the       Nottingham Prognostic Index allowing more accurate prediction of prognosis       for the individual (Source to corroborate 1).
+This approach has been used       by multi-disciplinary teams in clinical decision making, and to evaluate       prognosis in medico-legal cases (Sources to corroborate 2, 3), and has       influenced the decisions around patient care and stratification.
+Collaboration with the Steve Chan group at the Nottingham University       Hospital Trust has identified a set of core proliferation related markers       in breast cancer.
+The most influential marker predicts response to       Anthracycline and the set has been successfully evaluated as predictive       using immunohistochemistry.
+In addition the approaches developed have been       utilised in identifying markers associated with circulating miRNAs in       colorectal and breast cancer (Kerin Group, National University Ireland,       Galway), Tuberculosis (Public Health England, Porton Down and Colindale       (Source to corroborate 4), sepsis (Severnside Alliance for Translational       Research, Cardiff and Public Health England, Porton Down), ovarian cancer       (Chan Group, Nottingham University Hospital Trust), prostate cancer (Khan       Group, Leicester Royal Infirmary) and Alzheimer's Disease (Morgan Group,       University of Nottingham).
+This biomarker discovery work has led to the filing of 4 patents       (application numbers cited):            Data Analysis Method and System &#8212; PCT GB/2009/051412, EPO 09796034.8,         USA 13/125954 and China 200980143624.4       Time to Event Data Analysis Method &amp; System &#8212; Divisional         application US application No13/230956.
+TB Marker PCT GB2013/051635       SPAG 5 Biomarker (Biomarker response to Anthracyclin)         PCT/GB2013/051465v          In 2009 Lachesis funding and BioCity (Mobius) investment (initial funding       ca.
+&#163;300,000) were secured to launch a spin out company utilising the       algorithms for biomarker discovery and patient stratification &#8212; CompanDX       Ltd (http://companDX.com)- which       exploits the IP within these patents (Source to corroborate 5).
+Patents 1       and 2 are currently exclusively licenced to CompanDX Ltd and the remaining       patents are currently under negotiation as a part of an exclusive IP       pipeline agreement between CompanDX and NTU.
+Further patents are currently       under development for pancreatic cancer, cardiovascular disease and       Alzheimer's disease.
+Professors Ball and Rees are founders and directors       of this company.
+The company has secured significant contracts (to a value of around       &#163;250,000) from large pharmaceutical and diagnostics companies to utilise       the bioinformatics technologies in international clinical trials in order       to identify biomarkers of response to cancer therapy (Astra Zeneca, Oxford       Biomedica, Diagenic).
+In these instances these approaches have impacted       upon trial design and have increased the efficiency of diagnostic       development, thus making trials and diagnostics more cost effective.
+Further contracts on a fee for service model are currently in discussion.
+The patents have recently resulted in an investment into CompanDX of       48million RMB (approx.
+&#163;3.9M) in partnership with New Summit Biopharma Co       Ltd, a Chinese Clinical Research Organisation funded by the Shenyang       Regional Government (Sources to corroborate 5, 6).
+As a result of this       investment clinical trials are currently being undertaken in China to       evaluate the efficacy of diagnostics for time to event in breast cancer,       and diagnosis of tuberculosis.
+These diagnostic tests will be evaluated on       1000 cases.
+Sino Federal Drug Administration regulatory approval is       anticipated in 3 years' time.
+It is important as it will validate the       clinical trial in the context of regulatory approval.

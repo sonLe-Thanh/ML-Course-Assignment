@@ -1,0 +1,38 @@
+     The amount of nuclear material transferred into and out of the THORP       nuclear reprocessing plant in Cumbria is determined through the vessel       calibration methodology developed in Newcastle and adopted by BNFL.
+THORP       has the capacity to reprocess 1200 tonnes of nuclear fuel per year, which       is 20% of the world's total current annual reprocessing capacity [E1].
+Since 2008 the amount of nuclear material input into the plant has been       determined exclusively through the level/volume methodology developed in       Newcastle.
+Our methods have ensured that the plant can comply with       regulator's requirements and has been able to operate throughout the REF       period.
+Originally a dual system (weight or level/volume) provided built-in       redundancy for nuclear materials accountancy.
+In 2005 a pipe from a       receipt vessel fractured in the containment area.
+Operations were       suspended until 2008 and since restart only the level/volume systems have       been available for determination of nuclear receipts.
+These rely entirely       on the calibration methodology developed in Newcastle.
+The level/volume       receipt systems were revalidated by Henderson and industry colleagues in       2009/10.
+Confidence in the systems was confirmed [E2] and operations at       THORP have been allowed to continue.
+1.
+Safety and environmental impacts     Close control of nuclear material is important to prevent the adverse       safety and environmental impacts that would follow accidental release of       radioactive material.
+The 2005 leak was detected through nuclear material accountancy based on       the vessel calibrations carried out using the Newcastle methodology.
+In       [E3], Section 33, the Health and Safety Executive stated that "The HSE         investigation found that it was not the installed leak detection systems         that led to the discovery of the leak.
+It was the analysis of nuclear         materials accountancy (NMA) discrepancies at the end of several fuel         shearing campaigns that led to the detailed investigations.... and         subsequently to the discovery of the leak."
+2.
+Security impacts     Over 6000 tonnes of spent nuclear fuel from nine countries have passed       through THORP calibrated vessels since commissioning.
+Close control of       this fuel is extremely important for quickly identifying any security       breaches or misuse of nuclear materials.
+The International Atomic Energy       Agency (IAEA) is charged with monitoring civil programmes in order to ``establish         and administer safeguards designed to ensure that special fissionable         and other materials ... are not used in such a way as to further any         military purpose" [E4].
+One aspect of this safeguards work is material accountancy, by which       records of movements of material are kept and regular inventories taken.
+The main receipt vessels at THORP are the Head End Accountancy Tanks       (HEATs), which are used for input determination.
+The main issue vessels       for plutonium product (HARPs) are used for output determination.
+Given       their importance, the HEAT and HARP vessels were designed to have dual       accountancy systems: a primary system based on weight and a secondary       system based on volume/level.
+Highly accurate weighing systems were       installed and calibrated using fairly straightforward models developed in       Newcastle during 1993-1994.
+The more problematic and statistically       challenging volumetric systems were installed, calibrated and recalibrated       in 2009/10 using models described in the underpinning research above.
+Throughout, the European Atomic Energy Community (Euratom), which acts for       IAEA in Europe, approved the methods and results [E5].
+In [E6], the THORP materials custodian says "The volumetric         calibrations of the 12 main process vessels, which are also key         measurement points for accountancy purposes, continue to be used on a         daily basis and to pass the daily revalidation exercises".
+The       Newcastle work is key to this.
+3.
+Commercial costing impacts     THORP is one of only three commercial light water reactor fuel       reprocessing plants in the world [E7].
+Customers are charged according to       the quantities of material received, as measured in the receipt vessels,       and THORP charges purchasing customers according to the amount of product,       as measured at issue.
+The material of main interest is plutonium, which is       generated during reprocessing of spent nuclear fuel.
+Extremely accurate       measurement is necessary, with relative standard deviations of the order       of 0.1% for plutonium being required.
+The Newcastle calibrations delivered       this accuracy.
+Bias in the measurement system can lead to commercial       charges measured in millions of pounds.
+Exact charges and costs are       commercially confidential.
+In summary, our volumetric system continues to be the sole means of       determining transfers of nuclear materials into or out of THORP.
+Operations could have not have continued after 2008 without regulatory       approval of these accurate and reliable accountancy systems.

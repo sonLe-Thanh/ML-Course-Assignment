@@ -1,0 +1,44 @@
+     The Ford Motor Company sold 1.4 million cars in Europe in 2012.
+It builds       the 1st and 3rd best selling cars in the UK.
+The       upcoming EU fleet average CO2 emissions legislation will impose       a levy of &#8364;95 per gCO2/km above a fleet average of 95gCO2/km       by 2020.
+This challenging requirement would cost a company the size of       Ford &#8364;5.3bn if no improvement were evident from 2011 fleet average       emissions levels.
+Clearly this is commercially untenable hence every car       manufacturer has had to put into place a process to develop technologies       and enhancements to meet these requirements by improving fuel efficiency       incrementally each year.
+Crucially, though, these technologies must be       commercially affordable if car manufacturers are to be in a position to       maintain profitability.
+The technological and commercial needs have resulted in a powerful       research imperative to develop and assess cost effective technologies that       can effect measurable reductions in CO2.
+The need for improved       products is self-evident.
+The need for improved processes arises because       the level of CO2 saving offered by individual enhancements is       typically small and often masked by the measurement imprecision typical of       industrial laboratories.
+Improved precision is needed if product       enhancements are to be demonstrated to be cost effective.
+The research at       Bath has been uniquely able to contribute to improvements in both product       and process.
+It was conducted in partnership with the Ford Technical       Collaborations Group, which commissions and manages research on behalf of       engineering teams within the whole Ford structure.
+The findings of the       research are then passed directly to those groups and feed into current       practice and future model development programmes.
+Improving the precision of CO2 measurements     A project in partnership with Ford and co-funded by the Bath KTA       (2010-2012) developed and extended the techniques demonstrated by the       research at Bath [3] in such a way that they could be adopted in the       commercial setting of the Ford vehicle emissions laboratories at the       Dunton Technical Centre.
+Ford engineers, assisted by Bath researchers,       incorporated the findings of the high precision CO2 measurement       research into everyday practice for the benefit of fuel consumption       evaluation.
+The target was to double the level of precision, thereby       allowing engineers to rapidly establish the benefits of increasingly small       design changes to the vehicles.
+This target has been successfully achieved       and has been instrumental in the development of the Transit and the       Econetic range of vehicles.
+The Econetic range sold 550,000 vehicles in       Europe in 2012, representing nearly half of Ford's European sales [A].
+The Director of Vehicle Evaluation &amp; Verification at Ford commented       [B]:     `The [Bath research] project has accelerated the improvements         to reduce variability in test measurements of fuel consumption and         emissions.
+As consumption and emissions fall, any benefits become         increasingly difficult to measure, which is why this project has been so         useful.
+By making our test procedures more discriminating, it allows our         development engineers to make best use of our facilities.
+Some of these         improvements have been carried over to other labs, particularly in         Germany and the United States.'
+In 2012 Ford committed to a multi-million $ investment in the vehicle       emissions laboratories at its Dunton Technical Centre.
+The findings of the       Bath research on improving CO2 measurement precision were used       to justify this investment [D].
+Product improvement     The research findings from the parasitic losses research gave Ford the       information needed to utilise variable flow oil pump technology, giving a       3% reduction in CO2, in a production engine for the first time.
+This engine, the 1.0L EcoBoost, was launched in 2012 and was the winner of       both the 2012 and 2013 International Engine of the Year award [C], judged       by an international panel of automotive journalists.
+In addition, the high       precision measurements made possible by Bath research were able to       demonstrate that a custom oil formulation further improved the efficiency       of this engine, giving an additional 1% improvement in efficiency [6].
+The 1.0L EcoBoost engine achieved sales of over 100,000 in 2012, its       first year of production, with an increasing sales trajectory.
+This engine       is fitted to most of the Ford range from the Fiesta to the C-Max and will       go into the Mondeo in 2013.
+The Fiesta and Focus achieved UK sales that       made them the first (109,665 cars) and third (83,115 cars) best selling       cars in 2012 [A].
+Describing the mechanism by which the impact has been generated, the       Director of Vehicle Evaluation &amp; Verification at Ford commented in       January 2013 [B]:     `Over the last ten years the relationship between Ford Motor Company         and the University has grown into one that is of significant benefit to         Ford...With the help of the EPSRC and the TSB, we have been able to         develop powertrain technologies and processes that are now influencing         our products.
+Work at [the University of Bath] gave us a head start in         developing a specific engine oil for our 1.0L EcoBoost engine which is         now "International Engine of the Year".'
+The 2.2L Duratorq diesel engine, fitted to the Ranger and the Transit,       which was the International Van of the Year 2013, also benefitted from       improvements demonstrated in the research at Bath.
+The improved thermal       management techniques and designs aimed at reducing friction have       contributed to the creation of this engine.
+Transit sales alone totalled       129,200 in Europe in 2012 and sales of this engine will soon reach 300,000       per year.
+These engines are built at the Ford plant in Dagenham.
+In summary, the impact of these improvements on the emissions generated       and the fuel economy seen by the vehicle owners is substantial.
+The 4%       improvement in fuel economy due to the variable flow oil pump and new       engine oil formulation reduced CO2 emissions by approximately       40,000 tonnes in 2012 based on 30,000 km per annum for trucks and 20,000       km for passenger cars.
+Based on &#8364;1.70 per litre, the reduction in fuel       used saved the owners nearly &#8364;25M across Europe with further savings due       to the vehicle classification into lower tax brackets [A].
+Returning to the primary motivation for the research programme, the fact       that research at Bath has allowed Ford to implement cost effective changes       to its production vehicles reducing CO2 emissions by 4% has       significant commercial impact for Ford.
+The improvement in fleet average       CO2 performance is a key factor to the strategic imperative of       achieving the EU set target of 95 gCO2/km.
+The savings achieved       by implementing the findings of the Bath research allow Ford to make       progress towards avoiding an EU CO2 penalty.
+The value of this       contribution may be estimated by considering the number of vehicles       affected (estimated to be at least 600,000); the grams of CO2/km       saved by the measures described (4% of current fleet average represents a       saving of approximately 5 gCO2/km); the levy per gCO2/km       over the 95 gCO2/km threshold (&#8364;95/gCO2/km).
+This       results in a contribution valued at approximately &#8364;0.29bn per year in       avoided penalties.

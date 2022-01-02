@@ -1,0 +1,31 @@
+     Impact on Quality Control of Fresh Produce       Potatoes (Solanum tuberosum), with an estimated worldwide production of       over 300 million tonnes       in 2005 (Food and Agriculture Organisation, 2005), account for 70-80% of       the carbohydrate       consumed in the UK.
+For the fresh market the main factor affecting       consumer preference is       physical appearance and, to maximise return, great effort is expended       ensuring that the       appearance best matches a particular market.
+There are no current       legislation standards for tuber       blemishes; however such standards are driven by market forces, principally       by the larger       supermarkets.
+Most potatoes are still sorted by hand with the associated       problems of variable       subjectivity, operator fatigue and high cost of human inspectors,       Currently deployed artificial vision       systems require frequent manual calibration and have limited accuracy and       utility.
+Hence there is       great potential for the TADD technology to achieve worldwide impact over       the coming years, and       the first steps are already in progress, documented as follows.
+A second version of the TADD prototype system was built (1Q 2013),       incorporating a larger       chamber and technical improvements to meet commercial specifications, and       is currently being       evaluated in trials at Sutton Bridge Crop Storage Research (SBCSR), which       is the leading post-harvest applied research facility for agricultural storage in the UK.
+These trials have included work       on distinguishing various visible properties of potatoes such as blemishes       versus non-blemishes,       diagnosis of different types of blemishes (including scabs, scurfs, black       dot and greening), peeled       versus unpeeled skin, etc.
+The prototype will continue to be used commercially for analysis of       potatoes and other crops in       storage at SBCSR, and the technology is being further developed towards       commercialisation in a       new TSB-funded project, described in the following paragraph.
+Ongoing       dissemination activities       are being carried out at farmer, grower, packer and processor levels, in       collaboration with the       project partners at the AHDB Potato Council and their Knowledge Transfer       team.
+The TADD       prototype system was also demonstrated to the industry at the British       Potato (BP 2011) conference       (Nov 2011), the Crop Protection in Northern Britain (CPNB 2012) conference       (Feb 2012), and the       World Potato Congress (May 2012).
+Impact on Food Processing and Packaging       A new Technology Strategy Board-funded project on "Trainable Vision-based       Anomaly Detection       and Diagnosis" is in progress (Feb 2013 - Oct 2015).
+The project is led by       Ishida Europe Ltd., who       plan to incorporate and extend the technology in their online QC systems       for food processing and       packaging.
+Ishida Europe has been designing, manufacturing and delivering       weighing and packing       solutions to the global food industry for over 25 years.
+The parent       company in Japan has been       established since 1893 and has approximately 2,500 employees, which       includes 550 R&amp;D       engineers.
+Ishida has many years of experience in the field of quality       control with weighing and x-ray technology.
+The project is currently developing the technology for inclusion in the       Ishida product range, with the       first version being targeted for exhibition at Interpack, D&#252;sseldorf,       Germany, May 2014, which is       the world's leading trade fair for the packaging industry and related       process technologies.
+A beta       machine will also be installed at Branston Ltd.'s site near Lincoln.
+Branston Ltd. is one of the UK's       largest potato companies and handles about 7% (400,000 tonnes) of the       national crop at its three       production sites.
+The underpinning research documented in the previous       sections forms a key part       of the Background IPR for this project, which has been licensed by the       University to Ishida Europe       Ltd.
+The project outputs will be exploited directly through licensing of our       technology IP.
+Food       equipment manufacturers and supermarkets will be targeted first because of       the existing scale and       reach of their operations.
+This route and others will be explored within       the project.
+Ishida Europe       Ltd. will further conduct Open Days to showcase the technology, and will       utilise both online and       offline media, in multiple languages, addressing the company's existing       sales territories worldwide.
+Routes to market will be through the Ishida product range.
+Further Pathways to Impact       The research is also being disseminated through the National Centre         for Food Manufacturing       (NCFM), where the technologies developed in the ongoing research and       technical development       will be available for trials in the NCFM factory, which includes automated       fresh food packaging       lines with robotic case packing sponsored by Ishida Europe Ltd.
+The       results have been       incorporated into teaching materials for the industry-based short training       provision and       undergraduate courses at the NCFM, University of Lincoln.
+The research has       also received       worldwide attention through its coverage in the press and media, reported       below.
+Development of a generally applicable and robust anomaly detection and       diagnosis system could       generate considerable market opportunities.
+The AgriFood market in the UK       is worth &#163;80.5 billion.
+Food manufacturing represents 6.8% of the manufacturing sector and is the       largest UK       manufacturing sector with &#163;13.2 billion food exports.
+The food industry is       also the biggest       manufacturing sector in Europe; employing 4.4 million people (14% jobs in       EU manufacturing) and       accounting for &#8364;965 billion turnover (13% of turnover of EU manufacturing       sector).

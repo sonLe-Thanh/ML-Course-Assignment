@@ -1,0 +1,32 @@
+     CLL is the most prevalent form of leukaemia in the West.
+It tends to       occur in later life and is more       common in men than women.
+Every year around 17,000 people in the USA and       2,400 in the UK       are diagnosed with the disease.
+As a result of the University of       Southampton's research, patients       can now be told the likely course of their disease and their prognosis,       while clinicians, by following       current international guidelines based on the findings, are able to offer       vastly improved care.
+The finding that patients can be divided into those with U-CLL (~40% of       cases) or M-CLL (~60% of       cases) led to a clear subdivision of the disease.
+This distinction has had       far-reaching implications       for patients, their families and clinicians since U-CLL has a mean       survival period of ~99 months       and M-CLL ~293 months.
+This widely confirmed correlation between the Ig V-gene mutational status       and the progression of       CLL discovered by researchers at Southampton has had a dramatic effect on       both the       understanding of pathogenesis and on clinical management.
+It is now       mandatory for clinical trials       of CLL to include this prognostic factor and have lg V-gene analysis [5.1].
+Patients with U-CLL have a significantly lower mean survival rate than       those with M-CLL, as well       as a greater need for chemotherapy.
+Southampton's research has helped       clinicians predict the       time to first treatment and the time to the chemorefractory state (thus       alerting clinicians to poor       outcome), as well as the likelihood of transformation to the more       aggressive Richter's syndrome,       which has a mean survival of five to eight months.
+A better understanding of appropriate treatment means chemotherapy can be       avoided or at least       delayed for some patients.
+This brings both economic savings, given the       cost of treatments, and,       due to the considerable potential side-effects of many forms of treatment,       benefits to patients' well-being.
+These factors were the driving force behind the publication of       international guidelines [5.1]       in 2008 for the diagnosis and treatment of CLL, which directly referenced       Southampton's research       and updated previous guidelines issued by the US National Cancer Institute       Working Group.
+The       2008 guidelines prepared by clinicians from Europe and the USA state: "The       leukemia cells       express immunoglobulin that may or may not have incurred somatic mutations       in the       immunoglobulin heavy chain variable region genes (IgVH genes).
+The outcome of patients with       leukemia cells that use an unmutated IgVH gene is inferior to       those patients with leukemia cells that       use a mutated IgVH gene."
+These are still current.
+An important aspect for prognosis is that the IgVH mutational       status is a biomarker applicable to all       patients.
+This contrasts with chromosomal markers e.g.
+the 17p deletion       which is found in ~7% of       patients.
+An update on the clinical usefulness of Ig V-genes has been published       recently by the Swedish       CLL group [5.2].
+The Southampton findings also directly influenced the formation of       practice guidelines from the       Italian Society of Haematology, the Italian Society of Experimental       Haematology and the Italian       Group for Bone Marrow Transplantation.
+These are still current [5.3,         5.4].
+A more recent outcome of the research has been the development of drugs       specifically targeting       the Ig signaling pathways [5.5].
+A 2012 paper published in Leukemia         &amp; Lymphoma [5.6] referred to       the new drugs as "exciting".
+Not only is the VH gene status important, it       is a target for novel drugs,       such as ibrutinib, which promises to have a dramatic effect on CLL       treatment.
+The Food and Drug       Administration in the US has already awarded ibrutinib three       `breakthrough' designations, a       reflection of its publicised commitment to fast track the delivery of the       experimental drug to patients       [5.7].
+For patients, the National Cancer Institute (US) website for CLL puts Ig       gene mutational status first       in the list of prognostic factors [5.8a].
+Consequently, there is       evidence that patients are learning of       this important prognostic factor and requesting the test: in the US,       commercial companies (e.g.
+Molecular Diagnostic Labs, Barnes-Jewish Hospital, St Louis) offer the       assay.
+Websites set up to       support and empower patients with CLL provide some evidence of patients       using IGHV mutational       status as their own index of prognosis in CLL [5.8b].
+The Ig V-gene status is also useful in different clinical settings.
+For       instance, it is recognised that       unmutated immunoglobulin variable heavy-chain gene status remains an       adverse prognostic factor       after autologous stem cell transplantation for chronic lymphocytic       leukaemia showing continued       relevance after treatment [5.9, 5.10].

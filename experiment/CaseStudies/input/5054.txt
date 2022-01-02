@@ -1,0 +1,24 @@
+     Around one child in a hundred is born with a congenital heart defect.
+Depending on the severity of the condition, some children will require       cardiac catheterisation as a diagnostic tool or as a curative treatment.
+To guide the procedure, images are recorded throughout using X-ray,       exposing children to radiation.
+Research has shown that children who       undergo even a single procedure are at an increased risk of developing       tumours and cancer in later life [6].
+Children are especially vulnerable       to the oncogenic effects of radiation.
+Tissues and organs that are growing       and developing are more sensitive to radiation effects.
+Moreover, the       oncogenic effects of radiation require a long latent period (decades) that       varies with the type of malignancy.
+Therefore children have a longer       lifetime risk of developing radiation-induced cancers.
+MRI is a completely radiation free imaging technique and can provide much       better characterisation of cardiovascular anatomy than it is possible with       x-ray.
+As described above, we developed the technical, work-flow and       safety features and the catheter visualisation techniques needed to       carrying out the first in-man MRI-catheterisation procedures in patients       with congenital heart disease [1].
+This new clinical technique that allows       simultaneous measurement of invasive pressure and physiological       measurements such as flow and volume has enabled new avenues of research       and insights into human cardiovascular physiology and pathology [7-14].
+We have also shown that this technique has significant benefits for       patients.
+Firstly, it reduces the X-ray radiation dose by a factor of       eight, which is very important particularly as the majority of patients       undergoing catheterisation for congenital heart disease are children [7,       15].
+Secondly, it improves the accuracy of physiological measurements like       the measurement of pulmonary-vascular resistance (PVR) [8,9] - important       in making decisions about treatment such as judging whether the risk of       going ahead with palliative or corrective surgery is justified.
+The       previous technique has a bias of up to 54% with limits of agreement from       154% to -66%.
+In congenital heart disease, making decision on whether to proceed with       surgical palliation or other interventions, versus continuing conservative       management, can often be very difficult.
+This is because there is not       population-based data on outcomes, because of the complexity and large       variation in the type of abnormality.
+Having more accurate measurement of       physiology, only made possible by the technologies we have developed,       means that now we can start to make decisions on the basis of these       measurements and, for example, know that PVR of over 4 dyne.sec/cm5       in children with a uni-ventricular circulation and over 6 dyne.sec/cm5       in a bi-ventricular circulation, would be too high risk to move forward       with palliative or corrective surgery [7, 15].
+We have worked with Philips Healthcare to develop the concept of a       combined MRI and X-ray clinical cardiovascular catheterisation laboratory       (the first research challenge described in section 2) which has led to the       CE marking and commercial release of the first such product by Philips       Healthcare in 2004 [15].
+Based on the concept we developed, similar       systems have subsequently been released by Siemens and GE [15].
+These       systems are installed in 15 leading academic health science centres across       the world and are used for cutting edge clinical research and for the care       of complex patients such as those with congenital heart disease.
+MRI guided cardiac catheterisation, has been adopted as best practice at       the Evelina Children's Hospital, London - one of the ten major paediatric       cardiac centres in the UK [7].
+The practice has extended its reach       nationally and internationally to hospitals such as Great Ormond Street       Hospital, London [12], German Heart Centre, Berlin, Germany [13] and       Children's National Medical Centre, Washington DC, USA [14] enhancing the       quality of care for patients with congenital heart disease.
+Our research activities have led to the development of a new commercial       product, the hybrid MRI X-ray cardiac catheterisation laboratory, the       development of a new technique for assessing cardiac physiology in       patients and a better way of performing cardiac catheterisation in       children and adults with congenital heart disease, which has been adopted       as routine practice at the Evelina Children's Hospital, London and also       used in centres around the world.

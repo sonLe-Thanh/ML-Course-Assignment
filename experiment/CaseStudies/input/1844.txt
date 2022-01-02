@@ -1,0 +1,26 @@
+     The long-run small macro modelling approach developed by Garratt and       co-workers has been       adopted by a number of central banks and government authorities around the       world, including the       European Central Bank, and the central banks of Switzerland, Norway, New       Zealand, Indonesia       and Malaysia.
+(5.1, 5.8).
+By demonstrating the gains to density forecast combination and their       ability to produce well-       calibrated density forecasts, in the face of macroeconomic instabilities,       Garratt and his co-authors       have facilitated the adoption of these methods at central banks.
+For       example, their methods have       been directly taken up by policy makers at the Norges Bank (5.3)       who have developed their       System for Averaging Models.
+(Norges Bank gives an account of this on its       web site (5.6).)
+They       now routinely produce density forecasts for inflation and output growth,       based on a weighted       average of a range of forecasting models.
+Unlike point forecasts, density       forecasts capture       uncertainty fully and facilitate more informed policymaking.
+The findings and output from this body of work have impacted researchers       at policy institutions.
+Garratt and Simon Price (a senior official in the Bank of England's       Monetary Analysis Division)       organised a one-day conference in October 2011 on density forecasts and       the use of fan charts at       the Bank of England at which Garratt's work was presented (5.7).
+Academics, policy makers and       Monetary Policy Committee members at the Bank of England and officials of       the Federal Reserve       Bank of New York took part.
+Since 2008, the academic papers produced have been circulated widely,       both as discussion       papers/journal papers and at international conferences.
+Over the course of       2009 and 2010, Garratt       and his co-authors visited central banks (de Nederlandsche Bank, the Bank       of England, the       European Central Bank, Norges Bank and the Reserve Bank of New Zealand)       and Eurostat to       disseminate their findings.
+They have written papers jointly with staff at       Eurostat and Norges Bank,       and shared their software with them, to further encourage data producers       and policy makers to use       their density-forecast combination-methods.
+Garratt and co-workers have worked directly with Eurostat staff to       produce early statistical       estimates of Euro-area Gross Domestic Product.
+Garratt participated in David Stockton's review of forecasting at the       Bank of England in July 2012.
+Since the review the Bank of England has taken up the suggestion of       producing cumulative density       forecasts as developed in the work of Garratt et al (5.4).
+The Bank       of England's Inflation Report,       May 2013, pages 46-47, gives an account of this.
+Garratt presented his       work at HM Treasury (5.5)       in a series of Academic Policy Perspective seminars on "Probabilistic         Forecasting and Economic         Value" in March 2013.
+As a direct consequence of his work, Garratt and his co-authors have       established a network on       the theme of probabilistic forecasting.
+Partner organizations, who have       committed modest funding       for the first year, include the Norges Bank, Bank of England and the       European Central Bank.
+Partner investigators are researchers, including senior and junior       academic econometricians,       applied statisticians and practitioners.
+The major aim of this network is       to provide a forum for       exchanging ideas for operationalizing methodologies and to stimulate and       coordinate research into       new methods for probabilistic forecasting, forecast evaluation and       communication.
+It seeks to       develop methods for use by both practitioners and academic economists.
+Since forecasting is a       key input into the work of statistical agencies, finance departments and       independent fiscal       watchdogs, many public sector institutions will benefit from the outputs       of the network.
+The first       meeting of this network was held on 17th January 2013 at       Birkbeck.
+The topic was `Now-casting in         Central Banks' and it was attended by and had presentations from the       Norges Bank, Sveriges       Riksbank, Central Bank of Ireland, Bank of England, European Central Bank       and the Central       Banks of Austria and Spain (5.2, 5.9).

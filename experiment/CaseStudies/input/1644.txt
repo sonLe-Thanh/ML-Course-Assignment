@@ -1,0 +1,14 @@
+     The major impact of this research has been its use by one of the       companies in the EPSRC       consortium.
+Xaar is the world-leading independent supplier of industrial       inkjet printheads and uses       a drop-on-demand mode.
+As a direct result of the research described above       the company was       provided with new understandings of the ways in which the inks they use       behave when they are       emitted from nozzles and impact on paper.
+It was also provided with new       validated numerical       codes that allow it to predict quantitatively the behaviour of the ink       depending on its viscoelastic       properties.
+Consequently, Xaar is able to make informed design decisions       based on validated       models of the ink behaviour, which have the capability to improve the       design and performance of       the printers.
+Xaar has used the understanding of visco-elasticity to develop new       combinations of printer heads       and inks, and to identify rogue inks that underperform.
+While it is       difficult to place a quantitative       economic benefit to these developments, it is clear that the development       of new printer heads and       inks has both given the company a competitive advantage and provided a       better performance to its       customers.
+For example, Xaar provides an `ink optimisation process' to       design inks for specific       applications based on Professor Hinch's research.
+Former Technical       Director of Xaar and       consultant during the impact period writes:     "these activities have been quite remarkably successful, and are         founded on the understanding         and development of rheological theory by Professor John Hinch who         supervised Jocelyn Etienne,         Oliver Harlen and Neil Morrison (the latter two now at Leeds University         - part of the consortium)         who have developed simulations of ink jetting for the consortium.
+As         well as this, Professor Hinch         has advised on all aspects of understanding of rheology and surface         tension effects during the         course of the two projects.
+Two instrumentation techniques have emerged         from this as well as the         successful simulation of jetting."
+He further adds that     "The Ink Jet Research Centre [of which Professor Hinch is a member] at         the Institute for         Manufacturing was set up to address these problems and has formed a         consortium of academic         institutions and commercial partners.
+The commercial partners together         represent more than &#163;1B         of annual business for the UK (much of it based in the Cambridge area)."
+[1]     Xaar's products sell worldwide and they currently have a turnover of 86M       and invest between 8% -       10% in R&amp;D. [2]

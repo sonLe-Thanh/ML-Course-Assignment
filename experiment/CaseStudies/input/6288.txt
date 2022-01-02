@@ -1,0 +1,40 @@
+     The Robot Scientist was chosen as the fourth most significant discovery       in 2009 according to TIME magazine.
+TIME stated that "In April, 'Adam,' a       machine designed at Aberystwyth University in Wales, became the first       robotic system to make a novel scientific discovery with virtually no       human intellectual input".
+They went on to say that this was a "major       breakthrough" and "the first to complete the cycle from hypothesis to       experiment to reformulated hypothesis without human intervention" [5.1].
+Our research had led to a paper in Science in April 2009.
+This paper       described the project as a whole, the automation setup, the philosophical       implications, and the new biological knowledge that had been discovered.
+The high profile of the journal helped to bring the paper to the attention       of the media.
+The research group and the University also helped to       encourage interest in the work by providing video, images, a detailed set       of web pages, and a preprint of the paper online.
+The Robot Scientist has now appeared in national newspapers around the       world, including the US, Australia and Singapore (newspapers included the       Times, Financial Times, Guardian, Sydney Morning Herald, Straits Times,       New York Times and others [5.7]).
+The work has also been discussed on       radio, TV, and magazines, online news sites and in technology magazines.
+These included the BBC, Wired, NewScientist, Scientific American, CNET,       Reuters and others [5.4,5.5,5.6,5.8,5.9].
+It also now has its own       Wikipedia page [5.12].
+To give some examples of the impression made on the public we can look at       the comments they left next to online articles.
+The NewScientist article       received 62 comments from the public, including "I've been looking forward       to living through leaps in human history like this" and "This is going to       speed scientific progress exponentially.
+Hurts my mind just thinking about       the possibilities...".
+Comments left after the article in Wired include       the concerned "Why are we compelled to build machines that do our thinking       for us?...
+I for one am not looking to replace myself with a machine" and       the philosophical "No matter how many 'scientific discoveries' these       robots make, does it count until a conscious entity (for now that means       us) says that it is a scientific discovery?"
+The internet also produced many widely read blog posts debating the       issues that are raised by the prospect of an automated scientist.
+The       public engaged with the idea and left many comments on these blogs.
+While       some fearful reactions were raised by the public, there was also a hugely       positive response, and it would seem that the public can understand the       potential for greater knowledge that can come from the automation, and       that this is inspiring.
+An example of a comment posted following a blog       post written by Ed Yong is "I love computers and robots!
+I really want to       make these kinds of things when I graduate."
+[5.10].
+On a forum belonging       to xkcd, people wrote "This is quite awesome though" and "We need to get       thousands of these to work.
+Bring on the singularity!"
+[5.11].
+The work has also raised discussion amongst legal practitioners about       patents.
+This is demonstrated by a letter to Science in 2009 by two patent       attorneys and a technical advisor, which they state was directly inspired       by the Robot Scientist work [5.2].
+They said "As two patent attorneys and       a technical adviser at a long-established Philadelphia intellectual       property law firm, we read R. D. King et al.
+'s Report about robotic       inventors ("The automation of science," 3 April, p. 85) with interest.
+We       wonder whether the products invented by robots will ultimately become free       to the public without the possibility for patent protection."
+The legal       issue raised by the Robot Scientist regards whether discoveries made by       robot can be patented and if so, by whom, or would it be necessarily       patent-free and available to the public.
+This is an issue that could       potentially be worth billions and must now be resolved.
+Their letter       discusses current law in the US and Europe and the existing protection       that it might provide.
+Bloggers also picked up this point [5.3].
+The research has also had impact in the lab automation industry.
+Caliper       Life Sciences, an international lab automation company with a UK office,       who won the tender to produce the robot hardware, have used the Robot       Scientist as a leading example of what can be done with automation [5.13].
+The senior applications specialist for Caliper Life Sciences told us that       the company could not have imagined a better marketing campaign for the       future of lab automation, and as a result, sold us the equipment at a       heavy discount, undercutting the opposition tenders to the point of making       a loss.
+The Sparkes et al (2010) paper in the Journal of the Association       of Laboratory Automation, which described the automation and included a       member of Caliper Life Sciences as a co-author, appeared in the January       issue of this journal, which was given out to more than 4000 delegates of       the LabAutomation conference at Palm Springs, California.
+This conference       is predominantly the leading trade fair, with industry-related technical       talks in parallel.
+Again, Caliper Life Sciences were extremely pleased at       this impact.

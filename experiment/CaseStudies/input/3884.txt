@@ -1,0 +1,43 @@
+     Optimization problems are ubiquitous in industry, for example, how to       schedule airline crew, how to       improve drug design, how to minimize production costs, how to maximize       power output, how to find       the lowest energy configuration, and how to find the best combination of       medicines for a particular       patient.
+The invention of the filter method by Professor Fletcher and co-workers       meant that a broad range       of previously computationally unfeasible optimization problems could be       efficiently solved.
+Arguably the most challenging of the optimization problem types is MINLP,       in which some of the       variables are constrained to take only discrete values.
+Until fairly       recently it was regarded that such       problems were intractable unless the number of variables was small.
+Professor Fletcher and co-workers       showed that using filterSQP to solve the many NLP sub-problems       generated in the Branch       and Bound method for MINLP, has considerably extended the range of       problems that can be       solved.
+A production software product MINLP_BB has been made       available and has attracted       many users.
+Since 1997, the University of Dundee has issued close to 100       licenses for Professor       Fletcher's optimization software algorithms to a range of end-users       including numerous       international-scale industrial companies e.g.
+those referred to in Section       1.
+Four examples of where Professor Fletcher's filter method has made direct       impact are:     (i) Use of the filter method in the Design Explore       software utilized by The Boeing Company.
+[Dates Impact Occurred: January 2008 - present]     Boeing is the world's leading aerospace company and the largest       manufacturer of commercial       jetliners and military aircraft.
+It employs over 170,000 people worldwide       with a total revenue in       2012 of $82 billion.
+Design Explore is the primary tool for design       optimization used by the Boeing       company.
+The filter method invented by Professor Fletcher and co-workers       has been at the heart       of this software.
+"...it is difficult to imagine how different life at Boeing would       be without the optimization tools....       whose underlying filter-based methods were inspired by the idea of Roger       Fletcher and Sven       Leyffer...no constrained optimization problem is ever solved in Design         Explore without making use       of the [Fletcher] filter", [FS1].
+The filter algorithm continues to be used extensively in engineering       projects throughout the       company.
+Examples that can be corroborated in open literature are the       joined wing sensorcraft       (LeDuox et al.
+AIAA2008-7190), helicopter rotor blade design (Hirsh et al.
+AIAA2007-1252) and       hypersonic vehicle design (Bowcutt et al., AIAA2008-2591).
+(ii) Use of the filter method in IPOPT core optimization software in         the IBM circuit tuning tool         EinsTuner.
+[Dates Impact Occurred: January 2008 - present]     IBM is an international IT company employing over 430,000 worldwide (over       20,000 in the UK) with       a total revenue in 2012 of $105 billion dollars.
+The EinsTuner software is       used to determine the       optimal transistor sizes in commercial digital circuits.
+The filter       concept is central to the IPOPT       software, which is at the core of EinsTuner.
+The advantage offered by this       software has been       valued by IBM at "millions of dollars" and IPOPT is "extremely       widely used".
+"The filter idea...has       extraordinary impact, both at IBM and ..[other] industry" [FS2].
+"At IBM Research, we also used Prof. Fletcher's filterSQP       and bqpd optimization codes within       algorithms for the solution of MINLPs.
+...Prof. Fletcher's filterSQP       and bqpd solvers are used to       solve continuous subproblems, the number of which can be in the millions       during the solution of a       single MINLP.
+In this context, the reliability and efficiency of the filterSQP       and bqpd software       packages have been essential for the good performance of the MINLP       solvers."
+[FS3].
+(iii) Use of the filter method in European Space Agency activities.
+[Dates Impact Occurred: January 2008 - present]     The ESA is a joint venture between 20 European Member States dedicated to       the exploration of       space.
+It employs over 2000 people and has an annual budget of near       &#8364;5Billion.
+A fundamental       requirement for ESA is to solve optimization problems related to space       vehicle manoeuvre       planning, trajectory optimization, vehicle performance optimization and       optimal vehicle design.
+ESA has used filterSQP as a benchmarking tool for all their       optimization developments.
+Two       projects (totalling approx.
+&#8364;400K) were initiated to foster the       utilization of filter techniques in       European space industry.
+The impact of Prof. Fletcher's filter method in       the work of ESA is best       summarised by the following direct quotes:       "[Fletcher's] input proved indispensable for achieving the targeted       quality of work"       "filter techniques.... reduced the computation time by a factor of       two"       "Fletcher .. has advanced the way numerical optimization is carried       out at the European Space       Agency".
+Dr Sven Erb TEC-ECN / GNC Systems Engineer     (iv) Use of the filter method in TOMLAB.
+[Dates Impact Occurred: January 2008 - present]     TOMLAB is the premier developer and distributer of large scale       optimization software for use in       conjunction with MATLAB.
+Since 2000, TOMLAB have offered Prof. Fletcher's       algorithms (bqpd,       filter SQP, miqpBB and minlpBB) as part of their software suite.
+Commercial clients selecting these       codes include Honeywell International, General Motors, International       Atomic Energy Authority and       Draper Laboratories amongst others [FS4].
+Prof. Fletcher's QP solvers are also utilized in a wide range of other       industries for example in the       forestry management systems GAYA and SIMO used by the Norwegian and       Finnish industries.
+These industries contribute a significant component to the GDP of the       Nordic countries [FS5].
+As well as software tools, Prof. Fletcher has provided vital advice to a       wide range of industrial end-users       of his code including a consultancy agreement with the European Space       Agency.

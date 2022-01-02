@@ -1,0 +1,34 @@
+     Physicists at Glasgow first recognised the potential medical applications       of the hybrid particle detector in the 1990's.
+In the years that followed,       the Medipix collaboration developed an innovative new microchip, and then       brought the technology to market through a commercialisation deal with       leading X-ray equipment manufacturer PANalytical.
+The resulting PIXcel       range is the most advanced technology of its kind on the market, offering       a cost-effective, accessible, but highly adaptable machine producing       images of unrivalled quality.
+The Head of the Knowledge Transfer Group at CERN said: "At CERN we assess       the impact of knowledge transfer projects in terms of the number of people       benefitting, project visibility, and wider dissemination as well as       financial return.
+In these terms Medipix2 and its relationship with       Panalytical is one of the projects with highest impact that CERN has been       involved with."
+PANalytical, formerly known as Philips Analytical, is one of the leading       suppliers of X-ray materials analysis equipment.
+The company offers a       range of X-Ray Diffraction (XRD) instruments, which are sold to customers       worldwide both in academia and industry.
+XRD is a non-destructive       analytical technique used to determine the crystalline structure and       elemental composition of materials.
+Its applications range from       pharmaceuticals and petrochemical to semiconductor, electronics, and       nanotechnology.
+XRD is a particularly versatile technique as it can       provide information on the chemical and physical characteristics of a       range of materials including powders, thin films or bulk materials.
+The Medipix2 collaboration secured a Collaboration Agreement with       PANalytical in 2001, and the company supported the development of the       Medipix2 chip in return for exclusive rights to commercialise the       resulting technology in its new Empyrean product line.
+The company       successfully launched the first PIXcel product in 2007.
+Today, PANalytical       sells three different products based on the Medipix2 pixelated detector.
+The introduction of a series of PIXcel detectors (PIXcel1D,       PIXcel3D and PIXcel3D       2x2) has added new dimensions to XRD analysis.
+With this complete series       of detectors users can obtain the best available data quality.
+This       technology breakthrough required sustained input for approximately 8 years       from the Medipix collaboration before yielding mature, marketable       products.
+PANalytical's PIXcel, offers a number of distinct advantages over its       competitors.
+First, it is uniquely adaptable, being the only detector on       the market that can operate as a point-, linear-, 2-D or 3-D detector, all       in one.
+This adaptability is complemented by its high spatial resolution,       high dynamic range and low noise, which make PIXcel the most advanced       photon counting detector in the world.
+The PIXcel3D X-ray detector offers flexibility       and performance that sets it apart from all competing systems, which use       separate detectors to cover the same range, thus increasing the cost.
+PIXcel's all-in-one capabilities are more cost-effective, allowing modes       that were so far only available at large synchrotron facilities.
+In 2011,       Empyrean, the product line of XRD systems incorporating PIXcel, won an       award for the best technology innovation from R&amp;D Magazine.
+It       continues to be a very successful product line that is well received by       customers.
+In 2013, PANalytical introduced a further innovation to its Empyrean       product line: the ability to perform grazing incidence small-angle X-ray       scattering (GISAXS).
+GISAXS is a technique that is used to investigate the       physical and chemical properties of nanostructured thin films.
+However, as       an advanced analytical technique, it is traditionally restricted to users       of synchrotron beam lines.
+Thanks to the high efficiency and low noise of the Medipix2 detector,       high quality images can be obtained even using laboratory sources with       intensity orders of magnitude lower than that from a synchrotron beam.
+As       nanomaterials become more widespread in a number of applications,       affordable and convenient access to this technology is of great advantage       to users both in academia and industry.
+The PANalytical XRD Product Marketing Manager said: "We are very proud to       be a commercial partner in Medipix2.
+PANalytical has a track record of       innovation and this association will keep us at the forefront of detector       technology for many years to come.
+We are determined to continue       developing the best, and most innovative, detectors for all our future XRD       customers.
+Empyrean is PANalytical's answer to the challenges of modern       materials research.
+While today's research themes are nanomaterials, life       sciences and renewable energy, tomorrow's science may move in a totally       different direction.
+The lifetime of a PANalytical diffractometer       stretches further than the typical horizon of a single research program       and for many scientists, an ability to accommodate change is a 'must-have'       feature in their decision to invest in an XRD system."

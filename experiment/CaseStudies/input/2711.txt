@@ -1,0 +1,27 @@
+     By the end of the CHIN project (1999), it had grown to provide services       for over one hundred organisations in the NHS Scotland.
+These included all       15 health boards and most of the 28 hospital trusts as well as a number of       major NHS information providers.
+In so doing we had created the basis for       an effective HIN for Scotland.
+At that time healthcare organisations within the NHS were accepting that       patients should take a more active role in their own healthcare.
+Most       healthcare institutions were producing a range of paper-based documents       aimed at patients and were quick to see the potential benefits of moving       these to electronic form and making them available via the Internet,       thereby reducing overall costs.
+The advantage that SHOW offered at this       time was to bring together the distributed contributions from all the key       healthcare providers in Scotland and create a single virtual healthcare       library for Scotland.
+In so doing one creates a huge source of information       that is accessible from any part of the country.
+An additional benefit is       that institutions can easily learn from each other and are motivated to       improve the information sets that they want to target at patients.
+Medical practitioners were also catered for within SHOW, which included       information aimed primarily at the professional.
+Examples were:            TOXBASE &#8212; an online toxicology database provided by Scottish Poisons         Information Bureau       TRAVAX &#8212; online travel medicine advice provided by SCIEH       Clinical guidelines for practitioners provided by Scottish         Intercollegiate Guidelines Network (SIGN)       Information from hospitals on new services, changes to services,         laboratory handbooks, etc.
+After the initial prototype service went live in 1996, the number of       services grew steadily and the common structures evolved naturally.
+During       this period the rate of access to these services grew accordingly, and by       the end of the project in 1999 it averaged over 50,000 page hits per day       (over 1.5 million hits per month).
+In 1997 the Scottish government       recognised its importance and it was adopted as part of the IT strategy of       the NHS in Scotland in the Scottish Office White Paper, "Designed to care:       Renewing the national health service in Scotland".
+As a result at the end       of the project, development was taken over by NHS Scotland and became the       NHS' main vehicle for providing health information to patients and       professionals in Scotland.
+One of the problems which we had identified was that of protecting access       to sensitive health information for professionals (and used passwords to       do so).
+However, the NHS has been able to handle this with a dual system       in which a full range of information is available to professionals within       the NHS firewall and a subset available to any user outside the firewall.
+Currently the full set of websites available to professionals within the       NHS firewall through SHOW numbers over 400 (see http://www.showsupport.scot.nhs.uk/About/About.aspx)       while 289 of these are available to any user outside the firewall.
+In turn the use and dependence on the site by both public and       professionals has grown steadily, and during the 2008-2013 period it has       averaged 1.7 million hits per day (50 million per month).
+Since the       population of Scotland is around 5 million people, this represents a       significant rate of access.
+This put Scotland well ahead of developments       in other countries and was regarded as a major success.
+Since take over by the NHS, SHOW has been managed by a support team       within NISG (National Information Systems Group) which currently consists       of 8 personnel (see http://www.show.scot.nhs.uk/aboutSHOW/howSHOW.aspx       ).
+One of the important benefits of SHOW is its ability to reach a large       number of people very rapidly.
+This has been particularly useful when       emergency situations such as e-coli outbreaks have occurred.
+It has also       been useful in providing access to new developments such as NHS24.
+Following our developments on SHOW, researchers at the National Centre       for Scientific Research "Demokritos" in Athens adopted a different       approach but used some of our developments [5] as a basis for a HIN for       Greece.
+Other HINs have been developed for different purposes such as       exchange of patient data (NHIN), public health (PHIN), etc.
+Note that       SHINE (Scottish Health Information NEtwork) is a later development       produced by library and information services and has nothing to do with       SHOW.

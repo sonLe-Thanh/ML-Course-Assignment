@@ -1,0 +1,30 @@
+     Decision makers tasked with devising and implementing effective and       inclusive socio-economic policies need as much information as possible.
+Novel methodologies of small area estimation developed by researchers at       Southampton have provided policymakers, both in the UK and       internationally, with reliable data ranging from average household income       to unemployment figures right down to neighbourhood level.
+In particular,       the Southampton research has allowed small-area estimates of employment       indicators and income indicators to be derived from the Labour Force       Survey, the largest household survey in the UK, and the Family Resources       Survey, respectively.
+Southampton's long-time collaboration with the ONS has proved essential       in providing this range of disaggregated data to the Department for Work       and Pensions (DWP) and local authorities around the UK.
+Dr Alan Taylor,       Head of the ONS' Small Area Team, has described Southampton's work in this       field as `a recognised breakthrough' [5.1].
+He said: `In my         experience great research can often lead to academic papers but not get         translated into outputs.
+Our collaboration [with Southampton] has led to         significant improvements in ONS small area estimates of income and         unemployment and [has] led the world in model-based estimation.'
+The ONS' own National Accounts Team and Labour Market Division have       relied upon the estimates to answer enquiries from local authorities,       policy advisers, government departments and academics.
+The ONS has       reported that demand for small area estimates has been `strong' [5.1]       and that users have drawn on them for a variety of socio-economic       purposes.
+An analysis conducted by the ONS in 2012 concluded: `Without         these estimates valuable insights into the differences between small         area geographies would be lost... Users would need to look around for an         alternative and less suitable source.
+In particular, a number of         parliamentary questions would have to be answered at higher geographies.'
+[5.1]     Southampton's success in producing sets of local authority-level       estimates of labour force activity has proved invaluable for MPs in       serving the needs of their constituents.
+A letter [5.2] written to       the ONS in 2005 by the Chief Librarian for the House of Commons, John       Pullinger, reflects the significance of these data, obtained using       Southampton-designed methodologies.
+Pullinger stressed the importance of       making a common set of key labour force indicators &#8212; for example       Jobseekers Allowance claimants as a proportion of the constituency's       working age population &#8212; available to serving MPs, something which is only       possible as a result of this research.
+The model-based estimates of mean       income developed by Southampton researchers helped the ONS plug a gap in       its national statistics provision enabling the ONS to supply the DWP with       small area income estimates.
+Local authorities are the main users of these estimates.
+The Greater       London Authority used small area estimates in its 2010 Focus on London       report, Income and Spending at Home [5.3], which compared       income at both individual and household level across the capital.
+This was       a key input in the Mayor of London's Outer London Commission Report       [5.4], which analysed the challenges and opportunities facing the       outer London economy.
+This in turn was an important source of information       for developing new policies in housing and transport proposed in the new       London plan (2011), the strategic development plan [5.5] for the       capital up to 2031.
+Another local authority, the London Borough of Newham, used the estimates       in their Information Management System allowing members of the public to       summarise and map data via data interrogation tools on the borough's       website.
+Newham further used the data to answer queries from members of       the public and from other local authority officers.
+Users, including the       DWP, stated that without these estimates valuable insights into the       differences between small area geographies would be lost [5.1].
+The impact of Southampton's research has extended overseas.
+In 2009, the       Mexican government agency, CONEVAL, sought the University's help in       producing estimates of income and social rights deprivation in Mexican       municipalities.
+Methodologies developed by the Southampton team since 2001       have allowed CONEVAL to measure access to health, education and food at       neighbourhood level as part of its brief to define, identify and measure       poverty across the country.
+Dr Aparicio Jimenez, CONEVAL's Poverty       Analysis Director, said: `With this research, the poorest         municipalities in Mexico can be identified.
+With this valuable         information, the federal government, the National Congress, federal         states and municipalities will be able to design more effective social         programmes.'
+CONEVAL described Southampton's research as `the most       prestigious' of its kind [5.6].
+A year later Southampton's modelling methods enabled the Netherlands'       Centraal Bureau voor de Statistiek (CBS) to deliver more accurate       estimates of business turnover, which have guided policy changes at a       national level [5.7].
+CBS reported that Southampton's       methodologies proved superior to other small area estimation approaches       `in several situations' [5.8].

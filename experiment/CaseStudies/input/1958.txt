@@ -1,0 +1,23 @@
+ The HermiT reasoner has made an important contribution to the development of ontology language standards and the uptake of ontology based systems: it was the first reasoner to support the OWL 2 standard (a revision of OWL published by the W3C in 2009) [A], it is used in an increasing number and range of applications, and it is distributed as the standard reasoner with the Prot&#233;g&#233; OWL ontology editor, a popular ontology design tool developed at Stanford University that has more than 230,000 registered users drawn from every sector of the economy [B].
+An example application of HermiT is in the Energy Management Adviser (EMA), a system developed by EDF Energy in France.
+EMA is designed to produce personalised energy saving advice for EDF's customers.
+In order to determine what kind of advice is appropriate to a given customer, each customer is classified based on a profile that includes information such as the kind of property they live in, their location, and their past energy usage.
+This classification uses an ontology that captures a wide range of information relevant to energy consumption.
+An important advantage of this design is that EDF's home management specialists can update and extend the ontology to reflect changing environmental circumstances and new energy saving ideas, and the reasoner will automatically adjust the nature of the advice given to customers to reflect these changes.
+Although hard to quantify, EMA has the potential to save substantial amounts of energy.
+The letters are generated from the EMA based on information from Hermit which enables tailored advice to be provided based on knowledge about the customer.
+Hermit provides essential reasoning capability to make sense of this information and for EDF to be able to easily amend the reasoning techniques and advice based on emerging information about customer profiles and energy usage e.g.
+weather forecasts or new product information [H].
+Typical advice would include "Electricity consumption between December and February is higher than during the same period last year.
+This increase may be caused by a lower out-door average temperature (2 degrees lower), which could have led to increased use of your central-heating system."
+This would be followed by some general advice on how to make more efficient use of the heating system, including making a small reduction in the thermostat temperature.
+An interesting feature of the system is that it will omit this last piece of advice (reducing the temperature) for "vulnerable" customers, e.g.
+pensioners.
+EDF uses Prot&#233;g&#233; and HermiT to develop and maintain their ontology, and they use HermiT in the EMA itself.
+The EMA is currently part of a premium service package called Suivi Conso that is an extra-cost option subscribed to by 265,000 EDF customers in France [C].
+The EMA is used to provide advice to these customers at least twice per year, with the advice being distributed along with energy bills.
+It is planned to extend this service to all 17 million EDF customers (which will require HermiT to classify more than 1 million customers per week), and also to use EMA to provide advice to customers via the EDF web site [D].
+Horrocks and Motik are acting as paid consultants to EDF, helping them with the design of the EMA and of the associated ontology; some of this work has been documented in a joint EDF-Oxford paper to be presented at the 2013 International Semantic Web Conference [E].
+Another example of HermiT's use in products and applications is the "ontology based automotive off-board diagnostic system" developed by Gigatronik Stuttgart GmbH.
+In this case the ontology is used to capture knowledge about relevant automotive systems and fault diagnoses.
+Reasoning (via HermiT) is used to support both ontology development (i.e., adding knowledge about faults and their possible causes), and fault diagnosis (i.e., by identifying different kinds of fault and suggesting possible causes) [F,G].

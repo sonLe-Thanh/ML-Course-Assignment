@@ -1,0 +1,31 @@
+     High-end computation tools and techniques are an essential complement to       theory and experiment for many of today's scientific and technological       challenges.
+Challenges investigated include, amongst many others,       improving the accuracy of weather forecasting [1] and the relationship       between genetic markers and cancer [2].
+High-end computational facilities       are thus indispensable for scientific and technological progress in many       disciplines.
+This strategic importance was underpinned by the investment       of &#163;113M made by the UK Government to install and operate the HECToR       high-performance computing (HPC) facility over the period 2007-March 2014       [3,4].
+The facility provided 11328 cores in Phase 1 (2007), and expanded       to 22656 cores in Phase 2a (2009), to 44544 cores in Phase 2b (2010), and       to 90112 cores in Phase 3 (2011) [5].
+The HECToR HPC facility has been of strategic importance to the UK, as it       enables the UK to be recognised as an international leader for       computational science and engineering.
+The repeated upgrades of the       facility are of major importance to ensure that the facility maintains its       position as an internationally leading HPC facility.
+Usage statistics       further demonstrate the significance of HECToR to HPC users, including       industrial users.
+Typical usage from September 2012 &#8212; August 2013 shows       that over 60000 processors are in use on average, with peak demand well       over 85000 processors [6].
+To guarantee that the investment provided by UK Government was spent       judiciously, the procurement of the HECToR facility was overseen by EPSRC       on behalf of the UK Research Councils.
+NAG Ltd. conducted the benchmarking       process and operated the various acceptance tests for the different stages       of HECToR, to ensure that the pre-agreed performance levels of the       facility were met.
+To assess the vendors, a scoring system was put in       place, in which the benchmarking process formed a substantial part of the       overall score.
+(For the next UK high-performance computing facility       ARCHER, benchmarking accounted for 35% of the overall score, and vendors       were informed that those vendors that put significant effort into the       benchmark tests tended to score better overall [7].)
+Five application       codes were selected to participate in the HECToR benchmarking tests, one       of which was the HELIUM code [8].
+The HELIUM code was selected for inclusion amongst the benchmark codes       for the following reasons [8].
+With HECToR being the replacement facility       for CSAR and HPCx, the most heavily used codes from this service were       prime candidates for the procurement benchmarks.
+These candidate codes       were assessed by NAG Ltd. for suitability.
+HELIUM was assessed to be a       cleanly structured code, without complicated software dependencies.
+This       was a major advantage for porting to the wide range of different       architectures that were offered by the competing hardware vendors.
+In       addition, good support was available from Prof. Taylor and Dr. Parker at       QUB, and one of the members of the NAG benchmarking team was familiar with       an earlier version of the code.
+Finally, the use of finite-difference       methods in the HELIUM code complemented the different approaches pursued       by other benchmark applications well.
+This is important in the procurement       of a general purpose system, which will be used by a wide variety of users       in many application areas.
+It is also important during acceptance testing:       the system must be capable of performing at pre-agreed levels at each       Phase of the installation for this wide variety of users.
+Another important consideration for inclusion of the HELIUM code amongst       the benchmark codes was its scalability [8].
+The scale of the HECToR       facility increased by a factor 8 during its lifetime.
+It was thus       essential that benchmark codes offered the potential to run efficiently on       next-generation facilities.
+NAG Ltd. assessed that the HELIUM code can be       configured with ease to run on very large core counts.
+Hence, the HELIUM       code played a particular important role in the acceptance tests for Phase       2b and Phase 3, where the hardware vendor was required to demonstrate that       benchmark codes, such as the HELIUM code, could run for several hours on       &gt;90% of the total number of cores available (~40000 for Phase 2b and       ~80000 for Phase 3), to give confidence that the system was sufficiently       stable and reliable for production use on large scale, capability jobs.
+The HELIUM code has helped EPSRC to demonstrate expected value for money       for the &#163;113M investment provided by the UK Government in the       high-performance computing facility HECToR.
+Immediately after delivery of       each phase, the HECToR facility has consistently ranked as a top-20       facility in the world, and a top-5 facility in the EU, (17th in       November 2007 (phase 1), 20th in November 2009 (phase 2a), 16th       in June 2010 (phase 2b), and 19th in November 2011) [9].
+These       rankings demonstrate a leadership position of the UK in the strategically       important area of High-Performance Computing.

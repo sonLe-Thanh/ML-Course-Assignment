@@ -1,0 +1,36 @@
+     The principal strategy of the School is to directly apply the outputs of       research to industrial contexts.
+Using a combination of the School's       expertise in Cloud Computing, together with specific research into the       applicability of Grid scheduling techniques &#8212; such as DIANA &#8212; to Cloud       Computing, the School has developed innovative architectures, algorithms       and applications that demonstrate the wide scope of this work.
+With this in mind, two specific examples illustrate the breadth of impact       that this work illustrates.
+Firstly, the extension of the DIANA system has       been transferred to Roche, a global pharmaceutical company, in order to       streamline the drug discovery process.
+This is achieved by using the       decentralised scheduling extension to DIANA to enhance the existing       Enterprise Knowledge Exchange workflow systems at Roche.
+Evidence of Impact            Knowledge transfer into Roche pertaining to the use of workflow         scheduling to orchestrate cloud-based services [5.1].
+&#163;55K Research and development funding contract with Roche.
+Employment of 1 full-time employee (FTE), with another 1 FTE to start         in January 2014 [5.1].
+The potential impact of this upon a global organisation such as Roche,       which dedicates considerable resources to the management of intellectual       capital and Enterprise Knowledge Management, is significant.
+The second example utilises further development of the algorithms to       pre-schedule video processing and mining in a distributed federation of       compute Clouds.
+XAD Communications Ltd., is an SME that has partnered with       the School of Computing and Mathematics to apply our knowledge and develop       new products and services.
+The company is developing video surveillance       products that make use of low-cost, consumer grade video cameras, as well       as cloud-based video processing and streaming services for customers who       already have a physical video capture infrastructure.
+Evidence of Impact            Knowledge transfer into XAD Communications Ltd. [5.5][5.9].
+&#163;129K funding from the Technology Strategy Board.
+Employment of 1 full-time employee (KTP Associate), plus buy-out of         time for UoD Academic (Anjum)[5.8].
+Additional 1 FTE to be recruited by         XAD Communications Ltd [5.2].
+With regard to profit from existing customers, the margins are likely to       increase.
+Currently the margins are quite narrow and they mostly come in       the shape of add-ons that the company has developed, which are around &#163;500       per server node in a video data centre.
+An important source of the       increase in margins is less reliance on third party tools.
+The algorithms       and cloud library is likely to enable the company to use their own data       store and analysis platform instead of buying this from third parties.
+The application areas that have already been identified have the       potential for massive impact upon society.
+Traffic surveillance for       pro-active management, and pre-emptive policing, all become more feasible       as a direct result of being able to process large volumes of video content       in real-time[5.5][5.6].
+Similarly, application in the security domain can       utilise the proliferation of consumer video cameras, which can be deployed       much cheaply and widely.
+The detection and correct attribution of evidence of crime will also be       significantly enhanced as the technologies developed in Stream Cloud       significantly reduce the manual labour required to analyse video footage       [5.7].
+Additionally, the development of associated Cloud-based services       has the potential to facilitate the creation of new business models that       utilise inexpensive video capture.
+Additionally, subsequent follow-on       investment from the IT as a Utility (ITaaU) network (EPSRC funding) of       excellence, recognises the potential impact of this work by awarding a       0.5FTE academic secondment to UoD, commencing September 2013.
+As a result of his successful engagement with these projects and the Grid       Computing research community, Anjum was awarded the role of `European Grid       Initiative (EGI) Champion'.
+This role recognises expertise in the use of       Grid Computing infrastructure, and in particular is a mechanism by which       this knowledge is conveyed as widely as possible.
+To date, Anjum has       engaged with the following dissemination activities:            Delivered a talk to the biomedical and security community in the EGI         community forum, Manchester, April 8-12 2013       Reviewed the EC deliverable D6.9 (April 2013) that provides report on         the Heavy User Communities Tools and Services.
+Co-Chaired (with Antonopoulos, Gillam) ITAAC 2011 and 2012 workshops,         held in association with Utility and Cloud Computing (UCC) Conferences.
+Edited two journal special issues, (with Antonopoulos, Gillam),         Journal of Cloud Computing: Advances, Systems and Applications (JoCCASA)         in 2012 and 2013.
+Invited talk at ICOSST 2012, Lahore, The Role of Cloud Computing in         Video Streaming Applications.
+The following activities were agreed and arranged prior to 31st       July 2013, and indicate further planned dissemination activity:            Provided expert opinion to the EGI Technical Forum (September 16-20,         2013), Madrid, participants about the latest Cloud Computing trends in         Biomedical and Security domain.
+Member of Expert Panel &#8212; Trust Management models and approaches         (October 2013).
+Delivered a keynote talk, Kings College London (October 2013) to         European Commission, Future of Clouds in the healthcare domain.
+Co-Chair (with Antonopoulos, Gillam) workshop, in association with         Utility and Cloud Computing (UCC) Conferences (December 9-12, 2013).

@@ -1,0 +1,36 @@
+     In 1997 Professor El-Gomati formed York Probes Sources Ltd (YPS Ltd) to       exploit his expertise to collaborate with commercial companies to develop       new SEM devices, pushing them beyond their conventional limits.
+YPS won a       SMART award (1997) to develop novel field emitters that incorporated an       electron cathode with other electrodes in a single unit to be used in       miniaturised and conventional SEMs based on El-Gomati's research at York.
+Today, this company employs five members of staff and averages an annual       turn-over of about &#163;300k.
+El-Gomati's research group have worked with some       of the largest surface science and microscopy companies including       Shimadzu, Cameca, FEI Inc., Novelx (Agilent) and Carl Zeiss.
+The group has delivered impact in three main areas, as follows:     Miniaturisation of Field Emission Technologies.
+The research lead to the development by York Probe Sources Ltd of       small-sized electron columns and a novel Field Emission source/cathode       (operating at &lt;1000V and delivering current intensity ~       50-100f06dmA/str).
+A US-based start-up, Novelx Inc. successfully trialled       and used the source to realise the first and still the only commercially       available desktop, field emission Scanning Electron Microscope (2008),       approximately the same size as a laser printer.
+Their desktop SEM product,       MySEM, won the USA Prestigious R&amp;D 100 Award for Innovative       Scanning Electron Microscope (2009).
+MySEM is now in use in       several top US academic and research laboratories including MIT, Berkeley       and the Naval Research Labs for research into nanotechnology, MEMS and       polymers as well as process development, verification and failure analysis       in laboratories.
+In 2010, Agilent Technologies acquired Novelx for an undisclosed sum [2].
+The desktop SEM (8500 FE-SEM [3, 4) retails for [text removed for         publication] (less than half the price of a conventional SEM),       bringing it within reach of a far wider market.
+Furthermore, it occupies a       footprint of less than 3 cubic feet; significantly smaller than       conventional room-sized SEMs, again allowing it to be used in a wider       range of applications and locations such as clean rooms and confined       areas.
+Since the Agilent acquisition, it is estimated that more than [text         removed for publication] have been sold world-wide [1].
+Lawrence       Murray, Director of R&amp;D at FESEM for Agilent Technologies says "This       product particularly stands out from others in this market because it       provides customers the only desktop tool with enough resolution and       surface fidelity to image features at nanoscale dimensions."
+and "Without       the novel TFE work of Professor El-Gomati ... this type of tool would not       have been possible."
+[1]     High angular intensity Schottky electron source.
+As a result of the collaboration with Shimadzu they have, to date,       invested [text removed for publication] in the evaluation and       refinement of the new cathode.
+The work has now been transferred to their       Business Production Division, and they are making significant investment       through a team of a dozen engineers with the aim of launching "the most       powerful electron beam instrument to the world" [8].
+LaB6 in `Virtual Source Mode'     Together with project partner, Carl Zeiss (UK), a conventional thermionic       electron cathode, using a lanthanum hexaboride crystal (LaB6)       as the electron source, was configured to be used in the virtual source       mode [5].
+This configuration provides three benefits in comparison to       operation in the thermionic mode 1) a smaller source size by a factor of       more than 10 times, 2) a reduced initial energy spread of the emitted       electrons by approximately 3-4 times and 3) increased source brightness of       approximately 10 times on its value when operated in the conventional       mode.
+These factors lead to a smaller beam size for a given beam current       and allow one to use a lower beam voltage than previously necessary.
+The advantages of these features are that they allow users of this       instrument to investigate radiation sensitive and insulating materials at       much higher resolution than previously possible.
+In addition, operating       this class of cathodes in the virtual source mode, whilst similar to a       field emitter, does not require altering the shape of the commercially       available cathode to produce a sharp needle as is required for the more       expensive field emitters.
+Further, the vacuum requirements of the LaB6       electron cathode in this mode are only high vacuum which is much simpler       and less expensive to achieve than UHV.
+This virtual source mode of operation was used by Carl Zeiss SMT       (Cambridge, UK) in developing a new and unprecedented generation of SEM &#8212;       the `EVO HD' ([6],[7],[8]) launched in 2011.
+This instrument, which is       less expensive (approx.
+half the price) than an FE-SEM, has high imaging       capabilities at lower beam energies (&lt;2keV) &#8212; an essential feature,       especially for radiation sensitive materials, such as biological and       medical materials, novel photoresists, nanotubes and nanorods.
+Dr. S.       Beam, Physics manager at Zeiss said [5]: "This instrument has the best       performance of any conventional scanning electron microscope whilst       maintaining a price that is both acceptable for a conventional microscope       and lower than any high performance, field emission based, microscope.
+EVO&#174; HD instruments have been sold within Europe, North America and the UK       with other regions expected to follow in due course."
+Low Voltage Microscopy     The semiconductor industry remains the single largest beneficiary of the       advances and developments made in electron microscopy.
+SEMs occupy a key       role in quality control assessment, where for example Critical Dimension       SEMs (or CD-SEMs) are a major tool for critical dimension measurement, as       well as for defect review analysis.
+Research in this low voltage microscopy mode, has led to a better       understanding of the signals obtained from the SEM.
+The understanding       coming from this research underpins the growing use of low voltage SEM       with its superior surface contrast, thus allowing nanoscale features to be       observed on a wide variety of nanostructured materials, including       polymers, thin films, biomaterials, and other energy-sensitive samples on       any substrate, even glass.
+For example, using low voltage SEMs (&lt;5keV),       it is now possible to differentiate between differently doped       semiconductors (i.e.
+p- and n-types; the fundamental building blocks in       semiconductor devices).
+Low and variable voltage operation of the SEM also negates the       requirement for coating insulating materials that would charge up under a       given electron beam energy, leading to both efficiency savings (as the       materials do not need to be coated) and the removal of interference from       the coatings in the images themselves.

@@ -1,0 +1,23 @@
+     The laser systems developed have largely resulted in an economic impact       based on licensing and sales of the products developed by two of the key       partners in the research grants mentioned above.
+These companies are a       German diode laser company, Innolume and a UK based laser manufacturer, M       Squared Lasers.
+This extremely fruitful partnership of the Dundee Group       with these manufacturers has led to a successful economic impact for both       companies and the University over a very short period of time.
+Innolume have significantly improved the performance of one of their key       products called the "Gain Chip" thanks to the work carried out with the       Dundee Group.
+The company estimate that this improved device has led to       approximately &#8364;100k in annual income [REFa].
+The gain chips are used by       end users in a variety of applications from tuneable lasers [5], narrow       linewidth external cavity diode lasers and in emerging applications using       swept laser sources such as optical coherence tomography.
+Additionally the quantum dot research has led to a range of new Innolume       products being developed and the initial income is now starting to build       despite the fact that the research on these topics has largely been       carried out over the period 2008-2012.
+Innolume's current revenues       (2009-2013) from this research are: &#8364;20k from novel ultra short pulse       laser sources; &#8364;25k from QD THz antennas designs and &#8364;10k from novel       Semiconductor Saturable Absorber Mirror (SESAMs) designs [REFa].
+The work with M Squared Lasers has also led to new products being brought       to market [text removed for publication] [REFb].
+This work was based on       the research that was developed in the FASTDOT project.
+The two patents mentioned in the references section [P1 and P2] have       underpinned the second relationship of the Dundee group, this time with M       Squared Lasers.
+M Squared Lasers have licensed both patents and are       developing these into new product lines.
+They have developed a QD laser       from the patent [P1] &#8212; the applications ultimately being for end users       looking for compact sources in areas such as photodynamic therapy, and       evolving into multiphoton imaging and microscopy (which has been       demonstrated as viable by the Rafailov group, and patented along with       authors from M Squared Lasers).
+The income to date (since 2009 when the       license was taken up) is &#163;10k [REFc].
+The second license was based around the patent [P2] to be used to develop       a new laser source based around the conical refraction effect.
+This has       resulted in &#163;16k of income [REFb] since the patent was licensed in 2009,       with further development being funded through a &#163;195k KTP award       (2011-2014) with the company, demonstrating the early impact of this       particular strand of work on highly efficient solid state laser sources.
+The relationship between Dundee and M Squared Lasers is significant; this       has been underpinned with two other KTP projects in the last five years,       to work on compact laser sources for near-infrared imaging (KTP 7071) and       THz sources for imaging applications (KTP 7892).
+The value of this       commercial interaction is substantial.
+It is the 9th highest       supplier of industry income to the University, lying only behind eight       large pharmaceutical companies.
+Income in the REF period is &#163;363k, with       &#163;262k of this being in financial year 2012-13.
+Figure 2: Toptica prototype based on work at Dundee 	       The interaction between the research at Dundee and M Squared Lasers has       led to the growth of the company and they have employed two extra staff to       help further develop products as a direct result of this work.
+The company       is a SME with around 40 employees, so these hires are 5% of the total       workforce.
+Additionally Toptica (GmbH), another German laser company, has developed       a prototype (figure 2) tuneable QD laser source based on the outcomes of       the research conducted at the University of Dundee, but as yet no device       has been brought to market based on these research outcomes [REFd].

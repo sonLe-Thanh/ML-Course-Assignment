@@ -1,0 +1,18 @@
+ PETGAS created an impact from a very early stage and was viewed as being so successful by the sponsors that it they provided a further &#163;930,000 to fund a second stage of the project.
+It also led to a &#163;400,000 spinout project, SHAle PErmeability (SHAPE) that is applying the same technology to characterize the properties of shale gas resource plays.
+PETGAS proved particularly useful for Aurelian Oil and Gas (now part of San Leon) during their appraisal of the Siekierki project, which is a large tight gas reservoir in Poland.
+In 2011-2012, Aurelian spent &#163;35 million drilling and hydraulically fracturing two horizontal wells within the Siekierki Field.
+The well performance was not as good as was hoped for, in that low gas production rates were accompanied by high water production rates.
+Aurelian and several of their consultants initially thought that the poor performance resulted from the hydraulic fractures intersecting natural fractures that drained the underlying aquifer.
+A plan was therefore made to drill additional wells in an area less likely to contain natural fractures.
+However, results from Leeds as part of the PETGAS project provided an alternative explanation for the production behaviour.
+In particular, based on microstructural analysis of the reservoir rock and comparing these to other rocks on the PETGAS database it was possible to rapidly estimate the key petro-physical properties (permeability, capillary pressure and relative permeability) that controlled gas flow in the reservoir.
+These properties were then incorporated into a production simulation model and suggested that gas expansion in the reservoir was responsible for the high rates of water production instead of the presence of open fractures.
+The results from the simulation model indicated that it was possible that the brine production rates would decrease with time.
+Overall, these results had a very rapid impact on the field development plan.
+So instead of drilling more wells with the aim of avoiding natural fracture networks, the company decided to conduct longer term well tests to assess how brine and gas production rates evolved with time.
+A senior executive of San Leon confirms: "PETGAS input on our Siekierki core significantly helped in the understanding of water production mechanisms, explaining water production to be from the rock matrix rather than the initial assumption of flow along natural fractures.
+This informed the technical re-evaluation and dramatically changed the proposed reservoir development plan" [A].
+The executive adds that "The study showed that by integrating microstructural information with a database of petro-physical properties of tight gas reservoirs, it may be possible to provide reasonably accurate estimates of reservoir properties...within a few days rather than waiting months to years for the results from core analysis" [A].The results of the PETGAS research have been placed on a web-based database along with wireline log data from the wells analysed [B].
+The results can be used easily by the sponsors to identify analogues and improve reservoir characterisation.
+The results have also been divided into rock types so that sponsors can readily obtain the most appropriate properties and relationships for their particular reservoir.

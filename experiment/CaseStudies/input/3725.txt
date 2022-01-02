@@ -1,0 +1,29 @@
+     The concepts developed by Professor Sasse through the research described       above have transformed the delivery of effective security by UK government       and industry.
+By informing improvements in the design of security systems       used by millions of people each day, Sasse's work has helped make systems       easier to use while reducing the risk of security breaches in service       provision.
+Her work has also led to widespread commercial benefits, with       the production of improved security products and greater organisational       efficiency stemming from more usable and cost-effective systems.
+As of       2013, the human-centred approach to security is now seen by government and       industry as standard and essential, and forms the cornerstone of security       practices in many large and small corporations globally.
+Adoption of new technology in public services: Technology allows       for virtually all government services to be made available online in a       secure and effective way with simple, user-friendly ways for citizens to       assert their identity.
+This access needs to be consistent across       government services whilst being highly secure and able to preserve users'       privacy.
+Between 2008 and 2011, Professor Sasse advised the government on       e-government security.
+Specifically, she was heavily involved in defining       and implementing the federated identity solution developed by the Cabinet       Office Identity Assurance Programme to ensure a low-cost, low-effort and       privacy-respecting way for authenticating UK citizens.
+In June 2013 the       government confirmed this would be the "default service for all government       departments providing public digital services which require identity       assurance" [a].
+This will enable the government to provide online more of       its services, for example universal credit, accessing benefits and       pensions, passport and driving licence renewal and many more.
+The system       started alpha trials in May 2013, with eight federated identity service       providers including the Post Office, Experian and PayPal, involving       thousands of service users; a statement from the Cabinet Office confirms       its plans that this form of authentication will be used by the majority of       the UK's 45 million adult population [b].
+New online security products: Between 2008 and 2011 Sasse also       worked with several SMEs to deliver usable authentication products such as       GridSure and PINplus [c].
+Most notably, her work with First Cyber Security       led to a redesign of their anti-phishing tool SOLID.
+One of the biggest       difficulties with anti-phishing software is users' failure to notice       indicators from the software while on web pages.
+Sasse's work enabled the       company to identify which software design elements to adapt to increase       users' intuitiveness and perceived speed, alongside a review of the human       interaction with the software [d].
+The improvements have led to a huge       expansion of the customer base for the tool, which is now used by over       1,000 online retail sites.
+Sasse's guidance on minimising user effort and       giving them value inspired the company to create a new integrated product:       the Safe Shop Window, which provides shopping search results that filter       out suspicious sites, saving users time as they no longer need to evaluate       each site individually.
+This launched in 2012 and now protects the       customers of sites that generate 70% of the UK online retail turnover [e,       f].
+Sasse is currently Chief Scientific Advisor of iProov, a security startup       company that delivers her concept of "0 Effort, 1 Step, 2 Factor"       authentication, described above.
+The company provides an off-the-shelf       biometric authentication service for companies, so they do not have to       invest in costly and inefficient in-house services.
+Sasse's work improved       the biometric by improving the usability of feedback given to users.
+Launched in 2011, iProov now employs four full time staff and has recently       won two TSB grants, for which the CEO confirms Sasse's engagement made a       "material difference".
+iProov is already bidding for major commercial       contracts in the financial, telecommunications and call centre industries.
+[g]     Adoption of new processes in businesses: During the Trust       Economics project (2008-2011, funded with &#163;1 million by UK TSB) Sasse       collaborated with HP Labs to include models of human behaviour in security       models and tools [h].
+Building on this work, since 2011 HP has exported       Sasse's user-centred approach in their consultancy to other companies       through its Security Analytics service [i].
+This calculates the cost to a       business of using particular security approaches.
+It draws on Sasse's       expertise in calculating how much employee time is spent dealing with a       given mechanism.
+This enables HP, and by extension its clients, to work       out the costs of this silent waste of productivity, thereby informing the       decisions an organisation makes about security.
+For example, in 2011 one       of HP's clients was the University of Nottingham, which was able to       identify which areas of its security system did and did not require       further investment [j].

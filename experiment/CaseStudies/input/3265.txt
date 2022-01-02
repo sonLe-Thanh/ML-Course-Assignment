@@ -1,0 +1,32 @@
+     X-ray crystallography has grown to be one of the pillars of research and       development in the       pharmaceutical industry, where the atomic interactions with drug targets       of many candidate       molecules are studied to optimise them in the development of new drugs.
+Industrial       crystallographers examine numerous complexes with the same target or many       examples from       "druggable" families of proteins such as kinases, so molecular replacement       is one of their most       important tools.
+Phaser met a real need for both academic and industrial       crystallographers, indicated by its rapid       adoption in preference to previous programs for carrying out molecular       replacement calculations.
+After it was released in 2003, it quickly caught on because of success in       solving a number of       structures that had resisted years of effort.
+The 1000th       download was marked within 15 months of       the initial release.
+Already by 2008, 1190 of 6248 X-ray crystal       structures (19%) released in the       Protein Data Bank (PDB: www.rcsb.org) cited the use of Phaser (ref.
+1).
+From 2008, this has       continued to grow: 1648 of 6746 (24%) structures released in 2009, 2122 of       7296 (29%) in 2010,       2705 of 7468 (36%) in 2011, 3067 of 8302 (37%) in 2012 and 2367 of 5962       (40%) up to the end of       August in 2013.
+Given that X-ray crystal structures account for about 90%       of new entries in the       PDB, Phaser has accounted for over 1/3 of all new macromolecular       structures in the last three       years.
+Though most structures in the PDB are contributed by academic       researchers, it should be noted       that the pharmaceutical industry makes heavy use of these data, including       the many structures       solved with the use of Phaser.
+Industrial scientists have also rapidly       adopted Phaser, for the same       reasons as their academic colleagues.
+Specific examples of impact in the pharmaceutical industry are documented       in two letters.
+A       research fellow at Bristol-Myers Squibb(ref.
+2) describes several cases in       which the use of Phaser       allowed the solution of structures that had previously been difficult or       even impossible.
+In one       specific example he describes working on the structure of a       biologic/target complex, where he had       only a limited amount of protein and a limited number of crystals and for       which he states that       Phaser was "crucial to the determination of this structure".
+An Associate       Principal Scientist at       AstraZeneca (ref.
+3) states that "Phaser has been instrumental in solving       several target structures       recently, and helped the progress of these projects by making a costly and       lengthy experimental       phasing unnecessary, which would otherwise be a bottleneck in a structure       based drug discovery       campaign".
+AstraZeneca employs about 30 FTEs in structural biology, and       they "consider Phaser       as a tool of choice when solving novel structures by molecular       replacement".
+She also states that       "Phaser outperforms other programs and gives better confidence in the       solution".
+Both of these       researchers in industry emphasise that, by making difficult problems easy,       valuable time is saved.
+We have clear evidence of wider take-up by industrial users.
+Licences to       use Phaser are       available as part of two packages: CCP4 (about 120 site licences of the       package, at $9500 per       licence, to industry including AstraZeneca, Bristol-Myers Squibb,       GlaxoSmithKline, Hoffmann-La       Roche, Merck, Novartis and Vertex Pharmaceuticals, ref.
+4) and Phenix (13       industrial participants       in its consortium, ref.
+5).
+A search of US patents (ref.
+6) reveals that       42 patents filed since the       beginning of 2008 cite the use of Phaser in the research underlying the       new intellectual property.
+Considering that there is an average of nearly three years between these       patent applications being       filed and granted, this is very much a lower bounds estimate of the impact       of Phaser on the       development of new IP.
+These patents have been assigned to a variety of       entities, including       Genentech, Janssen Pharmaceutica, Novo Nordisk and, in the UK, MedImmune       and Heptares       Therapeutics.
+The Phaser development team has answered queries about the use of Phaser       from scientists at       22 different companies, including Abbott, AstraZeneca, Bristol-Myers       Squibb, Johnson&amp;Johnson,       Heptares Therapeutics, Novartis and Sanofi-Aventis.
+In addition,       industrial crystallographers       attend the annual CCP4 Study Weekend and the biannual Phenix Developers'       Workshop, where       they take the opportunity to ask questions about the use of Phaser and to       request new features.
+Industrial royalty revenues received by the Phenix team are shared among       the partners.
+The       Cambridge share of about &#163;180,000 to March 2013 has been distributed among       the University,       CIMR, Catalyst (Wellcome Trust) and the Phaser developers.

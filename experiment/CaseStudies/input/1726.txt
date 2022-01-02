@@ -1,0 +1,36 @@
+     Cranfield's research into gas metal-arc welding has led to new ways of       connecting and repairing subsea pipelines that are changing the nature of       off-shore hydrocarbon operations.
+The technology allows pipeline       operations in increasingly deeper waters, making it possible for the       development of previously inaccessible hydrocarbon reserves.
+The continuous increase in demand for oil and natural gas resulted in       sustained growth of off-shore oil and gas production.
+Offshore crude oil       production can be broadly classified in three categories based on the       depth of water; shallow water (&lt; 400 m), deep water (400 to 1500 m) and       ultra-deep water (&gt; 1500 m).
+Since the mid-1960s, the rate of offshore       production of oil and natural gas growth was on a rise till about middle       of 1990s, when offshore production reached a plateau.
+This could be       attributed to the depletion of fossil fuel in the shallow water region as       deep-sea exploration showed a significant growth during that period.
+Concurrently deep-water recovery has dramatically increased and now       comprises more than 20% of total offshore production.
+This figure is       likely to rise significantly over the coming decades as shallow reserves       are further depleted.
+Critical to all offshore oil and gas recovery are pipelines for       connecting well heads and for transporting hydrocarbons to vessels or       onshore.
+A process known as a hot tapping is required when an operator       wants to expand the coverage of an oilfield.
+In this process a       T-connection is welded to an existing pipeline while oil or gas continues       to flow [C3].
+In addition, subsea pipelines can require maintenance, often       requiring repair if they are suffering from, e.g.
+cracking due to       environmental degradation or occasional accidental damage.
+For larger pipe       diameters, beyond depths where divers can operate, this may be achieved by       the sleeve repair method.
+In this operation, the pipeline is cut, a sleeve       pre-welded onto a spool piece is slid over the subsea pipe end and this is       welded, subsea, using dry hyperbaric welding.
+The only viable welding       method for these operations beyond diver depths is remote dry hyperbaric       GMAW [C4].
+The operation involves lowering a specially designed subsea       habitat around the pipe to be welded and filling the habitat with inert       gas to displace the water.
+Remotely operated tools are then used to align       the pipes, prepare the pipe surfaces before performing the welding       operation.
+Following the detailed research programme and process development, subsea       remote welding equipment and welding procedures were specified by Statoil.
+Offshore field trials took place in 2011 in a Norwegian Fjord at world       record depths of 350msw for the remote hot tap and 970msw for sleeve       repair.
+This involved further extensive detailed studies of process       sensitivity, repeatability (in all positions) and further optimisation for       both remote hot tap and sleeve repair applications at various water depths       with different consumables.
+In 2012, further fully integrated offshore       trials with the remote hot tap equipment, validated the welding process       for production application [C5].
+Formal specifications for hyperbaric weld procedures, arising from       Cranfield's research, have now been approved by Det Norske Veritas (DNV)       for different applications as a part of a standard [C6].
+The first production application was a remote hot tap installation       carried out in connection with the preparations for the &#197;sgard Subsea Gas       Compression project in the Norwegian Sea.
+The remote Tee was welded on to       the &#197;sgard B production flowline at a water depth of 265 metres.
+Sophisticated remotely operated subsea tools and a subsea welding tool       installed the Tee on a live gas pipeline [C1, 2].
+Completion of the &#197;sgard       Subsea Compression project will take place in 2015, as the first of its       kind in the world.
+Compressors will be installed on the seabed, instead of       on a platform.
+This will improve recovery from the Mikkel and Midgard       reservoirs by around 280 million barrels of oil equivalents, worth more       than 28 billion dollars at today's prices.
+There are many beneficiaries of the research, both economic and       environmental.
+Economic benefits arise through significant additional oil       recovery.
+This benefits governments through taxes (including the UK), oil       &amp; gas companies through profits and society in general through lower       energy prices.
+Other beneficiaries include the pipeline operators who lay       and maintain pipelines and companies who manufacture and maintain the       equipment associated with the processes.
+Environmental benefits arise       through the ability to repair subsea structures at great depths.
+As       illustrated by the recent Deepwater Horizon oil spill in the Gulf of       Mexico, it is difficult to deal with catastrophes of this nature at these       depths.
+The new repair processes developed at Cranfield provide ways to       avoid future events and to deal with them should they occur.

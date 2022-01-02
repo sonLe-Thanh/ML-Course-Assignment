@@ -1,0 +1,30 @@
+     Through design-based research, working with clients confronting complex       challenges, Compendium has evolved from a proof-of-concept e-Science       demonstrator in 2002 to usage across education, business and civic       society.
+Software adoption: Compendium has attracted more than 100,000       unique downloads since 2003 and has an active user community (1867       members, July 2013) supported by the Compendium Institute (CompendiumInstitute.net).
+The open source developer community took ownership of the software in       early 2013, and maintains the software on the CompendiumNG website (compendiumng.org):`Compendium       is considered so valuable by its user community that it has self-organised       to ensure that it remains a living software application.'
+[5.1].
+Our user survey [5.2] (launched January 2011) has elicited more than 170       endorsements of its importance in the personal and professional lives of       many people, with the primary impact being more efficient information       management and deliberation processes.
+The testimonials database shows the       sector breakdown: Personal: 32%, Education: 27%, Business: 17%, Not for       Profit: 14%, Other: 8%, and Government: 1%.
+Economic impact (SMEs): Compendium sits at the heart of several       consulting firms, for example:     `CogNexus Group has used Compendium software exclusively to support Issue       Mapping and Dialogue Mapping services and training since 2008.
+During this       time we have trained over 80 people in the art of Issue Mapping using       Compendium, in areas as diverse as public health, energy production, water       usage issues, education, and consulting.
+We see Compendium as the premier       tool for supporting the large maps typical of the real-world use of Issue       Mapping and Dialogue Mapping.
+Because Compendium supports capabilities       that no other software does, our work would not be possible without it!'
+[5.2].
+Of the many public testimonials on the Compendium Institute website, one       consultancy states:     `Compendium means more than a tool for our project; it is a full work       philosophy when choosing options in our complex decision trees while       designing projects, developing research discussions, following academic       debates, planning activities and evaluating alternatives.'
+(BambHaus,       January 2011 [5.2])     Public policy impact: Compendium was used during 2010-11 for       participatory urban planning in Perth, Australia by Seven Sigma       consultants [5.3]:     `The Stirling Alliance utilised dialogue mapping to help resolve the long       standing Stephenson Reserve issue that could not be resolved using       traditional methods.
+Dialogue mapping significantly shortened the time       frames to discuss multiple options.'
+[5.4].
+Southern California Edison uses Compendium to capture rationale and index       documents in environmental policy management, documenting the 1993-2003       period in [5.5], and a decade later they continue to use it.
+They hired       their own developer to add data scalability and local area networking to       the codebase, returning these improvements to the open source release.
+Since 2012-present, Compendium supports dialogue mapping which led to       breakthroughs in planning the Sacramento-San Joaquin Delta, as evidenced       in the meeting maps and report from the Delta Dialogues [5.6].
+Health impact: Group psychotherapists struggle to find ways to       evidence the impact of their practice in the increasingly quantitative       terms required by the NHS.
+Compendium was piloted in 2010 successfully by       psychotherapists, who convert their usual written notes from analytic       group sessions into interactive maps that reflect the group dynamics and       enable the data to be interrogated.
+This work attracted interest at the       professional conference of the Society for Psychotherapy Research,       and was subsequently published in a leading practitioner journal, Group         Analysis [5.7].
+The user survey shows that Compendium also serves to support many       individuals' personal lives.
+For instance, vital cognitive planning       support for one user (unknown to us) with ADHD, who said: `IBIS has       changed my life.
+[...] I have ADHD and mapping out problems with IBIS       helps me to slow down, orientate and stay focused.
+[...] I use Compendium       in meetings and in GTD (Getting Things Done) weekly reviews' [5.2].
+Education and public understanding of science: Compendium has been       adopted by several university courses as an official tool, including       Imperial College London, Department of Mechanical Engineering, who       required its use in student design projects in 2010-11 [5.8].
+Compendium was selected for the British Library's Growing Knowledge foyer       exhibition, communicating to the public how digital tools are transforming       scholarly research (October 2010-July 2011) [5.9].
+Compendium enabled a journalist to synthesise material in an efficient,       accessible way as part of engaging the public, scientists and politicians       in a topical debate on synthetic biology [5.10]:     `The online maps did a great job in organizing and guiding the       conversations with our experts.
+Our goal (which was accomplished) was to       create a map that all contributors agreed upon (in terms of fair and       thorough representation of arguments).
+The results were presented at a       Parliamentary evening event in Berlin in November 2010.'

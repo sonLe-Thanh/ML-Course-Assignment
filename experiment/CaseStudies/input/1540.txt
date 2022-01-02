@@ -1,0 +1,55 @@
+     The impact of CSER's public engagement is an increased awareness by the       public of sports science and engineering research.
+Wherever possible,       examples of impact below use metrics to show public engagement and       evaluation statistics to describe the public dialogue.
+Lectures     Staff within the CSER have been invited to give 21 keynotes and seminars       to peers at non-academic meetings (e.g.
+IMechE, Royal Society, Royal       Academy of Engineering) to disseminate their research with 70% of events       in the UK, the rest across seven countries.
+In addition, they have       delivered 144 public lectures with 88% in the UK and the remainder across       9 countries including the US, Germany, Australasia, Japan and Israel.
+Examples of lectures are given below.
+Research Councils UK (RCUK) and Royal Institution lectures: Cutting           Edge 2012 As an example of a key public engagement project,       Haake (as an EPSRC Senior Media Fellow, grant c) and James (as a Royal       Academy of Engineering Public Engagement Fellow, grant d) were       commissioned in 2012 by Research Councils UK and the Royal Institution to       develop a series of six public lectures around the country on the theme       `sport and research', focussing on six different sports (basketball,       athletics, diving, sailing, triathlon, and cycling).
+Research expertise in       aerodynamics and mechanics (references 1, 3, 5), contextual knowledge       (reference 6) and an ability to create innovative public engagement events       were used to develop presentations for each sport with expert       practitioners.
+Following the debate at each event, an electronic system was used to ask       a set of questions and collect answers from audience members (source 1).
+The total audience was 560 and analysis of the answers showed the       following: 61% were male and the age range was normally distributed around       a mode of 31-45 years.
+Almost all (89% to 98%) thought that science was       beneficial to sport and only around 13% thought that the use of technology       was the same as doping (with drugs).
+Around two thirds agreed with the       general statement that "as well as natural talent, sport should be a test       of how an athlete can exploit technology".
+This was the only RCUK Olympic activity in 2012 (source 2) and the RCUK       evaluation report (Cutting Edge 2012: The Research behind Sport Evaluation       Report, v 3.0) showed that 100% of the audience (who filled in a       questionnaire) enjoyed the events.
+Only 2% of respondents were unable to       understand the scientific content of the events, while 85% found the       speakers `clear and easy to understand', `interesting and engaging' and       `thought provoking.
+An analysis of media coverage by RCUK showed       circulation and listening figures for local radio of 524k.
+Haake SJ, "Boots and balls, the science behind the World Cup", The           Royal Institution, London (6/6/2010).
+This drew on       finite element analysis (reference 1), shoe-surface interactions       (reference 4), and motion capture (reference 5).
+Evaluation forms from the       family audience of 150 (modal age 26-35) all agreed, or strongly agreed,       that they had learnt something new, while 73% agreed, or strongly agreed,       that they wanted to find out more about research behind sport.
+Exhibitions     In 2011, `Sports Lab' opened at the Weston Park Museum in Sheffield, an       interactive exhibition designed and partly built by CSER, funded through       an &#163;82,000 `Partnerships for Public Engagement' grant from the EPSRC.
+CSER's expertise on tennis (references 1, 2, 4), aerodynamics (reference       3, 5) and sports performance (references 5, 6) were used to design an       exhibition on the historical impact of technology in sport.
+The exhibition       attracted 140,000 visitors between 1/2/11 and 30/9/11.
+Monitoring data       using a digital `kiosk' (n&gt;1,000 respondents) indicated good or       excellent ratings as follows: quality 87%; interpretation panels 82%;       layout 86%; and enjoyment 85% (source 3).
+As a continuation of the project, the exhibition subsequently moved to       the V&amp;A Museum of Childhood in Bethnal Green and re-branded as       `Beautiful Games', attracting 250,000 visitors between 1/4/2012 and       31/8/2012 (source 4).
+The exhibition was shortlisted for the Podium Awards       in London, 3rd May 2012.
+Online articles to engage the public with research     An online blog has been created by CSER (www.engineeringsport.co.uk),       designed to engage researchers and the general public in its research.
+Between 1/9/2009 and 31/7/2013 the blog had 248k hits, with average daily       hits of 14 in 2009, 74 in 2010, 145 in 2011, 322 in 2012 and 252 to       31/7/2013.
+Typical topics relating to the research described here (author;       reference; hits) are:             How far could Usain Bolt jump?
+(Foster: 6; 29,732);        The problem with the Wimbledon roof (Haake: 1, 2, 3, 4; 2,722)        Physics of the groundstroke in tennis (Allen; 1 and 2; 1,247);          348 comments have been posted by readers with most on the use of the       Kinect for motion capture in biomechanics.
+Readership spans 185 countries       with the largest coming from English speaking countries such as USA (29%),       UK (25%), Australia and New Zealand (11%), and Canada (4%).
+Print media     Staff in CSER have been commissioned to write 15 popular science articles       in publications such as the New Scientist, Professional Engineering,       Physics World and Ingenia.
+They are also regularly consulted by national       and international media with 101 pieces in national press such as the       Times, Independent, Guardian and the Mail.
+This led to 256 articles on       press websites across 22 countries (61% UK; 6% Americas; 5% EU; 4%       Australasia; 3% SE Asia; 2% Africa).
+Two key examples of commissioned       articles together with their reach and significance are outlined below.
+Haake SJ, Instant Expert 24, New Scientist, 7 July 2012, 215(2872),           pp 8.
+This was commissioned by New Scientist for the Olympics       and included research around sports engineering, 3D motion capture       (references 4, 5) and the analytics of performance improvement (reference       6).
+The aim of the Instant Expert was to introduce sports engineering.
+This approach is very popular with schools and colleges and contributed to       an increase in sales.
+The issue had 131k+ print copies worldwide (UK &amp;       Ireland, 58%; Australasia, 17%; USA/Canada, 16%; others, 9%) with an       estimated readership of 800k.
+In terms of impact on the readership, the       Sports Engineering Instant Expert is in the top 10 of all (New Scientist)       instant experts read online.
+Additionally, the features editor said of the       article, "To put this in to perspective, that's 5 per cent more than         average sales for 2012 and 15 per cent up on the same week last year"       (source 5).
+Haake SJ, Material Advantage, Physics World, 7 July 2012, 25(7),           26-30.
+This was commissioned by Physics World as part of a       special issue for the Olympics and used the performance index developed in       reference 6 to quantify the impact of technology on sporting performance.
+The issue had 35k print copies and 225k unique visitors to the website       during that month with both national and international coverage (82% UK;       8% EU; USA 5% USA; 9% other).
+The article had 5.5k downloads by 31/7/2013.
+Broadcast media: Live and recorded interviews     During the REF period, CSER staff were invited to give 10 live and       recorded interviews on national TV including BBC's Newsnight (26/7/2012;       30/7/2012), Channel 4 News (16/7/2012), Sky News (13/7/2013), BBC       Breakfast (19/6/2012), BBC News (5/8/2012), and BBC World (4/8/2012;       5/8/2012).
+There were also 46 live and recorded interviews on national and       regional radio, including BBC Radio 4 Today Programme (6/9/2012), BBC       Radio 4 World at One (2/8/2012), Radio 5 live (3/6/2010; 26/8/2011;       23/3/2012; 25/5/2012).
+There were also interviews on intentional radio in       Ireland (RTE1 1/7/2009, 29/7/2009), Australia (ABC 17/12/2011), USA       (Madelaine Brand Show 5/7/2012) and Germany (Deutschlandfnk, 27/7/2012).
+A       30 minute programme for BBC Radio 4 was co-developed by Professor Haake       with the BBC Science Unit and drew upon his work on technology and sport       for the Olympics (reference 6).
+It was hosted by Jonathan Edwards on       18/7/2012 and was the only sports and technology programme on the BBC (TV       or Radio) during the Olympic Games.
+It obtained a national audience of       around 123k+.
+Films     The Physics World articles (see above) were linked to 3 films using CSER       research on 3D motion capture (references 4, 5) and aerodynamics, with 4k+       downloads and views of the films by 31/7/2013.
+The RoyaI Institution       created a 5-film collection on Engineering Sport          http://richannel.org/.
+This was a co-production between Prof Haake       and the RI, part funded by the EPSRC (grant d).
+It used all aspects of       CSER's activities to explain the research behind sport with key stories on       tennis dynamics (references 1, 2), motion capture (reference 5) and       analytics (reference 6).
+The videos had 21k downloads by 31/7/2013.

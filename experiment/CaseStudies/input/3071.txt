@@ -1,0 +1,40 @@
+     The research listed [1] - [6] above underpins the Bank of England's       current research: Bridges and Thomas (2012) state:     "The PNFC sector model uses a three-equation system of PNFC money         holdings, borrowing and investment based on Brigden and Mizen (2004)"...       "Although aggregate models are useful, as they allow us to look at the         complete macroeconomic response to a QE shock, the linkages between         money, asset prices and spending have tended to be clearer at the         sectoral level in the UK data (see ... Brigden and Mizen (2004),         Chrystal and Mizen (2005a,b),)."
+Prior to these studies the Bank of England was uncertain whether       excess money and credit balances held by non-bank financial corporations       should be treated like assets and liabilities held by banks (as they are       in the United States) which are netted out of the official figures, or       included in the analysis of monetary policy.
+The Bank now considers these       data from some of these institutions to be important for output and       inflation and factors them into its analysis.
+Prior to this research the MPC       could have understated growth in money and credit aggregates by ignoring       all non-bank financial institutions, some of which have an impact on real       activity and inflation.
+The Bank produces monthly reports on monetary       developments in these sectors (see [A] various issues), and discusses them       in the quarterly Inflation Report.
+It has cited research on money       and credit, including the research in this case study, as one of its major       contributions to understanding monetary transmission in the 50th       Anniversary edition of the Quarterly Bulletin, [C].
+The main       beneficiary has been the Bank of England, and other central banks       that they influence.
+The research has had an impact on official monetary aggregates published       by the Bank of England.
+The research provided the starting point       for a review of other financial institutions in the monetary statistics       taken up by Spencer Dale when he was Head of Division in         Monetary Assessment and Strategy.
+The Bank undertook to review its       monetary statistics [G] and after public consultation adjusted its measure       of broad money from M4 (deposits held by banks and building societies) to       M4X (M4 minus holdings of money by certain bank-like entities known as       intermediate other financial institutions).
+Since June 2009, the M4X       statistics have been produced monthly by the Bank.
+The decision to exclude       non-bank financial institutions that undertake similar activities to banks       e.g.
+bank holding companies, but to include financial institutions that       serve firms and households (e.g.
+leasing companies) recognises the       research that showed some financial institutions have an impact on output       and inflation.
+The beneficiaries are all users of monetary aggregates       produced by the Bank of England in the United Kingdom,       such as commercial and investment banks, insurance companies and pension       funds, private non-financial corporations and individuals.
+This work on non-bank financial institutions involved Mizen in an       `Expert meeting on monetary analysis' in DG-Economics, European         Central Bank in 2006, which discussed the construction of monetary       aggregates excluding other financial institutions in Europe, [B].
+It underpins the analysis of the recent weakness of broad money growth,       [D], and the assessment of quantitative easing in the UK, [E].
+The research also contributes to our understanding of policy and       contributes to the public policy debate, particularly during times of       change when new instruments or objectives have been adopted for       extraordinary times e.g.
+quantitative easing policies.
+It is notable that,       while central banks had relegated information on monetary aggregates       during the mid-2000s and when inflation targeting appeared to be very       successful, they refocused on these aggregates with the introduction of       quantitative easing.
+At the Bank of England the understanding of       monetary aggregates and credit have primary importance with the       introduction of QE in March 2009, as [D], [E] and [F] document.
+The Deputy Governor of the Bank of England wrote     `"The financial crisis has reminded economists of the centrality of         money and banking to macroeconomic conditions.
+At the Bank of England,         we drew on Paul Mizen's money models as a guide to gauging the         prospective impact of the Monetary Policy Committee's quantitative         easing on spending and asset prices."
+One measure of the success of quantitative easing is the impact on bank       lending to UK businesses, which is reported by the Bank of England       monthly.
+The discussion in [H] shows how the measure of money excluding       certain non-bank financial corporations has an impact on the debate over       quantitative easing, as does [F].
+The Editor of The Sunday           Times, comments:     `The research has had a clear impact on the Bank of England, both in         its modelling and in construction of the monetary aggregates (the new         M4X measure).
+It has also informed the work of other central banks...and         the researchers have been used as experts by these central banks and         invited to undertake further work.'
+The work on interest rate pass through has helped central banks to       understand how their policy decisions affect interest rates offered to       households and firms.
+This has become a very important issue in       understanding the monetary transmission mechanism.
+Mizen was       invited to the Bundesbank in 2005-6 to explore the effects of       interest rate pass through in Europe.
+This then led to an invitation to an       `Expert meeting on interest rate pass-through', at DG-Economics and         DG-Statistics, European Central Bank in 2007 to discuss transmission       of monetary policy http://www.ecb.int/events/conferences/html/mir.en.html.
+The Banque de France invited further work on pass-through in the       major European economies and on individual French banks in particular in       2011.
+This work has been published as Banque de France Working Paper       N 361, and Journal of Money, Credit and Banking, 45, 1377-1417, October       2013.
+The findings were used by the Banque de France to establish       data and modelling protocols, forecasting assessment criteria, and       informed the European Central Bank through the Expert Group on         Financial Assumptions (EGFA) from April 2011-June 2013.
+The senior Banque         de France official responsible for this research writes:     `The research on interest pass through was very innovative and         extremely useful for the monetary policy decision making process: it         confirmed the importance of future expected interest rates in aggregate         euroarea data, and then verified this in data for individual French         commercial banks.
+It had a great impact on our understanding of this         aspect of the monetary transmission mechanism in the Banque de France'     Further work is being undertaken on individual bank pass through using       panel data in 2013.
+On 15th February 2013 Mizen       participated in a policy briefing on pass through and the Bank's Funding       for Lending Scheme with the Chief Economist of the Bank of England,         Spencer Dale, and his staff.
+In February 2013 Mizen was       asked to collaborate with Dr Garry Young (Bank of England) to       update and improve their model of pass through, this work is ongoing.
+Mizen       has also been invited by the Bank for International Settlements to       engage in a detailed study of pass through for advanced and emerging       economies in 2014.
+The major beneficiaries are central banks, especially       the Bank of England, the Banque de France and the European         Central Bank.

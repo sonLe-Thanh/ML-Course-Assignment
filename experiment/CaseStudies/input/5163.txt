@@ -1,0 +1,37 @@
+     Joint work with Institute Curie (Paris, France) started in 2004.
+This is       one of the top European cancer research and treatment centres.
+Together       with the Bioinformatics Unite of Institute Curie, we have developed a       software library which implements most of our methods.
+This software is       now open for non-commercial use worldwide [5.2].
+Institute Curie       uses this software in various projects for visualization and analysis of       microarrays for various types of cancer, for visualization of clinical and       biochemical data [5.2].
+Publication [5.3] demonstrates knowledge transfer impact as the       IC-MSQUARE conference is dedicated to application of mathematics in other       science and technology, and the author list of the paper has two member of       the University (Gorban and Mirkes) and three colleagues from [text removed       for publication] (Alexandris, Slater and Tuli).
+Use in Humans       Many institutions and clinics in various countries have reported       successful use of these methods and software for clinical purposes [5.2]:            The Ukrainian Medical Almanac [5.6] reported two new         applications: (i) Prediction of treatment result of long bones fracture         for diabetes patients, (ii) Pain management and quantitative estimation         of pain.
+Dr. Arndt Benecke (joint affiliation at Institut de G&#233;n&#233;tique et de         Biologie Mol&#233;culaire et Cellulaire, CNRS/INSERM/ULP, Coll&#232;ge de France         and Institut des Hautes Etudes Scientifique, France) used the method of         elastic maps for analysis of microarray data in cancer.
+This experience         was reflected in the subsequent publication [5.8].
+Use in Animals       The treatment of dogs is a vast and recession-resistant business: there       are 80 million dogs in the United States alone, and even in recession most       people keep spending on their pets.
+Research into the treatment of cancer       in dogs also has relevance to the treatment of cancer in humans,       particularly because it relates to spontaneous cancer which occurs in a       domestic environment.
+"Lymphoma is one of the most common canine cancers,       representing 5% of all malignancies.
+It has an annual incidence on 25       cases per 100,00 dogs" [5.7].
+[text removed for publication] has developed a lymphoma blood test, [text       removed for publication], [5.4, 5.5] which gives vets an       easier, less stressful, cheaper and quicker way of testing for lymphoma.
+This means that dogs are more likely to be tested for lymphoma when any       suspicious symptoms show, and that results of the tests are available       quickly &#8212; generally the same day.
+If lymphoma is caught early on it can be       treated quickly.
+While researchers do not talk of a "cure" for lymphoma,       early treatment can produce a healthier dog for longer, adding 12 months       to two years to a dog's average 12-year lifespan.
+The blood test was developed from serum samples collected from several       veterinary practices.
+The samples were fractionated and analysed by mass       spectrometry.
+Two protein peaks, with the highest diagnostic power, were       selected and further identified as acute phase proteins, C-Reactive       Protein and Haptoglobin.
+Data mining methods were then applied to the       collected data for the development of our online computer-assisted       veterinary diagnostic tool.
+After testing of more than 2,000,000 versions of the combinations of the       known and original data mining approaches, the best solutions were found.
+It is tested on the clinical data of several veterinary clinics worldwide.
+The generated software is a tool for diagnostic, monitoring and screening.
+Initially, the diagnosis of lymphoma was formulated as a classification       problem and then later refined as a lymphoma risk estimation.
+Three       classical methods, decision trees, advanced kNN and probability density       evaluation, were used in combinations with original approaches for       classification and risk estimation and several pre-processing approaches       were implemented to create the diagnostic system.
+For the differential diagnosis the best solution gave a sensitivity and       specificity of 83.5% and 77%, respectively (using three input features,       CRP, Haptoglobin and standard clinical symptom).
+For the screening task,       the decision tree method provided the best result, with sensitivity and       specificity of 81.4% and &gt;99%, respectively (using the same input       features).
+Furthermore, the development and application of new techniques       for the generation of risk maps allowed the visualisation of risk maps in       a more user-friendly manner.
+This is a potentially useful tool for explanatory data analysis and       testing other theoretical input features in the final diagnosis.
+The risk       maps provide early diagnosis of lymphoma return several weeks before the       clinical symptoms are developed.
+In this monitoring lymphoma return the       risk maps perform significantly better than most of the veterinary       practitioners.
+The generated lymphoma software (JAVA) has the potential of       being web-accessible.
+In a letter to the Vice-Chancellor of the University of Leicester from       [text removed for publication] reports "The new treatment monitoring test       has the potential to add a further [text removed for publication] to our       projected turnover.
+It has also bought forward the collaboration with the       largest veterinary corporation in the UK who were specifically interested       in the treatment monitoring application of our test.
+They are now planning       to launch the new test developed with University of Leicester which will       have an immediate impact on both our short and long term revenues" [5.1].
+In short &#8212; this system is significantly changing veterinary practice in       the UK.

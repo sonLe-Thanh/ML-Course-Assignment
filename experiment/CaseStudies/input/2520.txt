@@ -1,0 +1,42 @@
+     4.1.
+Formation of the company     Hofer and Berger have commercially exploited the research described above       through the formation of a start-up company, Speech Graphics Ltd., formed       in 2010 [A].
+Speech Graphics provide a service that automatically analyses       a speech audio signal, and then automatically moves an animated       character's face in synchrony with the audio.
+The techniques used derive       directly from the doctoral research of Hofer and Berger, under the       supervision of Shimodaira.
+The key scientific novelty is the Trajectory       HMM approach pioneered for audio animation by Hofer et al (paper       2) in combination with research on muscle dynamic modeling of speech       production.
+Finally, the company exploits a novel software framework,       developed at the University of Edinburgh, called Carnival (paper 6).
+Speech Graphics Ltd subsequently extended the Carnival software framework       to manage large numbers of files using database software.
+Speech Graphics provide these technologies as a service aimed at computer       games development companies.
+Clients provide their facial models and audio       assets, and Speech Graphics produce synchronized animation curves.
+Output       is provided in industry standard formats, Maya or 3dsMax.
+Carnival       provides the backbone for efficient production work on several thousands       of files.
+The company was launched at the Game Developers Conference Expo in San       Francisco in March 2012, demonstrating the technology producing       high-fidelity lip synchronization in a wide variety of languages.
+4.2.
+Awards and recognition     Speech Graphics Ltd won a John Logie Baird innovation award in 2010, as       the "Knowledge Transfer Champion" [B].
+Speech Graphics is supported by the       High Growth Startup Unit at Scottish Enterprise.
+The unit grants the       company access to a number of support systems and finance-based       resources.
+Criteria for acceptance into the pipeline focus on growth       potential and global business outlook, specifically that Scottish       Enterprise judge that the company's Intellectual Assets (know-how or IP)       will generate &#163;5 million in revenue in five years or will be worth &#163;5       million or more in three years, and that they have the potential for       global trade.
+Speech Graphics began to attract more media attention and publicity [C].
+Speech Graphics won a prize in the national Santander Entrepreneurship       Awards in July 2011 [D,E].
+They were nominated in the Tools and Technology       award category for the TIGA Games Industry Awards presented in November       2012.
+Their channel on YouTube contains a selection of videos representing       their product [F].
+Together these videos have more than 113,000 views.
+Scottish Development International described the company as offering       ``unprecedented quality at a price point that is scalable to today's       cinematic, dialogue-rich games", adding that instead of artists spending       ``hundreds of hours of lip sync, doing motion capture cleanup or key       framing, they can spend time on art and polish'' [G].
+4.3.
+Customers and more details of the impact     Speech Graphics Ltd has been working with Supermassive Games based in       England, developing a game for one of the largest multi-national games       developers.
+Computer games now can have thousands of lines of dialogue       delivered by game characters.
+For a game marketed internationally, these       lines of dialogue need to be re-animated against alternative deliveries of       the dialogue in different languages.
+The game that uses the Speech Graphics technology features substantial       portions of dialogue written by writers who have previously written for       Hollywood movies and US TV.
+The game was announced at a Gamescom media       briefing in Cologne, Germany in 2012, and described as a highly realistic       video game with a story-driven adventure with multiple player       perspectives.
+The game features eight characters in an integrated story.
+Decisions made by the player affect the participation of the characters in       later chapters of the game.
+Speech Graphics worked with Supermassive Games       in 2012 to animate the dialogue in the game [H].
+Specifics of their work       are presently the subject of a non-disclosure agreement.
+In addition Speech Graphics has also won its first major US contract in       2013 from a major media company providing facial animation for one of the       biggest entertainment franchises, which includes non-human characters like       Orcs.
+The company has also entered into a marketing partnership with       Havok, a wholly owned subsidiary of Intel Inc [I].
+In July 2013 Speech Graphics were contacted by Def Jam Records to animate       Kanye West's face in a music video just days before the deadline for       release of the video and the accompanying website.
+Their industry-leading       technology won Speech Graphics the contract.
+The company was recommended       to Def Jam records for the Kanye West video because David Bennett, the       facial animation lead on the Avatar movie, told Def Jam records that "the       only way we can get this done in this time frame is with Speech Graphics."
+Speech Graphics completed the work on the video in 36 hours [J].
+4.4.
+Company involvement and community engagement     Speech Graphics Ltd sponsored the Third International Symposium on Facial       Analysis and Animation (http://faa2012.ftw.at)       held in Vienna in September 2012.
+This meeting brought together       researchers and practitioners from both academia and industry interested       in visual effects and games, with a particular focus on aspects of facial       animation and related analysis.

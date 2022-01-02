@@ -1,0 +1,36 @@
+     The ICR research identifying numerous genetic factors that predispose to       cancer underpins significant impact on multiple and diverse aspects of       patient care and treatment, and on the public health of unaffected       individuals.
+For affected patients, genetic testing for cancer predisposition genes is       key to the precise diagnosis of the disease; it also guides the subsequent       treatment and management of the patient, with significant benefits to       their care, wellbeing and treatment outcomes.
+Genetic testing also       provides guidance to relatives by identifying at-risk, but unaffected,       individuals for screening or risk-reducing interventions.
+The       identification of genetic factors may also provide clues as to the origins       of a patient's cancer and alleviate their often distressing concerns over       the causes of the disease.
+Predisposition genes discovered at the ICR have led to direct clinical       impact for patients and are currently part of routine clinical management       of various cancers.
+For example, the ICR discovery that BRCA2       mutations conferred increased risks of breast and ovarian cancer led       directly to a NICE clinical guideline (CG41) [1].
+Building on this work,       the MARIBS clinical trials, led by Leach's team at ICR, addressed the role       of MRI screening of women who are BRCA mutation carriers and at       increased risk of disease (Research Ref 2 above).
+The study demonstrated       that MRI screening was significantly more sensitive than X-ray mammography       in this group of younger women and has resulted in new NICE guidance (NICE       clinical guideline CG41, replaced by CG164 in June 2013 [2]).
+MRI       screening for such women is now standard care in the UK.
+Since this group       of women at higher risk of cancer are more regularly screened, the use of       MRI rather than X-ray exposure has had an additional impact on improving       the safety of screening procedures and the wellbeing of the women being       screened.
+The outcomes of the MARIBS study also resulted in American       Cancer Society recommendations for MRI screening for early breast cancer       detection in women without overt symptoms [3].
+Mutations in BUB1B and CEP57 cause a condition known as       mosaic variegated syndrome (MVA).
+This syndrome has a high risk of       childhood mortality, primarily because of a very high risk of childhood       cancer.
+MVA is an autosomal recessive condition and the identification of       two of the underlying genes at the ICR has led to both diagnostic and       prenatal testing becoming available.
+Importantly, the risk of cancer is       primarily the result of BUB1B-related MVA, and the prognosis for       non-BUB1B cases is substantially improved, which is a significant       benefit to affected families.
+Gene testing for MVA has not yet been made       available in NHS laboratories.
+However, since 2008, the ICR has       increasingly received requests from clinicians both in the UK and in other       countries to undertake such testing, and between 2008 and 2013, 147       individuals (in 54 families) have been tested for MVA-related genetic       mutations.
+The ICR discovered that PALB2 mutations predispose to childhood       cancer and a condition known as Fanconi Anaemia, if two mutations are       present, acting in an autosomal recessive fashion; they also predispose to       breast and other cancers in adults carrying one mutation, acting in an       autosomal dominant fashion.
+Testing for PALB2 mutations is       currently a routine part of genetic testing available in the NHS [4].
+Guidelines regarding Fanconi Anaemia, including the role of PALB2,       are outlined in the Fanconi Anaemia section of the gold standard       international clinical reviews, NCBI GeneReviews&#8482;[5].
+For the EZH2 and NSD1 genes, which cause       childhood-overgrowth clinical conditions, ICR's research has demonstrated       that the majority of mutations arise for the first time in the affected       child (de novo mutations), and hence the risk to siblings of       children with these mutations is extremely low.
+The impact and value of       this type of information for parents cannot be over-estimated and tests       for these genes are currently performed in the NHS (EZH2 [6] and NSD [7]).
+The NCBI GeneReviews&#8482; or these genes were written by Rahman together with       her colleagues (EZH2 [8] and NSD1 Review [9]).
+For RAD51D, RAD51C and FH, genetic testing is currently       undertaken in familial ovarian cancer, and HLRCC families [10]; on this       basis screening and preventative strategies are offered to mutation       carriers.
+Genetic research at the ICR has also contributed to the methodological       implementation of gene discoveries into clinical practice.
+For example,       the demonstration that epigenetic defects at 11p15 result in childhood       cancer and childhood growth disorders.
+Detecting epigenetic abnormalities       is technically challenging, particularly in a clinical diagnostic setting.
+The ICR optimised a technique called MS-MLPA and undertook extensive       evaluation and validation in clinical samples, partnering with NHS       diagnostic laboratories (for example St George's and Great Ormond Street)       so that the test would be available to affected families through the NHS.
+Since 2008, MS-MLPA has replaced the previous methods that had been used       and it is employed as the standard technique in the UK and other European       countries (See Beckwith-Wiedemann Syndrome entry on NCBI Gene Reviews&#8482;       [11]).
+Research at the ICR has also demonstrated the benefits of using genetic       testing for selecting which patients are likely to respond to specific       therapies.
+For example, work at ICR showed that patients with BRCA1       and BRCA2 mutations are likely to respond to treatment with PARP       inhibitors.
+From research on understanding the molecular genetics of MM,       tumour translocations and mutations are now being used as prognostic       markers to stratify treatment and as predictive markers to assess       responses to specific therapies with corresponding patient benefit.
+The research at the ICR on identification of cancer predisposition genes       has also had significant commercial impact.
+In 2011, the ICR partnered       with Illumina &#8212; the market leader in next-generation sequencing       technologies &#8212; to develop a single test, known as TruSight Cancer panel.
+This is designed to enable the analysis of genes and genetic variants       associated with predisposition to cancer for less than the cost of a       single gene test by standard technology.
+This test is currently being       marketed by Illumina [12].

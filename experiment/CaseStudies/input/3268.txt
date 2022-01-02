@@ -1,0 +1,29 @@
+     What is the link between the research and the benefit?
+HURDLE is       the cryptographic primitive that underpins authentication and key       derivation in TETRA [1].
+Authentication allows two mobile devices, or a       base station and a mobile device, to confirm that each is a valid party in       the network.
+Key derivation allows the generation of secret keys (such as       session keys) used in communication protocols from longer-term secret key       material.
+The TETRA standard [4] specifies authentication and key       derivation operations in terms of TETRA Algorithms (denoted TAn in       [4], where n is an integer).
+HURDLE is the cryptographic component       in all the TETRA Algorithms in [4].
+Who benefits?
+The TETRA mobile radio and `walkie-talkie'       communication standard is tailored for use by the public safety sector       (such as police, fire and ambulance services), government agencies and the       military.
+It was first developed as a European standard in the late 1990s,       but is now marketed worldwide for a wide variety of safety-critical       applications.
+There are now more than 1400 TETRA contracts, and TETRA is       in use in over 130 countries, with over 200,000 users in the UK alone       [3,5,6].
+For example, the police forces from the following European       countries use TETRA: Austria, Belgium, Denmark, Estonia, Finland, Germany,       Greece, Iceland, Ireland, Italy, the Netherlands, Norway, Portugal,       Poland, Romania, Slovenia, Sweden and the U.K.
+The standard is used by a       range of other organisations with safety-critical needs.
+UK examples       include London Underground, airport services at Aberdeen, Birmingham,       Glasgow, Heathrow and Manchester and the UK Highways Agency.
+The TETRA       Industry Group [5] lists a selection of recent TETRA implementations,       showing that new users continue to switch to the standard.
+Since 2008,       there have been applications to airport services, bus and tram services,       disaster relief, fire services, gas extraction, the military, mining, oil       extraction, roadside assistance, train communications, and communications       in underground/metro networks.
+A wide range of European countries have       been involved, plus Australia, Brazil, Canada, China, Haiti, India,       Jordan, Kazakhstan, Kuwait, Malaysia, Mexico, Pakistan, Qatar, Russia and       Singapore.
+Beyond the systems themselves, society as a whole benefits from       the provision of secure and efficient infrastructure that keeps many       millions of citizens protected from crime and terrorism, and safe in cases       of emergency.
+How do they benefit?
+Authentication in TETRA is used to prevent       cloned devices from becoming part of the network, and to prevent       illegitimate parties from masquerading as base stations.
+Key derivation       algorithms are an essential part of other security functions provided by       the network; for example, an insecure key derivation algorithm could       result in decryption of TETRA communications, thereby compromising the       confidentiality of sensitive data.
+Security is a major feature of TETRA; indeed, the Pocket Guide [7]       produced by the TETRA Association lists Communications Security as its       first benefit, with authentication and encryption (both dependent on       HURDLE) specifically highlighted:     Communications security is a prerequisite for public safety agencies, and       a critical requirement for the increasing number of commercial       organisations that rely on TETRA.
+TETRA builds on the inherent security strengths of digital technology.
+A       key feature of TETRA is the protection of the radio connection between       devices and radio sites through the application of advanced Air Interface       Encryption techniques.
+TETRA's security measures deliver the strongest levels of protection;       ensuring the privacy of conversations and the secure transmission of       sensitive data.
+A potential security loophole in networks &#8212; devices &#8212; is also addressed.
+Authentication at the connection between device and network controls       traffic to ensure that transmissions are from approved users.
+If a       terminal is misplaced or stolen it can be immediately disabled, preventing       unauthorised personnel listening to private conversations or viewing       sensitive information.
+It is of national importance for a country's security-critical services       to have a radio network that is not vulnerable to eavesdropping and       outside manipulation, made up of devices that cannot be cloned.
+The secure       design of the HURDLE cipher has ensured the integrity and confidentiality       of a growing number of safety-critical networks over the past 10 years,       with consequent benefits to national security, to safety, and to the       reliable operations of the systems they support.

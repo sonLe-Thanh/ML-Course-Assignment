@@ -1,0 +1,30 @@
+     Three types of impact have resulted from UoN's new composite design:       environmental, through a significant reduction in steel usage; economic,       in terms of competitive advantage and sales; and change in industry       practice, through the bringing together of the steel frame and concrete       flooring sectors.
+Each of these has continued throughout the impact       period.
+A number of benefits have arisen from the new design, including easier       installation and reduced floor-to-floor heights, but the key advantage for       the structural engineering industry is the significant tonnage saving       compared to non-composite solutions.
+For example, for typical office       loading and spans, if a 150mm-deep HCU acts compositely with a 457mm-deep       steel beam there is a 75% increase in strength and a 130% increase in       stiffness (the attribute that controls beam deflections).
+UK-based Bison Manufacturing, a leading specialist in the precast       concrete industry and a key collaborator during UoN's research, is among       the companies to have made extensive use of this benefit, which it       expresses in the summary below (Figure 3).
+The figures here show a 55%       reduction in beam weight and a 17% saving in tonnage in a particular       building.
+Fig.
+3.
+Bison composite design tonnage saving [4.1]          The cost and effort in providing the shear stud and additional       reinforcement are small.
+Furthermore, these components are also employed       by design engineers as part of the horizontal floor diaphragm and to       safeguard against progressive collapse, so in certain cases they might be       specified for such reasons alone &#8212; in which instances the composite action       is effectively provided for free.
+Adoption of the method in completed projects since 2008 has been       extensive.
+A survey carried out by UoN [4.2] indicates at least 45       projects, with a total combined floor area of more than 380,000m2,       have used the new composite design.
+Table 1 summarises the survey's       findings.
+Projects identified include 13 car-parks, 16       supermarkets/shopping centres, five schools and seven offices (including       Airbus's HQ in Bristol).
+In addition to the companies listed below,       Millbank Ltd, BHC Scotland and Tekla Structures have confirmed their       regular use of the technique [4.2].
+Company               Name           No.
+of example projects identified           Area               using composite design (m2)           %               uptake of composite design           Estimated               Value (&#163;)                             Hollow Core Manufacturers                                                                         Creagh Concrete [4.2]           6           126,305           50%           &#163;3.9M                             Bison (4.3]           N/a           N/a           65%           N/a                             Acheson Glover Precast [4.2]           10           57,400           N/a           &#163;1.8M                             Steel Beam Manufacturers /               Contractors                                                                         Caunton Engineering [4.2]           13           101,423           30%           N/a                             Tata Steel [4.2]           5           16,1960           N/a           N/a                             Fabsec [4.2]           9           85,200           N/a           N/a                             Atlas Ward [4.2]           2           N/a           N/a           N/a                             Total           45           387,288           30-65%           N/a                          Table 1.
+Survey results &#8212; uptake of composite design since January 2008       [4.2].
+N/a &#8212; Manufacturer/Contractor unable or unwilling (due to       commercial confidentiality) to provide information.
+Companies such as Bison, Creagh Concrete Ltd, of Ireland, and Caunton       Engineering, another UK specialist, have estimated the percentage uptake       of the design to be between 30% and 65% - and nearer 100% for certain       building types, such as multi-storey car-parks.
+Daniel Westgate, Bison's       Technical Sales Manager, says: "It's fair to say that most steelwork       contractors would adopt composite steel beam design when they're tendering       for a design-and-build project.
+Severfield Rowen, William Hare,       Billington, Elland Steel, Conder Allslade, Hambelton and Atlas Ward are       just a few from a list of many that have worked with Bison on schemes       where composite steel beams have been adopted" [4.3].
+Eunan O'Donnell,       Creagh's estimator, says: "Over a 12-month period we would expect to sell       in the region of 600,000m2 of hollow-core planks in the UK.
+Of       that, typically, we would expect in the region of 300,000m2 to       350,000m2 - 50%+ - to be composite beam design" [4.4].
+Industry practice has also changed, with the composite design forging       partnerships between steel frame designers/fabricators and precast       concrete flooring contractors.
+The material savings and other benefits,       including reduced construction depths, make the combination of these       companies a commercially viable alternative to other forms of       construction.
+The value to precast flooring manufacturers alone has been       estimated to be in excess of &#163;5M (Table 1).
+Underpinning the impact has been the incorporation of the design into       commercially available software (e.g.
+CSC) and the take-up of the research       in the Steel Construction Institute's (SCI) publications [4.5].
+CSC, a software developer specialising in providing technical support to       structural engineers, has incorporated the composite design in their Fastrak         Building Designer suite and has sold more than 3,000 Fastrak       licences, with 2,000 sold internationally [4.6].

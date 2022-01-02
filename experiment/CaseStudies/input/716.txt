@@ -1,0 +1,18 @@
+ 4.1 Impacts on public policy Research has informed discussions of a public body about standards: CIES research challenged the established perspective of the EA on the measurement and management of river quality in the UK, which have traditionally used the BMWP scoring system.
+The WHPT method demonstrated the weaknesses of existing river quality measurement and management systems, and challenged preconceived ideas about the relationships between river ecology and water quality.
+The river water quality indexes produced using the WHPT method were submitted to the EA and DEFRA (Department for Environment, Food and Rural Affairs), who sent them to the UK Technical Advisory Group for the Water Framework Directive (UKTAG WFD), for adoption into UK river water assessment standards to be used for implementing the Water Framework Directive.
+UKTAG WFD then proposed the WHPT method, for inclusion into measurement protocols for river water quality standards.
+This proposal went through a stakeholder review which opened to the public on the 10th of December 2012 and closed on the 28th of February 2013 (the URL for the stakeholder review is given in [3]; see Section 5).
+Research has informed changes to standards: Following the stakeholder review, the WFD UK TAG selected the WHPT method for inclusion in its revised standards for river quality assessment.
+The final recommendations of the UKTAG WFD about the new and updated biological standards can be downloaded from the UKTAG WFD website (the URL is given in [4]; see Section 5).
+4.2 Impacts on public services and practitioners Improvement of the delivery of a public service (increased confidence in assessments by environmental biologists): The EA is using (from 2013) the WHPT method to classify rivers according to quality.
+The results based on WHPT will go to EA planners, so that they set objectives for the second 6-year River Basin Management Plans (2015-2021).
+The Water Framework Directive uses a series of 6-year cycles; the first 6-year cycle will end in 2015.
+The draft plans for the second cycle will be published in the summer of 2014.
+In addition, technology (namely, RPDS and RPBBN) developed from CIES research was released to the EA and SEPA, for use by environmental biologists as a secondary tool to validate, where needed, water quality assessments made using other primary tools adopted by the agencies.
+In particular, RPBBN provides the capability of modelling the impacts of changes in river chemistry on river ecology.
+This capability allows users to perform scenario testing and assess the cost- effectiveness of various remediation options.
+4.3 Impacts on the natural environment, health and society Public benefits arising from the improvement of a key factor associated with the natural environment, public health and quality of life: CIES research has important indirect impacts on the world and its people.
+CIES techniques for river water quality monitoring enable better diagnosis of river pollution and better assessment of potential restorative measures.
+The resulting improvement of the management of river water, which is an important natural resource, has a positive impact on the natural environment, public health and quality of life.
+Indeed, cleaner rivers impact on tourism and its associated economies, agriculture and higher standards of farming, and tighter controls on industrial waste management.

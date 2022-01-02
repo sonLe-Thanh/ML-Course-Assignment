@@ -1,0 +1,56 @@
+ As the visual effects global talent pool increased and more favourable tax systems came into effect elsewhere, production moved from its roots in the USA to other parts of the world.
+Faced with an uncertain future, visual effects artists either lobbied the US government for trade protection or moved with production.
+This research sought to explore another opportunity; `Fairy Magic' became a vehicle to apply research and knowledge gained in visual effects to a different sector and illustrated an effective route to other markets.
+Maguire used techniques appropriated from film deemed too computationally expensive for mobile by finding ways to mimic their visual properties and not their direct implementation.
+In Fairy Magic he implemented a facial animation system based upon FACS, a comprehensive, anatomically based system for describing all observable facial movement to expand the emotional vocabulary of previously existing applications creating more expressive character interaction.
+More empathy with a character would lead to more appeal and make a contribution to affective computing.
+Prior to his research, mobile animations were sprite based or memory intensive pre-rendered movie files thereby limiting the narrative and character interaction.
+Maguire shifted from this accepted industry standard to a more flexible method and increased interaction and narrative by order of magnitude.
+In Fairy Magic, Maguire implemented real-time characters with 100 modular based animations that could be blended together using human interaction and controlled randomisation to create 1000's of combinations across multiple characters with a much smaller footprint.
+This enabled room for `hero' animations.
+One such sequence drew upon the first encounter between Tarzan and Jane in Walt Disney's animated classic.
+When the user holds their finger on the screen for a period of time, a fairy will come and gingerly touch then hold their finger.
+Maguire recognised that Image Based Lighting (IBL), were each pixel of an image, typically a hemispherical environment, is treated as a light source to illuminate a scene with thousands of lights, was beyond the three light limit imposed by OpenGL ES.
+However, to embed the character within the camera, environmental lighting would need to be considered.
+Fairy Magic, recreates this visual aesthetic by sampling pixels either side of the cameras CCD and inputting their colour values into dynamically lighting the real-time characters.
+Covering the lens and observing the lighting change on the character can demonstrate this.
+Motion blur, an artefact of mechanical film capture and now part of film lexicon is implemented in computer graphics using Monte Carlo stochastic sampling (Cook, Carpenter, Catmull, 1987].
+It however, relies on interrogating vectors over several frames precluding its use on mobile.
+Motion blur on fast animations such as beating wings, were recreated by using multiple objects containing several static wing positions replaced in rapid succession to create this cinematic illusion.
+In September 2012, one week after `Fairy Magic' was launched, game developer Pocket Gems, a game developer based in San Francisco with 2 of the top 3 grossing applications in the Apple App Store, reached out to Maguire to discuss collaboration to bring Fairy Magic research to their 80 million users.
+On November 8th 2012, the Fairy Magic team signed an agreement with Pocket Gems to co-develop a game using the research to be realised in 2014.
+The expressive facial animation of Fairy Magic drew the attention of Nvidia Corporation, the world leading design and manufacturers of graphics processing units for workstations and the mobile market.
+Co-founder and CEO, Jen-Hsun Huang invited Maguire to disseminate his research during Huang's keynote presentation at GTC in March 2013.
+The outcome `New Dawn', showcased their cutting-edge GPUs and provided Maguire at University of Ulster with an opportunity to develop a realistic human character using FACS based shape targets at a range never previously accomplished.
+NESTA concluded that the Creative Industries would become a key driver for the UK's recovery from recession taking centre-stage as a major, high-growth contributor to the UK economy over the next 5 years.
+Commenting on `Fairy Magic', Richard Williams, Chief Executive of Northern Ireland Screen, said `we need to grow that good practice and do a lot more of it' (CAL Enquiry 2013).
+`Fairy Magic' and `New Dawn' research sought to engage with visual effects artists between Europe and the USA, to expose the UK's growing animation workforce to a globally collaborative environment whilst equipping them with the right skills to innovate, create and communicate remotely.
+Local industry benefited from the founding of an animation cluster, Toody Threedy.
+Initially, a vehicle to disseminate knowledge and research it has become a hub for Foreign Direct Investment as studios source talent for Game of Thrones (HBO, 2012), Dracula (Universal, 2014) and Edge of Tomorrow (Warner, 2014).
+With over 250 members it has increased opportunities and built trust between Northern Ireland's animators and their global peers.
+Flexible learning programmes delivered by the `Fairy Magic' crew's newly acquired knowledge, standardised NI's animators on a single platform enabling companies to interoperate and collaborate on projects.
+The media coverage (such as; The Arts Show (2012) TV, BBC, BBC2, 22 November 8pm) surrounding the launch of `Fairy Magic' promoted animation as a career opportunity to a wider audience including children aged 10-18 with the formation of 3D Dojo, an animation branch of James Whelton's Coder Dojo.
+These initiatives have embedded the universities research and dissemination of knowledge as a key driver of economic development.
+Games play a major role in learning and shaping our worldview.
+Board games are social devices enabling us to interact and role-play with others.
+Pong, the first commercially available video game had two paddles by default.
+As games developed with limited computing power single player games against the computer evolved they reduced our gaming to a solo experience.
+The internet enabled us to play with limited interaction but with a global audience.
+Augmented Reality by the nature of its camera view brings us full circle to a more social shared experience.
+Looking through `Fairy Magic's' camera you see your friends, your family, your environment to create a hyper-local experience strengthening social bonds.
+During the examination and exploration of the smartphone platform and while reproducing a cinematic experience, it became apparent that the device could offer more than just a portable screen.
+With a host of sensors continually gathering data in real-time, including accelerometers and a compass it would be possible to place a real-time character anywhere in space.
+However, this could place the characters in an inaccessible location behind the user.
+A home location had to be developed to attract the character to a position in front of the phone enabling the user to always have the character in view.
+As the character could appear anywhere on the screen, a traditional user interface (UI) locked to screen space proved ineffective.
+The UI was therefore decoupled from screen space and forced to follow the characters centroid ensuring all navigation controls were relative to the character.
+E.g.
+Left became left of character and not left of screen.
+The screen was not treated as a portal within the application but a sheet of glass.
+The character's size was a consistent 10 cm across all devices and screen sizes.
+This contributed to the character's existence in our world.
+An intimate connection, modelled after Tarzan and Jane's first meeting by Glenn Keane (Tarzan, 1999) was created when the user held their finger on the screen.
+The character would reach forward and touch the users finger as the smartphone's vibrate hardware was called upon to create a tickle.
+The phones front camera was used to pull the character into the experience.
+When the device was laid flat, the camera input was switched from the user's point of view to the point at the user themselves.
+The image was projected onto a polygonal height field allowing the user to see themselves reflected in a pool along side the characters increasing the illusion of their existence.

@@ -1,0 +1,40 @@
+     Context     Early detection of impending faults avoids unnecessary interventions and       prevents failure.
+While it is inherently difficult to estimate the value       of successful asset management, the avoided cost is orders of magnitude       larger than the cost of the service.
+The cost of the New York blackout in       2003 has been estimated as 11 deaths and $6Bn [A], and illustrates the       issue of simple local faults cascading to large societal costs [B].
+Eurelectric has estimated the cost of power outages on industrial       customers at 1000 &#8364;/kWh and residential customers at 1-5 &#8364;/kWh.
+In       comparison the typical long distance transmission costs are 1-2 &#8364;       cents/kWh [B].
+Pathways to Impact     The main pathway to impact in power utility networks is via the spin-out       companies established as the result of this research.
+The first company to       emerge from the work described was IPEC in 1995, founded by the three       academics and two of their research students Lee Renforth and Colin Smith.
+IPEC continued to work with the University and contribute to the research       described above.
+This led to the formation of a second company High       Voltage Partial Discharge Ltd (HVPD) in 2009.
+Smith and Renforth's       post-doc research directly contributed to the technology platforms of the       companies and they are the present Managing Directors of IPEC and HVPD       respectively.
+In the aerospace sector we have worked directly with manufacturing       companies, receiving funding from Rolls-Royce and the EU, influencing       design policies and test methods directly, and gaining access to major       European manufacturers.
+Cotton has travelled extensively to manufacturing       centres in e.g.
+the USA, Germany, and India to ensure transfer of the       research globally.
+The work has already been exploited in manufacturing       companies as detailed below and is becoming formalised through SAE       aerospace information report AIR6127 which is a pre-cursor to a technical       standard on the use of high voltages in aerospace systems.
+Reach and Significance of Impact     The significance of the impact from this research in utilities extends       beyond the two companies created (59 jobs and ~&#163;5m annual revenue at       present) and its major effect is on the asset management activities of       their clients, and subsequent operational savings.
+IPEC and HVPD     IPEC, headquartered in Manchester, currently employs 11 staff and had a       turnover in 2012 of &#163;1m of which 40% is export business [C], the Managing       Director is Dr Colin Smith.
+HVPD has established itself as one of the       market leaders in the growing field of on-line partial PD test and       monitoring technology for high-voltage plant and cables with agents and       partners in more than 80 countries around the world.
+Based in Manchester,       in 2012 HVPD had a turnover of &#163;3.9m of which &#163;3m was exports.
+The company       currently employs 45 staff in the UK and 3 overseas [D]; its Managing       Director is Dr Lee Renforth.
+Throughout its history &#8212; both before the       spin-out from IPEC and since &#8212; HVPD has been active in supporting research       at the University of Manchester.
+This has led directly to a number of       important impacts for the company.
+The development of a patented       continuous condition monitoring system for HV motors operating in       hazardous conditions [E] and securing contracts based on the technologies       developed with global companies as shown by the recent award of a contract       valued at more than &#163;1m for condition monitoring technology to the oil       company Chevron [D].
+In addition, research conducted with IPEC [2] led to the development of a       new software simulation package for optimising actuators used in MV       switchgear and autoreclosers.
+This resource has been licenced to a number       of large switchgear manufacturers in Europe and the USA including Siemens,       Schneider, ABB USA, G&amp;W Electric, Resead Peru, and Powell Switchgear.
+Approximately 20 companies are using the designs.
+Each license is granted       for an initial development set up fee of approximately &#163;120K and further       royalties (confidential) are paid on use [F].
+Examples of impact for utility end-users     As stated previously the benefits of avoiding network failure can have       very large numbers attached to them.
+This is illustrated by four examples       where the companies' technology has been used.
+Olympic Park June/July 2012: Monitoring of 62 km of cable and 170         (ring main units) RMUs identified 5 RMUs with faults.
+These were tested         twice a day during the Olympics to ensure no loss of power to the venue         which would have interrupted live TV coverage of the event [G].
+Steel Plant CSC (Taiwan) 2008: Monitoring of 33kV cables that were         about 25 years old identified a fault in a joint.
+Replacing the joint         removed the fault and eliminated the risk of shutdown of a 10m tonne         capacity steel plant with an estimated cost of failure at $1m [H].
+UK Power networks 132kV Transformer 2011: Following failure in a 132         kV cable termination, monitoring was installed and within 3 weeks         detected a fault on the 11 kV side of the substation.
+The previous fault         on this termination cost UK Power Networks an estimated &#163;1.5m [I].
+UK Power Networks (UKPN) now uses a partial discharge monitoring         system on more than 1000 cable circuits installed across their network,         as in integral part of their on-going asset management program.
+Over the         past few years, this has enabled UKPN to carry out six preventive         interventions on equipment and 12 cable replacements estimated to have         avoided &#163;900k of costs [J].
+Electrical Systems for the Aerospace Sector     Research carried out at the University of Manchester has led to the       development of test techniques which have been used for the qualification       of cabling, electrical machines, wind de-icing systems and a range of       other components.
+As a consequence the University has been the main       contributor to the SAE aerospace information report AIR6127 which is a       pre-cursor to a technical standard on the use of high voltages in       aerospace systems [K].
+Methods developed to perform ageing tests, have been used on electrical       machines used in the airbus A350.
+The companies Moog [L], GKN, Ultra       Electronics, Goodrich, Rolls Royce, and Liebherr [M] have all exploited       this work and as a result supply product to Airbus and Boeing for A350 and       787 aircraft.

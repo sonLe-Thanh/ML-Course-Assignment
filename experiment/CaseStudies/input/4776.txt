@@ -1,0 +1,61 @@
+     Three EU-funded projects are listed to provide details of impact.
+VEGNET (2004-2007).
+VEGNET raised awareness of the benefits of       using Internet technologies in the fresh produce supply chain among fresh       produce SMEs in the UK and China.
+It provided training and education for       over 100 managers in China; developed two pilot implementations in China;       identified barriers to Internet adoption; and highlighted gaps in the       uptake of the Internet between SMEs in the UK and China for Chinese policy       makers.
+VEGNET partners in China gained experience in facilitating       transnational knowledge transfer, developing mutual understanding, and       enhancing university-business knowledge transfer in China.
+Key       beneficiaries were SMEs in the fresh produce sector in the UK and China.
+Major impacts of VEGNET are:             Increased adoption of e-business through two pilot applications         and three training workshops in China [5.1].
+Three on-site training         workshops were organised for 50 managers from fresh produce businesses         in China.
+Follow up feedback demonstrated that the training has had long         term impact on their business practices through launching and improving         their business web site, increased use of ICT in the company and         improved e-business knowledge and management capacity [5.3].
+In a wider         context, China's e-business adoption increased dramatically at the end         of the project (e.g.
+45% annual increase in 2008 and 22% in 2009 www.chinadaily.com.cn/bizchina/2010-08/31/content_11232419.htm).
+The annual increase has remained at an average level of 25% since 2009 (www.iresearchchina.com/views/5206.html).
+Improved knowledge/understanding for over 50 SME managers in         China through the development and implementation of the (licensed         software) e-learning systems jointly developed by BISC and China         Agricultural University (CAU) [5.
+2].
+Raised awareness in the business communities of the fresh produce           sector in the UK and China through in-company visits and two large         scale surveys with UK and Chinese SMEs by BISC, the distribution of 1000         project brochures in Shouguang International Vegetable Festivals,         project posters in partners' research exhibitions, regular press         releases, organizational web sites of Chinese partners, etc.
+One of the         posters based on the VEGNET findings was awarded the best project           for business impact [5.8, 5.9].
+TRICTSME and TRIMAR (1998-2003).
+TRICTSME was one of the earliest       EC-funded projects aimed at helping SME managers to adopt e-commerce.
+The       project investigated the perceived problems with the use of ICTs and       e-commerce, and established that the lack of skills, knowledge and       technical understanding of e-businesses was the major barrier to       e-business adoption and success.
+It identified the SME managers' needs for       support for e-business strategy development and technical training as       critical factors for e-business success.
+Surveys and focus groups captured       specific SME needs.
+The development of an online intelligent support and       training system for e-commerce success employed a web-based expert system       as its main component.
+Following the success of TRICTSME, we were granted EU funding to continue       our research in supporting SMEs in e-business adoption.
+An EU evaluation       report commented that "TRIMAR focused on a niche area addressing a         specific training gap experienced by a significant proportion of SMEs".
+TRIMAR identified SMEs' current practice in using internet marketing and       their critical support needs to improve their business competitiveness       through effective internet marketing using a pan-European survey in five       participating countries.
+Our team designed the survey instruments and       conducted the survey in the UK.
+Informed by the empirical findings, we       developed an online self assessment tool and an intelligent training       system for internet marketing for SMEs.
+The intelligent training system       offered systems and human solutions to specific queries, which were then       translated into the languages of the participating countries.
+Companies       could search a case study database to identify similar problems to their       own and learn from others' solutions.
+Case-based reasoning techniques       developed in artificial intelligence were adopted as a major system       component.
+This innovative approach used 70 cases collected by 11 project       partners from Germany, Poland, Portugal, Slovakia, and UK.
+Key beneficiaries of both projects were SMEs in the UK, Germany,       Portugal, Poland, and Slovakia.
+Major impacts of TRICTSME and TRIMAR are:             Increased e-business adoption in SMEs through better         understanding of SMEs needs for providing an appropriate level of         training and support.
+Project findings were used successfully in bidding         for ESF funds (Webstep1) to provide interactive training         workshops to help SMEs launch and improve their business website.
+Project outputs were used in developing training materials used in the         training workshops.
+The training workshops were undertaken by over 1,000         SMEs.
+Follow up project evaluation after six months of the training for         Webstep2 showed 53% of participants launched or were in the         process of launching their business website as the result of the         training [5.4].
+Recent follow-up contacts with five Webstep participants         in April 2013 demonstrated that the training provided "stepping stones"         and "catalysts" in terms of new business directions, business expansion,         improved customer experience, and personal career change (online         businesses) [5.5].
+Improved e-business skills and management capacity among SMEs at           the European level.
+This was achieved by: 1.
+Providing online         (WITS and TRIMAR web site) and offline access (workshops) to expert         support and training; 2.
+Involving six SMEs as formal project partners         in TRIMAR; 3.
+Conducting two pan-European surveys addressing e-business         support needs and skills gaps with over 1,000 SMEs; 4.
+Conducting two         focus groups involving UK SMEs on e-marketing success; 5.
+Co-ordinating         70 case studies in five EU counties and undertaking 15 case studies in         the UK on internet marketing success in SMEs; 6.
+Completing 50 end user         (SMEs) surveys showing their positive feedback and satisfaction with the         online support and training systems developed by the projects.
+These can         be evidenced by the project evaluation reports of TRICTSME, TRIMAR,         WEBSTEP 1, 2 and 3 [5.4, 5.5, 5.6].
+For example, the TRIMAR evaluation         report provided strong evidence from SMEs as to the project impact; "The           information supplied by TRIMAR (online training and support system)           has all the ingredients to enable an SME to become a global success",         "I learned about many more aspects that have to be considered to           improve the site and thus the success of the site" [5.6].
+Raised awareness among European SMEs and improved their e-business           performance.
+This was achieved through case studies, focus groups,         sector surveys, project websites, company visits, leaflets, trade and         industry magazine publications, etc.
+[5.6].
+The work has also benefited         a wider audience through published papers, invited keynote speeches,         presentations and talks at various local, national and international         events [5.7, 5.8].
+Influenced policy makers and contributed to the policy making.
+The barriers and gaps identified by the TRICTSME survey showed the lack         of e-commerce adoption in manufacturing SMEs.
+The finding that the         regional e-commerce adoption was only 11% among manufacturing SMEs         attracted the attention of Luton MP Margaret Morgan, who visited the         university and requested a report.
+The report was forwarded to the local         Business Link service to raise awareness.
+Our work on improving ICT         skills shortage in EU projects also attracted attention from the         international consultancy company Education Impact.
+Prof Duan         contributed to their report for the Maltese government in addressing ICT         skills shortages.
+The Maltese Government has applied the various         recommendations and has itself developed a number of initiatives.
+"Many           of the report's recommendations are making their way into policy           driven initiatives delivered in under a year with more scheduled to           come."
+[5.9].

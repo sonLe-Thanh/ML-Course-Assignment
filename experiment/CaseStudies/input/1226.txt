@@ -1,0 +1,22 @@
+     CEES evaluation of 13 e-services available by the Turkish government's       e-Government gateway had a measurable direct impact on service quality and       on user satisfaction.
+By assessing the relative satisfaction of citizens with e-government       services through the COBRA framework and by setting targets for       improvement in core strategic areas (e.g.
+citizen health related       e-service), Turksat was able to rank services against those that performed       well &#8212; identifying critical factors for consumer satisfaction.
+Turksat was then able to allocate resources to these areas and improve       their e-government provision.
+Improvements included:            increased capacity at the e-government gateway call centre       more stable infrastructures leading to greater continuity of service       introduction of mobile access       personalisation of service through `My Page' portals       improved accessibility          (CEES report, 2013).
+This led to positive evaluations that included increased citizen       satisfaction index measurements and certifications of excellence       associated with service improvements.
+For example in 2010 the citizen       satisfaction index was measured as 65.5, a figure that rose to 66.18 in       2011 (CEES report, 2013) after the start of the improvements.
+Further,       TURKSAT has been identified as a centre of excellence due to the CEES       project (ICT RTD Technological Audit Project Potential in Turkey         report, 2012 page 48 table 9.8).
+This has enhanced the TURKSAT brand       and national credibility.
+TURKSAT has shared CEES knowledge and results with 27 municipal partners       to more fully coordinate e-government services.
+These municipal partners       now offer services on the e- government gateway.
+The CEES project formed the basis for I-MEET funded by Qatar National       Research Foundation which extended the COBRA framework to include       government evaluations and which is being applied to Qatar, Lebanon and       the UK.
+For the application of the extended COBRA framework, workshops       were organised in each country in 2012:            an e-government service providers' engagement workshop was held in         Qatar on 19th Jan 2012 where the e-government service         providers (ictQATAR) followed a presentation of the Turkey case outlined         above and decided to adopt the COBRA framework for evaluating their         e-government services       a similar workshop was held in Lebanon on 14th April 2012         with representatives from the Office of the Minister of State for         Administrative Reform (OMSAR) who also decided to adopt the COBRA         framework for the improvement of their e-government services.
+the COBRA framework was presented to local authorities in the UK         during Transformational Government Workshop held in London on 13th         May 2012.
+An Estonian research team used the COBRA framework to evaluate their       e-government services.
+This resulted in a postgraduate research thesis       called "Quality Assessment of Estonian e-government Services" by Hannaes       Lehemets.
+(Thesis, Institute of Computer Science, University of Tartu,       2012).
+The results of the research were communicated to the Estonian State       Information System Office (RISO) &#8212; http://www.riso.ee/en/.
+Specifically, a copy of the thesis was given to the head of the IT       Architecture Office of RISO (Uuno Vallner) who acknowledged the       conclusions of the study.
+Brunel research leading to the COBRA framework is highly significant in       that no reliable benchmarking index, that included citizens' and       government perspectives, was previously available to evaluate e-government       services.
+The research is therefore a step towards the development of a       holistic and hence more reliable benchmark.
+Its reach is global in that       the development of COBRA in the Middle Eastern context means that it has       universal applicability and can potentially be used all over the world.

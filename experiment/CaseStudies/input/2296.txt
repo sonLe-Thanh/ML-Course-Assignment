@@ -1,0 +1,47 @@
+     The research within SUMS into supply chain resource modelling has had       economic and environmental impact, helping businesses adapt operations to       achieve carbon-reduction targets, whilst reducing costs.
+It has also       influenced regional and national business development strategy.
+Process to impact:     The major output of the Low Carbon Supply Chain project led by SUMS was       the Supply Chain Environment Analysis Tool (SCEnAT), launched in November       2011.
+SCEnAT has a web interface (www.scenat.com),       making it easily and freely available for companies to use.
+Most recently,       application of the software has been extended as a demonstration Cloud       computing platform with Microsoft, which permits remote usage and the use       of simulation data.
+The project team have worked with a business advisory       group and with regional Chambers of Commerce to disseminate the research       findings/tool to a wide network of SMEs.
+A practitioner report was       produced and published on the Centre for Low Carbon Futures (downloaded       778 times between Dec 2011 and Dec 2012).
+Six companies have used the tool       to date.
+SUMS have also worked with Muntons PLC (a company which produces       malt), to develop a `spin off' carbon calculator specifically aimed at the       agricultural sector which has been used by Muntons and their suppliers.
+Impacts:     1.
+Assessment of carbon footprint     A key benefit for the organisations that have used SCEnAT has been the       ability to identify, assess, and trace energy usage and carbon emissions       at every step in their product's production process.
+This then provides       the opportunity to select process and supply chain improvements that can       deliver lower carbon, more resource efficient outcomes.
+User testimonials:     "The SCEnAT model has proven to be a useful tool ... [it] has allowed         us to gain a better understanding of the emissions profile of our whole         supply chain."
+(Director of Operations at the steel producers,       Sheffield Forgemasters International) [S1]     "The tool is a very practical and flexible system that Muntons has         used to analyse and make real impacts on its supply chains."
+(Manufacturing and Sustainability Director, at the Suffolk-based malt       producers, Muntons PLC) [S2]     "The direct benefit of using SCEnAT is that we are able to make         informed decisions using empirical evidence.
+These decisions are based         on us undertaking and benchmarking our current operating conditions         against `what if' scenarios."
+(Chairman and CEO, [text removed for       publication]) [S3]     "As an SME, we have not used any other decision support tools prior to         SCEnAT.
+Using SCEnAT led us to identify transport and electricity as key         `carbon hotspots' in our supply chain.
+Consequently, we have implemented         several operational changes to reduce emissions in these carbon         intensive areas of the business."
+(CEO, Brocklesby, a UK based       recycling company) [S4]     2.
+Changes in organisational practice     Four companies have already implemented organisational changes after       using SCEnAT to identify where interventions can deliver low carbon       resource efficiencies.
+Brocklesby Ltd [S4], specialising in the       reprocessing of used cooking oil and fatty acids, purchased six greener,       more fuel efficient trucks and are targeting energy consumption through       the installation of energy meters and an Anaerobic Digestion (AD) plant to       generate renewable energy.
+At Muntons, the growing of their raw materials was found to account for       60% of their global supply chain's carbon footprint.
+The manufacture and       use of nitrogen fertiliser contributes the most to the cereal carbon       footprint and SCEnAT showed, inter alia, that nitrogen fertiliser       abatement could reduce that element of the footprint by around 50%.
+Consequently, Muntons shared their farming carbon calculator (developed       with the SUMS team) with their grower suppliers and have worked with them       to trial alternative fertilisers.
+They have also encouraged good practice       by offering attractively priced `low carbon' contracts to growers who       adhere to certain criteria [S2, S5].
+Further, they have introduced a range       of operational changes to reduce water and energy usage, encourage green       travel management, and improve the recycling of compostable waste [S2].
+[text removed for publication] have invested in pollution prevention       initiatives and installed a new range of machinery and equipment to reduce       their energy consumption.
+For example, in February 2013 they completed a       technology upgrade project focused on improving their coal-based energy       supply system [S3].
+Sheffield Forgemasters use large quantities of energy and natural       resources in their manufacturing processes and produce substantial       emissions to air and water as well as generating waste.
+Using SCEnAT, they       introduced a range of initiatives to improve these areas, including, (1)       deploying waste segregation facilities to encourage and improve recycling;       (2) installing a desorber unit in the Forge in 2011 enabling them to       recycle and reuse an average of 4500 litres of oil per week (accounting       for approximately 50% of the usage); and (3) replacing cold air burners in       the melt shop with new high velocity burners in 2012 reducing gas       consumption by 40% [S1, S6].
+3.
+Environmental and commercial impact     The businesses that have used SCEnAT have benefitted from a reduction in       their carbon footprint and supply chain cost savings due to interventions       recommended by the model.
+Examples:     [text removed for publication] has seen a &#163;0.8million reduction in costs       and a 35% reduction in CO2 emission [S3].
+Sheffield Forgemasters' Director of Operations believes that the work has       helped them to introduce initiatives that have contributed to a reduction       in their CO2 emissions to 38% below the Government's 1990       benchmark.
+This in turn is helping them reduce their "green" taxes which       currently cost the company &#163;1.25million per annum [S1].
+Muntons PLC have used SCEnAT to identify carbon hotspots, verify their       carbon footprint and develop an alternate model for cereal carbon       footprinting, which have saved the company an estimated &#163;37,000 to &#163;50,000       in consultancy fees.
+In addition, the company have stated that the low       carbon supply chain work has contributed to them winning new contracts       worth &#163;1.75m [S2].
+Muntons were the top manufacturing company in the 2011       Sunday Times Green Competition, a position they attribute to their work       with SCEnAT [S2].
+Brocklesby estimate that the changes that they have made to their supply       chain after using SCEnAT has resulted in direct costs savings and benefits       totalling approximately &#163;250,000 [S4].
+Regional policy impact:     Engagement with umbrella organisations to maximise the reach of research       forms part of SUMS' impact strategy and as part of this the SCEnAT team       have worked with the Sheffield City Region Local Enterprise Partnership       (LEP) and the Sheffield Chamber of Commerce to reach a wider range of       businesses.
+Professor Koh represents the University of Sheffield on the       LEP's Low Carbon Sector Group and chairs the Low Carbon Skills Working       Group which aims to assist local businesses, especially SMEs, to develop       skills that enable them to identify and exploit green opportunities and       technology [S7].
+SCEnAT has been included in the LEP's Strategy Document       2013 [S8].
+In a recent letter, the Chairman of the LEP's Low Carbon Sector       explained: `we have used [Koh's] research to design our low         carbon strategy to maximise supply chain opportunities for our region         which is worth 1.4% of &#163;120 billion [the value of the Low Carbon Sector         in the UK].'
+[S7] The research has also informed and influenced the       Sheffield Chamber of Commerce and Industry's strategy to stimulate       business and industry investment in decision making that exploits carbon       reduction and efficiency improvement across the supply chain.
+The chamber       is committed to helping local businesses reduce emissions and has promoted       the SUMS research and SCEnAT to its members [S9].
+National prominence has       also been given to Koh's research through its reference and inclusion in       the TSBs Integrated Transport Report 2013 [S10].

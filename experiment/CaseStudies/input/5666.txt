@@ -1,0 +1,48 @@
+     BU's research in enhancing software engineering methods and tools has       been applied in a range of contexts across the world.
+Much of the       international impact was delivered through collaboration, including       through the VIDE project, with NICTA, and with Bosch, but also on a local       scale through BU's knowledge transfer partnerships (KTPs).
+VIDE project: Developing a model-driven tool set for organisations         across the globe     VIDE was a European Commission funded project that began in 2005.
+It       brought together ten institutions and industry partners from five European       countries.
+The project aim was to develop an enhanced model driven       tool-set.
+BU joined the project team because of their researcher's extensive       'upstream' expertise.
+Without this background, BU would not have gained       entry to the consortium, nor had the successful bid, nor been a successful       consortium partner.
+The report describes BU's major strength as "synthesising work from       different communities in order to provide effective and innovative       approaches to the wider software systems development context."
+The report       goes on to state: "This integration of systems methods and models with       novel computational approaches provides solutions to problems that are       intractable using traditional or single paradigm methods" (R1, p.44-5).
+Subsequently BU's research informed the VIDE project on various levels,       including:            The process and specification of tools.
+General requirements and Business and IT and Alignment, as described         in P2.
+In the model driven context BU provided an accessible tool-set, which       allowed greater involvement of stakeholders in the CIM phase of model       driven development.
+These ideas also facilitated developments by VIDE's       collaborating industrial partners.
+These developments are evidenced in the       VIDE Dissemination and Exploitation Deliverable report (R1).
+Examples include:     Softeam, a software tools vendor, based in Paris, has       subsidiaries in Saint Quentin en Yvelines, Rennes, Nantes and Sophia       Antipolis.
+The company used code generation capabilities introduced during       VIDE to add capability to their tool 'Objecteering'.
+They have now created       a new modelling tool, Modelio, which uses the results of the VIDE project       in its development.
+Modelio has many advantages over the tool that it       replaces, including the superior usability that was an anticipated impact       of the VIDE work.
+The analysis on VIDE's impact on Softeam concludes: "It       is expected that the number of code generator licenses will increase       between 1% and 8% in 2009" (R1, p.57).
+Altec are a major enterprise resource planning (ERP) producer in       Greece.
+Altec used the VIDE toolkit as an add-on to their existing ONAR       tool-set (Ontologies based ENterprise Application IntegRation) (R2, p.60).
+The report states: "ALTEC has an exploitation strategy which features       further investigation of the pre-CIM and CIM level tools provided by BU       and iWi which provide a natural business domain entry level to their       tooling."
+(R1.
+P42).
+Altec's sales forecast for the relevant revenue streams in a 5-year       period were calculated with a 14% annual growth (R2, p.60).
+The company       said: "All our expectations from VIDE project ... still hold ... ONAR is       now in its full commercial phase ... and is offered on the cloud for our       customers - mainly companies using our ERP systems and also public sector       authorities" (R2, p.42).
+NICTA &#8212; Australia and Japan     The Business and IT Alignment methods, which fed into VIDE, were directly       rolled out via NICTA consultancy work in Australia and Japan.
+These       alignment methods were used extensively by NICTA for internal projects and       for consultancy and were used by a wide range of commercial organisations       within Australia and Japan.
+A clear indicator of the success of these       approaches was the significant financial savings that were claimed as a       result of their use (R3).
+Bosch automotive: Model merging in distributed model driven         development     Bosch automotive needed to develop models in parallel, as part of a       software product line suite, across two sites.
+The unified modelling       language models (UML) are revised at different sites, and variants need to       be merged.
+BU researchers observed that existing approaches to merging       preserved syntax often lost meaning to the modeller.
+This was a critical       issue as the engineers used layout to convey meaning in a number of       distinct ways, and that these tactics were outside the normal unified       modelling language (UML) rules.
+As a solution researchers invented a novel, semi-automatic model merge,       which preserved layout choices, thereby preserving meaning for the       modeller.
+A prototype tool was built and used by the development team, who       were extremely supportive.
+One of Bosch's Senior Engineers praised the       graphical layout and dynamic adjustment of the model tree view's column       width, as well as usability of the tool.
+These comments are included in       the PhD thesis (R4 and R5).
+Software engineering with small to medium sized enterprises (SMEs)     Researchers have worked on six knowledge transfer partnerships (KTP) to       conduct requirements engineering for software systems organisations.
+A       specific example is the KTP with Morning Data Ltd, which took place       between 2009 and 2012.
+Morning Data Ltd is a leading supplier of world-class software and       service solutions for the global insurance industry.
+The project centred       on software maintenance and evolution with an emphasis on introducing       rigorous software engineering methods.
+Through this project the BU research team used their 'upstream' expertise       to discover and document requirements, ensuring that the new generation of       product aligned with Morning Data's business strategy and would meet the       needs of their clients.
+The company identified the project as having been of vital strategic       importance and quantified financial gains, stating in their report to the       Technology Strategy Board (TSB) that: "Through the meetings with the       University we learnt and adopted a new development process and methodology       which allowed us to drastically improve the quality of the software we       were producing."
+They also stated a direct projected increase in turnover       of &#163;200K and an increase in pre-tax profit from &#163;36k to &#163;175k (R6 and R7).
+In a public blog, the Development Director at Morning Data states: "Over       the duration of the project we have learnt so much and introduced so many       valuable new tools to our development team &#8212; we simply would not be       working the way we are now without having had the involvement and the       knowledge of the staff at BU."
+(R8).
+The project was rated as very good by the TSB and added to the short list       from which KTP case studies will be developed as an example of best       practice (R9).
+This measurable financial gain demonstrated through the Morning Data       project is an example of how BU's research into process modelling;       business and IT alignment and enhancing model driven methods can be       applied to deliver substantial financial savings.

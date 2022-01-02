@@ -1,0 +1,21 @@
+     Energy supply remains a key technological challenge and the development       of alternative sources is central to future energy security.
+In the short       and medium term, however, hydrocarbons are set to remain fundamental to       energy provision.
+Shell UK employs around 7,000 people and produces almost       13% of oil and gas in the country.
+Exploration is required to identify new       reservoirs and maintain hydrocarbon supplies, but major hydrocarbon       discoveries are becoming increasingly rare and situated in remote,       inaccessible places.
+This is reflected by the increase in exploration       costs, which have risen for Shell and its subsidiaries from $3.9 billion       per annum in 2009 to $5.7 billion per annum in 2011.
+The greatest financial risks sustained by oil companies are associated       with `frontier' exploration, where crucial licensing and development       decisions are made on the basis of limited and often unreliable survey       data.
+For this reason, cost effective survey methods that can rapidly       screen large geographical areas for promising sedimentary conditions       (indicating the likelihood of oil reservoirs) are particularly important.
+Traditionally, such tools scan the ground for gravitational and magnetic       anomalies commonly associated with oil fields.
+These methods, costing       hundreds of thousands of dollars per square kilometre, only represent the       first step &#8212; when potentially promising regions are identified, techniques       such as 3D seismic surveys are deployed to refine the understanding of       geological conditions.
+These further explorations can cost an additional       $25,000 per square kilometre for acquisition and interpretation of       underground data.
+The LightTouch&#8482; technology, developed in collaboration between       Shell and Padgett's team at the University of Glasgow, has made and       continues to make significant contributions to the company's survey       campaigns and exploration decision-making across the world.
+Since       transition to airborne deployment, LightTouch&#8482; has evolved from       the initial design conceived by the University of Glasgow and now detects       methane concentrations in the atmosphere.
+Fourteen years from the start of       the collaboration with Shell and despite evolution in the hardware set-up,       the University of Glasgow algorithms still remain at the heart of the       company's data analysis.
+These algorithms continue to provide a       well-proven system against which to benchmark any new developments in data       collection or numerical methods.
+It is estimated that the costs associated with a LightTouch&#8482;       survey are around 10% of those associated with seismic methods over the       same area.
+Moreover, the data from seepage maps can be accessed       immediately to help guide the deployment of other, more expensive       exploration resources.
+Onshore wells can each cost up to tens of millions       of pounds depending on the difficulties presented by terrain and geology;       in frontier exploration, three quarters of these wells on average, fail to       deliver any return on investment.
+LightTouch&#8482; can be deployed       in parallel to more traditional large-scale survey technologies with       minimal added costs.
+Its hydrocarbon seepage maps help guide, complement       and refine survey data from other techniques and substantially increase       confidence in their accuracy.
+Reducing uncertainty around survey data is       crucial in ultimately reducing the costs associated with drilling       unsuccessful wells, delivering substantial economic impact.
+Figure 1: Glasgow team performing field trials in Dubai 	     In fourteen years of cooperation with Shell, the University of Glasgow       has developed sensors and data analysis code that have been instrumental       in completing seven surveys that (since 2008) have directly contributed to       investment decisions involving several hundred million dollars.

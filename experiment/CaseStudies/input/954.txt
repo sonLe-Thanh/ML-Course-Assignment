@@ -1,0 +1,29 @@
+     This Impact Case Study relates to research that has had a beneficial       economic impact on an international engineering company (Telent), led to       an improved service provision for a public sector organisation (LUL) and       made using stations on the London Underground safer for both LUL staff and       the travelling public.
+The 7/7 bombings on the London Underground in 2005 caused a reappraisal       of evacuation standards and guidance.
+LUL issued new requirements (2006)       for Public Address/Voice Alarm (PA/VA) systems to facilitate the efficient       evacuation of stations.
+Particular emphasis was placed on electro-acoustic       performance on deep platform stations as these are the most difficult and       challenging to evacuate.
+In response to the new requirements, a major       refurbishment of all PA/VA systems on London Underground was initiated by       Transport for London (2006).
+Telent (formerly Marconi) was awarded the contract (2006) to refurbish 74       stations on three underground lines (Jubilee, Northern and Piccadilly       (JNP)).
+Telent recognised the need for specific technical expertise and       selected the Acoustics Group at LSBU as their technical partner because of       the Group's reputation and expertise in acoustic modelling and       specifically, in measuring and predicting performance of PA/VA systems in       underground stations.
+The Head of Engineering (Metro) at Telent reported       to independent consultants that Telent would not have been successful in       this project without the support of LSBU [1, 2].
+LSBU and Telent successfully applied for a Knowledge Transfer Partnership       (KTP) award (2008- 10; &#163;187k) to facilitate their collaboration [3].
+In 2010, Telent selected the resulting room acoustic modelling software       based upon LSBU's research and further refined this through the KTP, to       model the acoustics in complex underground stations, including the 74       stations.
+This led to the optimisation of PA/VA design parameters.
+The       adoption of this model and approach resulted in significant time and       development costs savings for the Company, estimated at &#163;500k [1, 2].
+During 2010-11, the final PA/VA designs produced by Telent and based upon       the LSBU model were installed and commissioned by Telent engineers in the       74 underground stations.
+LUL had accepted all 74 installations by 2012.
+The gain on each of the 5000 associated loudspeakers was set at the design       phase such that the load on each loudspeaker was minimised, saving an       estimated 11 MWh of electricity (&#163;2000/per year) in each deep sub-surface       station (~35).
+The overall saving in electricity costs to LUL amounted to       approximately &#163;70k per annum [1, 2].
+Telent considered LSBU's research to have been crucial in enabling it to       deliver the system upgrade on time and to budget, and to avoid potentially       steep penalty costs through late delivery.
+The PA/VA upgrade project has       delivered a net profit of &#163;300k to Telent.
+In addition, the Company has       gained the maintenance contract for the new PA/VA system worth &#163;1.5M.
+The       Head of Engineering (Metro) at Telent has stated that, "We now have a PA       system that provides far greater security to travellers on the       Underground" [1, 2].
+Telent has also successfully bid for further PA/VA installation projects       at Whitechapel, Liverpool Street and Charing Cross stations.
+As a direct       result of its success, Telent recruited 5 new professional level jobs       during the project including one permanent job [1, 2].
+In addition,       Telent's technical team (6 staff) have received CPD training from LSBU in       acoustics, the first within Telent Ltd, with two members of the team going       on to gain Masters degrees from LSBU in 2011 [2].
+The PA/VA system was found to be so improved that light classical music       can be played in ticket halls.
+In 2012, for the first time, oral       advertisements were delivered in underground stations e.g.
+featuring Boris       Johnson promoting the London Olympics (July 2012), and Barbara Windsor on       Poppy Day (November 2012) [4].
+LSBU's research and the KTP outcomes have contributed to the development       of a new speech intelligibility scale in the 2011 revision of the IEC BS       EN 60268-16 Standard (4th edition, 2011) [5].
+In       addition, the KTP Associate Luis Gomez-Agustina won the Institute of       Acoustics, Peter Barnett Student Award 2013 as a result of this work [6].
+Furthermore, since 2010, 1.4 billion passenger journeys have been made       safer as a result of the improved PA/VA system on the London Underground       [4].

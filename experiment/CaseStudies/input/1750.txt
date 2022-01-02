@@ -1,0 +1,44 @@
+     Gilmour's research has led to changes and improvements in guidelines on       statistical procedures issued by the CEC, and has led to Shell Global       Solutions incorporating his methodology in their portfolio of statistical       techniques used to estimate fuel economy and other benefits from       experimental data.
+His work has refined and improved the technical quality       of their processes, with a concomitant financial benefit although this is       difficult to quantify.
+Test methods for ascertaining the performance of fuels and lubricants       need to be precise and reliable.
+In order to ensure the former, round       robin studies are performed, where identical samples of, for example, a       fuel are tested repeatedly within the same and across different       laboratories.
+Important numerical outcome measures of this process are the       repeatability and reproducibility.
+These precision measures reflect the       consistency of repeat measurements made at the same and at different       laboratories respectively.
+The formulae for calculating these measures       involve variance components, which are estimated from the data.
+Since in       cost-constrained experimentation the number of times which measurements       within labs are replicated is usually small, the methods in the ISO 5725       standard used by industry can lead to negative estimates of the       laboratory-to-laboratory variance component.
+This is unrealistically       assumed to be zero in standard computer packages and procedures.
+This       phenomenon has been observed by Shell and at CEC.
+The approach of Gilmour,       which underpins this impact, offers a solution to this problem.
+The methodology has been used in round robin experiments for two test       methods (nozzle fouling and low temperature pumpability) by the Senior       Consultant Statistician at Shell, and the Chairman of the CEC Statistical       Development Group and Statistical Advisor at Infineum who formulate,       manufacture and market petroleum additives.
+A presentation has been made       to other members of the CEC Statistical Development Group on the       methodology, including examples of WinBUGS and SAS code, and this is       stored online in the private CEC-SDG working area.
+Impact on European guidelines      CEC is the Coordinating European Council, the European Fuels and       Lubricants Performance Test Development Organisation.
+It represents the       motor, oil and petroleum additive industries and develops test methods to       evaluate the likely performance of different fuels and lubricants in the       field.
+Their test methods are used in member laboratories throughout       Europe and their performance is monitored by the regular testing of       reference fluids of known performance.
+Industrial statisticians support       each test method to ensure consistency and accuracy of application.
+Normally laboratories would follow the ISO 5725 Accuracy [trueness and       precision] of measurement methods and results standard, as detailed in the       CEC manual.
+However, CEC began to notice that, in some of their round       robin testing, there was a problem with negative variance components,       particularly in studies constrained by cost where samples are tested just       once or twice in a limited number of laboratories.
+This was leading to       unreliable estimates of repeatability and reproducibility.
+Given the       significant impact of unreliable precision data across the industry, CEC       sought to revise their approach.
+As a result of Shell's Senior Consultant       Statistician presenting to both Shell and CEC on the Gilmour method, our       research [1] now features as an element of the CEC Statistics Manual       Procedures [8] as an alternative to ISO 5725.
+The Chair of the CEC       Statistical Development Group [7] confirms that "...the Gilmour method         tends to give precision estimates which look more reasonable since they         have a sensible prior which the estimates shrink towards when there is         lack of information".
+He also indicated that the methodology is       likely to be used in further round robin analyses for these two methods       and/or others.
+It might also prove useful when the number of participating       laboratories and hence the degrees of freedom for reproducibility are       small.
+Redefining statistical protocols for industry     After attending Gilmour's talk on `Multi-Stratum Response Surface Designs       in Industrial Experiments' at the International Symposium on Business and       Industrial Statistics, Shell Global Solutions first became interested in       his work and its potential application in their fuel technology       development programme.
+Following the subsequent publication of [1], and       its conclusion that a Bayesian approach culminates in a more appropriate       analysis, members of the Shell Global Solutions statistics team [9, 10]       contacted Gilmour for details about the method as they were keen to employ       it at their Research and Technology Centre at Thornton in Cheshire.
+Their       Senior Consultant Statistician [9] stated that Gilmour "seemed to have         a solution to a problem we had identified".
+The Global Solutions team were involved in the testing of different fuels       in a number of cars to measure fuel economy.
+Because of the limited number       of experimental runs possible and logistical constraints, Shell's research       group cannot always use conventional, fully randomized, experimental       designs.
+Some variables are harder to change than others and cannot be       altered on a trial-to-trial basis.
+For example, the car age and engine       setup is harder to change than the fuel formulation.
+The real-life driving       conditions encountered during testing cannot be controlled at all.
+As a       result, experimental design and analysis becomes extremely challenging.
+In       a `simple' run of experiments, where the variables can be altered from       test to test ad lib, all treatment effects can be tested against a single       error term in the subsequent analysis of variance.
+However, in Shell's       case, some variables can only be changed from day-to-day rather than from       run-to-run for example.
+Such variables need to be tested against an       appropriate combination of the day-to-day and within-day variance       components.
+But as the data available from experiments is often sparse,       the estimates of the error terms were unreliable.
+As a result, the       experiments that Shell were running were not as informative as they       required.
+With the support of a Knowledge Transfer Partnership grant,       Gilmour placed his PhD student Lutfor Rahman in the Senior Consultant       Statistician at Shell's department for a three-month placement, during       which time they developed a step-by-step method for the implementation of       their new analytical method so that it could be used in Shell's ongoing       programme of fuel technology development.
+The Gilmour method was used to       analyse fuel economy data sets which had a day-to-day component of       variance which was difficult to estimate as the number of days' testing       was generally small.
+Standard methods were often arriving at negative       estimates, which the Shell team recognised as unrealistic.
+By using the       Gilmour method in addition to their own methods during the project, the       Shell team were able to use the Gilmour Bayesian analysis to gain       confidence in the results and as a consequence not recommend further       expensive testing.
+Shell Global Solutions have now added to their       repertoire of techniques this type of multi-stratum analysis as a solution       to an identified class of problems.

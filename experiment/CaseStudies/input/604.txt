@@ -1,0 +1,28 @@
+     The major elements of research that underpin its wider impact include new       techniques for the development of IO models, the construction of Regional       Accounts and the widespread application of these and associated modelling       techniques.
+The suite of techniques is now referred to as the AMORE       solution (Advanced Modelling of Regional Economies).
+A central principle       of the IO project was that the modelling resource was a public good.
+The       resource was therefore used by SWRDA, Local Authorities, consultants and       academic researchers.
+SWRDA's use has included informing the Agency's       Regional Economic Strategy and regular economic bulletins (e.g.
+[1], [2]).
+One example was the use of the Regional Accounts as the basis for the       economic evaluation and re- appraisal of the agency's priority sectors [3,       4].
+In the SWRDA Legacy Documentation, SWRDA Chief Economist Nigel Jump       stated that the Accounts "... have been crucial to our understanding         of the SW economy, investment appraisal and evaluation, and framing our         views about the future."
+[5, p.69].
+Several Local Authorities have       made use of the accounts [6] for impact analysis and investment appraisal       (e.g.
+Somerset Council's 2011 Economic Strategy [7]).
+The Stockholm       Environment Institute at the University of York used the Regional Accounts       for carbon foot-printing of key sectors in the region [8, p.6].
+The research has made an important contribution to the development of       Plymouth's Low Carbon Action Plan.
+In 2010 Plymouth City Council (PCC)       received funding for a government Low Carbon Framework pilot scheme.
+The       report The Low Carbon and Environmental Goods and Service Sector       (2011) [9] was the first detailed study of the nature and extent of the       local LCE and was based on an adapted form of the IO model with a low       carbon sector [10].
+Hence it built upon and extended previous research       conducted by the group.
+The final report ".... provided the baseline detail against which low         carbon economic targets could be considered."
+[11 p14], the       definition of the Low Carbon Economy adopted by the PCC for future policy       [11, p13] and underpinned recommendations in the Action Plan including       that the Low Carbon sector should be a priority sector in the Local       Economic Strategy [11, p19].
+An evaluation of the Plymouth pilot for the       Department of Energy and Climate Change by CAG consultants concluded that       the project "...demonstrates the benefits gained from working with         local academic institutions."
+In particular: "The research         .....could be a useful comparator for other councils.
+It also suggests         actions for policy makers that may be transferable."
+[12, p.134]       During 2013 Bishop and Brand undertook a project for South West Water       (SWW) comprising two elements: a report on the Economic Drivers of Bad         Debt in the Water Sector and The Economic Impact of South West         Water on the Devon and Cornwall Economy [13].
+The bad debt       report built upon recent academic papers on consumer insolvency by Bishop.
+The project involved developing a bespoke input-output model of the SWW       company area, constructed using the same accounting principles as the       South West Regional Accounts, hence directly building on prior research.
+In addition, a modelling tool was developed to enable the company to       update the impact assessment and conduct scenario planning.
+Evidence of       impact comes from a statement by Iain McGuffog [14].
+The RED Group's       expertise in regional modelling is evidenced by its recent appointment       (2012) as the Department for Business Innovation and Skills, Business and       Economic Intelligence Expert in the South West [15].
+This involves the       group in providing regular monthly briefings on the South West economy to       The National Institute of Economic and Social Research (NIESR).

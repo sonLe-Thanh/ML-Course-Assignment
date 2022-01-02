@@ -1,0 +1,44 @@
+     Research into energy harvesting at Southampton has spearheaded the       development of a multi-million-pound       industry and enabled the large-scale deployment of wireless sensors in       industry and       the rail network.
+Further impacts include the development of international       standards, influencing       the decisions of funding bodies and raising the profile of energy       harvesting among industry and the       wider public.
+The research was commercialised in 2004 following the launch of spin-out       company Perpetuum       Ltd [5.1] and has since attracted &#163;9.6m in venture capital.
+Based at       Chilworth Science Park,       Southampton, Perpetuum has employed at least 10 people throughout the REF       impact period and,       with its intellectual property protected by 12 patents, has engineered and       manufactured the world's       leading practical electromagnetic vibration harvesting microgenerator.
+The       founding academics       continue to work closely with Perpetuum in several areas, including a       joint TSB funded project to       investigate long-term reliable energy storage [5.2].
+Economic Impacts     Perpetuum's energy harvesting technology has been adopted by the rail and       petrochemical       industries where the systems they enable have led to improved business       performance through       reduced costs, increased efficiency and safety.
+Rail Applications: Perpetuum's energy harvesting technology       has been adopted by the rail       industry where it has enabled for the first time the real time       monitoring of bearings on rolling       stock.
+The system is a maintenance free, retrofittable solution that         has revolutionised         bearing condition monitoring on trains.
+Before this, bearings could       only be inspected during       infrequent manual maintenance checks, which was inadequate, time consuming       and expensive.
+Perpetuum's wireless sensor system is powered by a vibration energy       harvester designed to       work with the high amplitude, low-frequency vibrations found in rail       applications.
+Perpetuum's       sensor nodes monitor individual bearing health and the data is collected       centrally on the train       and transmitted via GSM to a data centre.
+A simple summary of fleet       condition is available live       on the web, with alerts being sent via email or SMS.
+The system has been       developed in       partnership with the train manufacturer (Bombardier) and train operator       (Southeastern).
+The         system has been recently exported and has been deployed on 200 trains in         the UK and         Sweden (SJ AB) [5.1, 5.3].
+The system is currently being modified to       also detect `out of round'       wheels (e.g.
+flat spots) which, if not fixed, can cause excessive impacts       on the rails damaging       the network and even leading to derailment [5.4].
+In summary,         Perpetuum's energy         harvesters have enabled wireless condition monitoring that are         transforming condition         monitoring in the rail industry leading to improved rail safety and         reduced maintenance         costs.
+The cost savings equate to a payback on each installation of       less than one year and the       lifetime of the system is 25 years [5.1].
+Industrial Applications: Wireless condition monitoring is       also transforming condition       monitoring of machinery in industry that, until recently, was typically       performed periodically by       an engineer using handheld equipment.
+Energy harvesting enables the         condition         monitoring sensors to be powered by the very vibrations they are         monitoring.
+Perpetuum's generators are the only approved energy harvesters       that can be used with       General Electric's Essential InsightTM Wireless Condition       Monitoring product range [5.5].
+GE       Bentley Nevada is the world's leading supplier of wireless condition       monitoring equipment to the       oil/gas and power generation industries.
+Perpetuum's generators are         fully ATEX-certified for         use in hazardous explosive environments, and the wireless systems       they enable can be       found in condition monitoring equipment across North America and Europe.
+For example, in       2008 Perpetuum's generators were deployed in Shell's Ormen Lange gas field       in Norway, with       Shell reporting that the self-powered wireless technology has made the         utilisation of         resources more efficient, reduced the severity of mechanical failures,         lowered         installation costs and provided more frequent and higher-quality data       [5.6].
+Perpetuum's       vibration-powered generator is also the only harvester offered by other       wireless sensor network       manufacturers such as Emerson and National Instruments in their platforms       for industrial       process measurement, control and condition monitoring applications [5.7,       5.8].
+Impact on Public Policy and Society     Southampton's research and influence has raised the profile of energy       harvesting and impacted on       policy debates relating to research funding calls.
+Beeby is leading the       UK's Energy Harvesting       Network, a &#163;112k initiative to connect academia with industrial end-users       (list available in [5.9]).
+As       part of the network's activity, three workshops have been held focused on       particular application       areas (human, built environment and MEMS implementations).
+Each workshop       was attended by       industry (including Philips, Rolls Royce, Smith and Nephew, TRW Conekt and       NPL) and has led to       the publication of a roadmap of the research challenges and future uses of       energy harvesting       technology.
+These roadmaps were circulated and discussed with funding       agencies and the       momentum generated by the Network led to a further workshop, Energy         Harvesting Technology &#8212; Creating         a New Industry in the UK, organised by the Technology Strategy Board       (TSB) in       September 2011.
+Following this, the TSB opened an Energy Harvesting themed       competition in       October 2012 with a budget of &#163;1.25m [5.10].
+The TSB also fund the Energy Harvesting Special Interest Group (EH-SIG).
+Prof. Beeby and Roy       Freeland (Perpetuum President) [5.1] are members of the steering board       which advises the EH-SIG       on its activities which include, for example, trade missions to Germany,       Japan and USA       promoting UK energy harvesting companies, products and expertise.
+Further       engagement with       industry came through the three Energy Harvesting profile-raising events       in London organised by       Prof. Beeby through the Network, which have attracted over 90 attendees       from industry (e.g.
+Cosworth, Morgan Electro Ceramics, Meggit PLC).
+Feedback from the       industrialists (gathered via       feedback forms) was very positive, with 84% rating the events as good or       excellent.
+More general       public engagement activities include broadcast media coverage on BBC Radio       4's Frontiers:         Energy Harvesting [5.11] and Costing the Earth [5.12] and       Radio Solent news shows.
+Dr Merrett       also participated at the Cheltenham Science Festival where he demonstrated       the benefits of       energy harvesting to 100 members of the public [5.13].
+Impact on International Standards     Prof. Beeby and Roy Freeland (chair) and are assisting in the development       of international       standards for energy harvesting in an ISA100.18 Power Sources Working       Group [5.14].
+The group       is preparing standards and information documents on power sources for       wireless sensors.
+This       includes the definition of specifications for the interchangeability of       various power sources and       performance specifications so users can compare different harvesters and       choose the optimum       power source for each application.
+Summary     This case study presents a range of impacts that have occurred as a       direct result of Southampton's       world leading research in energy harvesting.
+The exploitation of the       technology through Perpetuum       has created the market leader in vibration energy harvesting and the       applications they have       addressed have enabled performance and safety improvements in other       business areas.
+The       research team at Southampton have been strong advocates of the technology       by contributing to       standards and promoting energy harvesting to funding bodies, industry and       the general public.

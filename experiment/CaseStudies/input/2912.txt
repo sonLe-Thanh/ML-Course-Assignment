@@ -1,0 +1,30 @@
+     Context     It is now widely accepted that disruption of the circadian clock and       sleep-wake cycle due to       unnatural light exposure can have a profound influence on human health and       well-being.
+This is       particularly relevant in shift-workers and care home residents, who       experience sleep disturbance       due to a lack of natural daylight, and frequent long-haul travellers       (jet-lag).
+Lucas's research has       shown that ipRGCs play a distinct role in synchronising endogenous       circadian clocks to the       external light-dark cycle, and his group has developed a robust novel       method for measuring light       that activates these photoreceptors.
+Therefore these findings have       important implications for the       development of improved artificial light sources and updated standards for       architectural lighting.
+Pathways to impact     An important component of Lucas's strategy to maximise impact has been to       publicise his group's       research to the lighting industry.
+They have achieved this by publishing       review articles in industry-       focussed publications (e.g.
+CIE proceedings, Commission Internationale de       L'Eclairage =       International Commission on Illumination, the international       standardisation body for light and       lighting, colour and vision, photobiology and image technology), and       presenting their work at       conferences for industrial researchers organised by the UK National       Physical Laboratory, the       Deutsches Institut fur Normung (the German institute for standardisation),       the Society for Light       Treatment and Biological Rhythms, and the International Symposium on the       Science and       Technology of Lighting.
+These activities led to three more formal       interactions with beneficiaries of       the research:     1.)
+[text removed for publication].
+2.)
+Since 2011, Lucas has acted as UK representative on a committee       (Technical Committee       169; Working Group 13) established by the European Committee for       Standardisation (CEN)       to define new units of measurement for light that are relevant for ipRGCs       [B].
+Defining how       to measure light is a first step for validating new products and       ultimately for bringing in new       standards for artificial light environments and light pollution.
+Currently, there is no accepted       way of predicting how effective a given light source will be at activating       these new       photoreceptors.
+Lucas's findings (especially [6]) provide the basis for       addressing this deficit,       and have defined the working draft of this committee's report [C].
+3.)
+In January 2013 Lucas organised and chaired an international       conference in Manchester,       sponsored by the German Electrical and Electronic Manufacturers`       Association, to bring       together researchers to agree guidelines on light measurement &#8212; based upon       current       knowledge of ipRGCs &#8212; that can be used by industry and regulatory bodies.
+The outcomes       of the meeting will be published as a report on best practice in light       measurement, which       was commissioned by Div 6 of the CIE on 28 February 2013.
+It is scheduled       to be       published as a stand-alone report on the CIE website       http://www.cie.co.at/index.php/Publications       in the first quarter of 2014 [D].
+Reach and significance of the impact:     Commercial applications and product development:     A large number of manufacturers worldwide now market blue-enhanced high       luminance light       sources for therapeutic applications and/or to replace standard lumieres       in       domestic/public/industrial settings.
+Lucas's descriptions of melanopsin's       spectral sensitivity (i.e.
+to       blue light) [1] and the significance of ipRGCs for setting       neurobehavioural/neurophysiological state       (e.g.
+[2,4,5]) provide much of the scientific justification for this       approach.
+[text removed for publication].
+Public policy:     There is growing interest in how standards and recommendations for       artificial lighting should be       modified to take account of ipRGCs.
+Lucas has directly influenced policy       in this area by       contributing advice based upon his research (especially [1,2]) to the       Royal Commission on       Environmental Pollution's 2009 report on `Artificial Light in the       Environment', in which he is named       as a contributor [E].
+The most important barrier to developing national and international       guidelines on optimal levels of       ipRGC activation in architectural lighting is the absence of an       internationally accepted method of       measuring light intensity that is relevant for this new photoreceptor.
+Lucas's research proposes just       such a metric [6].
+This research is referenced in the draft       recommendations of the CEN committee       169, working group 13 [B, C], and will be in the CIE report from the       January 2013 meeting Lucas       organised and chaired [D].
+These guidelines will be used by industry and       regulatory authorities       worldwide to drive better alignment of artificial and architectural       lighting to our biological needs.
+[text removed for publication].

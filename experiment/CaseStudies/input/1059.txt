@@ -1,0 +1,37 @@
+     Nanoinstruments Limited was founded by Teo (Managing Director),       Rupesinghe (Technical Director), Amaratunga (VP Engineering) and Milne (VP       Research) in October 2005.
+The capitalisation of the company was provided       by the founders.
+The product, based on the research conducted by the       founders at DoEng and developed by Nanoinstruments, was equipment for       growth of nanomaterials that incorporated both conventional thermal CVD       and the team's novel PECVD modes.
+The equipment can reliably produce       virtually all variations and morphologies of CNTs.
+In addition, the       equipment and the associated understanding of the control of growth       processes mean that it is very well suited to the production of graphene.
+The company grew organically by manufacturing one system at a time and       reinvesting the profits.
+Demand for nanomaterials accelerated and the       company became widely known.
+AIXTRON AG acquired the company in October       2007.
+AIXTRON Nanoinstruments' products are still based on the original       DoEng research.
+The demand for equipment to grow CNTs has been strong, as industry starts       to integrate them with consumer devices, trying to seize their share of a       market that commentators predict "...will increase to over $2.8bn by         2023" [7].
+Graphene is a newer material, but, again, industry is       investing in equipment for production to pursue a market in which it is       predicted that "100 million dollars' worth of graphene will be sold in         2018" [8].
+Nanoinstruments has designed its products to serve this       high-growth market.
+AIXTRON Nanoinstruments' products range from R&amp;D to industrial scale,       covering 2-inch wafer size (selling price GBP80k) to production-scale       12-inch wafer size (selling price GBP1.5M).
+The proprietary name for the       range of products was originally Black Magic and is now abbreviated to BM.
+Almost 100 of Nanoinstruments' products have been produced, the majority       of which were after 2008 and sold to customers internationally.
+[9]     [text removed for publication]     Customers who have bought the equipment between 2008 and 2013 include:       companies such as Thales, Porifera and Graphenea (please note that many       companies will not allow their purchases of Nanoinstruments products to be       revealed because the purchases can reveal their strategic intentions to       competitors); research institutes such as Lawrence Berkeley National Labs       (USA), Georgia Tech Research Institute (USA), Masdar Institute of Science       and Technology (United Arab Emirates), National Centre for Microelectronic       (Spain), National Institute of Advanced Industrial Science and Technology       (Japan), Institute of Metal Research at the Chinese Academy of Sciences       (China), Daegu Gyeongbuk Institute of Science and Technology (South       Korea), Italian Institute of Technology (Italy), Nanotechnology Center       (public private partnership between IBM Research and ETH Zurich based in       Switzerland); and universities such as University of Texas (USA), Nanyang       Technological University (Singapore), Osaka University (Japan), Zhejiang       University (China), University of Oulu (Finland), Pusan National       University (South Korea).
+[9]     Examples of customer statements are given below:             Graphene production &#8212; "Graphenea bought a Nanoinstruments           BM system in 2010.
+We chose it because we believed it was the most           suitable system to synthesise graphene at the time.
+Since 2010 we have           been using the BM system to develop graphene synthesis processes and           at the same time manufacture graphene samples to sell to customers           worldwide including Canon, Philips and Nokia.
+We still believe it is           the best system that is available to produce graphene.
+The BM system           has helped us to lead the CVD Graphene production sector and obtain a           greater than 30% market share in 2013."
+Scientific Director,         Graphenea SA.
+[10]        Manufacture of electron sources &#8212; "After a 10-year           collaboration with Cambridge University on carbon nanotube based           electron sources, Thales purchased a Nanoinstruments Aixtron Black           Magic (BM) system in 2011.
+The BM system was chosen for the unique           rapid heating and plasma technologies.
+Moreover, the system is highly           versatile and offers a user-friendly system interface that allows           precise control and monitoring of the growth parameters.
+Since 2011,           Thales has performed around one thousand growth recipes and has           developed "state of the art electron" sources.
+This quick development           could not have been made without the BM system."
+Manager         responsible for electron source studies at Thales R&amp;T (TRT) and Head         of the Nanocarb Lab (joint lab between CNRS, Ecole Polytechnique and         TRT).
+[11]        Applications in electronic, communication, nano-electromechanical           and robotic systems &#8212; "The unique devices we are developing           require the controlled deposition of individual, vertical aligned           carbon nanotubes at precise locations.
+This is where AIXTRON's           plasma-based BM system really stands out against other options we           considered.
+Indeed, the BM system enables us to reliably achieve           carbon nanotube growth with unparalleled control over growth           parameters and nanotube alignment in a reproducible manner...The BM           system enables us to grow a single vertical carbon nanotube with           controlled dimensions at pre-defined locations through a process that           is compatible with existing silicon technology.
+The vertical           orientation of single nanotubes is a key feature, as it allows us to           decrease the device cell area significantly over conventional device           approaches.
+We are applying the use of vertical nanotubes to not only           electronic and communication devices, but also to novel applications           such as nano-electromechanical and robotic systems."
+Professor         from the Department of Information and Communication Engineering at         Daegu Gyeongbuk Institute of Science and Technology (DGIST), South         Korea.
+[12]        Rapid turnover and large-area processing for patentable graphene           technology &#8212; "Due to the turnover time and process control the           system has played an instrumental role in our progress towards gentle,           large-area graphene transfer as well as large-area characterisation,           which has allowed us to submit several patents and high impact           articles.
+The research has been of key importance for our successful           funding track record, involving two large national           application-oriented graphene projects with strong industry           involvement, a national centre of excellence, a European project in           2013, NMP-Gladiator, as well as the Graphene Flagship."
+Associate         Professor at the Technical University of Denmark [13].

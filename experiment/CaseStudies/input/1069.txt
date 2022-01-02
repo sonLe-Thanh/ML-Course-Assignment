@@ -1,0 +1,33 @@
+     Contribution and Impact on Syncron     In autumn 2001, Bucks New University and Syncron UK commenced a two-year       Teaching       Company Scheme.
+The aim was to enhance the capability of Syncron's demand       forecasting and       inventory management software.
+The research team provided a review and critique of Syncron's Demand       Forecasting and stock       Replenishment Planning system (2).
+This identified the following issues,       amongst others: limited       capacity to store demand histories, inflexibility of hard-coded tables to       categorize demand, and       limited capability to forecast intermittent demand items.
+The team       proposed and evaluated new       methods for intermittent demand forecasting, based on the Syntetos-Boylan       Approximation and       variations of that approach (2, 3).
+Error evaluations showed marked       reductions in Mean Squared       Errors, of approximately 25%, when employing the new methods instead of       the existing method       (3).
+The research also showed that the old company categorization approach       was inappropriate,       and that greater forecast accuracy could be achieved with a new       categorization method proposed       by the University.
+Syncron adopted the University's recommended approaches and these have       remained in effect       from the beginning of 2008 to the end of 2013 (4).
+On Syncron's web-page       for its Demand       Forecasting Software, the company highlights "Our best-in-class dynamic       demand forecasting for       stock with frequent, highly sporadic or intermittent demand".
+It then       headlines "Demand       Forecasting Software: Automatic Demand Classification".
+The enhancement to       Croston's method       is also cited: "Special forecasting techniques such as a refined Croston       methodology are used to       handle sporadic and intermittent demand" (4).
+Contribution and Impact on Manugistics and JDA     In 2002, John Boylan was commissioned by Manugistics to provide       consultancy advice on the       development of a systematic demand classification and forecasting system.
+This had arisen from       debate within the company about the relative merits of a formal       classification system and a "pick-best" methodology, based on minimizing model-fit error.
+Boylan (5)       recommended a formal       classification system, arguing that it could offer a more accurate and       sophisticated approach if       appropriate categorization rules were used.
+The recommendation of a formal demand classification approach was       communicated by report (5)       and by a video-conference between Boylan and Manugistics' board members in       the US.
+This       recommendation was accepted by the company and implemented in their       software.
+After       Manugistics had been taken over by JDA, the approach was also implemented       as part of JDA's       Global Inventory Management software, and has remained the basis for the       JDA Demand       Classification package from 2008 to the end of 2013 (6).
+Boylan (5) also       recommended, based on       his categorization research with Aris Syntetos, that the company should       distinguish between       `erratic' and `lumpy' demand series.
+These categories remain at the heart       of the JDA Demand       Classification software (6), and the JDA Demand Management package.
+Financial Benefit to Syncron's and JDA's Clients     Syncron's clients for its Global Inventory Management software include       the following companies       (7), listed with their annual revenues: Deutsche Bahn (39.3 billion Euro,       2012), JCB (&#163;2.75 billion,       2011), Mazda (2.3 trillion Yen, 2011), Metso Minerals (3.5 billion Euro,       2012, Mining and       Construction), Renault Trucks (4.3 billion Euro, 2011) and Volvo       Construction Equipment (65 billion       SEK, 2011).
+JDA Demand Management software clients include (8): Avon Products ($10.72       billion, 2012),       Bristol-Myers Squibb ($18.8 billion, 2009), Canadian Tire ($8.98 billion,       2010), Dell ($62.1 billion,       2012), Harley Davidson ($5.31 billion, 2011), Hyundai ($84 billion, 2012),       Kraft Foods ($18.34       billion, 2012), O2 (UK) (&#163;2.97 billion, 2010), Renault (41.3 billion Euro,       2012), Swire Pacific, (HK$       36.29 billion, 2011), Toshiba Semiconductor ($12.36 billion, 2010), and       Vodafone (&#163;46.4 billion,       2012).
+The combined turnovers of these clients amount to approximately &#163;240       billion, at current exchange       rates.
+Application of aggregate `Days of Inventory Outstanding', by       Industrial Sector (9), gives a       very approximate estimate of total inventories of &#163;19 billion.
+JDA Demand       Management is also       used by the Defense Logistics Agency, which reported inventories of &#163;13       billion in 2012 (10),       giving approximate total inventories of &#163;32 billion.
+There is no reliable       data available on the       proportion of the companies' inventories which are slow-moving.
+However, a       modest assumption       would be at least one-third, giving an estimate of slow-moving stock of       &#163;10 billion.
+The most comprehensive analysis of the financial impact of enhanced       categorization methods and       of the application of the Syntetos-Boylan Approximation (SBA) was       conducted by Eaves and       Kingsman (2004): Forecasting for the Ordering and Stock-Holding of Spare       Parts, Journal of the       Operational Research Society, 55, 431-437.
+They concluded that enhanced       categorization (using a       similar but not identical approach to that recommended by Bucks) and       application of the SBA       method resulted in a saving of 13.6% of the total value of inventory, with       slightly smaller savings if       Croston's method were used instead of SBA.
+This is consistent with the       financial saving of 11.7%       identified in the TCS project with Syncron.
+If the clients of Syncron and       JDA have been able to       achieve similar savings, of at least 10% in inventory values, then this       equates to a saving of &#163;1       billion of stock.
+Whilst it is accepted that this number is highly       approximate, it gives an indication of       the financial impact of the research described in this case-study.
+It is       difficult to estimate the       environmental benefit of the associated reduction of inventory       obsolescence, although this should be       considerable.
+Excessive slow-moving stock is most prone to obsolescence       and to the concomitant       waste of resources in making goods that are never used.

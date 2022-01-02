@@ -1,0 +1,26 @@
+     The company, initially known as NeuroVex, was spun out from UCL with       initial funding from Sir Chris Evans, one of the UK's foremost       biotechnology entrepreneurs.
+It was incorporated as a private company in       1999, initially based at UCL with three employees.
+Two UK patents were       granted to Latchman and Coffin in 2001, one for mutated herpes simplex       viruses and their uses (CN1310765) and the other for the cell lines in       which these viruses are propagated (CN1321199) [a].
+Shortly after       NeuroVex was founded, it changed focus to the development of HSV as an       "oncolytic" virus therapy for solid tumours.
+At the same time, it entered       into an agreement for Wyeth (now part of Pfizer) to continue developing       HSV as a vector for delivery to the nervous system [b].
+Deleting the HSV protein ICP34.5 produces a virus that will replicate       rapidly in rapidly dividing tumour cells but not in normal cells,       eventually causing the cancer cells to burst (lyse).
+The company, renamed       BioVex, developed an oncolytic ICP34.5-deleted virus that expressed the       granulocyte macrophage colony-stimulating factor (GM-CSF) in infected       tumour cells and released it from those cells when they were lysed so       targeting multiple tumours elsewhere.
+This virus, OncoVEXGM-CSF,       must be delivered by injection directly at the site of the tumour, so skin       cancers seemed most appropriate for initial clinical tests.
+A Phase I       clinical trial of this virus in thirty UK patients with advanced melanoma       or skin metastases from other solid tumours showed it to be safe and well       tolerated, and suggested an optimum dose [c].
+By the time the Phase I results were released, BioVex employed about       20-25 people, many being highly skilled scientists.
+Most were based in       Oxford, but the company retained its links with UCL; all animal work was       carried out there, and they sponsored several PhD studentships at UCL,       thus contributing to the training of the next generation of UK       researchers.
+The board, however, took the decision to move to Boston in       the US before a Phase II trial, as there were better opportunities for an       expanding company there.
+By 2009, it had grown to 75 employees [d].
+An international Phase II trial in 50 patients with melanoma showed that       the virus was able to induce both local and site-specific anti-tumour       responses [e].
+These promising results led the giant US       biotechnology company Amgen to approach BioVex with a view to a buyout,       and the acquisition deal went through in January 2011 [f].
+Amgen's       purchase of BioVex for $1 billion is still the largest sale of a biotech       company of UK origin in cash terms.
+The Deal magazine described       the buyout as "likely to be lauded as the industry's best value play of         the year" and its lead product, OncoVEXGM-CSF, as "potentially         revolutionary" [g].
+An article on FT.com stated "The deal         represents one of the biggest exits of a venture capital-backed         biotechnology company for many years and is a boost for the ailing         European venture capital industry which has struggled with a dearth of         big success stories" [h].
+Just as remarkably, between the       launch of the company in 1999 and its purchase by Amgen it had attracted       over $130m of venture capital funding from a number of investors,       including $70m in Boston in 2009: the second largest venture capital raise       by a biotech company in that year [i].
+In the remaining 10 months       of 2011 after the sale, BioVex reported a turnover of &#163;4.6m and an       operating profit of &#163;154,000 [j]     Amgen has taken OncoVEXGM-CSF, renamed talimogene       laherparepvec, into Phase III clinical trials in melanoma [k].
+A       total of 439 patients from 83 study locations in the US, Canada, the UK       and South Africa were randomised to receive either the vaccine or the       protein GM-CSF.
+This is the immune stimulant that is released by tumour       cells infected with OncoVEXGM-CSF when they are lysed.
+Large       Phase III clinical trials like this one always have a significant economic       impact in the regions where they recruit patients, particularly with the       creation and/or maintenance of highly skilled jobs in medicine and       administration.
+Full results of the trial are expected to be reported in       2014.
+Interim results from this trial presented at a meeting of the American       Society of Clinical Oncology (ASCO) in Chicago in June 2013 showed that it       had met a primary endpoint of a durable response rate that is       statistically longer in the vaccine arm than the GM-CSF (control) arm, and       that there were early indications that the vaccine arm will also show an       increase in overall survival [l].
+In an interview with Forbes       magazine, Amgen's former research chief Roger Perlmutter highlighted       research at BioVex and in particular the work of Latchman's colleague and       prot&#233;g&#233; Rob Coffin in developing this promising novel therapy [m].

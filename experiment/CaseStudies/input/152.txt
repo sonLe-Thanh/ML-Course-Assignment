@@ -1,0 +1,40 @@
+     The primary beneficiary of our research into the automatic generation of       human motion has been the deaf community, in the UK and elsewhere.
+The       systems developed at UEA have been applied in a variety of situations to       improve both direct communication and information provision.
+In addition,       the avatar systems have been used to provide a new way of teaching       languages in primary schools and to add an additional dimension to       cultural heritage sites.
+Avatar Signing for the Deaf Community         For many prelingually deaf people, their first language is natural sign         language, with approximately 50,000 people in Britain having British         Sign Language (BSL) as their first language.
+Our algorithms and 3D         animation technology have been developed to enable rich natural sign         language to be generated for communication with deaf people.
+Systems         arising from this research provide deaf people with the means to access         information and services in their chosen language, respecting the         cultural and social needs of a recognised minority community.
+Our systems allowing face-to-face communication between deaf and         hearing people, with speech recognition and the subsequent automatic         generation of signing were first used by the Post Office in 2000.
+During         the current REF impact period, this technology has been taken forward by         IBM through Say It Sign It (SiSi), a real-time system         that allows sign language users to communicate with hearing people by         converting speech and text into natural sign language.
+A further         important development is the modification of this system to allow use on         mobile devices, which involves Orange working alongside IBM.
+IBM have         stated (corroborating source A):         `IBM chose the virtual signing technology developed at UEA as the           most advanced and flexible system available.'
+Semi-automatic signing based on pre-defined phrases for information         provision is an important aspect of the impact of this technology for         the deaf community.
+This has been used in train announcement systems and         weather forecasting where the required phrases are from a limited set         and the key feature is the ordering that is required to produce the         appropriate information.
+The ViSiCAST project developed a tool to allow         non-signers to build weather forecast summaries using drop-down menus to         choose phrases covering a full range of general weather conditions.
+Weather phrases have been mapped to natural British (BSL), Dutch (NGT),         and German (DGS) sign language, along with corresponding text.
+Working with the Royal National Institute for the Deaf (now Action on         Hearing Loss), we have developed resources that enable authoring of sign         language content for websites.
+eSIGN has produced numerous websites         utilising our technology to provide sign language as a key method of         communication for non-hearing customers.
+Key examples include web sites         on employment in the Netherlands (IvD), deaf services in the UK (Deaf         Connections) and for the Federal Ministry of Labour and Social Affairs         (BMAS) in Germany (see corroborating source B).
+A closely related application is the provision of information for         attendees at public festivals or events.
+A recent example is the         successful use of the JASigning software, which is based on UEA         research, at the Visual Festival organised by the Swiss Association of         the Deaf in May 2013.
+The Festival organiser has stated (corroborating         source C) that:         `the technology provided a novel and attractive way to communicate           information effectively for use by deaf participants.'
+With signed-TV, the aim is to use 3D animation techniques to supplement         the use of on-screen human interpreters.
+For example, in conjunction         with Gamelab London we developed Performing Hands, a range of         interactive educational materials for the BBC which uses virtual signing         to support learning via interactive games.
+This resource was a finalist         for a BAFTA award in 2008.
+The same technology has been used for         programmes commissioned by the British Sign Language Broadcasting Trust.
+Examples can be seen in on-line programmes such as Wicked Kids         and Little Wicked (see corroborating source D).
+Gamelab         (corroborating source E) say:         `these resources are unique animated materials for use by deaf           children and all depend on the avatar technology developed at UEA.'
+and the British Sign Language Broadcasting Trust (corroborating source         F) state:         `production makes substantial use of the virtual signing avatar           technology created by researchers at UEA.'
+The production of signed-TV is on-going and our technology is used by the       Netherlands Organization for Applied Scientific Research (TNO) to produce       accessible programmes for deaf children for Dutch TV, such as the popular       programme Het Zandkasteel.
+TNO have stated (corroborating source       G):       `We identified the UEA technology as the most suitable for our needs as         it enables us to produce cost-effective 3D animations that are         attractive to children.'
+Foreign Language Learning         Our virtual signing technology has other applications where there is a         requirement to combine gestures and speech.
+Resources for primary         language education in the form of animated stories on DVD are available         under the brand LinguaSign (see http://www.linguasign.com/).
+These stories combine standard animation for the main story line         alongside speech.
+The story characters speak with lip-sync animation         while performing gestures that reinforce the acquisition of vocabulary.
+The stories have been reproduced using matching phrases in English,         Dutch, French, and Portuguese, voiced by native speakers.
+In 2013, more         than 50 primary schools undertook a trial of the resources for Key Stage         2 children.
+62% of respondents to the survey at the end of the pilot         strongly agreed that the DVD was effective at improving pupil's speaking         and listening skills in a new language (corroborating source H) whilst         one teacher commented:         `My class and I really enjoyed using it.
+We found it engaging and           fun.
+A great way to prepare them for MFL [Modern Foreign           Language Learning]at high school.'
+Cultural Heritage         In a further use of our technology, exploiting animation scripting         algorithms from the virtual signing system, animated characters have         been used to provide engaging stories to enhance the presentation of         cultural heritage sites managed by the Heritage Economic and         Regeneration Trust (HEART).
+The CEO of HEART has stated that         (corroborating source I):         `The technology developed by UEA, and utilised by us, has made a real           difference to the way in which we can present our cultural heritage to           a wide range of audiences and has enabled us to engage with           particularly hard to reach groups.'

@@ -1,0 +1,35 @@
+     The accurate prediction and control of overpressures at depth is a       priority during the drilling and completion of wells in the offshore oil       and gas exploration industry worldwide.
+Since the 1970s, there have been a       number of well-documented drilling and completions incidents related to       overpressure of which the 2010 BP Macondo disaster is perhaps best known.
+The main impacts of the Durham overpressure research were delivered       through the development of the spin-out company GPT and the subsequent       delivery and sales of its software tools and expertise.
+The company       employs mainly graduate/postgraduate-level geoscientists, managers and       administrative staff.
+The number of professionals has grown from 8 full       time (FT) employees in 2008 to 18 FT geosciences staff located in Durham,       Kuala Lumpur, Calgary and London.
+There are 8 FT and 2 P/T support staff       which includes 4 trainee Geoscientists.
+The company has a total revenue       from April 2008 to March 2013 of &#163;10.8million [7].
+The most       important tools developed by GPT based on Durham overpressure research are       as follows:     a) Software: Based on Durham research using industry data,       research of industry practices and writing of original source code during       GeoPOP Phases 1 and 2, `PressureView' (PV) was the first dedicated       pressure database and visualisation software for use in the oil/gas       industry.
+The first commercial sales were made in 1999 with licences       subsequently sold to 140 companies worldwide, including global licences       for Shell and BG.
+Estimated total income is over &#163;3 million, plus annual       maintenance licences (currently 20% of licence fee).
+During the period       2008-2013, revenue from the sales of PV amounted to &#163;0.78M [8].
+b) Algorithms: The fracture strength analysis in Adrian White's       2001 thesis and associated publications [5] led to the development       of regional to local algorithms to predict fracture strength including       pore pressure-stress coupling.
+Algorithms are now used in consultancy       projects for prediction of fracture pressure in well planning.
+In the       period 2008-2013 consultancy projects relating to this development total       &#163;1.8M.
+In addition, during 2019-11 GPT collaborated with 11 other       organisations (including Durham University, Imperial College, Edinburgh,       Herriott-Watt, BGS, Synergy and RPS) in the Energy Technology       Institute-funded assessment of UK carbon dioxide storage estimates &#8212; GPT       fracture algorithms were used directly to assess hydraulic failure during       injection modelling and in volume estimates based on top seal failure       criteria.
+The value of this project to GPT to date is &#163;0.24M, but the       longer term strategic value of the project findings to the UK in planning       the future deep disposal of carbon dioxide is likely to be substantial.
+c) Knowledge: Chalk of Central North Sea: Since 2001, GPT has       conducted specialist pressure analysis to aid drilling safely through       Upper Cretaceous Chalk [4], a unique challenge for pressure       interpretation and safe drilling.
+Pressure profiles and understanding of       drilling behaviour are underpinned by later research results (papers by       Anthony Mallon/Swarbrick).
+The value to GPT of such studies varies from       &#163;15k to &#163;40k per study, and in the period 2008-13 has generated &#163;0.6M of       income to GPT from a total of 26 projects.
+The importance and value to oil       companies is much greater given the costs involved in drilling exploration       wells (ca.
+$100M each).
+d) Methodology: Pore pressure prediction: research on       disequilibrium compaction (a common overpressure mechanism [1,3])       has led to a unique geological approach to predict pore pressure in shales       [6].
+The technique (known as the "Swarbrick FRD Method') is       included routinely in all GPT projects and several companies (e.g.
+Petronas, Santos) have adopted the method and apply it to their well       planning worldwide (each with a value of ~ $100M).
+Worldwide, all oil wells require pre-drill pressure prediction and GPT       specialises in understanding the geological context for the magnitude of       these pressures, with particular emphasis on geologically complex basins,       where traditional methods are unsuccessful, but still used by most of the       competition for this type of business.
+The experiences of two oil       companies in the North Sea illustrate the impact of geological       overpressure research on their operational activities and budgets:     i) BG Group participated directly in a multi-client study led by       GPT in 2009-10, the `Central North Sea Pressure Study Phase II'.
+The       company has operated widely in the North Sea where drilling at depth, in       high-pressure, high temperature (HPHT) environments represents a       significant technical challenge.
+The Pressure Advisor at BG Group has       said: "Research carried out initially at Durham University and then by         GPT has provided a better understanding of the causes and nature of the         high pressures encountered in the North Sea area" [9].
+BG       Group uses PressureView software throughout their worldwide operations       (income to GPT of &gt;&#163;0.1M in period 2008-13), together with use of GPT       technical consultants and training for their staff to mitigate risk and       reduce uncertainty when planning and drilling HPHT wells.
+ii) The Regional Pressure Study of the Central North Sea was used by Valiant         Petroleum in the planning, design and drilling of its first HPHT       well in the basin in 2010.
+The study successfully captured the changing       pressure regimes related to the structure of the basin, as well as the       challenges of drilling to the objective reservoir through the       lithologically complex overburden.
+GPT, through consultancy and real-time       monitoring, also helped in the safe drilling of the well.
+The Exploration       Manager at Valiant Petroleum has stated that GPT involvement in this       project during 2009-11 "meant that we were better prepared to manage         the fluid pressures encountered thereby improving the safe management of         our operations" [10].
+With the cost of drilling North Sea       HPHT wells currently running at $600K-$1Million per day, a service that       can assist in predicting well conditions ahead of the drill bit and       minimise costly well control operations is easily justified in economic       terms.
+We have further testimonies from 6 other national and multinational       companies confirming the impacts of Durham-based overpressure research       through GPT operations worldwide [11-13].F

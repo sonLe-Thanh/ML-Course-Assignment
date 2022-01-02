@@ -1,0 +1,17 @@
+     The Keele partner company Forensic Pathways Limited (FPL) provides       digital forensic services to a range of bodies including police forces       internationally.
+Our research has developed algorithms which can be used       to assist in the identification of the device source of evidential images.
+FPL had a product called Forensic Image Analyser (FIA) with could       successfully identify whether a digital image came from a particular       digital camera, or if a particular digital camera created a particular       digital image, for dedicated cameras.
+However, increasingly mobile phone       cameras are replacing such dedicated cameras in society as a whole.
+The       construction quality, proximity of noise- generating elements, and high       compression ratios used in mobile phones makes this a much more       challenging problem, rendering the existing method far less effective, and       producing a high number of both false positives and true negatives.
+Our       technique provides a more sensitive and consistently reliable method,       enabling their product to be used for these now much more common devices.
+This is a very significant tool in the armoury of those fighting a diverse       range of crimes but notably terrorism, paedophile rings and civil unrest.
+The research is now embodied in FPL's products.
+Criminal Records Direct Ltd. (formerly Assuramed Ltd.) conduct criminal       record checks (CRCs) for the Criminal Records Bureau (CRB) and so deal       with highly sensitive data.
+They required a simple but effective method of       authenticating on-line users of their systems.
+They approached us looking       for a more secure approach than password distribution, that could be       rolled-out securely without relying on the distribution of authentication       devices (which could constitute a security risk).
+Through an initial INDEX       award and a subsequent AWM Proof of Concept Award, we developed a multi-       factor authentication system utilising a biometrically generated graphical       password.
+Essentially we identified concealed variations in drawing which       were idiosyncratic to particular users.
+This became core to CRD's       security-sensitive online system and enabled them to meet the Criminal       Record Bureau's stringent security requirements to run online, which in       turn enabled CRD to quadruple their turnover in three years.
+There has       been no breach of their security systems to date, which for a small       company is a significant achievement.
+The ability for criminal record       checks to be carried out securely online is a vast improvement on the       previous paper-based system which was both too slow for purpose (taking       weeks or months for a check to be undertaken) and inherently insecure,       leaving key posts unfilled in the health care industries and education       sector.
+The success of the applications led to the company's acquisition       by GB Group PLC for &#163;1.6 million in June 2013.

@@ -1,0 +1,27 @@
+     Context     Electron beam welding and diffusion bonding are typical joining processes       (in the final stages of       aero-engine assembly) used in the aerospace industries for a variety of       components and       structures.
+Insufficient bonding and defects such as porosity can occur if       the surfaces are not       perfectly clean from dirt, particles, oil/grease and machine coolants.
+The       resultant cracking and       porosity leads to quality assurance failure of these very expensive parts       in this final stage of aero-       engine manufacture.
+Prior to our research, the practice in use for E-beam welding of       aero-engine components was       either manual cleaning (up to 10 different steps) using chemicals and       abrasives or dipping the       components into a bath of concentrated HF (hydrofluoric acid) that is       highly corrosive and       hazardous, with chemical residuals sometimes becoming trapped (e.g.
+HF) in       the material [A].
+Our research has shown that laser cleaning offers great advantages       eliminating the use of       chemicals and allowing the process to be fully automated and over 20 times       faster [A].
+The new       technology allows precise control of the process, so that all contaminants       are removed, without       damage to the substrate surface.
+Pathways to Impact     The research work was carried out in collaboration with Rolls-Royce       (since 2003) and later (since       2009) with BAE Systems.
+The companies participated in all stages of the       R&amp;D (monthly review       meetings), provided the test materials, process requirements, welding and       diffusion bonding of       laser cleaned components, and testing of laser cleaned specimens and       components to industrial       standards [A,B].
+Rolls-Royce subsequently certified and implemented the       technology.
+BAE       Systems is also taking up the technology for diffusion bonding surface       preparation.
+This work was originally funded by Rolls-Royce (CASE studentship) and the       Northwest Science       Council (N0003200) with over &#163;1m.
+Following the successful application of       the technique at Rolls-       Royce since 2008, major funding from industry (Rolls-Royce, BAE Systems)       and EPSRC and TSB       of around &#163;2m was granted (SAMULET project) to further develop the laser       cleaning process for       diffusion bonding applications (2009-2013).
+Reach and Significance of the Impact     The impact of our research is demonstrated by its adoption and use by the       leading UK aerospace       company Rolls-Royce &#8212; globally the second largest manufacturer of       aero-engines.
+In addition BAE       Systems is also now adopting the technology.
+Rolls-Royce began introducing the laser cleaning technology, developed       through our research, for       E-beam welding of aero engine components in 2008.
+By May 2013, Rolls-Royce       had approved 24       different aero-engine components such as compressor drums in almost all       the current engine       families such as Trent 700, using the laser cleaning technology in the       manufacture of commercial       aero-engines [A].
+The technology has shown improved productivity and       reduced failure rate.
+The       first time right rate using chemical methods was 82-90% and has improved       significantly utilising our       new laser cleaning method.
+In his statement [A] the global process owner       for laser processes at       Rolls-Royce confirms "This automatic laser cleaning process has         replaced previous manual         chemical cleaning of parts for electron beam welding with significant         improvements in productivity         and first time right."
+The economic impacts are multiple including cost savings in reducing       scraps at this final stage of       the aero engine assembly, estimated at several millions of &#163; per year and       elimination of the use of       harmful chemicals and their disposal, estimated at a few &#163; million per       year.
+In 2013, a new in-process       monitoring system, developed at the University of Manchester, was       installed at Rolls-Royce       for the monitoring of the laser cleaning process [A].
+Following the successful use of laser cleaning of Ti alloys in welding,       the research has been further       developed (2009-2013) for diffusion bonding of a wide variety of aerospace       products.
+The diffusion       bonding of Trent 900 fan blades at Rolls-Royce, after laser cleaning, has       passed the quality       criteria.
+A modelling tool has been delivered to Rolls-Royce and BAE       Systems for laser cleaning       process evaluations.
+This tool has been successfully utilised by BAE       Systems to aid their decision-making       with regards to the installation of a laser cleaning system in the company       [B].
+As a result       the laser cleaning technology is now being commissioned by BAE Systems for       military aircraft       manufacture, with the diffusion process replacing chemical cleaning [B].

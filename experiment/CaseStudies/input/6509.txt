@@ -1,0 +1,32 @@
+     The Environmental Management for Agriculture software, developed in the       late 1990s, was the first true environmental management system for       farmers.
+Two key spin-off outputs, with a clear line back to EMA, have had       a significant impact in making data and information readily available to       agencies working in environmental protection or the farming industry,       nationally and internationally.
+1.
+The Online Pesticide Properties Database (PPDB)     The online Pesticide Properties Database (PPDB), launched in 2007,       introduced a single, globally available, comprehensive pesticide data       resource.
+Pesticide risk parameters had previously proven difficult to       collate, with data being scattered across organisations and publications,       often unreliable, and frequently commercially protected.
+Databases had       significant gaps, providing information only on more common substances,       and no resource included data on pesticide breakdown products, although       they were often significant for risk assessments.
+Project-specific       databases were developed for each university, governmental, NGO or       commercial research task: this was time-consuming, costly, and frequently       under-resourced.
+Data paucity and access to journals &#8212; a significant       problem in developing countries &#8212; also led to data quality concerns, and       inevitably affected risk assessments.
+PPDB therefore plugged an information gap, saved pesticide researchers       considerable time and funding bodies money, and provided much-needed       information on data quality.
+The harmonised dataset also allows for more       consistency in pesticide risk assessments.
+Access has increased exponentially since 2008, when 132,000 pages were       downloaded, rising to 989,000 in 2012 and expected to easily exceed 1       million in 2013.
+The database is used worldwide, but predominantly in       Europe, North and South America, Australia and India, by end users working       at, for example, pesticide manufacturers, agricultural consultancies and       universities.
+A random literature search for 2009 to February 2012 found       over 100 journal publications citing the PPDB as a main data source.
+It is       licensed for offline use to major organisations who protect and manage       natural resources, such as the US Geological Survey; the French Geological       Survey organisation BRGM; and pesticide companies including Bayer,       Monsanto and Syngenta.
+The Danish Environmental Protection Agency use the       PPDB as the key data source for calculating their national pesticide       impact indicator, which underpins their pesticide tax and farm advisory       systems.
+Waitrose Foods use a similar approach with the PPDB to inform       their global crop protection policy.
+The PPDB is globally acknowledged as possibly the most       comprehensive resource of its type.
+The eminent International Union of       Pure and Applied Chemistry (IUPAC), for example, endorses the database and       provides access to it via its own website, and a well-respected pesticide       scientist at the US Department of Agriculture has stated that the PPDB       `has become the best [pesticide] database available in the world' (see       section 5, `Institutional Corroboration').
+2.
+The ADLib Resource     Many British organisations such as Defra, Natural England, the Farmers       Union, the Environment Agency and ADAS produce guidance material for       farmers and their advisors, disseminating it chiefly via direct mailshot       and their websites.
+Farmers and their advisors must therefore actively       search for information from these sources, or be alerted to new and       relevant publications by a third party.
+By holding documents produced by these and other organisations in       electronic hyperlinked form, ADLib addressed this issue, becoming a       knowledge transfer service to the British agricultural industry and       quickly disseminating key and new information to end users.
+It underpins       Defra's online farming support services delivered by GOV.UK, a       government-funded website for information about government services that       provides access to key documents, forms, best practice information, etc.
+This service has over 17,000 registered users and, according to online       traffic analysis, many more that are unregistered.
+ADLib also provides the support material for the Agriculture and       Horticulture Development Board (AHDB) ihub, which offers free access to       climate change mitigation and adaptation advice for the UK farming       industry.
+Other organisations offer ADLib to their members: the Fertiliser       Advisers Certification and Training Scheme (FACTS), for example, provides       its 2,000-strong membership with access to fertiliser best-practice       support material and scheme-specific documentation.
+ADLib overcomes issues such as copyright, format variety, maintenance       costs and version management by bringing together previously scattered       information from government agencies and departments, as well as small       specialist organisations.
+It offers timely and targeted delivery of advice       to farmers and their advisors, saving them time and money when seeking       appropriate information, and ensuring they are kept up-to-date.
+In the       words of a Defra contact, `ADLib has significantly added to the user       experience of our web portal .
+.
+.
+[It] allows customers free-to-the-user       access to a wealth of specially tailored online information that would       require additional, extensive searches otherwise' (see section 5,       `Institutional Corroboration').

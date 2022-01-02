@@ -1,0 +1,39 @@
+     This case study focuses on two components of our live, visual, virtual       collaboration framework: the       first is a 3D Tool Kit helps which helps builders of `embodied worlds' to       use an existing technology       effectively; the second, FlashMeeting, is a new technology tool.
+The       unifying theme is the design of       social and learning spaces, live environments and live events that       facilitate new forms of social and       collaborative work and learning.
+Beneficiaries of our live, virtual collaboration programme have included       a wide range of groups at       all levels, from local organisations in the field (e.g.
+schools and       non-government organisations)       through to international schools, universities, research institutes (e.g.
+in the UK, Japan and the       USA) and international associations (e.g.
+the European Association of       Technology Enhanced       Learning).
+As a result of our `embodied social spaces' research, the live, virtual       collaboration toolkit has been       adopted (or adapted for local context) in many ways.
+For example, the       Japan Agency for Marine-Earth       Science and Technology used our event design toolkit guidelines when       re-designing the       information architecture, navigation and way finding in its virtual museum       concept in Second Life, a       3D virtual world (http://www.secondlife.com/).
+Public themed-tours supported by staff and       educators, and self-directed tours, have been designed to support marine       science learning in       collaborative 3D spaces for schools and higher education institutions.
+The       improved user       experience has made this museum into a world-leading showcase for       effective scientific curation       for STEM disciplines [5.1].
+Texas Wesleyan University used our guidelines in a genetics learning and       collaboration model for       K12 schools, which enabled it to re-design its 3D learning spaces to       support self-directed learning       [5.2].
+Vassar College focused on the navigation and way-finding elements       of the toolkit to improve       the designs of its Arts and Humanities 3D immersive learning spaces [5.3].
+Much research in this area is dominated by Second Life installations, but       our work is also deployed       in other embodied worlds.
+For example, in OpenSim, Liverpool University       has used all elements of       our kit to support the design and implementation of a bio-informatics       learning space [5.4].
+Our research in the design of 3D learning spaces and the pedagogical       implications, such as       student learning, engagement, sense of immersion and collaboration, has       created a new research       direction.
+It has led to initiatives by other researchers that involve       investigating the impact of       spaces and spatial practice in 3D virtual worlds on teaching and       collaborative learning in higher       education.
+The Wolfson Trust provided funding to design and develop a 3D virtual       Geology field trip as part of       the OpenScience Laboratory project (http://www.open.ac.uk/researchprojects/open-science/).
+The       experience can be used to prepare students for a real field trip, for       reflection after a real field trip,       or as a replacement for a real field trip to address mobility or other       constraints on participation in a       real field trip [5.5].
+From the collaborative video spaces research, the largest technical       deployment is `FlashMeeting',       one of our toolkit products (note it was being widely used in 2003 whereas       the basic 1:1 version of       Skype&#8482; was not in wide use until 2004 and not multi-party until 2010).
+This tool is still extensively       used today; indeed our user community tell us that it still has research       features that are highly       valued, e.g.
+its group, social, secure, trust, analytic and syndication       features.
+For example, one FM       server has been operated under license to the European Association of       Technology Enhanced       Learning (http://fm.ea-tel.eu) since       2007.
+It currently serves an active FM user community of over       60,000 worldwide, [5.6].
+The FM toolkit is primarily used by this       association to frame new forms of       business meeting, e.g.
+driven by an agenda, calendar and count-down timer.
+The East of England Broadband Consortium (since 2008) has deployed FM       into schools under       license, where it has supported more than 20,000 unique users in schools       or classes to facilitate       pan-classroom and outreach from school through live-video events:     `FlashMeeting is a powerful way for enabling teachers and students to       rethink classroom and       out-of-classroom events, connecting with schools in the region and all       over the world.
+Pupils       have had the unique experience of live virtual interviews with Charles       Darwin, Charles       Dickens and even Father Christmas.'
+[5.7]     UNISUL, a Brazilian University, used FM to create an event model that       allowed them to `scale up'       virtual viva-voce exams for some courses, as face-to-face vivas are very       expensive for them.
+Between 2008 and 2011, UNISUL conducted 3462 FM viva-voces for       masters-level business       studies in the remotest corners of Brazil.
+They have used this experience       to transform how they       think about effective quality assurance of remote students' assignments       today.
+In all these examples, the toolkit enables innovative `re-use' of event       recordings and innovative       analytic tools for reflection, syndication and sharing.
+This is cited by       many users as transforming       their working practices:     `My work is helping people care for their historic buildings [...] On a       typical day I might be       using a wooden plane to smooth a board by hand in the workshop and then in       the afternoon       connecting with a crew of tradespeople halfway across the country via       FlashMeeting, helping       them restore historic windows.
+With FlashMeeting live video conference I       can attract and help       a handful of people, however I feel the greater impact is the thousands of       people who find and       view the replays.'
+[5.7]     For other user groups, designing new `event types' in challenging social       spaces has been the key.
+For example, the Adult Cystic Fibrosis Centre at Papworth Hospital NHS       Foundation Trust has       used FM to successfully create social and medical online events with       sufferers in isolation wards,       [5.8].
+FlashMeeting also encourages environmental awareness, as each meeting (or       meeting series)       calculates the carbon saving associated with a virtual rather than a       physical event.
+Our oldest       single server alone has saved a minimum estimated 32m kilos of CO2       since 2003 (calculated from       `replaced physical events' with the most carbon efficient travel), [5.9].
+This environmental feature led Sunderland City Council to include FM       technologies in its       successful 2008 `Digital City Challenge' to enable the transparent       engagement of citizens with       council and community services.
+In 2009 Sunderland City Council deployed       three FM-based       servers under a commercial license for their region to deliver awareness       and collaboration       between local community support groups as diverse as Age Concern,       ex-miners support groups       and the Rape Crisis Centre [5.10].

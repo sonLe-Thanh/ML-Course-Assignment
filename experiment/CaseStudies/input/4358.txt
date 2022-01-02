@@ -1,0 +1,75 @@
+     Prior to PEPT, much of the understanding and optimisation of industrial       flow and mixing processes was performed via mathematical modelling without       the crucial ability to experimentally validate the models.
+PEPT is the only       existing technique capable of imagining complex flow, mixing and       comminution (grinding) processes within opaque industrial equipment.
+Optimisation of these leads to minimisation of processing time, enhanced       throughput and in the case of mineral processing a reduction of wear on       expensive plant.
+The revolutionary development of the PEPT has permitted both the       validation and further refinement of process modelling and has been widely       used within the industrial processing sector.
+Companies such as       AstraZeneca, Johnson Matthey Catalysts and Procter and Gamble have used       the technique for optimization of processes ranging from drug manufacture       to understanding washing machines and dishwashers &#8212; leading to cost and       efficiency savings.
+In the mineral sector, the technique has been used by       Xstrata and AngloAmerican Platinum to reduce wear of key components in       their extensive and expensive production plant.
+PEPT Impact at Birmingham     The following are a series of examples of the industrial impact of the       PEPT approach during the current REF census period (2008-2013) with the       PEPT facilities at Birmingham (descriptions adapted from text provided by       industrial partners):     Refinement of industrial polymer extrusion: PEPT has been used in       an investigation of polymer flow and mixing behaviour within industrial       twin-screw processes.
+The measurements were used to determine the       influence of key parameters such as machine design, process operation and       polymer system.
+The results were used to establish knowledge based machine       design criteria and operation guidelines, and to develop both new and       existing commercial simulation and modelling software &#8212; the results were       applied to eight different commercial case studies.
+This EU funded       project, called PEPTflow, ran until December 2009 and had a significant       impact on the competitiveness of SMEs throughout the plastic supply chain,       realising higher added value and improved products and services.
+The       project brought together 25 organisations (research groups, equipment       manufacturers and industrial users).
+[s1]     Pharmaceutical manufacture studies: Continuous processing has       recently emerged as an area of interest for the pharmaceutical industry,       where potential benefits include faster and lower cost of development,       increased process robustness, improved product yields and greater supply       chain flexibility.
+Roller compaction and twin screw wet granulation are       two important technologies which can be used to achieve continuous       granulation.
+The roller compaction process involves the compaction of fine       powders into ribbons or flakes that are subsequently milled to produce       granules.
+The milling process is critical for controlling the properties       of the granules, but an understanding of the governing design and       operating factors is still in its infancy.
+PEPT was employed to examine       the kinematics of roll compacted ribbons at various milling speeds using       both single tracer and two tracers approaches.
+The PEPT data revealed that       the mill speed plays an important role.
+At low mill speeds, the milling       process is dominated by cooperative motion of the ribbons and the blade,       with size reduction occurring primarily by abrasion.
+At high mill speeds,       ribbons move randomly with comminution by impact breakage.
+This research       was funded by AstraZeneca (description adapted from supporting statement       from AZ [s2]).
+Washing machine and dishwasher design: The work done on the       characterisation of internal processing in mechanical washing devices has       influenced the design of the cleaning formulations and has led to products       that minimise energy and water usage.
+Procter &amp; Gamble is one of the       largest R&amp;D employers' in the North East of England and over the last       10 years have developed a strong relationship with the University of       Birmingham &#8212; both with Chemical Engineering and Physics.
+Through the use       of PEPT they have been able to quantify mechanical forces within washing       machines, allowing them to understand mass transfer limitations in the       laundry washing process.
+These insights are leading to an optimisation of       P&amp;G detergent formulations and to significant improvements in energy       efficiency and environmental performance.
+The impact is significant; in       Europe alone, about 270 billion washing operations are performed annually,       each using about 20L of water and 1KWh of power.
+In order to realise the       full potential of their formulations in reducing the amount of water and       energy required during cleaning, careful characterisation of the phenomena       occurring during cleaning under real conditions is critical; only PEPT has       been able to provide this to-date.
+In the short term, the use of PEPT has       allowed P&amp;G to improve the methods used to evaluate performance of       formulations under real conditions, resulting in faster and cheaper       testing at their technical centres.
+(adapted from supporting statement       from P&amp;G [s3]).
+Dr Jose Vega, R&amp;D Director, Procter &amp; Gamble,       Brussels Innovation Centre observes "This has provided information         which could not have been obtained in any other known way today."
+Catalyst development: Johnson Matthey Catalysts have used PEPT to       understand and improve the behaviour of crystallisation plant used in a       wide range of processes, and in validating modelling codes widely used       within the company [s4].
+Most recently, PEPT has been used to validate a       DEM mathematical model of a Turbula&#174; mixer used for powder blending which       is now being applied in commercial applications.
+Johnson Matthey continues       to support PEPT through EngD and PhD projects.
+PEPT impact on mining and milling in South Africa using Birmingham         expertise     The PEPT technique developed at Birmingham has now been established at       iThemba Labs in Cape Town (2009).
+This facility was established with key       support by the Birmingham Group and mirrors Birmingham's facility.
+This       has now led to significant impact in the mining and milling sector (descriptions         adapted from supporting statement from the South African Centre for         Minerals Research [s5 and s6]).
+All Impact is in the period       (2009-2013).
+The commercial nature of many of these developments mean that       companies will not release details of direct economic benefit, but as an       example of the level; the annual revenue of companies such of       AngloAmerican Platinum exceeds &#163;1b [s7] and there has been significant       impact on the efficiency of their operations from this research.
+Comminution in platinum mining: Xstrata funded a project to study       the motion of grinding media in stirred mills used for minerals       comminution in platinum mining.
+The aim was to understand the reasons for       high wear rates in certain portions of the mill and come up with options       to address the causes.
+The study was able to provide insights into the       causes for high wear rates in some sections of the stirred mill and have       used the data to improve the life of the lining material in these mills.
+Here PEPT studies revealed for the first time that compaction of material       occurs in the first chamber of the mill leading to excessive wear in this       region.
+Performance of tumbling mills: This project was initially funded       by the South African Minerals to Metals Research Institute, SAMMRI.
+SAMMRI       was established by AngloAmerican, Lonmin, Impala, AngloGold Ashanti and       Exxaro to ensure the growth, sustainability and global competitiveness of       South African mining.
+The initial research was aimed at studying the       influence of different liner/lifter designs on the performance of tumbling       mills.
+The PEPT study provided insights on the influence of key design       variables on mill performance and the data used to test if the simulation       model being developed captured the actual characteristics of the mill.
+The       results have now attracted further follow-on funding from AngloAmerican.
+PEPT was used to study the transport of particles in the tumbling mill       with a view of isolating the important variables that can be optimised to       increase tumbling mill capacity while achieving a relatively fine product       size.
+The PEPT studies showed that when an intermediate grinding media       size is used the tumbling mill is able to process more material compared       to the smaller or bigger media.
+This insight was implemented on three       Anglo American Platinum plants and resulted in an increase in production       on two plants.
+It was not possible to quantify the influence of changing       the grinding media size on the third plant because they changed the shaft       where ore was being drawn from at the same time.
+AngloAmerican Platinum also funded a project to study the influence of       speed on utilisation of energy in tumbling mills, i.e.
+to establish the       optimum speed for various types of mills.
+A model was developed from the       PEPT measurements which showed that operating the mills at very high       speeds resulted in transferring energy to the charge (raw materials inside       the mills) more than once per revolution.
+The study showed that very low       speeds resulted in transferring energy to the charge less than once per       revolution.
+Having an energy transfer rate much lower than 1, resulted in       less breakage and a fine product is predominantly produced.
+Energy       transfer rates much higher than once per revolution resulted in high       capacity but very coarse product.
+The outcomes from this project have       assisted in most of the designs where the budget is not sufficient to       install variable speed drives on the mills.
+The model is used to predict       the optimum speed for the given conditions and a decision on the speed of       the fixed speed motor is taken.
+The size of the motor is an important       design consideration and being able to predict the optimum speed results       in significant savings on the capital costs for the plant.
+This model was       developed using data from PEPT experiments and calibrated against pilot       plant and industrial plant data.
+Based on this work AngloAmerican Platinum       has agreed to fund PEPT related projects on tumbling mills for another 5       years.
+The third project funded by AngloAmerican Platinum involved using PEPT to       develop a model for the transport of particulate materials in the       tumbling.
+Grinding in tumbling mills involve transport the material from       the inlet to discharge and out of the mill.
+This process controls the       capacity of the mill and there are no models in the literature than can be       used to predict the transport of particles in the tumbling mills.
+The       reason for not having reliable models for this important process was due       to the lack of a technique for measuring the flow of particulate materials       in opaque systems containing slurry and particles.
+Therefore, all models       were developed using many assumptions regarding the influence of slurry.
+PEPT has provided numerous insights regarding the important variables for       this important part of the grinding process.
+The insights have been       implemented on selected operating plants and the results presently look       encouraging and will lead to the optimisation of the throughput of the       mill and minimisation of cost and energy consumption.
+Optimisation of Ball Mill operation: AngloAmerican Platinum are       using PEPT to study the behaviour of charge and grinding media in       laboratory-scale ball mills in order to optimise operating conditions and       reduce energy consumption (typically comminution corresponds to 65-80% of       energy used in the mine-milling process).
+A simple model of mill operation       has been developed.
+To enable results obtained at laboratory scale to be       adapted to full scale plant, AngloAmerican Platinum has recently       instrumented its full scale mills with sensors for process       characterisation.
+"The ongoing support from the companies listed above         and the outcomes from the PEPT study is a clear indication that it is an         important tool in improving the understanding of comminution processes.
+The results from the projects listed above have also shown that the         information has already started contributing to resolving some         challenges encountered in Mineral processing comminution plants."
+Head of Comminution Research, Centre for Minerals Research, Cape Town.
+[s5]

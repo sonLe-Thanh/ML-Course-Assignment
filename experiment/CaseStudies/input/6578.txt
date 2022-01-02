@@ -1,0 +1,44 @@
+     Beneficiaries.
+There are two main groups of beneficiaries of the       research: firstly, investment managers; and, secondly (and especially)       central bankers and other regulators.
+Nature of the impact.
+Firstly, the research has had an impact on       investment managers because it has demonstrated the additional value they       can obtain by increasing the global diversification of their portfolios.
+In response to this growing awareness over the past decade, investment       portfolios held by pension funds and other investors have become greatly       more diversified.
+Secondly, central banks and regulators have been significantly impacted       because home bias determines the need for regulation and intervention,       and the kind of regulation and intervention that are optimal.
+For example,       the European Central Bank needs to account for the fact that most banks       hold portfolios that are heavily concentrated on their own countries'       government debt.
+Hence default, write-downs, and price falls caused by       market concerns about sovereign creditworthiness have a magnified impact.
+The research has very wide reach because all central bankers need to take       account of international linkages in designing regulations and       interventions.
+Impact process (i): the academic channel.
+The impact flows through       the research of other academics.
+The reason for this is that the       Cooper-Kaplanis (1994) and Portes-Rey (2005; originally 1998) papers are       foundation pieces: jointly they have received almost 2000 "google scholar"       cites.
+These papers have substantially changed the academic literature;       this has, indirectly as well as directly (there is specific evidence for       direct impact) changed the understanding of the impact beneficiaries;       and this new understanding has resulted in the impact.
+Cooper and Kaplanis       (1994) was the first to test inflation hedging as the explanation for home       bias, and also developed a method for inverting portfolio holdings to       measure the implicit opportunity cost of home bias.
+Portes and Rey (2005;       1998) was the first empirical explanation for the equity home bias and the       first to use information variables to test information flows as the       explanation.
+As further evidence of the reach of Portes-Rey, Yohei and van Wincoop       ("Gravity in International Finance," Journal of International Economics,       2012) said: "The past decade has witnessed an explosion of papers       estimating gravity equations for cross-border financial holdings.
+This       used to be the territory of the international trade literature .
+.
+.
+at       least three factors are driving this interest in estimating gravity       equations applied to international finance.
+One is the discovery that       gravity equations for international asset trade explain the data at least       as well as for goods trade.
+The contribution by Portes and Rey (2005)         is central in this regard.
+.
+.
+.
+there is a wealth of potential       policy questions that can be addressed through the estimation of gravity       equations .
+.
+. "
+Impact process (ii): the final impact on beneficiaries.
+The work       has important implications for practitioners who take crucial decisions       in international portfolio investment and international corporate finance.
+There are two specific impacts: it has contributed to greater       international diversification by portfolio managers; and it changes the       way central bankers design regulations and interventions.
+The significance of the research for investment managers is reflected in       the switch to more diversified portfolios.
+This impact has occurred       through the channel of practitioners making direct use of their research       articles (evidence is provided in the corroboration sources) and also by       the research filtering into other researchers' work.
+As an illustration, a senior investment manager is quoted in the       Financial Times of June 12, 2011 on the growing awareness of the costs of       home bias: "Alan Brown, chief investment officer with Schroders, contends       that intellectually, it is almost impossible to justify favouring your       country's stock market.
+`Its hard to explain why you would want to invest       in such a narrow opportunity set," he says.
+He thinks home bias is far       less prevalent than it was a decade or two ago .
+.
+. '
+The use of gravity models in international finance has become a       significant tool used by central bankers including staff at the Federal       Reserve Board and Banks, the ECB, and the IMF.
+For example, Hellerstein       and Ryan (NY Fed) used a gravity model to estimate US dollar cash flows; a       paper by the principal economist at the ECB Directorate General       International and two colleagues (Chit&#184;u, Eichengreen, and Mehl) used a       gravity model to explain foreign bond holdings; and the IMF research       bulletin contains an article explaining how gravity models are used to       explain foreign direct investment flows.
+(References are provided in the       corroboration sources.)
+Although investors responded by diversifying investments more than they       used to, home bias still exists and affects the way central bankers and       other regulators form policy.
+For example, Jens Weidmann, president of the       Bundesbank, writing in the Financial Times, described how banks "invest in       government bonds and the `home bias' of buying the local sovereign's debt       has increased during the crisis.
+Because such debt can usually be lodged       as collateral at the ECB in return for cheap funding, exposure to       government bonds of countries like Spain and Italy is even more attractive       since the debt now also yields more."

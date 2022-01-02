@@ -1,0 +1,39 @@
+     In summary, this study demonstrates the economic impact of Aston's       research on FBG sensing and low-cost fibre grating interrogation systems       through the generation and safeguarding of jobs in the UK at Smart Fibers,       Moog Insensys, Schlumberger Oil and Gas and Astasense.
+The research has       also had an environmental impact by making structures safer and more       efficient through the cost effect integration of smart technology.
+To understand how this relates to Aston University, it is necessary to       look further back and, in doing so, highlight additional commercial       activities that have a connection to Aston research.
+Aston was pivotal in       the development of this technology in the UK through continued support of       companies seeking to explore commercial opportunities in this area.
+The       impact over the period of interest, shown on the right of the figure, is       as a result of a long period of working with a number of companies       enabling technology transfer in this area.
+It also results from previous       spin-outs and IP generation.
+A timeline charting some key events       surrounding this work is shown below:  Figure 1: schematic tracing the complex relationship between commercial activity in FBG sensing and Aston research (the dates of company formations and key events are shown in brackets).
+Aston was one of the first universities in the world to work on FBG       sensing [1].
+An early collaboration with Carbospars and BAE Systems       resulted in the formation of Smart Fibres [A].
+The FBG technology       developed was featured on Tomorrow's World in 1999 raising the profile of       the technology and company and Smart Fibres has continued to build on this       FBG sensing expertise and is widely respected in the industry [A].
+In         2012, this company employed 23 people in the UK and had a turnover of         &#163;1.5 million.
+The company works in structural health monitoring in       areas such as oil and gas, marine, aerospace, civil engineering, medical       and sports.
+The technology enables the safe operation of equipment and         structures.
+Indigo Photonics Ltd was formed as an Aston spin-out by Dr Sugden, along       with Professors Bennion and Zhang, in May 2001.
+Collaborative research       resulted in the filing of the key sensor interrogator patent in December       2002 [3.4, 3.5, 5B].
+Following an intense period of collaborative work,       Insensys Ltd acquired Indigo Photonics in August 2003 [C] and continued to       develop and commercialise this sensor technology [D].
+About the sale Mike       Sibson of 3i said "We co-founded Indigo Photonics with the management team       and Aston University, and we have been active in delivering the benefits       of our global network as it has grown and developed its technology.
+The       acquisition by Insensys will make a powerful combination..." [C].
+The       technological advantages that the system had, allowing it to be used       effectively in vibrating structures such as wind turbines, gave the       company a significant technical advantage over competitors.
+Of the       technology Robert Brogue later said "this new technique allows sensor       costs to be reduced dramatically and also yields operational benefits"       [D].
+Insensys was split into three business units &#8212; Oil &amp; Gas, Wind       Energy [E] and Aerospace and two parts continue to be a significant UK       employer.
+In May 2007, Schlumberger (the world's leading supplier of technology,       integrated project management and information solutions to customers       working in the oil and gas industry) announced the purchase for an       undisclosed amount of the Oil &amp; Gas division of Insensys, recognising       the unique nature of its technology [F].
+The technology is still in use       monitoring the structure integrity of oil risers.
+This was followed by the acquisition of the Wind division of Insensys by       US company Moog (a worldwide designer, manufacturer, and integrator of       precision motion control products and systems) in November 2009 for       US$15.7 million [G].
+Moog Insensys employs ~23 people in the UK working in       the wind turbine technology area (June 2013).
+The impact is therefore         in their continued business and employment.
+The technology developed       during Dr Lloyd's PhD is a key part of their product portfolio.
+It is       estimated that a significant proportion of the &#163;30 million revenue that       the business has generated would have been unlikely to have happened       without the technology since it offers lower cost, greater flexibility and       inherent increased reliability than competitors [H].
+Combined with the       commercial knowledge and composite expertise from the company it provided       a highly competitive offering.
+Moog was awarded the Queen's Award for       Enterprise in 2010 due to contributions to UK Export [J] after selling       over 800 interrogation systems in two years.
+In this sector the technology [5] has an environmental impact, especially       in the safe running of large wind turbines where the health of the       structures can be monitored during operation and active pitch control of       the blades can be implemented.
+It enables the efficiency of the turbines       to be optimised and ensures they operate within given safety parameters       [I].
+This work was enabled by the development of the compact sensor       interrogator since, unlike the competitors; the device was low cost, small       and contained no moving parts.
+A further company, Astasense Ltd, was formed in 2007 by Dr Sugden and       Professors Webb, Zhang and Bennion.
+The company originally offered       consultancy services, but was invited to join an EU Framework 7 project       PHOSFOS.
+The company has generated further impact by employing a       total of 14 researchers since 2008, and in 2013 launching a fibre         interrogator system and polymer fibre FBGs based on the research at       Aston.
+This work was included in the British Science Festival exhibition       in 2012 bringing the technology to the public.
+Astasense (07/13)       employs 3 people full time in the UK working in product development in       optical sensing directly based on expertise derived from Aston University,       the oil and gas sector is the main end user for current development work.
+Webb and Sugden are also active participants in EU COST Action TD1001:       Novel and Reliable Optical Fibre Sensor Systems for Future Security and       Safety Applications (OFSeSa) where one of the key aims is to further       support the commercial development of this technology.

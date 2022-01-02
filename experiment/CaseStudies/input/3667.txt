@@ -1,0 +1,38 @@
+     Between March 2010 and April 2011, the 15 years of research in       object-based and semi-structured databases underpinned a Knowledge       Transfer Project with Atlantic Geomatics (UK) Ltd (AGUK, Cumbria), to       develop a solution for management of addresses and geographic data (GD) on       behalf of the Government of Gibraltar (GoG).
+Based on this research this       project:     i.
+Devised a standard address format (SAF) for Gibraltar, introduced       uniform address structure and postcodes, which has incorporated "Data       Specification on Addresses" guidelines of the EU INSPIRE Directive (http://inspire.jrc.ec.europa.eu/).
+ii.
+Devised a process for converting existing address lists into the       proposed SAF.
+iii.
+Devised a strategy for obtaining GD for each address.
+iv.
+Contributed to the development of a pilot version of a       spatially-based official address register (OAR).
+Beneficiaries     The beneficiaries include AGUK who secured a contract safeguarding jobs       and opening new international markets, GoG who developed a spatially-based       official address register (OAR) incorporating geographical information,       which upon adoption by GoG will replace manual, multiple and inconsistent       address lists and the people of Gibraltar who will receive enhanced       services through a centrally-managed OAR.
+Impact Achieved and Pipelined     The four key impacts from the application of our research are detailed       below.
+1.
+Practice Change: Previously, GoG managed varied amounts       of address data, which served only minimal operational functions.
+Inefficient processes, functional redundancies, poor communication, and       inadequate data management had resulted in duplication of effort,       inefficient data update and resource usage.
+While many departments had       pursued automation, this was done in a fragmented manner without standards       or consistency resulting in multiple data storage, with no integration       among them.
+The pilot project (January-2011) tackled the above issues and produced a       consultancy report (Source vii), which was accepted by GoG (March-2011),       and led to a full-scale Geographical Information System (GIS) project with       a complete OAR.
+AGUK entered into a 15-month contract (worth &#163;230k) with       GoG in October-2011 (Source v).
+The project has produced a database of all       addresses in Gibraltar which, when adopted by the GoG through legislation,       will trigger the process of a major practice change in Gibraltar,       replacing 36 different address lists with a single spatial OAR providing       GD and postcodes for all addresses in Gibraltar.
+2.
+Expected Enhanced Services: Gibraltar's public services'       (post office, telecoms, transportation, utilities, ambulance, fire/rescue,       etc) separate address lists and personalised formats created difficulties       and barriers to inter-services communication, and for e-businesses to       determine addresses for GoG delivery services, emergency and rescues       operations.
+The AGUK project (a natural extension of the KTP project) has       delivered the spatial OAR to the GoG for approval and adoption.
+The       benefits of the OAR for GoG and its people include improved (correct and       timely) delivery of various services (e.g., mail, government, emergency,       health, utilities) (Sources ii, iii and iv).
+3.
+Economy and Commercial: The research outlined in Section       2 impacted on AGUK.
+AGUK's access to research and knowledge transfer on       database systems and data cleansing provided them with new technical       skills which have enabled them to take on the development of advanced IT       applications to map and record relationship between cities, areas,       buildings, locations and street names in response to demand from GoG.
+This       new knowledge provided an opportunity for AGUK to grow beyond their core       business.
+AGUK now aim to tap into new and lucrative markets in       collaboration with Northumbria, e.g., pursuing other countries, such as       Pakistan and Libya, for delivery of GIS solutions like the one deployed in       Gibraltar.
+Dr Ali has visited Pakistan in December 2012 and April 2013       where he met several people and gave an invited talk on GIS and GoG-like       solutions at a national conference (Abasyn University, Peshawar, April       2013).
+This generated enquiries from a number of attendees interested in       pursuing projects similar to that of GoG.
+Upon implementation, Gibraltar       will benefit from uniform and standard addressing and mapping to enable       delivery of enhanced services.
+Evidence/indicators: AGUK's contract with GoG since October 2011         (Source v).
+The presence in Gibraltar provides AGUK with business         opportunities/activities (e.g.
+surveying underground electricity cable         mapping) (Source iv).
+4.
+Transfer of Knowledge: Northumbria University research       and academic support during the     KTP project provided the necessary hands-on experience to translate       research into development of a reusable solution.
+This enhanced the       technical capability of AGUK to proceed independently with the full-scale       development project for GoG (Source iv).
+Evidence/indicators: An AGUK employee gained database design and         conversion skills through his collaboration with the Associate while         capturing GD in Gibraltar (Source iv).
+Date of impact: (June-2010-January-2011).

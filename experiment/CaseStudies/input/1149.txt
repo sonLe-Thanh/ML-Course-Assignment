@@ -1,0 +1,41 @@
+     [bracketed numbers refer to papers listed in section 3 and         corroborated sources in section 5]     The Re-Os and Pt/Pd methodology has been commissioned through focused       industry-based research projects at Durham by BP, Statoil and Rio Tinto to       establish geological ages and source information for petroleum and       sulphide mineralization.
+BP and Statoil conducted proprietary Re-Os and       PGE research concerning global petroleum systems with particular emphasis       on offshore Angola and Faroes-West of Shetland (F-WoS) fields because it       can be used to establish a chronological framework for a petroleum system.
+This data has provided critical data to evaluate exploration models (see       below).
+In the mineral exploration sector, Rio Tinto needed to establish       if their preliminary stage investigations had located economic or sub-       economic copper mineralization.
+The specific impacts detailed below are,       in summary, that the Re-Os and Pt/Pd data has permitted petroleum and       mineral companies to devise accurate resource estimates and exploration       programmes and save exploration expenditure and thus reduce any       industry-related environmental impact.
+Petroleum Sector     For Statoil and BP, Re-Os and Pt-Pd research was used to underpin       exploration frameworks in four areas:     [A] Oil geochronology: In the F-WoS basin, Re-Os research       provided evidence that oil generation was pulsed and originated from the       same source rock strata between 70 and 40 Ma [3].
+This finding       contradicted existing models that invoked a single Cretaceous age (~80Ma)       of generation and a complex history of oil migration.
+Given the greater       age assumed by these models, they incorrectly predicted that the       present-day basin plays should be dominated by gas.
+The multiple younger       generation ages identified from the Re-Os data presented Statoil with a       solution to this conundrum: the heat flow values used in their basin       modelling could simply be reduced leading to an oil-dominated system in       the F-WoS basin.
+Oil is economically easier and more environmentally       friendly to develop than gas.
+For example, the development of the F-WoS       region would cost ~$9B for oil vs $27B for gas.
+If the resource had been       gas, then the F-WoS basin would have been considered uneconomic and       abandoned.
+The basin has ~17-20% of current UK resources at ~3.5 BBOE       recoverable worth ~&#163;350B.
+The ability to predict the chance of oil       vs gas using Re-Os geochronology [1-3] has therefore been critical to       Statoil's economic assessments of future oil exploration and extraction       development in the F- WoS region.
+Testimony from a Leading Geoscientist at       Statoil states: 'This is a significant result in that it has a major         impact on future exploration activity, particularly on evaluating trap         charge and hydrocarbon type (oil vs gas).
+Accurate prediction of         hydrocarbon type impringes on pre-drill economic assessments' [8].
+[B] Oil-source correlation [2-3]: the identification of the       correct source rock of migrated hydrocarbons is essential for all oil       companies exploring in the subsurface.
+Re-Os and PGE are inorganic       elements that are resistant to biodegradation.
+The elements are       concentrated in source rocks and oils, and yield radiometric dates.
+This       property allowed BP to directly date the source rocks from which oils were       generated from plays located in Angola and the North Sea.
+Such information       has helped to reduce exploration risk and improve capital efficiency,       e.g., avoiding one dry hole reduces costs by $70M.
+[C] Shale gas play chemostratigraphy and geochronology:       determining the absolute age of source rocks and stratigraphic correlation       is often challenging due to a lack of reliable biostratigraphy.
+Accurate       stratigraphic correlation is essential in shale gas plays in order to       define the 'staying in zone', i.e.
+keeping the horizontal well in the best       horizon for gas/oil production.
+Re-Os and PGE techniques [2-3] are proving       a very valuable technique for such correlation purposes, e.g., Angola (BP)       [7].
+[D] Oil field compartmentalisation: Before production data is       available, it is critical to design the optimum extraction plan for an oil       reservoir.
+Establishing compartmentalisation from organic geochemistry       data alone is challenging because petroleum-related fluids can have a very       similar organic composition.
+However, combining organic with PGE and Re-Os       geochemistry [1-3], the detection of fluid compartments is more readily       achieved, allowing a better idea of the number of wells required and their       optimal positions to exploit an oil field.
+This has saved BP $10'sM of       well development costs [7].
+Mineral Sector     Porphyry copper-systems host and supply ~75% of the world's copper and       are an important target for major mining companies (e.g., Rio Tinto).
+A       metallogenic belt typically comprises several porphyry systems that formed       at different geological times, e.g., 10 to 250 Ma.
+Commonly the most       economic porphyry systems form during similar time periods in the       geological evolution of a metallogenic belt.
+Thus, the age of copper       porphyry mineralization in magmatic arcs is of paramount importance in       determining the likely economic potential resource of a porphyry system       located during preliminary exploration.
+Molybdenite located near a regional fault zone in the Andes was sampled by       Rio Tinto for Re- Os geochronology.
+The fault juxtaposes two geological       terranes of different age: Permian- Triassic and Tertiary.
+For the       exploration programme, it was necessary to know the age of the       mineralization to quickly assess the likely value of the exploration       target potential prior to an extensive drilling programme.
+The Re-Os       molybdenite age obtained by the Durham Group [3- 6] was Triassic and as a       direct result of the Re-Os age the exploration was abandoned.
+The senior       geologist testimony states, 'In the Andes, Triassic porphyry systems         are known to be sub-economic for major mining companies (such as Rio       Tinto).
+As a consequence, this target was dismissed' [9].
+The Re-Os       dating resulted in saving the company approximately US$300,000 in       drilling, rock geochemistry and employee-related costs and avoided       additional environmental impact through the mining exploration programme.
+As a result, the company was able to allocate resources to other projects       with greater economic potential [9].

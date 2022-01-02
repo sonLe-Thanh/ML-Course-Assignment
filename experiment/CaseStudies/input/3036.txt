@@ -1,0 +1,28 @@
+     Context     Fire resistance is one of the most important safety requirements in       buildings and is covered by legislation.
+Until recently, designing for       structural safety in fire was predominately based on simple       "deemed-to-satisfy" prescriptive methods presented in supporting documents       to the UK Regulations.
+Following such prescriptive rules adds 20 to 40%       unnecessary fire protection cost to steel-framed buildings.
+Since the       majority (over 70%) of multi-storey buildings in the UK are constructed       using steel-framed structures the unnecessary cost in terms of materials       and labour is significant within the built environment.
+Our experimental and theoretical research, leading to the Bailey-Method,       enabled the construction industry to finally address the use of       unnecessary protection costs ensuring that protection to the structure is       only applied to areas where it is needed.
+In addition, our research has       led to a further design method for concrete filled tubular sections, where       protection is safely eliminated altogether.
+Pathways to Impact     Our research has been presented at leading conferences, at professional       seminars, dedicated CPD courses and published in leading journals.
+We have       developed practical design guides and software to promote the methods       based on our research.
+We developed the One-Stop-Shop dedicated web-site to Structural Fire       Engineering (www.mace.manchester.ac.uk/project/research/structures/strucfire/)       to promote performance-based methods to practical designers.
+This website       was developed by Manchester with contributions from DTi (now TSB), TATA       Steel, The Concrete Centre, Pilkington, Arup, and Buro-Happold.
+It offers       authoritative and impartial advice together with training materials,       attracting over 590,000 visitors within the REF period.
+Reach and Significance of the Impact     a) Bailey-Method.
+The method has been implemented by a number of       organisations, for example:     i) ArcelorMittal has presented the Bailey-Method in a number of design       guides with 2500 copies distributed to companies in over 20 countries and       incorporated it into their MACS+ design software which is available in 17       languages.
+The method was deployed in: the: BOBST building (Switzerland,       2010); ArcelorMittal Steel Centre (Belgium, 2008); EVS Building (Belgium,       2008); Geric Commercial Centre in France (2013); and the BNP Bank Tower in       France (2013) [A].
+Other companies have used the Bailey-Method on projects between 2008 and       2013 including West Cheshire College Ellesmere Port (2008) saving &#163;35k,       Aquinas College Stockport (2008) saving &#163;40k, and Derby Riverlights (2009)       saving &#163;65k [B].
+Our survey of some of the UK's over 30 specialist Structural Fire       Engineering consultants indicates they use the Bailey-Method on about two       projects each year.
+The typical saving per building is &#163;60k [C].
+This       gives a total saving of over &#163;20m over the REF period [D].
+Prof Bailey has       provided expert input to following iconic buildings in London       (2008-2013,): The Shard; The Pinnacle; Heron Tower; Leadenhall; 8-10       Moorgate; and 35 Basinghall Street; [E] [F]     b) Design of concrete filled tubular sections using our software         FIRESOFT.
+Our fire resistant design method for concrete filled tubular sections has       been implemented in the FIRESOFT software package that we have developed       for TATA Steel.
+This software has been released to the general structural       engineering design profession.
+FIRESOFT software and the associated       quality assurance document have the British Standard status of Non       Contradictory Complementary Information in the UK [G].
+This software has       recently been used by TATA Steel Tubes in the design of Broadgate Exchange       in London (2012) and Bervis Marks in London (2012).
+[H]     International reach and significance     Bailey continues to be retained as an Expert Witness investigating the       collapse of World Trade Centre building 7, a 47-storey building that       collapsed on September 11th 2001 following the collapse of WTC1 and WTC2       due to impact by airplanes.
+[I].
+Bailey was the principal author of a Concrete Centre design guide on       "Performance of Concrete Structures in Fire" (Bailey, C.G.
+and Khoury,       G.A., ISBN 9781904818830).
+Wang has been invited to join the British Standards Institution Committee       B/525/4 and to represent the UK in the Eurocode Fire Safety of Composite       Structures Evolution Group that oversees the development of the next       generation of Eurocodes [J].

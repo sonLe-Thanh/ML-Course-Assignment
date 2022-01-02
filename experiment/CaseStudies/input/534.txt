@@ -1,0 +1,33 @@
+     Our research in acoustics has made impact through three main routes:       formation of new       International and European Standards; guidance to industry; and take-up by       test laboratories.
+Structure-borne sound power from building machinery       Professor Gibbs is a main contributor to working group CEN/TC126/WG7       writing European       Standards concerning structure-borne sound power input from machinery into       building structures       [Corroboration source No.
+1].
+The working group comprises scientists, test       laboratories and       manufacturers of domestic appliances, water services and mechanical       installations.
+Research at       Liverpool on the reception plate method of measuring vibrating machines       [ref 5] formed the basis       of the European Standard, EN 15657-1:2009, a laboratory method for       measuring mechanical       installations in heavyweight buildings.
+The measurement method formed the       basis of prediction       methods described in the European Standard EN 12354-5:2009 (Annex D) on       the prediction of the       noise in buildings due to vibrating mechanical services.
+Manufacturers of       heating, ventilation and       transportation (e.g.
+lifts) systems, and domestic appliances can now       measure their products in       laboratories and estimate if they will comply with noise limits when       installed in buildings.
+Test rigs       based on this research have been constructed in approximately ten       laboratories across Europe       and manufacturers are currently using the test data for product       development.
+During this period the       research received EPSRC funding (grant period 2006-2009), and recently was       supported by a       major manufacturer, the Baxi Group (EPSRC grant 2010-2013).
+As a result of       this collaboration,       Baxi have been able to improve installation procedures to reduce noise       from its new generation of       domestic combined heating and power (CHP) units [Corroboration source       No.3].
+The successful completion of EN 15657-1:2009 prompted a request for       further work relevant to the       development of the new generation of sustainable building types,       particularly timber-frame and       timber-composite multi-occupancy dwellings.
+These buildings are likely to       be even more heavily       mechanically serviced than traditional buildings but they are inherently       less able to resist noise       transmission.
+This further work began in 2009 with the research at       Liverpool providing the main       impetus [refs 4,5] and Professor Gibbs is currently co-authoring a new       European Standard, EN       15657-2, with Michel Villot of CSTB [Corroboration source No.
+1].
+The underlying research by Professor Gibbs is also feeding into the       development of R&amp;D test       protocols for the qualification of vibrating components in aircraft, on       which he is currently       collaborating with Boeing (USA) [Corroboration source No.4].
+Sound insulation       Dr Hopkins has significant influence on Standardisation in building       acoustics.
+In 2009 Dr Hopkins       was appointed Chair of the British Standards committee on building       acoustics (EH/1/6).
+Due to his       research expertise on flanking transmission in buildings, he was appointed       Convenor of European       and International Standards groups on the measurement of flanking       transmission of building       elements (CEN/TC126/WG6 and ISO/TC43/SC2/WG17) in 2009 and 2010.
+Due to       his recent       research on the measurement of sound insulation, he was voted Convenor of       three International       Standards groups on field measurement of sound insulation in buildings       (ISO/TC43/SC2/WG18       Project Groups 5, 6 and 7) in 2009.
+In 2010, four new International       standards were published on       sound insulation measurement of building elements, which all reference the       research monograph       on sound insulation that was sole-authored by Dr Hopkins as a key text       [Hopkins, 2007; ref.
+3].
+In 2009, Dr Hopkins was Head of the UK Delegation to the ISO/TC43/SC2       plenary session on       building acoustics in South Korea.
+He prepared and presented the UK       proposal to revise all four       International Standards on field sound insulation measurement, due to       demands from the UK       acoustic consultancy industry.
+This drew upon his recent research on the       efficacy of manual-scanning measurements for sound pressure levels [Hopkins, 2011, ref.
+6]       and low-frequency       sound insulation measurements to tackle issues relating to the poor       acoustic performance of       timber-frame buildings.
+He was subsequently appointed Convenor of the       project group to revise       these Standards.
+His research forms the basis for three new International       Standards (ISO 16283       Parts 1, 2 and 3), on the field measurement of sound insulation in       buildings, with Part 1 now in its       final stage [Corroboration source No.
+6] and Part 2 now at the penultimate       stage [Corroboration       source No.7].
+Building regulations in 24 European countries refer to the current       versions of the field       measurement Standards and they will automatically adopt the new ISO 16283       series of Standards       that will replace them.
+These Standards are essential to check that the       required level of sound       insulation is achieved in buildings, primarily in dwellings, for       compliance with National Building       Regulations.
+They are particularly important for the UK construction       industry as there are       approximately 35,000 field sound insulation tests per annum, providing a       direct income of       approximately &#163;10M per annum for acoustic consultants.
+This is in addition       to income of       approximately &#163;53M that UK consultants earn using these Standards in       building acoustics.

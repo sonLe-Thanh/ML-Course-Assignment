@@ -1,0 +1,28 @@
+     Improvements in livestock production are the result of selection       practised by breeders who aim to select and breed from the "best"       individuals.
+Before selection decisions can be made, an accurate genetic       evaluation of the animal must take place.
+In the dairy cattle industry,       genetic evaluations take place three times per year and the results are       used by breeding companies and by farmers to improve the genetic merit of       the national herd.
+The techniques established by UoE researchers for routine genetic       evaluations for dairy herd lifespan in the UK [1] allowed farmers for the       first time to select for both longevity and milk production.
+The inclusion       of breeding values for lifespan gives improved selection decision; before       this, dairy farmers selected only for high production, which had negative       impacts on cow health and welfare and thus on profitability.
+This innovation was the first stage in development of the Profitable       Lifetime Index (PLI), a widely-used tool provided by DairyCo (a       levy-funded, not-for-profit organisation working on behalf of Britain's       dairy farmers) which is proven to relate to actual profitability on the       farm.
+The PLI is made up of the traits most strongly linked to       profitability and identifies bulls that pass these traits onto their       daughters.
+Since its introduction the PLI has been updated a number of       times building on the original production and lifespan parameters which       were produced in collaboration between Brotherstone and Hill providing the       genetic parameters and SRUC colleagues providing the economic analyses       [1-4].
+Updating has incorporated lameness [5] and fertility [6].
+The       traits now included in the PLI are production (milk yield, fat and protein       composition of milk), lifespan, type traits (udder conformation and       locomotion), fertility, and somatic cell counts [a,b].
+The UoE research by       Brotherstone described above has provided the underlying parameters and       genetic indices for production traits (through the UK Test Day Model)       [3,4] and has contributed substantially to the lifespan [1,2], fertility       [2,6], and the locomotion type traits [5] that are used in genetic       evaluation to derive the PLI for UK dairy cattle.
+The UK TDM provides the Production component of the PLI [b],       which accounts for around 45% of the weighting given to the different       traits included in the PLI.
+The UK TDM has dramatically improved genetic       evaluations for milk and its components by allowing data to be adjusted       for herd management and environmental effects that change over time, and       by accounting for genetic differences in the shape of the lactation curve.
+The UK moved to this model for the calculation of genetic indexes for       production in 2005 and the impact has been felt throughout the assessment       period [b].
+Milk yields have increased as a result of improved selection       utilising TDM assessment: 15% higher per cow per annum in 2011/12 compared       to 2003/4; the increase in milk yield in Holsteins from 1980 to 2012 is       approaching 60%, with improved genetic selection estimated to have       accounted for around half of this improvement [b,c] The multivariate       system for assessing the fat and protein content of milk allows the       identification of the best cattle to breed depending on the type of milk       the offspring would produce.
+So, cheesemakers desire cows bred to produce       milk with a high fat and protein content whereas milk producers desire       cows bred to produce high volumes of milk with less emphasis on content.
+Improved genetic analysis for milk production using the TDM therefore also       increases the efficiency and profitability of specialist producers.
+Genetic evaluation systems are vital for the efficiency and       competitiveness of the UK livestock industry.
+The benefits from genetic       progress in livestock populations are well documented.
+For example Moran et         al.
+[d] showed that animal genetic improvement is expected to       deliver public good rates of return between 11% and 18%, far in excess of       the recommended Treasury rate of return for public investment (3.5%).
+Total benefit from dairy cattle genetic improvement in the UK from 1980 to       2009 has been calculated as &#163;2.42 Billion; the introduction of the new TDM       in 2005 and improved PLI as a result of UoE research suggest such economic       improvements would be sustained or accelerated, equating to &#163;440M over the       REF period [e].
+The benefits of genetic evaluation also extend into environmental impact.
+Jones et al [f] showed that past selection on production traits in       UK livestock has resulted in a decrease in the livestock population       through higher productivity per cow, and hence an average 1.4% per year       reduction in greenhouse gas production per unit of food produced.
+In       addition, increased longevity and improved fertility through better       breeding selection reduces the number of replacement females which need to       be reared (e.g.
+a 2% fall in the size of the national herd was recorded       between 2010/11 and 2011/12 [c]), and thus results in reduced greenhouse       gas emissions.
+Data on emissions for more recent periods than the Jones et         al.
+evaluation are not available but this environmental benefit will       have continued during the impact census period.

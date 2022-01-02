@@ -1,0 +1,42 @@
+     The TrOWL system, incorporating the Quill and REL reasoners and the       Aberdeen Profile Checker, has had important impacts on practitioners         and professional services by enabling the approval of the World Wide       Web Consortium (W3C) standards OWL 2 and SPARQL 1.1.
+Jeff       Pan was a founding member of the OWL 2 working group (the developers of       the OWL 2 standard) in 2007, and continued to be an active participant of       this group through to it being established as a standard (2009).
+(Note       that minor revisions have subsequently been made to ensure consistency       across W3C standards.)
+Further, Jeff Pan acted as reviewer of the SPARQL       1.1 standard.
+Within the W3C, standards are referred to as       `Recommendations'.
+Before this, they go through the `Candidate       Recommendation' phase.
+According to W3C, "[t]he goal of the Candidate       Recommendation (CR) phase is to demonstrate the existence of multiple       interoperable and practically useful [...] systems."
+For a Candidate       Recommendation (CR) to become a W3C Recommendation (standard), there must       be multiple, independent implementations that pass specified test cases.
+This is a time-limited phase (45 days in the case of OWL 2) and requires       prompt input from the community.
+The REL and Quill components of TrOWL       were among the first systems to support the `Profiles' of OWL 2 [S6].
+These tests include both reasoning (in which REL and Quill have       contributed to a successful candidate recommendation phase) and ontology       profile checking (in which the Aberdeen Profile Checker was the primary       contributor).
+The Aberdeen Profile Checker is one of only two syntax       constraints implementations for OWL 2.
+REL is one of the 3 implementations       passing the OWL 2 EL object property chain test.
+Quill is one of the 3       implementations passing the OWL 2 QL import test.
+TrOWL is also one of the       first systems to support the entailment regime in the new semantic web       query language standard SPARQL 1.1 [S7], which enabled this important       reasoning feature to be approved in the standard.
+In the 6 SPARQL DL       entailment tests, TrOWL was 1 of the 3 implementations to pass.
+The TrOWL       system thus significantly contributed to both the OWL 2 and SPARQL 1.1       Candidate Recommendations becoming Recommendations (OWL2: 27 October 2009       [R6,S6]; and SPARQL 1.1: 21 March 2013 [S7]).
+These standards are widely       used by government (e.g., data.gov), scientific communities (e.g., the       bio-medical community), companies (e.g., BBC &amp; BestBuy) and       community-driven efforts (e.g., DBpedia).
+Jeff Pan has further developed impacts on practitioners and         professional services through tutorials and invited talks at       industry-facing events.
+These include the AAAI 2010 tutorial on Large-Scale         Ontology Reasoning and Querying.
+The leading industry conference in       the area is Semantic Technology &amp; Business (SemTechBiz) including Semantic         Web Enabled Software Engineering &#8212; State of the Art in the       `Developing Semantic Software' track (SemTechBiz 2011, London).
+Jeff Pan       and Oracle jointly presented OWL-DBC: Integrating TrOWL Reasoner with         Oracle Spatial and Graph in the `Product/Service Available Now'       track (SemTechBiz 2013, San Francisco).
+A key means to following through on this impact is via direct       collaboration with leading organisations, to enable practitioners to use       TrOWL technology in the conduct of their work:     - Oracle have been collaborating with ARK researchers to develop OWL-DBC,       an integration solution of TrOWL and Oracle products [S8,S9].
+The       integration of TrOWL is recommended by Oracle to provide efficient       reasoning support to the Resource Description Framework (RDF) Semantic       Graph of their latest release of mainline database system Oracle DB, which       is widely used to provide enterprise-level database management solutions.
+Oracle have found that [text removed for publication].
+In       the white paper of OWL-DBC, we also defined the best practices for dealing       with knowledge bases with different properties by leveraging the       integration of Oracle DB and TrOWL" [S1].
+This leading company is,       therefore, promoting the use of results of our underpinning research;     - BOC Information Systems were "[i]nspired by the promising (MOST)       project end results [and] initiated a follow-up project to further delve       into investigating possibilities of integrating the semantic technology       into its own software platform" [S2].
+As a result they "found out that       TrOWL matched the specific requirements in [their] problem domain the best       among other peer systems in terms of performance in resolving complex       reasoning tasks" [S2].
+Details of the technical solution are not       published, but the key idea is to leverage the efficient and high-recall       syntactic approximate reasoning service of TrOWL (REL) to automatically       detect inconsistencies between software models and their meta-model       specifications during model-driven software engineering;     - IBM has "integrat[ed] TrOWL with [their] diagnosis and predictive       reasoning models" to "reach scalable performance in [their] real-world       urban context of large, heterogeneous and stream data".
+As a result of       this, IBM are "using the TrOWL reasoning infrastructure in [their] Smarter       Cities solutions, such as those [they] use in testing real and live stream       data from Dublin City in Ireland" [S3].
+The level of collaboration       (on-going since 2012) and scope of this impact is made clear by the       statement from IBM that "[o]ur joint effort is part of a bigger picture of       building distributed information infrastructures for Smarter Cities that       support individuals, groups and organizations alike" [S3];     - SAP exploits TrOWL to validate and explain the refinement relations       between business process models at different levels of abstraction.
+The       initial solution was published in [R4] and the revised and detailed       solution was published in Chapter 10 of [R5].
+As stated by SAP "[w]ith the       use of TrOWL, automatic refinement validation of business processes can be       performed significantly faster than with alternative ontological       technologies" [S4];     - Semantic Arts is testing TrOWL to reason with its upper ontology GIST       as well as its client enterprise ontologies.
+The key challenge that they       are facing is the efficiency of ontology reasoning, which is addressed       well by the approximate reasoning service from TrOWL.
+One senior ontology       consultant said "[I] tried TrOWL on one client ontology (1300 classes, 500       properties) that takes several minutes on FaCT++ [another reasoner] and it       was sub-second with TrOWL (972ms, to be exact), so I was blown away" [S5].
+A number of these impacts on practitioners have led to TrOWL technologies       being adopted in stakeholder's business operations and products, leading       to significant economic impacts.
+With respect to Oracle products,       they state that "[w]e (Oracle) [...] are very happy to see the first       release of OWL-DBC (on 4th Feb, 2013), which combines the best of Oracle's       Spatial and Graph with the powerful reasoning engine TrOWL".
+An example of       how this follows through to benefits for Oracle's customers is that this       integrated solution [text removed for publication] [S1].
+It is worth noting that Oracle has been the leading life sciences software       vendor since 2010, according to IDC Health Insights, an advisory services       and market research firm focused on the healthcare and life science market       segments.
+The fact that IBM is "using the TrOWL reasoning infrastructure       in [their] Smarter Cities solutions" to "reach scalable performance" [S3]       has economic impact for this global business.
+According to Navigant       Research's Leadership Report on Smart Cities (published 3rd Quarter of       2013) [S10] "the global market will grow from $6.1 billion annually in       2012 to more than $20 billion in 2020".
+IBM has a "leadership position" in       the Smart City solutions market [S10], and TrOWL has been used in IBM's       solutions for 6 months during the REF period.

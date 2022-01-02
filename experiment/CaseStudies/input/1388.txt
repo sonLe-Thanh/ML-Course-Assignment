@@ -1,0 +1,23 @@
+     AgaMatrix was founded in 2001 to develop the research findings described       above.
+Three members       of Professor Hall's research team were involved in the foundation: Dr.       Iyengar led the foundation       as CTO, Dr. Harding underpinned the core technical team and Professor       Gooding acted in a       consulting and collaborative role.
+Professor Hall was on the Advisory       Board.
+The company       generated specific IP by building on Professor Hall's concept of applying       a time-varying input       control and better signal processing and analytics to the signals       generated from an electrochemical       glucose biosensor and developing noise-cancellation algorithms to improve       the accuracy and       reliability of medical devices.
+AgaMatrix developed this concept into the       WaveSense&#8482; branding.
+Agamatix now manufactures a line of diabetes products that features the       "WaveSense" technology,       using the concept of waveform control to detect and correct for errors       caused by differences in       blood samples and environmental conditions.
+Products include the WaveSense       KeyNote&#8482;       (launched 2006 and still available) Presto&#8482; (2007 still available), and       WaveSense Jazz&#8482;(Blood       Glucose Monitoring device, or BGM, (2008)), and the WaveSense Diabetes       Manager&#8482; iPhone&#174;       App (2009), an iPhone-connected BGM sold by Sanofi under the brand       IBGStar, and a stand-alone       BGM for Sanofi called the BGStar.
+Agamatrix has developed &gt;10       FDA-cleared products in the       census period, protected by a suite of more than 120 pending and granted       patents worldwide (ref       7).
+In March 2010 AgaMatrix and sanofi-aventis entered into an agreement to       co-develop innovative       solutions in diabetes management that also incorporate WaveSense&#8482;       technology.
+The BGStar       and iBGStar range of BGM devices have been developed out of that alliance       using "WaveSense"       as the sensing platform.
+The iBGStar was launched in Europe in 2010.
+In       December 2011, the       US FDA approved the iBGStar, the first approval by the FDA of a smartphone       linked diagnostic       device (ref 7).
+[text removed for publication]     Key impact points:            Invented and manufactured first iPhone-connected glucose meter for         diabetic patients         sold by Sanofi as the "iBGStar" which was covered by the New York Times         and Daily Mail         and is now for sale at Boots (ref 8, 13-14).
+Out of 15,000 health/fitness/medical apps in the iTunes app store,         fewer than 75 have         received FDA clearance, and even fewer have developed regulated         hardware.
+This puts         AgaMatrix into an elite group of companies at the forefront of         telehealth products targeted         towards patients.
+The iBGStar won the prestigious Red Dot and Good Design awards for         product innovation         &#8212; an honor shared by Apple, BMW, Mercedes, and Bose.
+Products featuring         AgaMatrix         technology have also been honoured by Consumer Reports as "Best Buy"         options in their         category.
+AgaMatrix products are available for sale in over 20,000 pharmacies         and retailer outlets         across the globe.
+Post-market studies show products featuring AgaMatrix technology         already exceed the         recently released ISO standards for home glucose monitoring accuracy         (within 20% of a         standard lab test), achieving closer to within 10% of a standard lab         test (ref 12).
+The `Up         and Up' branded product sold through Target has received commendations         for its accuracy,         affordability and convenience (ref 9).
+Established a UK subsidiary in the Harwell Innovation Park in 2007         with one Technology         Leader and since 2008 has expanded to employ nine full time staff       As an example of cost savings to the NHS, the Staffordshire Sentinel         reports that 7500 new         Agamatrix WaveSense Jazz meters will be given to patients in         Staffordshire in 2013,         resulting in a total savings of &#163;350,000 (ref 10,11).
+By scaling the         estimated savings to a         total population of 80,000, the total savings may be estimated to be &#163;4M         /year and growing.
+This assumes that each PCT experiences the same overhead savings that         Staffordshire         experiences.

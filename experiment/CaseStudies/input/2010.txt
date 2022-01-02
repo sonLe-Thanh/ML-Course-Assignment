@@ -1,0 +1,51 @@
+     R is ubiquitous.
+It is found in any arena in which people analyse,       visualise or manipulate data.
+It       has huge economic impact, benefitting millions of users from every sector       of industry, from       pharmaceutical to finance.
+It has resulted in improvements in performance       in existing companies,       by providing a platform which combines state of the art data analysis       tools with high quality data       visualisation, and it has spawned new companies, most notably Revolution       Analytics, whose       purpose since 2009 has been to make impact through their REvolution       software, designed       specifically for commercial users.
+R is used by Government agencies,       not-for-profit organisations,       search giants like Google and even dating agencies [A].
+How research underpins impact     With MASS included, the first non-beta version of R - 1.0.0 &#8212; was       released on 29th February 2000.
+When Ripley joined the R project in January 1999 the code repository was       1.5Mb in size.
+By       January 2008, it had grown to 15Mb and in May 2013 it stood at 25Mb.
+Analysis of SubVersion       commits &#8212; the measurement used to assess which users are updating       collaboratively developed       software &#8212; (http://www.ohloh.net/p/rproject/commits/summary)       shows that, from 1999 to 2013, just       over 50% per cent were by Ripley and that this rate of contribution has       been sustained over the       entire period.
+This phenomenal output constitutes literally millions of       lines of code.
+R is a research output which is placed directly in the hands of the user.
+Some of the R core team,       including Brian Ripley, run a repository (cran.r-project.org) of publicly       available extension packages       which currently contains over 4700 packages.
+The active community of users       and developers       enables R to constantly adapt to incorporate the very latest research in       data analysis and meet the       rapidly shifting needs of R-users.
+The software, along with many original insights on its use in applied       statistics, are laid out in       Modern applied statistics with S-plus (R is an implementation of       the S programming language       combined with lexical scoping semantics).
+This classic book, written by       Ripley and co-author       Venables, was published by Springer in 1994 and now in its 4th       edition.
+It has sold over 90,000       copies.
+It is complemented by more recent specialised texts, often aimed       at practitioners, such as       those in the Springer series `UseR!'.
+Nature and extent of impact     Since it is a free, open-source project, the full impact of R is       impossible to quantify.
+Nonetheless,       there is compelling evidence of extremely widespread use.
+Perhaps most       obviously, in 2009 it       spawned its own, refereed, online journal, called R Journal (http://journal.r-project.org/),       which       contains both articles about the development of R itself and about its       applications.
+Consulting       company Revolution Analytics (formerly known Revolution Computing until       2009 when a $9m       injection of capital by Intel and North Bridge Venture Partners was       accompanied by a new strategy       aimed at R end users) undertook a survey in August 2011 which reported       over 2 million active       users of R, of whom 1.2 million were based in industry [B].
+Their website       provides links to 55 Local       R User Groups, whose members meet up to brainstorm, network and listen to       guest speakers.
+Groups span Australia, Asia, Europe, Israel and North and South America       [C].
+Some, such as the       Chinese Financial R users group, focus on specific areas of application.
+The Revolution Analytics website also provides a glimpse of the vast       range of organisations using       R and how the continually evolving R library enables them to stay at the       cutting edge of data       analysis [A].
+It also links to powerful testimonies, such as that of       Antonio Possolo of the US       National Institute of Science and Technology, who was charged with making       sense of the       conflicting estimates on the rate of oil flowing from the BP Oil spill at       Deepwater Horizon; "The         quality that you have built into R, through public open examination, is         the greatest strength and         source of confidence that I could have asked for" [C].
+Possolo's use       of R to run uncertainty       analysis and harmonize estimates was crucial to decision makers in       coordinating the scale and       scope of the response to the emergency.
+Revolution Analytics' more than 60       non-academic       customers include Merck, who use their software to collect and analyse       massive data sets in       clinical drug trials and Pfizer, who use it to analyze genetic data,       perform predictive modelling, and       carry out exploratory data analysis [D].
+R is used in every sector of industry.
+As examples, the Bank of America       uses R for capital       adequacy modelling, decision systems design and predictive analytics [E];       and Google use R to       help analyse its marketing data [E].
+Use of R is so widespread at Google       that it has its own R style       guide, while there is an annual meeting R/Finance, devoted entirely to       applied finance using R [F],       and the first `R in insurance' event took place in 2013 [G].
+Personal testaments received by the University of Oxford in 2013 also       confirm the ubiquity of R       (we include the maximum of 5 allowed):            The Head of Discovery Informatics at e-Therapeutics Plc [H] states "The           R environment is now           the de-facto standard for bioinformatics data analysis and forms a           critical part of our           computational toolbox at e-Therapeutics.
+The R environment allows us           to `stand on the           shoulders of giants', utilise the vast statistical and bioinformatics           knowledge embedded within           the software and concentrate on solving our specific problems rather           than reinventing the wheel           by rewriting standard data analysis algorithms.
+I'd estimate that this           alone saves us months of           work on any project utilising such data.
+[...] R is a critical           part of the computational resources           used by e-Therapeutics and personally I find it hard to believe that           the impact of R needs to be           justified."
+The Head of Data Science R&amp;D at dunnhumby says [I] "One tool we           are finding increasingly           useful for exploring advanced techniques, investigating new algorithms           and rapidly prototyping           new concepts, is the open source statistical language R. We have a           core research and           development team who are regular users of R"       The HR Manager from Tessella, a consulting firm, states [J] "In           life sciences, R is a popular tool           / environment with many of our clients who value and use R over and           above the traditional use           of the SAS product that has previously been the mainstay of data           analysis in clinical           development.
+We commonly use R on projects to support         analysis/consultancy done for         pharmaceutical clients.
+Examples include analysing simulated data,           modelling of clinical trials           data and the development of causal reasoning algorithms.
+In these           projects, R is typically used           in the investigative development stages and sometimes pre development           of faster codes for use           in a more commercial environment.
+Another example would be           work we have undertaken with           a large agro chemical business on a project relating to understanding           the lifecycle of pesticides           within the ground.
+Tessella have developed a simple tool which           implements the FOCUS           Kinetics guidance to generate degradation kinetics.
+This was developed           in C# with an R back-end.
+Further work in this sector involved developing a method to predict           and understand fish           survival &#8212; the development tool was R."       The Global Head of Risk and Performance at Investec Asset Management         writes [K] "A number           of us at Investec Asset Management have been regular users of R for a           number of years.
+R was           perhaps first used seriously late 2006 when I joined the firm.
+Since           that time, R has been           integral to trading-model development in an initiative that I           launched.
+More recently, my           colleagues have used R as a building block within an equity investment           process.
+[...] Over the           years, R has become our standard environment for           statistical/mathematical problem solving.
+[...] for rolling out pre-built solutions for non-mathematicians the           ability to prototype solutions in           R prior to programming in a compiled language has been invaluable.
+[...] representatives from           Investec Asset Management have attended R/Rmetrics, R/Finance           conferences and regular           local meetings such as LondonR."
+The Chief Analyst at the Implementation Unit at the Cabinet Office         says [L] "the following           Government Departments and Agencies have told me that they use R:           Department of Business,           Innovation and Skills; Department for Communities and Local           Government; Department for           Environment, Food and Rural Affairs; Animal Health and Veterinary           Laboratories Agency;           Environment Agency; Food and Environment Research Agency; Food           Standards Agency;           Forestry Commission; Ministry of Justice; Marine Management           Organisation; Natural England;           Office for National Statistics.
+I can confirm, as TfL's former           Director of Policy Analysis, that           Transport for London have also used R."

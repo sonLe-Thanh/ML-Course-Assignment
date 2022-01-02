@@ -1,0 +1,42 @@
+     The research outlined in section 2 led to Jardine's invitation onto the       principal International Industry (API, ISO, SUT and ISSMGE) Committees and       engagement in multiple major practical projects.
+Critical to the reach and       depth of impact was the production of a widely read and used design book       [H], developed through engagement with Industrial partners (Amoco, BP,       HSE, Shell) and Consultants and published through the ICE's publishers,       Thomas Telford.
+Additional web-based practical guidance was produced with       HSE, who endorsed and funded the work.
+Other steps included the       organisation of CPD courses and keynotes delivered to over 1000 engineers       in 14 countries.
+Examples of effective knowledge transfer include work       with, among others, Atkins, BP, Fugro, GCG, Noble Denton, Shell, as noted       in our supporting evidence.
+Also critical was direct engagement in       practice, as outlined under A to D below.
+Taken together, these steps led       to ICP's adoption in Industry Standard American Petroleum Industry       (API-2011) and ISO design guidance, leading to beneficial impacts on a       regular basis.
+It has been used by Shell as their main design method for       all new platforms since 1996 [B].
+4.1 BP and Premier Oil       The `ICP' research was critical to BP's development of the large,       exceptionally difficult, Atlantic Frontier Clair field [A and E].
+Applying       (over 2010-13) ICP to the new Clair Ridge structures (&#163;4.5bn value)       allowed driving failure risks to be reduced with low L/D piles that were       shown to be satisfactory after accounting for negative cyclic loading and       pile group effects (which are ignored routinely).
+The foundation costs       (around &#163;100m) were reduced greatly and the piles installed without       difficulty in June 2013 [A].
+ICP was also applied with Senergy (over       2012-2013) to Premier Oil's nearby dual-structure SOLAN development [E].
+Similar benefits are being realised offshore Angola, where BP's deepwater       projects each cost around &#163;10bn.
+While piles can be driven at 2km depths       to anchor large floating facilities, the `unusual' Angolan sediments fall       outside prior piling experience.
+Applications of the more fundamental ICP       (2011-2012) linked to field trials allowed piles to be used more       confidently.
+Foundations cost around &#163;70m per installation; ICP       optimisation offers scope for savings in tens of &#163;m each and, more       importantly, a wider range of secure development options [A]     4.2 Shell       Shell have applied ICP to all their North Sea projects over the survey       period and in other regions including Brunei and Doha [B].
+In another       example, Shell authors describe in [H] how the ICP allowed adventurous       platform designs at Skiff and later Brigantine that enabled marginal       fields to be developed, achieving 30 to 50% construction cost savings [F].
+Peak production from these micro-platforms' ran at over &#163;100m/year (based       on 15.108 m3/year and $120 per 1000m3 five-year       price); their production revenues remained at tens of &#163;m/yr over the       2008-2013 review period.
+4.3 Renewable Energy       ICP also delivers benefits for tripod or jacket-based offshore       wind-turbines.
+The method was used in the biggest offshore development in       Germany; Borkum-West-II in 2010/11.
+This project has a 1bn Euro       construction cost where foundations comprise 30% of costs; 120 large piles       were driven in hard conditions without failure [H].
+The ICP design       procedures took into account potentially negative storm loading,       horizontal and axial cyclic interactions, system reliability and potential       driving problems.
+The Technical Director of Offshore Wind Consultants       (OWC) has made a detailed assessment of the material and installation cost       savings made, which amounted to 18 million euros [C].
+Employing the ICP       probably avoided far larger installation problem costs; ICP is now being       applied in new German projects, including the Gode Wind development by       Danish Oil &amp; Natural Gas (DONG) [E].
+UK projects are also benefitting.
+Atkins are applying ICP in the Beatrice, Rampion and Galloper projects       where more than 1600 large offshore piles will be driven with anticipated       material and installation costs around &#163;500m.
+Preliminary analyses by       Atkins indicate that ICP will save up to &#163;100m and substantially reduce       both project risks and pile driving impact on marine mammals [D].
+Similar       benefits may be taken in many other developments, including the major East       Anglia Offshore Wind (EAOW) project where the ICP is being applied by       Geotechnical Consulting Group (GCG) and Offshore Wind Consultants (OWC)       [C].
+4.4 Sustainability and other new-build hydrocarbon projects       Extending existing UK energy supplies is vital.
+`ICP-based' investigations       and re-analyses have shown that foundation capacities may be higher in       some cases than anticipated, and so allow platforms to carry additional       plant or new wells.
+Research into installation techniques, cyclic loading,       group-action and well-drilling effects have been crucial.
+North Sea       platforms analysed in conjunction with Atkins and GCG include:       Indefatigable 49/23AC (2009-2010), Auk (2010-2011), Montrose and Claymore       (2013) [D].
+Dr Rob May, the Head of Energy Geotechnics at Atkins states       that "The ICP based methodology has provided robust and reliable       assessments of foundation capacities and has, in many cases, enabled       enhanced capacities to be demonstrated.
+The benefits to the producers and       UK economy ...is to.. extend production at these ageing facilities       while avoiding expensive (tens to hundreds of millions of pounds) platform       replacements or early decommissioning of assets" [D].
+The value of such       developments was confirmed by BP's CEO Bob Dudley who is quoted on the       company's website as saying that the redevelopment of BP's Valhall field,       which involved applying the ICP to some of BP's existing structures [see A       and E] "is one of BP's most complex field expansion developments and gives       Valhall a further 40-year design life with the capacity to handle 120,000       barrels of oil and 143 million cubic feet of gas per day", with daily       production values easily exceeding &#163;10m.
+The ICP has also been applied to assist a wide range of other new-build       oil and gas projects, including EdF's major new Cygnus multi-structure       North Sea gas project, providing major savings for several new platforms       [E].
+4.5 Financial assessment of impacts       While accurate assessment is difficult, we have evidence [A-D] of       substantial benefits to 20 projects that involved direct ICP input through       Jardine since 2008 (Clair, Clair Ridge, Solan, Angola, Ormen Lange, Skiff,       Brigantine, Borkum-West, Beatrice, Rampion, Galloper, Indefatigable, Auk,       Claymore, Montrose, EAOW, Gode Wind, Cygnus, Valhall) The ICP is being       used independently by other designers and Lloyds Register confirms its use       in an additional 20 cases since 2008.
+Several other Independent       Verification Bodies operate internationally and some producers       self-certify, so the worldwide total is certainly higher.
+The ICP research       has also led other groups to modernise their procedures leading to       beneficial impacts from the research even in cases where the ICP is not       adopted as the formal design method.
+Detailed data provided by OWC, Atkins and Senergy [C] to [E] attest to       savings of &#163;18m to &#163;100m in individual projects.
+Assuming a modest &#163;10m       average benefit per project and estimating at least 40 project       applications indicates an overall impact exceeding &#163;400m since 2008.
+Larger but unknown, additional benefits accrued through the confidence       given to develop more adventurous designs worldwide, exploit marginal       fields, avoid unnecessary costs, improve safety and eliminate/reduce       installation failures.

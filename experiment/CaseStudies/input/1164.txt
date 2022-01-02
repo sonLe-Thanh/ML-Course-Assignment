@@ -1,0 +1,41 @@
+ The diamond machining facility was established in 2006 as part of the CfAI research programme on precision instrumentation for large telescopes.
+However, the commercial applications of this unique facility were soon apparent, and it has been available as a specialist service to industry since 2008.
+Over 20 companies have placed contracts worth ~&#163;2.0M over the past 5 years of operation [C1] for high precision optical and micro-optical components for a range of applications including opthalmics, automotive optics, microstructures for backlit displays and IR optics.
+Professor Robertson was awarded a Royal Society Industry Fellowship (2007-2010) in recognition of his work with industry in the field of diamond machining.
+A growing part of the market sector for precision optics is ophthalmic moulds.
+Typically plastic spectacle lenses have been produced by using thermosetting plastics cast in polished glass moulds.
+However, newer injection moulding techniques produce higher quality lenses, with higher accuracy over a wider range in shape.
+This is a disruptive technology shift as the temperatures required for injection moulding are not well matched to the thermal conductivity of the glass moulds.
+Instead, this requires metal moulds, for which diamond machining techniques are specifically applicable.
+This is particularly true for progressive (freeform) moulds, where the diamond machined products produce lenses which are far superior in quality and shape to that of their conventionally produced counterparts.
+CfAI have worked with several companies developing prototype moulds in Aluminium, then moving to medium wear production tooling in Nickel Phosphor plated moulds and are now producing hardened steel moulds using a specialized machining process.
+The steel mould lifetime is typically 10x longer than Nickel, which itself is 10x longer than Aluminum.
+One example of the impact of this work is the collaboration with Pixel Optics, an ophthalmic technology company based in Virginia, USA.
+They had the idea to make bifocals where the near vision lens was based on a liquid crystal, so could be switched on and off when required so as to remove the reading zone distortion that is always present with standard bifocals or progressive (no line bifocal) lenses.
+They based their near vision zone on a Fresnel lens (see Fig 1) as these can be made much thinner than standard optics, and can be filled with a liquid crystal, whose refractive index could be controlled electronically.
+The electro-active lens technology, as it was subsequently called, was developed by The Technology Partnership, based in Cambridge, UK who in turn contracted CfAI in 2009 to develop the diffractive lens manufacturing techniques.
+Through an 18 month, &#163;350,000 contract CfAI developed the capability to produce an elliptical Fresnel lens machined off axis of a spherical standard lens mould.
+This unique technique was key in enabling the electro-active lens production and was based on the Fast Tool Servo machining techniques developed in the earlier research programme for the machining of the IFU components [1-6].
+The active eyewear containing the lenses is sold by Pixel Optics as the emPower!
+product range of spectacles (Fig 2), now selling in the United States for about $1,500 a pair [C2].
+This was launched at the Consumer Electronics Show (CES) 2011, where it was highlighted as among the `Best of CES2011' by PC Magazine [C3].
+These successes enabled the company to raise $45M in financing for further development of the product.
+The Empower!
+Glasses won the extremely prestigious 2012 Gold Edison Award for Quality of Life for innovation and business [C4].
+These were also named as one of 100 top technology products in the 2012 R&amp;D 100 Awards, the equivalent of the Oscars for R&amp;D. "We're truly honoured to receive an award that celebrates original achievement in innovation and technology," said the President and Chief Executive Officer, Pixel Optics.
+"emPower!
+represents a clear breakthrough in eyewear &#8212; leveraging advanced technology to give wearers precise control over their vision for the very first time."
+[C5]  Fig 1 Standard lens compared to a Fresnel lens   Fig 2 The Fresnel lens engraved onto the normal lens of the emPower!
+Glasses  The precision diamond machining technology developed at Durham University [1-6] has also been used to produce a very different type of spectacles for a very different market.
+There are an estimated 670 million people (World Health Organisation) who live in the developing world with poor eyesight but without the glasses they need to be able to read due in the main to the lack of qualified practitioners able to test eyesight and prescribe corrective eyewear individually.
+Eyejusters are a small company based in Oxford, UK that have developed a way to improve vision by designing spectacles that are adjustable.
+The principle behind this is that adjustable glasses can be made to accommodate the needs of a number of people with a range of prescriptions, allowing an individual wearer to change the power of the glasses for maximum clarity of vision.
+This is achieved by sliding two (Alvarez) lenses with a very specific shape past each other.
+The combination acts as a single lens with a changing optical path as the lenses are moved with respect to one another i.e.
+varying optical power (Fig 3).
+However, the shape of these lenses is quite challenging to manufacture.
+Eyejusters are using the precision machining capabilities at CfAI to manufacture the lens masters, which are then reproduced in lightweight, resilient, cheap plastic.
+These are assembled into glasses, with a dial to slide together two separate lenses until their combined focal power matches the corrective requirements of the wearers' eyes (Fig 4: C6).
+The method, known as self-refraction, has been tested in several peer-reviewed studies [C7] and has been the subject of fieldwork in Ghana, Nepal, Malawi, Nicaragua, China and South Africa.
+In Morocco, the company worked with Peace Corps volunteers, providing almost 800 pairs of glasses to young adults at 10 sites across the country [C8].
+Fig 3: Alvares lens giving variable optical paths   Fig 4: Eyejusters, with dial to slide lenses

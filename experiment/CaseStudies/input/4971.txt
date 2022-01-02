@@ -1,0 +1,44 @@
+     It is estimated that grinding makes up 25% of all machining processes       used in manufacturing world-wide [E1].
+During these grinding operations       cooling fluid is required, but the provision of this involves major costs       including: purchase, filtration, refrigeration, storage and environmental       disposal.
+In many cases, machining fluid may consume up to 20% of the       total production cost of a component.
+There is therefore a strong       motivation on industry to reduce the quantity of fluid used, whilst       retaining performance, reliability and quality.
+But it is potentially a       high-risk strategy to reduce coolant, as the added value of a part is       typically already considerable when it reaches a grinding station and       component scrappage at this point would be expensive.
+To be industrially       adopted any reduction in coolant volumes, no matter how potentially       economically or environmentally attractive, must be firmly underwritten       with clear scientific evidence.
+We will now itemise some examples of the way our research into the       delivery of fluids has been taken up by industry and how it is influential       in shaping modern grinding practice.
+Cinetic-Landis Ltd. is a subsidiary of Fives, who have their corporate       headquarters in Paris.
+Fives are an industrial engineering group of       international scope with total revenues approaching &#8364;1.5 Billion [E2].
+The       company designs and manufacturers capital equipment, such as machining       lines, mainly for the automotive, aluminium, steel and cement industries.
+Cinetic recruited a GERI PhD graduate to a lead position in Research and       Development.
+This has enabled a rapid transfer of knowledge and experience       to the company and has also resulted in the implementation of our nozzle       positioning systems and fluid optimisation methodologies within the       company's products.
+The Engineering Director of Cinetic-Landis UK Ltd       states:     "The work completed at LJMU has been invaluable for the improved         control and management of our machining coolant.
+In particular, the         nozzle studies and delivery guidance work has helped us extract enhanced         and more reliable cooling and lubrication from our coolant systems.
+Our         implementation of GERI's work in the area of cooling fluid delivery         leads to significant recurrent annual savings for our customers; for our         larger customers we estimate that such cost savings are easily in the         region of &#163;100k/annum.
+But these direct cash savings mask a possibly         even greater benefit; for example by being able to reduce fluid use by         the employment of these methods one automotive customer avoided having         to significantly expand his crankshaft grinding line which represents a         very substantial one-off capital cost saving".
+[Corroborative       witness ID=1]     PTG-Holroyd manufactures machine tools and equipment for a wide range of       industrial sectors [E3].
+sThe company have introduced a novel laser-based       nozzle positioning technique on their products, based on a design by GERI,       to improve process performance and reliability.
+They have also implemented       the formal guidance on fluid management and optimisation which stemmed       from our research.
+The General Manager of PTG-Holroyd states:     "The work carried out at GERI was significant in that it established         the rules for coolant application which have been relied on by all our         machine designers since then.
+Specifically, the guidelines on fluid         velocity had big implications for pump capacity specified.
+Secondly, the         effect of jet coherence on grinding behaviour was quantified, and the         degree of jet divergence which can be tolerated is clear from the         results.
+Both these studies have improved the performance of our         machines by extending wheel life, reducing heat generation, and keeping         grinding power and normal forces low.
+This confirms my view that UK         machine tool research, although not concentrated in large organisations         as in Germany, can be of both very high quality and impact, as was         certainly the case here."
+[Corroborative witness ID=2]     As a third example, to illustrate the breadth of our engagements and to       show that our impact is on-going and at multiple levels of maturity, we       cite Vibraglaz UK Ltd, a relatively new SME.
+Vibraglaz are innovators of a       potentially disruptive technology, which is based entirely on thermally       treated recycled glass.
+The global mass finishing abrasive market for this       technology has an estimated value of &#163;800m per annum [E4].
+This process       requires the controlled delivery of precise volumes of fluid to retain       performance criteria.
+Our research provided the scientific underpinning       needed by the company to design systems for optimal delivery of new fluid       compositions.
+The company, at varying levels of maturity with its       technology, has relied strongly on a research partnership with GERI to       attain its present position.
+Whilst early impact is undoubtedly present in       terms of economic and environmental benefits, it is envisaged that this       advance, along with on-going research, marks a significant long-term       development in vibratory mass finishing.
+The Technical Director of       Vibraglaz (UK) Ltd states:     "The knowledge of GERI in fluid delivery and management has been         critical in helping us achieve efficiency with our innovative new         abrasive media product and has enabled us to service our first         end-users.
+As a result of this successful foundation we are now engaged         in actions to commence the build of a high volume manufacturing plant to         meet anticipated early global demand."
+[Corroborative witness ID=3]     Finally, we cite the further and wider impact achieved through       professional dissemination and training.
+The research at GERI has resulted       in the determination of what have become known in industry as `Morgan's         Rules', after Dr M. Morgan submitted in this UoA.
+These rules offer       a straightforward way of determining optimal flow parameters under user       defined conditions.
+The rules feature in training materials developed for       the industry by a third-party American based company "TheGrindingDoc"       [E5].
+This company is a respected expert in the delivery of bespoke       grinding training with a clientele in all areas of the industrialised       world, providing training to more than 100 major industrial grinding users       and practitioners in over 30 countries.
+Through this take-up of our       research findings by "TheGrindingDoc", and the resulting dissemination via       training, our work influences a world-wide user community.
+The three       companies cited above are specific examples of our own dissemination and       transfer.
+However, such training activies considerably enhance our       outreach, resulting in many more companies employing guidelines drawn up       directly from our research into fluid delivery in grinding.
+The Director       of "The GindingDoc", states:     "The work done on cooling in several separate studies at GERI has         established the velocities, pressures, flow rates and delivery methods         needed for high-performance cooling.
+This technology is now being         successfully transferred to the industrial setting in companies         worldwide, resulting in shorter cycle times, better part quality, less         scrap and, perhaps most importantly, much less coolant consumption and         coolant-delivery-related power consumption, which minimizes the         environmental impact."
+[Corroborative witness ID=4]

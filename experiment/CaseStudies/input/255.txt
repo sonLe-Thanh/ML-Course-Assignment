@@ -1,0 +1,37 @@
+     Hutton's research on the effects of selection bias includes development       of new statistical methods, and consequently direct application of the       results to particular diseases and treatments, and to the implications for       good conduct and reporting of studies.
+The impact has therefore been in       three areas:     A) Specific clinical guidance on the treatment of epilepsy       Epilepsy is a common neurological disorder affecting over 500,000 people       within the UK (http://www.nhs.uk/Conditions/Epilepsy/Pages/Introduction.aspx).
+In around 70% of cases, seizures are successfully controlled by AEDs       (anti-epileptic drugs) which are the 5th highest category of       expenditure on NHS England prescriptions.
+The 2004 NICE (National       Institute for Health and Clinical Excellence) Guidelines for the Diagnosis       and Management of Epilepsy highlighted inadequacies in care and treatment       of epilepsy patients.
+In 2007 a major multi-centre study SANAD (Standard       and New Antiepileptic Drugs), which compared the clinician's choice of       drug against new AEDs in over 2,000 patients, was published.
+The design of       this trial, led by UoL, was determined by Hutton's research.
+Her analyses       had highlighted uncertainty with regard to interactions between drugs, and       patient factors of age, type of epilepsy and seizure type related to       misclassification bias [6, 8].
+The significance of the SANAD trial is       considerable, e.g.
+:            SANAD played a central role in the construction of the 2012 NICE         Guidelines [12a], "The primary scope of the guidelines was to           consider the role of antiepileptic drugs, especially given the impact           of important, real-world studies such as SANAD.
+The role of           established and newly licensed drugs has been considered using novel           statistical methods allowing comparison of cost effectiveness"         (Preface P3).
+The Guidelines are important since they are "expected         to be taken into full consideration by healthcare professionals and           organisations when deciding on treatments for patients" [12b].
+A         Consultant in Neuropsychiatry [12c] states that "SANAD is the best           clinical trial and is the gold standard piece of work in relation to           the treatment of epilepsy.
+It is referred to in the NICE guidelines           for good reason.
+The other main strength of SANAD is that it was not           constrained by the needs of the pharmaceutical industry and has the           reputation of being relatively bias-free".
+The World Health Organisation (WHO) guidelines "Evidence-based         recommendations for management of epilepsy and seizures ..." cite the         meta-analysis [13a].
+In addition, in [13b], the SANAD trial results were         explicitly highlighted when WHO deliberated whether to allow the         application for a new epilepsy drug treatment regime.
+SANAD trial         results were used in a WHO decision not to include Lamotrigine for         epilepsy in their Model List of Essential Medicines.
+SANAD determined the recommendations of the German Association of         Scientific Medical Societies, for AEDs to be used to treat first         seizures and epilepsy in adults [14].
+The Scottish Intercollegiate Guidelines Network [15] cites         meta-analyses (eg [8]) by Hutton as justification for its treatment         recommendations.
+Hutton was instructed [text removed for publication], as an expert         witness for the claimants in a multi-party class action [text removed         for publication], after which the case was concluded with a confidential         out-of-court settlement.
+B) Generic guidance for the conduct and reporting of biomedical research     There are many examples where Hutton's research [3, 4, 5] has been cited and     used inter alia by policy makers, journal editors, and potential     study participants, to provide guidance on the ethical design and conduct of     cluster randomised trials, including the following examples.
+1.
+Impacts on guidelines for statistical validity and ethics in cluster       randomised trials [4,5] include:            One of the MRC's clinical trials guidelines "Cluster Randomised         Trials: Methodological and Ethical Considerations" [17] is based largely         on the research in [4].
+Recommendations (from [4, 5]) are also incorporated into the         Consolidated Standards of Reporting Trials (CONSORT) Design extension to         cluster randomised trials [18].
+CONSORT is in turn included within the         International Committee of Medical Journal Editors (ICMJE)         recommendations [19].
+Recommendations (from [4, 5]) are also incorporated into the Ottawa         Statement on the Ethical Design and Conduct of Cluster Randomized Trials         [20].
+2.
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses       (PRISMA) [21] is an evidence-based checklist for reporting systematic       reviews and meta-analysis, which has been translated into Spanish, Korean       and Russian.
+Its recommendations are also incorporated into the ICMJE [19]       to which most biomedical journals subscribe, and thus whose authors must       comply with each item on a specified checklist.
+Hutton's work in [3]       contributed to two check points related to selective reporting within       studies.
+3.
+Research led by Hutton for the National Centre for the Replacement,       Refinement and Reduction of Animals in Research attracted media coverage,       and contributed to reporting guidelines in Animal Research: Reporting         of In Vivo Experiments (ARRIVE) [22a].
+This is endorsed by many       journals and ten funders, including the Wellcome Trust and three research       councils [22b].
+C) Evidence given in other trial cases as an expert witness       Based on her research on selection bias, ethics and meta-analysis, Hutton       has made recent appearances as an expert witness in legal cases.
+They       include:            The General Medical Council instructed Hutton in May 2008 in a case         concerning the conduct, design, choice and reporting of outcome measures         of a clinical trial for which three doctors were accused of professional         misconduct [23].
+The case 'collapsed because it had no sound           scientific evidence to support it' [23], as a direct result of         Hutton's discussions with the GMC and her report based on her research         including [1,2].
+Based on her work including [3, 7, 9], Hutton was         [text removed for publication]         (over 100 cases) [24a, 24b, 24c].

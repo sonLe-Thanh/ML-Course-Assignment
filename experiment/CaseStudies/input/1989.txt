@@ -1,0 +1,28 @@
+     In the space sector, demand is growing for cost-effective solutions to       the challenge of cooling satellite sensors.
+Infra-red sensors, in       particular, are used in a wide range of satellite applications such as       deep space astronomy, missile detection and measurement of ocean and land       surface temperatures.
+The compressors' proven ability to meet this need is       reflected by their total sales of &#163;5.7M [7], estimate &#163;2.8M between       January 2008 and July 2013.
+Satellite systems where they are currently       deployed include:            JAMI (Japanese Advanced Meteorological Imager), launched in 2005 and         scheduled to remain in orbit till 2015, see http://www.wmo-sat.info/oscar/instruments/view/236.
+GOSAT (Greenhouse Gases Observing Satellite), launched in 2009.
+Seven         compressors are also currently in production.
+Other key developments         have included:       Addition of valves to transform the device from a `pressure wave         generator' into a `conventional' compressor.
+One such unit is to be used         to drive a Joule-Thomson cryocooler that will provide the James Webb         Space Telescope's MIRI instrument with cooling to 6 Kelvin [8].
+Two         prototypes have been produced and manufacture of the flight units is now         under way.
+Modification of the technology to provide the basis for a small engine         capable of generating electrical power for deep space and planetary         missions.
+Working with TRW and NASA, the team modified a 6cm3         compressor by increasing the piston and cylinder size to give a swept         volume of 21cm3; this device was then used as an expander in         a thermo-acoustic Stirling heat engine [9].
+An electrical power output         of 40W was achieved with a thermal efficiency of 18%.
+The research underpinning the compressors has achieved three key impacts,       with the benefits felt by the space industry and beyond:     Economic Impact 1 &#8212; savings in satellite launch costs:       Third-generation `Oxford-style' compressors deliver substantial cost       savings for satellite missions when combined with pulse-tube cold heads       manufactured by NGC.
+This is because the compressors' smaller size,       compared to rival technologies, leads to reduced satellite weight and       therefore a cut in launch costs.
+With the cryocooler weighing about 12kg       less than alternatives [10] and satellite launches costing around       US$20,000 per kg [11], the result is a saving of US$240,000 per mission.
+The Cryocooler Systems Manager at NGC has confirmed that "The high       reliability, small size, low mass and efficiency of the compressors       incorporated into a pulse tube cooler has been a significant advantage to       us, ..." [12].
+Moreover, due to the higher efficiency of cryocoolers       incorporating the compressors, smaller solar arrays are needed to power       them; the radiator area for heat rejection can also be reduced &#8212; further       reducing the mission cost.
+Economic Impact 2 &#8212; cost savings for satellite missions:       Previously all compressors were uniquely developed for each system, which       had to bear the costs of the device development and qualification testing       for space flight (typically $5-10M).
+Oxford's third generation devices are       now available as off-the-shelf products which are "flight qualified".
+This was achieved through close collaboration between Oxford University,       TRW and Hymatic (now Honeywell Hymatic, Redditch, UK) which aimed to       further develop the compressor after the successful creation of prototype       units.
+Hymatic successfully manufactured a `productionised' version       featuring enhanced in-process testing to verify the process [13].
+Hymatic       subsequently manufactured families of `balanced pair' compressors       developed at Oxford, (Section 2) with displacements of 1.8cm3       (1998), 26cm3 (1999) [14], and even as small as 0.6cm3       (2003) [15].
+Ease of manufacturing the compressor has led to a significant       cut in the cost of in-space cooling.
+Economic Impact 3 &#8212; wider economic benefits and wealth creation:       Honeywell Hymatic sales for this product, manufactured in the UK, have       totalled &#163;5.7M, with &#163;2.8M generated from January 2008 to July 2013.
+The       company's Engineering Manager confirms that "this product line is a       significant part of our business, and we anticipate that it, and future       related products, will continue to be an increasing part of our strategic       business model for years to come" [7].
+Income to the University through a       licensing agreement with TRW amounted to &#163;99,640 (gross) between 2008 and       the end of 2012 [16].
+The cryocoolers' success has resulted in NGC       securing a significant share of the US market, with devices based on the       licensed technology sold to major US aerospace companies, resulting in 16       out of the 19 long-life coolers currently in orbit being based on Oxford       designs [12].
+Although these cryocoolers have largely been sold to US       firms, a collaborative project involving NGC, Systems Engineering &amp;       Assessment Ltd (based in Bristol), Honeywell Hymatic and the UK Science       and Technology Facilities Council is currently adapting the compressor for       use with a Stirling cold head in a cryocooler for the European Space       Agency.

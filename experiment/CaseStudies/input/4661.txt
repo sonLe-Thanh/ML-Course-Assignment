@@ -1,0 +1,24 @@
+     The introduction of dynamical systems methods, which are implemented in       the Dynamical Systems Toolbox, into the industrial practice at       Airbus provides the company with new capability for the evaluation of       aircraft ground performance and the potential of considerable savings in       time and costs (estimated at 80% of staff time compared to current       practice within the aircraft industry [c]).
+Airbus has fully adopted this       methodology and has developed a strategy for the continued future use of       dynamical systems methods in an internal document, Strategic Research         into Dynamical Systems Methods: A roadmap from 2009 to 2013 [a].
+The software, Dynamical Systems Toolbox (DST), has transitioned       within Airbus from its Research portfolio into its Methods and Tools       portfolio.
+This is a mandatory stage of Airbus for institutionalisation of       new operational engineering methods.
+Further evidence of the integration       of these techniques into Airbus is the development of the Dynamical         Systems Toolbox interface to Airbus' own software tools was       sub-contracted and internal training sessions have been held.
+The new tool       is presently in use by members of the Future Project Office, the Process,       Methods &amp; Tools Department and the Landing Gear group; the latter work       on current aircraft projects, as well as the exploration of new landing       gear and aircraft concepts.
+It is estimated that the new tool has made       significant savings in terms of man hours during 2012[c].
+Airbus UK have       described the impact of the research as approximately 80% reduction in       time and associated costs [c] for ground maneuverability analysis and       specified that the estimate of the saving is made by comparing the time       taken to conduct global assessments using bifurcation and other dynamical       systems techniques versus the time to obtain exhaustively a large number       of point solutions.
+This is important because it allows the efficient use       of numerical simulations for new designs.
+The engineer from the Modelling       &amp; Simulations Methods and Tools group writes, "The tool provides a       method for de-risking design-decisions; the trade-off being between the       impact of a risk occurring versus the likelihood of the risk occurring"       [b].
+The research formed the basis of the enhanced capability introduced by       Airbus Process, Methods &amp; Tools via the development of fully       parameterized and validated models, the development of the Dynamical         Systems Toolbox and the demonstration of the approach via dedicated       case studies.
+The research has been supported and sponsored by Airbus, via       direct interaction between the industry and university based researchers.
+The research has grown considerably in reaction to demand from the company       &#8212; now also including novel testing strategies and the characterization of       aircraft upset scenarios in flight.
+Regular research meetings (about every       six months) were conducted at University of Bristol and at Airbus at which       further dissemination could occur, together with the identification of new       projects.
+Additionally, there have been several subsequent PhD students       associated with this research project who have each spent extended       placements at the company.
+Evidence of the value of this project to Airbus       comes in part from the large number of grants and support they have       provided (&#163;415K in direct funding, plus funding in kind) [d].
+There is also impact from the work in terms of staff training in research       and recruitment in Airbus.
+For example, a member of staff was seconded       from Airbus to perform PhD research at the University of Bristol.
+He is       now one of the main advocates of the use of dynamical systems methods and       is helping to lead their introduction within Airbus.
+In addition, a former       postdoctoral research assistant (held 2007-2010) at Bristol was hired by       Airbus and now works as Airbus Model Developer &#8212; Physical Systems at       Airbus' Design Analysis.
+A further impact of this research has been the embedding of nonlinear       dynamics approaches within Airbus.
+It is expected that usage of the DST       will increase amongst other departments when research through currently       on-going PhD projects near completion (there are several on-going Bristol       EPSRC Mathematics CASE studentships in partnership with Airbus).
+There are       plans for further training courses within Airbus and improvements in the       DST interface.
+Airbus also plans to set up a more extensive training       course with the University of Bristol.

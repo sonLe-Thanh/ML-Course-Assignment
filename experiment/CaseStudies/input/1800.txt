@@ -1,0 +1,20 @@
+     Cranfield's research into materials degradation in industrial gas       turbines has influenced materials selection, the standardisation of test       methods, new coating systems and systems and fuel specification in power       generation.
+Materials selection and component life assessment          Siemens, Rolls Royce and others have used our methods for selection of       improved materials systems for particular applications [C2, C4, C5, C8,       C10].
+The selection of the best materials systems (coatings and base       alloys) for components in jet engines and gas turbines improves their       potential lives [C1, C6, C7].
+High temperature oxidation and the various       types of hot corrosion are critical issues for many components in turbine       power systems e.g.
+blades, vanes, discs, and seals.
+In well-designed       components, or with particular fuels/operating conditions, such       degradation modes can limit component life.
+The damage can affect times       between overhauls and risk of component failure.
+Test method standardisation          The deposit recoat test methodology for assessing corrosion in gas       turbines developed at Cranfield was incorporated into an EU code of       practice, and has become one of the recognised routes for assessing high       temperature corrosion (draft ISO/CD 17224).
+This is one of the first ISO       standards for high temperature corrosion and oxidation.
+Our dimensional       metrology processes and methods for data analysis form parts of two other       ISO standards issued in 2012 (BS ISO 26146:2012 and BS ISO 14802:2012,       respectively.
+Rolls Royce and Siemens have adopted the methods as their       standard approaches to assessing the performance of metallic gas turbine       materials for these forms of damage.
+The consequence has been increased       confidence in materials selection to resist degradation by hot corrosion       [C8, 10].
+New coating systems          Novel coating systems were developed for different specific environments,       focused on meeting the needs of Rolls Royce [C6-8] and Siemens Industrial       Turbo-machinery [C9, 10].
+The work is of particular interest to jet engine       and industrial gas turbine manufacturers, who need coatings that can be       operated for longer and in more arduous conditions.
+Such developments       involve increasingly complex coating systems applied in multiple stages,       but are commercially sensitive [C6, 7].
+Functionally graded coatings that       are highly resistant to hot corrosion and oxidation were produced with       Siemens and Praxair (Siemens was granted a patent with Cranfield       co-authors) [C9, 10].
+Advanced power generation systems and fuel specification          Guidance is being provided for the development of overall power system       concepts to optimise the balance between gas turbine operating conditions,       gas cleaning system requirements, fuel specifications and component lives.
+The advanced fossil fuel/biomass fired power systems that are under       development (e.g., using gasification technologies) need to push the       boundaries of materials performance in many respects with degradation due       to creep, fatigue and corrosion/oxidation limiting both component lives       and plant operating efficiencies.
+An example is a UK-US programme on       quantifying the relationships between contaminant levels and materials       damage from hot corrosion, with Siemens [C1 &#8212; C5].
+These activities have       identified materials systems to be used for gas turbine blades/vanes (and       materials systems to be avoided) for viable component lives.

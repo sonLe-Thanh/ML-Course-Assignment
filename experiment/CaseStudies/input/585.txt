@@ -1,0 +1,31 @@
+     The main impact of this project has been the delivery and installation of       smartcard ticketing technology across almost the entire bus fleet of the       South West of England, with associated social, economic and environmental       benefits (see below); at the time of writing, only one company is still to       have its equipment upgraded.
+Although such technology is relatively       straightforward to introduce in a regulated, single-authority transport       jurisdiction such as London, the deregulated operating environment of the       provincial public transport sector in the UK has necessitated the       development of a complex back office support system capable of handing       over 300 bus companies' commercial data reliably and securely.
+Our work constitutes a UK and EU first and is being used by the       Department for Transport in support of developing the national agenda as       it delivers on its stated aim of introducing smartcard technology       throughout England (see section 5).
+The DfT is clear that "The work that       SWSAL is undertaking... is central to the Department for Transport's       delivery of smart and integrated ticketing" (Reference 2).
+Local bus       company Western Greyhound, the largest independent bus operator in the       South West, agreed: "without the support and research from the university,       the investment in this new technology... would have either been delayed or       may not have happened" (Reference 4).
+As of July 2013, over 3000 new ITSO       smartcard machines have been installed and the Confederation of Passenger       Transport confirmed to us that this has brought benefits "to the local bus       sector [of] ca.
+&#163;2.539m per year," principally from eligibility for an       increased level of Bus Service Operators' Grant (BSOG)(Reference 5).
+We identify four further impacts.
+Firstly, an open access pay-per-use       ITSO back office (HOPS) and a card management system (CMS) have been       procured through the Official Journal of the European Union (OJEU), and       are available to all SWSAL members.
+These have been operational since       August 2011 and already handle over two million journey transactions per       week.
+They also support smartcards for more than one million South West       residents (predominantly Concessionary Fare passes), thereby aiding       revenue apportionment and the generation of management information.
+Speaking at the launch of SWSAL, Transport Minister Norman Baker said:       "This open access ITSO HOPS is the first system of its kind in Europe, and       this is exactly the role I'd like to see [Passenger Transport Executives]       and larger transport authorities take... By 2020 I'd like to see seamless       travel on one smartcard throughout the country.
+The South West is       certainly playing its part in the delivery of this smart ticketing goal,       and in the delivery of efficient and sustainable transport for the future"       (Reference 1).
+Secondly, England's first regional `e-money stored value transport       ticketing platform' is now being rolled out.
+This platform enables, for       example, a bus user in Cornwall to add &#163;20 to his or her smartcard online,       and then use this card on buses across the South West.
+It is the       multi-operator, multi-authority equivalent of the Oyster online top-up       scheme in London.
+The West of England Partnership, who are already       operationally live with the platform, note that "it is clear that without       the investment made, and the research completed by the university through       SWSAL, the South West would not have the UK's first multi-operator       platform for ITSO ticketing available for all local authorities and       operators to utilise" (Reference 3).
+Thirdly, a support fund to enable community transport schemes to adopt       smartcard ticketing technology has been established.
+Funds are being used       to help bring smartcard technology to Community Transport Schemes (in       partnership with the National Community Transport Association), and a       pilot project to introduce smartcards to Community Rail has been set up in       partnership with the National Association of Community Rail Partnerships       and Network Rail.
+Finally, a dedicated impact dissemination package has been provided,       where SWSAL is now using the research and subsequent outcomes to assist       other English local authorities and bus operators in meeting the       government's smart ticketing policy aspirations.
+The Department for       Transport "would... like to highlight how SWSAL have shared their       knowledge and have helped DfT and other local transport authorities to       define strategic smart requirements.
+Unquestionably SWSAL involvement has       helped push the national smart agenda forward" (Reference 2).
+It is estimated that in combination, these benefits will add up to a       cumulative net benefit across six core areas (savings in administering       Concessionary Fares, efficiencies from the regional HOPS, additional       public transport patronage due to ease of use, resulting emissions and       congestion reduction, additional Bus Service Operators Group and local       economy supply chain impacts) of some &#163;35m by 2015 (table 1).
+Benefit                             &#160;1.
+Concessionary Travel Saving           &#163;1,613,764                             &#160;2.
+Regional HOPS Efficiency Gain           &#163;1,042,147                             &#160;3.
+Additional Patronage Income           &#163;8,937,600                             &#160;4.
+Emissions &amp; Congestion Savings           &#163;4,932,337                             &#160;5.
+Additional BSOG Income           &#163;9,628,271                             &#160;6.
+Local Economy Supply Chain Impact           &#163;9,413,000                             total           &#163;35,567,119                          Table 1.
+Financial values of four-year benefit (2011-15) from ITSO       Smart Ticketing investment and usage, devised using Department for       Transport and NATA values and National corroborative research.

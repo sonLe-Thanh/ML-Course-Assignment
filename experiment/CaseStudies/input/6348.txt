@@ -1,0 +1,42 @@
+     Research at Southampton has revolutionised access to data across all       sectors of UK society, in turn influencing open data movements in the       United States, Europe and globally through the G8.
+`Open Data' is a       flagship policy of the current government, with the UK ranked #1 in the       Open Knowledge Foundation's 2013 Open Data Index (index.okfn.org/country).
+Policy impact     Following the success of AKTive PSI, Shadbolt and Berners-Lee were       appointed by then-Prime Minister Gordon Brown in June 2009, to apply their       research to making government information publicly accessible.
+Their brief       to full Cabinet in September 2009 led to significant policy change: 40% of       Ordnance Survey's geographical data were released for use by government,       businesses and individuals [5.1].
+In collaboration with web developers, politicians and civil servants,       Shadbolt and Berners-Lee oversaw the design and implementation of data.gov.uk       [5.2] which launched in January 2010.
+It became the main online       access point to thousands of government datasets relating, among others,       to crime, health and education.
+The same month, Shadbolt was appointed by       the Secretary of State for Communities and Local Government to chair the       Local Public Data Panel to provide independent advice on the release and       use of local government public data.
+It oversaw some of the most       significant data releases, for example, full details of local government       spending.
+In May 2010, Shadbolt and Berners-Lee were appointed to the coalition       government's Public Sector Transparency Board, which is responsible for       setting open data standards across the public sector [5.3].
+They       drew on their research to directly inform open data policy, drawing-up the       UK Public Data Principles to guide the release of government data [5.4].
+These were enshrined in the Open Data White Paper (June 2012).
+Prime       Minister Cameron referred in a number of speeches to the transformative       opportunity of Linked Data [5.5].
+In June 2013, Shadbolt was       knighted for services to science and engineering &#8212; in part the citation       read "He has contributed extensively to the development and practical       implementation of government policy."
+Further afield, the EU's eGovernment Action Plan (2011-2015) revolves       around open data.
+Vice President Neelie Kroes and her Cabinet consulted       Shadbolt on multiple occasions about this agenda.
+Shadbolt was then       commissioned to write the template and technical architecture for the EU's       own open data portal, launched in December 2012 [5.6].
+He also       briefed the US Chief Technology Office's Vivek Kundra on the UK Open Data       Programme.
+Most recently, Shadbolt and one of his researchers, Tim Davies,       provided input to the UK's G8 presidency work, which resulted in the G8       signing an historic Open Data Charter in June 2013, explicitly recognising       "a new era in which people can use open data to generate insights, ideas,       and services to create a better world for all."
+In an increasingly open data environment, privacy is a key concern.
+On       the back of the underpinning research, Southampton's Kieron O'Hara was       asked by the Cabinet Office to produce the 2011 report Transparent         government, not transparent citizens [5.7], in which he       stressed privacy protection should be embedded in any transparency       programme in order to retain public confidence.
+Many respondents to the       government's Open Data Consultation endorsed the report; most of his       recommendations were taken up in the 2012 White Paper and his       recommendation on collating best practice on anonymising data, led       directly to the Information Commissioner's Office creating and funding the       UK Anonymisation Network.
+O'Hara chairs the Transparency Sector Panel for       Crime and Criminal Justice, an expert panel that advises the Home Office       and Ministry of Justice (MoJ) about open data releases.
+In direct response       to requests made through the sector panel, government opened up court       data, particularly advance listings data.
+The experience has been so       positive that various other departments have also set up their own panels,       including International Development, DEFRA and Department for Transport.
+The interaction between stakeholders and officials has led to greater       awareness of risks and demand for data.
+MoJ officials consulted academics       from Southampton, Royal Holloway and LSE about an anonymised release of       data which demonstrated that the initial dataset was not anonymised       sufficiently.
+O'Hara also advised on privacy issues relating to the Home       Office's police.uk crime mapping site, a well-used flagship government       transparency project, which has so far received no serious privacy       complaints.
+Economic impact     Shadbolt and Berners-Lee's Open Government Data programme has survived a       change of government, and is part of the current UK government's growth       strategy.
+Minister for the Cabinet Office, Francis Maude, has said that by       freeing up public sector datasets for others to reuse could contribute up       to &#163;6 billion to the UK's economy.
+In his Autumn Statement in 2011,       Chancellor George Osborne announced &#163;10 million in funding to establish       the Open Data Institute (ODI).
+Shadbolt and Berners-Lee were the ODI's       Co-Founders and are Chairman and President respectively.
+Launched in       October 2012 it is incubating 10 starts ups, one of which (Mastadon C)       identified annual savings of &#163;200 million for the NHS, by analysing drug       prescription practice.
+Another is selling access to a whole range of       transport data, which Transport for London estimates has yielded a return       worth 56 times its investment.
+The ODI has had 3,000 visitors, received       delegations from around 20 countries, provided training and raised an       additional &#163;4 million in funding.
+A 2012 report [5.8] by Deloitte       for the Department for Business, Innovation and Skills estimated the value       of public sector information to consumers, businesses and the public       sector at approximately &#163;1.8 billion, with "much larger downstream impacts       affecting all areas of society beyond the direct customer.
+Societal impact     Data.gov.uk now contains around 10,000 datasets that can be used to       create new software applications, capable of determining anything from the       nature of local authorities' spending, to the whereabouts of the UK's bus       stops.
+Applications built using the data include services like Fix My         Street, which helps those wanting to report local problems like       fly-tipping or broken street lighting.
+The website Who's Lobbying       tracks who is meeting who in the higher echelons of government.
+Spotlight         on Spend helps councils make information on its public spending more       accessible, and thus more transparent.
+In effect, data.gov.uk has enabled       the public &#8212; and investigative journalists &#8212; to collectively mine data for       the common good.
+Shadbolt has led efforts to promote the value and       potential of open data to the wider public through regular media exposure       (both op-eds and interviews) in national newspapers [5.9].
+The research also inspired the creation of data.southampton.ac.uk, a       prize-winning open data site for the University that is saving money,       driving innovation and being copied by other HE institutions [5.10].

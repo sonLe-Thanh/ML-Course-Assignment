@@ -1,0 +1,32 @@
+     The research into VNC created the remote access market.
+RealVNC was       founded in 2002 by Professor Hopper and Dr Andy Harter to promote, enhance       and commercialize VNC.
+Today, Hopper is Chairman and Harter is CEO.
+RealVNC is the only organization offering commercial licenses to embed       remote control and access capability into third-party products and       services.
+VNC is an extremely widely ported piece of cross-platform software:     "Over 300 million licenses have been sold across over 175 countries, and       given that our software is also available in free and open source       versions, this makes VNC the most widely ported piece of cross-platform       software."
+(CEO RealVNC) [7]     VNC is the default mechanism for remote sharing of graphical desktops       across the internet.
+One of the major benefits that RealVNC offers to customers is the ability       to resolve IT issues remotely, minimizing downtime and leading to       associated savings in cost and efficiency.
+In 2010 Intel embedded RealVNC software into their vPro and i5 &amp; i7       processor chipsets.
+[7] This allows remote maintenance irrespective of the       main processor state.
+One hundred million VNC-enabled chips have been       manufactured to date.
+This initiative enables IT technicians to boot       machines from a remote location, meaning that machines no longer need to       be left on overnight to allow time-critical software patches to be       deployed.
+This in turn has led to energy efficiencies and cost savings       from reduced power consumption.
+For example, an ROI Analysis conducted in       2009 for Intel at the California University of Pennsylvania, which has       2,170 desktop PCs across its campus, found that the ability to remotely       boot up machines in this way was likely to save around [text removed for       publication] per year in reduced energy costs.
+[11]     In January 2011, Google purchased a [text removed for publication]       license to embed remote access capability in Chrome products [6].
+An       Engineering Director at Google, said `We are thrilled to tap into       RealVNC's proven technology and expertise.
+'[10]     The company won two Queen's Awards for Enterprise in 2011, for Innovation       and for International Trade [8].
+In the same year, the company was       Cambridge Ring Company of the Year and Business Weekly Private Company of       the Year.
+In 2013 it won a third Queen's award, again for International       Trade, and the Royal Academy of Engineering's MacRobert Award, the premier       award for UK innovation in engineering.
+[9]     The following examples demonstrate the wide deployment of RealVNC systems       and the commercial advantages of using RealVNC software [7,12]:     Example A.
+Since 2009, Alexandria Police Department Tactical Computer       Section, Virginia, USA, have used RealVNC with an Enterprise License to       support its fleet of mobile computers.
+The ability to fix problems in real       time has allowed officers to remain in the field serving the community       rather than returning to headquarters to fix their PC.
+Example B. Telesat Canada operates 25 orbital satellites.
+It requires       24/7 access to multiple remote sites plus cross-platform support for UNIX       and Windows systems.
+Since 2010, RealVNC's cross-platform remote support       has enabled Telesat's satellite controllers and antenna engineers to       remotely access all the networks required at any time of day or night,       which is critical to success when the time taken to drive into work could       be enough to lose a satellite.
+Example C. The W. M. Keck Observatory adopted VNC in 2009 to remotely       display screens from their telescope systems, based near the 4200 meter       summit of Mauna Kea, and to manage and administer its systems whether       Windows, Mac or UNIX.
+The performance of RealVNC has enabled the       Observatory to reduce its operating costs.
+Example D. The ability to fix problems without the need for inconvenient       travel has also been of benefit for Boston Valley Terra Cotta, who have       used RealVNC since April 2010 to minimize the risk of expensive product       damage in their kilns and dryers.
+They have also made use of RealVNCs       iPhone application `VNC Viewer' to effectively manage the production       process when access to a PC is not possible.
+Example E. Burwin Leighton Paisner LLP have used RealVNC since 2008.
+They       use VNC with an Enterprise license so that their IT helpdesk, based in       London, can remotely support their offices in Abu Dhabi, Brussels, Paris       and Singapore, resolving 95% of IT issues in this way.
+VNC is also used to       provide internal training to new starters, providing an efficient and cost       effective alternative to travel for such purposes.
+Dartford Borough       Council have similarly found that deploying VNC enables their technical       support time to resolve 90%of issues remotely, saving on off-site travel       costs and making the best use of Council resources.

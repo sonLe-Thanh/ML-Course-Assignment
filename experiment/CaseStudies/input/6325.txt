@@ -1,0 +1,34 @@
+     A significant contribution of our research can be charted through the       change in professional use of       earth resistance surveying away from the dominance of the Twin-Probe to       the Square Array.
+Bradford research highlighted the value of the Square Array configuration       to reduce orientation       problems and issues related to reversal of signal.
+The significance of       this can be seen by the       commercialisation of the Square Array (SA) by Geoscan Research.
+Geoscan       used the published       research to collect SA data via a cart system, as suggested by Aspinall.
+In addition, via small       grants and a Case PhD with Geoscan Research, the Bradford group has       developed this into a low       footprint multi-sensor device with improved service delivery incorporating       GPS positioning.
+When       investigating archaeology buried beneath vulnerable surface deposits       measurements of many       parameters in one sweep is key to sustainable actions.
+This is a major       concern within heritage       management.
+The SA incorporating the cart system is now used widely for       heritage management       for archaeological purposes as well as speculative prospection for       planning purposes.
+Geoscan       Research has sold this system throughout the EU and exported to both New       Zealand and the USA       (a).
+In some areas, such as Eire, it is the dominant collecting tool for       earth resistance: data from       the National Roads Authority Archaeological Geophysical Survey Database       suggest that prior to       2008, 4% of resistance surveys used the SA with 33% thereafter.
+One Irish       group report 41 SA       surveys since 2008 (76% of all resistance surveys) as opposed to only six       SA surveys prior to that       period.
+The reasons for the popularity of the Bradford-inspired SA include       quality of data, increased       speed of survey and richer datasets (b).
+Policy and Guidance       Bradford research into archive digital data format and associated metadata       for archaeological       geophysics led to the first guidance for data longevity (7).
+The reach of       the impact is demonstrated       in that the metadata schema proposed by Schmidt was incorporated into the       OASIS system       (Online Access to the Index of Archaeological Investigations) in 2007.
+Subsequently contractors       and researchers undertaking geophysical survey have included metadata and       survey       documentation in OASIS submissions; many have also included grey       literature reports (c).
+Schmidt's work demonstrates international reach with an updated version of       reference 7 including       good guidance for geophysical survey in the USA (d).
+The Bradford work       significantly influenced       the Institute for Archaeologists' Geophysical Special Interest Group       (GeoSIG) and, within their       inaugural meeting, archiving of geophysical data was identified as one of       the major issues for       commercial groups.
+The Bradford contribution forms part of the IfA's Draft       Standard and Guidance,       which has become a professional standard (e).
+The value and impact of Bradford's research is clearly demonstrated in       the English Heritage (EH)       guidance on geophysical survey (f).
+Worldwide these guidelines are       recognised as the benchmark       for commercially-focussed evaluation and the authors draw heavily on       Bradford's contribution.
+There are 15 references in the document to the Bradford geophysical group.
+Ten are post-1993       and include references 2, 4 and 7.
+According to EH figures the document       has been downloaded c.       9000 times since 2008 while 2500 hard copies have been distributed (g).
+These figures far       outnumber professional geophysicists working in archaeology, demonstrating       a wider reach to       consumers of geophysical surveys including planners, developers and       community archaeologists.
+Unique downloads indicate that 15% are international and the reach can be       demonstrated as the       guidelines have been incorporated into many other guidance documents       including the Dutch       Quality Standard (KNA), Bavarian State, National Roads Authority       (Ireland), the EuroGPR       Guidelines for Archaeology, the Californian Transportation Cultural       Handbook, and the European       Association of Archaeologists guidelines (g).
+In addition, the       international value of reference 4 for       guiding new geophysical users is demonstrated by the 22 citations within       the archaeological       geophysics for Department of Defence guidance document funded by the       American government's       Environmental Security Technology Certification Program (h and i).
+Interpretation and Public Engagement/Awareness       Public engagement with geophysical prospection has increased significantly       throughout the last       decade.
+The understanding and use of prospection techniques by the public       is strongly linked to       the work of the geophysical group at Bradford.
+The work of Gaffney and       Gater has impacted on       public perception by introducing new techniques and methods on successful       TV programmes.
+Their long-term contribution to C4's Time Team is an obvious example of       this and is underpinned       by reference 4.
+However, the impact of this research is much deeper than       the 2-3 million regular       viewers and 15-20 million who watch occasionally.
+Community groups have,       as a result of the       visible demonstration of the techniques pioneered by the Bradford group,       undertaken surveys of       their own.
+Much of this activity is Heritage Lottery-funded.
+Since 2008       HLF has funded over &#163;1       million on 34 projects that incorporated geophysics into their bids, and       this is a shift away from       watching to doing archaeology by a greater number of the public (j).

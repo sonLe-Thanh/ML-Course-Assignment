@@ -1,0 +1,35 @@
+     Economic impact     InforSense was formed as a spinout company from the Department of       Computing, Imperial College London in 1999 by Professor Yike Guo.
+In 2002,       Imperial College assigned the intellectual property rights of the       technology developed in the Discovery Net e-Science Pilot Project to       InforSense for commercialisation.
+The company was merged with IDBS in June       2009.
+InforSense: In 2003, after winning the "Most Innovative Data       Intensive Application Award" at Supercomputing 2002, the company put       in place its first organized sales force, with a focus on Life Sciences       bringing it the first pharmaceutical customer (GSK).
+In 2007, InforSense       was ranked amongst the top 25 fastest growing private technology companies       in the UK by The Sunday Times and was included in the 2008 Red Herring       Finalist of Top 100 Companies in Europe.
+The company grew from 5 to 150       employees between 2002 and 2009, with a customer base of nearly 100, 70%       of which are Fortune 200 companies and all major pharmaceutical companies       (including GSK, AZ, Novartis, Roche, Bayer, Pfizer, J&amp;J, Ely Lilly).
+InforSense generated over &#163;15M sales before merging with IDBS in June       2009.
+IDBS became the world's second largest life science informatics       company, and then became the world-leading provider of translational       informatics solutions.
+[A]     IDBS: The IDBS healthcare informatics technology is directly based       on InforSense's technology.
+The merger allowed IDBS to start its       healthcare informatics business with 8 large healthcare organizations as       new customers [A, B, H].
+The 2010 Company Report of IDBS [G] shows a 29%       increase in revenue since the takeover.
+The company now has 275 employees       worldwide and revenues of $50M with subsidiaries in UK, USA, France, Japan       and China.
+Prof. Guo has been the Chief Innovation Officer since the       merger.
+Through IDBS [C], the technologies such as analytical workflow,       research provenance management and collaborative support, developed in the       underpinning research within the Department are currently used by more       than 200 pharmaceutical companies, major healthcare providers, global       leaders in medical research, and high tech companies to manage and analyse       large scale research data for industrial R&amp;D and clinical research       [A].
+IDBS won the Queen's Award for International Trade 2011 for       outstanding business performance and technology innovation.
+Pharmaceutical and Healthcare Industry Impact     The main impact of the developed technology is felt in the area of drug       discovery and translational medicine research:            Drug-discovery research where genomic, proteomic and metabolomic data         have to be integrated with chemical information, imaging and textual         data in the same analysis pipelines, with the aim of discovering and         developing new drugs [1], [F].
+Translational medicine research where the analysis of the genomic,         proteomic and metabolomic data needs to be integrated with patient data         and medical records with the aim of identifying disease biomarkers,         selection and design of treatment protocols and prediction of side         effects for healthcare and for future personal medicine [D, F].
+Within the pharmaceutical industry, the knowledge management technology       developed in the department has been used in most major pharmaceutical       companies through various InforSense and IDBS products.
+Within the domain       of healthcare applications, the technology is currently used at the Dana           Farber Cancer Institute of Harvard Medical School to       integrate and analyse patient and sample data to define cohort studies in       cancer genomics studies [D], and at the CHOP (Children           Hospital of Philadelphia) to support Genome Wide Association       data analysis integrating patient data and genotyping results.
+It is used       at the Mayo Clinic to support the development of personal       medicine.
+Erasmus Medical Centre and Southampton           University Hospital have used it to develop new       treatment methods for Acute Myeloid Leukemia and Asthma.
+Windber           Institute/Walter Read Army Research Centre used the technology       to build the first completed translational breast cancer research       database, covering all women in the US Army.
+The system has been used to       study life style, cancer prevention and determine effective treatment for       all female soldiers in the US Army.
+It was the largest translational       research project in the US army in 2010 [D].
+It was also used at King's           Health Partners as the basis of its Oncology Research       Information System (ORIS) for large-scale translational research.
+The       initial ORIS deployment enables combining clinical, genetic and tissue       sample data across more than 26,000 historic breast cancer patients       alongside a current feed of new, consented patients' data direct from the       clinic into the longitudinal research database [E].
+The National Centre for Mental Health (NCMH) in Wales       established the Wales Mental Health Network (WMHN) to recruit 6,000       volunteers for studying mental health disorders such as schizophrenia and       bipolar disorder.
+The workflow technology and the big data collaborative       framework based on the underpinning research enable clinical cohorts to be       easily defined and analysed from new subjects as well as providing access       to over 3,000 historic records.
+The success of the application of the technology led to major EU funding       as part of the &#8364;24M eTRIKS project from IMI in Oct. 2012 a 5 years project       to build up a translational informatics cloud for Public Private       Partnership-based clinical trials.
+The underpinning technology is the core       component of this industrially led project for which Prof. Guo is the       academic PI.
+The project involves the participation of 12 major       pharmaceutical companies and medical research institutions &#8212; Roche,       AstraZeneca, Sanofi, Pfizer, Merck, Lundbeck, Janssen, GSK, Lilly and       Bayer have provided &#8364;11.5M funding and committed to make eTRIKS the       industrial common platform for translational research.
+This activity is       stimulating the formation of the tranSMART foundation as a global       organisation to standardize translation informatics technology.
+tranSMART's technology originated from InforSense's translational       informatics technology.
+Prof. Guo has been appointed as the Chief       Technical Officer of tranSMART foundation [F].
+The first version of the       full open source tranSMART system (tranSMART &#8212; eTRIKS version) was       released in June 2013 and deployed in 6 major pharmaceutical companies and       many research institutes worldwide.

@@ -1,0 +1,25 @@
+     This case study shows how the RG1's work contributes to new       technology/product development by directly engaging with the Memory       Devices Consortium through secondments of the University researchers to       IMEC.
+The members of this Consortium include Intel, Micron, Samsung,       SanDisk, SK Hynix, and Toshiba.
+Between 2009 and 2012, the University and IMEC have signed three official       collaboration agreements to work on the new generation of memory devices       [C1.1-C1.3], involving the following:            IMEC provided in-kind support for the work at the University.
+The test         samples supplied to RG1 were costed by IMEC at 900,000 Euros, as         specified under the heading of `Article 3 FEES' in the three agreements         [C1.1-C1.3].
+In return, RG1 researchers spent six- months per person per         annum at IMEC to work together with the industrial partners.
+RG1         researchers, W.Zhang and B.Tang, worked for cumulative two person-years         at IMEC.
+The research plans were defined and tailored specifically to meet the         most important needs of the industrial partners: implement and qualify         the high-k dielectric for Flash memory.
+Discussions between researchers         from the University, IMEC, and industrial partners were carried out         through the regular progress meetings.
+Test samples were manufactured at IMEC to the highest standard         according to the industrial partners' requirements in order to         investigate issues of their major concern during new technology and         product development.
+These state-of-the-art samples were supplied to the         University, so that its work is of direct relevance to the Consortium.
+Utilization of the development work at IMEC has led to the successful       introduction of high-k dielectrics for new generations of commercial flash       memory technology.
+For example, Intel/Micron has used the high-k       dielectrics in their 20-nm production since 2011, "which has been a major       breakthrough for the Flash memory industry" [C1.4].
+The specific contributions of the RG1 research to the development work       are:            Proposing and demonstrating the pulse techniques for probing the         defects in memory- relevant high-k dielectrics and using them in         qualifying memory devices [C1.4, C1.5];       Disseminating these techniques and results to the Consortium members         through progress reports, oral and poster presentations at industrial         review meetings, and seminars.
+For example, W.Zhang was invited to give         a seminar on the 2-pulse technique not only to the industrial assignees         at IMEC, but also to engineers at Intel's base in California, USA         [C1.6].
+Implementing these techniques at IMEC [C1.6].
+As confirmed by Dr Van Houdt, IMEC Flash Memory Director, in [C1.4],       "These pulse techniques were extensively used in the qualification of new       Flash memory technology and were proven as powerful and essential tools in       a number of aspects".
+For example, the pulse techniques were used in       optimising the structure of inter-gate dielectrics.
+The defect energy       profiles provided by the pulse technique revealed that the source of poor       memory retention of HfAlO is the presence of shallow electron traps       [R1.1-R1.3].
+It also identifies the traps at deep energy levels as       responsible for the memory endurance problem with Al2O3 [R1.1-R1.3].
+Through a delicate combination of these two dielectric materials, the       device performance was optimised.
+In relation to the significance and reach of the impact, Dr Van Houdt       stated [C1.4]:     "The performance of the 20-nm generation, as a result of using the high-k       IGD layer, was enhanced significantly compared with the previous       generation: cell size reduced by 30%, performance improved by 30%, and       bit-cost reduced by 30%.
+The pulse techniques developed by LJMU       researchers made an important and essential contribution to this       development, an exemplar in terms of the impact of university research on       industry.
+The revenue of Flash memory industry reaches well over $20       billion in 2013 and therefore the impact is significant and on a global       scale."
+As a result of the success of the 20-nm technology, Intel/Micron's NAND       Flash memory revenue alone reached $4.19 billion in 2012, and its global       market share increased to 22% from 19.5% in the previous year [C1.7].
+Dr.       Pierre Farzan, On-site Manager of Micron Technology Inc., confirmed that       "the research work performed by LJMU is providing very valuable       characterization techniques to our Consortium and add substantial value to       the Flash memory program and industry" [C1.5].

@@ -1,0 +1,50 @@
+     Introduction     The algorithms driving dS are taken from software and methods developed       by Glowacki in order to understand the fundamentals of chemical       reaction dynamics and energy transfer in liquids.
+This research occurred       as part of the EPSRC Programme Grant employing Glowacki, through       collaborations with Orr-Ewing and Ashfold.
+The exceptional       performance of the dS software benefits from a suite of GPU-accelerated       algorithms, developed by Glowacki in collaboration with       McIntosh-Smith and Tew, a resident at the Pervasive Media Studio in       Bristol.
+Impact: Public Audiences     Glowacki recognised that combining his fast MD algorithms with       3D-depth sensors could facilitate an immersive, interactive molecular       dynamics experience.
+This led him to develop an integrated       software/hardware system that functions as an installation piece for       cultural institutions.
+dS's sonic and graphic tools may be used by a range       of non-specialists, including artists, educators, and hobbyists.
+This has       facilitated the development of `Hidden Fields' (HF) the world's first       dance show based on molecular dynamics (1), which Glowacki       developed along with an interdisciplinary team including Tew,       choreographer Laura Kriefman, musician Joseph Hyde (Professor, Bath Spa       University), music technologist Thomas Mitchell (Senior Lecturer, UWE), a       team of five professional dancers, and film-makers Nathan Hughes and Jacob       Parish.
+To date, over 20,000 people have attended dS and HF events (2).
+Web statistics show well over 40,000 hits for related content (3),       and `Googling' `danceroom spectroscopy' gives more than 200 pages of hits.
+Notable live events include (2):            Shambala Arts Festival: Aug 2011, 2000 participants, mostly a young,         arts-oriented audience (2).
+Bristol's Arnolfini: July 2012, 2000 participants, a wide         cross-section of the public, spanning all ages with a range of interests         (2).
+London 2012 Cultural Olympiad: Aug 2012, 2000 participants, spanning         all ages with a range of interests.
+London's Barbican Arts Centre: Nov 2012, 2000 participants with         interests in art and technology (4).
+London's Big Bang science/engineering fair: Mar 2012, 6000         participants, children and families interested in science (5).
+New York City's World Science Festival: June 2013, 1000 participants,         children and families interested in science (2).
+The Bristol Old Vic theatre, in collaboration with violinist Nicola         Benedetti as part of the Bristol Proms: Aug 2013, classical music         audience (2).
+Following the tremendous audience response dS and HF received at the       London 2012 Olympics and the Barbican Arts Centre, NVIDIA and Arts Council       England have provided nearly &#163;70k in funding to support algorithm       development and an international tour of dS and HF in 2013/14 (6).
+The momentum associated with this tour has led to a further &#163;75k of       funding from The Royal Society of Chemistry, EPSRC, University of the West       of England, and the Watershed Arts Trust to support a danceroom       Spectroscopy festival, (7) with events aimed at year-9 school       children, university students, artists, and the general public.
+Upcoming       performances of dS in 2014 will include the ZKM Centre for Art &amp; Media       (Karlsruhe), and London's Barbican.
+dS is profoundly cross-disciplinary, combining physics, chemistry,       computer science, human-computer interaction, art, and music.
+It thus       offers a brilliant "way in" to complex chemistry and physics for people       who are often hard to reach, eg teenagers, clubbers,       festival-goers, and those interested in art.
+The majority of dS       participants indicate that they come from arts backgrounds, with little       exposure to science.
+Written feedback obtained over 21-22 July 2012 at the       Arnolfini suggests that dS sparks interest in science and the way that       scientists think.
+Example quotes of respondent's impressions having seen       dS/HF include:            "[dS made me think about] how we interact with all the matter           constantly surrounding us."
+"Science has never been so spellbinding."
+"[dS/HF] can teach science in an innovative and creative way."
+"Whether dance or science dS is totally absorbing and utterly           wonderful."
+"[dS/HF] makes me think about how I might be influencing everything           around me."
+"an amazing fusion of science and art, something I have never seen           before."
+"just because we cannot see [things] does not mean they are not           there.
+There is more to the universe than meets the eye."
+Impact: Cultural, Artistic, and Media Sectors     dS and HF have resulted in a number of awards and award nominations       including (8):            `Best Digital Innovation 2012' from the UK Royal Television Society.
+Honorable mention for the Prix Ars Electronica (amongst the most         presitigious global awards in digital art).
+University of Bristol 2013 Public Engagement Award.
+Nominee for 2013 UK Media Innovation Awards          There have been many opportunties for exposure to dS via media outlets.
+For example, dS was highlighted by the newly appointed chair of Arts       Council England, Sir Peter Bazalgette, during his inaugural lecture in       March 2013, Glowacki has conducted radio interviews for both BBC       Radio Bristol and Monocle-24 (a London-based radio station), dS has been       written up in the press at least 35 times, including a range of popular       science outlets including Physics World (Institute of Physics), Chemistry         World (Royal Society of Chemistry), New Scientist, and The         Guardian (8,9).
+dS's impact on the UK's cultural, artistic, and media sectors has been       strengthened considerably through connections to Bristol's Pervasive Media       Studio (Watershed) (10) and Arnolfini Art Gallery, who together       provided over &#163;35k of in-kind support for dS development during 2010 to       2012.
+For example, dS's recent London premier at the Barbican has provided       excellent exposure for both these institutions within the UK creative       technology sector.
+The Watershed have recently used dS as a "Talent       Development Case Study" detailing successful examples of       cross-fertilization between media organizations and the academic sector       and in collaboration with the Institute of Physics, dS's inspired the       Pervasive Media Studio to initiate a public communication of science       residency.
+Impact: Non-Academics     dS and HF have had substantial impact on Glowacki's non-academic       collaborators.
+Following dS/HF success:            Kriefman has enjoyed significant exposure, with invitations to conduct         workshops in collaboration with premier UK dance institutions including         the Royal Academy of Dance (London) and Northern Ballet.
+Tew has boosted his international reputation as a generative digital         artist.
+He was awarded a Pervasive Media Studio residency, which led to         his participation in a MADE commission to work on a multi-site European         digital art project entitled "Me and My Shadow".
+Hughes and Parish have produced a series of high-impact legacy film         documents detailing the groundbreaking collaboration that has resulted         in dS/HF.
+For example, a dS mini-doc was recently shortlisted for a         $100k "Forward Focus" prize sponsored by GE (11).
+The professional dancers who performed in HF have gained valuable         experience at the collaborative frontiers of art and science, and learnt         strategies for incorporating technology into arts practice.
+They have         improved their ability to engage public audiences in bringing hydbrid         forms of art to nontraditional audiences.
+Impact: Commercial     dS has momentum for expansion into commercial sectors, with an initial       focus on education.
+It has resulted in the first ever real-time 360&#176;, 3d       depth-capture system and yielded a state-of-the-art, GPU accelerated       framework for carrying out quantum molecular dynamics.
+To exploit these       opportunities, Glowacki formed a spin-out company, Interactive       Scientific Ltd. (12) with a projected turnover of approximately       &#163;150k expected during 2013/14.

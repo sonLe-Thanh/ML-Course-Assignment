@@ -1,0 +1,33 @@
+     Beneficiaries:       Inherited genetic skin disease patients and their clinicians.
+Benefits and impacts:     (a) New diagnostics for several genetic skin diseases.
+(b) Significant contribution to international patient registry and       support.
+(c) Initiation of the first human clinical trial for siRNA therapy of       pachyonychia congenita.
+Background       The identification by the University of Dundee of many of the genes that       underlie keratinizing disorders, such as Epidermolysis Bullosa (EB) and       pachyonychia congenita (PC) has impacted on the diagnosis, clinical       genetic management and support of patients and families with these       disorders.
+Epidermolysis Bullosa can give rise to significant disability       and is thought to affect 1 in 17,000 live births.
+Pachyonychia congenita       is classified as an ultra-rare genetic skin disease but its effects on       patients are profound, causing painful blistering and calluses on the       feet, thickened nails and cysts.
+Impacts:     Diagnosis       The major impact of this research has been to transform the diagnosis for       several keratin disorders.
+Prior to the discovery of the genetic basis of       these diseases, several clinical classification schemes were proposed.
+Unfortunately classifications by clinical criteria were hindered by       significant variability of the phenotype, even within affected members of       the same family.
+In the case of PC, the average general practitioner might       only see one or two cases in an entire career.
+Failure to correctly       diagnose keratin disorders due to the diversity in the clinical features       often resulted in incorrect or inadequate treatment.
+The advent of       mutational screening avoided the ambiguity of diagnosis, permitting       classification of the subtype, as well as the providing the option for       prenatal genetic diagnosis.
+Thus, while clinical diagnosis is important,       genetic testing has transformed the ability to verify the patient's       condition.
+The UK Genetic Testing Network (UKGTN) advises the NHS on genetic testing       and assesses whether providing a test is likely to be of benefit to       patients.
+In 2003, as a direct result of the discovery of the causative       mutations by the team in Dundee, UKGTN approved a genetic test for       Epidermolysis Bullosa.
+As a consequence, the National Services Division of       the NHS has funded a UK-wide genetic testing service for Epidermolysis       Bullosa since 2007 (1).
+This genetic testing service is run in the       NHS-Tayside Molecular Genetics Unit at Ninewells Hospital in Dundee, which       has become the primary centre in the UK for genetic diagnosis for all       keratin disorders.
+Over 200 individuals have been identified with       Pachyonychia congentia by the genetic diagnosis service in Dundee over the       REF assessment period (2).
+The University of Dundee also runs the       international molecular diagnostic service for PC where state-of-the-art       sequencing methodologies are used to identify causative mutations.
+In the       case of PC, &gt;1000 patients have been identified worldwide to date.
+In addition to an earlier and more accurate diagnosis, a further impact       of approved genetic diagnosis for these disorders has been the opportunity       for disease prevention through pre-implantation diagnosis for couples       concerned about transmitting an inherited disease to their children.
+Pre-implantation diagnosis detects a specific disease-causing genetic       mutation within an embryo before it is transferred to the womb.
+Genetic diagnosis of PC by the laboratory of Prof McLean was highlighted       in the public domain in a recent episode of the Channel 4 show Embarrassing         Bodies on 16th April 2012 (3).
+Creation of international patient registry and patient support       Often in rare diseases, individuals are widely scattered throughout the       world.
+As a consequence, little progress can be made on treatment.
+Research in Dundee has directly resulted in the creation of an approved       patient registry, the International Pachyonychia Congenita Research       registry (IPCRR).
+Established in 2004, the registry collects clinical and       genetic data on patients with PC worldwide and is funded by the       organisation Pachyonychia Congentia Project, a public charity, founded to       support the development of treatments for PC (www.pachyonychia.org)       (4).
+Patients have now been identified in over 50 countries with over 750       patients registering on the IPCRR during the REF assessment period (5).
+Genetic testing to confirm PC, genetic counselling and consultations with       dermatologists specialising in keratin disorders are all coordinated by       the PC project and are provided free of charge to patients       internationally.
+Clinical Trials       In 2006-2008, Prof McLean and his team made significant progress in the       development of therapeutic siRNAs for PC.
+As a consequence of this and the       creation of the PC research registry, the first clinical trial using siRNA       for PC commenced in January 2008.
+Funded by the PC Project, this is the       first phase 1b clinical trial for a skin condition and for specific       silencing of a mutant gene to successfully demonstrate the clinical       efficacy and safety of siRNA treatment (6).

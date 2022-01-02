@@ -1,0 +1,45 @@
+     With funding from UK and EC sources we have turned our research results       into open source code that has been exploited in multiple different       sectors.
+The objective of the PERMIS research has been to deliver proof of       concept privilege management infrastructure (PMI) software for the       software engineering community to experiment with, build into their       prototype applications, and if desired, re-engineer into commercial or       military grade products.
+In this way we achieve the highest possible       impact for the lowest cost.
+The strategy has been very successful, and we have had 475 registrations       from Jan 2008 to July 2013, excluding all Kent users.
+Software downloads       have consistently been in the thousands per year, and between Aug 2009 and       July 2013 totalled nearly 14,000 (excluding Kent).
+An analysis of the       geographic spread, taken from the IP addresses of the top 20 downloaders       in 2012, shows the global reach of the impact: 6 from China; 2 from India,       2 from Taiwan, 5 from the USA, and 1 each from Vietnam, Rumania, France,       Israel, and the UK.
+(Note that a username and password are needed so they       are not accessible by web crawlers.)
+As can be seen, the PERMIS software is being used globally, but being       security related, information about how PERMIS is being used and by whom       is kept confidential by most users, who provide pseudonyms when       registering for downloads.
+Gmail, yahoo, 163 and hotmail email addresses       are most commonly used.
+They invariably do not respond when asked for       details about how they are using PERMIS.
+However some users do identify       their organisations, and over the years registrations have been recorded       from Alcatel-Lucent, JMP Chase, Deloitte, South African Government,       Siemens, Thales, Adobe, Booz Allan and Orange.
+One major project that used       PERMIS was the &#8364;41million FI-Ware project (see http://www.fi-ppp.eu/projects/fi-ware/).
+This is a consortium of all the major European Telecom providers, whose       goal is to "advance the global competitiveness of the EU economy by         introducing an innovative infrastructure for cost-effective creation and         delivery of services, providing high QoS and security guarantees."
+From personal contacts and visits Chadwick knows that PERMIS has been       used for several years by a large multinational aerospace, defence and       security company (who wish to remain anonymous) in their research labs.
+Initially the PERMIS authorisation decision engine was used for       authorisation decision making, and more recently the Delegation Issuing       Service has been integrated into many security use cases.
+Their objective       is to provide industry-ready solutions focused on role management and       authorization.
+From email correspondence, Chadwick knows that a US based leading       provider of management consulting, technology, and engineering services is       evaluating the use of PERMIS as an alternative Policy Decision Point to be       used in an environment where standards based web services can be rapidly       built and deployed.
+No further details can be released due to the       sensitivity of the work.
+Among the companies that are using PERMIS and are happy to share the       experience, we can report examples from the following domains: telecoms,       defence, virtualisation, audit:     Unizeto Technologies SA, Poland, [S4: references are to contacts       listed in Section 5] is working with the Polish Ministry of Economy and       Ministry of Justice in order to issue PERMIS X.509 AC's to either       individuals or companies, confirming that they have either private       economic activity     https://prod.ceidg.gov.pl/CEIDG/ceidg.public.ui/Search.aspx     or are established and registered in the national registry     https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu     The objective is to build a policy based authorisation system built on       AC's issued by the government.
+The Toyota National College of Technology, Japan [S1] is using       PERMIS to provide RBAC access to its high security hypervisor called       BitVisor.
+The initial development of BitVisor was initiated by the       National Information Security Center of Japan in 2009.
+In the initial       development, Dr. Hirano designed the ID management functions of BitVisor       which required the user to have a smartcard with an X.509 certificate       before he can access a PC, but the PC was statically configured.
+Adding       PERMIS to Bitvisor allows the administrator to dynamically configure the       use of BitVisor on PCs.
+Dr Manabu Hirano from Toyota came as a visiting       researcher to work with Prof Chadwick from June 2012 to Jan 2013, in order       to perform the design and integration research.
+BitVisor is currently       being commercialised by IGEL, a Japanese SME.
+The Swiss Ministry of Defence [S3] has especially rigorous       security standards and therefore need military grade software.
+Consequently it has hardened the core components of PERMIS for use in an       air force application.
+It released the code back to the community as       Hardened PERMIS, originally via the EC OSOR web site &#8212; no longer       available, but the archive version is here:     http://web.archive.org/web/20111113084114/http://www.osor.eu/projects/openpermis     which kept statistics about its code base.
+It reported that:     "The estimated cost to develop this project is 1,810,915 EUROS This         project has 74,854 lines of code.
+To develop a similar application you         would need 18.58 person-years."
+When the OSOR web site merged into the EC joinup web site in 2011,       Hardened PERMIS was moved to         https://joinup.ec.europa.eu/software/openpermis/home.
+By way of comparison, the current PERMIS code base comprises over       235,000 lines of code, three times the size of Hardened PERMIS.
+So, using       the same estimation methodology, the potential economic value of it to the       community is approximately &#8364;5M.
+Most organisations customise and build upon the PERMIS code.
+Thales [S2] has been working on authorization and Role Based Access       Control for a number of years and have said that their "work would not         have been the same without the close cooperation we could establish with         Prof. D. W. Chadwick's team at University of Kent".
+Recently, Thales       has engaged one of its engineering teams to work within a cloud computing       collaborative project, under the auspices of OW2, which is an independent,       global, open-source software community.
+The OpenCloudWare project       covers many aspects of cloud computing, one of these being authorization,       which is a subproject led by Thales.
+The technical directions that they       are taking "are derived from those of PERMIS, which has to be viewed as         preliminary, mandatory project, that helped significantly to understand         the issues around Attribute Certificates".
+Thales is currently       delivering a stripped down library for X.509 attribute certificate       management that is "extremely close from the original PERMIS DIS".
+Details about this work can be found at http://www.opencloudware.org.
+Some organisations have contributed their enhancements back to us, making       them freely available to everyone.
+In particular:     &#8212; HP India provided us with source code for using our secure audit       service (SAWS) with .NET;     &#8212; CCLRC (now the Science and Technology Facilities Council &#8212; STFC) [S5]       provided us with a Python interface and a .NET interface to PERMIS.
+Thales has produced French language variants of various components of       PERMIS for use in their French offices, but has not contributed these back       to the open source code base as yet.
+In summary, PERMIS has had a broad and substantial impact on the security       of software used by hundreds of thousands of end users through being       incorporated into a range of systems in applications from different       sectors including military, commercial, and governmental.
+The       sustainability of the system has been underpinned by the contributions to       the open source project from the Swiss Army, HP and STFC amongst others.

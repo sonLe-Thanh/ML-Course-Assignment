@@ -1,0 +1,25 @@
+     The first stage of the research (to estimate the rate of unplanned       maintenance [5.1]) produced what became known within Yorkshire Water       Services as "Edinburgh curves" for different types of assets [5.2.1 &amp;       5.2.2].
+These curves gave a scientific underpinning to the deterioration       model which contributed to the assessment of the need for future       maintenance activity.
+This assessment was the basis for the evidence       Yorkshire Water Services submitted to the English water regulator (OFWAT)       to support the company's price review [5.2.1 &amp; 5.2.2].
+Thus within       Yorkshire Water Services, the research had an impact on the budget for       maintenance projects estimated to be in the order of &#163;1.93bn 2010-2015       based on findings and the prices charged to customers [5.3].
+The approach       was also taken up by Gap Gemini to underpin work carried out to assist       Severn Trent Water Company with its submission to the regulator [5.2.5].
+A further consequence of the implementation of the research in Yorkshire       Water Services was the development of a Risk Management Training programme       [5.1].
+The aim of the training was to make employees more aware of the       techniques available for the management of risk within the organisation.
+Between 2008 and 2010, over 100 staff participated in the programme [5.3].
+The training was organised at two levels: an awareness level and an       understanding level.
+The aim of the former was to give all technical and       managerial staff the ability to assess how their role had an impact upon       the efficiency and effectiveness of the organisation.
+The understanding       level allowed individuals to develop their skills in implementing       appropriate procedures within Yorkshire Water Services with a view to       achieving reductions in both risk and cost within their own work context.
+The programme is attributed with "improvements in service performance ...       by reducing the risk of service interruptions to customers and improving       the prioritisation of investment needs" [5.3].
+Through the programme, the       research has had impact on management practices throughout the       organisation by "opening the risk management practices up to all" in a way       that "embeds a risk management culture into Yorkshire Water" [5.3].
+The       Programme was awarded two industry national awards including the People       Initiative of the Year at the Water Industry Achievement Awards 2008       [5.4].
+The second stage of the research (optimising the timing of planned       maintenance) has been applied in two separate contexts: assessing the       impact of delay in maintenance actions on the overall cost of managing       assets; and developing optimal strategies for repair, refurbishment and       replacement of assets.
+The former work was carried out for the Ministry of       Defence Procurement Executive [5.1 &amp; 5.2.3] and the latter for       Scottish Water [5.2.4].
+Discussion of the research at a meeting of the Water User Statistics       Group (a specialist interest group of the Royal Statistical Society) led       to a Knowledge Transfer Partnership (KTP) to assist Scottish Water in       strategic asset planning (Sept 2010-Sept 2012) [5.1].
+The aim of the KTP       was to build on the published research by developing models (based on       concepts from reliability and stochastic dynamic programming) to inform       asset management strategy.
+The resulting suite of mathematical models       allows Scottish Water to predict the optimal timing of asset maintenance       over a 25-year period.
+In this way, "the KTP has provided a clearer       understanding of data deficiencies and a much more robust application of       new and existing risk management techniques" [5.5 &amp; 5.6], resulting in       efficiency savings of &#163;67.5m over three years [Scottish Water estimates       5.6, p10].
+Presentation of the modelling techniques to the Water Industry       Commission resulted in endorsement and acceptance of the outputs of the       models to a critical Scottish Water stakeholder [5.5].
+The models have       been so successful that they have quickly become a crucial element of the       company's overarching strategic projections document (published November       2012 [5.7]) and near-term business plan (due to be published October 2013)       [5.5].
+Within these documents, the models are providing a credible,       evidence based approach for over &#163;1bn of capital investment need [5.5].
+Both documents are key elements of the regulatory process and will help to       set customer charges and the funding the company requires from 2015       through to 2021.
+Training sessions on optimisation delivered by the       research team have ensured that the knowledge acquired during the project       was transferred to the whole of the Analytics Team in Scottish Water so       that the models can be developed and progressed now that the KTP has       officially finished [5.5].

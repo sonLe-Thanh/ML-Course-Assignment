@@ -1,0 +1,28 @@
+     The research described facilitated major QUB led UK-China collaborations       funded through (a) the EPSRC Interact Scheme (2005-2006) and (b) the RCUK       UK-China Science Bridge project (2009-2012).
+These activities created       important links between QUB, Shanghai University, Shanghai Automation       Instrumentation Co (SAIC) and Baosight and led to the creation of new       joint twinned laboratories on energy and automation at both QUB and at the       Key Laboratory for Power Station Automation Technology at Shanghai       University1.
+QUB's activities have focused on proof-of-concept       testing and technology transfer based on the advanced control technologies       described, as well as training programmes and thematic workshops,       involving UK and Chinese project partners.
+This led to extensive staff,       student and knowledge transfer exchange and further research on the       deployment of this new technology in industry.
+At SAIC these activities led to the creation of new core modules that       have since been incorporated into the company's SUPMAX distributed control       system (DCS) series of commercial products, the first of its kind       manufactured in China.
+This has included incorporating QUB's       identification and optimisation techniques [1-3] into a networked       self-learning control module.
+This takes the form of an advanced PID       self-tuning software package that is part of the Distributed Processing       Unit, with this being used for both unit and plant-wide control.
+In       addition, the networked control techniques described [6] have been used to       develop a new wireless handset manipulator to improve operation       flexibility.
+A novel Profibus-DP to Ethernet protocol converter has also       been developed that significantly improves the communication and control       capacity of the SUPMAX products.
+SUPMAX DCS has now been used in several major projects for whole plant       monitoring and control to maximise energy efficiency and reduce pollutant       emissions.
+In particular, it has been used in the Nantong Waste       incineration thermal power generation plant to monitor the whole plant and       to control three large circulating fluidised bed waste incinerators.
+These       process 1,500 tonnes of solid waste daily and supply 120 tonnes per hour       of steam to nearby companies supplying 200M KWh to China's national grid       annually.
+This plant is now a showcase in China for municipal solid waste       incineration/co-generation.
+SUPMAX DCS products have also been successfully used in other plants in       China as well as in Vietnam, Pakistan and other developing countries where       energy efficiency and environmental protection is essential for       sustainable development.
+These showcase projects have led to significant       energy savings and environmental protection, with ensuing societal impact.
+The introduction of these products has also enhanced SAIC's revenues2       by over US $ 50M p.a.
+i.e.
+also has had significant economic impact.
+The Multivariate Statistical Process Control MSPC techniques [5] and the       wired/wireless networked monitoring and control systems created [6] have       also been developed, successfully tested and deployed in the hot-rolling       production lines of the Baosteel Group.
+These have been used for condition       monitoring, fault-diagnosis, and information management3, as       well as in the Nantong Water Treatment Co. which treats 20,000 tonnes of       industrial waste water daily for the Rugao industrial development zone.
+The Zhejiang Ninghai and Shanghai Caohejing power stations have also       benefitted from the UoA's technology [1-4] using the technology to       control, flow rate, pressure and temperature in hydrogen-cooled oil       pipeline pressure systems as well as in a 1000MW pulveriser system.
+Again       this has resulted in significant improvements in energy efficiency and       control performance.
+This impact has led in 2009 to the award of second prize for "Science and       Technology Progress" at the Shanghai Government's annual Science and       Technology Awards Conference and in 2010 to the award of the "Creation       Prize" at China's International Industry Fair in 2010, organised by       China's National Development and Reform Commission and several Chinese       government ministries.
+Tackling climate change and maintaining energy security are twin       challenges facing both developed and developing countries.
+China is now       the second largest consumer of primary energy and the world's top country       for CO2 emissions.
+The research undertaken is therefore having an       important impact in helping to address these societal and environmental       issues.
+Note SAIC, (part of the Shanghai Electric Group), is the world's       largest manufacturer of steam turbines, http://www.shanghai-electric.com/en/Pages/default.aspx).
+Baosight, (part of the Baosteel Group) is the world's second-largest steel       producer measured by crude steel output (www.baosteel.com/group_en/).

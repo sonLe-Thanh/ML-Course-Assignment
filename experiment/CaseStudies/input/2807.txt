@@ -1,0 +1,33 @@
+     As a result of [1], the Durham Statistics group was contracted by       Energy SciTech Ltd (a consultancy firm to the oil industry with which we       have a long research and consultancy connection, and who provided the       reservoir information from which we developed the case study) to write the       inference engine for the system ENABLE which optimizes asset management       planning and reduces costs by accelerating the history matching process       and improving reservoir understanding.
+Operators now use ENABLE worldwide       for a better understanding and measurement of uncertainty in reservoir       production performance estimates.
+Using a Bayesian statistical framework       and emulator for the model, based on conventional reservoir simulations,       ENABLE provides companies with a rapid understanding of production       behaviour and the creation of robust uncertainty forecasts.
+The contract1 for the software was very precise, in       specifying that we would implement all of the procedures described in the       research case study paper described in section 3.
+For example,       under Testing and Acceptance of the Software, it was stated that     "The performance of each Module of the Prototype will be deemed       acceptable to both parties if it can be shown that a level of       functionality similar to that demonstrated in Pressure matching for         hydrocarbon reservoirs: a case study in the use of Bayes linear         strategies for large computer experiments (case Studies in Bayesian       Statistics, III, New York: Springer) where consistent with Schedule A, has       been achieved."
+Energy Scitech, and thus ENABLE, was acquired by Roxar in 2006.
+Energy       Scitech existed on sales of ENABLE and services related to ENABLE.
+When       acquired by Roxar it had revenues of [text removed for publication]       (1 Nov 2004 - 31 Oct 2005) and [text removed for publication] (1       Nov 2005 - 31 Dec 2006)2.
+Since then, and throughout the       impact period 2008 - 2013, the reach and significance of ENABLE has       continued to grow: in the period 2008 - 2013 active users included [text         removed for publication]3, and the total turnover       attributed to ENABLE sales by Roxar from 1 Jan 2008 to 30 Sept 2012 was [text         removed for publication]4.
+In the UK there are       currently [text removed for publication] staff working full-time       on ENABLE, and an estimated [text removed for publication] who       spend a proportion of their time on the project3.
+Roxar AS is an international provider of products and associated services       for reservoir management and production optimisation in the upstream oil       and gas industry.
+It is headquartered in Stavanger, Norway and operates in       19 countries with around 900 employees.
+Roxar offers software for       reservoir interpretation, modelling and simulation, as well as       instrumentation for well planning, monitoring and metering.
+Roxar was       acquired by Emerson Electric Company in April 2009 and is now part of the       Emerson Process Management Group.
+This is how Roxar currently describe the role of ENABLE5:     "History Matching and Uncertainty Quantification.
+The Roxar ENABLE       solution history matches numerous geological scenarios to create       simulation models that are fully consistent with their underlying       geological interpretation (unlike many current 3D modelling workflows).
+RMS, Tempest and ENABLE provide E&amp;P companies with a statistical       framework for a rapid understanding of production behaviour and the       creation of robust estimates from a shared earth model.
+The result is more       informed technical and economic decision-making and a better       quantification of uncertainty."
+This product has been very successful and as specified in the contract1       the University has received a royalty each year to date, based on the       sales of the commercial product.
+In particular, in the period Jan 2008 -       Sept 2012, [text removed for publication] has been received in       royalties6.
+Roxar have continued to develop the product,       and to pay royalties to the University, and are committed to ensuring that       it remains current: from June 2011 - May 2012 Roxar had a consultancy       contract for [text removed for publication] with the University to       consider ways to improve the application of ENABLE for complex oil       reservoirs.
+This was deemed successful and led to a further consultancy       contract being agreed, for [text removed for publication] from       June 2012 to May 20156.
+As attested by Roxar7, the software developed in 1998       on the basis of [1] remains a key feature of the Tempest ENABLE       product.
+The project to integrate ENABLE into Roxar's Tempest suite was       completed in 20128; it brings the Durham developed       emulator and subsequent enhancements to a wider global community.
+In 2012, Tempest ENABLE was chosen as the uncertainty platform for the       multinational oil company Statoil9.
+This has secured       funding for the next three years for [text removed for publication]       software developers in Roxar.
+The methodology developed in [1],       together with the quality of the associated work delivered by Durham, was       pivotal to the awarding of this contract7.
+The Tempest ENABLE product has over [text removed for publication]       active users as of November 20127, and can be regarded       as one of the most successful uncertainty platforms in the oilfield       marketplace, to the point that it has created a new business activity.
+Roxar states:7     "The fast Durham developed emulator enables a rigorous statistical       approach to uncertainty quantification.
+ENABLE was the first commercial       product to allow this in the oil and gas industry.
+Since ENABLE's release       several competitors have emerged taking advantage of the approach ENABLE       has validated."
+The success of ENABLE is confirmed by user feedback.
+To give one example       from the Tempest ENABLE product website10, Dr       Curt-Albert Schwietzer of GSC Reservoir Simulation &amp; Reserves states:     "After using ENABLE for over one year I can say that reservoir simulation       without ENABLE is unimaginable."

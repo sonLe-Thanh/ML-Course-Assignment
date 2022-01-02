@@ -1,0 +1,21 @@
+     Our research played an important role in safeguarding oil pan business       worth over &#163;20M for Cummins, and securing new business (for Eaton) with       Daewoo and Volkswagen Brazil after regained confidence in the component.
+The oil pan business contributed around 25% to the $1 billion revenue of       Eaton automotive plastic business between 2010 and 2012 [C1].
+Lightweight construction aims to preserve or even enhance a product's       functionality while the product`s overall weight decreases.
+The challenge       was to maintain properties while improving the component's dynamic       response.
+This research allowed a combination of analytical micromechanics       methods, finite-element simulations of material microstructures, and       continuum mechanics techniques to provide microstructure based prediction       of macroscopic environmental-mechanical response [P1, P2].
+This improved       understanding of the materials behaviour and the development of predictive       tools for component design, using the new material grade (PA6-i-35G)       developed - which is now produced by Eaton's preferred supplier, BASF.
+The       exact business value of this product is not public, but the price rose       from US$2.50/kg to 5.50/kg and it shares around 25% of the 6.6 million       tons global PA66 market share.
+Our research accelerated adoption into modern products by de-risking       Eaton's product design and production.
+The results accelerated the       commercialisation of oil pans series for a variety of engines.
+The work       led to the creation of a dedicated thermoplastics unit within Eaton [C1]       and a new dedicated plant in Czech Republic.
+Cranfield's research has also led to rapid commercialisation of       thermoplastic composites in the construction industry with EnDesign Ltd.
+This work looked into environmental degradation of thermoplastic composite       for flooring during its life.
+The product is now in the market, having       successfully addressed the drawbacks and is the `first-choice' product in       the Asian flooring market [C2].
+Laviosa Chemicals adopted Cranfield's research in nanofiller       manufacturing, in its products Dellite 72T and Dellite 43B C3.
+The studies       on dynamics of structural components, during their functional and       end-of-life cases, generated important information such as the effects of       particle size, particle distribution, specific surface area, crystalline       structure, surface reactivity, surface composition and purity.
+This       information was utilised by Laviosa in generation for assessment of the       fate and behaviour of nanomaterial products in life cycle assessment of       nano-reinforced products.
+Tecnalia has also used the work to evaluate       impact of nanoproducts, which expanded its business and now has a new       nanosafety dedicated division [C4].
+The US Consumer Products Safety Commission adopted our work in three       White Papers on the release of nanoparticles from consumer products during       use [C5].
+This informs compliance with the regulatory framework for       consumer and environmental protection where industry must evaluate and, if       feasible, quantify, the risk of embedded nanoparticle released throughout       their lifecycle as an integral part of their innovation and design process       for nanotechnology enabled products and make this information available to       the relevant regulatory authorities and consumers.
+The research also contributed to new methods for measurement and       lifecycle analysis of engineered nanoparticles for the European       Commission's Working Groups tasked with drafting of the European Strategic       Research Agenda for Nanosafety Research 2015-2020 [C6].
+Consequently, the       European Commission granted additional funding [G5] to develop regulatory       methodologies for detecting and understanding the fundamentals of debris       splinters (nano-scaled dust/debris) which aims to develop European       policies on nanorelease from nanoreinforced products.

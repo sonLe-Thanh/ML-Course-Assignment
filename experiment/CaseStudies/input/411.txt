@@ -1,0 +1,39 @@
+     Impact has been achieved through in-house application of software to       design projects in collaboration with external partners, and through the       use of such software by third parties at both international and national       levels.
+As a result, construction professionals have been able to simulate       more accurately the energy performance of buildings and large-scale urban       developments and retrofit programmes.
+This has orchestrated significant environmental         benefits.
+In the UK alone over a quarter of all CO2 emissions derive       from the fuel used in homes.
+However tighter energy efficiency standards       for homeowners can cut domestic CO2 emissions by 80%.
+Moreover, globally a       considerable proportion of CO2 emissions and energy use is attributable to       buildings - approximately 40% according to the international Energy       Agency.
+Improved energy efficiency in buildings, as evidenced by the       examples below, is considered to be capable of reducing global emissions       by at least 1.8 billion tonnes of C02 (United Nations Environment       Programme).
+Additional impacts, stemming directly from Cardiff's research, are economic         savings associated with a more efficient design process and reducing       householders' annual energy expenditure (conservative estimates suggest       this would save &#163;100-200 per household on fuel alone).
+Furthermore, there       is substantial impact on practitioners and professional services,       including the provision of consultancy for global engineering firms and       the development of enhanced design practices and guidelines that have been       implemented worldwide.
+Impact during the REF period:     Improved energy and environmental design and performance of         residential, commercial and industrial buildings: The WSA has       distributed HTB2 widely and free of charge to many       commercial organisations worldwide.
+Its application has enabled the       simulation of energy performance at an early design stage on many hundreds       of construction projects, which is an essential part of the low carbon       sustainable design process.
+Examples include:             The DIFC Lighthouse, a 400 metre tower in Dubai,         in collaboration with Atkins Global, `providing a full building           physics and system analysis' [1], identifying design options for,         reducing internal heat loads, fa&#231;ade design, and HVAC systems.
+Simulations of the building design, which began construction in 2008         (but deferred during the economic downturn), identified solutions for         achieving a 65% reduction in energy use compared to Dubai standards.
+The         design won an international Holcim Foundation sustainable         construction award [2].
+HTB2 was used to help explore design options with Atkins           Global for large scale building developments in the Middle East         and China, including the Al Akaria 300,000m2 mixed         use and retail complex in Jeddah (2011), and an office tower with         multi-floor atria in Tianjin (2008) [1].
+The WSA's involvement in developing the HK-BEAM         assessment methodology led to R&amp;D investment and collaborative         development of the HTB2 software with Hong Kong         Polytechnic University [3].
+HTB2 has been used in         conjunction with the HVAC model BEACON [4], and in 2010,         HTB2 was the 2nd most commonly used software         tool in Hong Kong [5].
+The product has been targeted specifically to         meet the need for advanced environmental modelling software in China's         rapidly expanding construction sector (4).
+Design modelling of the naturally ventilated and heated REGAIN         business incubator building in Ebbw Vale, owned by the Local Government,         used HTB2 to model energy use, and Ecotect         to analyse the day-lighting performance (2010 to 2012).
+The building won         the 2012 Low Carbon Award from Constructing Excellence Wales, who said:         "The design was heavily influenced by analytical data from Cardiff           University School of Architecture's Centre for Research into the Built           Environment.
+This enabled the design of the glazing and building           envelope to be optimised to maximise heat retention, and solar gain           while minimising overheating."
+[6]        HTB2 has been used by Kopitsis Bauphysik AG for         dynamic simulations of over 100 buildings over the past 15 years,         including Switzerland's first zero energy office, EMPA EAWAG         (2005) and the Rem Koolhaas Laboratory in Zurich (2012) [7].
+Examples of building and urban scale projects using, HTB2 (EMPA,           DIFC Lighthouse), and EEP (Gateway City Ras al Khaima).
+Improved urban-scale sustainable planning and design: The       development of EEP has enabled city planners and other       professionals to achieve low carbon sustainable design and master-       planning, for new urban scale developments and large scale housing       retrofit programmes.
+The EEP framework has been developed       to quickly provide information for fundamental decision-making relating       to energy performance, at early concept design stage, being able to       simulate large numbers of mixed use buildings simultaneously.
+Examples       include:             The Pearl, Qatar, an artificial island of residences for 40,000         people.
+Working with Building Energy Partnership, the EEP         framework was used to produce guidelines for plot developers to         reduce energy consumption.
+The project is due for completion in 2015 but         already has more than 5,000 residents.
+The guidelines require the         developers to achieve energy savings 50% lower than the ASHRAE 90.1-2004         international standard for energy efficient buildings [8].
+Working with Hyder Hong Kong, EEP was used to         provide early stage energy predictions in master planning Gateway           City, Ras al Khaima (UAE), for 200,000 people, to reduce its         carbon footprint.
+EEP was also used on a Hyder         study for a future urban cluster in Hanoi, Vietnam.
+The latest version of EEP, linked to Google           SketchUp, was used to provide Low Carbon Master-plan Guidance for         the Ba'nan Project in Chongqing.
+This guidance contained the results of         the simulation of different construction options and their potential         impacts on operational energy use, and the potential for using building         integrated solar energy.
+EEP has been used in collaboration with the community         interest company Warm Wales, to assess over &#163;50 million of         energy saving measures on large scale housing energy retrofit projects         in Wales, including the Welsh Government's Arbed programme [9].
+Some 50,000 houses in Wales have been upgraded, resulting in CO2         emission reductions of 10 to 40% taking hundreds of families out of         `fuel poverty', and improving indoor living conditions          Commercial impact: As of 2010, Ecotect had over       2,000 licensed users [10].
+Ecotect was bought in 2008 by       Autodesk Inc., the industry leader in computer aided design software.
+The       acquisition marked a step change in the funding and impact of the       software, significantly enhancing market penetration.
+New clients include:            Architects working on NASA's Ames Research Centre, Silicon Valley, a         $20.6 million facility, used Ecotect to predict the cost         impact of design decisions, including the integration of daylight.
+China Construction Design International, one of Asia's leading         multidisciplinary design firms, with more than 2,000 offices and         employees throughout the People's Republic of China.

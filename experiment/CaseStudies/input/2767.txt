@@ -1,0 +1,34 @@
+     BAE Systems     The frequency assignment system developed in the research described above       was presented to leading       figures in UK military communications research at a seminar in February       2000.
+It was clear that the       approach was a considerable advance on existing military frequency       assignment systems.
+The system       was subsequently selected to form the basis of the frequency assignment       system in project Bowman       and its incorporation was eased since Dr. Taplin was a BAE Systems       employee and returned to work at       BAE Systems at the end of the project.
+In application, the system was       found to be remarkably error free.
+The experience of using the system in Bowman led to its use in a further       military communication       system, known as Falcon.
+BAE Systems developed the Bowman management       system and leveraged       this experience to design Falcon's management software.
+Application in Bowman     The Bowman communication system is a combat net radio system used for       tactical communications at       platoon level and upwards by the British Armed Forces.
+It was phased into       use starting in 2004 and fully       rolled out in 2008, replacing the aging Clansman analogue radio system.
+Bowman delivered a step       change in capability over the Clansman family of radios through its       security, data capability, reliability       and resilience against electronic warfare attack.
+It is a tactical       communications system integrating digital       voice and data technology to provide secure radio, telephone, intercom and       tactical internet services in       a modular and fully integrated system.
+The key aspect of Smith's       algorithms in Bowman is that a large       number of operators can simultaneously send and receive communications       (i.e.
+the capability and       reliability of the system has been substantially improved).
+Over the       assessment period, Bowman has       been operated by soldiers from every part of the British Army as well as       specialists from the Royal       Corps of Signals.
+Furthermore, the Bowman communication system is       currently being rolled out across       elements of the Royal Netherlands Navy.
+Application in Falcon     The Falcon communication system came into service in 2010, replacing the       near 30-year old Ptarmigan       system, with a new generation tactical communications system.
+It delivers       secure voice and data over       an internet protocol system.
+Falcon is currently being fielded by the       Royal Signals and the Royal Air       Force.
+Falcon replaces aging asynchronous transfer mode equipment used in       Ptarmigan with a scalable       application that can be configured rapidly to meet the needs of an       expeditionary force.
+It connects with       other digital communications technologies in the British military and       coalition allies.
+Falcon also uses       manpower more efficiently than Ptarmigan; the highly automated system       requires 50 to 75 percent       fewer personnel to operate.
+Smith's algorithms have made valuable       contributions in maximizing data       transfer and reducing interference between users.
+Financial impact     Those close to the project asked to estimate the financial benefit see       such requests as intrusions into       commercial confidentiality.
+However, all parties recognize that the work       was essential: Bowman would       have taken a different path if the spectral use had not been improved.
+Hence the project is viewed as       highly worthwhile and certainly provided a benefit to the economy which       should be seen in the light of       the total costs of the two projects.
+The Bowman family of digital radios,       and the associated Combat       Infrastructure Platform project, constituted a &#163;2.4 billion project while       Falcon was over &#163;200 million.
+Smith's frequency assignment engine is critical to the operation of       both Bowman and Falcon.
+The       effectiveness of a frequency assignment system that minimizes       interference, while at the same time       allowing efficient use of the radio spectrum has huge commercial benefits;       this is particularly important       in the light of continuing pressure to release military spectrum for civil       use.
+In civil use, the radio       spectrum now has an enormous commercial value (e.g.
+the auction of       spectrum for third generation       mobile telephones raised over &#163;22 billion for the UK government).
+Reach and significance     The Bowman communication system is expected to continue in service until       approximately 2026 and is       currently fitted to over 15 000 military vehicles, the entire Royal Navy       fleet and carried by dismounted       soldiers resulting in close to 50 000 radio sets.
+Additionally, 75 000       personnel required training in their       use.
+General Dynamics, the radio set manufacturer, has a global       workforce of almost 100 000 people.
+Smith's work has an extensive reach that will continue for at least the       next 10-15 years.
+While it is not       easy to determine the significance of the work to the entire Bowman and       Falcon projects, all parties see       Smith's algorithms as an essential component and the entire project       would have taken a very different       route in their absence.

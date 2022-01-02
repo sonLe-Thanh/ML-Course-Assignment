@@ -1,0 +1,30 @@
+     Impacts derived from the underpinning research include the removal of       obstacles to naval training in anti-submarine warfare whilst reducing risk       to whales and supporting development of a commercial product to manage       risk of sounds from naval activities.
+Enabling US Navy Sonar Operations whilst protecting marine mammals.
+Evidence that Sonar can lead to lethal strandings of whales led to       legislative and judicial restrictions on military sonar use.
+From       2001-2008, courts in the US repeatedly judged that the US Navy had not       conducted adequate environmental reviews.
+The courts issued injunctions       limiting the use of Sonar, which interfered with the navy's ability to       train for anti-submarine warfare and to maintain readiness against       submarine attacks [S4].
+In 2008 a court case involving naval Sonar training in Southern       California waters was heard by the US Supreme Court [S5].
+After       these legal actions, the Navy committed to prepare Environmental Impact       Statements (EIS) for Sonar use.
+The St Andrews research on the       distribution of beaked whales and effects of exposure to anthropogenic       noise made it possible to estimate the inherent risks.
+As the Deputy       Assistant Secretary of the Navy (DASN) stated in 2013,     "(St Andrews) research assessing exposure and effects of sonar for         beaked and other whales has provided the scientific bases for         Environmental Impact Statements (EIS) for US Navy training and testing         activities" [S1]     These Environmental Impact Statements were approved by the regulator in       the years following 2008, allowing the US Navy to operate naval sonars.
+Quoting DASN:     "The results of the research conducted by the St Andrews faculty and         staff have played a vital role in the deliberations of the US Navy and         the Navy's regulator, the National Marine Fisheries Service, to         establish new behavioural risk criteria for anthropogenic sound exposure         risk to beaked whales and other marine mammals" [S1]     Subsequent to the demonstration that beaked whales show strong responses       to Sonar at levels of 140 dB re 1 &#181;Pa (reference 5 above), the US Navy       modified its response criterion for beaked whales to this lower level to       reduce the risks of exposure to harmful sound [S6].
+In the period       2008-12 there have been no documented cases of mass strandings linked to       US Navy Sonar [S7].
+Beaked Whales Mass Stranded in the Canary Islands during a Naval Sonar Exercise in 2002 [credit: Vidal Martin] 	       Mitigating the environmental harm caused by EU Navy Sonar     The St Andrews research has also had a direct impact on the operational       practices of several European Navies.
+Uncertainty as to what exposures are       risky, and lack of adequate monitoring and mitigation methods led the       European Parliament to pass a resolution in 2004 calling for a moratorium       on the use of intense naval sonar until this problem was resolved (EU         resolution 86-0089/2004).
+The European Union Marine Strategy       Framework Directive (MSFD), adopted in 2008, requires each member state to       achieve good environmental status of their marine habitats, including the       requirement that "introduction of energy (including underwater noise)         does not adversely affect the ecosystem."
+[S8].
+The Head of       Marine Advice for the UK Joint Nature Conservation Committee       states that:     "Particularly important St Andrews studies include those involving         Patrick Miller, Ian Boyd and Peter Tyack demonstrated the reaction of         whales to these underwater sounds ... may lead to lethal physiological         effects.
+This understanding has been crucial in the setting of policies         by a number of Navies that will reduce the risk of further deaths.
+The         research has also been important in gaining perspectives that have         avoided over-regulation."
+[S2]     SAFESIMM     A Navy cannot be effective without the use of Sonar.
+Since the operation       of Sonar is an unavoidable activity, UK regulations require monitoring of       marine mammals within a danger zone by Naval vessels.
+St Andrews research       on marine mammal distribution allows predictions about animal densities in       different areas around the globe to be made.
+This underpinning St Andrews       science has led to the development of an established product: Statistical       Algorithms for Estimating the Sonar Influence on Marine Megafauna       (SAFESIMM) [S9].
+SAFESIMM models marine mammal distribution and       abundance, dive and movement behaviour, and sensitivity to sound and has       been licensed to BAE Systems, which uses it as part of its Marine       Environmental Risk Management Capability.
+SAFESIMM forms part of the 2117       sonar used by the Royal Navy for planning sonar exercises and used by       commanders to judge the level of risk associated with planned Sonar       operations.
+If the risk is too high the tool presents a series of       mitigation activities that can be used to reduce the level of risk and       meet the requirements of UK and EU legislation.
+The Commercial Manager of       Combat Systems for BAE Systems Maritime estimates the value of SAFESIMM on       BAE sales to be "of the order of &#163;3.5 million based on the current         contract value".
+[S3] 	   	  Safesimm screen capture from BAE systems website.
+In the words of the Head of Marine Advice for the UK Joint Nature       Conservation Committee:     "St Andrews researchers have developed techniques for establishing the         presence of marine mammals in an area using passive monitoring for         underwater sounds made by the mammals.
+These techniques are now part of         standard mitigation (...) during naval exercises in UK and some other EU         waters."
+[S2]

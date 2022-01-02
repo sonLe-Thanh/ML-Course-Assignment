@@ -1,0 +1,18 @@
+     The research on PR and lattices by L. Slepyan and Mishuris has been       conducted in close       collaboration with V. Slepyan, Chief Designer at the Loginov and Partner       Mining Company       (LPMC), where a vibrating screen was designed and built based on the idea       of PR.
+LPMC now makes and sells equipment for size-sorting based on PR for field       testing, currently only       within the Ukraine; the equipment is known as GEPARD.
+They are popular       because they are       effective at separating wet granular material: in a traditional       vibrating lattice, the dissipation is       highest at the centre, and the material gathers there, but with PR not       only is the amplitude larger       for a given amount of input energy, but the dissipation is better       distributed so material does not       clump.
+This is expected to give LPMC a distinct market advantage.
+At first, the screens broke too frequently (roughly every few hours), due       to cracks developing both       longitudinally and around the edges.
+As the Director General of LPMC       writes: "Close       communication of V.I.
+Slepyan with Professors Leonid Slepyan and Gennady       Mishuris       (Aberystwith University) and the experiments carried out by the Company       resulted in better       understanding of the screening machine operation process and developing       solutions to increase       the fatigue strength of the screen and stabilize the parametric resonance.
+As a result of the       solutions, the screening machine service life has been increased".
+By the       end of July 2013, the       operating time for the vibrating screen had been increased to a period of       several days.
+The key improvements due to the mathematical modelling are:            a more careful delineation of the parameter space in which the stable         PR modes are to be         found;       a suggestion to change the way in which the screen boundary is clamped         at its edges, so         as to eliminate edge cracks in the lattice;       changing the lattice structure of the screens, to have a mesh with         elliptical or circular holes,         and a distribution of hole sizes which decrease towards the edges of the         screen;       most significantly, inserting a small gap between the screen and the         exciter motor is         remarkably effective in preventing cracking of the lattice.
+Each screen costs between one and eight-hundred dollars, depending on its       country of       manufacture and the quality of the material.
+The whole vibrating machine       sells for only a few       thousand dollars.
+Thus the screens represent a significant proportion of       the running costs.
+The       result of the modelling &#8212; that is, the reduction in the frequency at which       the screens fail due to       cracking &#8212; is that there is less manual intervention required by the       operators, and a reduction in the       amount spent on replacement screens, currently by a factor of about four.
+To increase the longevity of the screens, they are often used below       maximum efficiency, i.e.
+outside the optimal PR regime.
+The industry standard is that a screen       should last for about 10       million cycles, roughly two weeks, and this is now the goal for modelling       and development of       refinements to the equipment.
+Mathematical models developed for the oscillations and waves in lattice       structures and the       determination parameter space of the regular PR oscillations resulted in       the improvement of the       machine and opened a way for other PR applications.

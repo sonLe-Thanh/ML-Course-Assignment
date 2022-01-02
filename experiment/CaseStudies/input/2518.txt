@@ -1,0 +1,40 @@
+     There is a common route to impact across the four specific areas of XML       technology research reported above:            one or more Edinburgh staff help to launch a standards effort;       they join the group responsible for the new standard;       they contribute a theoretically well-grounded perspective to the work         of the group along with specific details from Edinburgh research; and       they take on some of the work of writing the standards themselves.
+Those standards, in turn, drive the development of both open-source (in       several cases from Edinburgh) and commercial implementations that underpin       wide adoption of the now-standardised technology.
+In all cases the       standardisation work itself stretches from the time of the research       described above through into the impact timeframe beginning on 2008-01-01.
+The most recent editions of the relevant standards are listed in the       Sources section below.
+It should be noted that although their roles are officially listed as       `editors' of these standards, in all cases the Edinburgh staff identified       as such played a major role in design, development and detailed authoring       of the standards they edited, for review and ratification by the Working       Group concerned.
+4.1.
+XML Pipelines     The Edinburgh research (see [6], which is of necessity only an indicative       sample of our work in this area) established both     i. the theoretical framework, that is, the re-interpretation of a wide       range of XML technologies as best understood as operations on documents       not as sequences of characters, but rather as structured containers of       information, and     ii.
+the practical evidence that this could form a sound basis for       implementation.
+Thompson and Tobin's membership in the W3C's XML Working Group was the       initial conduit for this work, leading to Tobin's co-editing of the XML       Information Set standard.
+This work, as well as its exploitation via the creation and distribution       of the LT-NSL and LT-XML toolsets, led to Thompson and Tobin taking a lead       role in getting the W3C to launch an XML pipeline standardisation effort       in the form of the XML Processing Model Working Group.
+The resulting XML Processing Model standard (XProc, published May 2010),       of which Thompson was a co-editor, incorporated key results from       Edinburgh, including the standard's basic dataflow model and the way its       stated semantics are carefully insulated from implementation details (e.g.
+threading, sequencing).
+As of July 2013, the web page http://xproc.org/implementations/       lists four available current XProc implementations (Calabash, Calumet,       QuiXProc, and Tubular).
+Calumet is also distributed as the       EMC Documentum XProc Service ( https://community.emc.com/docs/DOC-10477       ).
+QuiXProc is available as a commercial service at http://www.quixproc.com/quix/homeQ.
+Calabash is incorporated in one of the major XML-orientated IDEs, oXygen       ( http://www.oxygenxml.com       ).
+oXygen has added explicit editing support for authoring and debugging       XProc pipelines.
+4.2.
+Corpora     The use of first SGML and then XML for encoding language resources, both       the raw data and analyses and annotations thereof, raises many research       questions at the boundaries of linguistics and computation.
+Edinburgh's       involvement in the creation, publication and distribution of such       resources, with support from both EPSRC and the EU, meant that our       innovative approach to managing and recording complex multi-layered       annotations became widely adopted.
+Alongside the corpora themselves, two       separate standardisation efforts contributed to this impact:     i. the Corpus Encoding Standard (CES, and its XML version, XCES),       developed via several EU projects, depends on the technique of remote or       stand-off markup (see [2]), and     ii.
+the W3C XInclude standard, produced by the XML Working Group with       substantial input from Tobin and Thompson, incorporates features to       support precisely this kind of usage, based on Edinburgh's corpus       development experience.
+4.3.
+XSLT, XQuery and Databases     Thompson was responsible for introducing the idea of iconic templates to       the style language for XML, now known as XSLT, which fed directly into the       creation of the W3C XSL Working Group, where Tobin joined him.
+Building on       XSLT and his XML work (some of which predated his arrival in Edinburgh),       Wadler helped edit one of the families of specifications of the       query-language successor to XSLT as a member of the W3C XML Query Working       Group.
+Cheney's work fed directly into the creation of the W3C Provenance       Working group, and he is co-editor of the resulting standard.
+XSLT and XQuery have been the most successful of the second generation       XML technologies:            Google reports 2 million XSLT stylesheets visible on the web       Much of eBay's websites, including auction details, is built using XML         and XSLT       The BBC deployed XSLT and XQuery extensively in their coverage of the         2012 Summer of Sport [ http://www.bbc.co.uk/blogs/bbcinternet/2012/04/sports_dynamic_semantic.html         ]       XQuery is also the basis for a very successful XML-based company,         MarkLogic [http://www.marklogic.com         ] , with annual revenue of over $50 million and customers including         Warner Bros, Lockheed Martin, Boeing, J P Morgan Chase, and United         Airlines.
+4.4.
+XML Schema     In the late 1990s, Thompson (see [3]) and others explored various routes       to bring the definition of XML document structure into the emerging       XML-Infoset-based consensus (see XML Pipelines, above) by defining XML       languages for use in defining XML languages, known as schema       languages.
+As a direct result of these efforts, the W3C formed the XML       Schema Working Group, and invited Thompson to edit the resulting       standards.
+Thompson and Tobin carried out implementation experiments throughout the       development of the standards.
+A number of areas of the XML Schema design       reflected these implementation experiments, including:     i. the provision of element equivalence classes; and     ii.
+the use of several varieties of inheritance in support of the       object-oriented approach to schema definition that was adopted by the       group.
+Their theoretical work (see [4]) was crucial in providing a sound basis       for implementations of schema validation.
+Both open-source and commercial       schema validation software incorporate this theoretical work.
+The XML       Schema technology itself is in widespread use throughout many sectors of       government and industry.
+Google reports 1.7 million XML Schema documents visible on the Web.
+The UK government's legislation.gov.uk site uses XML Schema in         the publication on the Web of all UK legislation since 1988.
+The Inland Revenue provide a wide range of online web services.
+The         services to accept PAYE information from employers and tax returns from         individuals are implemented in XML and validated using XML Schema (as         well as other validation technologies).

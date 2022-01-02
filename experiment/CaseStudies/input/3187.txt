@@ -1,0 +1,48 @@
+     In the early 1990s, the widespread use of computational fluid dynamics,       (CFD), for aerodynamic design was restricted by the time required to       perform a single simulation using structured multi-block methods.
+These       simulations typically required several months to complete.
+The       introduction into BAE Systems of the unstructured mesh based FLITE system,       produced spectacular time savings in large-scale analyses.
+"Overnight         turnaround times for assessing the aerodynamic properties of complicated         geometries, such as the generic large aircraft, are now achievable.
+Clearly, this has to be a significant factor in shortening the         time-to-market lag of future aircraft designs."
+[Sowerby Update, The       Newsletter of Sowerby Research Centre, Issue 9, Spring 1997].
+A complete FLITE unstructured mesh system for computational aerodynamics       was supplied to BAE Systems in 1994.
+Since that time, the FLITE system has       also been adopted at Airbus, Cassidian and IHPC Singapore.
+In addition,       FLITE has been used in the BLOODHOUND SSC project.
+During this reporting       period, the following impact has been demonstrated:     Working closely with BAE Systems, this system was modified and       industrialised to a point where the FLITE3D suite became the standard       solver in BAE Systems, having a major impact on the ability to undertake       aerodynamic design over highly complex configurations in short timescales.
+"The adoption of this unstructured approach was a step change for BAE         Systems and, coming at the same time as more readily available high end         computing, ensured that simulation had a major impact on the design         cycle.
+BAE Systems current aerodynamic software, whilst much developed         from the original University of Swansea code set, retains the philosophy         and a basic algorithm pioneered by Swansea researchers and underpins the         design capability for BAE Systems in the areas of UAV design and stores         (weapons and other detachable items) release and clearance.
+In         particular, these codes form a key part of the UK IP and workshare in         the UK-French collaboration (worth &#163;50m per year per nation         collaborative programme) on defence.
+The codes are also key in the         weapons clearance programmes undertaken by BAE Systems (worth many         millions of pounds per year for BAE Systems)."
+"The unstructured approach to aerodynamic simulation, begun by Swansea         University for BAE Systems has resulted in significant further         development programmes, collaborating across the UK and Europe.
+In         particular, the recent CFMS programme sponsored by the TSB and involving         Airbus, Frazer-Nash, Rolls-Royce, BMT, Eurostep, MBDA, HP, Microsoft,         QinetiQ amongst others, (&#163;17.5m completed in 2010) and the subsequent         spin out of the CFMS company (an SME) represents well the change of         approach to simulation begun by the initial inputs of the software from         Swansea University."
+[University &amp; Collaborative Programmes       Relationship Manager, BAE Systems, ATC, Filton]     Airbus has benefited from its long-term research relationship with       Swansea University, particularly in the area of unstructured mesh       technologies.
+The FLITE system "has been heavily used as part of the         wing design process for A380 and subsequent aircraft, and as such, has         contributed to the continuing success of the Airbus product line and         supporting the many jobs involved in aircraft design and manufacture."
+In this assessment period 106 A380 Aircraft have been delivered out of the       262 firm orders that have been placed.
+Unstructured mesh procedures       developed at Swansea have also been incorporated into the Solar mesh       generation software developed jointly with the Aircraft Research       Association (ARA) and Airbus.
+Solar "is an important part of the         Airbus RANS capability, a capability that has been deployed extensively         (order 1000 meshes per year)."
+[Technology Product Leader, Airbus,       Filton]     At Cassidian, the unstructured meshes used for industrial aerodynamic       computations are created using code that is primarily based on software       and mesh generation principles developed at Swansea University.
+In the       assessment period, this mesh generator "has been applied to more than         99% of the CFD-computations conducted in the company, successfully         generating hundreds of complex unstructured meshes which have formed the         basis for several thousand fluid flow computations for critical         projects, such as the Eurofighter and Tornado aircraft, as well as         demonstrators and new designs.
+Based on its quality and run time         efficiency the mesh generator has also represented a major building         block for the Cassidian activities in several international research         projects, conducted on European and Nato level.
+In several large         national aerospace research projects this software was a substantial         pillar for the industrial research undertaken by Cassidian.
+It is         believed that the usage of numerical methods, in which the mesh         generator plays a crucial role, has incurred savings in the order of         several million Euro."
+[Manager, Cassidian, Manching, Germany]     IHPC (Institute of High performance Computing) acquired FLITE3D in 2008       as a core capability of its multi-physics simulation framework.
+Since that       time, the system has been actively developed by a team of 10 research       scientists at the Department of Fluid Dynamics.
+To date, this represents       an IHPC investment of S$1.0 million.
+"The enhanced FLITE system is         impacting on the Green Mark certification process in Singapore, an         initiative by the government to shape a more environmentally friendly         and sustainable built environment.
+The total secured funding, from         governmental agencies and industrial partners, for development and         application of the FLITE system, is over S$300K since 2010-2011."
+[Group Manager and Department Director, IHPC, Singapore]     Following the critical role played by FLITE in the success of the THRUST       SSC project, in 2007 the leader of the BLOODHOUND project requested that       the FLITE system be used to aid the aerodynamic design process for a new       World Land Speed Record vehicle.
+Initially, the FLITE system was used to       demonstrate the practical feasibility of designing an aerodynamic shape       that was capable of safely achieving 1000 mph.
+This initial work enabled       the public launch of the BLOODHOUND supersonic car project by Lord Drayson       in October 2008.
+The primary objective was to inspire a new generation of       British engineers to tackle the challenges of the 21st century,       using science, technology, engineering and mathematics (STEM).
+Simultaneously, the creation of the BLOODHOUND education programme was       announced.
+This includes school visits, FE roadshows and events, the       BLOODHOUND website and resources, the BLOODHOUND Education Centres and the       BLOODHOUND Ambassadors programme.
+As a result of these activities, public       engagement with the project has been a phenomenal success with over 5,059       schools signed up as education partners, ensuring the project reached over       1.5 million primary and secondary school students.
+In addition, 229 UK and       overseas colleges and 40 universities have signed up.
+Over 5,000 people       have joined the 1K supporters' club and 11,000 people have contributed to       have their names put on the vehicle's tail fin.
+An army of BLOODHOUND       ambassadors continue to travel across the country delivering STEM public       engagement activities.
+The BLOODHOUND project website currently receives       an average of 50,000 hits per month.
+"The programme has increased         young people's understanding of engineering and the importance of STEM         subjects."
+[S. Straw and A. Dawson, A Follow-Up Audit of Activities       for the BLOODHOUND Education Programme, National Foundation for       Educational Research Report, Slough, 2012].
+Following the public launch,       FLITE has been extensively used to guide the shaping of the external       geometry of the vehicle to its fully matured final design, completed in       late 2012.
+"Without the crucial and on-going support of Swansea         University, in terms of resource, expertise and the FLITE simulation         technology, the BLOODHOUND project simply would not be possible."
+[Director, BLOODHOUND Project].
+To date, BLOODHOUND Project Ltd has raised       in excess of &#163;10M of inward investment funds and created over 40 new jobs.

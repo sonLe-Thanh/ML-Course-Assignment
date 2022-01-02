@@ -1,0 +1,31 @@
+     Research by Heggie at Sussex has impacted significantly on generation and       interpretation, by the nuclear industry, of Materials Test Reactor data,       used to assess reactor lifetime.
+In particular, Heggie's research has       influenced the Core Component Condition Assessment (CCCA); the CCCA is a       key component of the safety assessment that comprises elaborate modelling       of reactors, including a module (UMAT) that describes the material       properties of the graphite moderator as a function of temperature, coolant       composition, neutron dose, and applied stresses.
+The UMAT module relies on       constitutive equations that employ the concept of equivalent temperature       (Paper 28).
+However, the Sussex model has demonstrated this concept is       inappropriate for reactor graphite temperatures, and contributed to a       decision by the nuclear industry to revise it.
+Without this demonstration,       there was a danger that the &#163;22M Materials Test Reactor programme       (Blackstone project) would have produced data less relevant to reactor       operation.
+More importantly, in light of the Sussex model, Paper 28 (which employed       the equivalent temperature concept) has been replaced by EDF with a new       paper (`P28') that uses a new graphite behaviour model (B++) that does not       invoke the equivalent temperature concept.
+See for example       DAO/JIEC/162/AGR/11 J. Smith and B.C.
+Davies May 2012 and other Graphite       Core Committee papers.
+[C1]     `Paper 28' separated `dimensional change' and `irradiation creep' &#8212; the       first being a strain that depended on neutron dose and the second being       the response of graphite components to applied stresses while under       irradiation.
+The Sussex model attributes the bulk of dimensional change to       basal slip, however, a process inherently related to irradiation creep.
+The implication of this model is that, rather than being two separate       physical processes, irradiation creep is best described as dimensional       change occurring under applied stresses.
+The new behaviour model for the       core, being one of the 20 or so potentially life-limiting factors, has       allowed an extra 48 total reactor-years, so far, of planned life [C1].
+Calculations to quantify the impact of the Sussex contribution, are based       on reference data from the submission by EDF to the Technology Strategy       Board for a project on irradiation creep, which was successful in being       funded.
+These calculations are supported by EDF [C1].
+The total plant life       extension project (PLEX) provides for an extra nine years of life for 14       reactors.
+At &#163;0.5M per day, per reactor, this equates to &#163;23bn at today's       prices.
+Approximately two thirds of this contributes to the UK economy       through the nuclear supply chain (i.e.
+&#163;15bn).
+Aside from the direct       economic effects, there are also, of course, effects on the UK's carbon       dioxide emissions, fossil fuel reduction, and energy deficit.
+An alternative calculation is based on the present annual contribution to       UK GDP of the industry, of about &#163;3.3bn, which gives a potential &#163;30bn       over nine years at today's prices.
+So PLEX is worth &#163;15bn-&#163;30bn to the UK       economy at today's prices.
+An understanding of irradiation creep is estimated as contributing       (&#163;500M), i.e.
+1/30th of the &#163;15bn.
+An understanding of creep is not       possible without understanding underlying dimensional change and the       Sussex work has provided a foundation for understanding dimensional       change, which is conservatively 10-20 per cent of the solution [C1].
+This       gives an impact of the order of &#163;100M at today's prices, with &#163;40M having       accrued already and a further &#163;60M over the rest of the period.
+Undoubtedly, there remains a difference between what might be possible       with engineering solutions and what would be acceptable to the nuclear       regulator.
+Increasing the fundamental understanding helps the industry to       maximise its use of engineering solutions to reactor life extension.
+The EPSRC, in its review of the impact of Chemistry, concludes: `the work       at the University of Sussex on graphite as a moderator in AGRs is       contributing to the better definition of reactor longevity and safety.
+If       the fourteen UK operating AGRs closed unnecessarily early, by perhaps one       year, it could lead to losses running into billions of pounds, threaten       the UK's carbon dioxide emission targets (linked to reducing fossil fuel       dependency) and widen the nation's energy deficit'.
+[C2]     The importance of Heggie's work in this respect is illustrated by regular       invitations for dialogue with EDF Energy Nuclear Generation (EDF-E-NG), by       Heggie's invited position on the Graphite Core Committee that has advised       EDF-E-NG since 2007, and by Heggie's invitation onto the International       Atomic Energy Agency (IAEA) Collaborative Research Programme on       Irradiation Creep in Graphite [C3].
+The understanding of graphite damage       is also relevant to the material's use in the design and development of       generation IV reactors.

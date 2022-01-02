@@ -1,0 +1,38 @@
+     Mathematics has always informed and influenced the creative arts.
+Schleimer and Series' research has had impact on society, culture and       creativity, with additional educational and commercial aspects.
+Their       research has been used to create elegant objects and images which spread       general awareness of mathematics, and has been reproduced and modified by       the interested public.
+Series' work has been disseminated through the book Indra's Pearls [3]       [text removed for publication] It has been translated into Russian (2011)       and Japanese (2013).
+There have been many favourable reviews and much       positive feedback, e.g.
+the Indra's Pearls entry on Amazon.
+http://www.amazon.co.uk/product-         reviews/0521352533/ref=dp_top_cm_cr_acr_txt?ie=UTF8&amp;showViewpoints=1     The images made using [3] can be broadly categorized as fractal art.
+The       algorithms have not been copyrighted and Google searches for terms like       `fractal art Kleinian' lead to many original designs produced by       professional graphics artists and enthusiastic amateurs.
+Due to the       limitation on references we can only highlight a few examples to       demonstrate the reach of the impact of [3].
+All were unsolicited and       acknowledge that they are based on [3]; all examples cited occurred in the       assessment period 2008-13.     a) A well-known Belgian mathematical graphics artist used [3] to create       prints, posters and book covers "after becoming fascinated by the graphics       from the book", (see his extensive website and online galleries [7]).
+Highlights include a set of images for the offices of the London       Mathematical Society (2011) and the exhibition poster and other exhibits       in the Exposition Math&#233;matiques et Art, Paris, 2012; also an online       article explaining how to make the pictures 3-dimensional.
+b) An American software developer incorporated algorithms from [3] as       "Kleinian Group Orbit Traps'' into his Fractal Science Kit (v1 released       June 2008), thus providing an interactive programming environment for       creating fractals.
+In addition to selling this software, he also sells       fractal images via on-line galleries such as RedBubble, and displays his       work on Flickr and Facebook [8].
+c) A British self-employed IT professional, incorporated algorithms from       [3] into his freeware fractal program Spirofractal creating publically       available artwork.
+He says that Indra's Pearls had an "enormous impact" on       him and that "it has significantly improved my skills as a software       developer"[9].
+Other computer artists include an American programmer who       sells posters, cards and stationery inspired from [3]; a Canadian software       designer who posts video clips (2009 -2011); and an American artist       incorporated algorithms into his program Swirlique on his Mystic Fractal       website along with other examples found on the DeviantART gallery [9].
+[3] has also been valued for its educational component.
+Series has given       many public lectures: in the assessment period, the LMS/IMA Gresham       Lecture (2010) Indra's Pearls: Geometry and Symmetry, (available       at http://www.lms.ac.uk/events/lectures/gresham-lectures)       and a similar talk at the Oxford Mathematical Institute Garden Party       (2011).
+[3] has significantly and directly impacted the extensive       popularization work of a German mathematician and computer visualisation       specialist (TU Munich).
+He created 25 interactive applets based on [3] for       a summer camp for mathematically gifted high school students.
+Now       available on line in three languages and frequently used, these also led       to enhancements of his geometry software Cinderella (2009) for schools and       the general public.
+The applets were the initial step in the creation of       his internet platform `mathe-vital.de' for mathematical experiments for       schools, peaking at 700 visits per day and winning the 2008 MedidaPrix.
+The work also led to an installation at the Deutsche Museum, Munich       2011(1.4M visitors/year), other art exhibitions and a prizewinning iOS app       iOrnament [10].
+The reach of Indra's Pearls extends to other media.
+It drew attention to       the analogy between the iterative processes involved and eastern       philosophical traditions, and images have been used as jacket designs for       two books on eastern philosophy [11] Other designs based on [3] include a       widely exhibited silk quilt named Indra's Pearls by a quilt       designer (2009) [12], and an engagement ring for a lady from Arizona [12]       "... a quick note to thank you all for your work on Indra's Pearls, and to       share the engagement ring that my partner had made for me based on the       math he learned in your book...''.
+Schleimer-Segerman's 3D prints are for sale in attractive format from       Shapeways.
+[text removed for publication]     Public interest has been raised through the STL files for Triple gear       ([text removed for publication]) and a related sculpture, Triple         helix, available via Thingiverse [14].
+With the STL file, a 3D       modelling program, and a 3D printer, the design can be modified and       replicated at will.
+Videos discussing each piece are posted on YouTube.
+The video on One-half 120-cell has been watched over 17,000 times       since 9/2011 and that on Triple gear more than 113,000 times since       12/2012.
+Every time such a print is posted it generates online discussion       on blogs and aggregation websites, e.g.
+discussion on Triple         gear at Metafilter.
+Segerman and Schleimer presented One-half 120 cell [4] at the       Bridges Art and Mathematics conference 2012 where it won "Best Use of       Mathematics", one of four awards out of 110 submissions [15].
+Triple         gear, presented at Bridges 2013, was voted "Most innovative" of 136       submissions.
+There have been media articles in Scientific American       (reprinted in Nature), Smithsonian and Gizmodo [16].
+The sculptures also featured in the 2013 Edinburgh International Science       Festival, while in 2012, five large versions of the sculptures were       installed at the Department of Mathematics at the University of Melbourne       [17].
+The breadth of the examples above demonstrates the public appetite for,       and impact of, this kind of mathematical art.
+More than ten years after it       was first published the work by Series continues to inspire, while the       much more recent productions by Schleimer are rapidly attracting wide       attention.

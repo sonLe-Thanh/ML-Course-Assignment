@@ -1,0 +1,30 @@
+     A new method of plasma opacity measurement developed by Professor Greg       Tallents in collaboration with AWE from 1999 plays a key role in the       secure storage and maintenance of nuclear weapons by the UK Atomic Weapons       Establishment (AWE).
+The method has meant that experimental stockpile       stewardship programmes relevant to opacity without underground testing can       be undertaken in the UK using large laboratory lasers.
+Experiments by AWE       on the Helen laser up to 2010, and more recently on the newly constructed       Orion laser, have shown that weapons-relevant densities and temperatures       can be reached and accurately diagnosed using these techniques.
+The Orion laser system at AWE (costing &#163;150m) is now complete.
+The Orion       laser was specifically designed to facilitate opacity experiments using       the technique.
+The first plasma experiment using this new laser was a       milestone opacity measurement (at specified density 4 gcm-3)       using the technique of this impact.
+Though details are obviously       classified and not published (for example, in order to make the       proliferation of weapons to new states or groups more difficult), it can       be surmised that the opacity of hot plasma is important in controlling       energy flow during weapon detonation and other aspects of nuclear weapons       design.
+The new opacity measurement technique is consequently helping AWE       to ensure the safe stockpiling of nuclear weapons without underground       testing and without the need to construct a &#163;1bn laser, as is being       developed by France and the US for stockpile stewardship.
+An acknowledgement of the pivotal nature of the Kirchhoff's law opacity       work in plasma opacity work has been presented in a refereed publication       [S J Rose 2005 Plasma Phys.
+Control Fusion 47, B735 `New       experimental possibilities for measuring radiative opacity under       conditions in the Sun's interior'] The critical role of opacity in nuclear       weapons design is described in a 2002 open publication by the Ministry of       Defence Chief Scientific Advisor, [K O'Nions, R Pitman and C Marsh 2002       Nature 415, 853.
+`Science of nuclear warheads'.].
+Since 2008, AWE effort has increasingly sought to make opacity       measurement using the `Kirchhoff's law' technique by using the AWE Helen       laser (up to 2010), paying for laser time at the Rutherford Appleton       Laboratory Central Laser Facility and by the construction of the &#163;150m       Orion laser at the AWE site Aldermaston.
+The Kirchhoff's law opacity       measuring technique for aluminium compressed to 4 gcm-3 using       shocks resulting from longer pulse lasers (to produce high density) and a       short pulse, high irradiance laser (for heating) was demonstrated on the       Orion laser in early 2013.
+This was the final commissioning test of the       new laser necessary to satisfy AWE contract obligations to the MoD.
+A York       PhD graduate supervised by Tallents (Lauren Hobbs &#8212; nee Gartside) took up       a staff position at AWE in 2011 in order to work on the opacity programme       under the supervision of Dr David Hoarty and contributed significantly to       the opacity milestone experiment using the `Kirchhoff's law' technique.
+Hobbs presented the AWE milestone results for the first time at the       Institute of physics Annual Plasma Physics Conference in March 2013 in       York.
+The US stockpile stewardship programme has recognised the success of the       UK approach and US experiments using the technique developed by Tallents       are now being developed and undertaken on the COMET laser at Lawrence       Livermore National Laboratory (LLNL) and in collaboration with AWE on the       Orion laser.
+A student of Tallents (Mohammed Shahzad half-funded by AWE)       took part in a 4-week opacity experiment at LLNL on the COMET laser in       November/December 2012.
+Former student Lauren Hobbs (mentioned above) is       also involved in the work at LLNL.
+In 2013, a student fully-funded by AWE       (Valentiin Aslanyan) developed simulation results showing that the solid       density plasmas produced in buried layer experiments such as undertaken on       the Orion laser, can be modelled accurately assuming local thermodynamic       equilibrium (LTE) as the times for populations of moderate-Z       material to equilibrate are of order 10 - 50 fs.
+Dr Tim Goldsack from AWE provided the following statement in relation to       this impact on 27th September 2013.
+"Under the Comprehensive Test-Ban Treaty, AWE's task of stockpile       stewardship is challenging.
+In order to gain a deeper understanding of       nuclear-weapon physics for stewardship without underground nuclear tests       it is necessary to be able to create, and accurately diagnose, hot dense       plasmas.
+It had been thought that very large lasers (I.e.
+comparable in       performance &#8212; and hence cost &#8212; to the National Ignition Facility at LLNL       etc) would be needed.
+Prof. Tallents papers helped give rise to the idea       that a smaller (and hence significantly less expensive to build and       operate) laser, incorporating both long- and short-pulse beams could allow       researchers to gain access to hot, dense plasmas at lower cost, and,       indeed, open up other interesting and relevant areas of so-called       "high-energy-density" physics.
+This realisation led to the construction of       the Orion laser at AWE.
+Orion is currently being commissioned, but already       early test shots have shown the great promise of this approach, with high       temperatures (f0bb 600 eV) being achieved at greater than solid density.
+There is a full programme of work planned for Orion, starting in April       2013 when commissioning is completed, and AWE is delighted to acknowledge       the significant contributions Prof Tallents has made.
+It is also worth noting that AWE looks to the York Plasma Group for       potential recruits to the AWE Plasma Group, and recruited one recently."

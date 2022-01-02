@@ -1,0 +1,50 @@
+     The specific cases (a) &#8212; (d) of section 1 fall under the general       categories of `Economic impacts'       and `Impacts on practitioners and professional services'.
+(a) Gas turbine rim seal design advances       Siemens is a large global company with an Energy product group.
+It has a       vested interest in       manufacturing more efficient power generation products so as to increase       market share.
+Siemens       Industrial Turbomachinery employs 1,600 people in Lincoln for the design,       manufacture and       maintenance of gas turbines in the power ranges from 5 MW to 15 MW.
+Research and design       innovations at Bath have had significant economic and environmental impact       at Siemens.
+The       impact has contributed significantly to the company's current level of       technology and       competitiveness in the power generation industry has helped to protect       jobs in Lincoln, supported       the local and wider UK economy, and has created greener technology with a       reduction in CO2       through improved engine efficiency.
+The knowledge transfer of the research       from Bath to Siemens       has been facilitated by a Knowledge Transfer Associate (Teuber).
+(i) New rim seal components and improved thermal efficiency              The Bath research [2, 3] has led directly to new rim seal components.
+These patented component       designs ([A] and patent applications from Siemens: 2013P00020EP and       2013P00483EP, currently       embargoed) evolved through a carefully organised programme of interaction       between Siemens       and Bath, via a Knowledge Transfer Partnership.
+Economic impacts           have been evidenced         through improved products, jobs protected, and reallocation of           corporate budgets as the       Director of Future Technology within Siemens (Lincoln) states that an       improvement in thermal       efficiency of 0.4% has been confirmed [B].
+Furthermore:     `Internal funding directly from Technology looking at the development         of seals and improved         secondary air systems analysis will be in the region of &#8364;1M-1.5M over         five years.
+To this I         would add the indirect effort that comes about through related engine         design and concept         development activity.
+Here we have ~4 to 5 people full time equivalent @         approx &#8364;1M/annum.'
+(ii) Changing and improving the design methods at Siemens              The research at Bath has achieved impact on practitioners/engineers           through changed and         improved design practices used at Siemens.
+Specifically, a       new theoretical model for rim seal       ingress has been developed at Bath and translated into a practical design       tool (used in 2nd Flow)       for the Siemens' secondary air system (SAS) [C].
+It is stated in [B] that:     `Avoidance of a single instrumented engine test has reduced the engine         development budget by         over &#163;250k and the development programme by 3 months.
+Reduced lead times         for engine         development can be equated to additional opportunity for engine sales.'
+and     `Increasing the life of these parts therefore makes the company's         service plans more attractive         to the customer and secures the jobs in its service organisation.
+Each         additional long term         service agreement secured is a sale valued at between &#163;250k and &#163;500k         per year for 5 to 10         years.'
+Each additional sale of a 15 MW class engine represents a sale valued at       over &#163;5M.
+Siemens       branches in the USA, Sweden and Germany have validated their own SAS tools       and have       assessed 2nd Flow as the major SAS design tool [D].
+This has       enabled Siemens to reallocate       corporate budgets towards research in the Energy sector.
+(b) Design against runaway shaft thermal bending in rotating machines       The dynamic process of runaway shaft thermal bending, known as the Morton       Effect, was first       explained in reference [4].
+Since that publication, design and field       engineers have reported       numerous instances of problematic turbomachines that were not meeting       specification due to       excessive vibration.
+These engineers now design against occurrence of the       Morton Effect by       reducing a thermal-orbit loop gain system parameter below a definable       threshold value.
+Impact of       this research is therefore evident through traceable references           from practitioners (engineers)         to reference [4].
+Cases of the Morton Effect have been       reported through the       Pump/Turbomachinery Symposia, organised by the Turbomachinery Laboratory,       Texas A&amp;M       University, and held annually in Houston.
+The Director of the       Turbomachinery Laboratory, who has       extensive industrial engagement with the oil and gas sector, comments [E]:     `After their work, a stream of papers appeared involving case studies         of real machines with         "synchronously unstable" vibration characteristics.
+The outcome was         comparable to the         discovery of a previously undiagnosed disease that &#8212; once recognized &#8212;         was found to be         widely distributed and now predictable, avoidable, and curable.'
+(c) International standards for Active Magnetic Bearing (AMB) based         rotating machines       The group has led research into the rigorous design of active magnetic       bearing (AMB) control       strategies for the stable levitation of flexible rotors, and has addressed       the understanding of the       dynamics of rotor drop onto touchdown bearings [5, 6].
+The impact of this       research is now evident       through its incorporation into new and modified professional           standards.
+A degree of standardization was required following the early industrial       application of AMBs over the       1980s and 1990s, when failures were reported.
+Recognition of the Bath       research became evident       through invitations to serve on the International Organization for       Standardization (ISO)       TC108/SC2/WG7 AMB Project committee (Burrows, 1996; Keogh, 1998;       Sahinkaya, 2003) with       other academic researchers and industrial technologists from the USA,       Switzerland, Germany,       France, and Japan.
+Bath is now the only institution with three       representatives.
+This committee has       encouraged the expansion of applications from vacuum pumps, motors,       generators, flywheel       energy storage, to compressors for the oil and gas sector.
+The Bath group       pioneered the technique       of automatic balancing of levitated flexible rotors and has been central       to the understanding of       AMB touchdown dynamics that arise from rotor de-levitation.
+The Bath input       has been embedded       into the standard, ISO 14839 (Parts 1-4) [F].
+Since 2009, Keogh has led       ISO/TC108/SC2/WG7 as       Convenor and Part 4 was published in 2012.
+Beneficiaries include vendors       (S2M, MECOS,       Calnetix, Waukesha), original equipment manufacturers (Siemens, GE, Solar       Turbines, Edwards)       and end-users (Shell, Total, Statoil, Exxon).
+The Director of Technology,       Calnetix, states [G]:     `As Director of Technology of Calnetix, an innovation led company         based near Los Angeles,         USA, I know well that important technical issues must be overcome to         ensure that high         performance machines operate reliably and safely in their intended         environments.
+The input         from the Bath team has contributed significantly to the development of         rigorous standards for         AMB operation in a range of industrial applications.
+The performance         metrics required by the         standard are very useful and practical, enabling Calnetix to advance the         robustness of its         machine designs.
+This has helped Calnetix increase market penetration -         in fact, annual         revenues of Calnetix have tripled over the past five years.'
+(d) Oil-free compressor design       International recognition of the Bath input is attested by the invitation       of GE Global Research       (Munich) in 2012 for the Bath team to design and deliver an experimental       facility for oil-free       compressor dynamic investigations.
+The research from Bath has also       underpinned collaboration       and impact with GE through knowledge transfer.
+The       Principal Engineer: Electric Drivetrain, GE       Global Research, states [H]:     `I was aware of the previous Bath AMB research into the control of         levitated flexible rotors.
+Such         rotors are pertinent to the oil and gas compressor rotors manufactured         by GE.
+A contract was         therefore arranged for Bath to design and deliver an experimental         rotor/AMB facility to GE         Global Research (Munich) to enable investigation of the system         requirements for compressors,         particularly in subsea applications.
+Professor Keogh and Dr Sahinkaya         have since interacted         with and guided the GE engineering team from April 2012 to July 2013         through knowledge         transfer of the principles that are embedded within ISO 14839         guidelines.'
+The experimental facility has been used to train five practitioners       (design engineers) for the       development of oil-free compressors.

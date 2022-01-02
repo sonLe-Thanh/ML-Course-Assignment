@@ -1,0 +1,46 @@
+ The introduction of respeaking The training programme proposed by Romero-Fresco in his book has been adopted by the universities of Barcelona, Vigo (Spain), Vienna (Austria) and Antwerp (Belgium) to start postgraduate modules on respeaking.
+This training programme has also been adopted by media companies in different countries around the world.
+In 2009, the Spanish company Mundovisi&#243;n set up a respeaking team using Romero-Fresco's training methodology to provide, for the first time ever, live subtitles through respeaking in Spain for the public channel TVE.
+Following two specialised workshops delivered by Romero-Fresco and based on the above-mentioned research, the Italian media companies Deluxe and Subt-ti started providing live subtitles through respeaking in 2011, as did the British company TVT, which is currently using the methodology outlined in the book to provide live subtitles for BBC World in the United States.
+The impact on the viewers and the industry Romero-Fresco's study on the viewers' reception of live subtitles in the UK, also included in the book, has had significant impact on both the viewers and professional practice in the field.
+The results of the survey on viewers' preferences, which showed the need to raise awareness about the existence of respeaking in the UK, persuaded the BBC to prepare in collaboration with Romero-Fresco a special item on live subtitling for its BBC2 programme See Hear1.
+Broadcast on 3 February 2011 and seen by 508,833 viewers, the programme included an interview with Romero- Fresco where he explained the main findings of his research.
+Since then, it has been hosted on Youtube with a total of 20,267 views as of 15 July 2013.
+Some of the comments received from the viewers are "I will certainly be less impatient with live subtitles now that I know how they are made" and "This is a fascinating documentary, a great way of getting across this service to so many people who are hard of hearing and are not aware of live subtitles.
+Also, it will bring understanding to those whose hearing is so far unimpaired".
+In Spain, an interview with Romero-Fresco about his research was presented in a news item by Canal 9's programme Gente on 25 January 20112.
+This was the first news item about respeaking ever broadcast in Spain and was seen by 81,944 viewers.
+The second part of the reception study on live subtitles, carried out as part of the DTV4ALL project and presented in Romero-Fresco's 2011 book, led to a significant change in professional practice that has reached not only broadcasters and subtitling companies, but also millions of viewers.
+The results of the eye-tracking and comprehension tests showed that the word-for-word display mode of live subtitles often used in Switzerland and France prevents viewers from achieving an optimum comprehension of TV programmes.
+This problem can however be avoided if the subtitles are displayed in blocks.
+Following the recommendations from this study, Swiss TXT (the leading Swiss subtitling company) changed their subtitling policy to introduce block subtitles in 2011.
+From then, the live programmes broadcast by the Swiss public channels SF1, SF2 and SF Info (in German), TSR1 and TSR2 (in French) and RSI 1 and 2 (in Italian), which are seen by an average of between 1,564,138 and 4,066,758 viewers every day, are subtitled in blocks.
+In 2012, a workshop given by Romero-Fresco in Geneva also persuaded the leading French subtitling company MFP to stop displaying their subtitles in scrolling mode.
+As a result, the live programmes on the main French public channels (France 2, France 3 and France 5), with shares of 3.6%-14.4% (between 837,000 and 3,100,000 viewers per day), are now subtitled in blocks.
+The impact on the regulators Romero-Fresco's findings about the quality of live subtitling were presented on 19 April 2011 in the inaugural meeting of the United Nation's first Focus Group on Audiovisual Media Accessibility, of which he is a member.
+In the UK, the main deaf associations (Action on Hearing Loss, Tag, Hearing Concern and Link) used these findings in 2012 to demand the public regulator Ofcom to tackle the issue of quality in live subtitling.
+Until then, Ofcom had only been concerned with the quantity of live subtitling, mainly by establishing quotas for the different British channels.
+Following the pressure by the user associations, Ofcom agreed to engage with the quality of live subtitles and asked Romero-Fresco for a model to assess the accuracy of live subtitles.
+After months of consultation with broadcasters and service providers, Ofcom have now issued the first official statement about quality in live subtitling3.
+The public regulator urges broadcasters to inform their practice with the academic research carried out by Romero-Fresco on respeaking and presents his NER model (introduced in his 2011 book) as an example of how to assess the quality of live subtitles.
+In Spain, the public regulator AENOR adopted in May 2011 the NER model and included it in the official Spanish guidelines on subtitling4.
+Every subtitling company in Spain is required to use it for quality control and training purposes.
+The model has also been adopted by the leading public broadcasters in Italy (RAI), Germany (ARD), Belgium (VRT) and Switzerland (SRG SSR).
+The application of the model ensures that the subtitles produced by these broadcasters and companies have a minimum of 98% accuracy, thus providing the hearing-impaired viewers with optimum access to the TV programmes they are watching.
+Respeaking in new contexts The research carried out by Romero-Fresco has also enabled the provision of live subtitles in countries and contexts where they did not exist before, such as university classrooms in South Africa and live events, telephone conversations and secondary school classrooms in the UK.
+Although 9 of the 11 official languages in South Africa are African, most universities deliver their courses in English.
+The majority of South African students are thus at a disadvantage, having to follow classes in their third, fourth and sometimes fifth language.
+A visit to North-West University (Vaal Triangle) in October 2011 enabled Romero-Fresco to provide respeaking training to the researchers in the Language Department.
+The aim was to use respeaking as a tool to subtitle classes live into English so that non-native students could have live written input as well as the audio input from the lecturers.
+The first experiments proved extremely successful and promising with a view to extending this technique to other universities around the country.
+In the UK, until 2009 respeaking had only been used on TV.
+In collaboration with Romero-Fresco and using the initial findings of the DTV4ALL project, the subtitling company Stagetext piloted in March 2009 the first experience of respoken subtitles for a live event in the UK (a talk at the National Gallery).
+Since then, Stagetext has been providing regular access for deaf and hard-of- hearing people to 100 live events every year at museums and theatres all around the country.
+Finally, Romero-Fresco's research is also being applied in the UK by Bee Communications and Ai- Live.
+Bee Communications are using Romero-Fresco's training programme and the NER model for the pioneering application of respeaking to telephone conversations.
+The goal is to enable people with hearing loss to read on their phone screens what their interlocutor is saying.
+In the UK, this has normally been done by a remote typist, but never by a respeaker.
+As for Ai-Live, they are working with Romero-Fresco and using both his training programme and the NER model to introduce respeaking in UK secondary schools.
+The aim in this case is to use respeaking to provide a live transcription of the teacher's words in the classroom for the benefit of students with hearing loss or learning difficulties.
+Ongoing With regard to ongoing developments, Romero-Fresco is now working as a consultant in the EU- funded project SAVAS, which aims to develop speech recognition software in languages that still do not have this technology.
+The project will be using the NER model to develop new software in Portuguese and in minority languages such as Basque and Galician, in order to ensure that the hearing-impaired viewers from these countries and regions can have access to live programmes and public events through respeaking.

@@ -1,0 +1,31 @@
+     Reference letters refer to sources of impact in section 5, reference       numbers to research papers in section 3.
+Source [A] and statement [B] confirm that the research [1,3] has       supported Simulation Solutions in the development and commercialisation of       novel hip and knee joint simulators.
+Specifically it has:            Supported the design and co-development of the simulation systems;       Commissioned, evaluated and validated new simulation systems;       Produced control and reference data over 5 billion cycles of reference         data.
+Provided training and standard operating procedures for users and         customers       Published journal papers on the simulation systems company web site.
+The simulation facility established in this UoA has over eighty stations       offering full-joint simulation in Class 2 clean rooms and is believed to       be the largest academic facility in the world [1,2,3,4].
+These simulators       have been used to support product development, to assess performance and       evaluate safety and reliability of joint replacements.
+We have worked in partnership with industry to research, invent and       develop novel lower wearing bearings for the hip.
+The ceramic-on-metal hip       [6] developed with DePuy [C,D] and the tougher and lower wearing [2]       ceramic-matrix-composite bearings [E] developed with DePuy and Mathys were       both major strides in this area.
+In the knee, the research [4] has       supported the development and adoption of the DePuy Sigma       rotating-platform knee [F] and a new low-conforming partial knee [G].
+The advanced hip simulation systems have also been used to quantify the       increase in wear in larger diameter metal-on-metal hip replacement systems       due to edge loading [H].
+This provided evidence that informed the       subsequent decision to discontinue their clinical use.
+Economic impact     Demand for pre-clinical joint simulation systems has increased       substantially since 2007, following the reclassification of joint       replacements as Class 3 devices.
+The regulatory environment now requires       most hip and knee joint replacements to undergo pre-clinical tribological       simulation testing before entering clinical use.
+Statement [B] confirms that: Simulation Solutions have increased their       annual turnover to &#163;2M/year and now employ 20 people to develop and       manufacture hip joint simulation systems; the company's joint simulation       systems are sold around the world, in China, India, Australia and Europe       and the company is the market leader outside of North America.
+Economic impact has been made through support for Simulation Solutions       customers in the use of the technology.
+This is delivered through the       licensing of standard operating procedures and a training-support package       from the University to customers.
+One example is an agreement between the       University of Leeds, Simulation Solutions and the Chinese Food &amp; Drug       Administration (CFDA) that has led to the installation of Simulation       Solution simulators in CFDA laboratories in Tianjin [I].
+Economic impact has also been delivered through the University's       ISO-accredited research laboratory.
+This facility has supplied contract       research services to industry and supported companies in developing       products to meet new regulations.
+Not all implant manufacturers have joint       simulation systems.
+This is particularly true of small- to medium-sized       enterprises.
+The University has supported new product development in       orthopaedic companies including Mathys, JRI, Ceramtec, Ceramconcept, and       Corin.
+Collaboration with Mathys has supported the development of the new       ceramic-matrix-composite ceramic-on-ceramic hip for clinical use [J].
+The 12-year-long strategic research partnership with DePuy [K] has       supported the development of improved bearings with lower wear.
+Statement       [L] confirms that this has helped DePuy protect its market share and meet       the expectations of high-demand patients [L].
+Some figures describing the       extent of the impact of the research at Leeds are:            Approximately 10,000 ceramic-on-metal hips implanted worldwide.
+There         has been a 97% success rate at five years for 1,500 hips in the UK         registry       Over 300,000 ceramic femoral heads sold and implanted outside of the         USA since 2008, for which the University of Leeds has received a royalty         payment from DePuy [M]          Statement [L] from DePuy confirms that our advanced research methods have       been adopted by industry and that 15 DePuy R&amp;D staff have been trained       in Leeds.
+The adverse hip simulation methods and edge loading of the head       on the rim of cup and advanced knee simulation methods are used in DePuy       company testing laboratories in the UK and USA.
+Health impact     Young, active and high-demand patients with improved lower wearing       prostheses benefit from extended active working lives.
+The reduction in       wear-related failures and revision operations provide benefits to       healthcare providers.
+The research has led to the collaborative       development of improved prostheses [C,D,E,F,G], following clinical trials       [D], this has resulted in lower wearing joint replacements used by       hundreds of thousands of patients worldwide.

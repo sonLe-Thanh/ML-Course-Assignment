@@ -1,0 +1,43 @@
+     The research described above has underpinned the development of the first       smaller-scale, modular gas-to-liquids (GTL) and biomass-to-liquids (BTL)       Fischer-Tropsch (FT) reactors, launched by Oxford Catalysts Group in 2010.
+Several orders for reactors have been taken; the company has attracted       very substantial investment as a result of the novel technology it offers,       and has one of the world's largest patent portfolios in this area.
+After its spin-out from the University of Oxford in 2004, Oxford       Catalysts Ltd. concentrated on the creation of highly active and efficient       cobalt-based FT catalysts based on Green's research.
+Such was the       perceived potential of this new technology that the company's Initial       Public Offering of 2006 raised &#163; 15M and was over-subscribed.
+Oxford       Catalysts' patented technology, known as Organic Matrix Combustion (OMX),       allows highly active cobalt-based catalysts to be produced with a reduced       need for precious metal promoters, without any loss of performance and in       fact with superior activity, selectivity and stability to conventional       catalysts.
+In 2008, the company merged with Velocys, a US company       specialising in microchannel chemical reactors (using channels with       diameters in the range 0.1 - 10 mm, far smaller than those in conventional       reactors).
+These small channels dissipate heat more quickly than       conventional reactors so a more active catalyst can be used, and the mass       and heat transfer limitations of conventional FT reactors are overcome.
+Importantly, this allowed Oxford Catalysts to take advantage of the highly       active cobalt catalysts developed by Green [6].
+The use of microchannel       processing technology makes it possible to greatly intensify chemical       reactions, enabling them to occur at rates significantly higher than       conventional processes, thus enabling smaller-scale FT reactors for GTL       and BTL.
+The merged company became known as Oxford Catalysts Group       (re-named Velocys from September 2013) and is the only company working in       this field to maintain in-house research in both catalyst and reactor       development.
+The company has capitalised on the potential of smaller and more       versatile FT reactors.
+Existing FT plants are huge, designed for       production levels of around 30,000 barrels of liquid fuel per day (BPD),       and cannot be scaled down economically.
+They require vast sources of gas,       and so are confined to a small number of locations (primarily in Qatar),       and cost billions of dollars, putting them beyond the reach of all but the       largest companies.
+Gas associated with oil production is usually wasted;       it is frequently disposed of by flaring (burning) - an environmentally       unfriendly process that is increasingly subject to regulation - or by       re-injection back into the reservoir at considerable expense.
+According to       the World Bank, 140 billion cubic meters of associated gas - enough to       power Germany - was flared in 2011.
+An equivalent amount or more was       re-injected simply to avoid flaring.
+Gas located at remote locations is       often not developed; it is not economically viable to pipe the gas to       where it is needed.
+Biomass resources such as agricultural and municipal       solid waste are another important potential syngas for the FT process: the       alternative being that they are disposed of as waste.
+Because biomass       feedstock is not very dense, it is not economic to transport it over long       distances to centralised production facilities.
+Therefore, BTL plants in       particular need to be relatively small and located near the source of the       feedstock.
+The technology developed by Oxford Catalysts Group makes it       possible to take advantage of these `wasted resources' to produce liquid       fuels by using the biomass-to-liquids (BTL) or gas-to-liquids (GTL)       processes.
+An added advantage is that the process creates synthetic clean       fuels free from sulphur and aromatics (unlike those produced in       conventional refinery processes), and can be tailored to produce       high-value hydrocarbons such as jet fuel [7].
+Oxford Catalysts Group has demonstrated that its reactors operate       economically when producing as little as 1,000 BPD of FT products.
+The       reactors are small enough that modules incorporating the reactors can be       transported in standard-size shipping containers and easily delivered to       where they are needed.
+This has opened up the market to smaller companies,       smaller gas fields and more remote locations, enabling the distributed       production (production at or near the source of the feedstock) of clean       liquid fuels from stranded and associated gas, both on- and off-shore, and       from biomass.
+For example, Oxford Catalysts Group has established a       partnership with offshore-facility developers MODEC and the global       engineering firm Toyo Engineering to develop small-scale GTL facilities       based on microchannel reactors and designed for use offshore [14].
+The huge potential of the reactors has generated a high level of       investment in the company.
+Between 2008 and the end of 2012, the group       achieved revenue of &#163; 30M and received over &#163; 60M in investment.
+&#163; 30.6M       of the investment was raised in January 2013, at which time Roman       Abramovich invested &#163; 4.3M in the company, generating press and television       news coverage.
+Oxford Catalysts' stock increased by around 200% between       June 2012 and June 2013.
+Throughout this period, the company has been able       to maintain its levels of employment (80 - 90 staff) in the UK and the US       [8], and has offices in the UK near Oxford and in the USA in Texas and       Ohio.
+In May 2012, Oxford Catalysts announced the sale and start-up of a       commercial scale FT reactor at an integrated energy company facility [9].
+The Group's technology has been selected for 4 commercial-scale projects       including:            A 1,000 BPD commercial GTL plant for Calumet Specialty Product         Partners, L.P., a major US-based producer of speciality petroleum         products, for use in the expansion of Calumet's Karns City, Pennsylvania         facility [10].
+GreenSky London waste-biomass to jet fuel commercial plant, in         partnership with BA.
+Like many airlines, BA is concerned about carbon         taxes and is, therefore, interested in securing a low-carbon-footprint         fuel based on biomass.
+The plant will provide enough fuel for BA at City         Airport [11] - reportedly 50,000 tonnes of jet fuel annually over 10         years equating to $ 500M at today's prices.
+A 2,800 BPD GTL plant being developed by Pinto Energy in Ohio, USA, to         convert low-cost natural gas into high value specialty products         (solvents, lubricants and waxes), as well as ultra clean transportation         fuels [12].
+In November 2012, Oxford Catalysts Group was named as the preferred       supplier of FT technology for Ventech Engineers LLC, a global leader in       the design and construction of modular refineries.
+The deal raised &#163; 1.2M       for the Group, and in April 2013, Ventech placed an order worth $ 8M for       FT reactors for a plant of sufficient capacity to produce approximately       1,400 BPD.
+This gives an indication of the expected income from the       projects listed above.
+Kevin Stanley, CEO of Ventech Engineers commented,       `After an extensive search of available technologies we identified Oxford       Catalysts' FT product as the leading offering in the industry for modular       GTL plants' [13].
+Oxford Catalysts Group has established collaborations for the       engineering, manufacturing and deployment of its technology with companies       such as MODEC, Toyo Engineering, Haldor Topose and Ventech.
+The range of       partnerships reflects the fact that Oxford Catalysts group is regarded as       a leading player in the field of FT technology [14].

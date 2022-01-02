@@ -1,0 +1,26 @@
+     OrbitrapTM is a brand name for a series of high-precision       Fourier Transform Mass Spectrometer       systems produced by Thermo Fisher Scientific.
+The electrostatic orbital       ion trap with synchronous       oscillation properties was invented in 1996 by Dr. A. Makarov, who       received the American Society       for Mass Spectrometry Distinguished Contribution in Mass Spectrometry       Award in 2008 for this       development.
+Currently, the Thermo Scientific OrbitrapTM mass       spectrometer has been produced in       several versions, with an average price about US$0.5 million for one       system.
+(Further details are       commercially sensitive.)
+Many OrbitrapTM mass analysers have       been sold to the hospitals and       laboratories worldwide, but the precise number is commercially       confidential.
+A recent picture and description of an OrbitrapTM mass       spectrometer is shown below       (www.thermofisher.com).
+New Thermo Fisher Scientific High Performance       Benchtop Quadrupole-Orbitrap Mass Spectrometer         Thermo Fisher Scientific introduces the Q Exactive high-performance       benchtop       quadrupole-Orbitrap LS-MS/MS.
+It is the first commercially available       instrument to bring       together quadrupole precursor selection and high-resolution accurate mass       (HR/AM)       OrbitrapTM mass analysis to deliver high confidence       quantitative and qualitative       (quan/qual) workflows.
+With innovate HR/AM QuanfirmationTM       capability, the Q       ExactiveTM mass spectrometer makes it possible to identify,       quantify and confirm more       trace-level metabolites, contaminants, peptides and proteins in complex       mixtures in one       analytical run.
+Unlike other technologies, high confidence results are       obtained without       sacrificing MS/MS sensitivity, mass resolution or quantitative       reproducibility.
+Features            Resolving power up to 140.000       Maximum scan speed 12 Hz       Intra &#8212; scan dynamic range &gt; 5000:1       Quadrupole mass filter       Spectral multiplexing for enhanced duty cycle       S-Lens ion source for increased sensitivity          Mathematical modelling has had a significant impact on the design of the       OrbitrapTM device.
+The results of reference [3.5] on Hamiltonian perturbation theory       of the motion of charged particles       had been used since 2011 by the Life Science Mass Spectrometry,       Chromatography and Mass       Spectrometry Division (CMD) of Thermo Fisher Scientific (Bremen) GmbH, for       OrbitrapTM mass       spectrometer performance modelling.
+The mathematical techniques were       implemented in the       MASIM-3D software package in 2012.
+The averaged motion equations describe       the resonant       interactions of many ions of the same or close masses.
+The calculation       time decrease gained from       averaging ensures the modelling of a reasonably large number of ion       macro-particles (up to ~       2x103) to reveal the sophisticated space charge effects of       self-bunching and coalescence in an       OrbitrapTM mass spectrometer.
+The coalescence is a       synchronization phenomenon when ions of       close masses move with the same frequency.
+Thus they create one peak on       the observed Fourier       spectrum and cannot be identified/distinguished using this spectrum.
+Numerical analysis of ionic       motion close to the threshold of synchronisation allows reliable       estimation of the mass resolving       power limitation in an OrbitrapTM mass spectrometer.
+The       calculated dependence of the       synchronisation threshold as a function of intentionally introduced small       static perturbations allows       the coalescence effect to be controlled.
+The modelling of space-charge effects in the OrbitrapTM mass       spectrometer by direct tracing of       multiple interacting ions is an extremely computationally demanding and       time-consuming task.
+Obtaining the required accuracy is a major challenge.
+However, using the       averaged Hamiltonian       equations derived in [3.5] allows specialists at Thermo Fisher       Scientific to model the space-charge       effects in reasonable computer time with appropriate accuracy.
+This allows       them to try many       variations of the parameters in order to determine the necessary values to       optimise the OrbitrapTM       mass spectrometer's performance.
+The beneficiaries of the research are Thermo Fisher Scientific and       indirectly their customers in       healthcare research and industry.
+OrbitrapTM mass spectrometer       is used in many hospitals and       laboratories in the UK and worldwide, in particular for drug monitoring       and food safety analysis.
+Thermo Fisher Scientific is a large precision healthcare equipment global       company with offices       and operations in most countries around the world, and 2013 revenue       guidance between $12.83       billion and $12.95 billion.

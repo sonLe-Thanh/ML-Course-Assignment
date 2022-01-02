@@ -1,0 +1,30 @@
+     Automotive design analysis tools based on qualitative reasoning research       at Aberystwyth are deployed at more than 200 automotive and aeronautic       OEMs and Tier 1 suppliers world-wide [5.1].
+In order to use the tools,       engineers in the companies need to change their design processes, but this       is seen as being worthwhile, because of the improved safety and the       potential for cost savings that results.
+Safety is improved, because safety design analysis can be carried out       early in the design process and then repeated painlessly as the design       evolves [3.4,3.5].
+Cost savings result both from the reduced engineer       effort needed to do the safety analysis, and from the fact that the       analysis can been carried out early in the design process &#8212; fixing design       problems early is much cheaper than fixing them late in the design       process.
+The qualitative reasoning based automated FMEA research described in the       papers in section 3 led to the first ever commercial automated FMEA tool,       called AutoSteve, developed by Aberystwyth Computer Science in       collaboration with Ford Motor Company.
+This resulted in a spin-out       company, FirstEarth, that supported and further developed AutoSteve,       marketing and selling it to other automotive companies.
+FirstEarth was       well supported by the Department over a five year period (1998-2003), and       further results of our research were embodied in its design analysis       tools.
+Researchers, academic members of staff, graduate and undergraduate       students were all seconded to the company at some point.
+At its height,       the company employed 12 staff, and of those, nine had been trained by the       Department.
+Of those nine, six chose to work for Mentor Graphics when it       bought FirstEarth in 2003, and four of those (all originally RAs on       related research projects) are still key technical staff for Mentor       Graphics in their Newbury research and development centre [5.1].
+FirstEarth Limited and Aberystwyth University developed further       commercial automated design analysis tools based on the continuing       research at Aberystwyth.
+These include automated sneak circuit analysis,       fusing strategy design analysis, and simple design verification.
+The       underlying qualitative reasoning meant that all these tools were able to       work on a single library of system models built by automotive engineers,       and that useful analysis could be carried out much earlier in the       automotive design lifecycle than had previously been possible.
+A language       for describing the function of systems that had been developed as part of       the research, along with ways of using that language to interpret system       behaviour, and this meant that the tools could generate consistent reports       in the kind of language used by engineers and managers &#8212; another       significant advantage over previous tools.
+When Mentor Graphics took over FirstEarth Limited, they incorporated the       tools into their "Capital" harness design toolkit, and renamed AutoSteve       as part of the toolkit.
+They have split AutoSteve into four tools that       support Capital Harness Design, all built on the Aberystwyth research       described above [5.2].
+The subtext after each tool name is the description       from their website of what that tool does for the engineer:            Capital SimCertify: Bullet proof design using FMEA       Capital SimProve: Eliminate sneak faults       Capital SimStress: Size components for worst-case configurations       Capital SimTransient: Validate transient behaviour          In order to estimate the reach of the impact of this research, in 2012 we       asked the Integrated Electrical Systems Division (IESD) of Mentor Graphics       about the usage of this technology over the past few years.
+They informed       us that Mentor Graphics presently has design tools based on technology       developed at Aberystwyth installed at over 200 vehicle producers and Tier       1 suppliers.
+These tools are having a significant effect on improving       vehicle safety and on the efficient production of vehicle designs.
+Potential design problems are identified early.
+The tools are also saving significant design costs.
+The rapid automated       safety analysis of designs means that many more design options can be       explored cheaply.
+A recent example of this is provided by one of the       world's largest producer of automotive harnesses.
+In 2009, the company       used the tools to identify how to save 50 cents per harness produced.
+When       you are producing 5 million harnesses, that gives savings of $2.5 million       for a single product.
+In 1999, the Ford team working with FirstEarth and Aberystwyth University       on AutoSteve was awarded a Ford Europe Technology prize for the impact of       AutoSteve.
+The business case produced by Ford in submission for the prize       estimated that AutoSteve was then saving Ford around $20M per year, but       that the key benefit was the improved analysis of design safety [5.3].
+The supporting impact letter from Mentor Graphics says "Mentor Graphics       presently has design tools which include technology developed at       Aberystwyth deployed at more than 200 vehicle producers and Tier 1       suppliers.
+", and highlights both "improved design quality" and "usage can       also result in significant cost savings".
+Given increases in costs since       Ford did their study in 1999, and the wide deployment of these tools, we       conclude that the overall economic impact is very significant indeed.

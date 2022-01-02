@@ -1,0 +1,29 @@
+     Research by Bennell and Potts and the development of many-to-one and       RouteForce have directly led to commercial gains for Logical Transport       (LT), financial and carbon emission savings for local councils and other       transport providers, and improved experience for passengers.
+Benefits to Logical Transport and private industry     As a result of LTs collaboration with Southampton, LT has grown from five       employees and a single product to fifteen employees, with a 58% increase       in turnover between 2009/10 and 2010/11 and moving from a net loss to net       profit [5.1].
+Since 2010, LT has used the Many-to-One scheduling software       as part of its core scheduling product [5.2].
+This has largely been used       in its consultancy services where LT perform a full analysis of the school       bus requirements for their clients.
+Four local authorities and two private       schools used this service and the introduction of RouteForce in 2012       attracted two further local authority clients.
+Many-to-One and RouteForce have provided LT with the tools to realise a       significant competitive advantage as they can deal with differing needs of       passengers, flexible capacity vehicles and restrictions in the real road       network.
+Competitors' routing software sees passengers as homogeneous and       fails to take into account practical issues such as arriving on the       address side of the road or the difficulty in making U-turns.
+The       Southampton-developed tools allow for efficient scheduling of passengers       to vehicles according to any of five key performance indicators: number of       vehicles, mileage, CO2 emissions, vehicle time on road,       passenger time in vehicle.
+LT can prioritise different KPIs for clients.
+[5.3]     LT software that includes the capabilities developed via the       collaborations, are used by a range of clients for transport scheduling,       such as the National Express Hoppa Service (2009) [5.4] for transferring       passengers between hotels and airport terminals.
+As a result, National       Express are able to provide a fixed schedule service during peak times and       flexible scheduling during off-peak hours.
+This has delivered improved       customer service in off-peak hours, while reducing operational overheads       and environmental impact.
+Introduction of the demand response service has       resulted in a 30% drop in expenditure for National Express without       sacrificing customer service.
+Alan Willson (former Director of Business       Development at LT) said: "(the routing engine developed in conjunction         with the University of Southampton) undoubtedly helped to secure the         deal with National Express."
+The financial benefit to LT is quantified in a statement in 2009 by Dale       Howarth, Business Development Manager at LT, said: "Over the past two         years our revenues have increased by over 300%.
+Our relationship with         the University of Southampton has, and continues to be a significant         contributor to this success".
+[5.5]     Advantages to local authorities and schools     School transport represents a major expenditure for local authorities and       schools.
+The pressure on public finances in recent years has meant that       the cost of school bus services has come under particular scrutiny.
+Since       2010, LT have worked with Bristol, Camden, Devon, Enfield, Halton and       Telford local authorities on school/day care transportation scheduling and       [name of college removed for publication], Trowbridge and St Dunstan's       School on school bus scheduling.
+London Borough of Camden run a fleet of       11 fully accessible buses for 173 special needs school children, 23 buses       for adult transportation to day care, and 5 demand responsive buses for       adults who cannot access public transport.
+Each bus costs &#163;100k per year.
+The study showed a 20% reduction in vehicles and a 61% reduction in miles       driven (2013).
+The Transport manager, Callum Johnson, cited the impact of       LT software as one of management information for decision-making including       capacity analysis, and accurate reporting of passengers that is important       for supporting their safeguarding policy.
+They are about to implement       Routeforce, which he states "will make a massive difference" in their       ability to reduce costs and environmental impact [5.6].
+At [name of       college removed for publication], Trowbridge, the study showed a 19%       reduction in vehicles and a 19% reduction in miles driven, with an       estimated minimum cost saving of &#163;100K per annum (2012).
+Benefits to passengers     The studies undertaken by LT for the mentioned councils using Many-To-One       and Routeforce have shown higher quality service in terms of ride time       and/or reduced fuel emissions through better routing.
+School children and       day-care patients benefit from shorter ride times and users of National       Express Hoppa Services benefit from a more responsive service.
+Since the       software considers seat configuration, passengers that have very special       needs can be accommodated, for example, requiring an escort and vacant       seats next to or in front.
+This provides a better service for these       children and aids their social integration.

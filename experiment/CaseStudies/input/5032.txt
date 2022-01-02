@@ -1,0 +1,40 @@
+     Research at King's College London (KCL) led to the development and       validation of a monitoring system utilising a patented algorithm for       continuous measurement of cardiac output and derivation of other       haemodynamic variables using arterial pulse pressure contour analysis       (PulseCO) and of a minimally invasive method for measuring cardiac output       using lithium dilution and disposable lithium ion-sensitive electrodes       (LiDCO).
+The key beneficiaries of this research are patients, healthcare       providers and the cardiovascular monitoring industry.
+The LiDCO/PulseCO       system has been independently validated, with studies suggesting that the       system is at least as accurate as other means of measuring cardiac output       but with the considerable advantages of being minimally invasive, usable       in conscious subjects and easy and quick to set-up and interpret.
+KCL research is turned into a worldwide commercial product     LiDCO Group PLC (1a) was founded in 1991 by Drs Terry O'Brien, David       Band, Robert Linton and Jiri Kratochvil and by KCL.
+In 2012-2013 LiDCO       Group PLC had an annual turnover of &#163;7.21m, with sales predominantly in       the UK, USA, EU and Japan (1b).
+LiDCO's first product &#8212; the LiDCOplus       monitor &#8212; utilises the PulseCO algorithm and lithium dilution method       developed by KCL researchers to provide a computer-based platform for       real-time, continuous display of cardiac output, oxygen delivery and fluid       volume.
+This was launched in 2001 with software updates occurring       periodically (now on version 4) and sales continuing (1b,c).
+Its second       product &#8212; the LiDCOrapid monitor &#8212; incorporates the PulseCO       algorithm and was launched in 2008 (1d).
+Its newest product &#8212; the LiDCOrapidev2       with Unity Software monitor &#8212; additionally monitors parameters of       continuous non-invasive blood pressure and level of consciousness and was       launched in 2013 (1e).
+The use of KCL research in goal-directed therapy during surgery     Uncorrected fluid shifts and blood loss during surgery may lead to       periods of inadequate oxygen delivery and subsequent major organ       dysfunction, post-operative morbidity and even mortality.
+Goal-directed       therapy (GDT) to maximize flow-related hemodynamic variables during       surgery and post operatively have significantly reduced complications and       hospital stay.
+In the UK around 40,000 patients a year currently undergo       surgery with the guidance of hemodynamic and fluid monitoring       technologies.
+Under its latest initiatives, the NHS is seeking to increase       this figure to 80,000 patients per year starting in April 2013, with the       eventual aim of managing up to 800,000 patients a year (2a).
+The NHS's       Enhanced Recovery Partnership states that it "fully supports the use of       intra-operative fluid management technologies to deliver individualised       goal-directed fluid therapy" (2b).
+The LiDCOrapid monitor, which uses the PulseCO algorithm developed       by KCL researchers, allows hemodynamic monitoring without the insertion of       a catheter into an artery or probe into the oesophagus required by other       monitoring systems.
+Unlike other systems, this monitor also allows       refinement of intervention.
+For instance, it can show if a fall in blood       pressure is due to systemic vascular resistance change or a fall in stroke       volume in cardiac output, ruling the difference between giving       pharmaceutical or fluid intervention, or not needing intervention at all       (1d,e).
+The PulseCO algorithm uses a patient-specific factor to adjust the       aortic capacitance individually for each patient.
+The factor can be       precisely determined by comparing a known cardiac output with the PulseCO       estimate.
+Because the factor does not change for a patient over the short       term, it was possible to develop a nomogram using the patient's       characteristics (age, height and weight) to estimate it.
+The nomogram was       developed from carefully controlled studies of the PulseCO algorithm with       precise determinations of cardiac output using KCL's lithium indicator       dilution method (2c).
+As the PulseCO is the same algorithm used in the       earlier developed LiDCOplus monitor, data from studies involving       the LiDCOplus also validated the LiDCOrapid monitor, aiding       market acceptance (2d).
+In February 2013, the NHS Technology Adoption Centre produced an       `Intraoperative Fluid Management Technologies (FMTs) Adoption Pack'       commissioned by the Department of Health to help trusts implement such       technologies.
+This pack provides information about the benefits and costs       of FMTs and how to implement the technology and measure success.
+It       discusses all of the current technologies including the LiDCO monitors       (2e).
+The utility of Enhanced Recovery Programs (ERPs) which include       goal-directed therapy via FMTs have been investigated in a number of       trials.
+One such compared the LiDCOrapid system to attain GDT to       standard care for 91 patients undergoing open liver resection.
+They found       that ERP reduced the length of stay by 3 days with post-operative       complications reduced to 7% versus 27% in the control arm (2f).
+The successful uptake of use of LiDCOrapid monitors is reflected       in the market sales with 228 monitors sold in the UK between January 2012       and July 2013, a rise of 57% from the previous year.
+In the US in 2012-3       the installed base of LiDCOrapid monitors stood at 254 units in 70       hospitals.
+In the East Asian market, predominantly Japan, there were 232       sales of LiDCOrapid monitors since launch in August 2012 (1b, 2g).
+Monitoring patients in Intensive Care Units     While LiDCO's first product &#8212; the LiDCOplus monitor &#8212; was       initially launched in 2001, it is still making an impact in Intensive Care       Units (ICUs) where it is used for high-risk cardiovascular and shock       patients for fluid management and stroke volume optimisation.
+This monitor       was developed and refined due to a large number of KCL references, as       detailed in LiDCO's reference section on Lithium Dilution (3a).
+In July       2010 LiDCO received accreditation from the UK Royal College of Nursing for       its LiDCOplus monitor competency based study day.
+The course is       designed for all critical care nurses, nurse educators, professional       development nurses, nurse consultants and junior doctors (3b).
+Details of       how useful the LiDCOplus system in the ICU setting has been shown       in a number of trials.
+For instance, in one trial 21 extensively burned       patients were randomly allocated for haemodynamic monitoring with LiDCOplus       or to a control (unmonitored) group.
+Within the first 24 hours postburn,       there was a significantly lower consumption of crystalloids in the LiDCOplus       group due to improved cumulative fluid balance compared with fluid       management based on standard parameters (3c).
+In a 2011 retrospective       study comparing outcomes of 237 shock patients, while mortality rates for       patients without hemodynamic monitoring was 37%, it was only 13% mortality       rate for those monitored with LiDCOplus.
+This was compared to 20%       with invasive central venous catheter monitoring and 32% with invasive       pulmonary artery catheter monitoring and 37% in those with no (3d).

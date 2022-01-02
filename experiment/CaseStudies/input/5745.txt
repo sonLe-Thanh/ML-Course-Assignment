@@ -1,0 +1,22 @@
+     Economic impact has resulted through the development of a new       product range and service from Chronos Technology Ltd, a UK SME.
+Chronos       supplies and develops a range of bespoke timing products for time and       frequency synchronisation in power and telecom networks and is a       specialist provider of technical solutions for telecom synchronisation       applications [a].
+Under project SENTINEL, a new sensor product and a       service for Interference Detection and Monitoring has been developed [b].
+This is the first such system capable of detecting dangerous anomalies       occurring in GPS signals in real time.
+The devices or sensors are known as       Interference Detection Monitors (IDM) and are linked together into the       SENTINEL system.
+SENTINEL has now been deployed in many locations across       the UK to quantify the nature and extent of GPS jamming and assess its       impact on [text removed for publication].
+Alarm signals provided by SENTINEL are reported       in near real-time and can be made available to the appropriate law       enforcement authorities or security agencies.
+[text removed for publication].
+Details of the products can be found on the Chronos       Technology website [a] or by searching for SENTINEL or CTL-3510 and       CTL-3520.
+[text removed for publication].
+Six jobs have already been created in a new division,       including a dedicated technical sales manager for the new products.
+Sales       enquiries are currently being received from many different countries.
+Testimonial from the MD of Chronos Technology:     "Collaboration with The University of Bath within the SENTINEL project         has enabled Chronos to adapt basic academic research related to GPS         anomaly detection into a focused operational system to detect and         analyse GPS Jamming and Interference on a 24x7 basis."
+Thus, quoting the REF guidelines, "A new business sector has been         created" and "potential future losses have been mitigated         ... in safety or security critical situations."
+Policy impact has resulted from the SENTINEL project because it       has provided an important input into the evidence base to support the       policy change by Ofcom, and has helped enable the Ofcom board to support       and prioritise the case for legislative change that would make possession       of a GPS jammer illegal [c].
+The SENTINEL project has been reported up to Ministerial level in UK       Government, including the Cabinet Office, on a Government GPS       Vulnerability briefing and has been cited in the House of Lords by the       (then) counter terrorism Minister (Baroness Neville-Jones) as the UK       response to the risk of terrorist jamming of GPS signals.
+[text removed for publication].
+In response to a question in the UK House of Lords asking what steps the       Government plans to take to reduce the vulnerability of global navigation       satellite systems to terrorist attacks Baroness Neville-Jones, Minister of       State, Home Office, replied: "Her Majesty's Government are taking steps         to counter interference with GPS systems.
+These measures include Project         SENTINEL which aims to provide the capability to detect and locate the         source of GPS interference, warn critical users and enable law         enforcement agencies to take action when criminal activity is involved."
+[d]     In addition, policy and service impact has occurred through the impact of       SENTINEL research [text removed for publication].
+The on-going protection of critical       national infrastructure and commercial services from malicious attack has       been enhanced [c, e].
+Thus, quoting the REF guidelines, "policy debate has been stimulated         or informed by research evidence" and "risks to the security of         nation states have been reduced."

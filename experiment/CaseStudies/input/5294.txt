@@ -1,0 +1,26 @@
+     A molecular description of matter using statistical mechanical theories       and computer simulation is the key to understanding and predicting the       thermophysical properties of dense fluids and materials.
+Building on the       theoretical advances in the development of the SAFT-VR equation of state,       and its success in modelling a wide range of complex fluids, SAFT-VR has       attracted increasing attention from industry.
+The application of the       SAFT-VR approach to industrial problems has occurred primarily through       collaborative projects, secondments and consultancies.
+Among the more than       20 consultancy and collaborative projects that have been completed       successfully using the SAFT-VR technology, we highlight the following       impacts:            Design of manufacturing processes for the production of replacement         refrigerants (Chief Scientist, ICI/AkzoNobel [7]): a huge challenge in         the design of such processes is the need for phase equilibria data for         mixtures involving hydrogen fluoride (HF).
+This is a highly corrosive         and dangerous substance, making experiments difficult, costly and         undesirable.
+In traditional distillation columns, each tray incurs an         additional cost of &#163;1m in material costs due to the corrosive nature of         HF.
+Thanks to its predictive capabilities, SAFT-VR was used in lieu of         experiments to generate the data required for process design.
+SAFT-VR         has also been used to identify erroneous experimental data, in cases         where the formation of two liquid phases had not been correctly         identified, thereby lowering the risk of process development by avoiding         costly design errors.
+Surfactants: SAFT-VR was used in a collaborative project with BP         Exploration to understand the behaviour of surfactants used in enhanced         oil recovery to extend oil field lifetimes by a factor of up to 5.
+BP         North Sea Operations Manager [8], our collaborator at BP Exploration,         commented that the use of SAFT-VR removed the need for a large         experimental programme to identify a surfactant formulation for squeeze         treatment, focusing the effort onto half a dozen options only, out of an         essentially infinite formulation space.
+He stated the following: "Large           cost savings can be achieved by extending the squeeze lifetimes: the           average cost of an intervention on BPA's Magnus asset is &#163;130K (with           deferred oil costs) and annual treatment costs run to several million           pounds.I could also point to some side-benefits: one of the wells in           the North Sea was shut in at 8mbd [mbd=thousand barrels per day] for a           scale squeeze.
+When it was squeezed with the glycol ether treatment,           it came back on at 12mbd.
+The accelerated value of this production           would be significant, I would imagine order 2-3mm$ [million $] (1.4           million barrels per year accelerated by 1 year at 20$/bbl, say).
+Also           the business was developed and transferred to TR Oil Services,           creating additional work and benefits to the wider UK oil industry.
+(...) I have rarely seen an academic project yield quite such direct           insights and benefits and it remains one of the highlights for me of           what can be done with quality research and development."
+The         business was developed and transferred to TR Oil Services, creating         additional work and benefits to the wider UK oil industry.
+Increased productivity in polyethylene gas phase reactor (Dr Moen,         Borealis [9]).
+SAFT-VR was used to identify a mechanism to increase         reactor productivity by 30% during polymerisation in Borealis' Borstar         process [6].
+Such an increase in productivity is key to the production         of such a commodity product as polyethylene.
+By changing the "inert" gas         used in the process, it was shown that the solubility of the key         reactant, ethylene monomer, could be increased significantly, resulting         in an increased reaction rate.
+Such a prediction is made possible by         SAFT-VR's ability to model the behaviour of highly non-ideal polymer-solvent 		mixtures.
+The collaborative and consultancy projects created demand for making       SAFT-VR more widely available to industrial users.
+To enable this, the       software for the SAFT-VR family of models was licensed in 2009 via       Imperial Innovations to Process Systems Enterprise Ltd (PSE), a thriving       SME spun out of Imperial in 1997.
+In 2012, with customers impressed by the       accuracy and versatility of the platform, PSE acquired the full rights to       the software, which is now marketed as gSAFT [10], [11] and [12].
+gSAFT is       a key technological element in the &#163;3m project (partly funded by ETI,       [13], on end-to-end modelling of carbon capture and storage (CCS) chains;       this project alone has created four full-time highly skilled jobs at PSE's       UK headquarters [10].
+The development and marketing of gSAFT as a       strategic technology by PSE (Weblink [14]) has re-inforced its impact       across multiple industries.

@@ -1,0 +1,39 @@
+     Context       The development of a marine energy industry in the UK, with tidal stream a       major component, is forecast to generate more than 68000 jobs, 20% of       electricity supply and an export market valued at more than &#163;70bn (House       of Commons Select Committee, HC1624, 2012).
+It has been widely recognised       (UKERC, DECC, ETI) that investors would only make a significant commitment       to tidal stream development after several key engineering developments had       been made including:     i) development and validation of engineering models to predict energy       yield, and hence revenue, from commercial scale farms     ii) demonstration of deployment and operation of a commercial scale       turbine,     iii) development and validation of engineering tools to enable system       refinement, and hence cost reduction,     iv) increased understanding of the environmental flows at tidal stream       sites pre- and post- deployment.
+Pathways to Impact       To ensure rapid exploitation of research findings and methods, our       research has been conducted in close collaboration with leading       engineering companies including EDF, GL-Garrad Hassan, Alstom Ocean Energy       and EON.
+In particular, Manchester has contributed to the national       projects PerAWaT (Performance Assessment of Wave and Tidal Array Systems)       and ReDAPT (Reliable Data Acquisition Platform For Tidal).
+Both projects       were commissioned by the Energy Technologies Institute (ETI) and focused       on the engineering topics recognised to be of major concern to potential       investors.
+Much of the work on these projects has been documented in peer-       reviewed technical reports that are confidential to the ETI and industrial       contributors.
+This well- managed approach has enabled industry       exploitation of our research in parallel with publication.
+Specifically, Manchester researchers have:            Developed experimental methods that have led to high quality         experimental data on the loading and wakes of tidal turbines in arrays.
+The understanding and data from these experiments has "contributed             to the development of GL-Garrad Hassan commercial software tool GH             Tidal Farmer" [C].
+This software enables independent         assessment of energy yield, and hence revenue, from tidal stream farms &#8212;         a key requirement of energy project investors.
+Developed CFD methods for massively parallel computing to enable the         simulation of turbines and their supporting structures due to complex         tidal flows representative of a real tidal stream test site.
+These         methods have been implemented in the EDF open-source CFD solver         Code_SATURNE.
+These numerical tools are "important to the tidal             stream industry since they allow detailed evaluation of design             options prior to field trials."
+[D].
+This has reduced the         dependence of product development on full-scale field trials that         typically cost several million pounds per turbine.
+These methodologies         are also being used by EDF to analyse different locations and sizes of         offshore wind farms with the approach proving "useful, as most of             our [EDF] previous work has been in CFD of power generation from             nuclear or fossil fuel source or turbo-machinery CFD, which are             quite different areas."
+[B].
+Developed and conducted CFD simulations and informed field studies of         tidal stream flows to provide data "used to develop and validate             GL-Garrad Hassan commercial software including Tidal Bladed"         [C].
+This software is a design tool for tidal turbines based on an         existing code &#8212; GH Bladed &#8212; for wind turbine design.
+Validation of such         models specifically for tidal stream turbines has addressed one of the         key engineering risks identified by investors.
+Contributed to expert panels and management committees of national         projects.
+In 2008 Professor Stansby was invited to join the Severn Tidal         Power Feasibility Study expert panel on behalf of the Royal Academy of         Engineering.
+This appointment was based on recognised expertise in         coastal hydrodynamics including wave effects, turbulent coastal flows         and marine turbines and complemented the expertise of the five other         panel members.
+One option under consideration was a tidal fence or row         of tidal stream turbines.
+Since 2009, Manchester researchers have         contributed to the steering and technical committees of the national         industry-academia projects ReDAPT and PerAWaT commissioned by the Energy         Technologies Institute (ETI).
+On ReDAPT Manchester researchers are         subcontracted by the project partner EDF.
+These roles have been         instrumental in ensuring the effective delivery of key project outcomes         focused on development of engineering credibility to reduce investment         risk.
+Reach and Significance       Manchester's research has increased investor confidence in tidal stream       energy systems.
+Research outcomes have been "critical to the           development and validation of tidal stream modelling tools"       [A].
+This includes commercial software for farm energy yield predictions       and both open-source CFD and commercial software for turbine design.
+Increased understanding of array energy yield prediction methods has been       developed that "reduces the investment risk of marine energy project           developers; this is critical to stimulating investment in early farms           to enable the industry to grow."
+[A].
+CFD methods have been       developed and evaluated that have improved understanding of complex tidal       flows and their influence on turbine loading.
+This CFD capability has       enabled "further de-risking of the tidal turbine design process,           providing increased turbine system robustness and commercial           attractiveness" [A].
+High quality data from CFD simulations       and from field trials informed by our research have also been used to       evaluate the GL-Garrad Hassan turbine design software Tidal Bladed.
+Taken together, the models that have been developed and evaluated and the       other outcomes of the ETI projects to which we have contributed have       addressed the main engineering risks that had been identified as barriers       to investment in tidal energy.
+Increased investor confidence has been       demonstrated by the &#163;65m acquisition of Tidal Generation Ltd by Alstom       from Rolls Royce during 2013 [E].
+This acquisition was completed following       a key outcome of the ETI ReDAPT project [F].
+The findings and process of our research have therefore had a significant       impact on industrial investment in an emerging industry with recognised       value to the UK.

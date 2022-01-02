@@ -1,0 +1,28 @@
+     The impact of the research is described in two statements below.
+The       first, from DSNS, explains how many commercial ships have been built using       the DoEng research outputs, how much they are worth, why the DoEng       research outputs were important and how this work has changed mindsets       across the shipbuilding industry.
+These impacts can be presented openly.
+The second statement is from the US Defence Science Research Council and       it explains the importance of the DoEng research in providing protection       against terrorist attacks, how DoEng results led to the formation of a       company to produce the materials for large-scale roll-out, and how       international governments are cooperating to exploit this new technology.
+Unfortunately, it is not possible to provide details because they are       secret and cannot be released even under confidential covers.
+The Research Coordinator of DSNS, states: "While we held the           patent for Y-core lattice sandwich structures, we did not have the           fundamental understanding and related tools to make efficient use of           our invention.
+Our investment in research at the Department of           Engineering in Cambridge generated results that enable us to design           and build ships using Y-core lattices.
+We have sold patent licences           for 19 ships from 2008 to 2013 with 2 more on the drawing table, at an           average of selling price of approximately EUR10M per ship.
+These ships           are worth nearly EUR200M in total, and include the world's largest           (Ms. Vorstenbosch) and the world's most environmentally friendly           chemical tankers (Ms. Argonon sailing on LNG).
+All of these ships are           river tankers sailing through densely populated areas with dangerous           cargo onboard.
+The hulls do not rupture if there are low- speed           collisions and offer enhanced protection compared to conventional ship           structures.
+Together with TNO, the Dutch Centre of applied science new           regulation has been developed adopting a risk based design approach           (Ref.
+European Agreement concerning the international carriage of           dangerous goods by inland waterways (ADN 2009 Vol.1 United nations).
+This allows ship owners to apply larger tank sizes without increasing           the risk of a cargo spill by adopting energy absorbing structures like           the Y-core innovation.
+Larger tank sizes imply less tanks in the same           ship hull resulting in less pumping and piping equipment and faster           loading and unloading which offers, apart from enhanced safety, also           an economic advantage to ship owners.
+The latest research also shows           that they are resistant to blast, which is becoming an increasing           issue with regard to terrorism.
+Our mindset and the mindsets of our           customers has changed greatly with the introduction of this technology           and we expect more tankers to be built this way in the future."
+In the USA, the US Navy has transitioned sandwich panel designs into         blast-resistant ships, in an USD10M programme.
+A University Professor at         the University of Virginia and long-term member of the Defense Science         Research Council, states that: "The research by Norman Fleck and           Vikram Deshpande at the Department of Engineering at Cambridge has           addressed a key concern arising from the terrorist attack on the USS           Cole in 2000.
+In this attack, the blast from an unsophisticated bomb           delivered by a small boat, ruptured the destroyer's hull.
+The outputs           of Fleck and Deshpande's work have enabled design and optimization of           lattice sandwich structures for ship hulls, so that they can now           resist such attacks.
+These new structures also enable mitigation of           the damage caused by explosions in air and from buried mines.
+In these           latter cases, the Cambridge group made pivotal discoveries that helped           focus the US research onto the right physical mechanisms, and thus the           best approach to maximize the considerable benefit of sandwich           constructions.
+US Company, Cellular Materials International Inc was           formed in 2001 to capitalize on these discoveries, and is deeply           involved in rolling-out large scale solutions to blast problems.
+The           Technical Cooperation Program (TTCP) &#8212; an international organization           that facilitates cooperation between the governments of Australia,           Canada, New Zealand, the UK and USA &#8212; has also recognized the           importance of the Cambridge work in blast mitigation, and has           established a significant multinational program to investigate its           applications with the member nations."
+In addition to the impacts described in the two statements above, the       DoEng constitutive model for metal foams has been embedded in Abaqus       finite element analysis software since 2000.
+It is the basis of the       software's crushable foam plasticity model.
+Abaqus is one of the market       leaders in the field of finite element analysis with more than 30,000       users worldwide.

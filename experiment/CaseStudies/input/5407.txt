@@ -1,0 +1,26 @@
+     The research made two main contributions.
+A methodology and new GDP       statistics, now adopted by the Office for National Statistics, providing a       sounder basis for future analysis and policy; and, based on these,       analysis of the specific link between public science investment and       private productivity (critical to defending the Science Budget from       spending cuts in 2010).
+ONS have revised their treatment of investment in two particular       intangibles, artistic originals and R&amp;D in 2013 and 2014.
+Both       revisions incorporate Haskel's work [e.g.
+5].
+Spending on artistic       originals will be revised upwards by around &#163;1bn; larger changes will be       made to R&amp;D [B].
+The more dramatic impact was on `saving' the Science Budget.
+In a speech       to the Royal Institution on 9 July 2010, the Minister of State for       Universities and Science said [A]:     "Government backing for research does make economic sense.
+I was       particularly interested to read the recent Imperial College Discussion       Paper by Jonathan Haskel and Gavin Wallis, `Public support for Innovation,       Intangible investment and Productivity Growth in the UK Market Sector'.
+It       shows particularly strong spillover benefits from R&amp;D spend on       research councils.
+It shows a positive return from other forms of R&amp;D       too, but the spillover benefits seem to be greatest from the research       councils.
+This is interesting evidence that research council spend is       doing the job it should be doing &#8212; generating wider benefits across the       economy as a whole."
+On 22 July, asked about Spending Review negotiations by the Commons       Science and Technology Committee, the Minister replied [C]:     "I referred in the Royal Institution lecture to the piece of work by       Professor Haskel and Dr Wallace [sic] particularly on measuring the       economic impact of the work of the research councils, which is an       excellent piece of work.
+We are drawing on that sort of evidence as we       have these negotiations."
+On 20 October 2010, the Spending Review cut BIS spending by 25% in real       terms over 5 years (Webb &amp; Meelow-Facer, 2010) [D].
+The Science Budget       however was held constant (in nominal terms), a considerable reprieve.
+As       the Financial Times reported on the same day [E], `Science escaped       the big cuts that some researchers had feared from the government's       spending review unveiled on Wednesday.'
+The Minister of State was quoted       in the article stating that the `scientific community has been able to       produce empirical evidence about the economic returns from research.
+The       Treasury buys the argument that scientific research contributes to       long-term growth.'
+Similarly, The Times [F] and New Scientist [G] cited the       work by Haskel and Wallis as contributing to the favourable treatment of       the Science Budget (see links below) and The Times quoted the       impact figures in Haskel and Wallis in its leader, 18th October       2010 [H].
+The "Geek Manifesto: Why Science Matters, page 105", quoted the       report as being "particularly influential" [I].
+See below for references       to these sources.
+The reach of the impact of this research is evidenced by the wide range       of quotes indicating its influence, from Ministers to journalists.
+As for       significance, a flat five year nominal spend of &#163;3.5bn is about a 10% real       reduction (if science inflation is 2%, note the latest BLS data estimate       science inflation at 1.2%).
+If the counter-factual is the average BIS cut       of 25% real, this is a relative improvement of &#163;525m (=&#163;3.5bn*(25%-105)).
+If the public R&amp;D rate of return is 30% (Griliches, 1973) [J], this is       a spillover significance of &#163;157.5m, of benefit to the entire UK economy       not merely the knowledge producing industries.

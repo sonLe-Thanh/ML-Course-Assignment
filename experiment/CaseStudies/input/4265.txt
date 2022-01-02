@@ -1,0 +1,16 @@
+     From November 2007 the project was subject to technology transfer for       implementation by       Caterpillar Electric Power Division (EPD) in association with the UoA.
+EPD       funded, and have been       intimately involved in the gen-set control research and associated       technology transfer, and are its       principal beneficiaries1.
+The underpinning research described above gives Caterpillar a technology       edge through which       increased market share could be obtained due to its ability to offer a       more competitive, class       defining, gen-set product to its customers.
+Primarily this is because,       while recent advances in       engine technology have seen the power developed from, for example, a       9-litre engine, increase       from 200kW to about 300KW, paradoxically, there is a decline in load       acceptance.
+The load       acceptance capability of gen-set packages is typically of the order of       only 40% of the steady-state       rating.
+This means that owners of a 1 MW site must typically purchase a       2.5MW gen-set to ensure       adequate load acceptance capability and this in turn leads to operational       inefficiencies and       proportionally higher emissions.
+The key benefit of the UoA's novel       advanced non-linear control       system is that load acceptance has been raised to approximately 70%.
+This       negates the necessity       to significantly oversize gen-sets simply to meet initial load acceptance       requirements.
+Hence, the       size of gen-set required is reduced, as is fuel consumption, resulting in       lower gaseous and       particulate emissions, as well as lower operating costs.
+[text removed for publication]     The first of these projects made extensive use of the UoA world class       gen-set test facility and       depended heavily on UoA expertise2.
+The UoA's involvement in       the second development was       through design specification consultancy, as well as endurance testing and       prototype       development1,2.
+[text removed for publication]     Three advanced control products based on this research have been       developed and are currently       being marketed by Caterpillar.
+EM10a, EM15b,       excitation modules are power electronics modules       designed to provide excitation current to the generator and are used in       association with a gen-set       controller that is capable of executing the Integrated Voltage Regulator       (IVR) control algorithmc.
+These three products are compatible for use with Self Excitation, Internal       Excitation and       Permanent Magnet generator excitation types.
+Together they operate to       provide robust, precise       closed-loop control of the generator voltage and optimized transient       performance.
+[text removed for publication]

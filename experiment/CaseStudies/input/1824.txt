@@ -1,0 +1,31 @@
+     The American Dental Association estimates that there are around 300       million periodontal examinations undertaken in the USA every year,       representing ca.
+30% of the examinations undertaken world-wide.
+Based on       Watkinson and Krause's research, QMUL's spin-out company Degrasense       (established in January 2008) has developed a system with the likely       capability to accurately identify periods of active inflammation in       relation to periodontal disease that is inexpensive to mass produce.
+The       meter (Figure 1) is a point of care system that is designed to allow       rapid, in-house diagnosis of periodontal disease, precluding the need to       outsource assays to external laboratories.
+It has been estimated that the       consumables associated with this novel technology, will have a market       value of approximately 450m GBP per annum (Oraldent &#8212; see below).
+The       technology will improve the targeting of treatment to patients with active       periodontitis and ultimately improve clinical outcomes and enhance patient       experience.
+The device developed by spin-out company Degrasense is shown in Figure 1.
+Briefly, the meter works by samples of gingival crevicular fluid (GVC)       from the gums, being loaded onto the capillary sensor chip, which contains       electrodes coated with the QMUL patented technology.
+This sensor is then       loaded into the machine, where protelytic activity of the clinically       relevant proteases in the GVC is measured through changes in electrical       impedance.
+Figure 1: Meter used to detect protease activity in patients with periodontal disease          Companies and charities influenced by the research     To reach the point of a clinical trial [below, and 1 in section 5]       required collaboration with a number of industrial partners.
+Supported by       Technology Strategy Board funding, Watkinson coordinated the industrial       partners to develop the technology specifically for the clinical       diagnostics market.
+These partners are:            Oraldent (Oraldent: www.oraldent.co.uk)         who assessed the size of the potential periodontal market to be 450m GBP         per annum in consumables (value of disposable capillary sensor chip).
+Industrial Design consultancy (IDC: www.idc.uk.com)         [2 in section 5] who designed the meter (see Figure 1)       AND Technology Research (AND: http://andtr.com)         who developed the electronics in the meter [3 in section 5].
+Gwent Electronic Materials Ltd. (www.gwent.org/gem_index.html)         who manufactured the interdigitated electrodes used in the clinical         trial [4 in section 5].
+Barts Charity (www.bartscharity.org.uk)         who are currently funding Gwent Electronic Materials to further refine         the electrodes based on insights gained through the clinical trial.
+Collectively, these industrial partners contributed over &#163;340k to the       project.
+Development of a new clinical diagnostic tool and its application           in a clinical trial     The efficacy of the Degrasense technology is currently being assessed via       a clinical trial involving 30 patients suffering from chronic       periodonitis.
+This is an important step on the road to delivery of this       diagnostic technology to market.
+The clinical trials are being undertaken       by staff within the School of Clinical Dentistry at the University of       Sheffield, in partnership with Sheffield Teaching Hospitals NHS Foundation       Trust.
+The aim of the trial is to assess whether the device can be used to       detect active periodontal disease.
+The initial 12-month stage of the trial necessitated the appointment of a       dental hygienist to collect patient samples.
+The patients were recruited       from a number of sources within the partnering hospital, including the       undergraduate periodontology teaching clinic, staff hygienist clinics and       consultant clinics.
+All patients were selected by the clinician in charge       [1 in section 5] according to criteria that include; aged 18 or over; a       diagnosis of chronic periodontitis but otherwise healthy and; one healthy       gingival crevice, one deep bleeding and one deep non-bleeding periodontal       pocket.
+Data from the first 12 months of the trial have revealed that the       interdigitated electrodes produced by Gwent Electronics need further       refinement.
+The company, funded by Barts Charity, are currently modifying       the electrodes to increase reliability.
+All patient samples from the first       stage of the trial have been retained for re-testing once these       refinements are in place.
+Application of Degrasense technology in other clinical settings     Krause and Watkinson's technology has already attracted significant       interest and investment from multiple industrial partners and its use in a       clinical setting has been demonstrated through application in a clinical       trial.
+In addition to increasing the efficacy of diagnostic tools for       assessing periodontal disease, the technology has significant potential in       a number of other clinical applications where elevated levels of       proteolytic enzymes are linked to disease states.
+Investigations into       these applications are ongoing (and are sensitive at this stage) but       include: (i) home monitoring of haemophilia; (ii) clinical monitoring of       sepsis and trauma; (iii) home monitoring of multiple sclerosis and (iv)       the monitoring of arterial ageing and the role of proteinases in       hypertension.
+All of these areas are associated with very significant       patient numbers and cost to the NHS.
+The generic technology that Watkinson       and Krause have developed is capable of providing significant improvements       in the quality of patient monitoring and consequently also reduction in       treatment costs.

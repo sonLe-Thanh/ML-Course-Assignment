@@ -1,0 +1,49 @@
+     Process from research to impact: Fundamental research into new       sources and amplifiers was       conducted by the ABP group, publishing regularly in leading journals, and       its potential impact was       identified soon after the early work in 1996.
+The ABP researchers led the       initial and follow-on work,       all conducted at Strathclyde, funded by a series of KT awards (approx.
+&#163;6M) alongside research       council grants (approx.
+&#163;6M).
+Companies such as e2v and TMD were involved       at an early stage,       building prototypes and using them to conduct trials which have changed       their thinking and       business plans.
+In 2001 it was agreed that defence applications would be       taken up by Defence       Science and Technology Laboratory (dstl), whilst Strathclyde would be free       to pursue opportunities       in other sectors.
+e2v's Group Chief Technology Officer confirms:     "Your group is one of only three critical and on-going University         partnerships supported by e2v         and we regard the combination of theoretical and practical capabilities         as unique" (Source 1).
+Description of impact: During the period 2008-13, the devices in       question have had impact in a       wide range of sectors.
+For example, a Principal Scientist at dstl writes       that the Strathclyde research       "has impacted on a range of applications including Defence, Energy,         Environmental Monitoring and         Security."
+(Source 2).
+The enhanced power delivered by these sources       is highly significant, for       example in radar applications, where the useful range is approximately       doubled by the x10       increase in power over conventional sources.
+In addition the increased       bandwidth leads to       improved signal-to-noise performance.
+The Chief Scientific Advisor at       ThruVision (a division of       Digital Barriers plc.)
+writes of "applications of the high power         capability of the Strathclyde sources         enabling stand-off, real-time detection, in all weather conditions [and]         over increased distances         (&gt;100m)."
+(Source 3).
+The impact, therefore, is bringing societal       as well as economic benefits.
+Many jobs have been created, as detailed below.
+Reach and Significance: Dstl is the key scientific advisor to the       MoD and is an authority on the       impact of developments such as those in this case.
+A Principal Scientist       at dstl writes "The         breakthrough work in achieving efficient instantaneous wide bandwidth         operation from both the         FEM and Gyro-TWA was demonstrated by the ABP group in 1998-2000 and ...         has changed the         course of high power amplifier research internationally."
+(Source       2).
+In 2009/10 e2v manufactured       a gyrotron traveling wave amplifier (gyro-TWA amplifier) identical in       design to the prototype       designed and constructed at Strathclyde University.
+In February 2011, e2v       made a public       announcement of their factory manufactured gyro-TWA at the International       Vacuum Electronics       Conference (IVEC), Bangalore, India (Source 4).
+The first prototype device was sold in 2012, with e2v technologies CTO       stating that     "The fully funded development and prototyping programme resulted in         sales of [text removed for       publication] for e2v and e2v placed subcontracts on a range of         consortium members......e2v         continues to work actively with its consortium partners to develop the         technology and broaden         the range of applications" (Source 1).
+He goes on to state that the emphatic demonstration of performance       presents the UK-MOD with a       decision about implementation into operational systems, the commercial       impact of which he       estimates at [text removed for publication].
+The Russian research       collaborators have since made       sources for material processing, through a company called Gycom Ltd. who       build and sell       gyrotrons for the ITER project as well as for industrial heating       applications.
+The impact of       Strathclyde's research continues to expand into new applications through       additional company       engagement.
+For non-defence sectors, a market survey by Talavera Science       identified a potential       market value of $260M for enhancement to nuclear magnetic resonance and       electron       paramagnetic resonance spectrometers and $5M for cloud profiling radar.
+Competitor high power       amplifiers cost approx.
+&#163;200k per unit and the 50x improvement in       power-bandwidth product in       gyro-TWA devices commands a premium price.
+Impact that has already been       delivered in this area       includes the design effort and planning by magnet suppliers, such as       Cryogenics Ltd., to establish       magnets that can be used with gyro-TWA sources.
+At the same time companies       such as Thomas       Keating Ltd. have invested time to ensure the manufacturability of the       components required for the       gyro-TWA.
+In the period 2008-2011, TMD Technologies Ltd supported research and       design work at       Strathclyde University to provide a Ka band gyro-TWA.
+They are now       developing the       manufacturing capability for this higher frequency gyro-TWA.
+This also       gave rise to a KTA project       with some &#163;170k from TMD to develop practical methods for high frequency       amplifiers.
+The       Technical Director of TMD writes of Strathclyde's contributions through       the "many notable         breakthroughs and achievements in microwave source research" and of       the strong relationship       with Strathclyde Physics to realise the impact of this technology (Source       5).
+In the Healthcare / Biology sectors the applications are in enhanced NMR       spectroscopy, via       Dynamic Nuclear Polarisation (DNP), and EPR spectroscopy.
+This has       influenced development       work in a number of companies.
+Since 2011, Thomas Keating Instruments have       been working on       the manufacture of a W-band gyro-TWA based on Strathclyde's research.
+Dr.       Wenlong He has led       work to upgrade the measurement equipment at Strathclyde to access the       higher frequency range.
+The Strathclyde amplifiers allow the design of more advanced DNP transfer       schemes to greatly       improve performance of EPR and Nuclear Magnetic Resonance machines.
+The       use of a gyro-TWA       as a radio-frequency source for a medical linear accelerator has been       investigated by Elekta       Oncology Systems.
+Environmental applications include the monitoring of space debris       (through funded work at       Chilbolton Laboratory), millimetre wave weather radar (work on comparisons       with airborne LIDAR       conducted by the MET Office) and the monitoring of volcanic ash clouds.
+The increased bandwidth       of these sources leads to improved signal-to-noise performance and the       enhanced power       approximately doubles the usable range compared to conventional       instruments.
+A significant number of jobs have been created as a result of this       research, estimated to be in       excess of 40 although precise numbers are not available due to the sector.
+The companies       concerned, as well as dstl, have considerable and long-term development       programmes employing       a range of people developing new products and trialling prototypes.
+The       applications, product       development and trials have generated jobs at companies including e2v,       TMD, MBDA Ltd., NHS,       Selex Galileo Ltd. Culham Laboratories, Alcatel and Adtek, principally for       skilled graduates.
+Devices have been made at e2v Chelmsford and TMD Hayes and trials are       on-going at e2v       Chelmsford.
+The dstl Principal Scientist has written that "UK industry         has benefitted with people it         needs to exploit future economic opportunities."
+Amongst those       employed are at least 19 former       members of the ABP research group, now using skills learnt at Strathclyde.

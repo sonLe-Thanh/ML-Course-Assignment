@@ -1,0 +1,55 @@
+     Public engagement &#8212; social, educational, and cultural: The extent       of the ancient Greeks' mechanical design ability and their degree of       astronomical knowledge has been reassessed as a direct consequence of this       Cardiff University led research.
+The previously unrecognised and       fascinating findings (following the publication in Nature) have       inspired worldwide interest, initiating an abundance of UK and       international media articles, broadcasts, web reviews, documentaries, a       book, website and commemorative watch.
+This coverage, as evidenced below,       was entirely dependent on the research which has definitively reconfigured       global public understanding of the capabilities and sophistication of an       important ancient civilisation.
+This is profoundly relevant both to       cultural history and to the history of technology.
+From January 2008 to February 2013 Prof Edmunds and the Antikythera       Project have featured in 98 separate items of media coverage, with       newspaper, magazine and web items across the world.
+Examples include The         New Zealand Herald, The Courier Mail (Australia), The         International Herald Tribune, The Vancouver Sun, The         Daily Mail, The Sunday Telegraph, Cyprus Mail, Hindustan         Times, The Houston Chronicle (American's 6th       largest newspaper) and The New York Times.
+Websites such as National         Geographic, Scientific American, Houston Museum and       Huffington Post have featured the research (some examples are given       in refs.
+5.1 to 5.3).
+Additionally, the Antikiythera project's website (www.antikythera-mechanism.gr)       has maintained a high position in search engines since 2006 (usually       second after Wikipedia) and attracted 561,059 visits (from Jan. 2008 -       Dec. 2012), with a high concentration of visitors in the USA, Greece, UK,       Canada, Germany, France, Australia, Netherlands, Italy and Spain, and new       visits accounting for 82%.
+Reconstructions have also appeared on the web,       including a Lego model of the functionality of the device (based on and       referring to the Cardiff-led research).
+This was constructed in 2010 and       the YouTube video (http://www.youtube.com/watch?v=RLPVCJjTNgk)       has had over two million views.
+Several TV documentaries have featured the research.
+Edmunds participated       in filming for an international TV production involving ERT (Greek Radio       Television S.A.), ARTE (Association Relative &#224; la T&#233;l&#233;vision Europ&#233;enne)       and NHK (Japan Broadcasting Corporation) in the summer of 2011.
+The       resulting programme The World's First Computer, Decoding the         Antikythera Mechanism was premiered in Europe (Greece, France,       Germany etc.)
+in April 2012.
+It was also broadcast on BBC 4 as The         2000 Year Old Computer, with 13 showings between May and Feb. 2013,       ranking twice in the top three of BBC 4's most popular programmes of the       week, and attracting audience figures of more than 2.5 million in 2012       [5.4].
+It also won the top prize at the 2012 International Festival of       Archaeological Film in Rovereto, Italy, and the Audience Award at the 12th       International Film Festival of the Bidassoa in Spain [5.5].
+The programme       was also broadcast by NOVA (PBS) in the USA in November 2012 and again in       April 2013.
+A book, Decoding the Heavens (http://www.decodingtheheavens.com/)       was stimulated by the research, and published in the UK, US, Greece,       Germany, Japan, Taiwan and Poland in 2009 and short-listed for the 2009       Royal Society Science Book Prize.
+The author, Jo Marchant, states that       "research by Mike Edmunds and his colleagues is what first got me       interested in the Antikythera mechanism" and that her primary       investigations for the publication centred on obtaining information       directly from Edmunds [5.6].
+A commemorative watch based on the mechanism was designed by Hublot in       2011 (http://www.rgholland.com/blog/hublot-antikythera/).
+This was the first watch to be inspired by archaeological evidence.
+Only       four were manufactured with the intention to exhibit three in the Athens       Museum, the Muse&#233; des Arts de M&#233;tiers, and the Hublot Museum.
+The fourth       watch will be auctioned for charity in 2014.
+The research has also been disseminated to the public at more than 50       talks given by members of the research team.
+Edmunds himself gave over 37       talks from 2009-2012.
+Audiences included members of industry (13%), school       children (34%) and the general public (53%), at locations across the UK,       Ireland, USA, Holland, Germany, Sweden and South Africa.
+The total number       of attendees exceeded 2,500.
+All of the event organisers interviewed       agreed that the research had provided the audience with new information       which had changed their view of ancient Greek technology.
+For example,       Russell Haines, Chair (2007-2012) of the Bristol branch of the Institution       of Engineering and Technology (IET), organised a talk in the UK and       afterwards commented that he thought "the ancient civilisations were far       more intelligent and accomplished than even most people give them credit       for", and that "very complex calculations and astronomical predictions can       be made with mechanical devices" [5.7].
+The Greek government has benefited from an increase in visitor numbers to       the National Archaeological Museum in Athens where the mechanism is       exhibited       (http://www.namuseum.gr/exhibitions/temporary/n_temporary-en.html).
+The museum typically attracts 300,000-400,000 visitors per year.
+However,       records (on file) show that in the period January-June 2012 visitor       numbers have increased by 86% relative to the same period in 2011.
+A       special year-long exhibition of the artefacts from the shipwreck,       featuring the research opened in April 2012, contributing to this       increase.
+This contrasts to other museums in Greece which have suffered a       general fall in numbers.
+Prior to the research, the mechanism was little known amongst the public.
+Today, a Google search on "Antikythera Mechanism" results in 338,000 hits.
+Economic gain: The research has generated sizeable economic gains,       enabling technology companies, the Greek government, media organisations       and the publishing industry to benefit.
+The CT scanner used in the       research was upgraded specifically for the project by X-Tec, by doubling       the operating voltage from 225 kV to 450 kV to enable penetration of the       entire mechanism.
+Based on the great success of the mechanism imaging,       they realised that the increased penetration meant that they could use the       equipment for other purposes.
+The 225 kV devices had been used to look at       solder joints in ball grid array surface mounting packages in circuit       boards.
+The upgraded device had sufficient penetration to look through       aircraft engine turbine blades, providing a cheaper and more effective       method of establishing internal integrity &#8212; formerly an expensive and       destructive process.
+This development, according to Roger Hadland,       Director of X-Tec, allowed the company to be sold to Nexus for ten times       the value of previous offers, and it was subsequently acquired by Nikon.
+To date they have sold nineteen devices (called Bladerunner) and six are       in production (three have been bought by Rolls Royce).
+The base price is       &#163;600k with the average sale price &#163;750-800k.
+Roger Hadland [5.8] commented       that "The Antikythera work was the spur to develop a new range of high       powered microfocus X-ray sources.
+But as soon as the equipment was       returned to the UK, we started trial scanning of turbine blades.
+The       detail and precision of the 2D and 3D CT information was stunning, far       better than any competition .
+.
+.
+X-Tek is now part of Nikon, with the       Bladerunner accounting for a large proportion of X-ray production".
+The       technology has thus not only secured financial benefits for X-Tec/Nikon       but has significantly improved vital inspection processes available to       aircraft engineering industries.
+Other parties financially benefiting from       the research include the author and publishers of the book about the       Antikythera mechanism and the media industry.
+Decoding the Heavens       has sold over 5,700 copies to date.
+In summary, the Cardiff-led research on the Antikythera mechanism has       transformed our understanding of the capabilities of the ancients, led to       the development of powerful non-destructive imaging technology for       industry, and generated great public interest and media activity.

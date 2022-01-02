@@ -1,0 +1,32 @@
+     The impacts described here were developed by Professor Roberto Cipolla,       based on the fundamental research with Professor Giblin described earlier.
+As Prof. Cipolla states in a letter [5.1], "this work with Giblin and         Astrom laid the essential groundwork for later developments by myself         and my students and other collaborators, leading to important practical         applications with significant external impact, such as those to         scultpure (Anthony Gormley) and online retailing (Metail)".
+Applications in Sculpture.
+Renowned sculptor Antony Gormley (creator of the "Angel of the North" in       Gateshead and "Another Place" in Crosby) designed and built a       25-metre-high statue of a crouching human body, entitled "Exposure", which       was unveiled in 2010 [5.3] in Lelystad in the Netherlands.
+The statue is       built from interlocking pylon-like structures.
+This was achieved using       software developed by Professor Cipolla at Cambridge, based on the       fundamental research on singularity theory described above, carried out       with Peter Giblin and published in joint work.
+This allowed 3-dimensional       models to be reconstructed from a small number of ordinary camera images,       in this case from 2-dimensional photographs of a cast of the artist's       body.
+According to Gormley [5.4], this software is "unique in the world:       it's extraordinary to get a fully rotational model from a standard       single-lens digital camera".
+The sculpture "Exposure" has been the subject of international news       coverage [5.3], and is now an important landmark on the coast of the       Netherlands.
+The impact here is cultural, since this work of art would not       exist without the software developed from research completed in our UoA,       and the public, especially in the Netherlands, have benefitted from this       thought-provoking and impressive work.
+Applications in Retail.
+Metail is a company, founded in 2008 [5.5] and based in London and       Cambridge, that offers "virtual fitting rooms".
+It now has 40 employees.
+The website allows users to easily generate a 3- dimensional personal body       model to see how clothes would fit them online, prior to purchase.
+Shoppers are able to visualize themselves wearing complete outfits.
+The       company's founder and CEO, Tom Adeyoola, first explored the possibilities       of computer vision in the context of card recognition for on-line gaming.
+An internet search led to Roberto Cipolla and a personal contact with him.
+Tom was particularly impressed by the current preparations for Gormley's       "Exposure" sculpture.
+Subsequently an ex-PhD student of Cipolla's was       commissioned for the project of developing software for the virtual       fitting room, based on the underpinning joint research with Peter Giblin       on singularity theory described above.
+Metail has raised over &#163;4m in investment, filed patents and won a &#163;100k       grant from the Government's Technology Strategy Board in 2012 and a       further &#163;250k grant in August 2013.
+Metail launched to the public with its       first trial commercial partner, Tesco, in February 2012 [5.6].
+The trial       was a success and went on to win an internal Tesco award for "Best on-line       innovation" (voted for by the CEO Phil Clarke and the executive team).
+At       the end of September 2012 Metail launched commercially on Tesco's main       website, opening the "F&amp;F Virtual Fitting Room".
+This website enable       Tesco customers to try clothing online before they buy.
+The website is run       in association with Facebook and the Home Page says "The F&amp;F Virtual       Fitting Room has been so successful on Facebook that we have made it part       of our main website!".
+Subsequently Metail has launched with the clothing       retailer Warehouse, and also with Zalando Germany (Germany's fastest       growing clothing retailer), and the UK's largest on-line retailer, Shop       Direct.
+Metail went on to launch their first live show TV experience 'Take       over the Makeover' with ITV's programme "This Morning" in December 2012;       this feature has been running monthly since March 2013.
+They launched       their second international client of Dafiti in Brazil in February.
+Metail       is currently generating around &#163;70k per month in revenue and in March 2013       registered 80,000 users on their website.
+Over 300,000 people have created       "MeModels" using their websites since February 2012.
+The impact here has       therefore been economic, since Metail owes its existence and current       success to the software developed from our research; and societal, since a       large number of consumers in several countries have been enabled to       "virtually" try on clothing before purchasing online.
+The CEO of Metail       can confirm these details of company performance [5.7].

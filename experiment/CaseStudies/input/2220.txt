@@ -1,0 +1,43 @@
+     Research by Dr Farsi at Newcastle between 1993-97 led to the development       of CANopen, a fieldbus communication protocol that provides a flexible and       powerful open industrial communication solution for connecting multiple       different manufacturer's devices.
+This protocol became the de-facto       European standard EN50325-4 (CiA 301) for CAN (Controller Area Network)       based automation solutions (E8), and opened up the market by       providing industry with the option of not being reliant specifically to       any one supplier.
+It is widely used by major companies within different       industries, with current sales of CAN nodes in the automotive industry       alone accounting for over 700 million units per year (E9).
+Impact on practitioners and legislation:       The completed CANopen protocol specification was handed over to CAN in       Automation (CiA).
+CiA is a non-profit international industry organisation       whose aim is to promote CAN (Controller Area Network) and to provide a       path for future developments of the protocol through technical, product       and marketing information.
+It actively supports international       standardisation of CAN-related standards (E3).
+CiA released the       first stable CANopen specification (CiA 301 version 3.0) in 1995.
+Within       the next few years CiA declared that "it became the most important         standardised embedded network in Europe".
+Regular updates have since       been released with CiA currently working on a new updated version to allow       interface support for improved data transmission rates.
+(E1, E2)     Summarising the contribution made by Newcastle University on the initial       CANopen specification the CiA Managing Director commented that (E1):       "The EN 50325-4 international standard (CiA 301 application layer and         communication profile) would not have been introduced without the         underlying scientific R&amp;D work undertaken at Newcastle University by         Dr Mohammed Farsi."
+Impact on commercial organisations:       CANopen defines a complete framework for low-cost flexible device       independent systems.
+Aided by the introduction of the second generation of       CANopen networks in 2007 and a new communication profile in 2011.
+These       along with additional support for connecting different devices provide       important reasons why industrial segments still widely use and provide       CANopen support in their products today.
+The CiA Managing Director       stressed the importance and significance of CANopen to industry by       commenting (E1):     "Over the time, CiA members have developed more than 60 devices,         applications, and interface profiles.
+This has encouraged industries to         buy low-cost, off-the-shelf devices and device vendors to provide         end-to-end CANopen solutions.
+Some of the major companies supplying         CANopen solutions around the world since 1999 include Siemens Medical         Systems, GE Healthcare, Volkswagen, Toyota and Putzmeister.
+These         companies cover a wide variety of industries such as automotive, medical         devices, rail vehicles, laboratory equipment, building automation and         control systems for renewable energy.
+Chipmakers such as Freescale,         Fujitsu, Infineon, Microchip, NXP and Renesas support the CANopen         protocol by means of third party products.
+The European Space Agency has         implemented CANopen in hardware for space applications."
+In the early 1990s, Siemens Medical Solutions were faced with an       ever-growing demand for more functionality combined with market pressure       to reduce the cost of medical equipment.
+Siemens engineers looked at the       automotive industry for guidance and decided that CAN would form the       communication backbone of the next generation of products (E4).
+Siemens incorporate embedded CANopen networks to various sub-systems in       several of its diagnostic medical devices.
+In 2009, the Catholic Medical       Center in Seoul, Korea ordered 70 systems of medical equipment       incorporating embedded CANopen networks for eight hospitals.
+Worth around       28 million Euros, the order is one of the biggest of its kind in the       medical industry worldwide (E5).
+In 2008, European scientists working for CERN started high-energy       physics experiments hoping to discover among other things the Higgs       particles.
+The scientists designed and developed several detectors for the       Large Hadron Collider (LHC), which took a decade to construct at a          cost of approximately $4.75 billion.
+The Detector Control System       (DCS) is partly based on CANopen network systems.
+The DCS had the task to       permit coherent and safe operation of other large detectors (some       accounting for 60 million electronic channels) and to serve as a       consistent interface to all sub-detectors and technical infrastructure of       the experiment.
+Many other European high-energy research institutes have       also used CANopen-based systems for more than 10 years in a broad range of       applications (E7).
+Sevcon Ltd. operate in the global market for electrically powered       vehicles with annual sales of over $35m, and have adopted CANopen for the       forklift truck sector and standardised on it over 10 years ago.
+Sevcon       Vice President (Engineering) states the reasoning: "It provides support         for connecting different devices from a range of manufacturers which is         one of the important reasons why it is widely used and why Sevcon         provides CANopen support in our products today.
+CANopen is standard on         all our AC motor controller range and has been designed into all the new         motor control products we have developed over the last ten years" (E6).
+Impact on economic prosperity:       CiA has around 580 companies who are members of this international users       and manufacturers group (E1).
+To try and quantify the market value       of CANopen, the Managing Director of CiA provides an estimation of the       manufacturers' (producing CAN interfaces) sales figures by calculation and       estimation (E9):     We know the annual number of cars produced (60 million cars per year),         multiply them by the average number of CAN nodes in a car (high-end cars         have 80 ECUs (Engine Control Units), mid-range cars about 40 ECUs and         low-end cars just a few).
+The total average number is about 12 ECUs per         car, thus, resulting in about 720 million CAN nodes per year.
+The         automotive market is approximately 80% of the total CAN market.
+Depending on the forecast for future car production volumes, CiA         estimates that in 2015 the use of CAN nodes will reach 1 billion/year.
+The estimated number of sold CAN transceivers, stated by NXP (market         leader in the semi-conductor industry), provides a figure of         approximately 800 million CAN interfaces for 2013.
+Although the         provision of CAN interfaces on the marketplace is huge, there is no         exact figure on how many use the CANopen technology.
+It is known that         80% of the wind power systems use CANopen for controlling the pitch         control system movement.
+Worldwide there are over two hundred       thousand wind turbines operating, with a total capacity of 282,482 MW at       the end of 2012 (E10).
+If we multiply each by seven (three         encoders, three drives, and one controller) then we have a total in         excess of 1.4 million CANopen interfaces in use.
+From these examples alone, it is clear that the overall financial effects       from the CANopen technology form a worldwide billion dollar industry.

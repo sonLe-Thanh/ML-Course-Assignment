@@ -1,0 +1,42 @@
+     Research at the University of Southampton's Rolls-Royce UTC and Airbus       ANTC has transformed the way RR and Airbus tackle noise prediction and       mitigation in the design of current and future aircraft.
+New methods       introduced to both companies, mean that they are on track to meet the EU's       tough noise reduction targets and enjoy a competitive edge in noise       reduction over rivals Boeing, GE and Pratt &amp; Whitney.
+However, a       global market exists over the next 20 years for 27,000 new passenger       aircraft worth &#163;2.0 trillion [5.6] and the UK will retain or expand its       current 17% share of this market only if can match or exceed noise       reductions achieved by its competitors.
+Research in the UTC and ANTC at       Southampton has already contributed to meeting this technical challenge.
+Chief noise specialist at Rolls-Royce Andrew Kempton [5.1] in reference       to Southampton's UTC has said: "..it brings a breadth and depth of         knowledge, an independence of thought and an aptitude for innovation         that helps ensure the best technology is built into Rolls-Royce engines."
+Referring specifically to the impact of the highlighted research areas in       section 2, Rolls-Royce now routinely uses the numerical methods developed       by Astley et al.
+[3.1],[3.2] in validated in-house Rolls-Royce       codes to optimise sound absorbing liners [5.1].
+These codes were developed       during the Trent 900 engine programme (2000-2005) and have contributed to       the design of liners for the Trent 1000 and Trent XWB engines (for the       Boeing 787 and Airbus A350 aircraft) and in Germany by RR(Deutschland) to       the design of smaller engines such as the BR725.
+Similar methods         developed at Southampton have been used to design novel combustion and         exhaust liners and special low-frequency liners to reduce cabin noise         and fan blade instability (`flutter') in current engine programmes         resulting in two Rolls-Royce patents with named Southampton inventors         [5.7],[5.9] ("the firm's patents.. bear the names of students who         have worked on its technology...." [5.6]).
+Research on Advanced Open Rotors, at the UTC [3.3],[3.4] has led to a new       Rolls-Royce code for predicting the noise from the next generation of AOR       propellers.
+The Southampton model has been fully implemented within         Rolls-Royce and forms the basic tool for assessing noise from AOR         designs [5.2].
+There are compelling arguments for developing AORs       since they consume approximately 25% less fuel than current engines.
+Attempts to introduce AORs in the 1980s were abandoned in part because it       was widely believed that noise levels would prevent their acceptance.
+Current predictions using new tools developed at Southampton supported by       test data, show that this is no longer the case.
+Aero-acoustically       optimised propeller blades, manufactured and tested in European projects,       DREAM and CLEANSKY, have shown that a new generation of AORs can       be designed to meet current and anticipated noise certification       requirements.
+Research at the UTC has indicated that further noise         reductions are possible for AORs by including sound absorbing lining         material over the centre body of the propeller.
+A Rolls-Royce patent to         protect this invention has been filed with named Southampton inventors         [5.8].
+The AOR prediction code developed at the UTC will provide key       data when a decision is made whether to proceed with the AOR concept to       power the next generation of mid-range,150-seat aircraft for entry into       service around 2025.
+In the area of bleed valve noise, the UTC's improved understanding of       this source &#8212; resulting from a test campaign in 2008-9 and subsequent       modelling &#8212; has led to a new design for Rolls-Royce bleed valves.
+This was       tested in 2011 and shown to be up to 15dB quieter than existing valves,       effectively removing them as a significant noise source on Rolls-Royce       engines.
+The new bleed valve design has been installed on the Trent XWB         engine, powering the A350, and will be incorporated on all future large         Rolls-Royce engines [5.3].
+In reference to the ANTC's impact on reducing airframe noise, Dr Raj       Bissessur [5.4] of the Flight Physics Centre of Competence at Airbus in       Toulouse, has said; "It is about expertise, tools, methods and people.
+Within the UK, no one comes close to the level of methods and expertise         on landing gear noise offered to Airbus by the ANTC.
+With his industry         links and expertise, Xin Zhang is the leading academic in this area and         we want to work with him.
+The ANTC has moved Airbus to the edge of         understanding of noise generation on aircraft and how to mitigate it."
+In the important area of landing gear noise, Airbus engineers employ         the SotonLGAP computer program at both their UK and French sites to         evaluate landing gear designs.
+It can be used on a regular desktop       PC and saves Airbus &#163;20,000 for each day of wind tunnel testing that is       avoided, saving many hundreds of thousands of pounds for a full test       campaign [5.4].
+SotonLGAP predictions take minutes rather than weeks to       perform (compared to a full Computational Fluid Dynamics analysis)       allowing Airbus engineers to tackle the issue of noise early in the design       process, instead of identifying problems during wind tunnel testing when       the landing gear design is effectively fixed.
+It also cuts out       time-consuming and costly remedial work.
+In this way, SotonLGAP has given       Airbus a competitive advantage over its American rival, Boeing [5.4].
+Engineers at Airbus have used the SotonLGAP model to design landing gears       for the A350 aircraft which will enter commercial service in 2014.
+Further       research at the ANTC has led to a design change of the A350 landing gear       doors [5.5].
+In parallel with the development of SotonLGAP, research studies       undertaken for Airbus within the ANTC have shown that acoustic liners can       reduced high-lift device noise by up to 2.4dB, fairings placed in front of       the landing gear struts by 10dB, porous slats and flap surfaces by 1.5dB       and fairings applied to landing gear bogie beams by 4.5dB [5.6].
+Given       that fractions of a decibel can be important in determining noise       certification data, the combined effect of these noise reduction       techniques is significant.
+Research on blowing flow control, and         splitter plates [3.8] has demonstrated the potential of these         technologies to reduce landing gear noise.
+This has resulted in two         Airbus patents [5.11],[5.12] with named Southampton inventors.
+Further evidence of the importance that Airbus, Roll-Royce and the wider       industry, attach to noise research at Southampton has been reflected in       grant awards.
+During the REF impact period, the UTC and the ANTC together       secured in excess of &#163;10m of funding for research on aircraft noise for       which Rolls-Royce and Airbus have been the sole or prime beneficiaries.
+Southampton academics occupy key industry-focused roles on the back of       their research expertise.
+Astley is a UK representative on the scientific       committee of the X-noise EC funded network which has coordinated industry       led submissions for EC programmes on aircraft noise in frameworks 5, 6 and       7.
+Tester is co-chair of the Noise Technology Independent Expert Panel,       which has advised the ICAO's Committee on Aviation Environmental       Protection (CAEP) since 2006.
+Self is a member of the WG3 on       Aircraft Noise, which aims to define the research needed to meet       `Flightpath 2050' targets as part of the Advisory Council for Aeronautics       Research and Innovation in Europe.

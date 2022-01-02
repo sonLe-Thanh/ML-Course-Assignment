@@ -1,0 +1,48 @@
+     UCL research into the London riots of 2011 has stimulated a significant       amount of public interest, debate and discussion about the issues       surrounding the riots and about mathematical modelling.
+This has been       achieved through a number of public engagement activities, including       talks, a short film and a game.
+While conducting the underpinning research, Fry felt it was important to       initiate a discussion with members of the communities affected by the       riots, particularly given the striking links between rioter involvement       and deprivation in London that were uncovered in the statistical analysis       of the data.
+To help prevent riots from happening again, and to understand       why so many young people across London chose to riot, she wanted to learn       more about the social issues within rioters' communities that led to their       involvement; this was the initial motivation behind a series of meetings       between Fry and various youth charities, youth workers and ex-gang members       across the capital.
+After several informal discussions, Fry took part in the inaugural EPSRC       and UCL Focus on the Positive public event in May 2012.
+In these events,       researchers present their ideas for tackling issues and the audience vote       for a project that they think will make a real difference.
+Fry suggested a       need to raise awareness of the difficulties affecting young people, of       which the riots were just a single manifestation, and pledged to spend the       &#163;1,000 prize creating a short film to give a voice to young people in       deprived areas of London: the very people blamed in the wake of the 2011       riots.
+Her aim was to improve public understanding of the issues uncovered       in the paper as well as the difficulties around a lack of funding for       youth services, an additional problem that had been highlighted in her       conversations with affected communities.
+After debating the various issues       that had been presented, the 58 members of the audience voted to fund       Fry's project, demonstrating that the research stimulated public discourse       and interest in the topic [A].
+During the research for the film, Fry visited a number of affected       communities, including Blackfriars Settlement, a young people's charity in       Southwark; youth workers in Brixton; ex-gang members in Croydon; and       teachers within Pupil Referral Units in Enfield (PRUs are centres for       pupils unable to attend mainstream school, often due to emotional and/or       behavioural difficulties).
+These meetings allowed for a two-way       discussion, providing a context to the data for Fry, while changing the       attitudes of the individuals and organisations involved towards       mathematics, police intervention and academia.
+One of these discussions,       between Fry and Hackney resident Pauline Pearce (who gained exposure       during the riots for confronting looters in her local area), was filmed as       a case study for a secondary project, funded by the EPSRC, celebrating the       impact of the Focus on the Positive events [B].
+Pearce said of Fry's work       "You have really opened my eyes &#8212; I don't know numbers [...] but you have       spoken a language that people can understand" [B].
+Can Maths Predict a Riot?, the short film produced by Fry with her     Focus on the Positive funding, was released in January 2013.
+It has been     well received by a variety of audiences, with over 5,600 views on YouTube as     of 31 July 2013, and has sparked discussion and debate amongst the public,     as evidenced by the comment stream on YouTube [C].
+Pearce, who has since     joined the Liberal Democrats and stood for election within Hackney, offered     her feedback on the film and pledged to promote it within her community,     helping further to raise awareness of the work and its links to social     issues within deprived areas of the city.
+She said: "You'll be amazed at how     much your word will get around" [B].
+The film also stimulated members of the     public and the media to write about the work online; for example,     influential visualisation blog flowingdata (300,000 visitors a month) [D]     and science communication website popsci.com (1.2 million visitors a month)     [E] both featured articles about Fry's work on their homepages (on 18 and 19     July 2013 respectively).
+These high-profile articles then led to many other     websites (e.g.
+Professional Security Magazine, Phys.org and Laboratory     Equipment), blogs (e.g.
+Urban Demographics, Paul de Gregorio and Snap VRS),     Twitter and Google+ users writing about the research, including a tweet     shared by Labour MP Tom Watson to his 130,000 followers [F].
+Alongside the short film, the mathematical model potentially offered       police an opportunity to examine various strategic scenarios, but was       inaccessible in its original form.
+To address this issue and present the       model in a way that is useful and intuitive for potential stakeholders, a       proof of concept `computer-game' style interface was created by Fry and a       team of UCL computer scientists in April 2012.
+The game is presented on a       touch table, with a map of London projected on to the screen.
+The player       reacts to riots spreading across the map by arranging Lego police cars in       a configuration to minimise the damage.
+As the simulation detects the       placement of the cars using an Xbox Kinect, the model runs in the       background, reacting accordingly.
+By interacting with the riot table, members of the public are able to       explore its mechanisms in a tactile and engaging manner.
+This helps them       to gain an improved understanding of how this kind of mathematical       modelling could be used in the future to benefit the police and society.
+Since its creation, the riot table has been taken to various conferences       and festivals, including the Analogies conference at UCL on 20 April 2012       (with 400 visitors) and the Leeds Smart Cities Exhibition between 8 and 10       November 2012 (1,500 members of the public).
+At each event, participants'       scores were tweeted to a live leader-board, which added a competitive       element and stimulated public interest throughout the day.
+In total, the       game was played 226 times in 2012, with each score recorded on the riot       table Twitter account [G].
+In terms of the research, the Nature Scientific Reports paper was also       well received by the public.
+The open-access nature of the publication       allowed the UCL researchers to distribute and publicise the work to a       wider audience, informing people of the potential of mathematical       modelling and improving their understanding of the methods employed.
+As of       31 July 2013, the paper had over 12,200 views on the Nature website [H].
+It also had an altmetric score of 149, ranking in the top 1% of all       articles of a similar age rated by the system.
+An altmetric score is based       on the online attention that an article receives, and includes both social       media and mainstream news media; the high score received by the UCL paper       indicates that it stimulated a large volume of public interest in the       research.
+The paper also attracted a good deal of media coverage on publication,       with articles in Wired magazine (audience of 3 million) and science blog       ars-technica (website has more than 10 million unique readers per month).
+BBC London News also ran a feature on the model on 21 February 2013,       including an interview with a UCL research student, and the work received       national attention with a piece about the model by BBC's Newsnight on 12       March 2013.
+The associated publicity raised awareness of UCL's work,       evidenced by increased online views of the paper on both occasions [H],       and in turn led to a greater public understanding of this relatively new       field of research.
+The online attention surrounding the Can Maths         Predict a Riot?
+film in the latter part of July 2013 also prompted a       significant increase in views of the paper and reignited a general       interest in the underlying research [H].
+Alongside the paper, Fry was invited to speak about the research into the       riots at the first TEDxUCL event in June 2012, to an audience of 100       members of the public.
+The footage of the talk was featured on the front       page of TED.com for over three weeks in August 2012, and as of 31 July       2013 had over 500,000 views across all TED channels, ranking in the top 60       TEDx videos of all time (out of more than 30,940 videos).
+The stimulation       of public interest and discourse on the research topic, and on complexity       science in general, is further evidenced by the intense debate sparked       amongst the public, with over 1,000 detailed comments and `likes' on the       TED website [I] and YouTube channel [J] by the end of the REF impact       period.
+The talk also prompted several members of the public to contact       Hannah Fry about the work, opening the opportunity for a two-way       discussion.
+Examples of comments received online and via email include       [K]:     "Very, very good, opened my eyes."
+"I was very inspired by the fascinating TEDx talk."
+"Your TEDx talk explained complexity in an accessible succinct manner,         I'm planning my next semester and have your presentation on a list of         supplemental materials."

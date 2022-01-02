@@ -1,0 +1,34 @@
+ This important research has had an impact in 3 ways: 1) large increase in sales of HMH; 2) Encouraged the use of a more effective, and cleaner fire retardant; 3) Provided an example of a safe, environment-friendly fire retardant, to counter the "green" arguments for an outright ban (maintaining fire safety and avoiding pollution from fires).
+The growth of the plastics industry in the 1960s and 1970s led to a sharp increase in fire deaths.
+Fire retardants were added to plastics for use in high risk applications.
+Most of these were very stable brominated compounds which are easy to use, provided they are compatible with the host polymer, and at loadings of around 10 % they will meet the flammability requirements.
+Unfortunately they leach out of products and have subsequently been found to be persistent, bioaccumulative and toxic (PBT).
+The fire retardant community has been searching for replacements, while parts of the "green" lobby have been calling for a global ban on all fire retardants.
+In general, halogen-free fire retardants based on phosphorus, nitrogen or mineral fillers are much more polymer specific, and therefore require greater time and investment to optimise product formulations.
+Once a formulation has been optimised, approved and certified, any further changes must overcome large barriers.
+HP estimate that replacement of a single substance in a product formulation costs $5-10 M (H. Wendschlag; FRPM, Lille 2013).
+In the case of HMH, merely knowing it had fire retardancy potential was not enough to persuade customers to investigate it further; the claims and counterclaims in the literature needed to be addressed and the mechanism understood, to explain why the good results were not artefacts.
+An independent academic study from UCLan's leading fire research group provided the credible evidence base to support results produced in-house at LKAB.
+This was necessary to encourage innovation, including costly changes in formulation.
+To hasten the progress, drafts of the papers were provided to the company sales team, prior to formal publication.
+In addition, two important points needed to be made in respect of the perceived problems of fire retardants.
+The first, that many of fire retardants had no connection with the PBT problems of halogenated fire retardants, and the second that there were significant differences within the halogen-free group of fire retardants.
+Like aluminium metal, ATH requires very large amounts of energy during manufacture, and produces an equal mass of highly alkaline toxic red sludge (which flooded an area of Hungary in 2010, resulting in 10 deaths), whereas HMH production involves low energy processes of mining, sieving and grinding.
+As a plenary speaker at the Brominated Flame Retardants Symposium in Kyoto (BFR 2010, an academic conference of environmental scientists concerned about the widespread distribution and harmful effects of brominated flame retardants), Hull shared the platform with professors from Amsterdam Free University,Berkeley, Boston, Kyoto and Stockholm where he was able to highlight these important distinctions.
+Soon afterwards, Wikipedia's pages on "flame retardants" and "fire retardants" described HMH as a key example of an environment friendly fire retardant.
+Direct links to CloK, UCLan's online repository have resulted in thousands of downloads of these key research papers (see section 3).
+The final obstacle was the need for LKAB to increase production - there is no point in persuading customers to undertake the costly process of formulation development using a product which is in short supply.
+Armed with the mechanistic understanding, technology was selected to optimise particle size distribution, platyness and mixture ratios.
+This involved LKAB investing several million dollars in new plant in Turkey and the UK, tripling capacity to 60,000 tonnes per year.
+This confidence in the continued shift from ATH (the market for the fine grade of ATH alone is $250 M per annum) is the most concrete indicator of the significant impact of this research.
+The greater fire safety and environmental benefits are much harder to quantify.
+Beneficiaries and nature of impact LKAB Minerals are the primary beneficiaries of this research, through significant increase in sales volume.
+However LKAB's product is their customers' raw material, offering superior FR performance and better environmental ratings.
+Therefore, where the use of HMH results in a market lead for product, this is of far greater value than the cost of the raw materials.
+For example in the halogen-free cable industry (a rapidly growing area of the European market) [TEXT REMOVED FOR PUBLICATION] [cable compounder] have gone into production with a superior ethylene-copolymer HMH formulation.
+Unlike the alternatives, the platy huntite slows down the burning rate, through formation of a resilient residue, allowing the cable to meet Euroclass B2.
+The use of a naturally occurring raw material, requiring minimal processing has obvious environmental advantages, both in energy usage and clean manufacture (especially when compared with the toxic red mud generated as part of ATH production).
+Combined with the improvements in fire safety, society is the ultimate beneficiary in having access to a greener, safer product.
+Key dates relating to impact 2007 Prof Hull appointed to UCLan Minelco decision to fund PhD studentship at UCLan in fire retardancy 2008 Hollingbery and Witkowski start PhD studentships 2008-09 Experimental investigation of thermal decomposition of HMH mixtures 2010 Experimental investigation of flammability behaviour of HMH in comparison to hydromagnesite, ATH and magnesium hydroxide (MDH) etc.
+Numerical modelling of fire retardant effects of mineral fillers.
+Publication of references [1] and [2] 2011 Further investigation of HMH/ATH/MDH fire retardant mechanisms Publication of references [3] and [4] 2012 Publication of references [3] and [4] 20[TEXT REMOVED FOR PUBLICATION] LKAB decision to triple production capacity of HMH August 2013 Finalisation of current impact case study 20[TEXT REMOVED FOR PUBLICATION] LKAB's new plant fully operational

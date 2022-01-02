@@ -1,0 +1,44 @@
+     Nature of impact     Cardiff University's research has led to the development of in-vitro       blood screening and clinical diagnostic nucleic-acid amplification assays       that have been adopted worldwide for the detection of infectious agents.
+These assays have been brought to the market by GEN-PROBE Inc. (San Diego,       USA) and offer improved detection sensitivities and importantly possess       internal control for the nucleic acid amplification ensuring earlier       disease detection and a reduced incidence of incorrect results.
+The       distinct contribution of Cardiff research to the products is evident in       the respective `product inserts' [5.1] which cite patents       (underlined in references [3.1] and [3.2] of       Section 3 above) upon which Cardiff University staff (Weeks and/or       Woodhead) are named inventors.
+The Cardiff technology has led to year on       year benefits to commerce and clinical practice.
+Clinical adoption and commercial outcomes     GEN-PROBE's key nucleic acid detection assays use the Dual Kinetic Assay       (DKA) technology with more than 60 million clinical tests performed       worldwide each year.
+In April 2012 Hologic Inc. (a global healthcare       company seeking to strengthen its diagnostic portfolio) acquired GEN-PROBE       for $3.8 billion [5.2] with GEN-PROBE realising a doubling in       its value from 2008 (NASDQ share price of $42) to the point of acquisition       (share price $83).
+GEN-PROBE as a wholly-owned subsidiary of Hologic       continues to market and develop nucleic acid tests.
+The Hologic 2012       annual report [5.2] states "Diagnostics product sales         increased 25% in fiscal 2012 compared to fiscal 2011 primarily due to         the inclusion of GEN-PROBE, which contributed $86.7 million in revenue".
+Some of the tests that have seen first-user adoption in the assessment       period are described below.
+Blood screening assays: GEN-PROBE's blood screening assays       are marketed by Novartis Diagnostics under the PROCLEIX&#174; trade mark [5.3.,5.4],       with those approved for the Tigris&#174; platform shown in Table 1; Tigris&#174; is       a fully automated robotic instrument enabling high-throughput sample       processing and sample containment.
+Worldwide more than 80 million units of       blood are donated annually with screening performed for infectious agents       at major reference laboratories.
+The most common screens are for HIV,       hepatitis C (HCV), hepatitis B (HCB) and West Nile Virus (WNV).
+The       PROCLEIX assays for these indications use the Cardiff DKA technology and       importantly have been designed and approved for use on Tigris&#174;.
+Since 2008       the number of Tigris&#174; platforms in worldwide use at major blood testing       centres has doubled from 200 units (2008) to 390 units in 2011 [5.5];       typically a single Tigris&#174; unit is sufficient for a single testing centre.
+Table 1: PROCLEIX             Tigris&#174; assays           PROCLEIX             WNV           PROCLEIX             ULTRIO           PROCLEIX             ULTRIO Plus           PROCLEIX ULTRIO             Elite                             Infectious agent           WNV           HIV-1, HCV, HBV           HIV-1, HCV, HBV           HIV-1, HCV, HBV,             HIV-2                             First approval date             on Tigris&#174; platform           CE marked and             FDA approved             in March 2007           CE marked and             FDA approved to             include HBV             testing in 2008           CE marked in             2009 and FDA             approved 2012           CE marked in 2012             under further             development for             other regions                             Country approvals at             2013 (new approvals             since 21/12/2009)[5.4]           28 EU             USA             6 other (2)           28 EU             USA             26 other (9)           28 EU             19 other (19 inc.             USA)           28 EU                                                     Notes: (a) CE = marked compliant for Europe             &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; (b)             PROCLEIX ULTRIO Plus provides improved detection sensitivity to the             ULTRIO assay                           The PROCLEIX assays have a ca.
+32% share of the global blood     screening market (i.e.
+25 million assays per year) and are used     in ca.
+80% (14.5 million tests) of US blood screens [5.3,5.4,5.6].
+The PROCLEIX assays yield product sales to GEN-PROBE of ca.
+$200 million per     year [5.3,5.6] with ca.
+$16 million p.a.
+representing "at cost     sales" of the Tigris&#174; instrumentation platform [5.6]; in 2012     the FDA approved GEN-PROBE's low-to mid-volume throughput testing platform     (Panther&#174;) which will use the DKA-based assays.
+The DKA-based assays     represent a clinical advance to blood screening services.
+For example, in     2011 the South African National Blood Service showed PROCLEIX ULTRIO to     identify 9744 contaminated blood donation units from 3.8 million tested,     with 447 of these positive samples not otherwise detected by existing     approaches [5.7].
+In adopting PROCLEIX ULTRIO the Australian     National Blood Authority (2010) showed the risk of transmission of HBV from     blood donations was decreased by 33% relative to HBsAg serology [5.8].
+Clinical diagnostic assays for sexually transmitted disease (STD):       GEN-PROBE's APTIMA family of clinical diagnostic STD assays all utilise       Cardiff technology.
+Placement of Tigris&#174; platforms worldwide for APTIMA       STD diagnostics has increased 66% from 150 units (2008) to 250 units in       2011 [5.5].
+APTIMA Tigris&#174; products approved 2008 onward       include:            APTIMA Trichomonas vaginalis (CE marked 2010 and FDA approved         2011).
+The only FDA-approved nucleic acid amplification test to         specifically detect this parasite, which causes trichomoniasis, the most         common curable STD (the Center for Disease Control estimates 7.4 million         cases p.a.
+in USA).
+APTIMA HPV (CE marked 2008 and FDA approved 2011) which detects the         presence of one or more of the high risk 14 subtypes of human         papillomavirus (HPV) associated with cervical cancers; HPV is the         etiological agent responsible for more than 99% of all cervical cancers.
+APTIMA HPV Genotype 16, 18/45 (FDA approved 2012).
+Detects the         presence of the very high risk HPV genotypes 16 and 18 or 45 associated         with 80% of invasive cervical cancers.
+In 2012 USA healthcare professions and USA government recommended HPV       screening every 5 years in women over 30 years.
+In clinical studies       involving approximately 45,000 women the APTIMA HPV assay (detecting       certain mRNAs) has consistently shown similar sensitivity and better       specificity than the most frequently used DNA-based tests.
+Based on a       clinical evaluation of more than 10,000 US women with normal cytology       results, the APTIMA HPV assay had 24% fewer false positives than the       leading FDA-approved DNA test [5.9].
+GEN-PROBE APTIMA STD kits using the Cardiff technology hold a 49% global       market share with ca.
+29 million tests p.a.
+[5.5] and revenue       of ca.
+$200 million (2008) rising to over $350 million in 2011 [5.3].
+In 2013 Hologic entered into a strategic alliance with Quest Diagnostics       (the world's largest clinical diagnostics testing company) who will use       APTIMA STD assays in diagnostic services [5.10].
+The Cardiff research was transformative in providing a solution to the       unmet regulatory need for the internal control of nucleic acid       amplification in high sensitivity in-vitro screening and       diagnostic assays.
+The technology has been adopted by the market leader in       nucleic acid diagnostics in a range of clinical assays for infectious       agents.
+The technology has achieved worldwide reach and underpinned       significant commercial and clinical practice uptake [5.3].

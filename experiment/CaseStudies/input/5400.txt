@@ -1,0 +1,41 @@
+     The tools developed by Hall, Ruban, Wu and Mughal at Imperial have become       a cornerstone of AIRBUS UK's laminar flow research and were used to       interpret flight test data from the TELFONA programme in 2009 [G2, A].
+The       group is at present working closely with EADS/Airbus on the design of the       `Smart Fixed Wing', to be flight tested in 2015 as part of the Clean Skies       initiative [B].
+The Imperial group will also be fully involved with the       interpretation of the flight test data [C].
+A major part of the       collaboration with EADS is the secondment of staff between academia and       industry to help translate the academic research to EADS, and onto Airbus,       and enable Imperial researchers to be fully aware of the complications       associated with real wings [D].
+For commercial jets, the two major manufacturers are AIRBUS (owned by       EADS) and BOEING.
+In 2011, EADS/AIRBUS invested ~&#163;1m pounds in LFC-UK [G4]       which, together with ~&#163;4m from EPSRC [G3], enabled us to provide the       theoretical tools to underpin the development of laminar flow wings.
+The       commitment of AIRBUS was a result of our previous successful       collaborations, which had, for example, involved the successful       interpretation of flight test data from the TELFONA project [5, C, E].
+Within the period 2008-2013, EADS/AIRBUS progressively deployed variants       of the Imperial group's PSE methods to predict transition rather than use       old-fashioned crude methods, and many areas of research from Imperial have       "proved invaluable to EADS" [D]:            The work on receptivity theory has given EADS a rational method to         input disturbances into laminar flows.
+For example [1], shows how free         stream turbulence and acoustic waves generate disturbances in         predominantly 2D flows and, taken with earlier contributions by Ruban, "provide           the cornerstone for modelling receptivity in the industrial           environment" [D].
+Paper [3] demonstrated how the receptivity ideas         could be used to model flows over randomly distributed surface roughness         typical of that found on airfoils.
+The results will play a "key role           in the specification of manufacturing tolerances for the next           generation of wings developed at [EADS/Airbus UK]" [D].
+The work on the 3D transition prediction method, paper [4], has had "major           impact".
+This paper "opened up the way for industry to predict           transition within the RANS-Solar CFD method used for design purposes"         [D].
+EADS is supporting Mughal at Imperial to take the work forward in         order to understand the effect of 3D waviness induced by manufacturing         on in flight loading on transition.
+This work will contribute to the         flight test analysis of the EU JTI Clean Sky `BLADE' wing in 2015 and         represents "the `state of the art' of transition prediction in 3D           flows" [D].
+EADS and Airbus have also taken great interest in the work of Hall and         Sherwin [6] on self-sustained processes and coherent structures.
+This         work is "important for acoustic issues in aerodynamics" [D].
+Paper [5] was the first rational attempt to optimise the deployment of         suction on wings.
+Before that work, the `sledgehammer approach' of         sucking everywhere as hard as possible did indeed produce laminar flow,         but the equipment needed to produce it meant the aircraft was too heavy         to take off, let alone be commercially viable.
+The method provided the         basis for the development of optimisation strategies for all kinds of         instabilities on airfoils and produced a scenario where suction         deployment is commercially viable.
+In summary, EADS Innovation Works is "already using a great deal of         the work" of the Imperial College group in their research activities       "directed at aerodynamic analysis and novel wing technology to support         the Airbus Business" [D].
+For example, the collaborative work with       EADS Innovation Works on "a method for quantifying the effect of         surface finish uncertainties on the transition location has been         reported at the recent AIAA [American Institute of Aeronautics and         Astronautics] conference in San Diego" (paper [3]) and is of a "clear         world level standard" [C].
+Airbus considers the collaboration with Imperial and the LFC-UK project       to be mutually beneficial for all parties.
+For example, "industry takes         on board the advanced and newer means of investigating complex flow         phenomenon resulting from manufacturing realities while academic         researchers benefit from exposure to real world problems" [C].
+Commenting on past collaboration, Airbus states "the sharing of         roughness data, flight test data (Smart Fixed Wing, and Blade projects)         shows our commitment and belief in the excellence, novelty and         timeliness of the work being undertaken in the LFC-UK project.
+Major         aspects of the research highlighted in the September 2013 LFC-UK         industry workshop are of real and practical use to Airbus in the UK"       [C].
+As a final comment, Airbus states that it is "fully supportive of         the research, which has already had an impact on our current work and we         fully expect the continuous stream of results coming from LFC-UK to         influence our approach to the aerodynamic design and manufacture of the         laminar flow wing concept" [C].
+In addition to the work already described above with EADS/Airbus, the       Mathematics group has, or has had, collaborations with Qinetic [G1], BAE       and the Aircraft Research Association (ARA).
+The active collaboration with BAE is being taken forward within LFC-UK to       develop a capability for BAE to design UCAVs having significant regions of       laminar flow.
+Of "particular importance to BAE Systems has been the         work on the transition prediction on very 3D configurations" [F].
+Such configurations are "relevant to UCAV design where increased range         can be achieved if laminar flow can be achieved over as much of the wing         as possible" [F].
+Here, the resultant reduced fuel burn enables vehicles to stay on mission       for longer periods.
+In the civilian aircraft context, the reduced burn is       primarily aimed at reducing fuel costs and the impact of emissions on the       environment.
+Indeed the fuel reductions are one minor step towards the       EU's planned goal of 50% reduction in aircraft emissions by 2050.
+LFC-UKs       role in this area was reported by the Economist in 2011: "Understanding         what causes the transition from laminar to turbulent flow requires         massive mathematical and computing power.
+But if Dr Serghides's         colleague Philip Hall and his team can work out the details, they should         be able to design wings whose shape maintains laminar flow from front to         back, and thus lowers fuel consumption" [G].
+Scale of the impact:     It takes 20-25 years for an aircraft to go into service once a decision       to produce it has been made.
+Impact in the aeronautics industry therefore       occurs with long realisation timescales and it is difficult to assess the       scale of the current impact precisely.
+However, wing design and production       is a key capability for the UK and Airbus in the UK which, together with       its supply chain, provides supplies and services worth nearly &#163;1.5b       annually to the UK economy.
+EADS Innovation Works comments that "each         contribution to the excellence of the product enables Airbus to complete         both within Europe and on the global stage and as such the work at         Imperial College is vital to the continued success of EADS and Airbus in         the UK" [D].
+Additionally, BAE states that UCAV development is "an         activity involving tens of millions of pounds each year in the UK and         any technical superiority obtained using leading edge contributions from         academia helps to secure BAE Systems' position in this activity"       [F].

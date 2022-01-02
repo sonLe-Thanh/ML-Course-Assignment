@@ -1,0 +1,38 @@
+     After the development of the new Scorpion Primers technology in       collaboration with Professor Brown (Southampton Chemistry), two scientists       from AstraZeneca (Little and Whitcombe &#8212; key contacts) left the company to       set up an SME; DxS Ltd, in Manchester in 2001 (and acquired by       Qiagen in 2009) [5.1, 5.2].
+DxS began developing mutation       detection products including an assay for 29 epidermal growth factor       receptor (EGFR) mutations.
+This led to a range of research products (EGFR,       KRAS, BRAF, PI3K, T315I), a selection of which progressed into TheraScreen       CE-marked diagnostic kits.
+In January 2008 DxS launched its first         companion diagnostic product to allow European sales of Amgen's         colorectal cancer drug, Vectibix&#174;.
+Vectibix was initially rejected       by the European Medicines Agency (EMA) on the basis of limited efficacy.
+Amgen then used the DxS kit to stratify the population on the basis of       KRAS mutation status and Vectibix was approved by EMA for the KRAS       wild-type population.
+Further diagnostic products followed, with the EGFR       kit being used to establish the mutation status of non-small cell lung       cancer tumours, to determine likely response to Iressa&#174; or Tarceva&#174;.
+DxS was acquired by QIAGEN N.V. for US$120m in 2009 [5.1, 5.2].
+QIAGEN, the world-leading provider of assay technologies, is listed on       NASDAQ and the Frankfurt stock exchanges and operates more than 30       subsidiaries in 18 countries.
+The acquisition of DxS was described by       QIAGEN's CEO as "strategically a highly important transaction" and "a         key element" in its aim to "lead in molecular diagnostic-based         prevention, profiling and personalised healthcare" [5.2].
+The sale was recognised as the "Transaction of the Year" (2010) at the       Mediscience Awards, London [5.3].
+It also benefited the UK       economy, with QIAGEN establishing a Centre of Excellence in Pharma       Partnering at DxS's Manchester headquarters.
+The workforce expanded         from 67 (2009) to ~160 (2012) after a move to a purpose-fitted facility         on the Manchester Science Park in 2010.
+The success of the DxS       assays has led to the growth of QIAGEN's personalized healthcare       portfolio, which now makes US$100 million of sales annually (Peer Schatz,       CEO, QIAGEN N.V.) [5.4].
+In the US, Food and Drug Administration (FDA) approval requires       diagnostic assays be associated with a clinical trial.
+DxS had been       approached by drug companies Amgen, BMS Lilly and Boehringer Ingelheim to       provide companion diagnostic assays for use in their clinical trials.
+This         led to the approval (July 2012) of the KRAS kit in the US for use with         the colorectal cancer drug, Erbitux&#174; [5.5].
+The US market for this       drug is expected to be in the region of US$20 million.
+The EGFR kit was       submitted to the FDA in November 2012 for use with the Boehringer       Ingelheim non-small cell lung cancer drug, Afatinib; approval was         received in July 2013.
+The EGFR and KRAS kits are now being used worldwide by hospital       laboratories, central testing facilities and clinical research       organisations.
+In the US the KRAS assay is being offered by Lab21, Inc,       The Mayo Clinic, Applied Diagnostics, Inc, Boyce and Bynum Pathology       Laboratories.
+In January 2013 Clarient also began offering the assay         [5.6].
+The CEO of Clarient, Carrie Eglinton Manner, stated: "We         believe precision medicine is the new direction in diagnosing and         treating cancer and Clarient uses state-of-the-art diagnostic         technologies like the therascreen KRAS test to bring clarity and         precision to physicians to assist them in making better treatment         decisions for their patients.
+Clarient's comprehensive offering and fast         turnaround time coupled with our experience with the therascreen KRAS         test permits us to provide a higher level of performance.
+Also, the fact         that it is FDA approved provides Clarient with additional assurance of         its quality and reliability."
+[5.6].
+On-going development of the companion diagnostic portfolio is clear from       the agreement between QIAGEN and Eli Lilly, signed in February 2013,       to develop companion diagnostics for drugs for all therapeutic areas of       interest [5.7].
+A further expansion of the biomarker portfolio is       evidenced by agreements and licences to develop assays for glioblastoma,       lymphoma and rheumatoid arthritis, in deals with Insight Genetics, Drug       Response Dx, InsermTransfert, Columbia University and the BC Cancer       Agency, Canada [5.4].
+Since 2001 Professor Brown has continued to work on Scorpion design with       DxS and later QIAGEN on a consultative basis.
+Since 2005 this has mainly       been channelled through ATDBio (a spin-out company founded by Tom Brown)       for the provision of specialist advice and custom oligonucleotides [5.8].
+David Whitcombe (co-founder of DxS) has stated "Not only was         Professor Brown instrumental in the initial development of Scorpions         (suggesting and supplying appropriate blocking and quenching groups, and         also creating monomer phosphoramidites), but as the technology matured,         he was able to advise and assist on the high quality manufacture of         Scorpion constructs.
+In addition, his group were highly engaged in the         investigation of the properties and performance of these molecules.
+This         enabled DxS to move into the manufacture of high quality and high value         Diagnostic tests with significant clinical benefits for large numbers of         cancer sufferers.
+Ultimately it was the utility and quality           of these tests that underpinned the sale of DxS for US$120m" [5.9].
+This is supported by Steve Little (co-founder of DxS), who states that "The         core technology used by DxS was Scorpions and, following the         acquisition, the technology continues to be used in an expanded range of         personalised medicine products provided by QIAGEN.
+Scorpions           technology now supports annual sales of around US$100m.
+The input of Professor Tom Brown in providing chemistry expertise was         central to the success of the Scorpions technology."
+[5.10].

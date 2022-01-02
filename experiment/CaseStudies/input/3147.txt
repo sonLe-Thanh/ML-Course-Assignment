@@ -1,0 +1,57 @@
+     As described in the impact template, a sustained central pillar of our       impact strategy is a comprehensive engagement programme for school       teachers and children at all levels of education (including primary,       secondary, A-level and adult education).
+Here we describe in detail how       and with what aims we engage school children and teachers directly with       our research [see Section 3, R1-R5] and how this impacts on both groups.
+Physicists have a particular skill set that is in short supply in the UK       economy, as recognised by the government and by HEFCE.
+A survey by the IOP       and STFC [C1: p.14] of 800 undergraduate students found that the most       popular subject areas cited by first-year undergraduates were particles       (72 per cent), nuclear physics (63 per cent) and astronomy (53 per cent),       all within the domain of fundamental research as tackled by Sussex       researchers; hence our strategy to base our school engagement in these       areas [R1-R5].
+The aim is both to improve teaching and to raise pupils'       interest directly.
+The means by which this is achieved is through talks at       schools, bringing pupils into the University, and through the continuing       professional development of teachers.
+These activities have grown       significantly over the current REF period, in conjunction with the       Department's membership of SEPnet, a HEFCE-supported consortium of physics       departments in South-East England.
+Since January 2009, we have employed a       dedicated PhD-educated outreach officer, astrophysicist Dr Darren Baskill.
+We take feedback for all types of outreach activities, both quantitative       and qualitative.
+There is tangible evidence of enhanced engagement with       science through feedback from students and teachers [C2, C3] as well as       increased physics up-take in the region (see below).
+Engaging pupils with science     Table 1.
+Pupils participating in Sussex events, broken down by stage                                           Primary           Pre-GCSE           GCSE           A-level           TOTAL                             01/08/09&#8211;31/07/10           370           788           1,029           340           2,527                             01/08/10&#8211;31/07/11           402           972           1,744           933           4,051                             01/08/11&#8211;31/07/12           964           1,292           1,819           949           5,024                             01/08/12&#8211;31/07/13           901           1,770           1,807           499           4,977                             All years           2,637           4,822           6,399           2,721           16,579                          Since we began collecting data in 2009, we have worked with 16,579       students at all levels, using a variety of methods to engage them with the       research.
+For example, in the academic year 2011/12 we worked with 5,024       students (see Table 1).
+They engaged with departmental research through       physics days, master classes, research talks, schools lab days and       lectures, both on and off the University campus.
+We offer a wide selection of talks [C4] covering all our research areas,       and given by staff visiting schools and colleges.
+We also run regular       physics days on campus throughout the year, including master classes in       particle physics (an astronomy master class is currently under       development), both for GCSE and for A-level students.
+These include a       research talk, lab tours, live video links to Sussex PhD students at CERN       working on the ATLAS experiment, and other hands-on physics activities.
+During 2011/12 alone, members of the Department talked about their       research to groups at or from about 100 schools [C5].
+Schools lab days     During the school terms, we run a weekly Schools Lab day in our dedicated       Schools Lab facility, where GCSE, AS- and A2-level students visit us for a       full day of experimental physics.
+As part of the day, the students,       together with their teacher or teachers, attend a research talk where a       different researcher describes her/his work each week.
+On a recent Schools Lab day (17 May 2013), a group of GCSE students from       Dorothy Stringer School in Brighton, together with their physics teacher,       Andy Latham, attended a talk about the principles of the Standard Model       and the story of the ATLAS discovery of the Higgs boson through H&#8594;ZZ and       H&#8594;03b303b3.
+The group, which consisted of eight female and two male       students, subsequently reflected on the topic during their classes.
+In a       snap poll at the event, 80 per cent stated their intention to continue to       A-level physics.
+Feedback from Mr Latham submitted in June [C6] states:     Not only was the lecture informative for the students but it sparked a       significant amount of debate about the standard model and its development       as a theory.
+From that discussion we are now looking into taking a group       of students next year to CERN and possibly holding master classes for KS4       students here in experimental and theoretical physics, such was the       interest from students.
+The number of female students was accidental but       incredibly encouraging.
+We at Stringer strive to increase the number of       female students taking up further education in Physics and it's days such       as this that make our job easier.
+Enhancing science teaching in schools     We regularly host teacher-training events such as the recent `Physics       Update' course.
+Key decision-points for students are not only when they       apply for university, but also at the transition from GCSE to A-levels.
+This is where the `bottleneck' of STEM undergraduates is formed.
+The       science teachers at GCSE and A-levels hence play a pivotal role in       addressing this societal challenge.
+We run continuing professional       development events for teachers several times a year, informing them about       the findings of our current research through talks by faculty members,       answering their questions, and giving them ideas, as well as materials,       that they can use in the classroom.
+In March 2013, we organised and ran the Institute of Physics `Physics       Update' 3-day international conference, which was attended by 34 teachers       from across the UK.
+Follow-up demonstrated that this conference has had a       real impact in the classroom &#8212; for example, Claire Aspinal [C7] says that       at her school in Cheshire they have:     ...discussed new developments with pupils e.g.
+Quantum computing to help       them understand where a career in physics could take them.
+[...] [We]       purchased the particle zoo to help pupils understand fundamentals       particles better.
+We are taking 30 AS/A level students to CERN in       December.
+Justin Walker [C8] said     My department has decided to buy a [Geiger-Mueller Tube] like the one you       demonstrated [...] I used photos from the ion isolation qubit storage lab       in lessons on atomic theory and digital data transmission.
+Each summer, we hold an evening event for local teachers, giving them the       opportunity to explore the Department, to see our latest offerings, and to       network with other teachers in the region.
+This event has an attendance of       approximately 45 teachers each year.
+During the 2011 event, Prof.       Wolfgange Lange gave tours of our AMO research laboratories, prompting the       following unsolicited feedback: `Faculty members such as Dr Lange [were]       engaging in making physics understandable and accessible for a relative       "newbie" (read "chemist"!)
+like me' &#8212; Jason O'Grady, Hove Park School,       July 2011 [C6].
+The UK Herschel outreach project has also produced many educational       resources based, in particular, on the Herschel SPIRE instrument: http://herschel.cf.ac.uk/education.
+These resources have been very well received by teachers and used to       improve their teaching in the classroom.
+Dr Keith Moseley (Head of       Physics, Monmouth School) says, `The standard approach to teaching the       electromagnetic spectrum is significantly enhanced by showing, through the       resources associated with the Herschel Telescope, the multi-wavelength       universe' [C9].
+David Grace, (PGCE teacher), said `I have used [Herschel       educational resources] myself with Year 9 and Year 12 pupils in school...
+I know that some of this year's students also used them in school on their       practices and found them appropriate and very useful' [C10].
+In addition       Sophie Allan, who is the National Space Academy physics teacher engaged in       developing and teaching physics programmes for the Academy, as well as       running CPD, said     I have used the Herschel resources with both student and teacher       groups...The resources worked very well...They really brought       multiwavelength astronomy to life in a manner that was relevant to the       curriculum, time saving and gave a fantastic modern context to the topic.
+I have also introduced many other teachers to the resources through CPD       sessions that I have been leading, and they have all been thoroughly       impressed!'
+[C11].
+Evolution of UG student uptake in the region     Strong evidence of the impact on pupils comes from the rise in UG student       uptake not only at our institution, but across the South East (the main       reach of our, and our SEPnet partners', outreach activities).
+One teacher       commented "we have seen an increasing number of students choosing Physics       at Uni over the last few years, and we believe this is partly because of       the positive experience they have had of Uni physics in the schools' lab"       [C13].
+Based on SEPnet data [C12], the overall SEPnet physics UG       population has roughly doubled from 967 in 2007 to 1,813 in 2012/13, and       the Sussex UG population from 131 to 229.
+This significantly outpaces the       national growth of 34 per cent over the same period and goes some way to       alleviate the societal problem of a lack of STEM graduates.
+The       correlation with the onset of SEPnet and our enhanced outreach activities       strongly suggests that it arises in part as a result of our research, as       communicated through our engagement.
+It is to be expected, and our       evidence from feedback [C6] confirms, that this very significant impact on       the `elite' subgroup of students who actually took up physics is       accompanied by a more widespread, better appreciation of modern physics       research, among both students and teachers.
+SEPnet has had an extraordinary impact on recruitment to the Physics       Department at Sussex University: at a time when it's of national       importance to UK plc to increase STEM, and particularly physics       recruitment, their outreach activity (drawing on their strengths in       fundamental research) is changing the pattern of recruitment in the       region, with more than twice the national average increase in       undergraduate recruitment &#8212; Prof. Sir Peter Knight, FRS [C14].

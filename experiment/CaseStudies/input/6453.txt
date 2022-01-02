@@ -1,0 +1,32 @@
+     Impact of the software     The FSS took an interest in the software leading to a licence agreement       in 2005 with City University London for its use for development and       commercial sales.
+The FSS was a government-owned company which provided       scene-of-crime and forensic investigation services to the police force and       government agencies of England and Wales, as well as other countries.
+These included the Crown Prosecution Service, HM Revenue and Customs, HM       Coroners' Service, Ministry of Defence Police and British Transport Police       in the UK and worldwide forensic services.
+The FSS replaced the user interface of FINEX and added custom features       such as automated report generation.
+The version of the software developed       by the FSS was originally called FSS-ibd, later changed to FSS DNA       Lineage.1,2 An important development in the functionality of       the DNA Lineage software by the FSS was the ability to carry out a       database search for possible partial matches of close relatives to a       previously given DNA profile, such as might be found at a crime scene.
+This procedure is known as familial searching.
+Although a crime scene DNA       sample might not match anyone already in the national DNA database, the       offender might be a close relative of someone whose information is in the       database.
+A partial DNA match may aid in identifying the offender via       their familial links.
+The FSS DNA Lineage programme can compare over 2,000       profiles per minute in such a database search.
+It was used routinely by       the FSS in its work and was crucial in winning an immigration contract       with Norway to provide a service testing the claims people make when they       apply for visas on behalf of family members.
+In 2011, the UK police had       used the software in around one hundred cases.3     The FSS had a dedicated Familial Searching Service unit.
+With the use of       the FSS DNA Lineage software, the FSS was able to identify 19 offenders of       cold cases leading to their conviction.
+One of the most notorious       criminals to be found and convicted with the help of the software was       David Newton, known as the Ilkley Moor rapist.
+He was convicted and       sentenced to life imprisonment in December 2008.
+DNA evidence linked an       attack on a dog walker to a rape carried out nine years previously.
+Within       36 hours the FSS experts were able to link the Ilkley Moor Attack to the       earlier crime in Leeds.4     The FSS lost market share as a result of increased use of competitive       tendering by police forces for forensic services and it was closed in       2012.
+However prior to this it had developed a reputation as a pioneer in       forensic software and technology, notably DNA interpretation, databasing       and electronic forensics.
+The Government decision to close the Service,       announced in 2010, drew criticism from international forensic scientists       and victim campaigners for the potential damage that this would do to the       UK criminal justice system.5     A Home Office document, `Review of Research and Development in         Forensic Science'6, outlined the potential future       of the FSS before the ultimate decision was taken to dissolve the service.
+During the review the question was asked: `Can you give good examples in       the forensic science field of translation of research into practice?'.
+The       answer given relates to the use of the FINEX software and its uptake by       the FSS ([9] being a reference in the document to the work of Robert       Cowell):     "For example, a well-respected group of academic statisticians [9]         have published models in peer reviewed journals..."     This is followed by an explanation of a new model for DNA mixed profiles:     "The FSS R&amp;D statisticians have developed and validated a model         for de-convolving DNA mixed profiles based on academic research.
+This         model has been implemented into the FSS, providing consistency,         robustness, and cost effectiveness for the taxpayer."
+In the same document the FSS also cites its achievements as including: "Development         and implementation of FSS DNA LINEAGE for kinship analysis,         award-winning DNA INSIGHT software for DNA interpretation...and FSS-ibd         a validated DNA database solution."
+The FSS DNA Lineage software was favourably reviewed in a report by the       Economist Intelligence Unit (EIU) in 2011.3 Part of the       Economist Group, the EIU is a respected producer of country and industry       reports.
+The report says: "New software is speeding up the work of         forensic scientists working for police and immigration services across         the world.
+Thanks to some elegant mathematics from a lecturer at City         University London, they can now match up DNA samples to get answers much         more quickly."
+In the article, Dr Maguire, then of the FSS, stated "the software has         been used in around a hundred cases so far and would help in crime         scenes where speed is vital &#8212; such as the identification of multiple         victims of an incident involving mass fatalities".
+He explains that       even if an exact DNA match is not forthcoming, Dr Cowell's software can be       used to narrow the search based on near matches commonly found among close       relatives.
+Dr Maguire says: "Based on probabilities, Dr Cowell's model         identifies the likelihood of genetic markers being passed on from father         or mother as well as the very close sibling relationships.
+"3     With the closure of the FSS, the FSS DNA Lineage software has been taken       over by the Home Office who intend to continue to use it in the UK in       criminal and immigration casework.
+City University London has recently       reached an agreement with the Home Office to enable the University to       continue the development and commercial exploitation of the software.
+A       licence agreement is currently being negotiated with a Spanish software       vendor.
+Other software     In addition to the commercial software licensed to the FSS, another piece       of software, FRANz, has been constructed as a result of the underpinning       research and made available in the public domain.7 This can be       used to reconstruct pedigrees of related individuals; the algorithm for       which is described in the journal Theoretical Population Biology.

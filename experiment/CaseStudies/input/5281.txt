@@ -1,0 +1,45 @@
+     The pivotal contribution of our research to UK, US and International       Standards and Codes is evident from their direct citations to our research       papers.
+The authors have played major roles on committees overseeing the       publication of relevant Standards and Codes.
+Nikbin is Chairman of the       ASTM and VAMAS committees on `The Role of Residual Stress in Weldments', a       Member of the ESIS Technical Committee TC11 on `High Temperature       Mechanical Testing' and Chairman of the British Standards Institute       Committee for BS7910.
+Davies is a Member of the `UK Technical Advisory       Group for Structural Integrity' Committee NT-22 Sub-Group on `Fracture and       Residual Stress'.
+Blackman is the Technical Secretary and Kinloch a Member       of the ESIS Technical Committee TC4 on `Fracture of Polymers, Composites       and Adhesives'.
+The Standards and Codes on the Design and Service-Life Assessment of         High-Temperature Components: ASTM Standards E1457-07 (2012) and       E2760-10 (2012), R5 EDF Energy Code of Practice (2012) and BS 7910 (2013)     Our Standards and Codes are used at EDF Energy's AGR nuclear plants on a       daily basis, for routine safety checks on high-temperature components       prone to cracking.
+The cost of lost output is roughly $1M per day for a       typical 1,000 MWe AGR plant.
+In 2010, 10 GWe of electricity was generated       in UK AGR plants.
+The cost of refurbishing these old plants in order to       run beyond their design life is estimated at &#163;200-300M per GWe.
+The cost       of new-build could be as much as &#163;5,000M per GWe.
+The details of the       savings conferred by the use of our Standards are confidential to EDF.
+However, even at a nominal 1-5% of the annual savings from extending plant       life and reducing plant downtime, our contribution is millions of pounds       annually.
+The sale of the Standards and Codes to Industry also generates       UK revenue: on average two hundred licenses worldwide at &#163;10,000 per annum       is &#163;2M as confirmed by a High Temperature Specialist in the Assessment       Technology Group of EDF Energy [A].
+The wide international acceptance of the Standards and Codes makes the UK       a global leader in methodologies for high-temperature safety in the       nuclear industry.
+For example, our Standards and Codes have been directly       adopted by ASME in the US, as well as by nuclear safety bodies in Japan       and Korea [A].
+Indeed, High Temperature Specialist in the Assessment       Technology Group of EDF Energy [A] has stated that: "Professor Nikbin         and his colleagues have significantly influenced key developments in R5         assessment procedures, which are used to assess the integrity of         components in the UK's Advanced Gas Cooled Reactors (AGRs) which operate         in the creep range.
+Of particular note are their important contributions         in driving improvements in predictive modelling of the creep crack         growth process and in developing an improved understanding of the role         of residual stresses in the incubation and growth of cracks under creep         conditions.
+Furthermore their significant contributions in the field of         creep crack growth testing and high temperature assessment methods have         led directly to improvements in international standards, including ASTM         E1457, ASTM E2670 and BS 7910."
+The Standards on the Fracture Resistance of Plastics, Composites and         Adhesives: ISO 25217 (2009), ISO CD 15114 (2011).
+The research underpinning these Standards has made fracture-mechanics       techniques accessible to industrial users, bridging the       theoretical-experimental divide.
+At Airbus, our fracture-mechanics       Standards are now routinely employed for materials qualification,       calculation of design allowables and process control.
+The need for light,       optimised, airframes and adhesively-bonded connections has heightened       interest in fracture-mechanics techniques.
+The proportion of composite       materials in aircraft has grown dramatically to reach 53% in the A350XWB.
+The cost benefits of weight savings are impressive.
+Every kilogram shed       means not only substantial fuel-cost savings but also CO2       emission reductions of over 16 tonnes per year.
+The Head of Structural       Engineering Methods at Airbus [B] has stated: "The design of advanced         composite structures relies, at some stage, on the assessment of         fracture mechanics parameters.
+Fracture mechanics standards are key in         ensuring that co-cured/co-bonded components are at a specific         performance level.
+Also, the control quality of incoming materials or         manufactured elements relies on process control specimens, again derived         from the same fracture mechanics standards.
+The excellent research on         fracture mechanics by Blackman and Kinloch at Imperial College has been         crucial in the development and publication of the ISO Standards on         cracking in composites and structural adhesives.
+These Standards are         used extensively by Airbus in these areas and have led to significant         savings from improved design and smarter production and repair methods."
+GKN and Rolls Royce rely on our Standards when using adhesive-bonding       techniques for aero-engine components like metal-composite fan blades.
+Our       fracture-mechanics Standards were essential to determining the optimum       surface pretreatment techniques for bonding titanium-alloy and       fibre-reinforced plastic composites.
+Indeed, a Rolls Royce adhesive       Specialist [C] has stated: "In addition, the results from the Imperial         College bonding research work have been read across to support         innovation and improvements in manufacturing methods for Rolls Royce         engine fan-casing components.
+It is estimated annual savings of up to         &#163;5M could be achieved through improved in-service behaviour."
+Vestas uses our Standards extensively to obtain fracture-mechanics data       for designing adhesively- bonded, fibre-composite wind-turbine blades.
+Each standard procedure gives an immediate cost saving.
+The contribution       of fracture Standards cannot be isolated, but a failed prototype blade       would cost &#163;100k and a failed production blade would incur costs of many       millions of pounds, as confirmed by Technology R&amp;D Leader, Vestas [D].
+The Standards on the Failure of Plastic Pipes: ISO 13477 (2008).
+Leevers' research has underpinned advances in plastic pipe materials,       processes and applications.
+Indeed a Senior Consultant at Plastic Pipes       [E] has stated: "The framework of international standards built around         Leevers' ISO 13477 'S4' test has been essential to maintaining         technological progress while maintaining absolute confidence in keeping         RCP safely at bay."
+Savings can be estimated from experience in the       US, where ISO 13477 is not applied and the costs of RCP failures in water       pipe have been high: ten outstanding court suits for RCP during proof       testing cite costs in the millions of dollars.
+The synergy of good       Standards and sustained underpinning research accelerates innovation and       [E] has also stated: "Uponor's ProFuse pipe product posed a special         RCP challenge due to its multilayer structure; our collaborative         research programme using Imperial's ISO 13477 methodology was crucial in         meeting the necessary industrial standards."
+Further, [E] has       analysed the cost benefits of Leevers' basic research on the control of       skin stiffness and adhesion to avoid any embrittling effect.
+They include       savings of &#163;100-300k in costly full-scale field tests, time savings of       months in identifying the performance envelope, increased revenue yielded       by getting a &#163;20M p.a.
+product line to market more quickly, and the "major         financial benefit to the business gained by association with Imperial's         reputation".

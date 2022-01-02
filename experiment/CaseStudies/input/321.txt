@@ -1,0 +1,30 @@
+ Several factors have made malaria control difficult in sub-Saharan Africa and led to substantial increases in malaria burden on the continent during the 1980s and 1990s.
+The first was the widespread emergence of resistance of P. falciparum, particularly to chloroquine (CQ), then the most commonly used anti-malarial drug.
+This has been managed by changing treatment policy to ACTs in most sub-Saharan African countries.
+Re-introduction of amodiaquine for treating uncomplicated malaria in Africa.
+The results of the joint studies of the LSTM and the WHO on the efficacy and safety of amodiaquine, led to it being reintroduced for uncomplicated malaria in 2003, and has had an enduring impact since.
+The WHO technical report (page10) refers to the reviews leading to the recommendation that amodiaquine be added to the Model List as a core list medicine.a, b In 2006, WHO guidelines recommended amodiaquine combined with artesunate as one of the three ACTs for malaria treatment in Africa.c As a result, it is currently estimated that amodiaquine-containing ACT accounts for 30% of ACTs taken by adults with malaria in Africa.
+The 2008 Global Malaria Action Plan states "There has been a remarkable adoption of ACTs in sub-Saharan African countries: in 2003, only two sub-Saharan African countries had adopted ACTs; as of September 2007, all sub-Saharan African countries except Swaziland and Cape Verde have adopted ACT policy.
+"d This is having an on-going impact on the treatment of uncomplicated malaria across Africa.
+WHO recommendation for replacement of monotherapy with ACTs in P. falciparum malaria.
+The analysis of ACT safety and efficacy in 2004 provided unequivocal evidence (70% more patients cured with artesunate combination treatments than with monotherapy; meta-analysis of 16 trials) that ACT was more effective in treating malaria than the single antimalarial drugs alone.
+This led the WHO Expert Panel to recommend strongly in its 2006 guidelines that countries should stop using monotherapy.c Garner was the methodologist on the WHO Guideline Panel and drafted the evidence box for these guidelines.
+Evidence provided by the LSTM team led to the Global Recommendation in 2010 to replace monotherapy with combination therapy and also supported other WHO recommendations for treating uncomplicated and complicated malaria.e, f Introduction of ACTs is the most important treatment advance in malaria this century.
+This decision led to a massive increase in the manufacture and testing of co-formulated products and has probably been critical in reducing mortality from malaria globally.
+There were an estimated 11 million ACT treatment courses purchased in 2005, an estimated 287 million ACT treatments were purchased in 2011 as documented in UNITAID's Malaria Response.g (UNITAID is a global health organisation hosted by the WHO that uses innovative financing to increase funding for greater access to treatments and diagnostics for HIV/AIDS, malaria and tuberculosis in low-income countries).
+Dihydroartemisinin-piperaquine added as a treatment option for malaria.
+During the development of the WHO malaria guidelines, the LSTM team was commissioned to assess new ACT treatment options.
+In the Cochrane review prepared for the WHO Guidelines panel, the analysis showed clearly that the dihydroartemisinin-piperaquine combination drug had failure rates of less than 10% and consistently performed as well as and often better than other ACTs, which led the panel to recommend it as a new option for treating malaria.
+The Medical Officer from the WHO's Global Malaria Programme confirms the new recommendations in the 2010 addition of the Malaria Treatment Guidelines, are based on the findings of these systematic reviews.
+h Artesunate recommended for severe malaria.
+At the 2010 Guideline review panel, the Cochrane Review of artesunate versus quinine was considered; this review showed that artesunate produced a 38% reduction in mortality in adults with malaria, when compared with quinine.
+Thus, the WHO Malaria Guidelines Panel in 2010 recommended that artesunate be used instead of quinine for severe malaria in adults.
+In 2011 a trial of artesunate in children was published and quickly added to the meta-analysis, providing additional data on children; this summary was considered by the Panel, who then recommended its adoption in children.
+f, i Direct impact on the decision-making process of the technical expert group on malaria chemotherapy and beyond.
+Paul Garner introduced systematic reviews and meta-analysis to malaria, against all the advice of experts in the field (who said that malaria was so varied that the methods were not appropriate).
+The early reviews on the efficacy and safety of amodiaquine and ACT indicated that rigorous up-to-date scientific reviews could drive policy and led the WHO to move from consensus decision making to evidence-informed approaches.
+Whilst this is part of a global movement, the LSTM team was instrumental in the introduction of evidence-informed approaches to decision making on malaria guidelines.h, j This is reflected by the fact that WHO routinely turns to the LSTM for Cochrane reviews, summaries and GRADE analyses.
+Importantly, malaria guidelines that are based on an externally validated tool have been demonstrated to be among some of the best WHO guidelines in terms of quality, as indicated by high quality scores using an international assessment tool (AGREE).j The reputation of the LSTM led the Director-General's office of the WHO to ask the team to evaluate progress in evidence-based guideline development across the whole organization.
+The findings of the WHO guideline development evaluation were presented in 2013.
+In addition, the paper was presented to the WHO Senior Management Team, which is the highest decision-making body in the organization, and includes the Director General.
+This was then used to help refine and reinforce policies within the organization in relation to guidelines, and to extend quality assurance processes to other aspects of WHO publications.j

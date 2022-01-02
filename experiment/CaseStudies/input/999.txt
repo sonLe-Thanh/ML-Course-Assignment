@@ -1,0 +1,48 @@
+     Based on the research described above, Schallware GmbH developed an       ultrasound simulator that allows clinicians to practice diagnostic       scanning under realistic conditions using a library of normal and       pathological cases.
+A dummy probe is moved over a dummy torso to generate       the relevant ultrasound images on the simulator screen, just as would be       shown on an ultrasound machine screen for a real scan.
+In May 2007, Schallware bought a one-off source-code licence for the       DoEng Stradx software, which was arranged through Cambridge Enterprise, to       provide a starting point for the development of their product.
+Stradx       provides tools for acquisition, visualisation and measurement of tracked       3D ultrasound, and all of these are important components in the Schallware       system.
+The Schallware General Manager says: "The benefit of Stradx         source was the access to a huge collections of ideas", and for the       development of the Schallware product he says: "our [i.e.
+the         Schallware] software development started with Stradx source for         acquisition and simulation application".
+He continues: "With         Stradx source we maybe avoided wrong development paths and could         establish in short time a first prototype.
+About that I am still lucky         [sic]."
+[7]     Since the start of 2008, Schallware has built up 30 customers in 10       countries including Johns Hopkins University; NAIT, Edmonton, Canada;       Zurich University; Erlangen University; and GMC Dubai, UAE.
+It also has a       leasing business with five simulators being used to run about 25 courses       annually in universities in Germany, Switzerland, the Netherlands and       Belgium.
+Attendees at these courses include clinicians and staff from       pharmaceutical companies such as Merck, Sharp, Novatis and Dohme.
+The       Schallware General Manager, estimates that 2,400 clinicians have been       trained in these courses alone (i.e.
+not counting the 30 customers with       their own Schallware system).
+Revenue from Schallware's 3D ultrasound       simulators was EUR250k in 2011 and EUR300k in 2012.
+MedaPhor Limited is a supplier of simulator software that integrates with       a variety of ultrasound systems to enable sonographer training without the       need for a human subject.
+The training system needs large and       comprehensive datasets to provide the breadth of scans that a trainee       sonographer needs to practise.
+In January 2011, MedaPhor bought a one-off licence through Cambridge       Enterprise for the DoEng Stradwin ultrasound acquisition system and       software code-base to help it build an accurate three- dimensional       ultrasound atlas for their clinical training system, ScanTrainer.
+Stradwin       allows for the rapid acquisition and integration of these datasets into       the MedaPhor software.
+The time taken to produce a single dataset and make       it ready for training use is now approximately two weeks as a result of       having the volume of high-resolution data and necessary positional       information.
+Before the purchase of Stradwin, the production of such a       dataset took in the region of three months.
+MedaPhor has specifically stated that spatial calibration, such as that       described in reference [1], was key to achieving the required accuracy.
+As       a consequence this was fundamental to their ability to acquire accurate       data from multiple patients.
+The real-time acquisition and visualisation tools described in reference       [3] increased the efficiency of their workflow by enabling the quality and       appropriateness of 3D data to be checked immediately after recording.
+MedaPhor also use Stradwin for data alignment [5] and volume measurement       [4] because Stradwin's algorithms have been designed specifically to       address the challenges presented by the structure of 3D ultrasound data.
+They therefore out-perform other more generic tools.
+The Stradwin software has proved to be a flexible platform with a sound       architecture that MedaPhor now use as a basis for much of their work.
+MedaPhor's Chief Technical Officer [8] says that the purchase of Stradwin       was a key positive step in the development of the company and they could       not have achieved their current success without it.
+MedaPhor's customers       include Birmingham Women's Hospital, St James's University Hospital Leeds,       Yale University, the Karolinska Institute (Stockholm) and the Fremantle       Institute (Western Australia).
+As at April 2013, MedaPhor had sold over 50 units in 9 countries.
+MedaPhor estimate that, in the UK alone, more than 500 people to date       (June 2013) have trained using ScanTrainer during the REF impact period.
+Revenue from its 3D ultrasound simulators was GBP362k in 2011 and GBP739k       in 2012.
+The systems provided by both Schallware and MedaPhor enable trainee       clinicians to perform clinical ultrasound scans relating to a wide variety       of different examination protocols and different pathologies.
+The trainees       gain a breadth of experience together with a quality of objective feedback       that would not be possible without these training systems.
+A Professor at       Rigshospitalet, Copenhagen University Hospital, said of the MedaPhor       system: "We are certain that the ScanTrainer will be a great tool for         acquiring some of the necessary skills before examining the patients."
+[9]     Binary versions of the DoEng software are also available for       free-download on the web: Stradx since 1997 and Stradwin since 2004.
+Both       systems are used by a wide variety of academic and commercial research and       development organisations.
+In the last five years, the use of Stradwin as       a research tool has been mentioned in 51 publications with no co-authors       from the Cambridge group.
+For instance, a lecturer at the University of       Queensland used Stradwin as a tool in his work and stated: "We         routinely use Stradwin in our research laboratory as a tool for         measuring structural properties of muscle and tendon in applied clinical         research.
+Stradwin is not only a stable platform for undertaking         freehand 3D ultrasound measurements, but it provides us with all of the         advanced analysis tools we require, including volume reconstruction and         quantifb01cation, 3D length measurements, re-slicing to examine multiple         planes and more recently 3D elastography.
+For example, in 2009, we used         it to compare medial gastrocnemius muscle volume, physiological         cross-sectional area (PCSA), muscle length, fascicle length, and         pennation angle in children aged 2 to 5 years with spastic cerebral         palsy (CP) and in typically developing children...3D ultrasound and the         Stradwin software allowed us to make scans to children's muscles in         seconds and therefore meant that children did not have to be sedated, as         would have been the case for other imaging modalities such as magnetic         resonance imaging (MRI).
+The work showed the need for early intervention         in order to minimize loss of muscle PCSA in spastic CP.
+This insight has         provided valuable feedback to staff treating children at the Hugh         Williamson Gait Analysis Laboratory, the Royal Children's Hospital,         Melbourne.
+This work also resulted in a high-quality publication in         Developmental Medicine &amp; Child Neurology in 2011 and makes this data         available to hospitals around the world.
+A further study (2009) has         showed the effects of Botulinum Toxin (Botox) injections on muscle         development in these young children with CP...and has prompted a new         randomised controlled trial at Royal Children's Hospital in Brisbane to         determine whether Botox injections may have a deleterious effect on         muscle development.
+We have 4 similar examples from our work since 2008         that have resulted in publications in high-quality journals.
+The         provision of this software has had a signifb01cant effect on the speed         and quality of our efforts and their translation to clinical practice.
+Many other collaborators in our fb01eld, both academic and clinical, now         also use Stradwin as the standard foundation for their work."
+[10]

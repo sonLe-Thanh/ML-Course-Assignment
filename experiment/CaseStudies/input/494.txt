@@ -1,0 +1,32 @@
+     Manufacturing, public services, humanitarian aid - many operations in       daily life depend on solving logistical challenges and optimising use of       resources.
+Some problems have been found over decades to be mathematically       intractable, not solvable in reasonable computation time.
+One set of       optimisation problems is defined by conditions of volume and value.
+Known       as the `knapsack problem', at its most simple it describes the burglar's       dilemma: which valuable things should be put in the loot bag?
+But it has       application wherever maximum return on investment, or getting maximum use       from limited resources, is an issue, including investment portfolios,       transport, pharmacy, retail etc.
+This case study describes the       breakthroughs that Strusevich and Kellerer have made at the intractable       end of knapsack problems.
+With research of this type, the route to impact       on the factory floor or field of operations is not always direct.
+In this       case, the impact lies in making the new knowledge available through       peer-reviewed publications and conferences - used by industry and       consultancies as well as fellow academics - which stimulates further       research and application.
+Here we outline the evidence that the research       is useful.
+The research focuses on obtaining approximation algorithms and schemes       for knapsack and scheduling problems, as well as on determining classes of       non-linear knapsack problems that admit strongly polynomial algorithms for       their continuous relaxation.
+It is an example of successful collaboration       between Scheduling and Mathematical Programming specialists, with       beneficiaries from both these areas.
+Specialists in Scheduling Theory and       its applications will benefit from a unified and efficient framework for       handling several classes of hard-to-solve problems.
+On the other hand, the       researchers that specialise in Integer Non-linear Programming will receive       approx- imation techniques that the area definitely lacks at the moment.
+Similar benefits will be provided by the fast algorithms for solving       continuous relaxations of non-linear problems.
+The techniques used for       designing the FPTASs will interest researchers in Theoretical Computer       Science.
+The area covered by this case study is vibrant and developing fast, with       almost no history prior to 2005.
+Several established research teams are       competing in the area.
+The team consisting of Profs Strusevich and       Kellerer is an initiator and still can be seen as holding the leading       position.
+They started reporting their findings related to this case study in 2005.
+As an invited speaker, Prof Strusevich made a presentation at the       conference of the European Chapter of Combinatorial Optimization in 2005,       the main annual forum of European researchers in Combinatorial       Optimization.
+There is a strong interest in our work from applied       researchers and practitioners; for example, Prof Kellerer gave an invited       talk at the 39th International Conference on Computers and Industrial       Engineering in 2009.
+Besides, the members of the team have delivered       several invited talks at research meetings and seminars in the UK, France,       USA and Hong Kong.
+There is strong evidence that the obtained results which link scheduling       problems with knapsack models have already had a noticeable impact on       Combinatorial Optimization and adjacent areas of research.
+For example, as       shown by the Strusevich-Kellerer research, in order to be able to convert       an FPTAS for the quadratic knapsack problem into an FPTAS for the       corresponding scheduling problem, the latter must admit a constant ratio       approximation algorithm.
+This fact has stimulated the interest to the       development of such approximation algorithms, and several papers by       various research teams that include academics from France, Germany, Italy       and the Netherlands appeared almost simultaneously in 2008-2010 [5.2, 5.4,       5.8, 5.9].
+Since 2005 we have been reporting on various stages of the development of       an FPTAS for a single machine scheduling problem to minimize the weighted       sum of the completion times by adapting an FPTAS for the quadratic       knapsack problem.
+Several research teams have contributed towards the       design of faster, purpose-built schemes for the problem [5.3, 5.4, 5.6].
+In 2006 Kellerer and Strusevich published a paper on a single machine       problem to minimise the total weighted tardiness with respect to a common       due date, where we reduced the problem to a version of a quadratic       knapsack problem and designed an FPTAS for its solution.
+This publication       was followed by Karakostas et al [5.6] who extended our approach to the       problem with a fixed number of due dates, and by Kacem [5.3], who       presented an FPTAS with an improved running time for the initial problem       with a single due date.
+Along with the Strusevich-Kellerer team, academic groups from the       Netherlands and China independently use various mathematical programming       reformulations (linear and quadratic) for scheduling models with       speeding-up resources [5.1, 5.7], evidence of wider interest in this       field.
+In most of the scheduling applications, Strusevich and Kellerer use a       version of the SQKP with a convex objective function to develop fast       approximation schemes.
+Recently Z. Xu has proved that in many case the       assumption of convexity can be relaxed, since the SKQP in the general form       admits an approximation algorithm with a polynomial worst-case ratio.

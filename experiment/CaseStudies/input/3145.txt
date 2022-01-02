@@ -1,0 +1,28 @@
+     Since the publication of PROBE in 2001, the NHS has included evaluation       as a central element of major IT projects.
+Furthermore, as recommended in       PROBE, evaluation is undertaken formatively in parallel with system       implementation, rather than as afterthought when a system fails to deliver       benefits.
+PROBE is seen as a popular evaluation methodology, and is widely       used in the UK.
+A recent example of its application (which forms the basis       of the claimed impact) is the Blood Safety Tracking System.
+The PROBE methodology was used between 2007-2010 to design the evaluation       of a pilot project intended to reduce the number of deaths due to       inappropriate blood transfusions.
+Between 1996 and 2004, five patients       died as a result of receiving incompatible blood during transfusions, and       incompatibility contributed to the deaths of a further nine patients, and       caused major illness in 54 patients [C].
+In November 2006, the       National Patient Safety Agency (NPSA) issued a national specification,       giving guidance on how to ensure that patients receive blood that is       correctly cross-matched for them, and titled "Electronic Clinical       Transfusion Management System (ECTMS)".
+The NPSA set a goal of reducing       the number of incompatible transfusions by 50% over 3-5 years (from       January 1 2005) [A].
+The NHS Connecting for Health Evaluation Programme (CFHEP) funded a pilot       study at Croydon Health Services (Mayday) Healthcare NHS Trust, the main       objective of which was the deployment of an Electronic Blood Tracking       System that complied with the ECTMS specification.
+PROBE was used (in conjunction with another methodology) to design the evaluation         of this pilot study [B], which ran from 2007 until 2010.
+This evaluation process covered aspects such as the implementation and       installation of the system, project management, changes in clinical and       other working practices required to implement the system, the response of       clinical and other staff to the system, patient perception, the       efficiency, effectiveness and reliability of the system (particularly in       terms of ensuring the correct matching of patients and blood) and any       problems identified with the system or its use.
+PROBE was used in [C] to "explore, guide and provide context to       the quantitative analysis."
+This gave a detailed picture of stakeholder       views and organisational processes involved in the pilot, and highlighted       important factors such as the need for effective change management (almost       2000 people were involved in the new system), and the need for adequate       supplier representation at high-level project meetings.
+The pilot study overall final report, "Right Patient Right Blood", was       published in September 2011 [D].
+Specific benefits of the system       identified in the report included improved patient safety (through       identification during bedside checks), better monitoring of blood         movement, and better management of blood stocks.
+A       significant finding of the formal evaluation process [C] was that       the time required to resolve "blood alerts" (corresponding to possible       problems with transfusion) fell from 123 hours in the initial period of       live system usage to around 30 minutes per alert by August 2010.
+Head of Patient Safety at the NPSA, stated that "The NPSA welcomes this       report on the pilot of the ECTMS ...
+The lessons learned will be         useful for all NHS organisations implementing systems to improve the         safety of blood transfusion."
+[E]     The precise impacts we claim for PROBE, therefore, include       changes to the delivery of a public service, benefits from public service       improvements, adoption of new processes, and improvements to patient       health outcomes.
+The direct policy impacts of the work are still         ongoing, as evidenced below:     Testimonial by The Head of Patient and Public Partnerships, NHS         Connecting for Health (supplied in Autumn 2012):     "Evaluation of public sector Information and Communication Technology       projects is often overlooked or done without due recognition of the       complexity of the scheme.
+The work of Heather Heathfield developed the       multifactorial evaluation approach PROBE (Project Review, Objective       Evaluation) in two ways.
+Firstly, by focusing upon evaluation questions       which are important to electronic health record projects.
+Secondly, by       providing more detailed information about how to evaluate, including a       review of the various tools and techniques available, with information to       assist the reader in applying these appropriately.
+This greatly         improved understanding of ICT projects.
+The approach is easily       understood by lay people, and ensures that more equitable comparisons can       be made.
+PROBE was used systematically by most of the 17 different       projects that were part of the Electronic Record Development and       Implementation Programme.
+This evaluation data is still being used,         informing the development of the current Information Strategy (The Power         of Information)" [F].
+This information strategy from the       Department of Health, published in 2012, sets a ten-year framework for       transforming information for the NHS, public health and social care.

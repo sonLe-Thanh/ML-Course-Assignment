@@ -1,0 +1,20 @@
+     The overall impact of this work has been to avoid the unnecessary use of       stem cell transplantation       in adults with acute leukaemia by identifying those who are most likely to       benefit from this       procedure.
+Impact on guidelines and clinical practice     Following the publication of the results of the AML 10 and 12 trials,       jointly devised by researchers       at UCL and Glasgow (subsequently Cardiff), the consolidation of first       remission AML with an       autologous stem cell transplant has ceased in the UK and most other parts       of the world.
+An       allogeneic transplant from a matched sibling had been the treatment of       choice for consolidation in       first complete remission, but we were able to show that this should not be       carried out in patients       with good risk cytogenetics, classified according to a system developed at       UCL and known as the       MRC classification.
+By a series of sequential biomarker studies carried       out at UCL, we have been       able to further subdivide patients into specific prognostic categories       according to the presence and       level of specific mutations.
+This allows low risk patients to be spared an       allogeneic transplant and       this risk classification has been incorporated into treatment algorithms       throughout the world.
+Such       use of molecular biomarkers is now standard of care in the UK and is used       to stratify patients in the       current UK AML17 trial [a].
+The results of our research underpin European guidance on AML produced by       the European       Leukaemia Network [b].
+These guidelines are signposted by the       British Committee for Standards       in Haematology [c].
+US National Comprehensive Cancer Network       guidelines for the treatment of       AML also cite our work [d].
+In ALL, the demonstration that autologous transplantation has no role in       the management of this       disease means that this treatment is no longer used in the UK and further       afield.
+The results of       ALL12 are widely cited in justifying treatment recommendations for adult       ALL in the US (NCCN)       and European (ELNET) guidelines [e, f].
+Impact on the health of individuals     By defining the patients most likely to benefit from HSCT, this research       has had a significant       impact on individual health.
+For AML, these results have influenced       clinical practice in the       developed world since approximately 1999 and for ALL since 2004.
+Importantly, patients unlikely to       benefit from HSCT can be identified &#8212; in adult AML, using the combination       of cytogenetic and       molecular markers, about 400 patients per year in the UK can be spared       consideration of an       allogeneic HSCT in first remission (based on UK AML incidence data in       under 65 year olds who       would be transplant-eligible [g] and breakdown of AML into       prognostic categories [h].)
+The       equivalent figures per annum for the USA and the European Union (excluding       the UK) are 2,000       and 3,000 respectively [i].
+Avoidance of HSCT reduces the       significant risks of treatment-induced       toxicity and mortality and improves the quality of life for patients being       treated for acute leukaemia.
+Economic benefits     An allogeneic transplant from a matched sibling currently costs       approximately &#163;70,000 to the NHS       and the cost of an autologous transplant is approximately &#163;35,000.
+In AML,       the avoidance of 400       allogeneic HSCT by risk stratification is a potential saving of &#163;28m per       annum.
+Although harder to       quantify, avoiding HSCT may have a significant positive impact on the       economy more widely, as       patients avoid treatment-related mortality and chronic disability which       may be associated with       HSCT.
+In ALL, approximately 100 adult patients per year could be treated       with an autologous       HSCT and the demonstration that this is not necessary by the ALL12 study       is a potential saving of       &#163;3.5 million per year [j].

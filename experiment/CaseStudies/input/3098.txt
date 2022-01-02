@@ -1,0 +1,42 @@
+     See section 5 for numbered corroborating sources (S1-S9).
+Quantitative prediction of human PK has made huge strides over the last       two decades, largely through the efforts of the CAPKR group (Rowland,         Houston, Aarons).
+Pioneering work demonstrating how information       gathered during in vitro studies in cell cultures or sub-cellular       fractions obtained from human tissues can be routinely generated and       employed within PBPK models continues to be carried out within CAPKR (Houston,         Rostami-Hodjegan, Galetin).
+Mechanistic translation of preclinical       data and prediction of human PK is fundamental for candidate drug       selection, first-in-human dose projections, improved design of clinical       trials and increased patient safety.
+Pathways to Impact     A clear distinction evident in CAPKR research is its impact via its       continuity and cumulative effect, rather than via sporadic and rare high       impact articles.
+This has been possible through continuous support by       industry both collaboratively and financially (&gt;&#163;11m) enabling the       group to have long term plans to progress many different interconnected       areas rather than focusing on isolated short term objectives.
+The       scientific leadership has attracted one of the major commercial providers       of simulation tools in the field of PBPK/IVIVE, Simcyp&#174;, to       seek input from the group in the form of Scientific Advisory Board chair       and membership (Rowland, Houston) and part-time secondment for       R&amp;D Director (Rostami-Hodjegan).
+Members of the group serve on European committees, various national       medical research grant bodies and UK government Committee on Toxicity of       Chemicals.
+Their views are sought by government regulatory organisations       (e.g.
+FDA (Federal Drug Administration) and EMA (European Medicines       Agency), responsible for producing guidance to the pharmaceutical industry       on the conduct of appropriate safety and efficacy studies prior to       licensing new drugs).
+One other notable output from CAPKR is the number of       postgraduates and postdoctoral associates who have gone on to senior       positions in the international pharmaceutical industry.
+Reach and Significance of the Impact     The high volume of research from the CAPKR consortium has provided the       scientific basis of human PK prediction which has been adopted by leading       scientists and maintained CAPKR's prominence as a centre of excellence in       DMPK.
+The impact of CAPKR's body of work can be viewed at 3 levels:     1.
+Government Agencies responsible for registration and       regulation of drugs in Europe and the USA.
+The modelling and simulation       perspectives and predictive methodologies developed and expanded within       CAPKR now form integral parts of new regulatory framework, including       assessment of DDIs.
+Several recent publications by the FDA have been       co-authored by CAPKR members (e.g.
+ref 2 above).
+Specific examples of       impact are evident in numerous citations to our work in recent "position       papers" from the FDA &#8212; 18 out of 45 references (40%) in the FDA authored       PBPK paper, "Applications of Physiologically Based Pharmacokinetic         (PBPK) Modeling and Simulation During Regulatory Review" (S1) and 5       out of 48 (10%) in the DDI paper, "Predicting Drug-Drug Interactions:         An FDA Perspective" (S2).
+Supporting letters are provided outlining       the CAPKR impact within policy making in the Medicines and Health Care       Products Agency (MHRA)/EMA and the FDA (S3, 4).
+The letter from the Expert       Pharmacokinetics Assessor at MHRA asserts CAPKR "has supported and         influenced European regulatory practice in a number of ways..." and       goes on to say "the biggest impact that I notice on a daily basis is on         the approach to evaluation of drug-drug interactions for new medicines"       (S4).
+The letter from FDA Deputy Director, Office of Clinical Pharmacology       provides a breakdown of areas in which CAPKR work has influenced FDA and       asserts CAPKR "have greatly impacted the regulatory scientific         approaches and review recommendations" (S3).
+2.
+Best practices within the Pharmaceutical Industry.
+In addition       to letters supporting this case [S5,6], various contributions to joint       working parties between the FDA and the pharmaceutical industry can be       cited.
+In the "position paper" from PhARMA &#8212; Pharmaceutical Research and       Manufacturing of America (S7), in relation to mechanism-based metabolic       DDI, 11 out of 77 references (15%) are CAPKR publications.
+Also CAPKR's       influence is evident through membership of expert panels, e.g.
+Galetin       leads the International Transporter Consortium PBPK modelling group       responsible for preparation of `white' papers on best practice for       transporter kinetics and translational modelling.
+The paradigm shift in the way the pharmaceutical industry operates due to       CAPKR's promotion of in vitro techniques for extrapolation to       humans and other animal species has impacted substantially on the       reduction in usage of animals in research (S8).
+This is manifested in the       letter by the Vice President of Drug Metabolism and Pharmacokinetics in       GSK when he says: "The future drug metabolism and pharmacokinetic         paradigm will be model first, experiment in vitro second, translate         to humans and only as a last resource conduct animal studies.
+I believe         CAPKR share this view and have been conducting the basic research that         enables the building blocks for such a future" (S5).
+3.
+Spin out companies.
+Initial applications of the above       prediction and analysis methodologies were used in a spun out phase one       contract research company, Medeval, initiated by Rowland under the       auspices of the University.
+Medeval was eventually bought out by venture       capitalists and then acquired by Icon Ltd, which has a strategic       relationship with the University.
+Medeval was awarded a Queen's Award for       Enterprise in International Trade in 2002.
+After 10 years of trading, it       had a turnover of around &#163;10.5m pa and employed 180 staff.
+The implementation of PBPK modelling has provided opportunities for       commercialisation and wider use of various software packages as simulation       tools, in particular Simcyp&#174;.
+Simcyp&#174; employs 70       members of staff and was acquired by the translational life sciences       company CertaraTM for US$ 32m in 2012.
+It received the Queen's       Award for Enterprise in International Trade in 2010 and an ethical science       award `Outstanding Scientific Contribution to Animal Replacements' from       the Dr Hadwen Trust for Humane Research in 2009.
+This product is used by       18 of the top 20 Pharmaceutical companies.
+Predictive models developed in       CAPKR are also incorporated into other widely used PBPK software such as       GastroPlusTM (Simulation Plus), Cloe- PK (Cyprotex) and PK-Sim&#174;       (Bayer Technologies Ltd).
+A supporting letter outlining CAPKR's       impact is provided by the Vice President of Technical Sales Support and       Consultancy Services for Certara which states "CAPKR's international         reputation lead to the formation of Cyprotex which was spun-out and         floated in 2001 and is now one of the world's largest in vitro DMPK         screening CROs" (S9).

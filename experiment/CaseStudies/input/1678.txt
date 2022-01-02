@@ -1,0 +1,46 @@
+     The analysis and control of material properties down to the atomic scale       is becoming increasingly important for a range of research and       applications in both academia and industry.
+As a consequence, there is an       increasing demand for laboratory techniques able to image materials and       map their properties (e.g.
+composition and chemistry) down to atomic       resolution.
+Aberration-corrected electron microscopy provides the atomic       spatial resolution and information on structure, boundaries and defects,       while EELS and x-ray spectroscopy provide information on the composition       and chemistry in perfect spatial registration.
+Gatan Inc. was established almost 50 years ago and is considered the       world's leading supplier of analytical equipment and software for       enhancing and extending the operation of electron microscopes.
+Gatan's       products are designed to fit all major brands of transmission and scanning       electron microscopes and to provide users with extended features ranging       from specimen preparation to imaging and analysis.
+The company has       extensive market penetration in industry and academia.
+Gatan supplies over       80% of all new EELS systems worldwide.
+In the general context of       intermediate voltage (200/300kV) TEMs, Gatan analytical products are found       on over 30% of all such instruments delivered in 2012.
+Information obtained by DualEELS&#8482; is crucial to the development of future       materials and devices needed to provide the next generation of disruptive       technologies that will allow the phenomenal improvement in performance       seen in recent times e.g.
+as in Moore's Law in the computer field.
+The       industries supplying computer components are key examples.
+The Si (O,N)       gate dielectric layer in current Si-based MOSFETS used in applications       such as computer CPUs has only ~5 Si atoms across it.
+The oxide layer in a       spin tunnel junction used in the read head of a magnetic hard disc is only       5 to 10 atoms across.
+Hence development of new products and routine       quality control and failure analysis for production of existing products       in these multibillion dollar industries require techniques able to produce       atomic scale information on the structure, composition and chemistry of       the materials used.
+The importance of DualEELS&#8482; in this field is       demonstrated by a joint presentation by AMD and Gatan at the Electronic       Device Failure Analysis (EDFA) Lonestar meeting in April 2013 entitled "High-speed         EELS Analysis of Semiconductor Devices".
+This presentation clearly       demonstrates the major advantages provided by DualEELS&#8482; in this area and       explains its enthusiastic adoption by this sector.
+Other sectors where materials analysis at the nanoscale is crucial and       where DualEELS&#8482; is being used include catalysis, ceramics and metals,       among many others.
+The main benefit of using EELS is the ability to obtain fully       quantitative information about a wide range of material properties such as       the local thickness, dielectric function, material bandgap,       electromagnetic excitation modes of nanoparticles, relative composition,       absolute number of atoms per area and per volume, the local chemistry and       both the charge and magnetic state of ions.
+However, the ability to       extract all this information is dependent on the acquisition of the whole       energy loss range under the same experimental conditions to ensure       accurate energy calibration and to allow correction for the effect of       multiple inelastic events and for elastic scattering outside the       spectrometer.
+DualEELS&#8482; provides this capability for fast spectrum       imaging.
+The fast shutter also makes operation of the whole microscope       system much easier.
+For instance, the STEM imaging conditions can be set       independently of the spectrometer conditions, which is crucial at atomic       resolution, since any change in the optics requires the corrector to be       re-tuned, which takes a very significant time.
+In response to customer demand, in 2009 Gatan launched its GIF QUANTUM&#174;       electron spectroscopy system, the first instrument on the market to       incorporate the Glasgow DualEELS&#8482; concept and electrostatic shutter along       with a range of other new innovative features from Gatan.
+Following the       GIF QUANTUM&#174; success, Gatan launched the ENFINIUM&#174;       system in 2011 to meet the demands of another, more specialised segment of       the electron microscopy market.
+DualEELS&#8482; in these systems can record over       1000 spectra/sec and so 1000 x 1000 pixel spectrum images can be recorded       in as little as 20 minutes and smaller ones correspondingly faster.
+Thus       data from regions containing key features such as precipitates,       interfaces, boundaries or defects can be recorded down to atomic       resolution in realistic times.
+As an example, such information is of       particular relevance in the development of novel materials such as       multiferroic oxides which couple electric and magnetic ordering with       potential for sensors, actuators and data storage.
+The GIF QUANTUM&#174; and ENFINIUM&#174; are extremely       successful product lines for Gatan, resulting in an increase in the number       of installation/maintenance engineers of ~10% worldwide and a similar       increase in support staff in production.
+The list price for the GIF       QUANTUM&#174; is in the range US$510k &#8212; 820k depending on the model.
+Gatan sold over 65 GIF QUANTUM&#174; systems to customers worldwide       in 2010 and over 80 in 2011 and the numbers continue to rise.
+More than       70% of systems requested by customers in 2012 have the DualEELS&#8482; options.
+In terms of sector breakdown, roughly 50% of systems are purchased by       universities, 25% by research institutes and 25% by industry.
+The biggest       segments of the industrial market are semiconductors (AMD, Intel,       Samsung), data storage (WD, IBM, TDK) and catalysis (Michelin, Corning).
+Although the direct economic impact of Glasgow's research to Gatan is       easily quantifiable, it is much harder to map how this has spread to the       broader user community and how the technique has enabled not only new       scientific discoveries but also improved processes and products in       different industrial sectors.
+While major companies in sectors such as semiconductors, data storage and       catalysis can justify the purchase of DualEELS&#8482; systems, many others       require the information and analysis possibilities they offer.
+We give two       examples of companies who have extended their capabilities using Glasgow's       DualEELS&#8482; system.
+The zirconium alloy, Zircaloy, is of huge significance to the safe       containment of highly radioactive nuclear fuels in power generation       systems.
+Understanding the corrosion process at the nanoscale in Zircaloy       is key input to predictive modelling of the safe operating lifespan of the       current generation of nuclear reactors.
+In collaboration with Dr Gass of       AMEC, we have used the DualEELS&#8482; system in Glasgow to give previously       unobtainable information on the reaction layers formed in the complex       oxidation process by which Zircaloy corrodes in a pressurised water       reactor.
+Using such information to validate predictive models of safe       operating lifespan is a crucial step in achieving the aim of energy       company, EDF, to extend the lifetime of the Sizewell B nuclear reactor by       20 years.
+The second example is the study of precipitation in high manganese       steels, in collaboration with ThyssenKrupp Steel Europe AG.
+Using our       DualEELS&#8482; system, we have developed a new technique that allows us to gain       key information on the precipitate when in situ in the matrix.
+This not       only gives information on the structure, composition and chemistry of       nanometre sized precipitates but also their size in three dimensions,       allowing their relationship to the surrounding steel matrix and its       defects to be studied.
+Such information is essential to allow the       development and validation of accurate models relating processing to       nanostructure so that suitable precipitate distributions for optimal       mechanical properties are achieved.
+This will play a key part in the       development of high strength steels for the automotive industry leading to       more fuel-efficient transport.

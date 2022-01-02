@@ -1,0 +1,49 @@
+ Fisher served as election forecaster for the BBC throughout the period (2008-2013).
+The BBC employed him for a total of seventy days to provide prediction and analysis for elections to the Westminster Parliament in 2010, the Scottish Parliament in 2011, the Welsh Assembly in 2011, the European Parliament in 2009, the Greater London Authority and London mayoralty in 2012, for the Alternative Vote referendum in 2011, and for local elections every year.
+As the BBC's Election Results Editor summarizes, Fisher `provides the statistical computing that produces the exit poll prediction on the day and also the constituency results based forecast overnight.
+His research is important not just in providing the data and figures, but also in informing the preparation work for how the exit poll should be conducted and what [can be said about it], and when it is possible to draw conclusions from it.'
+[C2].
+The 2010 General Election is the focus of this case study.
+BBC, ITV, and Sky News placed such importance on forecasting the election that they unusually commissioned 18,000 interviews with voters at 130 polling sites.
+This must have cost well in excess of &#163;100K, though the actual financial cost of the exercise is confidential.
+Based on these interviews, Fisher applied the methods developed through his research with Curtice and Kuha [R4] to produce a forecast as the polls closed at 10pm.
+As most of the data from exit polls arrived in the evening, this analysis had to be produced speedily, 15 minutes after the final batch of data arrived.
+After 10pm, the BBC deployed Fisher to provide results-based prediction and analysis.
+The forecast was broadcast by all three news channels at the close of polls.
+The prediction that the Liberal Democrats would end up with fewer seats than in 2005 was immediately controversial.
+Most commentators dismissed it as implausible, given the party's momentum in the weeks before the election.
+Paddy Ashdown (former leader of the Liberal Democrats) referred to `fairyland figures' [C3], while Iain Dale (prominent political commentator) promised to `run naked down Whitehall if that turns out to be true' [C4].
+These quotations reveal how strongly entrenched mistaken opinion-poll-based expectations were, and so how shocking the exit poll prediction was.
+The remarkable accuracy of the exit poll prediction was fully clear approaching breakfast time the next day: the number of Conservative seats was predicted perfectly, while overall the forecast was just three seats out.
+The key beneficiaries of this research were:   The media, who, as a result, were able to report in both an accurate and timely fashion on the outcomes of the election, improving the quality of their programmes and their reputation among their competitors.
+According to the BBC's Head of Political Programmes, `the reputation of all three broadcasters, particularly the BBC, rests on producing an accurate exit poll result' [C1].
+Predictions about the final outcome set the agenda for broadcasters to discuss the election and its political implications; this dominates programming after 10pm on election night.
+Thus, thanks to Fisher's exit poll analysis, interviewers were able to accurately query guests from the Liberal Democrats as to why they had not improved on their 2005 performance rather than mistakenly congratulating them in anticipation based on opinion-poll predictions.
+In addition, Fisher's statistical analysis enabled broadcasters to discuss the electorate's political choices in a more detailed and authoritative way.
+For example, the exit poll showed that Labour was particularly successful where it had an incumbent MP and where ethnic minorities were concentrated.
+Thanks to the nuances revealed by the research, broadcasters were able to describe these detailed patterns and invite various interviewees to explain them.
+These detailed patterns are also important for understanding whether the early results, which mainly come from urban northern Labour constituencies, are in line with the exit poll predictions for that kind of seat despite being atypical of the average constituency.
+This enables the broadcasters to retain confidence in the exit poll prediction despite popular but na&#239;ve `swingometer' predictions suggesting a different outcome based on a biased set of early results.
+The exit poll continues to inform early results based forecasts until a wide variety of different kinds of seats have been declared, which happens as late as 4am the morning after.
+Thus the exit poll is valuable to the media not only before results are declared but also well after.
+`One of the BBC's core public purposes is to sustain democracy and civil society', as the Head of Political Programmes emphasizes.
+`Reporting of politics and elections, and the election results programmes particularly, are a key part of fulfilling this public purpose.'
+[C1].
+The Oxford-based research played a `vital' part in contributing to this mission [C2].
+The election forecast reached an audience of several million.
+ITV1's election programme attracted a total of 1.3 million viewers, while Sky News averaged 0.4 million [C5].
+BBC One's programme Election 2010 was watched by 6.6 million at its peak, and the BBC's overall television coverage of the election reached a total of 17.7 million [C6].
+The election forecast was the headline news at 10pm on BBC Radio and on the BBC News website, which was visited by 4 million UK users on election day [C6].
+Attention was also paid by still more people, internationally.
+These figures show widespread interest in the election outcome immediately after the close of polls, demonstrating that election night programmes are extremely important for broadcasters, highlighting their need for the provision of timely and accurate information, especially before the election results come in.
+They also show that the exit poll analysis reached large numbers of people who would not normally watch political programming.
+The Public, who, as a direct result of the programmes that were based on the research, became better informed about the mechanics of the electoral process and the contours of public opinion.
+This is especially significant for people who are not regular consumers of political news, as suggested by viewer numbers above.
+The validation of the exit poll forecast allowed people to see the power of social scientific methods, and may have helped them to establish a level of trust in evidence-based information.
+Those who rightly felt they could place a reasonable degree of trust in the exit poll could go to bed earlier!
+As the Research Strategy Manager from the Electoral Commission notes, "The nature of overnight counting of ballot papers (and, increasingly, the move to daytime counting) results in a delay in the announcement of any election result."
+[C7].
+In 2010 most results were not declared until after 4am the morning after.
+So, "it is important [for the democratic process] not to lose the excitement of election night and the drama of the close of poll.
+Consequently, having the exit poll contributes enormously to the excitement of the evening ... the exit poll [is] a notable achievement and a valuable contribution to electoral politics."
+[C7]

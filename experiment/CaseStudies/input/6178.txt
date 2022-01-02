@@ -1,0 +1,30 @@
+     Sri Lanka has suffered from a chronic oversupply of qualified dentists       for the last 15 years.
+State employment is, in theory, guaranteed to all       Sri Lankan-trained doctors and dental surgeons.
+However, from the early       1990s onwards the Sri Lankan government funded too many university places       in dentistry and as a result has been unable to employ all its qualified       dentists.
+By the start of 2010 there were more than 250 dental surgeons       awaiting government employment, one quarter of the total number of       dentistry graduates.
+Many either left to work overseas or establish       private practices.
+The problem showed no sign of abating.
+Lack of coordination between the       trainer (the Ministry of Higher Education) and the main employer (the       Ministry of Health) persisted and the University Grant Commission, which       decides the number of undergraduates to be trained, was under great       political pressure to increase the intake of dental students.
+Dental       training is the most expensive degree course, not only in Sri Lanka but       also in most developed countries, including the UK.
+This was therefore a       highly contentious political issue about the use of taxpayers' money,       particularly given serious issues over access to dental care for the wider       Sri Lankan population.
+In a country of 20m people, less than two million       visited a state-funded dentist in 2007.
+Moreover, there was a disparity       between the capital Colombo and rural districts, some of which had less       than three dental clinics per 100,000 people, compared with 10 in Colombo,       46 in the UK and 58 in the USA.
+De Silva's collaboration with Brailsford produced a new system dynamics       simulation model of the supply and demand for dental healthcare in Sri       Lanka in order to analyse the various policy options available to the Sri       Lankan government between 2010 and 2025.
+The supply part of the model       simulated the flow of dentists through the complex recruitment and career       progression process through to retirement and captured the behavioural       effects of employment prospects and government policy.
+The demand model       combined empirical data on the time required to carry out various dental       procedures and secondary clinical and demographic data used to project the       future incidence of different dental conditions.
+Together, the       supply-demand model enabled policymakers, civil servants and politicians       to investigate a range of scenarios and trial various staffing, training       and recruitment policies.
+As a practicing dentist, De Silva was able to gather reliable data that       was acceptable to the dental fraternity, a crucial part of gaining       professional acceptance of the model.
+He presented the model at a Cabinet       meeting of the Sri Lankan government and demonstrated the effect of       different policy options.
+Based on the findings, in October 2010 the Sri       Lankan Ministry of Higher Education finally agreed to fix the intake of       dentistry students at its current level of 80 for another ten years [5.1].
+Moreover, the Ministry of Health was convinced, based on the model       results, of the long-term adverse consequences of widespread unemployment       among dental surgeons and created 400 additional government-funded       vacancies over three years from 2011 to 2014 [5.2] [5.3] [5.4].
+All these       posts were created in rural areas to narrow the urban-rural divide.
+The beneficiaries are numerous.
+The Sri Lankan government has a tool to       aid decision-making that takes a `whole system' view and reduces the       effects of political lobbying and game playing by different government       ministries with competing objectives.
+The use of taxpayers' money has been       improved and Sri Lankan dental surgeons have improved career prospects.
+However the main beneficiaries are the Sri Lankan people.
+By the end of       2012, when only 250 of the planned 400 new posts had been created, more       than one million people who previously had no access to care now visit a       state dentist at least once a year, and will benefit from improved dental       health in future [5.5].
+Moreover, many of these 250 new dentists also work       in the private sector after hours, which have resulted in 500,000       additional patient visits per year in the private sector.
+De Silva is now Head of Dental Human Resources Planning at the Sri Lankan       Ministry of Health.
+The Sri Lankan Secretary for Health has recently asked       him to develop a similar model for midwives.
+He is now a keen advocate of       system dynamics modelling for workforce planning and is Sri Lanka's       acknowledged expert in this field.
+He was shortlisted for the Development       Prize of the International Federation of Operational Research Societies       and presented his research at the 2011 Triennial IFORS Conference in       Melbourne, Australia [5.6].

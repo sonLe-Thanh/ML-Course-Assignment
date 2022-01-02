@@ -1,0 +1,41 @@
+     NLOM       The collaboration with Dr Alan Wallcraft at the NRL resulted in the NRL       Layered Ocean Model (NLOM) - the world's first scalable portable ocean       model.
+The model was released in 1995 and was available through the NRL       [A].
+The Navy Layered Ocean Model (NLOM) is a nearly global (72S to 65N)       mesoscale ocean model.
+It was run successfully as the US Navy's Ocean       Forecasting and Nowcasting system from 1995 until 28 Feb 2013 [A].
+The       model has 6 layers in the vertical direction and during its 18 year       lifespan it increased its horizontal resolution from 1/8 of a degree to       1/32 of a degree.
+It changed hardware successfully every 3-5 years running       efficiently and interchangeably on massively parallel computers       (distributed memory - CM5, CRAY T3D/T3E, IBM SP2, SGI Power Challenge       Array, Convex Exemplar), multi-processor shared memory computers (CRAY       YMP/C90/T90, SGI Power Challenge, Convex Exemplar), or scalar computers       (single processor workstations) [A, B].
+NLOM is a layered model that covers regions of the ocean deeper than       200m.
+The complimentary Navy Coastal Ocean Model (NCOM) is maximised for       shallow seas or continental shelves and when it hits deep water is patched       onto NLOM.
+NLOM and NCOM are free and available software.
+HYCOM       On 1/3/2013 NLOM was formally superceded by the Hybrid Coordinate Ocean       Model (HYCOM) [C].
+Earlier versions of HYCOM had been available, in       addition to NLOM, for the previous decade.
+HYCOM is a sophisticated, high       resolution system for simulating ocean physics and describes the effects       of the tides, winds, earth's rotation, and many other factors on the flow       of water.
+HYCOM produces daily 3D snapshots of oceanographic variables       such as temperature, salinity, and current velocity and it runs daily at       the Navy DoD Supercomputing Resource Center.
+As a hybrid model it, unlike       NLOM, works in both deep and shallow waters.
+The prediction systems produced by HYCOM are being transitioned for       operational use by the US Navy at the Naval Oceanographic Office, the US       Fleet Numerical Meteorology and Oceanography Centre and by NOAA at the       National Centers for Environmental Prediction.
+Improved open-ocean       nowcasts and forecasts are being applied to search and rescue operations,       shipping routes, tracking of icebergs and major pollutants, commercial       fisheries, etc [C].
+Oil Spills       A major application of NLOM and HYCOM has been their use in tracking oil       spills such as the Deepwater Horizon disaster in the Gulf of Mexico       (2010), the Montara Well release in the Timor Sea (2009) and the Prestige       Oil Tanker spill in the Bay of Biscay (2002).
+These models provide       valuable forecasts of where the oil will be carried by local ocean       currents, which is of great assistance for deployment of clean-up vessels.
+Deepwater Horizon: During the BP Deepwater Horizon disaster in       2010, the largest oil spill in US history, the Naval Oceanographic Office       (NAVO) supplied the National Oceanic and Atmospheric Administration (NOAA)       with daily trajectory forecasts.
+NOAA officially managed the response to       the disaster, in conjunction with BP.
+Beginning on 21 April 2010, and       lasting for 107 days, different forecasts were supplied to NOAO, three of       which were NLOM, NCOM and HYCOM.
+Forecasts for 24 hours, 48 hours, and 72       hours were produced for surface oil in the nearshore to support daily       response planning.
+These forecasts continued to be produced until no       recoverable oil was seen in overflights of the area for about three weeks       [D].
+In mid-May, when a "tail" of oil was observed which created a       potential pathway for oil to be transported to the Florida Keys, Cuba, or       the Bahamas, forecasts began being produced for two regions: nearshore and       offshore.
+The offshore forecasts also supported daily response planning,       predicting where surface oil impacted by the Gulf current systems would be       in the next 24, 48, and 72 hours.
+Weeks later, when recoverable oil was no       longer observed in overflights or satellite analyses, the offshore       forecasts were phased out.
+The archive of the daily oil spill forecast       maps produced by NOAA [D] refer to models from NAVO/NRL (nearshore       forecasts in May and June), NAVO/NCOM (offshore forecasts in May and June)       and NRL/IASNFS (offshore forecasts in May and June) [D].
+The NAVO/NRL       models included NLOM and NCOM.
+NRL/IASNFS refers to the NRL Intra-Americas       Sea Ocean Nowcast/Forecast System (IASNPS) which is a 1/24 degree (~6 km),       41-level sigma-z ocean model based on NCOM.
+The open boundary conditions       for the model, which include sea surface elevation, transport,       temperature, salinity and currents, are provided by NCOM [E].
+There are many examples of the use of NLOM and HYCOM in forecasting the       movement of the Deepwater Horizon oil spill.
+Many academic and private       research institutions partnered NOAA in the response to the spill,       contributing personnel, expertise and equipment [F].
+Examples of the       extensive use of HYCOM or NLOM by these institutions are provided by The       Ocean Circulation Group (OCG) and the Optical Oceanography Laboratory at       the University of South Florida [G], and the Deepwater Horizon Oil Spill       Portal hosted by the Rutgers University Coastal Ocean Observation Lab [H].
+Partners in the Rutgers University Coastal Ocean Observation Lab's       response to the Deepwater spill included several US federal agencies such       as the US Department of Homeland Security, Environmental Protection       Agency, and the US Integrated Ocean Observing System (IOOS) [I].
+The       `Deepwater Horizon Oil Spill Principal Investigator Workshop Final Report'       from 2011, sponsored by the US National Science and Technology Council's       Subcommittee on Ocean Science and Technology, credits HYCOM in reference       to modelling the warm ocean current in the Gulf of Mexico [J].
+Since the disaster, there have been numerous publications detailing the       events and the response, many of which credit HYCOM for hydrodynamic       modelling [K].
+There have also been several books published, again       crediting HYCOM [L] or NCOM, NLOM and HYCOM [M].
+Montara Well Release: The Montara oil spill was an oil and gas       leak and subsequent slick that took place in the Montara oil field in the       Timor Sea, off the northern coast of Western Australia.
+It is considered       one of Australia's worst oil disasters.
+The slick was released following a       blowout from the Montara wellhead platform in Aug 2009, and continued       leaking until early Nov 2009 (in total 74 days), when the leak was stopped       by pumping mud into the well and the wellbore cemented thus "capping" the       blowout.
+NLOM, NCOM and HYCOM were used to assess the spill [N,O].

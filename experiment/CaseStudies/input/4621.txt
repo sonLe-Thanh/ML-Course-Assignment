@@ -1,0 +1,25 @@
+     The UoB MPES group contributed to the 2008 and 2013 Revisions of the NICE       Methods Guide, which define the role for MTC methods in submissions to       NICE [a,b].
+The Technical Support Documents developed by the MPES group,       available on the NICE Decision Support Unit website [5], are cited in the       NICE 2012 Guidelines Manual [c,d], which define the methods to be used in       NICE Clinical Guidelines.
+The same methods and WinBUGS code are       recommended by the International Society for Pharmacoeconomics and       Outcomes Research, the leading society for Health Technology Assessment       methods [e].
+Impact of MTC methods via NICE Technology Appraisals     Mixed Treatment Comparisons have been presented in submissions underlying       59 (46%)[f] of the 129 NICE Technical Appraisals (TA) since January 2009,       covering a wide range of clinical areas[f].
+Of these, 24 (41%) directly       cite papers by the MPES group and/or clearly use WinBUGS code written by       the MPES group [f].
+NICE Technology Appraisals determine whether new       technologies are cost-effective for the UK National Health Service (NHS),       and if they are then they must be adopted by law (i.e.
+provided to       patients by the NHS) within three months of the guidance being issued.
+NICE Technology Appraisals therefore impact directly on healthcare policy       governing which new treatment options are available to health       professionals to treat patients.
+Because NICE guidance is primarily based       on cost-effectiveness, it secures more health-related quality of life per       pound spent by the NHS.
+For example, TA199 [f] cites MTC methods (p.213), the research of the       MPES group (references 204, 205, 230), and uses WinBUGS code derived from       the MPES groups code (p.224).
+Based on MTC methods TA199 recommends that       Etanercept, infliximab or adalimumab may be used for the treatment of       active and progressive psoriatic arthritis, but that the least expensive       should be used based on locally available prices.
+This was based on the       view that these products were equally effective, a conclusion that could       not be reached without MTC methods.
+Impact of MTC methods via NICE Clinical Guidelines     The UoB MPES group has provided consultancy work to assist the       incorporation of MTC methods into several NICE Clinical Guidelines (CG) in       a range of clinical areas[d].
+For example, research by the MPES group is       cited in CG153 Psoriasis (Oct 2012).
+The research methods that were       developed during this consultancy work, and which were used in these       guidelines, have since been published [d].
+Although NICE Clinical       Guidelines are not mandatory, there is evidence that uptake is generally       good for those guidelines evaluated in the ERNIE Uptake Database,       available on the NICE web-pages.
+NICE Clinical Guidelines are based on       cost-effectiveness, and so uptake of the guidelines implies impact in       terms of maximising the health-related quality of life obtained from NHS       resources.
+Impact of MTC methods in Canada     The Canadian Agency for Drugs and Technologies in Health (CADTH) has used       MTC methods in its reports and recommendations on second and third line       therapies for Type 2 Diabetes inadequately controlled on metformin, and       for their Therapeutic Review on Biologics in Rheumatoid Arthritis [g].
+The       various biologic drugs have not been compared directly in head-to-head in       trials, and so MTC methods are essential to compare their effectiveness       and cost-effectiveness.
+As in the UK, the impact was to make the biologic       drugs available in Canada as the most cost-effective use of resources.
+Impact of MTC methods in other countries     MTC methods are being used in other countries.
+In Germany the Institut       fur Qualitat und Wirtschaftlichkeit in Gesundheitswesen (IQWiG) approved       the use of MTC methods in 2009, and used them in the Final Report on       treatments for essential hypertension (A05-09).
+The National       Evidence-based healthcare Collaborating Agency (NECA) in South Korea has       used MTC methods since 2009 [h].
+Commercial Impact     The use of MTC by pharmaceutical firms in 46% of all submissions to NICE       represents a substantial commercial activity in itself, with several       consultancy firms now specialising in conducting MTC analyses on behalf of       pharmaceutical company clients, and marketing this specialism.
+These       consultancy firms send staff on courses taught by the MPES group, and use       WinBUGS code developed by the group, with resulting impact in terms of       commercial economic activity [i, j].

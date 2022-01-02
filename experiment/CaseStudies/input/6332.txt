@@ -1,0 +1,35 @@
+     The research by Collins and Morton (CAM) has substantial impact in       translational medicine, contributing new ways to predict disease and       diagnose and treat patients.
+The work enables creation of new,       cost-effective, technologies, commercial exploitation of livestock genomes       and development of the personal genomics industry.
+These methods provide a basis for &gt;450 genome-wide association studies       undertaken worldwide since 2008 which have identified many novel disease       variants and opened new avenues of research highlighting unanticipated       disease pathways and mechanisms.
+The research has identified disease genes       underlying cancer, metabolic traits, ophthalmic traits and others,       enabling risk prediction and therapeutic interventions.
+Age-related macular degeneration (AMD), the most common cause of       blindness in developed countries, is an excellent example.
+The mapping by       GWAS (Genome-Wide Association Studies) of a key gene, Complement Factor H       (CFH) paved the way for identification of related genes.
+Application of       CAM's gene mapping methods, in collaboration with Southampton Professor of       Ophthalmology, Andrew Lotery, identified the SERPING1 gene and established       a virtually complete understanding of the genetic causes of AMD by 2010 [5.1].
+The impact of an individual's genetic makeup is now quantified as risk to       develop AMD, and at least five commercial genetic testing kits now predict       patient risk [5.2], with clinical trials of genetic therapy       underway [5.3].
+About 20% of the population is at risk of AMD and       genetic models have 83% predictive value [5.2].
+The work enables commercial development of cost-effective strategies for       genotyping DNA samples in association studies, including GWAS.
+Powerful       GWAS with very large sample sizes are therefore economically feasible and       identify genetic factors underlying different diseases, improving disease       prediction and identifying potential routes to therapy.
+The power of CAM's       work was recognised by Life Technologies, a US company which funded the       development of LDU maps for incorporation in their SNPbrowser&#8482; software [5.4].
+With subsequent LDU map updates the browser reached its full commercial       potential from 2008, continuing to the present day.
+The software enables       effective genotyping strategies in cases and controls for the       identification of disease genes.
+The methodologies developed by CAM are applicable in commercially       significant animal genomes.
+Collaboration with the University of Sydney       enabled development of cost-effective commercial genotyping of DNAs from       dairy cattle, focusing on the identification of superior cattle strains to       increase milk yields [5.5].
+A direct result of this research let       to the development of LDU maps for cattle which enabled the construction       of non-redundant `reduced' SNP panels which have practical application in       genetic marker-based selection.
+Beneficiaries of commercial livestock       genotyping are primarily cattle breeders &#8212; an important market in       Australia alone, which is the world's second largest beef exporter.
+As a       result of this work several companies focus on genetic profiling of       livestock.
+One example is the Neogen Corporation which has a new GeneSeek&#174;       Genomic Profiler&#8482; to maximise the genetic potential of stock animals to       increase profitability [5.6].
+Neogen reported $6.6 million net       income for the third quarter of the 2013 financial year.
+The personal genomics industry, which has developed since 2008, has       become possible through disease gene identification in GWAS for which       CAM's research was pivotal [5.7].
+Personal genomics is concerned       with the analysis of individual genomes and particularly the       characterisation of genomic variation known to be implicated in disease.
+One example is the 23andme service and offers genetic risk       profiles for more than 40 diseases, with the aim of detecting risk       profiles early, motivating lifestyle changes and focussing medical       screening.
+Users of these new commercial services include insurance       companies and individuals interested in their own risk profiles.
+An additional impact of the research is through contribution to       pharmacogenomics, which deals with the influence of genetic variation on       drug response in patients.
+Profiling is important to avoid dangerous       adverse drug responses and wasteful prescription of medicines unsuitable       for a specific patient.
+Collated information available on the genetic       basis of drug response has become available via the PharmGKB database [5.8].
+This provides data on around 170 drug-gene relationships that are valuable       in clinical practice.
+The case of AMD, described above, is an example in       which a patient's genetic profile strongly determines disease risk and       provides invaluable information for tailoring screening and treatment       regimens.
+The database identifies AMD genetic variants mapped by       association studies/GWAS as targets for the drug Ranibizumab (Lucentis)       which has been approved to treat `wet' AMD.
+The ultimate beneficiaries of       the research, the patients can, therefore, be treated more effectively       using this Southampton-led approach to personalised/stratified medicine.
+In summary, these methods enable the mapping of genes involved in human       diseases with significant impact on disease prediction and the development       of personalised medicine.
+The work also underpins genetic profiling in       cattle and other genomes of commercial importance.
+The continuing       development of disease and trait genomics will have far-reaching impact in       the coming years.

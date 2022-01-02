@@ -1,0 +1,48 @@
+     The following list demonstrates the impact of the Railways Systems Group,       the primary       beneficiaries of are the railway network and train operators in the UK,       and overseas, with improvements       in services benefiting rail users.
+Railway Point Condition Monitoring     The key measurable in the rail industry for impact is train delay       minutes.
+The cost associated with       delay varies dependent on the type of train service, but lies in the range       of &#163;20/minute (non-critical       freight trains) to &#163;160 (inter-city trains).
+Collaboration on railway point condition monitoring has been ongoing with       Network Rail since       2004.
+Initial work helped to develop a business case for railway condition       monitoring [5.1] which       resulted in &#163;40M of investment by Network Rail as part of their       Intelligent Infrastructure       programme.
+The group has been key to this programme, providing algorithms       for fault detection       and diagnosis that have now been implemented on 5,600 out of 27,000 point       machines.
+`The initial         implementation was on HW type point machines, has resulted in an         estimated reduction of         29.4% of point machine faults; leading to a substantial reduction in the         amount of delay         minutes attributed to Network Rail'.
+In the one year period between       2010-11 there were 646,083       minutes delay on the network due to points failure.
+Since the rollout of       the system in 2012 the       number of delay minutes has dropped to 579,063 [5.2].
+Following the success of this work on point machine monitoring with       Network Rail, the group were       approached in 2010 to carry out a monitoring trial on the Japan Central       Shinkansen High Speed       `Bullet Train' line South of Tokyo.
+Following the initial data collection       exercise Japan Central       Railways seconded an employee to the University of Birmingham for 2 years       to work with the team       to develop a system for application in Japan [5.4].
+Following this work,       Japan Central Railways has       begun an implementation programme on all of their Shinkansen lines.
+In       addition to Japan, initial       trials have been undertaken with Deutsche Bahn in Berlin [5.3] and Hefei       Metro in China.
+Based on the success of the Birmingham condition monitoring algorithm       research for the Intelligent       Infrastructure programme, in February 2012 Network Rail formed a &#163;1.65M       investment Strategic       Partnership with the group in the area of Data Integration and Management       to further develop the       existing algorithm work as well as developing new applications.
+Conductor shoe monitoring     A collaborative industry research project has resulted in the University       of Birmingham together with       Southern Railway and Network Rail being awarded the Stephenson Award for       Innovation at the       National Rail Awards in 2012.
+The work, which developed an in-service       condition monitoring       system to assess the state-of-the-health of the power conductor rail,       automatically identifies       sections of track that put excessive force into a train's conductor shoe.
+In 2012, the system       identified more than 30 locations that required remedial action in the       Southern region; previously       these locations were unidentifable.
+In 2012, 25,000 minutes of train delay       were caused by       conductor rail problems of this kind [5.6], with an average of delay of       405 minutes per incident.
+This       initial deployment of the system has therefore an estimated savings of       12,105 minutes.
+Track circuit monitoring     Previous research work [3.1], funded directly by London Underground, is       now being used in this       REF period to provide expert advice through consultancy work that is       specifying and designing an       innovative track circuit condition monitoring system (hardware, algorithms       and architecture) for       London Underground.
+This system will revolutionise how London Underground       maintain one of       their key assets, allowing them to move from a scheduled to reactive       maintenance regime.
+London       Underground will invest `several million pounds over the next 5 to 10         years' in this technology [5.5].
+Bearing Monitoring     In 2012 Hitachi received a &#163;7 billion order from the Department for       Transport to build a new fleet of       trains for the UK.
+One of the key criteria for selection of Hitachi was       due to the proposed method       for the safe rollout and the ongoing life cycle cost benefits of the new       train.
+This, in part, is based       on a series of monitoring systems to ensure the health of key components.
+In the area of wheel       bearing safety, these assertions have been based on expert advice from       research undertaken by       the University in collaboration with Hitachi to develop a prototype       acoustic monitoring system that       was able to detect and diagnose bearing and gearbox faults on the new       train.
+During Phase 1 of       the project field trials took place to verify the work.
+Phase 2, which is       currently underway, is       developing a full prototype system that will be sited on the High Speed 1       line in early 2014.
+Inertial Measurement Unit     In 2011 and 2012 in-service inertial measurement units have been       developed and deployed on two       in-service trains for MerseyRail and Southern that are able to identify       track locations that require       maintenance.
+These systems are the first of their kind in the UK, and are       currently operating on the       UK network.
+As part of the EPSRC Track 21 Programme Grant, the system       monitoring the track in       the south of England has been used by Network Rail to help steer and       monitoring a track renewal       at Black Boy Lane Level Crossing in the Southern Region.
+Gauge corner cracking instrumentation     In 2012, the University demonstrated the first high speed gauge corner       cracking test system in       collaboration with REFER, the Portuguese railway infrastructure manager.
+The system is designed       to detect and quantify rolling contact fatigue cracks on the rail gauge       corner.
+The system       integrates ultrasonic, vision and ACFM (alternating current field       measurement) technology.
+The       integration of these systems allows high speed inspection to be carried       out.
+The system operates       at up to 120 kph, whereas conventional systems typically operated at 30-40       kph     Energy monitoring     Environmental impact is evident throughout the groups work; however it is       particularly predominant       in this study.
+In 2012 a monitoring and simulation study was undertaken to       drive a system-wide       energy saving on the MerseyRail network.
+The study has been developed for       long-term monitoring       of the MerseyRail network looking at DC railway power systems to       understand the losses, and       hence set the price of the energy paid by the train operating companies       throughout Britain.
+The       work is led by the University of Birmingham and is supported by Network       Rail and the Department       for Transport with in kind contributions from MerseyRail, Association of       Train Operating       Companies, the Rail Safety and Standards Board, London Underground and       Angel Trains.
+The       work has highlighted key energy saving strategies and will inform future       train procurement for the       MerseyRail, and other networks.
+The results of the study have been issued       to the Office of the Rail       Regulator in Network Rail's report TPD-NST-021 LOSS-REP-0012 which is       being used to set the       price of the energy paid by the train operating companies throughout the       UK [5.7].
+This is a key       step in helping the rail industry meet its target of achieving a 20%       reduction in energy usage by       2020 (which equates to an annual saving of 580 GWh of electricity and 91       million litres of diesel).
+Following the success of this work, a project is now underway with       Guangzhou Metro in China.
+Winter mitigation     Since winter 2009 the group has developed specific instrumentation and a       number of national test       rig to help Network Rail manage the effect of snow and ice.
+The research       undertaken has helped       Network Rail in understanding the cause of winter problems, and hence       write requirements and       standards for the rail industry for winter mitigation measures and assess       the develop       benchmarking tests evaluate manufacturers solutions.
+So far the University       has helped specify and       evaluate over 30 different products, on which Network Rail now spends       approximately spent       around &#163;200k to &#163;500k per year.
+The work undertaken by the University was       identified as a       successful collaboration case study in the Department for Transport's       Railway Industry Research       Strategy document [5.8].
+Furthermore, in 2010 the Rail Industry's National       Task Force, to which       the University provides advice, referred to the importance of the work       being undertaken by the       University when giving evidence to the Transport Select Committee [5.9].

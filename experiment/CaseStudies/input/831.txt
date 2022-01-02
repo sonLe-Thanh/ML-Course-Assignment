@@ -1,0 +1,46 @@
+     Safe mobility is essential for people who are visually impaired (VI).
+The       universal `long cane' is used worldwide but has major shortfalls, and in       particular does not detect elevated obstacles such as tree branches,       signage, and ladders.
+Users must discover obstacles by progressive tapping       their cane into them.
+The alternative is the use of guide dogs, but these       are expensive (typically &#163;35k for a 5 year working life), mainly resulting       from extensive initial training costs.
+The UltraCane innovation       uses ultrasonic sensors and a tactile feedback to the user's hand to       provide a ground-to-head safety envelope.
+Importantly, it gives       progressive non-contact warning of obstacles (switchable between 2 m and 4       m away in the direction of travel, and 1.6 m vertically), offering the       level of safety, ease of progress and dignity that sighted people have in       walking freely.
+Following patenting (1997) and early trials of the technology through a       DTI `Smart' award, Hoyle/Waters/Withington received the 2002 award for       best `Healthcare Innovation' at the BBC's Tomorrow's World presentation       ceremony, and the Mark 1 product was certified as a medical de-vice.
+In       2003, Ultracane received the Sony sponsored `Design Application         of the Year Award', and in 2005, it was selected by the Foreign       Office as one of eight `Innovations inspired by nature' and       featured centrally in the UK Pavilion at Japan World Expo, being seen by       ~5 million people.
+In 2006, it received Horner's Award for Innovation from       the Worshipful Company of Horners.
+[text removed for publication]     Hoyle proceeded to obtain further investment capital from Dr Paul Clark       (a former member of the School of Electronic and Electrical Engineering at       Leeds).
+Comms Design Ltd, a company founded by Dr Clark in 2004,       then provided development support to improve the product [B], including       introducing auto-tuning of the transducers, eliminating previous problems       with manufacturing re-producibility of high-Q electronic circuitry.
+This       led to the relaunch of UltraCane through a new company, Sound         Foresight Technology Ltd, founded in February 2010, and based in       Harrogate.
+In the period 2008 to date, UltraCane has led to the following       types of impact:             Economic impact, through the sales of product, and the creation         of jobs;        Health impact, through the take up and use of a new product         that prevents injury and improves the quality of life;        Public Policy and Services impact, through adoption of the         product and improving patient care practice for people with VI         disabilities;        Societal impact, through the drive for inclusion and equality         of people who have a VI disability, by educating the general public, and         by engaging the general public in science and engineering.
+Economic impact       [text removed for publication].
+Each UltraCane retails (30 June       2013) at &#163;635 per unit [C].
+These have been supplied to 28 countries       worldwide, with highest sales in the UK, USA, Australia, Israel and       Germany.
+This has provided both direct and indirect employment and       commercial activity in the UK and worldwide.
+Manufacturing is       sub-contracted to Quality Precision Engineers Ltd, an electronic       systems manufacturing company in Scotland, with sensor technology       optimization at Comms Design Ltd (commsdesign.ltd.uk); [text       removed for publication] [A].
+There are approximately 50 organisations worldwide that sell/loan UltraCanes       for use with their mobility and orientation specialists who, in turn, give       training to individual VI people.
+The product is distributed through a       number of channels; directly through the VI accessible web-site       (www.ultracane.com), and through its global network of 23 distributors in       Africa, South America, Central America, North         America, Arabia and Middle-East, Australasia, China         and Far East, Europe (North), Europe (West and South),       Europe (East), Greece and Cyprus [A].
+Strong growth in sales is now occurring despite the challenges in       changing healthcare practice.
+[text removed for publication].
+Figure 1 The UltraCane handle showing ultrasonic sensors and feedback buttons.
+Figure 2 Dan Smith, com-pletely blind, rides an Ultra-Bike through woodland [H,I].
+Figure 3 UltraBike exhibition in the Science Museum, showing the ultrasonic sensors [I].
+Health impact       User testimonials endorse the product, and provide evidence of its       significance in improving their quality of life, independence, and ability       to avoid accidents and injury.
+Testimonials include [D]:     "I got used to using the UltraCane and felt strange when it wasn't         there and I couldn't rely on the cues it provided.... By being able to         literally feel the environment around me..." [Ms C Crespin]     "When using the UltraCane, people thought I was faking being blind,         because I would tell them where things were and go around them and         navigate well..." [Ms A Bradstreet]     "The UltraCane's capacity to detect obstacles ... and provide the         feedback needed to avoid them, helps to give me the information I         need..." [Mr J McAfferty]     "The area I visited is highly congested.
+There is much foot traffic,         the footways are crowded and one needs to progress slowly even if fully         sighted...
+I found the UltraCane to be most excellent in this situation.
+It was constantly keeping me updated about people and obstacles."
+[Mr B Campbell]     Public Policy and Services impact       UltraCane was developed in close association with VI organisations,       with practitioners praising the product in advancing mobility, safety, and       independence for VI people.
+For example [D]:     "The developers have taken time to ask blind people, and involve them         in trials.
+I'm convinced it's going to be a real benefit to its blind         and partially sighted users" [Mr A Brooks, New Initi Manager, The       Guide Dogs for the Blind Association]     "What I like about the `UltraCane' is you have everything right there         in one hand &#8212; enhanced safety and environmental information..." [Mr       M Corbett, Orientation and Mobility Specialist, USA]     UltraCane has influenced the policies and practice of       professionals in the field of mobility and orientation.
+For example, Guide         Dogs Queensland run training courses, together with `Graduation       Ceremonies' for new cohorts trained in using the UltraCane [E].
+Furthermore, UltraCane allows employers to support VI staff: "I'm         delighted that one of our own valued employees has been supported in         receiving such revolutionary equipment, thanks to the Access to Work         scheme."
+[Mr P Martin, Leader of Essex County Council] [F].
+The       technology also provides an alternative to help people, especially       teenagers, who consider there to be a stigma in using a conventional cane       [D].
+Societal impact / Public Dissemination of Science and Technology       UltraCane has featured extensively on national/regional television       and radio in the UK and overseas, helping promote science and       engineering to the general public, demonstrating how technology can       address public health challenges, and illustrating to the general public       how VI people can be included through provision of appropriate technology       [G].
+The connection with bat echolocation has, in particular, proved       attractive to the general public, and in Autumn 2012, the UltraCane       featured in the BBC 1 primetime `Miracles of Nature' series       presented by Richard Hammond [H].
+For this programme, the `UltraBike'       was developed, in which the UltraCane ultrasonic sensors were re-       designed by Hoyle and Clark, and adapted by Sound Foresight Technology         Ltd and Comms Design Ltd for use on a bicycle.
+The UltraCane's       vertical sensor was replaced by a second sensor facing forward, but       offset, allowing the user to determine the direction for steering, and the       sensing range was increased (switchably) to 10 m. Mr Dan Smith, who is       completely blind, rode an UltraBike through a woodland pathway on       the programme (Fig.
+2) [H,I].
+This exposure directly led to Life Cycle UK and Sound         Foresight Technology organizing the world's first cycle event for VI       people in Bristol on 22 June 2013 [text removed for publication] [A].
+This       also led to the current exhibition of the UltraBike in the London       Science Museum [A] (Fig.
+3, [I]), with the public providing on-line       feedback [text removed for publication] [A].
+Further examples of the international public reach of this technology       include an exhibition of the UltraCane in the State Museum of       Natural History (Munster, Germany) in 2012 [I], and UltraCane       featuring in a textbook (ISBN 978-3-507-42126-4, published 2012) used in       German schools [I].

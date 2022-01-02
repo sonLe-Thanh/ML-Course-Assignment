@@ -1,0 +1,31 @@
+     Knowledge Connect projects     (2009) Mobsventures Ltd.
+The project aimed to take Slenky, a       social networking system for       young people, and produce an updated design incorporating the necessary       components utilising       intelligent matching and moderation.
+The project provided the company with       an example of how a       scalable open source solution could be included in their commercial       platform.
+The project provided       a core engine that could be taken by Mobsventures Ltd. and used as the       basis of commercial       implementation.
+(2009) Lifeline Learning Inc.
+The project achieved adaptive       processes on a smaller scale, by       using a hybrid approach involving the development of an adaptive       sequencing engine for use with       an open source application and social networking system.
+The application       and the associated       knowledge allowed Lifeline Learning Inc. to become more flexible in its       delivery and more attractive       to prospective students.
+The significance of the system was its potential       to provide a semi-       automated, personalized learning environment using open source products,       which goes some way       to addressing the problem of `doing more with less' in a small business.
+(2009) Mammoth Graphics Ltd.
+Prior to the project, Mammoth had       developed media applications       exclusively for television and web-based users.
+However, the creative       industry trend began to       produce media applications that work on mobile devices such as the iPhone       and the Android       phone.
+Mammoth wanted to create a new business line by developing a mobile       technology offering       to complement the television graphics output.
+The project resulted in the       production of an iPhone       application involving interactive 3D data displays.
+As a consequence of       the project, Mammoth       started to expand its business by delivering applications on multiple       mobile devices, seeking to       offer products and services that can work together.
+(2010) Wizzbike The key learning points for the company were the       requirement to think clearly       about their business processes and to spend considerable time in cleaning       up the data behind the       business, notably within the EPOS (electronic point of sale) database that       underpinned the retail       sales and service.
+The project provided the company with a good       understanding and control of       their systems and processes and launch an effective new website with       real-time stock control.
+Knowledge Transfer Partnerships (KTPs)     (2010-12) Arc Technology Ltd.
+Although the requirements of HEIs       (Arc Technology Ltd clients)       have some commonality, there are variants that need to be addressed and is       traditionally left to the       customisation stage.
+The project demonstrated the benefit of integrating       SPL techniques to the       development of customer portals.
+This has led to the company adopting       both, product lines and       model driven development, to their other products.
+Some ARC legacy systems       have already been       partly rewritten and KTP associate Neil Mather is now employed at Arc and       enrolled at UWL on an       MPhil.
+(2010-13) Mammoth Graphics Ltd.
+The project has allowed Mammoth       Graphic to create a new       line of business in the second screen market, which enables content       consumers with a mobile       device to interact with what they are watching on a TV show.
+Mammoth has       excellent contacts       within the television industry and has exploited these for its new       capability.
+The project also helped       to improve their competitiveness and has acted as the catalyst for Mammoth       to enter new markets       and develop capabilities in the second screen market.
+(2013-15) Arc Technology Ltd.
+The outcome of the project is       expected to increase the company's       profile and cement its lead position within its market place, by       establishing a new line of business       within ARC in mobile applications and development of a new revenue stream.
+The main       technological innovation that will be exploited here is to harness       contextual data provided by       mobile devices in order to provide a personalised, adaptive and,       anticipatory workflow system.
+(2013-15) MBS Survey Software Ltd.
+The partnership will enable MBS       to deliver a product that       makes 3D models from point cloud data effectively and efficiently.
+This       will serve to increase the       company's profile within the sector and in turn boost its position within       the market place.

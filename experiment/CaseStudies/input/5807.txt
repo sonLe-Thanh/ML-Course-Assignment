@@ -1,0 +1,28 @@
+     The Groenemeyer Institute for Microtherapy in Bochum, Germany is a high       profile, privately run       medical research and treatment institute.
+Its main aim is to develop and       apply products and       processes for minimally invasive therapy, including those in the field of       prenatal diagnosis.
+One of       their aims is to find ways to identify and classify foetal pathological       conditions very early in the       pregnancy, such as growth retardation and foetal stress.
+The Department of       Biomagnetism at the       Groenemeyer Institute has taken up research in this direction supported by       the evidence [5] of       prenatal interaction between mother and foetus on the basis of foetal       heart rate.
+However, as       explained above, their research faced the fundamental problem of dealing       with passive       experiments.
+This means that it was impossible to obtain, from the data       they collected, statistically       robust evidence to support their conclusions.
+A better understanding of       this interaction and ways to       evaluate its statistical significance were needed for foetal surveillance       and the detection of       pathological conditions during pregnancy.
+The breakthrough came from our       research at IPAM,       which equipped the clinicians at the Groenemeyer Institute with the       mathematical and statistical       tools to develop the new diagnostic algorithms, as well as computer       software which implemented       them.
+The research team at IPAM in Aberdeen started working on the general       problem of passive       experiments in 2007, inspired by the mother-foetus heartbeat       synchronisation problem which was       presented at a conference by members of the Groenemeyer Institute.
+Our       work on the twin       surrogate method was then published [3] in 2008.
+After that, contact was       established between the       research group led by Professor van Leeuwen at the Groenemeyer Institute       and the IPAM       researchers.
+A collaboration between the two groups followed.
+As a result       we made the twin       surrogate method available to clinicians at the Groenemeyer Institute by       means of a computer       algorithm that was developed at IPAM in 2008.
+This software made it       possible for clinicians at the       Groenemeyer Institute to take up their clinical research by analysing and       interpreting       magnetocardiographic data in a statistically meaningful way [1].
+As a       result they successfully       established the physiological significance of heartbeat synchronization.
+Beyond a contribution to       pure clinical research, our software has also been fundamental to the       development of diagnostic       methods, since data from pregnant women can now be processed by       practitioners in their clinics.
+Our algorithms have been implemented in a widely used time series analysis       software package       (CROSS RECURRENCE PLOT TOOLBOX v5.17, http://tocsy.pik-potsdam.de/CRPtoolbox/),       with       more than 2,000 downloads by researchers from a wide distribution of       scientific disciplines beyond       mathematics, ranging from cognitive neurosciences and cardiology, to       medical research and       systems biology.
+The Head of the Groenemeyer Institute for Microtherapy stated in [c1]       that "the physiological         significance (of the research) lies in the demonstration of the physical         synchronisation of biological         organ systems of separate individuals.
+The fact that it occurs         prenatally is a sign that it may have         developmental importance."
+In addition, with respect to IPAM's work,       he mentioned that "the         methodological significance lies in the fact that procedures have been         developed which permit the         identification and quantification of such interaction under the         conditions of pregnancy."
+The       Department of Biomagnetism at the Groenemeyer Institute has since taken up       this work further       through collaboration with other partners, e.g.
+Humboldt University in       Berlin, in order to develop       protocols that will enable them to better understand the phenomenon of       heartbeat synchronisation       between mother and child.
+To summarise, our fundamental research in dynamical systems provided the       turning point in a new       clinical study carried out in Germany.
+Primarily, our work enabled the       researchers in the       Groenemeyer Institute to carry out their medical research.
+Secondly, the       software derived from our       mathematical results has made it possible to apply the research in actual       clinical trials of pregnant       women in order to develop diagnostic protocols that identify foetal       pathological conditions.
+This impact achieved additional reach among the non-specialist public       through media coverage in       the UK and Germany, raising awareness and understanding of the       significance of the findings       among non-specialists and the general public.
+For example, in January       2010, the German popular       science magazine Spektrum der Wissenschaft (circulation 110,000)       published an article on the       findings, explaining the circumstances in which maternal and foetal heart       rates synchronise [c2].
+BBC News for North-East Scotland, Orkney &amp; Shetland reported on       the diagnostic significance of       the findings in July 2010 [c3], as did the written media such as The         Scotsman [c4], Aberdeen         Evening Express, Aberdeen Press and Journal, Daily Record, and the Irish         Examiner [c5]       (combined circulation: over 440,000).

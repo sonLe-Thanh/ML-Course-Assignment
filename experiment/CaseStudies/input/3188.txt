@@ -1,0 +1,36 @@
+     Swansea's research in cold dwell sensitivity and advanced lifing has       delivered significant commercial and economic impact, with improved       understanding of mechanical behaviour, deformation and failure mechanisms       that has defined safe operational envelopes for various titanium and       nickel alloys utilised in fan, compressor and turbine applications in the       current generation of Rolls-Royce Trent engines.
+More than five hundred       Trent 800 engines are currently in service [C1].
+Rolls-Royce supplies approximately 40% of new aero-engines to the global       market, acting as one of three major international manufacturers of civil       aero-engines with an order book exceeding &#163;60,000m; Swansea's contribution       to the mechanical characterisation of metallic alloys and ceramics       therefore provides significant and tangible impact.
+Knowledge generated       through long standing collaboration between industry and academia has been       transferred to Rolls-Royce and key supply chain companies (Timet in       particular, the largest producer of titanium in Europe).
+Research has made       critical technological contributions to the manufacture of efficient and       safe gas turbines, with impact evident in the following ways:     Titanium alloy selection and fan disc design in Rolls-Royce Trent         engines, informed by models describing crystal plasticity and stress       redistribution.
+The Evans-Bache model describing cold dwell behaviour in       titanium alloys has underpinned the exchange of coarse grained alloys       (e.g.
+Ti685, Ti829) as compressor disc materials for alternative alloys       (Ti6/4, Ti834, Ti6246) with superior cold dwell resistance.
+"Component design, full scale rig evaluation and service stressing         have been greatly influenced by this research.
+The impact dates back to         the RB211 fleet through to the latest generation Trent XWB series.
+Swansea investigations into Ti834 for example, used in high pressure         compressor discs in the Trent 800 engine with &gt;500 currently in         service powering 225 aircraft, remain key to our future implementation         of titanium alloys" Company Fellow &#8212; Titanium Alloys / Fan Systems,       Rolls-Royce [C1].
+Provision of confidential, non-advocate reviews.
+Rolls-Royce's       high profile `Red-Top' investigations are used to assess issues relating       to the processing and safe operation of engine components.
+Within the REF       period, Evans and Bache have provided scrutiny for topics including fan       blade manufacture, stress concentration features in compressor discs and       interpretation of fatigue crack initiation and growth in titanium metal       matrix composite under spin rig assessment.
+Innovative fractography has been employed to investigate manufacturing       and service issues and understand fundamental material response.
+"Knowledge transferred from the Swansea UTC academics into our         industry is a key independent resource, which can actually prevent major         fleet disruptions" Head of Materials, Rolls-Royce [C2].
+Swansea provides major contributions towards more efficient,       environmentally friendly engines by characterising mechanical behaviour at       ever increasing temperatures.
+The combined portfolio of research has       delivered a reduction of 1% in specific fuel consumption,       representing significant environmental and economic impact.
+By elevating       the operating temperature through all stages of the engine, the volumes of       sulphur / nitrogen based emissions have been progressively reduced,       meeting objectives set by International government agencies.
+This places       significant demands on existing alloys, expected to operate beyond their       original design limits.
+Specifically, mechanical data and lifing         correlations were incorporated into proprietary computer models at         Rolls-Royce in 2008, allowing the alloy Ti6246 to continue under       safe operation some 50oC above pre-envisaged limits.
+This       required detailed understanding of high temperature damage mechanisms.
+This alloy is used across the Trent range (&gt;3000 engines in service).
+Similarly, advanced lifing correlations were applied to the Ti6-4 lift-fan       in the F136 Joint Strike Fighter, allowing development on this engine       through to 2011.
+"Swansea based correlations have been transferred to several engine         marks and alloys, allowing extended operation of in service alloys         through reducing conservative safety margins" Associate Fellow,       Critical Parts Lifing and Integrity, Rolls-Royce [C3].
+Similar research has been directed towards nickel superalloys, with the       same proprietary codes used to design future engine variants (Trent 1000,       XWB etc).
+Detailed understanding of the role of microstructure on fatigue       has allowed rationalisation amongst modelling procedures, with multiple       codes previously deemed necessary to describe different forms of the same       alloy.
+The Swansea UTC is a core member to the EPSRC Rolls-Royce Strategic       Partnership in Structural Metallic Systems for Gas Turbines (2009),       incorporating postdoctoral research and doctoral training to develop high       calibre materials engineers for the UK metals community over a ten year       horizon.
+Value to the UK public sector and overall success of this scheme       is constantly reviewed by EPSRC, with Swansea knowledge transfer       activities singled out for a RCUK online impact case study "Excellence       With Impact" [C4].
+The rolling value of the research in progress under the       combined UTC research portfolio currently stands &gt;&#163;7.8m.
+Economic impact has also been achieved through the creation of a         profitable spin-out company.
+Swansea University has combined       extensive consultancy activities with a major transfer of equipment from       the former Rolls-Royce laboratories at Derby (replacement value &gt;&#163;5m).
+A spin- out company &#8212; Swansea Materials Research &amp; Testing Ltd (SMaRT)       has been incorporated [C5].
+Rolls-Royce places significant onus on this       operation, "SMaRT acts as a vital, strategic, approved supplier for         mechanical property understanding at technology readiness levels (TRL)         zero to four" (C2).
+This outsourcing strategy includes close       collaboration with the Rolls-Royce Mechanical Test and Operations Centre       in Germany (MTOC).
+SMaRT delivers commercial testing and academic       interpretation for an expanding customer base, and is integral to the       development of the University's new, &#163;250m Science and Innovation Campus,       which in turn addresses Welsh Government strategies for regional       development in South-West Wales.
+SMaRT has recently achieved ISO 17025       accreditation, employs nine full-time staff, turning over approximately       &#163;1M per annum, with operating profits of &#163;146k posted in 2011-12 [C5].

@@ -1,0 +1,21 @@
+     Cranfield's research has supported the leading position of Oxford       Instruments in magnet technology, with average magnet sales over &#163;10       million a year over the last five years, and with a marked upward trend.
+These sales are enabled by the worldwide promotion and dissemination of       Oxford Instruments' magnet performance using measurements conducted using       the fibre optic technology developed by Cranfield [C2].
+The unique       combination of a non-electrically conducting sensor technology that is       insensitive to temperature and magnetic field has facilitated unique       measurements in the cryogenic regime [C1].
+When holding workshops in China       and India over the last year, the use of optical sensors was again used by       Oxford Instruments to champion the superiority of their high-end       technology, enabling magnet and consultancy sales [C2].
+Underpinned by the       fibre-optic technology derived from Cranfield's research, Oxford       Instruments magnet design and production activities in the UK have grown       over the last five years.
+The company has doubled its engineering and       design staff and has seen a marked improvement in the profitability of       these high-technology systems [C2].
+Global markets     Oxford Instruments installs FBG sensor technology to measure strain on       high-field magnet systems for nuclear magnetic resonance (NMR) and       high-density research magnets with fields of up to 22 Tesla.
+The latter is       a unique world leading product with up to a dozen installed worldwide over       the last 5 years, at a total value of over &#163;6 million.
+The technology is       also a part of split-pair magnets used in beam-line facilities worldwide,       another world leading activity with 15 installed over the last five years,       at a total value of over &#163;7.5 million.
+The FBG sensors provide detailed information on the performance of the       high-field magnets that is critical to successful and safe operation.
+These products have been exported worldwide, predominantly to the USA,       Germany and Japan but increasingly to China, India and the emerging       economies [C2].
+Cranfield's research also had direct impact on the scientific instrument       manufacturer, AOS Technology Ltd, which developed and supplied a       state-of-the-art (at that time) interrogator for Bragg gratings as well as       subsequently supplying FBG sensors to Oxford Instruments for several       years.
+The technology developed within AOS led to the company's subsequent       involvement with major programmes for Rolls-Royce and the Atomic Weapons       Establishment (AWE), which contributed to the success of the company.
+Since 2008 AOS has seen increased turnover (20%) and their staff numbers       by some 20%, [C3].
+Fully superconducting magnets     Cranfield's FBG expertise is also supporting Oxford Instruments as it       moves to fully superconducting very high field magnets for use in national       facilities around the world.
+Traditionally, resistive water cooled magnets       have been used to generate magnetic fields over 30Tesla.
+These resistive       magnets consume GW of electricity and require huge quantities of cooling       water.
+The fully superconducting magnets under development will run with       20 litres of liquid helium per day and run off a single phase 240V power       supply with no water cooling.
+These magnets will transform the       environmental footprint and operational `up-time' of these national       facilities.
+Fibre optic strain monitoring systems are unique in that they       can be fitted to these complex high field magnets without compromising the       electrical isolation of the high-voltage energy management and heater       systems deployed throughout the magnet coil set.
+FBG strain sensors have       been integrated into this new class of magnets, which will be installed at       the National High Magnetic Field Laboratory in the USA in 2014 with       subsequent installations planned in Asia and Europe, [C2].

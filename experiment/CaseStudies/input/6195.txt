@@ -1,0 +1,39 @@
+     Following the ratification of the TCS as an international standard in       2005, numerous governmental and NGO agencies have benefitted from the       Taxonomic Concept Schema (TCS) as developed by Kennedy.
+Equally, the       Darwin Core (DwC) standard, which incorporates concepts from the TCS, has       significant impact.
+The impact of the research during the assessment       period is most visible in three broad communities.
+1.
+Biodiversity Science Organisations:     The adoption of TCS and follow-on standards such as DwC, has       significantly increased the global availability of biodiversity data.
+These standards now define best practice for a number of professional       bodies, and as such have significant impact on practitioners and         professional services in the field.
+Adoption of the technology by       NGOs and other public sector organisations also impacts society,         culture and creativity.
+This enables scientists in academic,       governmental and industry to access and share biodiversity information to       help understand the issues in global biodiversity, and thus influences       both research and policy debates.
+Example biodiversity organisations       include:            In 2009 the Global Biodiversity Information Facility (GBIF),         established by governments to encourage open access to biodiversity         data, supported TCS in its Integrated Publishing Toolkit.
+This         encouraged the uptake of TCS around the world [Evidence-1].
+DwC-A,         informed by TCS, became the preferred format for publishing data to the         GBIF network in 2012 and has been used to mobilise the vast majority of         specimen occurrence and observational records within the GBIF network         [Evidence-2].
+GBIF currently has 416,242,316 indexed records, 10,140         datasets, 562 publishers, 53 countries signed up, GBIF mediated data         used/cited in over 8000 papers.
+In 2012, the Royal Botanic Gardens Kew [Evidence-3] adopted         TCS as its internal transfer format.
+The attraction of TCS to Kew is         that it supports the separation of nomenclature and taxonomy, as         advocated by Kew's Science and Horticulture Systems (SHS) Project.
+SHS         is one of the component projects of Kew's IT and DM Strategy Programme,         the mission of which is to modernise, integrate and streamline all the         information systems that address science and horticulture information         systems, as well as manage several millions of records of data, across         all aspects of Kew's activity.
+The International Plant Names Index         (IPNI) at Kew, a collaboration between The Royal Botanical Gardens Kew,         Harvard University and the Australian National Herbarium, uses TCS.
+Its         impact globally is clear: TCS serves information on 1,624,845 name         citations, 43,011 authors and over 17,066 publications.
+ZooBank, which is the official registry of Zoological         Nomenclature, adopted the use of taxon-name-usage in 2009.
+This is an         example of species concepts based on TCS [Evidence-4].
+As with GBIF and         INPI, this system has enormous influence on biodiversity research.
+It         contains details on 106,918 Nomenclatural Acts, 41,880 Publications and         22,150 Authors.
+The Catalogue of Life is the most comprehensive and         authoritative global index of species currently available.
+It consists         of a single integrated species checklist and taxonomic hierarchy.
+The         TCS was adopted for the Catalogue of Life in order to express         information about concepts and their relationships through their life         science identifiers in 2008.
+The Catalogue now holds essential         information on the names, relationships and distributions of over 1.4         million species.
+[Evidence-5]          2.
+General Public     The use of TCS has also impacted society by stimulating public interest       and discourse in science.
+For example, the Encyclopedia of Life       (EOL) gathers, generates, and shares knowledge in an open, freely       accessible and trusted digital resource in order to achieve a vision of       global access to knowledge about life on earth.
+The EOL harvests content       prepared according to the GBIF Darwin Core Archive (DwC-A) [Evidence-6],       the format derived in part from TCS [Evidence-7].
+This resource currently       has 1,364,055 pages, 69,552 members, 5,825 collections and 203       communities.
+3.
+Individual Scientists outside academia     The research has influenced the scientific practice of modern taxonomists       both directly and through tool support             Scratchpads is an online virtual research environment for         biodiversity scientists that facilitates the free sharing of data and         the creation of research networks.
+It uses TCS as an information         exchange format [Evidence-8].
+The uptake of this technology is vast.
+There are currently 572 Scratchpads, used by 6,851 active users covering         76,387 taxa in 509,237 pages.
+Projects such as the Global Names Usage Bank and the Taxonomic       Name Resolution Service have built upon TCS concepts to produce the most       valuable taxonomic concept data available.
+This will significantly ease       the process of data integration that has proved so difficult in       biodiversity projects to date.
+Concepts are now mandated in the US       National Vegetation Classification [Evidence-9].
+The National Centre for       Ecological Analysis and Synthesis, USA utilises services such as TNRS in       many of its informatics projects (e.g., the Botanical Information and         Ecology Network, BIEN) and recommends its use to biodiversity       scientists worldwide for synthesis projects [Evidence-10].

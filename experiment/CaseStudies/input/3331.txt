@@ -1,0 +1,35 @@
+     The development, at the Cavendish Laboratory of the University of       Cambridge, of both MBE       growth techniques for structures containing quantum dots and suitable       device fabrication       technology has led to a long-term collaboration between the University and       Toshiba Research       Europe Ltd based at the Cambridge Science Park.
+This has been in place       since 1999.
+As a consequence of the work carried out at the Cavendish, Toshiba has       invested heavily in       research and development in this area.
+The Deputy Managing Director,       Cambridge Research       Laboratory, Toshiba [18], writes, "We have been particularly influenced by       research on the growth       and fabrication of quantum dot devices, by Professor Ritchie and       colleagues in the Semiconductor       Physics Group.
+In collaboration with Professor Ritchie, our researchers       have pursued a R&amp;D       programme on quantum photonic sources and detectors based on semiconductor       quantum dots.
+This resulted in the creation of the Quantum Information Group at TREL       [Toshiba Research       Europe Ltd], to explore the applications of quantum devices to IT       systems."
+The programme       continues to the current time with the aim of producing small-scale       devices using conventional       semiconductor technology at a low-cost to fit into quantum information       systems.
+The demonstration of telecom-wavelength quantum-dot single-photon sources       which allow the       secure transmission of quantum keys further than attenuated lasers [3] has       stimulated the       development of Toshiba quantum key distribution systems [8] which although       currently using lasers       will in the future incorporate quantum dot sources when those sources have       been optimised.
+The       Toshiba quantum key distribution system was demonstrated in Vienna in 2008       as part of the       SECOQC collaboration of which both the University of Cambridge (Ritchie)       and Toshiba were       members.
+[10] The QKD system was also operational in Tokyo in 2010, where       secure key       generation was demonstrated for a 24 hour period over a 45km link.
+[11] .
+The global market for       QKD has been predicted as $1B by 2018 in a recent market report [9] which       refers to Toshiba as a       "Key Player".
+By then Quantum LEDs may show a performance advantage over       attenuated lasers       and allow higher secure bit rates.
+Through the work with the Cavendish, Toshiba Research Europe has been       able to create a       scalable semiconductor device based on quantum dots grown in an optical       cavity that emits single       photons at a wavelength suitable for optical-fibre transmission.
+As       indicated above, one advantage       of quantum dots is that they emit single or entangled photons, in response       to an electrical pulse, on       demand &#8212; unlike nonlinear crystals used to create entangled photon paris,       which emit photons       probabilistically.
+The development of such inexpensive chips, hosting       millions of such devices,       each addressed by an electrical control signal, is intended to be used in       linear optical computing       schemes.
+As a consequence of the joint demonstration of entangled-photon       LEDs [6] Toshiba are       now developing quantum teleportation and quantum repeater technology.
+As well as having an impact on Toshiba, this research has had an impact       on the wider community       through the conventional media such as newspapers, magazines and the BBC       as well as an       exhibit at the 2013 Royal Society Summer Science Exhibition.
+[12]     Following on from the SECOQC project the industrial interest in the       technology is evidenced by a       large consortium of companies working together to produce industrial       standards for quantum dot       based single-photon sources (such as those developed in [2]) under the       auspices of ETSI, the       European Telecommunications Standards Institute.
+[13].
+The QKD Industrial       Standardisation       Group involves 9 private companies and 5 government bodies.
+[14].
+Their       work has included the       definition of standard measures and test procedures for the single photon       devices developed in the       collaboration.
+This research has stimulated the national measurement Institutes to       establish substantial       programmes to develop standard tests for quantum light sources and       detectors with the National       Physical Laboratory involved in one such collaborative project with the       University and Toshiba.
+Similar programmes are underway in the US, Japan, Germany and Italy.
+This research has influenced the policy of national science and       technology organisations.
+For       example the Institute of Physics have identified Quantum Information       Technology as important       area of research in the UK, in part due to the work done in the       collaboration at Cambridge [15].
+Work on single and entangled-photon sources was featured in a publication       from 2011 including       an illustration on the front cover of an entangled-photon source       fabricated at the Cavendish       Laboratory and drawn by Robert Young, a University of Cambridge PhD       student.
+[15] The EPSRC       have identified quantum technologies as one of their "Grand Challenges"       and currently prioritise       funding in this area.
+[16].
+Quantum communications has also been a       priority in framework       programmes of the EU.
+This research has also had a considerable impact upon government policy.
+In Japan there is a       large industry-led "Secure Photonic Technology" initiative to promote       quantum communication.
+[17]       This initiative is funded by the National Institute of Communication and       Information Technology       (NICT) and Toshiba's laboratory in Cambridge is a participant.
+This       initiative involves the       development of both single photon quantum cryptography, as well as quantum       dot based quantum       repeaters and in part builds on collaborative research performed in       Cambridge.

@@ -1,0 +1,30 @@
+     The highly marketable intellectual property that has emanated from this       fundamentally soil science       research (outline patent submitted 2012) has been commercially protected       and professionally       exploited through Pore-CorTM and succeeded by PoreXpertTM       software.
+The software can be used       to optimize the design of porous materials, or predict properties such as       ageing and formation       damage by generating three-dimensional void networks which closely match       the full percolation       characteristic and porosity of any meso- and macro-porous material.
+It has       already been used in       the study of catalysts, oil reservoir rock, paper coatings, soil,       ceramics, pharmaceuticals and filters.
+After 2 years of development, PoreXpert Ltd was set up in November 2012.
+This spin-out is partly       owned by Frontier IP Group, which has a partnership agreement with the       University of Plymouth.
+As a result of channel agreements, PoreXpert is being distributed by       Thermo Fisher Scientific,       Milan, to all users of its Pascal mercury porosimeters worldwide, and to       all customers of Porometer       nv, Ghent.
+At a research level Pore-Cor and PoreXpert straddle the sample size at       which individual pore level       effects can be integrated and up-scaled to core and field scale - an       important step forward in       understanding soils.
+The software is highly demanding of experimental       data, because it fits the       percolation characteristic in its entirety.
+Such demands have led to the       installation of improved soil       physics apparatus at Rothamsted Research, Harpenden, which now monitors       sample shrinkage       during the measurements of the water retention characteristic.
+The software has found resonance with commercial companies and       researchers alike and through       sale and use of the software, commercial impact has been made, much of       which is confidential to       clients.
+Clients include fundamental agricultural researchers such as       Rothamsted Research and       climate modellers at the Met Office.
+Furthermore the software technology       is proving to be       transferable from agricultural soils to all meso- and macro-porous       material with industrial       applications including high performance paper coatings (e.g.
+the next       generation of Hewlett       Packard ink-jet papers, with designed coatings supplied by Omya AG),       stainless steel filters for       aeronautical and military applications (Porvair Filtration), soil       structure under clover and terrestrial       nitrous oxide production (Rothamsted Research, BBSRC), leakage of       pollutant oil through soil       (British Gas and Transco), catalysts (Johnson-Matthey), porous ceramics       (Delta-T Devices), oil       reservoir sandstones (British Gas and British Petroleum), security systems       for bank note transport       (Spinnaker International) and gas mask filters (Questair).
+Major Energy       Companies, such as EDF,       are utilising it and have invested in both its development and       exploitation.
+The approach is also       now being used to up-scale soil hydrophobicity transitions to a level       which are being incorporated       into the Meteorological Office JULES climate-change dependant hydrological       model       (NE/K004212/1).
+The cross-disciplinary applicability of this research is illustrated by       the example of its impact in the       paper industry.
+Paper is coated to increase its brightness, improve       printing characteristics, and       generally improve its perceived quality for magazines and photographs.
+Whereas paper coatings       used to be made from China Clay, the best modern coatings are made from       calcium carbonate.
+The EFMG has been collaborating with Omya AG for several years to design       `dual porous' paper       coatings - i.e.
+coatings made from micron-sized particles which themselves       have their own internal       nano-porosity.
+These paper coatings are now being used by Hewlett Packard       for fast, high quality       inkjet printing, which will ultimately entirely replace traditional offset       litho printing.
+The research has also developed to have impact on major energy companies       such as EDF.
+The       lifetimes of the UK's AGR reactors are primarily governed by the rate at       which the Gilsocarbon       graphite in the reactor cores is oxidised, and loses mass, under the       conditions of intense radiation       and heat.
+This oxidation occurs despite the graphite being bathed in       carbon dioxide - a normally       reducing gas.
+EDF's own Finite Element Analysis model cannot explain the       ageing process,       because it depends on the pore architecture within the graphite.
+EDF has       invested in       approximately &#163;200k of applied research at Plymouth to elucidate this       structure.
+Unexpectedly, the       research has been as much experimental as modelling, because of the       demands of the software.
+It has already influenced the approach of EDF to the prediction of the       ageing / mass loss rate, and       is being built into the Safety Case to the Office for Nuclear Regulation       for the extended running of       specific AGRs.
+Work on Gilsocarbon for EDF requires the separation of       actual mercury intrusion       from apparent mercury intrusion due to the destruction of the void       network, and this can only be       measured if a cyclic pressure cycle is used.
+Thermo Fisher is       reprogramming the firmware and       software for the Pascal porosimeter it has installed at Plymouth, and this       modification will is being       made available for all customers during 2013.

@@ -1,0 +1,29 @@
+     The process of Research leading to Impact     Research into the use of fibre-based interferometry to locate faults and       disturbances led directly to the formation of a technology start-up       company, Sensoptics, in 2006.
+It was co-founded by Dr Stuart Russell, who       developed most of the technology during his PhD.
+Having generated       commercial interest, the company developed both the existing and new       sensing approaches before successfully launching several perimeter       monitoring products for improved applications in security, and       subsequently diversifying into the oil and gas industry.
+In 2011       Sensoptics was sold to QinetiQ, an international defence and security       technology company, for &#163;2.6m [5.1], with further benefits to be paid       pending commercial success.
+The company was later rebranded as OptaSense       [5.2].
+In a 2011 press release from QinetiQ, Managing director Mike       O'Connor described the technology as `an excellent addition to QinetiQ's       portfolio of sensor solutions, ... equally applicable to detecting       intruders in perimeter security applications as it is to monitoring       mechanical failure in critical underwater infrastructure' [5.3].
+Later in       2011, OptaSense signed a &#163;26.5m deal with Shell to monitor the hydraulic       fracturing process (fracking) [5.3].
+The company has grown rapidly; in       2008 it had just three employees, today it has &gt; 120.
+The firm       forecasts a turnover of &#163;100m by the middle of the decade and currently       exports to more than 35 countries [5.4].
+This sequence of company       acquisitions (Sensoptics to Qinetiq to Optasense) in which a business has         adopted a new technology is a clear indicator of economic impact.
+Economic and Environmental Impact     The beneficiaries of these huge commercial advantages lie across a wide       range of sectors including civil engineering companies (due       to improved structural monitoring); manufacturing companies       (due to better process monitoring and improved safety within chemical       plants); and the security and defence industries (where       intrusion monitoring is paramount).
+However the greatest beneficiary is the         energy industry, where greater extraction efficiency and improved       monitoring and reservoir management bring vast financial and environmental       benefits.
+It is to be noted that the worldwide optical sensors market is       estimated at $2 billion [5.5, 5.6].
+Further impact is evidenced through job         creation: the three companies listed in the summary now employ over       160 people in this area of distributed optical fibre sensing.
+The lead partner in the FOSAR DEEP project [3.8] &#8212; Stingray Geophysical &#8212;       a leader in the use of fibre-optic sensing technology for seismic       Permanent Reservoir Monitoring solutions, have reported that       cost-effective permanent reservoir monitoring enables oil companies to       extract more hydrocarbons from known reservoirs more quickly, more safely       and more cost-effectively: a 2-3% increase in recovered hydrocarbon is       worth in excess of &#163;1 billion on a typical reservoir [5.7].
+This is clear       indication of the impact on the management of natural resources         (energy) and the introduction of new processes for economic       benefit.
+In 2010, following the experimental demonstration of acoustic sensing       over a distance of 500km, with the required system sensitivity, ORC       researcher Dr Ed Austin was recruited by Stingray Geophysical.
+The       development of this deep-water sensing capability was fundamental in the       subsequent US$45 million sale of Stingray to the Norwegian company TGS in       2011.
+A press release at the time stated: `The transaction will provide       TGS with a strong position in the rapidly growing market for Permanent       Reservoir Monitoring solutions.'
+Robert Hobbs, CEO of TGS, added: `The age       of "easy to find" oil is over, forcing oil companies to increase       investment in their existing fields to extend production and increase       recovery factors.
+The acquisition of Stingray allows TGS to access a       larger portion of the reservoir optimization market.'
+[5.8], which is a       clear indication of both economic and environmental impact.
+Following ORC research that successfully demonstrated record long-reach,       high-resolution temperature and strain measurements, Sensa Schlumberger       developed a robust demonstrator suitable for field trials for both power       cable monitoring with National Grid Transco and oil and gas pipe lines for       BP Explorations.
+After further development work Sensa Schlumberger       launched their Pipeline Condition Monitoring System, which was       field-tested at two sites in April 2007 [5.9].
+From 2008 onward the       company has found applications for the system in long-distance subsea       energy cable monitoring, installing six high-value projects to date.
+In       early 2013 Schlumberger began work on a major project involving 450km of       pipeline.
+Schlumberger Fellow Dr Arthur Hartog said: `We think the       technology can radically alter borehole seismic acquisition in particular       by making it much more efficient [and] financially more attractive.'
+[5.10].
+Finally, at the time of submission of this case study, negotiations       concerning a major deployment opportunity in Brazil (estimated value       US$100m and enabled by the improved business capability developed in FOSAR       Deep) are currently at an advanced stage [5.7].

@@ -1,0 +1,25 @@
+     Infinitesima (www.infinitesima.com)       is a spin-out company from the Nanophysics Group of the School of Physics.
+It has commercialized two patented innovations from the research of this       group.
+The company was founded in 2001 based on the invention of the       active Q resonance control technique for atomic force microscopy (AFM).
+This technique allows the effective quality-factor value to be controlled       at will through an electronic feedback system.
+This is important       particularly for using the AFM to image delicate samples in liquid       environments where increasing the effective Q value of the AFM cantilever       results in a considerable decrease in the force that needs to be applied       for tapping-mode imaging in liquid.
+The result is the capability to image,       for example, extremely delicate biomolecule samples.
+From 2001 to around       2005, the company sold about 50 Activ-Q units ($15k each) to customers       around the world for operation with most brands of commercial AFM       instruments.
+Since that time, the technique has been incorporated into       most leading commercial AFM systems including instruments from the market       leader, Bruker, as well as the other major companies in the field such as       JPK, Asylum Research, and Agilent.
+The AFM market is estimated to be worth       about $350 million per annum* and the active Q control technique has been       incorporated into 1000s of AFMs.
+*Future Markets, Inc 2011     From around 2005, the focus of Infinitesima moved to high-speed AFM       following its invention in the Nanophysics Group.
+Although conventional       AFM is a very versatile microscopy capable of generating 3D images up to       atomic resolution in environments from ultra-high vacuum to liquid       environments, resulting in applications from inorganic materials to living       functional biological systems, each image typically requires several       minutes to collect.
+The invention of the high-speed AFM by the group       opened up the possibility of video rate imaging and beyond.
+This is       important for following processes occurring on short timescales such as       crystallization, melting, enzyme degradation, self-assembly processes,       etc., which would otherwise be over before the first image had been       collected.
+High-speed AFM provides new information about, for example, the       nucleation sites and the sequence of events occurring in such processes.
+Infinitesima developed commercial versions of this new type of AFM and       sold about eight instruments ($100k each) internationally to research       laboratories in both academia and industry [A].
+At this point, the company       took the decision to concentrate on developing the high-speed AFM       essentially exclusively for the silicon fab applications for the review of       nanoscale defects occurring at various stage of silicon chip fabrication       on the production line.
+This required a high-specification version of the       high-speed AFM to meet the extreme requirements of such environments.
+To       achieve this focus and development, further investment, totaling &#163;7       million was acquired from ARCIntercapital [B], Sussex Place Ventures [C]       and others.
+Its high-speed AFM (trade name: Rapid Probe Microscopy) has been       developed for silicon wafer defect review and eUV mask review.
+Infinitesima is partnering with multi-billion dollar companies which       supply silicon device manufacturing companies such as Intel with the       manufacturing and quality control equipment [A].
+Infinitesima's Rapid Probe Microscope is intended to replace scanning       electron microscopes (SEM) for the Intel's P1274 node (10 nm feature size)       scheduled for 2015.
+At this size scale, SEMs cause unacceptable       contamination and charging.
+Infinitesima is collaborating to incorporate       its RPM technology in a joint project with a major instrument supplier to       silicon fabs.
+Nanotechnology is a flourishing field for innovation and research with       excellent opportunities for impact [F].
+Infinitesima is a first generation       company providing the `picks &amp; shovels' for this nanotechnology boom,       and is receiving validation for its approach in the media [G,H,I]     Today (and since 2008) Infinitesima has typically employed 12 on its       staff.

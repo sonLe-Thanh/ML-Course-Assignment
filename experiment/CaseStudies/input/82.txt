@@ -1,0 +1,32 @@
+     The impact since 2008 of our antenna research resides in the development       and exploitation of low profile antennas for a wide range of stakeholders       including contributions to challenging areas such as their integration       into buildings, vehicles and indeed onto people.
+This work has had       particular impact on policy and practice in the defence and security       domains.
+Kent research impacted on the revolutionary design and       construction of ALMA, the largest and most sensitive telescope in the       world at millimetre and sub millimetre wavelengths.
+Numerous individual impacts resulted from Kent's underpinning research on       mounted antennas, such as ceiling access point design for Panorama       Antennas (2010) [S1], development of internal digital TV antennas for       Mitsubishi VIL (2008), RFID wireless fuel management for Timeplan Ltd       (2010-12) and pinless connectors for Martec Ltd (2008-11) [S2].
+Given the       commercial requirement for modern antennas to add almost no cost, while       being embedded, compressed and optimised within larger products comprising       a number of cutting edge technological subsystems, it is difficult to       quantify the economic impact of the antenna alone.
+[text removed for publication]     Our vehicle-mounted antenna work led to sustained impact through the       team's association with Harada throughout this REF assessment period [S3].
+Additionally, Batchelor's work with DSTL (Fort Halstead) and Roke Manor       Ltd in 2010 analysed ground penetrating electromagnetic fields and the       most suitable launching antennas.
+[text removed for publication]     This work impacted by averting the continued deployment of inappropriate       antennas on board armoured vehicles for countermeasure technology       concerning concealed devices such as Improvised Explosive Devices (IEDs).
+This was part of a multi-faceted programme demonstrating the viability of       a military capability.
+Our study underpinned the feasibility of this new       capability and since 2010 the level of interest has risen such that MoD is       now running a ~&#163;5M concept demonstrator programme.
+Specialised       applications under operational conditions are planned.
+Quoting [S4]: Our       work "progressed UK MoD Science and Technology understanding such that we       [DSTL] hold a leading position in regard to international efforts to       develop such capability.
+The UK retains this leading edge, which, in part,       was supported by the output and access to the technical capabilities of       your research group at the University of Kent".
+Our body-centric communications and skin-mounted antenna work produced       printed transfer tattoo RFID tags [S5].
+This work was Highly Commended in       both the `Electronics' and `Medical Technology' categories of the IET       Innovation awards in 2011.
+Reports followed on national radio (2011) and       in the Central Government edition of Public Service Review (issue 23,       2012).
+This work in collaboration with Yeates (Manchester), Great Ormond       Street Hospital and DSTL resulted in an enabling technology for future       passive wireless sensor networks.
+In May 2013 we launched a spin-out       company, Mioband, to licence and fabricate our RFID technologies for       wireless monitoring, rehabilitation and surveillance.
+We have received       &#163;70,000 in 2013 from DSTL (Fort Halsted) and as subcontractors to       Evidentia Ltd. (CDE Contract `Finding the Threat') to raise the Technology       Readiness Level (TRL) of our passive RFID tags on-skin [S6].
+In April       2013, DSTL Scientific Assessors rated our Tattoo tag as excellent `with a       high likelihood that it will go into service'.
+Our disruptive transfer       tattoo RFID designs led in April 2013 to Batchelor's invitations to join       the Steering Committee of the National Centre for Digital Fabrication       offering services to industry and the DSTL Antenna Working Group with       attendees from DSTL, MoD, GCHQ and HMGCC.
+In May 2013 our RFID technology       was showcased to central government security staff [text removed for       publication].
+Our work integrating Frequency Selective Surfaces (FFS) into buildings       was instigated by Canterbury prison for preventing illicit mobile phone       use.
+This work was supported and then publicised by the National Policing       Improvement Agency in their Automotive and Equipment Section of the AES       Newsletter (2009).
+We demonstrated through international collaboration       with the University of Auckland that FSS can be manufactured in common       wall materials.
+Impact on professional practice followed in 2010 when Kent       joined the committee of the Wireless Friendly Buildings Forum (http://www.wfbf.org.uk/),       a consortium of architects and civil engineers, led by consulting       architects Buro-Happold.
+This involvement has been key in facilitating       uptake of the technology with, for example, our work being presented to       the Metropolitan Police at a Wireless Friendly Buildings Forum meeting in       2011.
+In March 2013 LD Consultants included our FSS screening technology       in their bid to provide communications to the new central law court       complex (Euro 575m) to be built in the Batignolles district of Paris [S7].
+Our input to the ALMA (http://www.eso.org/sci/facilities/alma.html)       project was so significant that a visit was made to the high-site in Chile       by our key researcher for the commissioning of the phase reference       distribution system [S8].
+ALMA was the major radio astronomy project of       the past decade: up to 66 radio telescopes, scanning at up to 900 GHz, and       separated by up to 16 km, work as a synchronised single telescope, thus       enabling unprecedented resolution.
+The benefits to an in-depth       understanding of the universe are significant: already ALMA observations       have shown that stars were being born in the early universe much earlier       than previously thought, generating significant public interest [S9].
+The       operation as a single array telescope is only possible due to the precise       reference signal distribution system underpinned by the Kent research [S8,       S10].

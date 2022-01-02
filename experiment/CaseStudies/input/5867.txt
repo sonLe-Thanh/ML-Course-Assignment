@@ -1,0 +1,39 @@
+     The BT planning tool suite uses the algorithms developed in the research       described above.
+Professor John Mellis of BT: "This co-operation has         been highly successful, specifically in the area of algorithm         development for `intelligent' network planning tools.
+The research into         automated planning algorithms led to the successful completion of Ph.D.         theses on automated planning of telecoms networks, including Passive         Optical Networks (now the basis for BT's "Superfast Broadband"         and "Infinity" offerings) and copper access networks (which led to the         Network Optimiser Tool and its use of the Genetic Algorithms created by         the Sunderland team).
+These tools or their derivatives today play a         crucial role in BT's network planning systems.
+The ideas and innovations         of the Sunderland team have inspired recent developments, notably the'         BT NetDesign' tool which has been applied to a wide range of BT's         network planning problems including the design of the local area         networks for the London Olympics 2012."
+(Evidence 1).
+The evolution       of the tool and the way in which the algorithms developed at Sunderland       have been applied has been clearly documented and agreed between BT and       Sunderland (Evidence 2).
+The BT planning tool suite is one of the most successful applications to       date of evolutionary computing to solve a complex real world engineering       problem (Evidence 3).
+The annual expenditure of BT based upon the output       of these planning tools is in excess of &#163;100M per year since the year       2000.
+The total expenditure on the access network is therefore a running       total of the order &#163;1.2B.
+The Sun/BT planning tools have been used to       design a large proportion of the UK national Internet, specifically the       part managed by BT.
+The tools may be used to determine a near optimal       minimal cost for the installation of a large network.
+Typically the plans       produced are robust and repeatable to within 0.2% of the average       installation cost.
+In this way installation costs are minimised and       optimised.
+The planning process has been transformed into accurate data       preparation by the human planner followed by automated planning carried       out by computer.
+A &#163;100M spinout company, Evolved Networks, was created in 2003 to       accelerate the commercial exploitation of the design tools, resulting in       sales of commercial software to BT, Eircom and other European telecoms       companies.
+This initiative was led by Visiting Professor Mellis.
+A BT press release (Evidence 4) explains how the use of BT NetDesign       enabled high-level designs for the communications network infrastructure       of venue buildings to be generated in about 30 minutes.
+Each design showed       the exact location of equipment, including racks switches and cable.
+Using       more traditional methods a network planner could take two weeks or longer       to complete a similar sized project.
+BT NetDesign is unique in its ability       to take a computer aided design (CAD) showing the location of       communication services and then, using `intelligent' software, create a       network communications infrastructure that will keep equipment and overall       cost to a minimum.
+BT estimated that the number of switches and support       equipment could be reduced by about five per cent as a result of using       NetDesign.
+NetDesign was employed in the design of the network       infrastructure for more than 75 competition venues and support buildings       which housed 80,000 network connections, 14,000 CATV connections and 1,000       WLAN access points.
+About 4500km of internal cable was used together with       a huge amount of communications network equipment.
+After completing his PhD research Dr Phillip Tann continued to work       part-time for the University as a lecturer.
+He also started a spin-out       company to track vehicles (taxis, buses, ambulances and cars).
+Phillip       developed the work he had undertaken with the group to build a tracking       system based upon Java network programming, GPS, embedded microprocessors,       Bluetooth and GSM, using the skills and artificial intelligence algorithms       developed within his PhD.
+The regional venture capital company NStar       awarded &#163;60,000 seed corn investment to develop the technology.
+This       resulted in the formation of the company FleetM8 (2008 onwards) to track       vehicles, which employed 15 people (Evidence 5).
+FleetM8's tracking system       was created to produce dynamic maps for vehicle-navigation systems so       drivers could tell when roads are quiet, or when traffic flows are       sluggish.
+It has also been fitted on buses in India by Karnataka State       Road Transport in Mysore.
+FleetM8 were awarded a contract with the North       East bus and train company Arriva, which operates across 12 European       countries.
+The Sunderland-based company use FleetM8's tracking technology       on bus fleets to immediately spot when the vehicles end up "crowding" by       getting too close together (Evidence 5).
+Dr Tann also hit the national press in 2008 when he was caught by a       mobile camera trap, which clocked him doing 41mph in a 30mph zone.
+But at       the time he happened to be trialling his new invention, a mobile phone       speed and distance recorder which showed he was in fact doing 29mph.
+He       was charged with speeding, but the case was dropped (Evidence 6).
+This       technology was then used as evidence by others in further speeding cases       (Evidence 6).
+A patent application was registered in 2010.
+The patent was       entitled "Global positioning system error correction, vehicle tracking and       object location", and presented a method and computer program for       determining an error factor for a differential global positioning system,       as well as a method of tracking         a vehicle (Evidence 6).

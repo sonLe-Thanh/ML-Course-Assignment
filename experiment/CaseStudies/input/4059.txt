@@ -1,0 +1,39 @@
+     The main areas of impact from this research are the change in business       practices on the international maritime salvage industry for wreck removal       and environmental clean-up operations along with an improvement in public       accessibility of maritime heritage sites.
+The development of novel 3D visualisation methods for displaying high       resolution multi-beam data through Rowland's research, combined with Dean       and Lawrence's data collection methods, led to successful Government       funded projects: e.g.
+HMS Royal Oak, SS Richard Montgomery and B159.
+Publicity resulting from these projects led to opportunities in the       salvage and wreck removal industry where previously multi-beam sonar had       not been considered useful beyond pinpointing the location of a shipwreck.
+This growing commercial interest led the ADUS research team to establish       the spin out company ADUS Ltd (Advanced Underwater Surveys) in 2008.
+The       company was partially acquired (50%) by Deepocean Ltd in 2013 and renamed       ADUS-Deepocean[l].
+ADUS has an exclusive licence to the 3D       visualisation methodologies developed from the research.
+Salvage and Wreck Removal:       The research has impacted on the maritime salvage industry through the       provision of high resolution, highly accurate 3D visualisations of       underwater sites, supporting risk assessment and critical decision-making       for planning and execution of wreck removal operations.
+Prior to the       development of the research, salvage companies relied heavily on diver       based surveys which are hazardous and restricted by depth and       environmental conditions (sea state, visibility etc).
+Through ADUS and its often high profile work (Deepwater Horizon Oil Rig,       Costa Concordia), the research is leading to an elevation of standards in       the salvage and wreck removal industry and a growing demand for the       improved 3D visualisation the research underpins.
+Implementation of the visualisation techniques in WreckSight has allowed       salvage planning and wreck removal to be based on accurate 3D data       presented in an interactive interface.
+The 3D visualisation allows the       data to be viewed from any angle whereas data from diver surveys       (drawings, photographs) is limited to 2D views which are further       restricted by levels of visibility in the water.
+The Costa Concordia project[g] produced an accurate metrical       dataset of the entire ship which was supplied to the salvage team ahead of       operations.
+This was enhanced with subsea laser, in-air laser and       photogrammetry data.
+The 3D visualisation was used by the salvage team to       plan wreck removal operations, including the placement of significant       sub-sea engineering works within a tolerance of 25mm.
+MV New Flame, a Panamanian bulk carrier, sank off Gibraltar in 2007 was       another example of the research being effectively employed in salvage       operations.
+The project involved two surveys and visualisations (2008-09).
+The first, prior to salvage was used for risk assessment and planning.
+This revealed large amounts of cargo still remaining in the main section       of the wreck had previously been undetected.
+The salvage plan was amended       to remove the cargo prior to lifting the wreckage otherwise the lift would       not have been possible.
+The second survey revealed that the savage team       had missed a significant piece of upstanding wreckage which, if undetected       would have caused a major hazard to shipping.
+Maritime Heritage:       The research's impact is also in the provision of virtual access to       previously inaccessible maritime heritage sites for the general public.
+The interactive visualisations in WreckSight and 3D animations and images       of the shipwrecks are distributed online and placed in museums for wide       public access[f,h,I,j] (e.g.
+Lyness, Orkney).
+The Battle of the Atlantic Project[k] (2011-2013) was         funded by the US National Oceanic &amp; Atmospheric Administration         (NOAA): National Marine Sanctuaries.
+The project explores the site of         the Battle of Convoy KS-520 which took place off North Carolina in 1942.
+A number of vessels lost in action are visualised interactively in         WreckSight.
+These include U-Boats and the merchant vessels they sank.
+The WreckSight volume is being used by the National Marine Sanctuaries         to promote the history of the site to a wider public audience.
+This work         (2012-13), led to the commission of a further investigation into a US         Civil War wreck; CSS Georgia which sank in the Savannah River, Georgia,         USA,1864.
+German WWI High Seas Fleet was scuttled in Scapa Flow, Orkney in 1919.
+Eight wrecks, which are regularly visited by sport divers were         visualised in 2007.
+This project was the first to use the WreckSight         software, which was distributed to dive boat operators at Scapa Flow to         support safer dive planning.
+Supported by Historic Scotland, the         shipwreck data was used in 2011 as a basis for the 3D illustrations on         the www.scapaflowwrecks.com         website promoting diving in the area.
+Scotland on Sunday newspaper[a]         published a full-page article on the Royal Oak project, including images         of the wreck and interviews with family members of the victims.
+This led         to BBC news coverage[b] on TV and Radio, linking the 3D         visualisation research to the oil clean-up operation.
+A review of the         Scapa Flow edition of Wrecksight was published in Diver Magazine[d]         and images from the Royal Oak visualisation feature on the Scapa Flow         Wrecks web site (2011).
+A number of articles describing the research and         its application for dive planning were published in the popular diving         press e.g.
+Diver Magazine[e].

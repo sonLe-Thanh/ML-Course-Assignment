@@ -1,0 +1,48 @@
+     Research at Durham aimed at developing an open-flow cryostat capable of       cooling below liquid       nitrogen temperatures [1] was performed as part of an EPSRC-funded project       in collaboration with       Oxford Cryosystems (OC).
+OC is an Oxfordshire based company which employs       20 staff and has       an annual turnover of &#163;3-&#163;3.5M.
+The prototype was completed in 1998 and       the commercial       version was launched by OC as the HeliX at the IUCr Congress in Glasgow,       1999.
+IP for the Helix       is owned by OC who have sold around 20 units in the 2008-2013 period to       academic institutions       and central facilities globally [Im1].
+Figure: N-HeliX (far left) and pHeniX (middle) cryostats         commercialised by Oxford Cryosystems [2,3]; Olex2 and         Topas Academic crystallography software (right).
+The successful development of the HeliX suggested similar technology       could provide a 12-310 K       cryostat for powder diffraction experiments, filling a market gap for       apparatus that was (a) easy to       use and low maintenance, (b) compatible with a range of diffractometer       configurations and (c)       usable by those without cryogen expertise and did not require expensive       liquid He.
+A prototype       pHeniX powder cryostat [4] was co-developed with OC, installed in Durham       in 2002, and the       commercial version launched later that year.
+pHeniX units have been sold       to industry in South       Korea, China, United States, mainland Europe and the UK as well as to       national facilities and       academic institutions directly by OC and through the X-ray manufacturers       PANalytical and Bruker       AXS.
+Approximately eight units are sold annually.
+The Director of Sales       and Marketing at Oxford       Cryosystems, said: "it is fair to say that without the research excellence       of Durham University, we       would not be manufacturing and selling these cooling devices as we are       today.
+OC's product range       has expanded greatly over the past ten years and being able to offer these       products is very       important in allowing us to move into new applications."
+[Im1]     EPSRC "Age Concern" funding to JAKH enabled development of Olex2 software       [5, Im2], a       modern, powerful and easy to use package for the solution, analysis and       refinement of single       crystal X-ray data.
+The open source version is available free of charge       from the internet and has       been downloaded extensively, providing an estimation that there are over       5000 users worldwide.
+The original paper has been cited &gt; 650 times, demonstrating impact on       the global academic       community and in training students, future academics and industrial       scientists.
+Future development       of Olex2 has been secured through the Durham spinout company OlexSys       [Im2].
+OlexSys was       established in December 2010 (Company No 07465154) with the legal       assistance of Durham       University Business and Innovation Services.
+It has been trading since       June 2011 has a growing       turnover, employs full and part time staff and is chaired by JAKH.
+OlexSys       has two complementary       and parallel work strands.
+To keep Olex2 at the scientific cutting-edge       they maintain and develop       the open source version for and on behalf of the global academic       community.
+They also provide       bespoke software solutions for industry and have commercial contracts with       instrument       manufacturers Agilent, Rigaku and the Cambridge Crystallographic Data       Centre.
+One commercial contract is with Agilent [Im3], who install Olex2 with all       of their X-ray systems       (each typically costing &gt; ~&#163;300K).
+Agilent commissioned OlexSys to       create the exclusive bespoke       commercial product AutoChem.
+Autochem provides automated, intelligent,       real-time structure       solution and refinement during data collection.
+Although Agilent company       policy states that specific       sales figures can't be released, the University believes a significant       number of licences have been       sold to date.
+A major update, Autochem2.0 was commissioned in 2011.
+It is       derived from Durham       research and OlexSys developments, and described on the Agilent website       as: "The ultimate       productivity tool for chemical crystallography, AutoChem &#8212; now as       AutoChem2.0 &#8212; provides fast,       fully automated structure solution and refinement during data collection.
+Developed exclusively for       Agilent by the authors of Olex2, AutoChem2.0 is a seamlessly integrated,       optional plug-in for       CrysAlisPro, offering an advanced approach for automatic structure       determination, and now with       an even higher rate of success."
+JSOE has been heavily involved in the development of Topas &#8212; the leading       software for analysis of       powder diffraction data and Rietveld refinement (e.g.
+[6]).
+He has worked       closely with Alan Coelho       and Bruker in implementing new ideas and methodologies in this software       [Im4,5].
+In particular his       methods for analysing variable temperature/time/chemical environment data       are used worldwide       and the time-of-flight neutron and distortion mode/magnetism methods he       introduced underpin       numerous experiments at UK central facilities (e.g.
+[7]).
+The jEdit       interface he developed and       distributes for "power-use" of the software is used by many academic and       industrial groups, and       Durham has trained in excess of 500 people in its use at predominantly       industrial workshops       worldwide (USA, Germany, Italy, UK, Australia).
+Many of these innovations       are now incorporated       in the commercial version of Topas [Im4], which has a list price around       &#163;10K.
+Sales figures for       Topas are commercially sensitive information that Bruker cannot release.
+Many licenses have       been sold and that their distribution would be approximately 50:50 between       industry and academia.
+Many copies of the academic version have been sold to groups worldwide       (80% in REF period)       [Im5].
+The Topas community wiki site and discussion forum is run through       Durham       (topas.dur.ac.uk/dokuwiki.php) and has a vibrant and expanding community       with about 300       members.
+This includes industrial members from industries in the chemicals       (e.g.
+Johson Mathey,       BASF), cement, pharmaceutical and mining sectors.
+Our structural expertise also has significant and direct impact on       industry via the       service/consultancy work we perform under the auspices of the departmental       services.
+Within the       REF period the Department has performed many single crystal, powder       diffraction and related       analyses.
+We have also supported industrial users with structure-related       problems via Durham's       industry-funded solid state NMR service, helping 49 companies with work       between January 2008       and July 2013.
+The impact of all our crystallographic research is enhanced by regular       international training schools       run in Durham [Im6], e.g.
+the Powder Diffraction and Rietveld refinement       School (biennial since       2004) and BCA X-Ray Single Crystal Structure Analysis Intensive Training       School (biennial in       Durham since 1995), targeting both academics and industry on an       international scale.
+Since 2008       the X-ray Single crystal school has trained over 250 participants over 3       schools held biennially and       the powder school has trained &gt;200 delegates from around the world.
+An       overseas PhD student at       the 2008 powder school stated "I think it was one of the best teaching       courses I have ever       attended" and a UK academic "I would have no hesitation in recommending it       to any academics or       students....there is a huge need for this in the UK"; the International       Union of Crystallography       powder commission described it as a "school others should aspire to".
+The       problem-based       learning example set for the powder school features many examples derived       from Durham       research ( http://www.dur.ac.uk/john.evans/topas_workshop/pcg_workshop_menu.htm       ) to help       train others in our methods.

@@ -1,0 +1,32 @@
+     Context     Fire and potential subsequent explosion is the major risk factor when       operating high-voltage       transformers in dense urban environments.
+Power transformers require       insulating and cooling       media, most commonly mineral oil an environmentally hazardous material       which is also a fire risk.
+Ester liquids mitigate these hazards and risks, since they are       biodegradable and their flash point is       350 &#176;C versus 150 &#176;C for mineral oil.
+Ester liquids have been used in low       voltage (LV) transformers       (&#8804;33 kV) for twenty years, but were not used in HV transformers before       2008.
+The Manchester       research established the performance of ester liquids under all the       critical stresses of HV       applications, which enabled the manufacture and operation of HV       ester-filled transformers with       environmental performance and fire-safety level expected by society.
+Pathways to Impact            The research team worked directly with sponsoring companies &#8212; M&amp;I         Materials, Alstom Grid,         UK Power Networks (UKPN), National Grid, Scottish Power, Electricity         Northwest and TJH2B         (2005 to date).
+Technical papers were presented at leading international conferences         in the field &#8212; IEEE:         Conference on Electrical Insulation and Dielectric Phenomena (CEIDP),         International         Conference on Solid Dielectrics (ICSD), International Conference on         Dielectric Liquids&#183; (ICDL)         and International Symposium on High Voltage Engineering (ISH).
+Presentations were regularly given to the Council on Large Electric         Systems, (CIGRE)         Session/Colloquium and working groups.
+CIGRE is the international         association that develops         professional practice guidance for engineers in the power system sector,         and is the relevant         technical council for the International Electrotechnical Commission         (IEC).
+All these activities increased the awareness of HV performance of ester       liquids by the industry.
+Reach and Significance of the Impact     1.
+Changes to international standards and professional practice.
+International standards in the       electrical industry are established by the IEC.
+The research [5]       highlighted the need for updates to       existing IEC standards for the use of ester oils in HV transformers; these       are currently being       implemented by IEC Committee TC10 [a].
+These standards are supported by       professional practice       guidance through CIGRE technical brochures which are the main practice       guides for power       engineers internationally.
+The results from the Manchester research are       the basis of several       sections in "Experiences in Service with Insulating Liquids" (2010) [f]       and "DGA in Non-Mineral Oils       and Load Tap Changers and Improved DGA Diagnosis Criteria" (2010) [g].
+2.
+Ester liquid manufacturers: The research has enabled companies       producing ester oils to       expand their market from the small LV transformers that typically hold       &lt;100 litres to larger HV       transformers that typically hold 40,000-80,000 litres of oil creating a       5.5m litre annual global market       [h].
+In the UK M&amp;I materials, a high growth SME, and a sponsor of the       research at Manchester, is       using the research results to support sales of Midel 7131.
+Their Technical       Manager stated "in doing       this, customers and potential customers are persuaded of the advantages of       using these       alternative fluids... M&amp;I Materials' total sales increased from &#163;15m       in 2008 to &#163;29m in 2012" [a].
+3.
+Transformer manufacturers: The equations developed in [4] and       [6] enabled manufacturers to       design and manufacture ester-filled transformers.
+In 2008 Alstom Grid, the       third largest transformer       manufacturer in the world, became the first manufacturer in the UK to       design and manufacture an       ester liquid-filled 132kV/33kV/90MVA transformer.
+Such transformers are       large capital items       (typically valued at &#163;1-2m) that are only manufactured to order and this       first transformer was       installed in EDF Energy's network (see 4 below).
+Alstom Grid can now       manufacture a sustainable       range of green "eco-efficient" power transformers (10 to 200 MVA and up to       245kV) [e], and       continue to use the Manchester research to help design a 400kV       ester-filled transformer insulation       model to validate this technology for the highest UK transmission voltages       [b].
+4.
+Distribution Utilities: Based on the statistical evidence in       research output [1], EDF Energy       (now UK Power Networks, the distribution utility for London) made a       strategic decision to become       the first utility to own and operate a "green" 132kV transformer using       natural ester oils from       renewable resources that are biodegradable and more fire resistant [d].
+5.
+Transmission Utilities: National Grid, the UK power       transmission system operator, has used       the Manchester research to revise their oil policy to enable the use of       ester oils to meet fire-safety       concerns.
+National Grid has also ordered the first fire-safe 400kV       transformer prototype with       20,000 litres of M&amp;I Material Midel 7131, the liquid analysed at       Manchester.
+The cost of each       transformer is &#163;1m-&#163;2m [c].
+The improved fire safety and environmental benefits of ester oils are       driving change internationally       and we are aware of anecdotal reports of US based utilities changing the       oil type in existing       transformers in high risk locations such as Disneyland.

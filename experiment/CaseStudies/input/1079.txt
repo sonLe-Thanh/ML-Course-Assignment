@@ -1,0 +1,59 @@
+     Based only on collaborations directly involving us, GATE's text mining       algorithms have been used by companies to build products targeting diverse       verticals including: media (delivery; analysis; journalism);       pharmaceuticals; patent search; voice-of-the-customer; brand, product, and       reputation management; social media analytics; bioinformatics.
+Its major       commercial beneficiaries have been both large organisations (BT, Elsevier,       Yahoo, Atos, Dassault Aviation, MPS Bank, Creditreform, BBC, the Press       Association, Euromoney) and SMEs and start-ups (Text Mining Solutions,       Intellius, Fizzback, Garlik, Innovantage, Ontotext, Mondeca, Playence,       ELDA, CoreSystems).
+A 2010 study of the market for intelligent text processing solutions       (Grimes, [S5]) estimated its size at $835m, with 25-40% growth potential       per annum.
+Growth was driven by the technology's central role in social       media analysis and by text analytics' contribution to advanced semantic       search and search-based applications.
+The study lists GATE as one of the       leading technologies in the sector.
+There are 54 US patents which reference the GATE framework, including 18       from IBM, 11 individual patents, other patents from Xerox, AT&amp;T,       Hewlett Packard, BT, and Research in Motion.
+This reflects the fact that       GATE enables the wide take-up of text processing technology.
+Since 2010 the GATE Summer Schools, funded by commercial fee-paying       attendees (who make up around half the audience) have been attended by 210       people representing 74 distinct commercial organisations including Adobe,       Bayer, Elsevier, the Health Protection Agency and Lockheed Martin.
+The       software has had over 190,000 downloads since 2008 [S9].
+GATE has had very substantial economic impact.
+It has allowed the       foundation of new businesses and existing businesses to exploit new       markets and make cost savings on existing products.
+We provide exemplars       in Digital Semantic Publishing and Semantic Search and         Information Extraction.
+Digital Semantic Publishing: The BBC's GATE-based       digital semantic publishing platform has achieved savings of approximately       80% in the editorial costs of running the news and sports website compared       to a conventional database-backed web system.
+These systems represent       capital investment of millions of pounds.
+The platform is integrated right       across the BBC News and Sports sites, and has made "a huge improvement         to the quality of the site that wouldn't have been possible without GATE"       according to the Chief Technical Officer at the Financial Times, formerly       Director of Architecture and Development at the Press Association and       Chief Architect of BBC News and Sports interactive, who has integrated       GATE in all three organisations (S1).
+"The breadth and speed of BBC         online coverage of major events like the World Cup and the Olympics 2012         would have been technologically and financially impossible without it."
+The cost savings arise from the platform's ability to allow journalists to       develop and change content for web publishing without involving teams of       technologists.
+Consider a London Olympics example: in a conventional       approach, if a relatively unknown athlete achieved a gold medal, increased       interest would warrant a new area on the site dedicated to that athlete.
+This would require adjustments to the relational database structure,       tailoring of search indices and consultation on the content prominence       between technical staff and journalists.
+Digital semantic publishing uses       GATE to connect the journalistic content to a semantic repository,       automating this process.
+The creation of the content becomes simply a       matter of journalist choice, rather than requiring broad consultation.
+The Press Association "have adopted GATE as part of their core         infrastructure for the faster and better production of the Wire and all         the services they offer, but it has also allowed them to as develop a         new offering, supplying tailored content to specific customers"       [S1].
+For example, GATE made it possible for them to offer an affordable       high quality solution to link up meta data and push all content to the       London Committee of the Olympic Games (LOCOG) website.
+Before GATE, it       would have been too difficult and costly to offer such a service at a       competitive price and still make a profit.
+The site was a worldwide hit,       the biggest in the world (excluding Google and other search engines) in       terms of content and every possible usage metric for the duration of the       games [S1].
+Other organisations are embracing the technology.
+CNN commissioned       a similar system in 2011, it is already part of the web infrastructure for       Euromoney, and a GATE-based platform is currently in development by       the Financial Times for the better management and categorisation       of information.
+"It is now one of the key tools in the web         development toolset" [S1].
+Semantic Search and Information Extraction: Fizzback       processes customer feedback for major UK transportation clients like First       and National Express.
+Their information extraction architecture is based       on GATE.
+Fizzback was founded in 2004, received &#163;1.9 million second round       investment in 2009, and was sold to Nice Systems for USD80 million       in 2011 [S6].
+Operating in the voice of the customer market,       Fizzback provides a service that would have been impossible without the       GATE language analysis tools on which it was based, according to its       founding CTO [S2].
+Foodity, co- founded in 2010 by the founding CTO       of Fizzback, processes recipes from the web using GATE to derive their       ingredient lists.
+They secured &#163;300k in mid-2012 bringing their total       funding to &#163;450k.
+Their entire business model would not have been possible       without the predictability, maturity and wide spectrum tool support of       GATE.
+"As an early adopter of GATE I have never looked back.
+My notable       successes have been with Fizzback and Foodity both as shining examples of       NLP integration in an enterprise application" [S2].
+Ontotext is one of the EU's largest independent semantic       technology businesses with 70 employees, and turnover of &#8364;3m in 2012.
+The       company's entire technology stack is based on GATE's text mining       functionality.
+Executive Director Atanas Kiryakov confirms: "The use of         GATE in our products is considered very beneficial by our         clients, because it guarantees them low vendor lock-in...
+There were         several cases in which Ontotext won projects against other text mining         vendors because of the openness and popularity of GATE...Overall since         2008, Ontotext have secured contracts for more than &#8364;5m on work that         directly uses GATE" (S3).
+Examples of GATE- based projects include:       a joint venture targeting the UK recruitment industry called Innovantage       (2008) that harvests job and vacancies data from over 30,000 company       websites and 300 job boards to create currently the richest database of UK       job offerings; and enabling the UK National Archives to index and       provide a semantic search for over 10TB of government web pages.
+Text Mining Solutions is a startup formed in April 2011 that began       delivering information extraction solutions in January 2013.
+The company       generated turnover of &#163;8k in its first three months of trading, and is on       track to generate forecast turnover of &#163;50k in its first full financial       year.
+Company Director Stephen Brewer confirms: "It was my awareness of         GATE and the commercial possibilities it offered that initially led me         to found Text Mining Solutions, and the technology is absolutely         fundamental to our whole service offering.
+Our company, and the two full         time posts it has created, simply would not exist without GATE"       [S4].
+The company has five key customers, with some twenty more in       prospect.
+GATE is used both to mine text on behalf of some customers and       to write rules for others to integrate into their own GATE pipelines.
+"The         key advantage that GATE offers ... is its combination of flexibility         with scaleability.
+It is modular and so can be adapted to a hugely         diverse range of individual customer needs, but it can also be scaled up         for implementation on large projects handling significant volumes of         data ...
+The UK is leading the way in the adoption of text mining         technology, and GATE is making a major contribution internationally to         knowledge and information management within an emerging market that         wouldn't be possible without it.
+This is a high-potential market that is         still in the early adopter phase, and GATE has allowed Text Mining         Solutions to position itself securely ahead of competitors" [S4].
+IBM have been "inspired and influenced" by GATE [S7] leading them to       adopt new technologies.
+Specifically, GATE has had a critical impact on       the development of their Unstructured Information Management (UIMA)       software.
+UIMA underpins IBM's content analytics offering and their Watson       question answering system, key parts of what they see as a $20bn       opportunity in Business Intelligence and Analytics (IBM CIO interview       [S8]).
+In 2001 IBM began work on their UIMA system "a software       architecture for defining and composing interoperable text and multi-modal       analytics".
+UIMA interoperates with GATE through a translation layer that       connects the two systems allowing UIMA users access to GATE analytics, a       capability that IBM deemed sufficiently important to directly fund       Cunningham to develop in 2005.
+IBM have now released UIMA, including the       GATE interoperability layer, under Apache license (uima.apache.org).
+IBM       have 18 awarded patents referencing GATE.

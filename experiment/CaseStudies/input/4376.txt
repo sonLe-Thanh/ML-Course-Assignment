@@ -1,0 +1,25 @@
+     The electricity industry in Great Britain is regulated by the Office of       Gas and Electricity Markets, Ofgem.
+Ofgem has to set limits on the overall       level of the prices charged for electricity transmission and distribution       to consumers, and to approve the methodology by which the particular       prices paid by each system user are set.
+Ofgem (or strictly speaking, its       governing Gas and Electricity Markets Authority) is also responsible for       approving or denying changes to the rules of the British Electricity       Transmission and Trading Arrangements, which interact with the prices set       by the transmission companies to determine the overall cost of buying       power.
+Ofgem drew on research findings of the University of Birmingham when it       instructed the electricity industry to re-design transmission charges that       recover &#163;1.6 billion per year.
+This is a very significant impact because       of the geographical structure of supply of and demand for electricity.
+Electricity typically flows from the north to the south of Great Britain,       and the flows have been greatest at the times of maximum demand.
+To       reflect the costs that these flows impose, transmission tariffs have been       based on the capacity of generators and are higher for generators in the       north than in the south.
+This imposes relatively high costs (per unit of       output) on renewable generators in Scotland and northern England, which       generate less per unit of capacity than most other power stations,       potentially raising the subsidy they require to break even.
+Ofgem started Project TransmiT in 2010 to review whether these charging       arrangements would remain fit for purpose as the proportion of low-carbon       generation increased through 2020 and beyond.
+There was extensive industry       consultation, and three teams of academics were engaged to consider       whether changes to transmission prices were desirable and, if so, to       recommend changes.
+A fourth team produced a report on whether transmission       prices should be used to promote low-carbon generation; another team       academic peer-reviewed the reports (source 3 below).
+Professor Green was recruited as the sole economist in one of the teams       on account of his extensive reputation among policy-makers in this area       (source 4); for instance, he had been a Specialist Advisor to the House of       Commons Trade and Industry Committee for two reports in 2003 and 2004.
+On       this team, he worked alongside four engineers from the University of       Strathclyde.
+Professor Green played a crucial role in the team's work       through evaluating the economic impact of several alternative       methodologies considered in their report (source 1).
+The team recommended       improvements to the current charging methodology; in particular that       charges per unit of electricity generated should be introduced alongside       the existing (but reduced) charges for generating capacity.
+The intention       was to send an approximate signal of the costs imposed by distant       generators at off-peak times but to avoid proposing radical changes that       might not be politically implementable (such concerns were discussed in R3       above).
+The other two academic reports proposed the radical change of       introducing a system of nodal pricing as used in the US electricity       markets (source 2, which includes references to R1 above).
+All the draft       reports were presented to Ofgem at a meeting in March 2011 and published       after responding to feedback from the regulator.
+The regulator rejected nodal pricing as it would have involved changes to       energy trading as well as to transmission pricing (source 5).
+Instead, it       favoured the approach of improving the current system that was recommended       by the Birmingham-Strathclyde team (source 6).
+Following further analysis,       National Grid has now been directed to develop charging proposals along       these lines (source 7).
+This includes explicit consideration of charges       per unit of output (as recommended in source 1); much of the industry       analysis had been of charges per MW of capacity that would be linked to       the generator's load factor, and hence mathematically equivalent to       charges per unit of output.
+The research has thus fundamentally shaped a significant change to the       future of electricity pricing in Great Britain, affecting the costs       incurred by the industry and the payments made by every consumer in the       country.
+These "Transmission Network Use of System" charges amounted to       &#163;1.58 billion in 2009/10 (source 1, pp 23-24).
+Ofgem are still working to       quantify the benefits from the changes, but their broad conclusion is that       "cost reflectivity drives more efficient decisions by market participants       and policy makers which creates value for consumers" (source 6, page 5);       this is the key theme which was expanded and quantified in the research       presented in section 2 of this case study.

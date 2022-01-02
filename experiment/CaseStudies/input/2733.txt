@@ -1,0 +1,29 @@
+     Shell Global Solutions (based in Chester, UK) undertakes a wide variety       of projects where statistical and mathematical modelling is required.
+The       GWSDAT software was developed by Shell, based on statistical methodology       and interactive software tools from the University of Glasgow.
+GWSDAT was       first released for use by Shell consultants in 2009 and the most recent       version was released in 2012.
+A survey carried out by Shell in 2013       estimates there are currently around 200 users worldwide, from countries       including, for example, the UK, USA, Australia and South Africa.
+Shell is responsible for the operation of a huge number of installations,       from small petrol stations to extensive refinery sites, and significant       attention is paid to monitoring the surrounding environment to ensure the       prevention of any adverse effects.
+Inadvertent release of soluble material       can lead to pollution of groundwater, with a risk that contamination is       transported beyond the site boundaries.
+It is standard practice to drill       boreholes around installations, from which samples can be regularly drawn       and analysed, in order to identify and monitor the presence of any       pollutants.
+The measurements from boreholes at a particular site generate a dataset       which records pollutant levels at points in space and time, but there are       issues with the practicalities and costs of sampling which restrict the       number of measurements made.
+Also, the consultants responsible for       interpreting these measurements generally have a strong scientific or       engineering background but may not have extensive training in statistical       methods.
+Using data from boreholes to construct reliable estimates of the       underlying pollution patterns across (i) the whole site and (ii) the       entire time period requires specialist statistical methods and concepts.
+However, referring results to others with the necessary expertise for       statistical analysis would potentially lead to significant delays.
+The GWSDAT directly addresses these needs.
+Shell has identified the       benefits of the software to include:            The early identification of rising contaminant concentration trends,         leading to reduced response time in the event of leaks or spills.
+There         has been more than one instance of unknown leaks being identified by the         use of the software tool.
+Improved data transparency leading to better designed monitoring         networks and more robust conceptual site models, thereby avoiding         collection of redundant data.
+Clarity on the relationship between dissolved solute concentrations         and groundwater elevation and flow direction, for improved plume control         measures and fit-for-purpose remediation system design.
+Significantly reduced time and resource expenditure on the analysis         and reporting of monitoring data, particularly in the case of smaller         sites where insufficient data is available to justify the cost of using         geographic information systems or transport simulations.
+Significant cost savings.
+A recent survey undertaken by the company         indicates that the software package has led to savings in the region of         $10m in the last 3 years.
+Users view an Excel spreadsheet and explore, graphically and       interactively, the data it contains.
+Importantly, the underlying       statistical model constructs an estimate of the pollution surface across       the entire spatial region of interest and a slider can be used to view how       this changes over time.
+Different solutes can be selected or the data from       particular wells viewed in greater detail, with estimates of trend       superimposed.
+Large datasets (more than 50,000 rows) can be modelled in a       matter of seconds.
+The added value and flexibility of the system has been       very well received by users.
+Key staff responsible for the GWSDAT software application within Shell       commented that:     Data analysis and reporting that previously required weeks of effort         can now be completed automatically, at the click of a mouse.
+The GWSDAT         spatiotemporal modelling research programme has yielded total savings         for Shell in excess of $10M over the past 3 years.
+Although developed specifically for use by Shell, the package is also       being made available to external users, including environmental       regulators.
+It is currently being submitted to an industry website from       which it will be freely available to other industrial users.
+Shell also       regularly publicises the package at national and international       conferences.

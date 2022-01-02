@@ -1,0 +1,43 @@
+     HiP-HOPS has achieved industrial, economic and societal impact and it is       widely recognised as one of the techniques that define the       state-of-the-art in dependability analysis and optimisation of systems.
+This section first presents the three strategic activities through which       impact was pursued in the period and then details the industrial, economic       and societal impact achieved.
+Impact Strategy and Activities (2008-present):     a) Commercialisation of the HiP-HOPS tool and global engagement with       large industrial users, including Volvo, Fiat and Continental in Europe,       Denso and Toyota in Japan, Embraer in Brazil and Honeywell in the USA.
+Over 30 licences of the tool have been sold to these organisations since       2011 (see details of impact including value of sales under heading       "Details of Impact Achieved" below and sources to corroborate impact:       3,4,5).
+b) Technology transfer to industry through European Projects including       three projects in the automotive and shipping domains (see refs [4-6] in       section 3) and consultancies.
+Research has been transferred to R&amp;D       departments and system design teams.
+A consultancy for the Flemish       Mechatronic Institute (2012) has led to seven HiP-HOPS licences deployed       in various companies that are members of this organisation (see details of       impact including benefits for companies involved under heading "Details of       Impact Achieved" and sources to corroborate impact: 1,2,6,7,8,9).
+c) Organisation of events focused on HiP-HOPS and related model-based       dependability analysis technologies.
+Papadopoulos has co-organised and       co-chaired multi-session tracks and tool sessions in successive IFAC       symposia on Information Problems in Manufacturing and IFAC World Congress       in 2008.
+This activity led to the establishment of the IFAC Workshop on       Dependable Control of Discrete Event Systems which provides the main forum       for technology transfer to industry on the field of dependability.
+IFAC       DCDS'13 was co-organised by the University of Hull and co-chaired by       Papadopoulos (http://dcds13.net.dcs.hull.ac.uk/).
+DCDS'13 was financially supported by Bosch and was attended by senior       representatives of British industries.
+There were three sessions on       state-of-the-art in Model-based Safety Assessment with strong       representation of HiP-HOPS.
+There was strong interest from the Head of the       Software Centre of Excellence in Rolls Royce, a seminar was given       (04/11/2013) and technology transfer to the company is being explored.
+Details of Impact Achieved:     1.
+Economic impact (2008-present)     A consortium agreement with ITI GmbH (a German Computer-Aided Engineering       specialist software house), and Germanischer Lloyd was signed in May 2010,       and HiP-HOPS was commercially launched in January 2011.
+Germanischer Lloyd       (GL) is a major international register of shipping with enormous influence       in the industry and actively promotes this technology in the shipping       industry.
+This development has sprung out of SAFEDOR, the largest ever       project on safety funded by the EU with 53 partners and a total budget of       &#8364;20 million, where the University of Hull had a key role as provider of       technologies for automated safety analysis and design optimisation.
+ALL4TEC in France, a company specialising in provision of tools and       services for system safety analysis, is also commercialising HiP-HOPS to       its clients in the context of a sub-licensing agreement with the       University of Hull.
+Commercialisation activities have started to contribute directly to the       economy of the UK since 2011 via HiP-HOPS sales currently at &#163;60,000 by       the University of Hull which controls the HiP-HOPS licence.
+Additional       benefits to commercialisation partners are estimated at &#163;240,000.
+The       latter are arising from stake in the sale of HiP-HOPS, additional sales of       modelling tools linking to HiP-HOPS, and services such as training and       application modelling.
+There are also economic benefits via improvements       in the processes of safety analyses achieved by HiP-HOPS &#8212; which       contribute to reduced costs arising both from automation and efficiencies       but also safer product/system development for the industrial users of the       tool.
+It is difficult to quantify the latter, and no studies have been       done on this, but the growing uptake of the technology is very promising       in this respect, and included is a list of users that can provide       estimates on such benefits in this section.
+2.
+Impact on industrial practice (2008 &#8212; present)     In a string of European and industrial funded projects, HiP-HOPS has       directly contributed to the specification of the error modelling       capabilities of EAST-ADL, an emerging architecture description language       developed as an automotive industry standard for the design of vehicle       control systems by a consortium of automotive companies.
+As a result of       this work, in 2011, the EAST-ADL association was founded to manage the       standardisation and evolution of the language, and promote its adoption in       the automotive industry.
+The University of Hull is a founding member of       this association and Papadopoulos is among two academics sitting on the       5-member board.
+This development is important because it confirms wide       reach and acceptability of the method and is preparing the ground for       further industrial and societal impact in the future.
+HiP-HOPS has recently been extended with a novel approach to automatic       allocation of safety requirements to components of a system architecture.
+The proposed process can support and simplify the implementation of the       upcoming automotive safety standard ISO26262.
+A member of the       corresponding ISO committee has been involved in evaluating this proposal       with a view to influencing the refinement and implementation of the       standard (see corroborating evidence 2).
+Through commercialisations, EAST-ADL and consultancies funded by Toyota,       the Flemish Mechatronic Institute and others, HiP-HOPS has been taken up       by automotive companies which include Volvo, Toyota, Volkswagen, Daimler,       Fiat, Siemens, Continental, Ricardo and Mecel.
+HiP-HOPS is being       experimentally used in the design of new active safety systems by these       companies.
+Daimler have developed their own implementation of HiP-HOPS.
+In       the aerospace sector, HiP-HOPS is being used by Honeywell and Embraer for       improved system design.
+New work (2012-present) of potentially high impact       in the sector is focused on harmonising HiP-HOPS with AADL, the emerging       Architecture Analysis and Design Language which is becoming an industry       standard in the aerospace industry.
+Embraer (see corroborating evidence 8)       have developed their own implementation in HiP-HOPS.
+The continual and       growing involvement of these companies with HiP-HOPS shows the benefits       they have acquired in streamlining, rationalising and improving dependable       design.
+Their involvement in over 50 HiP-HOPS publications within the       period, reported case studies (including in refs [1-3] in section 3 and       the eight submitted REF outputs on HiP-HOPS), as well as personal       communication with the industrial contacts cited in section 4, will       confirm these benefits.
+3.
+Societal impact (2008 &#8212; present)     Industrial applications in large scale show that HiP-HOPS speeds up the       safety analysis process by automating part of it and thus enabling       multiple iterations of safety analysis that help to improve the design of       safe systems.
+The impact on safety improvements is difficult to quantify       at this stage, but users largely agree (see industrial contributions to       publications and sources to corroborate impact 6-9) that the process       significantly improves classical safety analysis and influences positively       the safety of systems which can in turn significantly reduce risks of life       losses as well as property and environment damages caused by system       failures

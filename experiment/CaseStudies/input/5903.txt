@@ -1,0 +1,22 @@
+     Worldwide there are some 35 million sufferers of insulin-dependent       diabetes.
+For many years, the adverse symptoms of this condition have been       mitigated successfully with regular injections of insulin.
+Initially these       insulins were obtained from bovine and/or porcine sources, but they did       not mimic well actions of endogenous insulin, leading to frequent       hypo-glycaemia and other complications.
+In 1980, the first clinical trials       were begun of recombinant insulins obtained by protein engineering       methods.
+From these trials it soon became apparent that the rate of       insulin action in vivo was a key factor in the therapeutic       potential of the enzyme.
+The best results were obtained when the insulin       injectate contained a mixture of fast-acting and slow-acting insulins,       where the latter avoids the need to have regular repeated injections and       minimise hypoglycemia, and the former is necessary to treat the rapid rise       in blood glucose levels that accompanies ingestion of food.
+Accordingly recombinant insulin producers concentrated on controlling the       rate of action of insulin and its analogues.
+Amongst these, Novo-Nordisk       in collaboration with YSBL, led the way in trying to find a structural       rationale for the controlled disaggregation rates of hexameric insulin.
+YSBL was the world's leading laboratory for insulin structures, and the       large majority of the structural work for Novo-Nordisk on insulins from       1993 to 2000 was done in conjunction with YSBL.
+The protein structures       published from York are available as coordinates in the Protein Data Bank.7       The collaboration between YSBL and Novo-Nordisk was supported by several       grants.8 This development programme was highly successful and       consequently today Novo-Nordisk is the leading developer and world's       largest producer of recombinant insulin for treatment of diabetes.
+The first new product that came from York structural studies was the       aspartate mutant described above.1,2 This fast-acting insulin       was launched in 1999, marketed as NovoLog&#174; in the US and       Insulin Novorapid&#174; in Europe.9     The second development came from the derivatised insulins, which were       conceived directly from the structural work described in reference 4       above.
+It was discovered that the attachment of a fatty acid to insulin       led to its prolonged action, resulting in just one daily intravenous       administration of the hormone.
+These derivatised insulins received FDA       approval in 2005, and are marketed as the product Levemir&#174; (or       Insulin Detemir&#174;) and are now the mainstay of Novo Nordisk's       insulin products.
+Its new, improved generation insulin Degludec&#174;       was approved by the EU and Chuikyo (Japan) in 2013.
+Levemir&#174;, NovoRapid and NovoLog&#174; (also marketed as       Novomix&#174; in a different formulation) are true blockbuster drugs       with billion dollar sales (reference 10).
+Levemir&#174; had US sales       of $1.7 billion in 2012 growing from $756 million in 2008.
+The       corresponding figures for Novolog&#174; are $1.6 billion and $1.1       billion, and for Novorapid, $2.7 billion and $1.5 billion.
+Levemir&#174;       and Novolog&#174; are currently number 40 and 42 in the ranking of       US drugs by sales.
+Total worldwide sales of the drugs were $6 billion in       2012 (Figure).10  Figure: Worldwide sales of Novorapid, Levemir&#174; and Novomix&#174; (alternative name for Novolog&#174; depending on market), during REF impact period.10 	       Svend Ludvigsen (Vice-President, Diabetes formulation, biophysics and       structure) at Novo Nordisk assesses the impact of York's work as follows:11     "Throughout the years the collaboration with York has been a continuous       source of inspiration for the understanding of insulin structure and       insulin as pharmaceutical products.
+The work of Whittingham et al.
+1997       has provided significant insight into some of the protraction principles       of the insulin analog, insulin Detemir, developed into a once daily basal       insulin product Levemir&#174;.
+Novorapid&#174; (US: Novolog&#174;) and Levemir&#174; both have       blockbuster status and are used by millions of patients all around the       globe."

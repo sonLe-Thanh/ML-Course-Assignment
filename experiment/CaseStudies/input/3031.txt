@@ -1,0 +1,28 @@
+     Context     Devices for generating and detecting radiation in the DC to THz range are       important in a range of applications.
+The development of new technology by       the Manchester team has improved the performance of commercial systems by       realising devices with higher sensitivity, better temperature stability       and higher signal-to-noise ratio.
+These improvements have led to more       reliable and cost-effective products.
+Pathways to impact     The research was presented at major conferences on mm-wave and THz       including IEEE MTTS and IRMMWW-THz and published in leading journals.
+This       resulted in significant interest from the sensor and THz communities,       including both academic and commercial.
+Potential routes to market were       developed in consultation with the University's IP company (UMIP).
+This       initiative was also supported by a KTP fellowship with the UK SME e2v.
+Much of the research work was conducted with companies including e2v ltd,       Teraview ltd, Selex Galileo, VGSemicon and QinetiQ.
+This work resulted in       the development of high-sensitivity magnetic sensors, broadband terahertz       sources and detectors based on Gunn diodes and ultra-high speed       photoconductive switches using low temperature grown GaAs.
+A significant       pathway has been supplying wafers on a commercial basis to these companies       as detailed in the following.
+Reach and Significance of the Impact     The success in developing these technologies is best illustrated by       reference to specific industrial outlets that have made direct use of the       research:     (i) Automotive radars:     The research team designed, produced and delivered to the British company       e2v ltd novel epitaxial wafers which had better temperature stability than       those used in the industry [from -80 &#176;C in cold start to over +60 &#176;C] and       added efficiency at 77GHz.
+Since 2008 this work led to the delivery of       over 100 wafers, each containing up to 10,000 devices for car radars.
+These high-end products are integrated in the Bosch autonomous cruise       control system fitted in BMW and Audi cars.
+As a result of the research, e2v has manufactured over 500,000       millimetre-wave Gunn diode devices for Bosch [A] resulting in revenue of       approximately &#163;6m, all of which represents UK export income [B].
+These       Gunn diode devices are incorporated into Bosch ACC1 and ACC2 products that       are fitted as the automatic cruise control option on high end Audi and BMW       cars.
+Since this cruise control option became available circa 430,000       vehicles on which this customer option is available have been produced       [B].
+(ii) TeraHertz imaging:     The research developed new epitaxial layers based on low temperature       grown GaAs and InGaAs with unprecedented lifetime and resistivity, leading       to THz imaging systems with much improved signal-to-noise ratios and which       has been supplied to Teraview ltd for over 6 years now.
+These devices are       enablers in the company's pulsed imaging and spectroscopy systems.
+To date       over 30 wafers have been supplied corresponding to over 10,000 devices.
+Teraview ltd equipment is used in the medical imaging of cancer and       industrial inspection.
+Launched in 2008 [C] around 30 TPI imaga       and spectra, commercial terahertz imaging systems have been sold at       a cost of approximately &#163;150k-&#163;200k each.
+These have been supplied to       laboratories in Europe, North America and the Far East with a total UK       export value in excess of &#163;6m [D].
+(iii) Ultra-high-precision sensing     A spin out company, Advanced Hall Sensors (AHS) ltd, was established in       2008 and this company has been key in producing 2-Dimensional Electron Gas       Hall Effect sensors for ultra-high-precision sensing.
+These sensors have       the highest sensitivity of any Hall sensor in the market.
+Over 3 million       sensors have been supplied to Renishaw PLC by AHS since 2008.
+Renishaw PLC       has stated: "The Hall sensors supplied play a vital enabling role in the       high performance linear encoders for industrial, photovoltaic and consumer       electronics" [E].
+The encoder division of Renishaw PLC is a &#163;300m per year       business.
+The supplied Hall sensors play a vital enabling role in the high       performance linear encoders for Industrial, Photovoltaic (PV) and consumer       electronics [E].

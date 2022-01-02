@@ -1,0 +1,38 @@
+     The University was the first university to adopt DMLS/M in the UK with       the purchase of a DTM2500+ Sinterstation (year 2000) and then an EOS       M250Ext machine (year 2004).
+This equipment was central to application-led       research [1].
+Funding for the equipment came from ERDF grants.
+The impact       has been significant for the UK economy and the University, offering       recognition nationally and internationally [2].
+The University also       co-ordinated a DTI application for &#163;2M led by Rolls-Royce PLC made under a       Direct Write call [3].
+The submission attracted an 18 member industrial       consortium and the University's collaboration with the consortium (post       01/01/2008) has had profound impact throughout the Additive Layer       Manufacturing (ALM) sector, e.g.
+Williams F1 were the first F1 team to       adopt metal based ALM parts developed and produced by the University.
+[4];       a KTP with Powell and Harber Limited [5] achieved production time savings       of up to 40% for products produced using DMLS tooling with conformal       channels and the tooling lead times reduced by up to 50% [5].
+The results       from this project have been disseminated [6,7].
+The University won &#163;1M of funding from Advantage West Midlands (AWM) for       the project "Process Innovation For Rapid Product Development".
+The       programme ran from June 2007 to September 2010 and the work undertaken       assisted 47 companies, ensured 125 jobs safeguarded, created 18 new jobs.
+[8] The grant funded the acquisition of an EOS M270Ext DMLS/M platform.
+This machine was released to the University under a unique research       agreement and was the first EOS GmbH machine installation globally to       process `reactive' titanium and aluminium alloys and leading to the       production readiness for reactive materials of the M270Ext.
+[1] EOS UK Ltd       has for the last 5 years supported and promoted the University with &#163;100k       of `in-kind' powders and &#163;300k for operational software.
+The University is       the only educational user of this technology nationally therefore the       University research activities have impacted on the introduction of the       technology throughout the EOS(UK) customer base.
+In 2013 there are now 32       EOS M270 laser melting systems in 10 UK companies.
+The University has been       a catalyst in DMLS/M technology introduction for 5 of these companies,       accounting for &#163;2.5M of capital investment.
+The UK industrial market has       the largest concentration of this technology worldwide and the University       has played a significant role in this concentration activity.
+[4] Sector       impacts follow:     Net Shape Tooling; Tooling materials, applications and techniques       have been refined in order to realise steel and cupro-nickel tooling in       industry [9-10], Technology transfer programs were used to attract       companies in to a cluster of net shape process users and then disseminate       the use and application of DMLS/M.
+to the companies.
+In this instance 50%       of the companies in PIRPD [8] adopted this type of tooling.
+Jewellery: The University was the first worldwide to develop the       melting of silver alloys for bespoke jewellery applications.
+Research       assistance by The University with process parameter definition and machine       platform development has led to Cookson Gold Ltd, investing in EOS M280       technology and subsequently assisting in EOS M080 platform development, a       bespoke machine developed for precious metals DMLS/M.
+[4]     Motorsport: Research with part and material manufacture for       Formula 1 teams, including Williams, Mclaren, Mercedes and Red Bull has       been undertaken.
+Formative work has led to Mclaren adopting the DMLS/M       technology.
+[4] Collaborative work with the University of Warwick       validated the use of thin walled titanium Ti-6Al-4V tubes.
+The work led to       co-authored papers published in race magazines, TCT conferences and       journals, e.g.
+[11].
+Co-author David Cooper now works for the DMLS/M       bureau Innovate to Make I2M Ltd. Former DMLS/M technician at the       University, M.Lindop, now manages the rapid prototyping at Red Bull       Racing.
+Recent and on-going confidential work with Mercedes F1 has       produced pioneering work regarding Ti-6Al-4V components.
+Large aero parts       have been developed that have allowed testing and monitoring improvement       whilst extending the capabilities of the DMLS/M technology.
+The impact       here is still being realised and being applied not only throughout the F1       sector but also through aerospace and medical sectors.
+[4]     Aerospace: The DMLS/M platform at the University has been used to       support a Rolls-Royce PLC led programme, namely, "Strategic Affordable       Manufacturing in the UK through Leading Environmental Technologies"       (SAMULET) programme, this is a Variance-Interbuild project for DMLS/M       platforms.
+Contribution to the programme was to ascertain the       repeatability for DMLS/M manufacture across multiple platforms, first       round of results have been done carried out regionally next round will be       conducted nationally.
+[12] Recent work with UTC Aerospace, Wolverhampton       involves the optimisation of gear and epicyclic gearbox manufacture for       flap actuation systems.
+Work here is two-fold, "very near" finished shape       gears have been developed using DMLS/M, also a research collaboration with       Birmingham University to hard face wear surfaces is being developed.
+[4]     Medical: Impact for DMLS/M products and research at The University       is being promoted by conference activity, e.g.
+[13] and work in this       sector is expected to grow.

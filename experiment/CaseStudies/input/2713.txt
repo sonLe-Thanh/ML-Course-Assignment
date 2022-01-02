@@ -1,0 +1,31 @@
+     Impact in the classroom 2009-13       As of June 2013, a total of 2,566 school pupils in 14 Scottish schools       have taken lessons using       Adventure Author, spending 40,325 hours with the software.
+This is       supported by associated       lesson plans which allow fully flexible delivery.
+The majority of this       activity represents permanent       adoption by schools beyond Robertson's MGIS project'; That is, impact was       achieved initially as       part of MGIS, but schools have now adopted the materials and software in       their normal routine.
+This approx.
+16 hours of learning per pupil replaced previous planned       national curriculum activity in       their timetables, bringing programming into these schools for the first       time.
+(see section 5).
+This       contrasts sharply (see comprehensive survey in the 2012 Royal Society       Report), with previously an       absence of computational thinking taught in Scottish schools, with       occasional exceptions that tend       to be one-off events or optional extra-curricular activities.
+Schools       currently teaching with       Adventure Author plan to continue in the 2013/14 school year and beyond,       in particular, since it will       make it much easier for them to serve the needs of the new curriculum.
+Teachers' evaluations have reported deep levels of engagement and       commitment from the       learners.
+Teachers were repeatedly surprised by how well the children did,       and how enthused,       engaged, creative and excited they were, working together, solving       problems and sharing their       expertise.
+Unexpected children came to the fore - the less able, the       disaffected - and the overall       quality of both game-based and written work is mentioned, with teachers       noting the strong       connection between the language work and the game software, e.g.
+the       support for logical       thinking.
+A HMI inspection at St Augustine's High School in September 2009       cited MGIS in their       report, as an example of good practice in interdisciplinary learning       "Linking learning across       subjects through fantasy game modelling".
+Further Impact in the classroom via impact on the Scottish Curriculum       Robertson's research provided hard evidence which was a key influence in       the creation of a whole       suite of new National Progression Awards (NPAs) in Games Development       (w.e.f.
+academic year       2010/11 - http://www.sqa.org.uk/files_ccc/G9RP44,%20G9RR45%20and%20G9RT46.pdf)       Further, Robertson's work with teachers commissioned by Learning and       Teaching Scotland in the       consultative period for the Curriculum for Excellence Technology Outcomes       (between 2007 and       2009) contributed to the inclusion of games experience as a mandatory         requirement for all           pupils from Primary to year 3 of senior school inclusive, and,       in particular, games development       experience for all pupils in years 2 and 3 of senior school (ages 12 and       13), similarly w.e.f.
+2010/11       (see Curriculum document in section 5).
+As a result of the latter, by       Summer 2013, over 500,000       Scottish pupils will have benefited, with approx.
+200,000 gaining games       development experience.
+Meanwhile, in 2012/13, 307 pupils sat the new computer games development       NPAs.
+Creating games is also recommended as a mechanism for learning throughout       the support notes       for teachers in the new National 4 and 5 qualifications (approximately       equivalent to GCSE and       being offered for the first time in 2013/14) and for the Higher and       Advanced Higher Qualifications in       Computing Science (taken in the 5th and 6th year of       senior school).
+Further Impact on Scottish Computing Educators       One outcome of Robertson's MGIS project was her organisation (in 2010) of       "Look to the Future",       a conference for Scottish Computing Educators, partly supported with a       $10k award from Google       (see REF3a part (b)), in which Robertson involved representatives from       what later became       `Computing at Schools Scotland' (CASS - http://www.casscotland.org.uk/),       then a fledgling       organization.
+The organisation and success of this event had a significant       influence on the growth       of CASS.
+CASS has since grown rapidly, organised two further conferences       for Scottish       Computing Educators, now has ~350 members (over half of the 600 Computing       teachers in       Scotland), and has won &#163;400k from the Scottish Government to support       continuing professional       development.
+International Influence.
+Educators worldwide follow the Adventure       Author blog (27% of page       views are from the US), which itself led to two Australian teachers       collaborating with Scottish       teachers in the MGIS project.
+Robertson's views on computing education are       published regularly in       the Communications of the ACM, feeding international policy debate.
+Robertson's paper on educational game authoring (ref.
+[1] in section 3)       informed the US National       STEM Video Game Challenge, launched by President Obama in September 2010 &#8212;       http://stemchallenge.org/about/why-games/.
+This was part of a strategic policy " ... to motivate       STEM learning among America's youth by tapping into students' natural       passion for playing and       making video games."
+[1] was cited twice in the description of the       challenge as evidence that       making games is a highly engaging way to learn STEM skills.
+In addition,       influence on teacher       training worldwide is evident in [1]'s adoption by the ACM Computer       Science Teachers Association       reading list.

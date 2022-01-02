@@ -1,0 +1,22 @@
+     The collaboration between Ryobi Aluminium Casting and QUB has enabled the       company to develop knowledge and expertise in new areas which will have       long-term benefits.
+John Hughes, managing director of Ryobi Aluminium       Casting has stated "The enhancements we've made to our processes as           a result of this research and development project have not only           created cost savings but put us in a stronger, more competitive           position to target higher volume and longer term projects across           Europe."
+The extension to die life due to managing the thermally induced low cycle       fatigue through die start up is between 20% and 50%.
+This manifests itself       as less frequent die repair and a longer overall die life before it is       considered non-viable.
+The reduced frequency of die repair will directly       impact the overall equipment efficiency (OEE) of the die casting machine,       though this will also be influenced by reducing the number of scrap       castings.
+As castings produced during die warm up are of inferior quality they are       scrapped.
+The revised start-up procedure reduces the number of         castings scrapped by as many as ten castings per die start up.
+Although scrap castings are recycled, each time the metal is remelted up       to 8% of the material is lost as it oxidises and forms dross.
+Additionally, it takes approximately 1 MJ/kg to melt aluminium so there is       a significant energy saving from remelting less scrap castings.
+The revised start-up cycle was tested at the start of June 2009       resulting in an immediate impact on scrap and the overall equipment       efficiency (OEE) of the casting machine.
+The impact on production before       and after its introduction is illustrated in Table 1.
+Table 1, Summary of the changes due to the modified die start-up.
+OEE %             Scrap %             Parts cast             Part cost                              Jan &#8211; April 09           66.62           11.5           34,871           &#163;5.22                             June &#8211; Oct 09           74.59           7           43,711           &#163;4.57                          The casting used for illustration in Table 1 has a production cycle time       of 75 seconds and a production volume of 250,000 parts per year, on two       casting machines.
+Therefore the saving due to the reduction in part         cost alone is equivalent to &#163;81,250 per year per casting machine.
+The 4.5% reduced scrap rate increases the number of good castings that       can be produced from the die within its normal working life.
+As a typical       die life, before it is considered uneconomical to repair, is 100,000 parts       and the manufacturing cost is of the order of &#163;200,000 this represents an         additional saving per year per casting machine of &#163;13,675.
+This does       not include savings made by extending the die life due to reducing the       thermally induced fatigue stress.
+The shot weight per casting is approximately 12kg.
+As there is 4.5% less       scrap this represents 67.5 tonnes of metal per casting machine per year       that isn't remelted, saving 67.5 GJ of energy and potentially 5.4 tonnes       of material saved due to reduced dross loss.
+Since 2009, Ryobi has rolled out the new casting start-up method across       the Carrickfergus factory's eleven die casting machines.
+Assuming         similar savings on all casting machines, this represents total savings         of approximately &#163;1,000,000 per year, 742 GJ energy saving and nearly 60         tonnes of aluminium alloy not reduced to dross.
+At the same time       there is a small but useful increase in factory capacity due to the       increased OEE.

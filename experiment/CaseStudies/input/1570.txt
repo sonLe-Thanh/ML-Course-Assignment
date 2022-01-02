@@ -1,0 +1,34 @@
+ The impact is described through 6 stages that follow a sequential overlapping timeline:  Initially, there was much technical press interest in the study on the Backcasting Approach on UK Transport Policy, funded by the Department for Transport as part of their New Horizons Research Programme.
+Banister gave both written and invited oral evidence to the House of Commons Environmental Audit Committee in their study on Reducing Carbon Emissions from Transport (HC981-I).
+Recommendation 14 of the Committee's report stated "The VIBAT study should be an enormously useful resource in that it has quantified different policy instruments and examined the timelines in which they could be introduced and take effect.
+We were therefore dismayed by the Secretary of State's defensive distancing of the Department from this study.
+We urge the Department to closely examine the VIBAT study in order to construct an ambitious and well thought-out target, specifically for reducing carbon emissions from transport."
+(Paragraph 34) The Government response stated that "We agree with the Committee that the kind of work undertaken in the VIBAT study has an important role to play in developing policy."
+Ministerial questions were asked on the "failure" of UK Transport Policy with respect to CO2 reductions.
+The VIBAT London Project built on the UK study through the development and application of a web-based simulation model (TC-SIM) to help simulate the choices available in terms of moving towards carbon efficient transport [R1, 2, 3, 4].
+This demonstrated the means by which multiple policy measures could be optimally packaged to achieve ambitious carbon reduction targets.
+The scenario and backcasting methodology of quantifying the impacts of policy measures and assessing the likelihood of targets being met has been used in a number of policy documents, including the Mayor's Transport Strategy (2009), London Plan (2009), and a series of documents at the UK national level: Delivering a Sustainable Transport Strategy (DfT), Carbon Pathways Analysis (DfT), Cutting Carbon, Creating Growth: Making Sustainable Local Transport Happen &#8212; White Paper (DfT).
+The VIBAT approach has been used in a range of international applications &#8212; Vancouver (Transport Canada, 2008), Delhi (India, Asian Development Bank, 2008), Auckland (New Zealand, Auckland Council, 2010-11), Jinan (China, Oxford Future of Cities, 2010-2012) and Guildford (2013) [R4, 6, 7].
+In each case, it has been influential in opening up discussions on sustainable transport pathways with a range of local stakeholders and governmental officials, in getting different decision makers together to discuss options, to help them evaluate alternatives, and to take a more holistic approach to policy making.
+These impacts are recorded, for example, by the following extracts ".....Topics the group has been discussing include community vulnerability, further developing the Auckland region plan to respond to climate change (Carbon Now) and submitting on the Government's 2010 Draft New Zealand Energy Strategy and Draft New Zealand Energy Efficiency and Conservation Strategy."
+[Section 5: C1] and "MOVED by Director Mendum, SECONDED by Director Derman, that the Visioning and Backcasting for Transport in Victoria (VIBAT Victoria) pilot study and associated staff report be received for information.
+CARRIED" [C2].
+A second simulation model (INTRA-SIM) has been developed by Hickman with Halcrow Group (UK) to evaluate alternatives using multi-criteria analysis &#8212; this allows the CO2 reduction targets to be balanced against other policy objectives (e.g.
+accessibility, employment, local pollutants, and accidents) [R5].
+This model has been developed in Oxfordshire (for Oxfordshire County Council, 2009-10) to assist in the development of their Local Transport Plan, the Delivering a Sustainable Transport Strategy, and the Local Sustainable Transport Fund.
+In Oxfordshire, the Local Transport Plan reported: "As part of the process for assessing the relative value of different scenarios we commissioned the development of a strategic impact model, intra-sim.
+This model takes the results from the county's traffic models and uses these, together with current research, to assess the impact of different scenarios on a variety of outcomes [...] This scenario has formed the basis for the strategies outlined in this plan.
+The results are shown in terms of the relative change from a "business as usual" option of minimal improvement over the 20 year assessment period" [C3].
+Further evidence of impact comes from the plan's strategic assessment adoption statement which said "A third way that environmental considerations have shaped the LTP3 is through the application of the INTRASIM assessment tool.
+This was a software tool specifically developed for Oxfordshire to enable the comparison of a number of packages of interventions using a set of common indicators.
+The indicators which were developed were based upon the previous government's five goals for transport and included environmental indicators."
+[C4].
+The model has also been developed in Swindon (for Swindon Borough Council, Department for Transport, 2010-11), whose Local Transport Plan noted that: "The Department for Transport funded "Swindon DaSTS Study" has allowed the use of the INTRASIM "decision support tool" to carry out an appraisal of the range of options for addressing the key transport challenges for Swindon.
+This tool tests the impact of applying various policy interventions on a range of indicators.
+It tests the relative benefits achieved compared to the costs of applying each set of measures in order to illustrate the most cost effective solutions relative to the likely available funding."
+[C5]  The approach has been adopted (and adapted) by other researchers in France, Sweden and the Netherlands.
+The Institute for Transport Policy Studies (ITPS) in Japan has used the approach in their global study looking at a 50% CO2 reduction in transport carbon emissions (1990-2050).
+Six regional studies were carried out (North and South America, Europe, China, India and SE Asia) with different targets and policy options, all examining alternative futures and different pathways.
+This project had a Ministerial presentation in Tokyo (February 2011) and there were presentations at COP15 (Copenhagen) and COP16 (Cancun), designed to get transport identified as a key sector for IPCC action [C6].
+ITPS are now developing the methodology in a study of the ASEAN region, looking at actions that can be taken in Indonesia, Malaysia, Philippines, Singapore, Cambodia and Thailand (2011-2014).
+Interim progress on this was reported at a major event in Bali (March 2012) [C7].

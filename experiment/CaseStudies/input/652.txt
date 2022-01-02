@@ -1,0 +1,56 @@
+     The impact claimed in this study arises from the production and public       availability of the corpus's texts and spoken audio in a variety of media       - CD-ROM, DVD, and on-line - together with associated documentation,       publications and access software.
+The consortium also published SARA, a       concordance tool for search and analysis of the BNC.
+An estimated 2000 full licences (both personal and institutional       licences) and 1800 copies of BNC Baby (a 4 million word sample of the full       BNC) have been sold world wide since 2008.
+In addition, our Japanese       distributor has distributed over 350 licences in the relevant period.
+[&#167;5i]     The impacts have been:     1) A contribution to United Kingdom's cultural heritage.
+A       century ago Oxford University researched and published the authoritative       Oxford English Dictionary, based upon written texts.
+The 100-million-word       British National Corpus (10 million spoken words) is a documentary record       of written and spoken English representing a wide cross-section of British       English, at the end of the 20th century.
+2) For dictionary makers, the BNC improves and adds value to       their products, providing a unique selling point over their competitors,       and enhancing educational value to purchasers of their dictionaries.
+The       corpus was used by the dictionary publishers making up the original       consortium: OUP, Longman and Chambers, in creating the Longman Dictionary       of Contemporary English, the Chambers 21st Century Dictionary, and the       Oxford Advanced Learner's Dictionary.
+Longman Dictionaries' website states: "What is so unique about the         Spoken Corpus is that it shows us how we really use English, not how we         are supposed to use English or how we use it when we are writing.
+It         reveals how very different the spoken word is from the written word.
+At         last students will be able to study English in an exciting new range of         ELT materials that represent English as it really is.
+For the first         time, real spoken language has influenced the creation of a learner         dictionary."
+Chambers 21st Century Dictionary claims "All Chambers dictionaries are         supported by the British National Corpus, a 100-million-word database of         written and spoken English that provides real evidence of how English is         used."
+The Oxford Advanced Learners' Dictionaries website says "We use the         BNC to confirm our intuitions and also to tell us things we didn't         already know, or may not have thought about.
+We can find out exactly         what a word means, rather than what we think it means.
+We can see how it         behaves grammatically and which words it collocates with.
+We use all         this information when writing our learners` dictionaries."
+Since 2011, the Government of India (Central Institute of Indian       Languages) has been collaborating with Longman Pearson to create bilingual       dictionaries in English and eleven Indian languages.
+The English part has       been developed using words and phrases culled from the BNC.
+According to       the Project manager of the National Translation Mission "The lexicon is an       important translation tool - kind of a spring board to push the mother       tongues, many of which are threatened with very few speakers".
+[&#167;5ii]     David Crystal's chapter `Essential Grammar' for English language learners       in The Longman Essential Activator draws on the BNC for examples of       real-life English usage to help intermediate learners to better understand       how to use grammar in written and spoken English.
+[&#167;5iii]     3) English language teachers world-wide, and the agencies that       examine them, have better examples of contemporary spoken English to use       in their studies, improving the standards of teaching and learning of       English as a Foreign Language.
+In comments sent to researchers via the BNC registration page, Juan, an       English teacher in Spain says he uses the recordings in his class so that       his students become aware of the different accents in the UK.
+Another       teacher uses it "for my students to practise repeating after the tapes to       improve their pronunciation."
+Tdol, an English teacher in Japan, refers       language users to the BNC (20/3/2008).
+A blog post by Monica Vlad, a       language teacher from Romania recommends language learners consult the BNC       to check on questions of usage "in a few easy steps without having to       google endlessly and end up with some website or forum results &#8212; you can`t       really know how reliable they are.
+"[iv] Other such comments from       BNC user registrations demonstrate the reasons they are using it and the       impact it has on improving teaching and learning of English as a foreign       language:            "Teaching English to Swedish students, exposing them to a range of         accents."
+"As a teacher of English, for personal reasons, so as to check doubts         about collocation, use... but also for professional reasons."
+"I am in English teacher in Spain and would like to use the recordings         in my class so that my students become aware of the different accents in         the UK."
+"I could use [the recordings] as authentic listening exercises         especially with regard to different accents."
+"looking for recording by natives for my students"          4) The BNC provides English language learners with access to       copious audio and text examples from an authoritative source which they       can use to become familiar with variation in English and to improve their       own British English pronunciation and usage, supporting independent study.
+The BNC site registration records provide evidence that the spoken audio       is used by learners for purposes such as "to know how to pronounce words       and practice how to listen them within the context", "to refresh my       English", "to learn more about British English", "to know how to pronounce       words and practice how to listen them within the context", "just listen to       refresh my English; it has been too long since I could talk to native       speakers and listen to spoken English at large" and "I want to improve my       English by listening to these audio files".
+5) The OCR school examinations board are using extracts of BNC       conversation transcriptions originally published on the Phonetics       Laboratory website in order to improve the quality of public examinations,       and since March 2013 have been selling copies of the exam papers.
+[&#167;5v]       Analysis of natural English conversation is a key part of the English       Language GCSE and A-level curricula.
+6) People all over the world with access to the internet use the       BNC as an authoritative reference on English, without having to pay for it       or buy dictionaries or other reference works.
+This has widened access to       accurate information about present-day UK English.
+Many individual writers       use BNC as a reference source relevant to questions of contemporary       English usage.
+It is a superior resource in comparison with other online       sources: Jonathan de Boyne Pollard claims BNC can be a more accurate       source of word frequencies than Google hit counts.
+[&#167;5vi]     To demonstrate an estimate of the internet reach of the BNC, the search       term British National Corpus yields 2.18 million hits on Google UK (cf.
+the 1.3m hits for their closest UK competitor, the Edinburgh map task       corpus.
+The Google search engine lists over 80,000 blog posts and over       17,000 discussions citing British National Corpus.
+However, large numbers       of users look up words or phrases via various online search services,       especially the public, simple search engine provided by the British       Library on the main BNC site.
+According to Google there are currently       about 18,300 incoming links to that site and about 1,330 direct links to       the search engine.
+[&#167;5vii]     Other online language tools use the BNC as a basis Sharp Laboratories of       Europe has created an on-line writing aid, `Just the Word' based upon BNC       usage data.
+One user writes "I use it every day to check the combinability       of a word, to see the context and get the feel of a word...It is such a       great help!!!
+...You are doing a tremendous job making a difference to       those whose native language is not English.
+"[&#167;5viii]     7) BNC is used as a source of data for natural language processing         and speech technology industry e.g.
+Infochimps is a start-up company       founded in 2010 that is making a market for people to buy and sell large       datasets.
+This includes a dataset of word frequencies from the BNC       available for download under a Creative Commons licence.
+[&#167;5ix]     8) People have used the BNC for more artistic applications: it       was used as the source for "Found Poetry" by the Three Poets Tumblr blog.
+The poets pick a word and search for it in the BNC and create a poem from       the results.
+[&#167;5x] WordCount is an "online artistic experiment in       the way we use language" based on the BNC.
+It presents the 86,800 most       frequently used English words, shown visually scaled in order of       commonness.
+Barbara Wallraff cited WordCount and BNC in an article about       vocabulary use in 2008.
+[&#167;5xi] It was also cited on the       `Shape+Colour' blog by Jeremy Elder (2008).

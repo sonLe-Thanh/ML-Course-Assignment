@@ -1,0 +1,26 @@
+     The primary route to impact of the PASTA project has been through the       commercial licensing of the EnCore and ArcSim technologies by Synopsys Inc       [F].
+ArcSim was licensed to ARC International PLC in 2007, and through       company acquisitions it was acquired by Synopsys.
+(Synopsys acquired       Virage Logic in 2010, including ARC International PLC.)
+Synopsys       re-licensed in 2011, to obtain the latest improved revision of ArcSim.
+The       EnCore license agreement was signed in March 2010, and by October 2011       Synopsys released the first products based on EnCore and ArcSim.
+These       were [text removed for publication], and the nSIM simulator [E].
+Embedded processors are at the heart of all smart electronic devices, in       markets such as mobile phones, data centres and networking, computing and       peripherals, medical appliances, automotive electronics, avionics and the       digital home.
+Manufacturers of these electronic devices typically license       the design of an embedded processor as an intellectual property (IP) core.
+Manufacturers worldwide produced over 10 billion chips containing an       embedded IP processor in the 2011 financial year [A, B].
+The ARC processor       cores from Synopsys were the second largest in volume, accounting for 10%       of that market.
+By volume, this places them below ARM, but above MIPS,       Imagination, Ceva and Tensilica (their main competitors).
+This market is       growing at 10% annually.
+Synopsys' overall revenues for the 2011 financial       year were $1.54B.
+This is an increase of 11% on the previous year [A].
+This serves to demonstrate (a) the size of the market in which EnCore will       have an impact, and (b) the world-leading presence of Synopsys, as a force       through which EnCore is already creating an impact.
+The wider commercial deployment of the EnCore design is resulting in the       dissemination into everyday electronic devices of its advanced features       for low-power, small silicon area, and high performance.
+This will provide       greater functionality, at lower cost to the end-user, while consuming less       energy [C].
+Hence, mobile or battery-powered devices will see extended       lifetimes.
+The compact dimensions of an EnCore processor will enable       larger numbers of processors to be integrated within the same chip,       enabling wider deployment of many-core systems, which in turn will enable       new system-level functionalities.
+We believe that sustained engagement and impact will only continue in the       longer term if both academic and industrial partners receive benefits from       continued cooperation.
+The University of Edinburgh is benefitting       financially through its licensing agreements and in turn this is feeding       through to support future research in processor design and related areas.
+Within the Institute for Computing Systems Architecture in the School of       Informatics several PhD scholarships have already been funded internally       through EnCore licensing revenues.
+These revenues from licensing are       pooled with our research institute finances to facilitate funding of PhD       students.
+A further benefit of the EnCore development within Edinburgh University       is the creation of a nationally important capability in microprocessor       design.
+EnCore is a unique example of a UK university research group       designing a microprocessor and then licensing it to an industry partner       who is capable of marketing it on a truly worldwide scale.
+The technology       is now in a prime position in the market and experiencing take-up.

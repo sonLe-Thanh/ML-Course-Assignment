@@ -1,0 +1,31 @@
+     Impact on Commerce     A new business has been created and established its viability by         generating revenue or profits       The research led by Brindle has had a direct commercial impact.
+It has led       to three international patents ("13C MR imaging or spectroscopy       of cell death", 2006; "Imaging medium comprising lactate and       hyperpolarised 13C-pyruvate", 2006; and "Hyperpolarized       lactate contrast agent for determination of LDH activity", 2010; Refs 1-3,       Section 5), on which Prof. Brindle is the named inventor, filed by GE (who       funded the research and were assigned the right to resulting IP in the       collaboration agreement).
+As a result of this research and in order to commercialise the       application, GE founded the spin-out company, Research Circle Technologies       Inc. (RCT) in 2011.
+This spin-out commercialises the IP around the concept       of `metabolic magnetic resonance', from the Brindle lab, and other       academic collaborators which are part of their "Research Circle".
+Commercialisation requires assembling "wetware", hardware and software.
+The wetware is the contrast agent, which has to be tailored to fit the       biochemical process that is being monitored.
+The hardware is the MRSI       equipment that traces the contrast agents, and the hyperpolariser that       produces the contrast agent.
+The software interprets the images that the       MRSI delivers.
+The research and IP generated in the Brindle group relates       to the "wetware", i.e.
+it has provided proof in vitro and       in vivo in animal models of several cancers that hyperpolarised 13C-pyruvate       and 13C-fumarate in 13C-MRSI can be used to assess       early response to drug treatment.
+As the MD of RTC testifies, this proof       of concept has been instrumental to GE developing the `Spinlab'       hyperpolariser as a new product, and Prof Brindle's leadership in the       field and involvement in the project has aided in developing sales (Refs 4       and 5, Section 5).
+So far three `Spinlab' machines have been sold and       installed (1-USA, 1-Canada 1-United Kingdom), and a further 10 machines       are on order (6-USA, 2-Denmark, 1-United Kingdom and 1-Switzerland), each       at a sales value of $2.2M / &#163;1.41M.
+RCT testify that Prof. Brindle and his       lab have played a critical part in the development of the Metabolic       Industry (Ref.
+4, Section 5).
+Employment in the UK       The UK-based company Oxford Instruments plc, (on behalf of RCT) builds the       cryomagnet systems which are used in the `Spinlab' clinical hyperpolariser       machines.
+Their Group Business Development Manager testifies:     "Orders for this machine which RCT receives result in orders (at RTC's     discretion) for our company.
+Hence the orders to RCT for hyperpolarisers,     facilitated through the work of Prof Brindle as explained in Jonathan's     letter [letter of support from RCT, Ref.
+4, Section 5], result in     income for our company and in securing work for our employees.
+[...] Oxford     Instruments also build a pre-clinical version of the hyperpolariser, the     HyperSense, under license from RTC's parent company GE Healthcare, for in       vitro use.
+We have sold 42 of these to date globally at an average     sales price [...] of about &#163;230k.
+Although our licence only covers in       vitro work, a number of our HyperSense customers have sought and     obtained from GE Healthcare a licence from them to use these machines for     preclinical in vivo applications.
+[...] Prof Brindle's work and     leadership in the field has contributed to the uptake of the technology, and     therefore has had a positive impact on our HyperSense sales figures.
+This     again has had a tangible impact on securing employment in our company."
+Impact on Health     A new clinical technology has been trialled with patients       A Phase I trial (NCT01229618; US-based; trial period:       01/10/2010-01/12/2015; sponsor: UCSF; collaborator: GE       Healthcare) is being carried out with prostate cancer patients using the       hyperpolariser technology (Ref.
+7, Section 5).
+A total of 31 patients have       so far successfully received an injection of the hyperpolarized agent.
+The       data obtained up to now demonstrate that pyruvate not only reached the       prostate but that its metabolic product lactate could be observed (Ref.
+8,       Section 5).
+Impact on Society     The research findings on hyperpolarised MRSI by the Brindle group and       their down-stream benefits for cancer patients has been brought to the       attention of the public through a wide range of media coverage following       the publication of the Nature paper "Magnetic resonance imaging of pH in         vivo using hyperpolarized 13C-labelled bicarbonate" in       May 2008 (Ref.
+2, Section 3).
+Several million readers came into contact       with the research findings through coverage eg in the BBC News, the       Washington Post, the Daily Mail (Refs 9-11, Section 5), the Telegraph,       Reuters as well as a range of online media.

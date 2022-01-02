@@ -1,0 +1,48 @@
+     Since 2008, BiCE programme research has had wide-ranging impact, from the       establishment of a successful spinout company to commercialisation of a       miniature bioreactor technology.
+A number of pharmaceutical companies now       using BiCE enzymes are benefiting from cost and time savings in their       production process, along with reduced waste production.
+These impacts are       summarised below and can be traced back directly to the original research       outputs identified above.
+Spinout company creation: To capitalise on the knowledge       generated in the BiCE programme, Prof John Ward and researchers at UCL set       up the synthetic biology spin-out company, Synthace Ltd, in 2011.
+This       aims to make high-value, bio-based chemical and biological products       through the application of synthetic biology.
+It is the UK's first       dedicated synthetic biology company start-up.
+Synthace is based in UCL Biochemical Engineering and had completed two       rounds of investment funding as of 31 July 2013.
+These successful funding       rounds have brought its total financing to &#163;1.8m with TSB funding of       &#163;500,000 and a recent second stage finance of &#163;1.3m from Sofinnova       Partners' Green Seed Fund and a syndicate of angel investors [a].
+The CEO       of Synthace said: "With its world-leading development and scale-up         facilities, UCL Biochemical Engineering is the ideal place for a         start-up like Synthace as we seek to industrialise advances in synthetic         biology" [b].
+Synthace has licensed enzyme libraries established in       the BiCE programme and currently uses these in sizeable commercial       contracts from three major companies.
+In March 2013, the Universities and       Science Minister, The Rt Hon David Willetts, recognised the contribution       of Synthace to an "increasingly important" section of the UK       economy, when he said: "Companies like Synthace can help the UK         exploit the massive potential that synthetic biology has both here and         abroad.
+By making investment in technology now, it will ensure that in         ten years' time the UK is at the forefront of the global race when it         comes to commercialising new technologies" [b].
+Economic benefits in terms of new products and cost and time           savings: Since 2008, many of the new bioprocess tools       developed as part of the research described above have been adopted by       consortium companies for their industrial biocatalytic processes.
+Examples       of the impact of these technologies include:             Commercialisation of a miniature stirred bioreactor technology.
+The UCL design for a novel miniature stirred bioreactor technology         enabling direct scale-up from 30 mL to 10L was commercialised via HEL         Ltd and has been on the market since 2008.
+The miniature bioreactor         enables rapid testing of new fermentation applications with data         gathering that fully matches the large scale.
+This saves time and cost         in avoiding running large-scale fermentations while testing a         fermentation protocol.
+These miniature bioreactors (30-500 mL)         represented a new product line for the company [c] [text removed for         publication].
+Industrial adoption of high throughput bioprocess design           methodologies.
+A number of BiCE programme industrial partners have         now adopted UCL high-throughput and microscale technologies to help         speed the design of new biocatalytic processes.
+These include Lonza,         Merck &amp; Co, Evonik and DSM.
+As an indication of the impact achieved         the Executive Director of BioProcess Technology &amp; Expression from         Merck &amp; Co has reported a 3-to-5-fold throughput improvement             by the application of microscale-based techniques.
+This         accelerated the pipeline in multiple ways including: shortening the         duration from catalyst screen to delivery of mg quantities of initial         material by 70%, thereby enabling a 3-fold increase in the number of         projects that can be handled by a single scientist and widening of the         catalyst library that can be rapidly screened by 3 to 5 times [d].
+This         enables them to complete customer projects in a shorter time or with the         commitment of fewer FTEs due to the parallel nature of the HEL miniature         bioreactor systems.
+In addition UCL staff are now providing consultancy         services to additional companies on how to implement these         methodologies.
+Economic benefits from screening and utilisation of BiCE enzyme           libraries: Libraries of engineered enzymes have been provided       to company partners for use in their internal high-throughput screening       programmes.
+Licensing of these libraries saves each company the time and       costs involved in in-house library generation e.g.
+for a company to       construct and validate an enzyme library containing tens to hundreds of       mutants, rather than using UCL's libraries, might demand full-time       commitment of 2 FTE for 6 months.
+For example, Almac has used over 100 of       these enzymes to identify transaminases that are able to catalyse       amination of the substrates Almac uses in its in-house drug discovery       programmes and for customer contracts.
+In 2010 Almac identified one TAm       variant that catalyses amine formation on a compound for a pharmaceutical       company customer.
+They are now scaling up production of this TAm ready for       commercial-scale utilisation.
+The head of biocatalysis at Almac said: "The         new enzyme process is one third of the cost of the chemical           process and the yield of the process has           increased from 10% to over 90%" [e].
+Since then, Almac       and UCL have had a royalty-sharing agreement for the commercial       exploitation of this and the other transaminases.
+In a similar vein,       Sigma-Aldrich has since 2006 used one of the BiCE TK variants for       commercial preparation of D-xylulose-5-phosphate and a TAm variant to       prepare pyridoxamine-5-phosphate.
+The Head of Research Specialities from       Sigma-Aldrich (SIAL) notes that "The direct comparison of selective         one-step enzymic reactions to chemical routes of synthesis show the         advantage of replacing non-selective chemical routes, which then involve         also significant purification efforts after the reaction(s).
+The         beneficial effect on safety, health and environment improvement by the         enzymatic route fits well with the current sustainability goals at         Sigma-Aldrich."
+[f]     Environmental benefits arising from adoption of biocatalysis:       It is widely recognised in the chemical industry that biocatalysis       generates environmental benefits when used to replace chemical approaches       that require multiple steps and the use of protection/deprotection       reagents.
+Industrial adoption of BiCE enzyme variants for commercial       production of chemicals and pharmaceutical intermediates, as described       above, has major environmental benefits.
+For example, Almac's head of       biocatalysis noted: "Recent success using a BiCE transaminase enzyme         has resulted in the removal of 8 steps of chemistry using a transaminase         enzyme from the BiCE project.
+As you can imagine this has a major input         into cost of goods by lowering reagent and energy usage and very         importantly, waste production" [f].
+Likewise, SIAL has obtained       similar benefits since 2008 through exploitation of a BiCE TK enzyme for       the synthesis of xylulose-5-phosphate and a transaminase single step route       to pyridoxamine-5`-phosphate, both metabolic intermediates useful for       research purposes.
+These enzyme processes replace multiple chemical steps       in the synthesis of these products, with the benefit that no costly and       hard-to-dispose-of organic solvents need to be used [f].
+New job creation: The establishment of Synthace in 2011 and       its subsequent success in raising investment funding has led directly to       the creation of 7 new jobs [b].
+Likewise, Almac's association with UCL and       adoption of our advanced biocatalyst technologies "has resulted in         significant growth of biocatalysis research at Almac including increased         staff numbers" [f].
+In a new business plan finalised in July 2013       HEL Ltd committed to the creation of 4 new jobs to support their growing       miniature stirred bioreactor product line [d].
+Knowledge transfer to the wider industrial community: The       wider uptake of BiCE programme outputs has also been achieved through       incorporation of BiCE-related material in a number of the industrial       modules contributing to the UCL MBI&#174; Training         Programme.
+Modules using this material include Rapid Fermentation       Process Development, Design of Experiments for Bioprocess Optimisation and       Industrial Biocatalysis and Biorefining.
+These modules have been attended       by 157 industrial delegates from over 50 companies since 2008, with       several customers having used multiple courses throughout the five-year       period covered.

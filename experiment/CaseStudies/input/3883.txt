@@ -1,0 +1,31 @@
+     Improved clinical practice and patient health outcomes at H. Lee         Moffitt Cancer Center       [Dates Impact Occurred: September 2008 - present]     The Moffitt Cancer Center (MCC) is a not-for-profit health institute in       Tampa, FL, USA.
+It opened in 1986 with a mission to "contribute to the         prevention and cure of cancer".
+Today it has over 4200 staff, treats       over 8900 patients per year, with over 4600 inpatient surgeries being       carried out.
+It is a nationally ranked hospital in the USA for cancer       treatment.
+In 2008 the MCC set up the Institute for Mathematical Oncology (IMO),       with three researchers from the Mathematical Biology research group (Dr.       Alexander Anderson, 1996-2008; Dr. Kasia Rejniak, 2003-2008; Dr. David       Basanta, 2006-2008) recruited specifically for their specialist expertise       in cancer modelling.
+The success of the initial recruitment has       subsequently resulted in the further investment of $3Million by the MCC in       the IMO which has grown to five staff.
+The cancer modelling techniques developed in Dundee have already impacted       on the clinical culture at MCC by changing clinical practice.
+Modelling       work in collaboration with Drs.
+Susan Minton (Clinical Director of Breast       Medical Oncology), Julio Pow-Sang (Chair of Genitourinary Oncology) and       Damon Reed (Medical Director of the Sarcoma Department) has had an impact       on their clinical practice and consequently on patient health.
+Specifically, the mathematical modelling developed in Dundee and carried       out by the IMO personnel has led to an improved ability to sub-classify       patients into potential responders or non-responders for a given therapy       as well as aid in the early identification of aggressive cancers that need       to be treated immediately as opposed to non-aggressive cancers that can be       monitored.
+Mathematical modelling has also helped to optimise treatment       scheduling in a patient-specific manner by tailoring scheduling, dosing       and drug combinations for individual patients [FS1].
+In this way, patient       health outcomes have been improved through the mathematical and       computational modelling work of the IMO department.
+"...via the initiation of extraordinarily productive collaborations with       clinicians, researchers (who originated at the UoA) have successfully       integrated mathematics into a wide range of subjects in tumour biology and       oncology.
+Via the routine integration of mathematics and empirical work,       their work is having world-wide impact."
+[FS2]     Development of a new anti-cancer drug at Cyclacel       [Dates Impact Occurred: September 2008 - December 2010]     Founded in 1996, Cyclacel Pharmaceuticals Inc. is a biopharmaceutical       company that develops cell-cycle specific oral therapies for the treatment       of cancer and other serious diseases.
+As a consequence of the       fundamentally nonlinear nature of the cell cycle, the efficacy of       cell-cycle-specific drugs cannot (typically) be well-understood using       verbal (linear) reasoning.
+Hence Cyclacel, in collaboration with the UoA,       have developed mathematical models of key aspects of the cell-cycle       pertinent to the drug pathways they wish to target with pharmaceutical       compounds.
+The mathematical models have been used to predict the behavior       of potential anti-cancer drugs that are now undergoing Phase 1 trials       [FS3].
+Specifically, the models were used directly in the selection of       drug doses for trials, the prediction of toxicity effects and the analysis       of biomarkers.
+"The research (at the UoA) developed novel mathematical models of Aurora       kinase inhibitors (potential anticancer drugs) .. that were of direct       relevance to the development of Cyclacel's early-stage drugs.
+Specifically, the drug CYC116 (an Aurora Kinase inhibitor) is in a Phase 1       trial in patients with solid tumors.
+The pharmacokinetic/ pharmacodynamic       (PK/PD) model of CYC116 drug action was a useful tool in selecting       starting doses for clinical trials, in predicting possible toxicity, and       in selecting sampling times for biomarkers.
+... the PK/PD model may assist       in design of later-stage trials, in design of combination protocols, and       in individualising treatment protocols to optimise response against       tumours with defined gene expression patterns."
+[FS4]     Performance improvement at AstraZeneca       [Dates Impact Occurred: December 2008 - November 2012]     AstraZeneca is a multinational biopharmaceutical company that specialises       in the discovery, development and manufacture of prescription medicines.
+Their largest research and development site is at Alderley Park, UK, and       employs 2,900 people and hosts their global lead centre for cancer       research.
+Working in their Systems Biology group in Alderley Park, Dr. Hitesh       Mistry brought mathematical modelling and simulation skills developed at       the UoA to processes involved in the industrial design of pharmaceuticals.
+Dr. Mistry's research had an impact in a number of anti-cancer drug       projects and he was awarded a prestigious AstraZeneca Oncology Award in       recognition of his unique and highly valued role.
+"Whilst here at AstraZeneca Dr. Mistry's work was seen as so valuable to       the organisation that he was awarded a prestigious `Oncology Award' in       recognition of his unique and highly valued role.
+Such is the recognition       of the work that this area will be expanded and will be used for focus for       financial development.
+The hypothesis that was generated undoubtedly saved       months of development time and indirectly affected patients lives."
+[FS5]

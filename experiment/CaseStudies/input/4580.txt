@@ -1,0 +1,42 @@
+     The `social cost of carbon' (SCC) is an estimate of the monetary value of       the damages associated with a small increase in CO2 emissions.
+The figure is meant to approximate losses from incremental climate change,       such as flood damage, disease, diminished crop production, etc.
+Conversely, this monetary figure also represents the value of damages       avoided for a given emissions reduction.
+In the United States, the SCC is incorporated into the cost-benefit       analyses of measures to reduce CO2 emissions.
+Until 2010,       different federal agencies used, if at all, a range of estimates for the       SCC.
+Since then a dozen agencies, from the EPA to the Department of       Transportation, decided to standardise their estimates of the SCC.
+The       original estimate was set at $21 per tonne of CO2 in 2010 by a       working group of experts from several government agencies, led by the       Council of Economic Advisers and the Office of Management and Budget.
+These initial estimates of the SCC in 2010 derive from estimates provided       by an earlier version of the FUND model and two other Integrated       Assessment Models: DICE (Yale University) and PAGE (Cambridge University).
+These estimates have been used to justify more stringent fuel efficiency       standards for new motor vehicles (EPA and Department of Transportation       2010) [see Section 5, C5] and energy efficiency standards for many       appliances (Department of Energy 2012) [C4].
+The Federal Register reveals       that the SCC has been cited in 31 rules.
+Richard Tol has worked as a consultant and adviser to the EPA since 2007.
+In this role, he has been instrumental in helping the EPA to understand       the economic impacts of climate change and the methods and assumptions       that underpin estimates of the SCC.
+The FUND model has been developed by       Tol to study climate policy.
+Improvements and modifications to the model       are conducted by Tol with Anthoff and their collaborators.
+EPA staff have       been trained in the use of the FUND model.
+The application of the latest       peer-reviewed version of the model is performed by EPA staff under the       guidance of Tol and Anthoff.
+In May 2013, the Obama administration increased the SCC to be used by       federal agencies to $38 per tonne of carbon.
+The new SCC recommendations       of the InterAgency Working Group draw on the revised version of the FUND       (FUND 3.7) model along with estimates from the other two IAMs.
+This model,       and the associated revisions, derive from Tol's research.
+The new SCC currently applies only to energy-efficiency regulations for       microwave ovens (Department of Energy 2013) [C1].
+However, the       standardisation of rates in 2010 means that it will apply to any       new or revised regulation by any branch of the US government from       June 2013 onwards.
+Consequently, the potential reach of this impact is       large as, over time, the new SCC will be extended to energy-efficiency       regulations covering all appliances, vehicles, machinery and buildings.
+Proposed rules have been issued for metal halide lamp fixtures, commercial       refrigeration equipment, walk-in coolers and freezers, and residential       furnace fans.
+However, even the impact of the new microwave legislation alone on both       consumers and the environment is substantial.
+The higher cost of carbon       implies that the estimated environmental damage from inefficient microwave       ovens is much higher than previously calculated.
+The legislation applies       to their energy use when in standby mode.
+Consequently, producers will be       forced to withdraw inefficient microwave ovens from the marketplace,       resulting in significant energy savings for consumers and a reduction in       greenhouse gas emissions.
+Estimates suggest $2.3 billion of savings for       consumers over coming decades and a reduction of 38 million tonnes in CO2       emissions (Department of Energy 2013) [C1].
+The revised SCC is already being used in draft legislation in a number of       key areas.
+The SCC is used to underpin the draft rules for methane leaking       from shale oil and gas extraction, and for CO2 emissions from       new power plants (the final rule is in preparation http://epa.gov/carbonpollutionstandard/index.html       &#8212; see EPA (2012) [C6] for the regulatory impact analysis of the proposed       rule).
+The latter rules aim to make coal-fired electricity less       competitive.
+The new SCC estimates are also feeding into proposed effluent regulations       for power plants (EPA 2013) [C2].
+The EPA is proposing regulation that       would strengthen the controls on discharges from certain steam electric       power plants.
+These plants currently contribute 50-60 per cent of all       toxic pollutants discharged into US surface waters.
+The EPA is considering       four possible options for legislation, which have a large potential for       emissions reductions.
+The revised SCC has already had direct impact on legislation for       microwave ovens.
+It is being used in draft legislation for power plants.
+Any change in legislation from June 2013 will adopt the revised SCC.
+On 25       June 2013, President Obama outlined his `Climate Action Plan' (Obama 2013)       [C8].
+This includes a raft of proposed legislation to cut US CO2       emissions over the coming decades.
+Implicit in these regulations is the       newly adopted SCC.
+Consequently, the current impact of Tol's work will       expand across a wide range of policy areas in the United States in future       decades.

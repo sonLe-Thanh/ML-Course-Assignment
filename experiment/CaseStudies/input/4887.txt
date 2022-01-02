@@ -1,0 +1,42 @@
+     Transcribe Bentham has done what few if any other academic       research projects have been able to do: it has engaged thousands of       members of the public around the world in legal historical research.
+In       doing so it has helped develop history, IT and analytical skills in the       general public, and also demonstrated how crowdsourcing can be used much       more widely as a tool for transcription in other settings and in other       languages.
+Bringing Bentham to the masses     By 2013, the Transcribe Bentham Transcription Desk had received       over 1.9 million page views and had received 47,386 visits from 19,462       unique visitors from 125 countries [11].
+The top 10 countries for visitors are: the US (79,959 visits); UK         (55,567); Canada (11,658); Australia (5,824); Germany (5,152); New         Zealand (3,469); France (2,910); Italy (2,610); Brazil (2,584); and the         Netherlands (2,427) [11].
+The Project has used a combination of blogging and social media         (Twitter and Facebook) to increase participation.
+By August 2012, Transcribe           Bentham had acquired 853 followers on Twitter and 339 fans on         Facebook [9, para.19].
+Transcribe Bentham has attracted over 4,000 registered users:            400 of these users have gone on to transcribe material [10];       6,416 manuscripts (estimated 3.2 million words) have been transcribed         or partially-transcribed, and 95% of these are of sufficient quality to         be uploaded to the Digital Repository [10];       A third of transcribers are under 40, a fifth are over 60 [9, para.41]         and two-thirds are female, unlike other crowdsourcing projects which         attract a primarily male following [9, para.
+39].
+The project has received extensive media coverage around the world:            Despite mainly targeting English-speakers and the UK, the project has         received media coverage in US, Australia, Japan, Germany, Norway,         Sweden, Austria and Poland [8].
+A 2010 article in the New York Times [4] had a vital and         enduring impact on Transcribe Bentham: with 11 visits to the         project website the day before the article, and 1140 visits on the day         of the article [9, para.
+33]; this kick-started the formation of the         large and engaged user community described above.
+When Transcribe Bentham project volunteers uncovered a         collection of recipes intended for Bentham's panopticon prison, the         Michelin-starred London restaurant, St John Smithfield, cooked one for         Radio 4's PM Programme and it was incorporated into the         restaurant menu [5].
+Public participation in legal history and development of IT skills     The creation of a freely available digital collection of the Bentham       Papers to complement the printed texts has widened access to and       encouraged user participation with Bentham's writings.
+Transcribe         Bentham recruited an active user community engaged in heavyweight       transcription.
+This is remarkable because, unlike most crowdsourcing       projects where material is straightforward to decipher, Bentham       manuscripts are not easy to read.
+The result is that the project has also       helped to develop IT and analytical skills among the public:            Only a minority of transcribers had ever worked with manuscripts or         had any specialised training in reading historical handwriting prior to         taking part in Transcribe Bentham [9, para.
+42].
+Bentham's handwriting is complex and time-consuming, requiring         concentration and commitment.
+Many transcribers found the intellectual         challenge and puzzle-solving aspect of transcription enjoyable and         highly rewarding, with several comparing deciphering Bentham's         handwriting to solving a crossword or Sudoku [9, para.
+56].
+The truly unique and innovative impact of Transcribe Bentham has       been recognised internationally, winning the 2011 Prix Ars Electronica       Award of Distinction in this leading Digital Arts competition:            The 2011 Prix Ars Electronica jury commended Transcribe           Bentham for its "potential to become a standard tool for           scholarly crowdsourcing projects", and its "potential to create           the legacy of participatory education and the preservation of heritage           or an endangered culture" [2, p. 206].
+Transcribe Bentham was also shortlisted for the 2011 Digital           Heritage Award [13].
+Influencing worldwide transcription and the wider information sector     Transcribe Bentham demonstrates that there is a worldwide audience       of potential volunteers who are willing and able to engage in demanding       crowdsourced tasks.
+If untrained volunteers are able to transcribe the       papers of Jeremy Bentham, some of which border on the illegible, this has       shown that they can transcribe almost anything.
+The Bentham Project has       made the code for the transcription tool freely available to download [d],       and Transcribe Bentham and its outreach activities are being used       as a model for other similar initiatives worldwide.
+For example:            The Public Record Office of Victoria has launched a pilot project with         the public to transcribe historical documents in its archive, using the         Transcribe Bentham transcription tool [6].
+The Transcribe Bentham image viewer and transcription toolbar         is now being used by the Irish Letters of 1916: Creating History         project (based at Trinity College Dublin) [12].
+Bentham Project staff have been consulted on how the initiative can be         used elsewhere by: the Natural History Museum, National Library of the         Netherlands, Library and Archives Canada, Royal Library in Denmark, San         Diego Natural History Museum, J. Paul Getty Research Institution and         Church of Jesus Christ of Latter-Day Saints [10].
+The European Commission-funded TranScriptorium project is using         the Transcribe Bentham transcription tool as a prototype tool         for crowdsourcing material in other languages as part of its wider         project to develop computers and programmes to read handwriting.
+Consortium partners include the Dutch Institute for Lexicology and Greek         National Centre for Scientific Research, as well a number of academic         institutions: the University of Valencia, University of Innsbruck,         University of London Computer Centre and UCL's Bentham Project [9].
+Advancing the Bentham Project     Given that the transcription task is much more onerous and demanding than       in most other crowdsourcing projects, the amount of work completed by Transcribe         Bentham volunteers is quite remarkable.
+Volunteers transcribed an       average of thirty-five manuscripts each week [9, para.
+45]:            This has speeded up publication of The Collected Works.
+It is         estimated that Transcribe Bentham could save between six months         and one year of an academic editor's time [10].
+Without Transcribe Bentham, it will take at least 70 years to         transcribe the remaining Bentham Papers.
+With Transcribe Bentham         volunteers transcribing at the current rate, it will take about 35         years.
+If more volunteers can be recruited, it could be done in 12-17         years.
+These user-generated transcripts will be added progressively to the         Digital Repository, and in this way the whole Collection is being         further enhanced as time goes on.
+The project has resulted in significant publicity for Bentham studies,         history and philosophy more generally.
+In a 2010 roundup of         crowd-sourced transcription, the software engineer and expert on         crowdsourcing Ben Brumfield noted that Transcribe Bentham has         done "more than any other transcription tool to publicize the field"         [3].
+Thus, the Project has proven how right Bentham was when he wrote: "Many         hands make light work.
+Many hands together make merry work".

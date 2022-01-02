@@ -1,0 +1,28 @@
+     Scottish aquaculture is a major industry with an estimated value of       &#163;584.7 million (2011).
+Scotland is also the largest producer of farmed       salmon in the EU.
+Where adequate regulation is absent, aquaculture can       have a detrimental environmental impact, affecting not only the marine       environment but the overall sustainability and performance of a site.
+Discharges are a primary environmental concern when it comes to planning       or expanding sites.
+Determining appropriate limits for discharges has been       a difficult task for environmental regulators, because they lacked a       reliable model to accurately predict the impact on the local ecosystem.
+In       Scotland, SEPA are responsible for the monitoring and regulation of       aquaculture sites, enforcing environmental quality standards for sea-floor       sediment at all aquaculture sites.
+Prior to the work of Prof. Black's team in the development of DEPOMOD,       SEPA used a simple empirical matrix as the main planning tool for consent.
+This matrix could not optimize farms to their environmental surroundings,       creating a `trial and error' approach to finding the optimum farm size,       leading many farms to close due to pollution problems4,5.
+Research by Prof. Black's team (1998-2000) saw the development of DEPOMOD.
+As part of the original steering committee, SEPA realized this model could       provide a means to apply scientific rigor to their aquaculture planning       process and enable plans to be optimized to the site-specific conditions.
+SEPA supported the work of Black and his team to further develop and       streamline DEPOMOD leading to the development in 2005 of AutoDEPOMOD4,5.
+AutoDEPOMOD has the capability to automatically iterate towards a solution       which will optimise productivity whilst remaining within Environmental       Quality Standards.
+In 2005 AutoDEPOMOD was adopted by SEPA as a compulsory stage in the       planning process.
+Since 2005 (and continuing), any operator wanting to       develop a new aquaculture site or expand an existing one must use       AutoDEPOMOD to identify the sustainable size for a proposed farm4,5.
+All presently operational salmon sites in Scotland have used AutoDEPOMOD,       enabling site developers to accurately match farm size to the capacity of       the environment providing the industry with a streamlined process to       enable farm optimisation from the outset whilst ensuring environmental       standards are maintained.
+AutoDEPOMOD continues to be a compulsory stage in the aquaculture       planning process and Prof. Black and his team continue to work with SEPA       and aquaculture industry representatives, including the Scottish Salmon       Company6 and Marine Harvest7 to update the model to       support future industry developments.
+The research team have been awarded       a grant of &#163;576,400 from the Scottish Government (2012-2014) to recode       AutoDEPOMOD and to improve the modelling of resuspension processes.
+International Impact            The DEPOMOD model developed by Black and his team has international         presence within the aquaculture arena.
+At present, 122 DEPOMOD licence         holders exist in 25 countries, 26 of which have been issued in the         period 2008-2013, including 21 commercial licences and 5 non-commercial         licences1.
+In 2012 the Canadian Department of Fisheries and         Oceans requested DEPOMOD to regulate the aquaculture industry and was         used to predict benthic impacts at new and proposed Salmon farms in         Southwestern New Brunswick (2009, 2012)8.
+Black led the development of DEPOMOD for specific regions including         the Mediterranean (MERAMOD) and Philippines (TREPOMOD).
+At present, 25         licence holders of MERAMOD and TREPOMOD exist, 11 of which have been         issued since 20081.
+Additional Impacts            The development of AutoDEPOMOD means that a greater level of         confidence can be applied to measuring the sustainability of a fish-farm         at any given site.
+In 2010 SEPA Aquaculture Specialist commented to NERC         (funders of the original DEPOMOD project 1998-2000): "The development           of DEPOMOD and subsequently AutoDEPOMOD as tools to be used in the           regulatory process has significantly improved the means by which SEPA           assesses the size of fish farm which can be sustained at any given           site and has provided an increased level of scientific rigour in           defining local environmental capacity"2,5.
+In recognition of his international reputation in aquaculture         environment impact research and development of DEPOMOD, Prof. Black         (UHI) became a member of the Scottish Government Working Group on         Aquaculture8as an expert in aquaculture environment impacts         (2002-2013).
+AutoDEPOMOD has facilitated a positive impact to the natural         environment by placing environmental health at the centre of aquaculture         planning.
+Since AutoDEPOMOD has been implemented in Scottish aquaculture         planning, farms have been re-scaled to match local environmental         capacity and many former polluted sites are no longer used.
+Overall,         Scottish aquaculture now has, and continues to have, a relatively lower         seabed impact than pre-2005 due to better planning through AutoDEPOMOD4,5,6,7.

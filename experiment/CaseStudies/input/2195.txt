@@ -1,0 +1,33 @@
+     Clinical understanding and diagnosis of pain disorders.
+Through our research, several human pain disorders have been linked to       mutations in both Nav1.7       and Nav1.8, leading to an increase in the clinical understanding of these       disorders and to their       correct diagnosis.
+By identifying peripheral ion channel mutations linked       to painful (and pain-free)       conditions, we have increased the potential for better diagnosis in this       patient population.
+The       Department of Clinical Neurophysiology at the National Hospital for       Neurology and Neurosurgery       (NHNN) receives approximately 100 requests per year for the differential       diagnostic assessment of       small fibre neuropathies.
+This differential diagnostic approach       increasingly uses sequencing for       mutations in Nav1.7 and Nav1.8 in cases of idiopathic pain, thus starting       a new line of diagnostic       procedure which may help to define useful therapeutic approaches [a].
+Similar diagnostic work, using our findings, also takes place at other       centres.
+For example, genetic       testing in the Netherlands for mutations to Nav1.7 and Nav1.8 has revealed       that, of patients with       idiopathic painful neuropathy (which affects up to 5% of the general       population), ~30% have a       gain-of-function mutation in Nav1.7 [b] and ~10% have a       gain-of-function mutation in Nav1.8 [c].
+Researchers involved in this study, which built on the earlier UCL       research, reported that: "a lot of         patients with small fiber neuropathy were sent to psychiatrists, or sent         home, and told, `You have         pain, but we don't see anything, so there's nothing wrong with you...         [The new findings offer] a         recognition that they have a real disease, and that there is something         causing the disease" [d].
+This year, we showed that two patients with the more rare human pain       disorder, primary       erythromelalgia, also have gain-of-function variants of Nav1.7 [e].
+Impacts on the pharmaceutical industry     The neuropathic pain market is huge, with peak sales of prescribed drugs       across the seven major       markets expected to reach $4.1bn by 2019.
+The major challenge in the pain       drug market is to       reduce the side-effects associated with treatment, and our discovery of       roles for Nav1.7 and       Nav1.8 in peripheral pain has provided the pharmaceutical industry with       ideal targets for the       development of more specific analgesics [f].
+Indeed, all major       pharmaceutical companies now       have programmes based on these targets, with Nav1.7 being the most       appealing target because       our research showed that its loss leads to a pain-free phenotype in man.
+As a result of our work, more than 1,000 patents on new analgesic       compounds targeting Nav1.7       and 1.8 are currently held by pharmaceutical companies (522 on Nav1.7 and       597 on Nav1.8 [g]),       with many of these compounds now in clinical trials.
+For example,       Convergence has developed a       novel small molecule state-dependent Nav1.7 blocker, CNV1014802, which       began Phase II trials       for the treatment of trigeminal neuralgia in 2011 [h].
+Similarly,       Ralfinamide (Newron) and Eladur       (Durect/King/Pfizer), both Nav1.7 blockers, are undergoing Phase II       clinical trials for neuropathic       lower back pain and post-herpetic neuralgia.
+Ralfinamide and Eladur are       expected to go to market       and reach peak year sales of $120m and $198m, respectively, by 2019 [f         &#8212; see table 47].
+We have provided the pharmaceutical industry with the transgenic mouse       lines developed in our       lab, saving significant time and money in the industrial development of       new analgesic compounds.
+Currently, six licences for our mice are held by pharmaceutical companies       (including five of the       major companies; names can be provided confidentially).
+These have a       financial impact for UCL:       with each mouse line worth &#163;50,000, they bring in cumulative income in the       six-figure range [i].
+Public engagement and media appearances     Our work on the genetic basis of pain has been featured on various TV       programmes (e.g.
+The One       Show, BBC, 2012; The Human Body, Discovery Channel, 2012) including most       notably in BBC       Horizon's The Secret World of Pain, 2011.
+This went out to an       audience of 1.96m, and the       Television and Radio Index for Learning and Teaching (TRILT) listed the       documentary as number       four in its weekly record of requested programmes [j].
+Increasing public awareness of the many possible physiological origins of       pain is extremely       important because patients with chronic pain are often faced with the       additional trauma of their       pain being dismissed as "psychological" (by friends and relatives if not       doctors) when its       physiological basis is unclear.
+The BBC internet forum Ouch!
+Disability       Message Board also       included contributions from people featured in the documentary, including       Rebecca Key who       explained that the documentary had sparked enough public interest for a       seminar to be organised       by the charity Neurosupport, held in Liverpool on 15 June 2011 [k].
+Similarly, it is an important revelation to many that pain is beneficial       and to live without it can lead       to serious physical injury.
+The documentary has had use in clinical       practices at the Children's       Hospital: Dr Konrad Jacobs, Psychologist on the Paediatric Rheumatology       Team, Oxford       University Hospitals, noted, "There is a scene in it that I have         started using clinically with children         with chronic pain.
+In this scene (around 4:18) two children explain the         consequences of not being         able to feel any pain.
+This scene can be used to explain that pain can         fulfil a useful function (but         unfortunately not in their case)" [l].
+Newspaper coverage also noted the impact of the documentary in changing       the public's       understanding of pain.
+The Metro newspaper noted, "as ever, it's in the         genes and there's one         tricky customer that controls our experience of pain.
+Research into that         is helping treatment of it         and our understanding of how it works."
+A review in the Daily       Express highlighted, "All this mind-body         stuff is interesting but what makes it important and therefore good TV         is the way scientists         are turning it into useful treatments" [m].

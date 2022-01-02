@@ -1,0 +1,36 @@
+     The production of graphene and subsequent characterisation of       extraordinary thermal, electron transport, mechanical and gas-barrier       properties, together with high specific surface area, led to the       realisation it could be used in potentially disruptive technologies.
+The       opportunities span an incredibly broad range of applications, including       printed electronics, new transistors, super capacitors, transparent       conductors, biomedical sensors, automotive batteries, and composites and       coatings with enhanced mechanical and electrical performance.
+Companies       have moved rapidly to exploit this potential, with significant investment       in both new and existing businesses, new jobs and the first graphene-based       products reaching the market.
+Alongside these economic impacts, there have       been significant public policy impacts, with substantial shifts globally       in science and innovation budgets.
+ECONOMIC IMPACTS     It has been estimated [A] that by 2010, 210 companies globally had made       significant corporate investments in bringing graphene and graphene-based       products to market &#8212; 88 between 2008-10 in the US, Japan, Korea, Germany,       UK and China.
+This activity covers three broad sectors: graphene       production, graphene-based technologies, and graphene-based products.
+Graphene Production: Demand for graphene has grown rapidly,       prompting investment in scaling up and reducing the cost of production.
+Total graphene output in 2009 was 12 tons, rising to 155-205 tons in 2013       [B (ii)], with a market value of around $10 million.
+Over 55 companies       have entered the sector, with at least 24 formed since 2008.
+It was       estimated in 2011 that there was already $40M invested in small graphene       producers [B (iii)].
+During the past two years there has been significant       investment in scaling up production.
+As examples: XG Sciences (revenues of       $4 million in 2012) have invested $10.5 million to scale-up production       from 3 tons to 80 tons pa with staff numbers increasing from 8 to 30       between 2010-12 [C]; Ningbo Morsh Technology have invested $30 million in       a 300 ton pa production line in Zheijian Province, China [D]; and Garmor       Inc have invested in a 100-ton pa facility in Orlando, with plans to       employ 80-100 employees over 5 years [E].
+Although financial data is not       available for all 55 companies active in the field, these three alone       account for recent investments of around $50m, leading to a conservative       estimate of at least $200m invested in scaling-up production capacity.
+Graphene-based Technologies: Several large multinational       companies are known to be active in developing graphene-based       technologies, including IBM, Samsung, BASF, Nokia, Sandisk, and Fujitsu       [B, F, G].
+Although details of the financial investments involved are not       available, the scale of activity from these companies can be judged by the       volume of associated graphene-related patents.
+Between 2008-12 7740       patents were published, roughly half by the corporate sector [G].
+Continuing investment is exemplified by the 33% growth in the patent       family portfolios of the top corporates in the field since 2010.
+Graphene-based Products: Graphene-based products have begun       to reach the market, for example: HEAD graphene composite tennis racquets,       Vorbeck conductive inks, Powerbooster touchscreens, Ovation Polymers       ExTimaTM graphene/polymer masterbatch compounds, Bluestone Grat-PowerTM       SiGP graphene-enhanced anode materials, and Cabot LITX G700 graphene-based       battery additive.
+Although it can be difficult to obtain commercially       sensitive financial information on the investments needed to bring       products to market or the resulting sales, we provide three illustrative       examples:            HEAD has an established reputation in hi-tech sports equipment.
+In         2012, they brought to market a range of graphene-reinforced-composite         racquets, exploiting the high specific bonding area characteristics of         graphene to achieve a significant advance in strength-to-weight ratio         [H].
+This allowed the weight of the mid-section of the racquet to be         reduced, leading to significant improvements in handling.
+By late June         2013, the company reported they were on course to sell 200k graphene         racquets in 2013 [H].
+Retailing for around $150, this equates to a sales         value of $30m, at least half of which is likely to have been in the REF         period.
+It is also noted that sales of graphene-based racquets are         displacing other racquets that the company markets [H].
+Shanghai-based Powerbooster, working with graphene producers,         Bluestone Global Tech, are manufacturing graphene-based touch screens.
+In a June 2013 online interview with the Wall Street Journal, they         reported monthly sales of 2m screens, which translate to revenues of         roughly $10m per month [I].
+Vorbeck Materials introduced Vor-inkTM, graphene-based         conductive ink for printed electronics in 2009.
+With MeadWestvaco, a         global packaging company, they developed a printed anti-theft packaging         system that is now used by major US retailers including Home Depot and         CVS [J], generating annual revenues for Vorbeck of $1m-$2.4m [K].
+To         meet customer demand for Vor-inkTM, Vorbeck invested in         real-estate and equipment in 2012 to increase their production capacity         to over 40 tons pa, with further investment in a new production facility         opening in late 2013 [L].
+POLICY IMPACTS     The isolation and characterisation of graphene also led to significant       shifts in science funding policy, with major public investments in       graphene research and commercialisation around the globe.
+A 2011 survey of       European funding for graphene-related R&amp;D found significant funding in       26 countries, with major priority progammes in 7 [M].
+In total, European       national funding in the period 2008-11 was &#8364;177m, compared to &#8364;2.5m before       2008, with the European Commission providing &#8364;87m over the same period.
+In       Jan 2013, the Commission announced a further &#8364;1000m investment over ten       years in a graphene Future and Emerging Technologies Flagship Initiative.
+In the USA, the National Science Foundation awarded around $200m in the       period 2008-12 [N].
+In Asia, South Korea is reported to be spending more       than $350m on graphene commercialisation initiatives [B(ii),O]; the       National University of Singapore invested $31M in a Graphene Research       Center in 2010, attracting $47M support from the National Research       Foundation a year later [P]; and China invested $81m in government funds       between 2002-2012, on a rapidly rising trajectory [Q].
+Cumulatively, these       initiatives represent a seismic shift in public funding for science, with       at least $2.4bn committed to date.

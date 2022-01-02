@@ -1,0 +1,21 @@
+     Improved weather forecasts &#8212; protecting people     The 3DVOM predictive computer model is now fully integrated into the       operational forecasting of the Met Office in the UK, aided by the transfer       of Dr Simon Vosper (Research Fellow, 1995-2001) from Mobbs' Leeds       research group to the Met Office in 2004-05.
+It provides meteorologists       with predictions of vertical wind speed, which they can integrate into       their forecasts.
+The 3DVOM software was initially deployed in 2005 for forecasting       hazardous turbulence in the Falkland Islands, especially around MPA.
+However, following additional studies and testing by the Leeds group, the       Met Office extended its operational use of 3DVOM to four UK meteorological       domains: south-west England (Dartmoor and Bodmin moor), north Wales       (Snowdonia), northern England (the Pennines and the Lake District) and       eastern Scotland (the Grampians) [A1,A2].
+In 2007 the domains of       Northern Ireland and eastern Ireland were added.
+Since this application of       3DVOM to the UK, duty forecasters have been able to use the model's output       to produce warnings of hazardous turbulence for both the MoD and civil       aviation authorities across the country, allowing them to adjust flight       plans accordingly [B].
+Since 2010 the 3DVOM system has been run four times per day serving 5 UK       areas, Eire and the Falklands, giving forecasters refreshed model       predictions every six hours.
+Direct users include all the Aviation and       Defence forecasters within the Met Office Head Quarters (Exeter), all the       outstations (e.g.
+Falkland Island) and within the Defence sites (c.5).
+3DVOM predictions for low- level winds, combined with outputs from other       forecasting models, are also used by forecasters to assess the risk of       overturning for high-sided vehicles on exposed routes, such as the A1       trunk road to the east of the Pennines.
+Forecasts of `gusts' in public       weather forecasts and warnings issued by the Met Office are based on 3DVOM       output [B].
+Commercial benefits &#8212; reducing costly diversions from Mount Pleasant         Airport     MPA was constructed in the Falkland Islands in the 1980s following the       conflict there to service the military garrison.
+It is often afflicted by       severe turbulence, which prevents incoming aircraft from landing.
+Aircraft       from the UK fly to MPA via Ascension Island, over seven hours flying time       away.
+If flights to MPA are unable to land they are diverted to distant       airports in South America, at least three hours away.
+Here the crew must       rest for more than 12 hours and the passengers must be accommodated during       this time.
+Such diversions are costly: rough estimates suggest diversion       costs for a flight are somewhere around &#163;250,000, based on additional       aviation fuel costs, airport charges and unscheduled overnight       accommodation for 300 passengers [C,D].
+Clearly it is preferable for flights to remain at Ascension until weather       conditions at MPA improve; ideally accurate weather and turbulence       forecasts are required at least 12 hours in advance of take-off from the       Ascension stopover.
+Since the implementation of 3DVOM for Falkland Islands       forecasting by the Met Office in 2005, the system has helped to avoid       approximately five diversions per year, with a cost saving to the MoD of       around &#163;1.25 million per year [B,D].
+The 3DVOM turbulence forecasts have also helped to protect military       personnel at MPA, for example in a case described by the Principal Met       Officer at MPA: "I did have a case last year when a VVIP was on board         the airbridge, and I advised all in this region that the vertical motion         was of great concern as we were forecasting very strong cross winds and         rotors during the usual airbridge arrival time.
+I briefed CBF [Chief of         British Forces] along with many operators, and we managed to delay the         aircraft until the wind backed westerly, to reduce any diversion risk"       [B].

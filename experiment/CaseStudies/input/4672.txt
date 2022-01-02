@@ -1,0 +1,42 @@
+     Undertaking fully through-thickness residual stress measurements in       thick-sectioned industrial components is expensive, whichever technique is       employed.
+Neutron diffraction measurements are often viewed as the nearest       measurement alternative to deep-hole drilling, as they are able to measure       sub-surface residual stresses in crystalline materials.
+However, neutron       diffraction is only able to make measurements to a depth of approximately       30mm in steel and commercial costs of neutron beam time are in the region       of &#163;15-20k per day.
+Bristol's deep-hole drilling technique, in contrast,       can be used to take residual stress measurements on much thicker       components.
+To date, the deepest measurement - 750mm - was taken on a       steel turbine for Siemens [a].
+Costs are primarily determined by the time       to undertake the measurement.
+As an example, an on-site measurement on a       large nuclear component may take a week to perform.
+Using the University's deep-hole drilling technique, and its associated       data analysis methods, Veqter Ltd provide commercial residual stress       measurements for use in structural integrity assessments.
+The company       undertakes the measurement service on structural-level samples sent to the       laboratory or, for larger components, conducts the service in-situ at the       plant.
+The company was formed in 2004 by Kingston (UoB 1998-2004) when it       became apparent that the quick turnaround of measurements demanded by       industry, coupled with confidentiality requirements, necessitated the need       for an independent, commercial spin-out company.
+Smith and Truman remain       non-executive directors on the Board of Veqter.
+Since the company was       formed, the key impact indicators are [b]:            The growth from [text removed for publication] employees         (2004-2011).
+The growth in annual turnover [text removed for publication].
+The steady increase in the client base from across the world,         including Japan, America and France.
+Veqter appointing a dedicated Japanese agent, IIC, in 2008 to extend         operations in this country.
+In addition to the direct economic impact for Veqter, its unique       measurement service, often applied to safety-critical hardware, has       significant impact for its clients.
+The through-thickness residual stress       profile measurements allow the client to undertake detailed fitness for       service assessments or to validate numerical simulations.
+Examples       relating to the design and repair of components in the nuclear industry       include:            In 2010-11, deep-hole drilling measurement results were used in a         series of plant life extensions for EDF Energy (formerly British         Energy Generation Ltd) to help extend the life of the current fleet of         advanced gas-cooled nuclear reactors.
+As an example, full structural weld overlays have been used extensively         to repair, or to mitigate against, primary water stress corrosion         cracking at dissimilar metal welds in pressurized nozzles.
+To support an         approved weld overlay design and safety submission, British Energy         commissioned Veqter to perform tests on pressurized water reactor         nozzles.
+Specifically, a detailed assessment of the effects of a weld         overlay on the through-wall residual stress distribution in these         nozzles was conducted using deep-hole drilling.
+This study allowed EDF         to determine the most appropriate form of weld overlay to apply to their         plant to maximize confidence in the structural integrity case [b,c].
+The US Nuclear Regulatory Commission are employing deep-hole         drilling to measure and validate through-wall weld residual stresses         that develop at the J-groove welds in nuclear control rod mechanisms         [d].
+The Commission and the Electric Power Research Institute worked         cooperatively to validate residual stress predictions at welds between         primary cooling loop components.
+The residual stress distribution for         the prototype component was predicted numerically using different         techniques.
+Veqter provided experimental measurements for comparison.
+The Commission noted, in 2011, that due to the thickness of the         components "The only non-destructive or semi- destructive technique           capable of obtaining full through the wall residual stress ... is the           VEQTER Ltd proprietary Deep Hole Drilling technique" [d].
+The         results of this study showed that, on average, analysts can develop         welding residual stress predictions that are a reasonable estimate for         actual configurations, as quantified by Veqter's measurements.
+However,         the scatter in predicted results from analyst to analyst could be quite         large.
+These results allowed the Commission to understand the         limitations of numerical weld simulation models and hence place an         appropriate error on numerical results [b,e].
+The Japan Nuclear Energy Safety Organisation has employed         deep-hole drilling in a series of key national nuclear safety projects         [b].
+As an example, in recent years, the occurrence of stress corrosion         cracking in Alloy 600 weld regions of pressurized water reactor plants         has increased.
+In order to evaluate crack propagation mechanisms, it was         necessary to estimate the stress distribution, including residual stress         and operational stress, across the wall thickness in the region of the         weld.
+In a national project, for the purpose of establishing the optimum         residual stress evaluation method, a test model was produced.
+The stress         distribution, resulting from fabrication processes, was measured by         Veqter using the deep-hole drilling technique.
+The results showed that         the stress distribution, in the thickness direction at the centre of the         weld line, hardly varied during a hydrostatic test.
+This insight allowed         the Safety Organisation to validate the numerical safety simulations         performed by plant fabricators Toshiba, Hitachi and MHI [b].
+AREVA plc have placed high value on the use of Veqter's         deep-hole drilling measurements in the development of narrow gap TIG         welding.
+For new nuclear builds, AREVA has developed an advanced narrow gap         welding technique for junctions between heavy section steel components         and stainless steel piping.
+The company used finite element simulations         to predict the residual stress field of a 29" multipass narrow gap weld.
+These numerical results were compared to Veqter's measurements obtained         by the deep-hole drilling technique.
+This comparison provided data that         allowed AREVA to gain a better insight into the error levels associated         with numerical weld simulation modeling [b,f].

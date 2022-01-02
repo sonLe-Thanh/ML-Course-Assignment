@@ -1,0 +1,34 @@
+     The development of new medicines is a lengthy and costly procedure, with       some estimates putting       the average research and development spend as high as US$2 billion for       each new drug [5.C1].
+Speeding up this process not only saves on costs but frees up personnel to       work on life-enhancing       interventions elsewhere.
+Helping pharmaceutical companies find       cost-effective ways of developing       the chemical processes for new drugs has been a key driver of research       into new statistical design       and modelling methods carried out at Southampton.
+The resulting research       has been pivotal in       helping industry professionals fine tune their experiments at both the       screening and robustness       stages to maximise yield and minimise impurities.
+Chemical development in the pharmaceutical industry is an inherently       multi-factor problem, which       requires the study of many chemical properties and process features.
+Hence, an important part of       gaining understanding and knowledge of the system as economically as       possible is the ability to       investigate a large number of factors using only a small experiment.
+Southampton's expertise in the design of experiments has led to a       long-running relationship with       GSK's Product Development team.
+As a direct result of the underpinning       research, Southampton's       supersaturated designs were successfully applied in a GSK-funded pilot       project, which encouraged       the GSK collaborators to adopt our methodology in the development of a       number of new drugs.
+Since 2011 GSK has been performing approximately six experiments per year       using       Southampton's methodology, resulting in indicative savings of more than       &#163;25,000 and three weeks       of scientists' time per experiment.
+GSK scientists have applied Southampton's supersaturated experiments in       the robustness step       necessary to verify a drug's `robust operating region' &#8212; a US Food and       Drug Administration (FDA)       regulatory requirement for the registration of a new drug [5.C2].
+A probabilistic, risk-based       approach is taken to establishing this region through a sequence of       experiments and associated       statistical modelling.
+It is then verified through further       experimentation, in which a large number of       factors (input variables or process parameters) are varied to investigate       whether or not they have a       negligible impact on the response.
+GSK drew on the research to verify the robust operating regions for two       new drugs for metastatic       melanoma, which were approved in 2013 by the FDA.
+Melanoma is the most       serious form of skin       cancer.
+The US National Cancer Institute has predicted that melanoma will       cause more than 9000       deaths in the USA in 2013.
+Worldwide, there is a 50% one-year survival       rate, with only 16% of       patients in the USA surviving for five years [5.1].
+For metastatic       melanoma, the median age of a       newly diagnosed patient is almost a decade younger than for other cancers.
+The first application of Southampton's research was in the development of       trametinib, a drug that       inhibits a protein pathway involved in tumour growth which is activated in       around 50% of       melanoma cases [5.1, 5.2].
+GSK's submission for FDA registration       for trametinib included results       from a supersaturated design developed by Southampton, which allowed the       investigation of 16       factors in only 10 runs to verify a key stage in the development process.
+This design achieved a       two-thirds saving in costs and time compared with GSK's previous standard       approach of using a       regular fractional factorial design, which would have required 32 runs to       produce the data to ensure       a quality product for the patient.
+It is difficult to quantify the increased scientific understanding gained       from the ability to perform       experimentation involving a large number of factors that would otherwise       be infeasible.
+This       increased understanding is considered a key benefit of the new methods.
+`The         real importance to         GSK of the successful application of these methods is the deeper         scientific understanding gained         through the ability to experiment simultaneously on larger numbers of         variables than previously         possible.
+This case study demonstrates the value of a long term         relationship in enabling mutual         understanding of scientific context and areas of opportunity.'
+(John       Whittaker, Vice President,       Statistical Platforms and Technologies).
+Typically, a supersaturated       design allows between a 1.5       and two-fold increase in the number of factors that scientists are able to       investigate for a given       resource.
+Thus, risk management can be significantly improved from the use       of supersaturated       designs.
+To empower the scientists in GSK product development worldwide to use       these methods, in 2011       the Southampton research team produced a protocol for finding and       assessing suitable       supersaturated designs using industry-leading statistical software (SAS       JMP).
+They worked with       SAS to produce a new piece of code to implement methods for best practice       statistical modelling of       the data obtained from using such designs.
+Southampton researchers advised       on a tailored       training programme that facilitated the use of these new methods in GSK's       chemical development.
+`Key to the successful use of the methods was the proactivity and         engagement of UoS in         translating high level research to application on GSK projects through         collaborative work.
+This has         provided case-studies to demonstrate value and enabled the development         of training and         mentoring approaches with key GSK staff' (Martin Owen,       Quality-by-Design Innovation Leader,       GSK) [5.3].
+GSK scientists have presented results from their       application of supersaturated designs       at a number of academic and industrial meetings, including at two       Southampton-organised       academic-industry events at the Isaac Newton Institute for the       Mathematical Sciences in       Cambridge.
+As a measure of the value of the research to GSK, the pharmaceutical       company awarded       Southampton nearly &#163;200,000 in 2012 to fund further fundamental       statistical research from which       future pharma benefits may be obtained [3.G3].

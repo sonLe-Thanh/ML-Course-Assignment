@@ -1,0 +1,37 @@
+     Context     There were promising, prototypical implementations of DL reasoners that       were respected in the knowledge representation community, but found little       adoption: the logics were inexpressive, there was limited tool support, no       methodologies, no editors and no standardized syntax.
+Pathways to Impact     The research that underpins the impact was reported in high profile       publications that were widely read and cited.
+Associated with these       publications, several software systems were released that enabled       experimentation with and application of the research results.
+For example,       the DL reasoners FaCT and FACT++ each received tens of       thousands of downloads, as did OiLEd, the first ontology editor that was       tightly integrated with a DL reasoner, thereby providing a tool to       showcase the feasibility and potential benefits of supporting ontology       engineers through DL reasoning.
+These tools, together with the OWL API,       led to a wide user base and support by other tool developers, which helped       to establish the utility and maturity of DLs for a range of applications,       including in the web.
+This, in turn, enabled Horrocks and others to       convince the Semantic Web community to adopt DLs as the logical       foundations of Semantic Web Ontology languages.
+Reach and Significance of the Impact     This section describes impacts that have resulted from the research.
+Although some of these are economic, there have also been important       impacts on practitioners and service providers through the introduction of       influential de jure standards and changes to best practice, in       particular for the design and development of widely deployed biomedical       terminologies.
+Development of Standards in the W3C.
+The widespread adoption of       the research results has been made possible by the development of World       Wide Web Consortium (W3C) standards for ontology languages and associated       interfaces.
+These standards are designed by working groups that       have members from outside academia and require serious implementation and       usage efforts to be established.
+Standards that build directly on       Manchester research, and in which Manchester authors collaborated with       other academics and industrial partners include:             OWL (2004): the first W3C ontology language standard, which builds on         Manchester research as described in [5]; contributors: Horrocks and         Bechhofer.
+OWL 2 (2009): a revision of OWL, heavily driven by the OWL         Experiences and Directions group founded by Horrocks, Parsia, et al.
+and by research on qualified number restrictions, key constraints, and         rich property axioms by Horrocks, Parsia, and Sattler; contributors:         Horrocks, Parsia and Sattler.
+SKOS (2009): a standard language for knowledge organisation systems         based on OWL; contributors: Bechhofer.
+SPARQL (2008) and SPARQL 1.1 (2010-12): a query language for RDF and         OWL, influenced by work on OWL query answering by Horrocks and Sattler;         contributors: Parsia.
+These de jure standards have been widely deployed throughout the       REF period, as described below, thus impacting on practitioners who both       develop and apply semantic web technologies.
+Uptake of Reasoning Algorithms and Tools.
+The standards have       enabled the development of products and tools that in turn have       facilitated the widespread application of semantic web techniques.
+In this       section we focus principally on two examples:             Pellet: Pellet, a commercial reasoning system that supports         OWL 2, is marketed by Clark &amp; Parsia, and includes algorithms         developed at Manchester [A].
+Pellet has been used by organisations         including NASA, US Army, US Banking Institutions, NATO, NCI, Ordnance         Survey and iPlant Collaborative [A].
+In addition, Pellet has been         integrated with and is used in Oracle 11g [A].
+Prot&#233;g&#233;: Prot&#233;g&#233; is the most widely used computer system for         engineering ontologies, with 225,000 registered users, and more than         17,000 members of email discussion groups [B].
+Prot&#233;g&#233; supports OWL 2,         the user interface for the current version of Prot&#233;g&#233; was designed and         implemented at Manchester, and Prot&#233;g&#233; implements the Manchester OWL API         [B].
+Manchester techniques and tools, in conjunction with the W3C Standards,       inform other commercial platforms.
+For example: the commercial reasoner       RacerPro incorporates algorithms designed in Manchester and pioneered in       FaCT, and implements the Manchester OWL API [C]; and the KnowledgeServer       semantic infrastructure of derivo GmbH implements OWL and the OWL API [D].
+OWL Tools and Ontologies.
+Today, thousands of OWL ontologies are       available on the Web.
+The National Centre for Biomedical Ontologies       BioPortal ontology repository [E] contains 365 OWL ontologies, which are       used in all areas of biomedical activity.
+The following three ontologies       are amongst the most well established and widely used ones and are built       using OWL and OWL 2:             SNOMED CT [F], from the International Health Terminology Standards         Development Organisation, is the prime medical thesaurus and is used         worldwide in a variety of healthcare applications, e.g., in NHS         Connecting for Health.
+The company B2i Healthcare provides specialist         support around OWL and SNOMED CT, in particular Snow OWL [G].
+National Cancer Institute (NCI) Thesaurus [H] is a key biomedical         research vocabulary used in OWL that uses Pellet for classification [A].
+The 11th version of the International Statistical Classification of         Diseases and Related Health Problems (ICD-11) is currently being         developed in OWL under WHO leadership [I].
+ICD is used to classify         diseases and other health problems, e.g., in death certificates and         health records.
+These records also provide the basis for the compilation         of national mortality and morbidity statistics by WHO Member States, and         are used for reimbursement and resource allocation decision-making by         governments.
+The W3C maintains a list of use-cases of semantic web standards [J] that       detail the users that have built on the standards to which Manchester       contributed.
+These include: the Norwegian National Broadcaster, Cleveland       Clinic, Ordnance Survey, IBM, National Archives of Korea, Food and       Agriculture Organization of the United Nations, BBC, Chevron, Renault,       Agfa Healthcare and Vodaphone.

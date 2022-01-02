@@ -1,0 +1,34 @@
+     The research work summarised in Section 2 forms the core technology       employed in the commercial software system ELFEN developed by Rockfield       Software Ltd., with extensive and continuous collaboration with the       university.
+Rockfield is a spin-out company created with the aim of       transferring the high quality computational modelling research of the       internationally renowned numerical group at Swansea University to the       commercial sector.
+The company has expanded to over 30 personnel, with       over two thirds of the staff possessing Ph.D. degrees, making the company       a significant employer of high technology graduates in the Swansea area       and a valued contributor to the local economy.
+Rockfield is internationally recognised as a leading provider of       computational services to both SMEs and world-wide conglomerates and has,       through the research support provided by the university, over the years       built strong relationships with many of the world's foremost companies       including; Unilever, IPGR, DSTL, Corus, Proctor &amp; Gamble, Devonport       Marine Ltd., Rio Tinto, BP-Amoco, Chevron, Shell, Exxon Mobil,       Total-Fina-Elf, Miningtek, Orica, Anhauser Busch and Los Alamos, Sandia       and Lawrence Livermore National Laboratories.
+The importance of ELFEN to the success of Rockfield is evidenced by         the granting of the Queen's Award for Innovation to the company in 2002         and 2007.
+In each case the award was granted for developments based       on the ELFEN code, which indicates the extremely high level of impact of       the technology on industrial and scientific innovation.
+Additionally, the       prominent involvement of Rockfield in the mining and minerals recovery       sector lead to the formation of Rockfield Technologies Australia, based in       Townsville, Queensland to support these activities and the company       currently employs ten R&amp;D engineers.
+The industrial impact has been made both through use of the methodology       by Rockfield to develop its strong position within the computational       modelling industrial community and by end use of the ELFEN system by the       company's clients.
+Selected significant industrial contributions that have       taken place during the REF reporting period 2008-2013 are summarised       below:     Impact 1.
+Savings achieved by improvements in glass container         production.
+Widely used in food and beverage packaging, glass       containers account for 8% of the global packaging market, and are readily       recyclable.
+Glass containers are made from sustainable raw materials       (sand, soda ash and limestone) and mass produced through fully automated       energy intensive forming processes.
+The primary energy demand (MJ/Kg       glass) for production is estimated at 6.6, and the global warming       potential (Kg CO2/Kg glass) as 0.4.
+The EU annual production       output alone is 22M Tonnes and therefore, the need for reducing the weight       of containers is pressing, creating a rapidly growing demand for container       specific optimization of glass forming processes.
+Computational simulation       has proven to be an unrivalled tool for quantitative analysis of the       complex multi-physics process involved in glass forming and a       comprehensive version of ELFEN has been developed which can accurately       simulate all major forming processes: blow-blow (BB), press and blow (PB)       and narrow neck press and blow (NNPB).
+"ELFEN-GD has permitted a         10-25% weight saving over traditional design methods and is widely         accepted by glass manufacturers as a valuable design tool, with some 50         licences being employed worldwide" [Managing Director, Rockfield       Software Ltd.].
+Among the principal users are Gallo Glass, USA, who       manufacture 1 Billion bottles p.a.
+(~0.5M Tonnes of glass), Vidrala S.A.,       Spain who have a production capacity of 1.15M Tonnes (producing 3.3       Billion containers p.a.
+), with an annual turnover of &#163;416M, and San Miguel       Malaysia with a net annual income of US$207M.
+Vidrala state "The         computer simulation system ELFEN-GD has proven to be an invaluable tool         for the design of forming processes for a wide range of our glass         products.
+It is difficult to provide an accurate quantitative measure of         the design improvements brought about by use of ELFEN across the range         of our products, but it is estimated that lightweighting savings of         around 10-15% have been achieved overall" [Responsible Process       R&amp;D, Vidrala, S.A.].
+With 50 licence users, it is conservatively       estimated (accounting for their varying sizes) that these companies       annually produce ~12M Tonnes of glass containers.
+Given a minimum           10% weight reduction brought about by ELFEN computational design           (Rockfield and Vidrala support letters), this represents an annual           primary energy saving of 14x106 GJ           (~&#163;70M p.a.)
+and CO2 emission           savings of ~ 0.5M Tonnes.
+Impact 2.
+Savings in mining operations through explosive blasting         simulation.
+Australia is the world's fourth largest coal producer       and in 2010 produced 449M Tonnes of coal (export value ~ &#163;35Bn).
+The       efficiency of mining operations crucially depends on the development of       explosive techniques that can control the fragmentation process to       eliminate the need for secondary blasting of large particles and do not       produce fine particles that deteriorate the quality of the mined material.
+Orica, which is the principal explosives manufacturer in Australia and       whose turnover in 2012 was A$6.7Bn (&#163;4.1Bn), have principal clients such       as international companies BHP Billiton, Anglo American, Rio Tinto, and       Xstrata who play a prominent role in extraction.
+Orica "recognise         ELFEN as the best and indeed the only tractable means by which we would         be able to attempt to simulate blasting from the detonation phase to the         bulk motion and settling phase, and today ELFEN is the mainstay of our         modelling service to the mining industry.
+We have had unparalleled         success using ELFEN to assist mines by simulating an extensive range of         blasting scenarios.
+Orica management and our mining customers have long         recognised the potential and value of such modelling and it is now seen         as a serious, bone fide and valuable resource with a           potential estimated return of around A$30M over five or six years.
+In           one blast in the Hunter Valley ELFEN saved one to two million dollars           &#8212; we have used ELFEN to show how to achieve that on several occasions".
+[Senior Research Associate, Orica]

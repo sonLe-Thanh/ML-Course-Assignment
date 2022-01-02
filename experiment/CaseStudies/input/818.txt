@@ -1,0 +1,35 @@
+     Context: Dental decay is the most common of all diseases       (prevalence: ~10% of the population p.a.
+in the western world i.e.
+100       million lesions p.a.
+), yet the principles of treatment have remained       unchanged for almost 100 years (J. Dent.
+2003, 31,       395-405).
+Most adults worldwide suffer from dental caries (tooth decay),       many of which go untreated because of patients' fear of the dental drill.
+The earliest sign of tooth decay is the "white spot" lesion, visible to       the clinician on the tooth surface.
+There is no current consensus view       regarding treatment, and clinicians have three choices: (a) to monitor the       lesion, and then to excavate and fill; (b) to apply fluoride treatments,       and then to proceed as in (a); and (c) to place a small restoration.
+Ultimately, all restorations fail and need to be replaced with larger       fillings, and will eventually lead to tooth loss and replacement.
+Treatment currently costs the UK NHS ca &#163;2bn pa (roughly half the       budget for dental care; Office of the Government Auditor).
+Drilling is       feared by many patients, inhibiting their attendance at the dentist and so       precluding opportunities for early diagnosis and treatment of decay as       well as diseases such as oral cancer.
+Leeds' self-assembling peptide       technology provides a simple and cost-effective alternative to current       treatments that avoids a subsequent need for larger fillings; this       technology removes the clinician's dilemma of whether to treat decay, and       removes the need for drilling and thus the fear of visiting the dentist.
+Societal impact       Public interest was stimulated through promotional material from       EPSRC; in a story featuring Prof. Kirkham on Channel 4 News; and in an       article in the Daily Mail (A).
+Economic impacts       A company was established ("Credentis AG", Switzerland;       www.credentis.com) in January 2010, in which the University of Leeds is a       major stakeholder, to exploit under license Leeds' IP on self- assembling       peptides in the dental domain (B,C).
+Jobs have been created for       highly-skilled researchers at both Credentis in Switzerland (2010, 0.5       FTEs; 2011, 2 FTEs; 2012, 3 FTEs; 2013, 4 FTEs) and at the University of       Leeds (3 FTEs in 2013) (C).
+In its first two years of operation, the       company has raised external investment of ca 4.75M Swiss       francs (ca &#163;3M) in three rounds (2010, 0.25M CHF; 2011, 2.5M CHF;       2013, 2.0M CHF) (C).
+Leeds' IP has enabled the adoption of disruptive technology       within dental care.
+The platform technology for self assembling peptide       design developed in Leeds was patented (D, currently maintained), and       underpins diverse applications including the design of biomimetic       scaffolds in tissue engineering.
+Following Leeds research using self       assembling peptide technology to treat decay lesions in extracted teeth,       an applications patent was granted in 2009 (E) and is currently       maintained.
+Subsequent Leeds research comparing the ability of different       peptide designs to nucleate mineral crystals and to regenerate bone led to       the filing of a patent in the US (F).
+Credentis was recognised as one of the top 100 Swiss start-up companies       in 2011, 2012 and 2013 (http://www.startup.ch/index.cfm?CFID=241786181&amp;CFTOKEN=45081364&amp;page=129572&amp;profilesEntr         y=1) by a panel of start-up company experts in conjunction with       Handelszeitung.
+In 2012, Credentis opened at UK office in Leeds,       reflecting the continuing close collaboration with researchers in the       University.
+Support for this collaborative research programme includes a       new &#163;1.2M award via the Leeds EPSRC Medical Technologies Innovation and       Knowledge Centre (EP/I019103/1) to develop second-generation peptides for       further dental applications to increase the Credentis product range (G).
+Leeds researchers (Aggeli, Kirkham) are developing new technology and       minimising commercial risk via the provision of access to a full and       validated pipeline screening facility including (a) rational peptide       design; (b) characterisation of self-assembly processes; (c) computational       modelling; (d) theology testing; (e) screening for capacity to induce       mineralisation; (f) cytotoxicity testing; (g) in situ (ex vivo)       testing; (h) clinical trials; and (i) process development.
+A new product (initially CurodontTM, and now CurodontTM         Repair (H)) containing peptide P11-4, based on patents of Leeds       researchers, was granted its CE certificate in January 2012 (C) and has       now entered the European market for clinical use as a class IIa medical       device; the product has also been approved for clinical use in Australia,       and Health Canada approval is pending.
+Large scale production of CurodontTM         provides a fully GMP-compliant product (50,000 patient treatments       in the first run) for which patient acceptability has been shown to be       very high.
+Leeds researchers contributed to this outcome by conducting       first in man safety trials for P11-4, demonstrating a clear clinical       improvement over treatment of class 5 lesions with the peptide (6).
+The       product has been launched in Germany and Switzerland in Q1/2013.
+Credentis       has engaged a UK dental specialist company, Optident, who will distribute       and supply the products within the UK market from October 2013 (I).
+A       second product, Curodont&#8482; Protect, was approved(H) in April 2013, is       regulated as a cosmetic and has been launched in selected markets in 2013;       here, the formulation of the peptide has been adapted for the treatment of       dentin hypersensitivity and the prevention of tooth decay.
+There has been significant investment in research and development       of this peptide technology (including P11-4) by overseas industry.
+In       addition to support from Credentis AG (G), a collaborative project with       Geistlich Biomaterials (Switzerland) demonstrated that self-assembling       peptides can promote highly efficient bone regeneration in an animal       model.
+Health impact       A new clinical intervention - a medical device for restoration of       early enamel caries - has been developed, trialled in patients and a       definite positive outcome demonstrated (6).
+Leeds researchers were       involved in all stages of the product development from laboratory to       chairside (C).
+The resulting marketed products launched in 2013 are seen       by the profession to fill the previously unfilled gap between prevention       and surgical intervention (J).

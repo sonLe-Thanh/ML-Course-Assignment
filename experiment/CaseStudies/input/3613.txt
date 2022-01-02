@@ -1,0 +1,34 @@
+     The research described in section 2 made a vital contribution to the       development of the MODIS Bidirectional Reflectance Distribution Function       and Albedo Product MOD43B, and to the subsequent development of the MODIS       Burned Area product.
+The availability of routine, automated,       near-real-time data is a vital part of global monitoring by the Global       Climate Observing System, the Committee on Earth Observation Satellites       and the UNFCCC.
+This research has led to the development of the de facto       standard albedo and fire Essential Climate Variables (ECVs) distributed by       NASA and the European Space Agency (ESA), and used to model climate change       and provide data for planning and climate change agreements.
+Albedo is a       primary ECV, and the MODIS product has been used globally for environment,       security, management and climate-related applications since 2001.
+The       Burned Area product, conceived by UCL researchers as an outgrowth of the       albedo product, enables officials in the United States, Australia and       South Africa (among other places) to accurately monitor fire impacts and       develop fire management plans.
+Albedo: The Earth's surface temperature is partly controlled by       its albedo: lower albedo means more radiation is absorbed rather than       reflected, and thus the higher the temperature (and vice versa).
+The       albedo depends on the nature of the surface; thus forests, cultivated       fields and bare soil will all have different albedos and affect the       weather, and more broadly, the climate, differently.
+For this reason, in       2007, the International Panel on Climate Change Fourth Assessment Report       (IPCC AR4) [1] identified globally consistent albedo measurement as       essential for monitoring climate change.
+In 2009 the UN Food and       Agriculture Organisation (FAO) identified MODIS albedo as a key component       of the Global Terrestrial Observing System (GTOS) [2], a programme to       support sustainable development by establishing global observation and       modelling networks to provide the evidence required to detect and manage       environmental change.
+GTOS, as directed by the UN Framework Convention on       Climate Change (UNFCCC), defines protocols and standards for monitoring       and measurement to facilitate agreement on managing environmental change.
+Thus research has contributed directly to the capacity for global climate       change monitoring broadly, and to the attainment of GTOS' objectives more       specifically.
+A specific example of this use is by CICERO, an agency which       advises the Norwegian government on climate change.
+This uses Globalbedo,       the refinement to MODIS albedo described in section 2, to analyse the       effects of anthropogenic vegetation change.
+[5]     MODIS albedo has been widely adopted to improve numerical weather       prediction (NWP), which is vital to policy and commercial decisions       relating to weather events.
+MODIS albedo is used to parameterise and test       leading global NWP schemes, e.g.
+the European Centre for Medium-Range       Weather Forecasting (ECMWF) model [3].
+In 2007, the ECMWF incorporated the       MODIS albedo product into its operational Integrated Forecasting System,       which improved its forecasting capability demonstrably [4].
+ECMWF       forecasts using MODIS albedo, developed through UCL research, are provided       to a range of agencies, such as the UK's Met Office, who use the products       to develop short- to medium-range forecasts, e.g.
+to give early warning of       potentially severe weather [6].
+In November 2008 the UK Met Office       integrated MODIS albedo into its NWP suite as part of a `significant       upgrade', thus improving forecasting of near-surface temperature, cloud       and visibility [7].
+In 2013, the Met Office began upgrading to use       Globalbedo to eliminate the MODIS bias towards higher temperatures in       summer, saying "Tests show that they (Globalbedo data) help to give more       accurate temperature forecasts over the United States and Asia, especially       in summer" [5].
+Burned area (BA): The MODIS Burned Area product developed by UCL       researchers and distributed by NASA is also a key component of GTOS [8].
+In 2010, the Burned Area product was incorporated as a core part of the UN       FAO Global Fire Information Management System (GFIMS) [9], an       international monitoring system which delivers data to monitoring and       emergency response projects conducted by national mapping agencies and       other stakeholders.
+The product is widely used by park and natural       resource managers to monitor fire, particularly in remote areas where       fires may go unwitnessed and regrowth swiftly covers the extent of fire       damage.
+These data are then used to plan management and rehabilitation,       and for preserving and enhancing biodiversity.
+The US National Interagency Fire Center (http://www.nifc.gov)       relies on the MODIS BA product via the FAO's GFIMS [9] to develop       aggregate records of fire extents, complementing data on active fires.
+It       provides these data to its constituent agencies (e.g.
+the National Park       Service, US Forest Service) to use in developing land and fire management       plans.
+The USDA Forest Service, for instance, provides burn scar maps       using a modified version of the MODIS Burned Area algorithm [9] Similar       organisations in Australia (Landgate FireWatch) and Brazil (INPE) also       generate burned area maps for use by emergency services, using MODIS data       from GFIMS [9].
+The BA product has also had direct impacts on conservation and       biodiversity management in sub-Saharan Africa.
+At the Kruger National       Park, a 1.9 million hectare game reserve in South Africa, the National       Parks Service (SANPARKS) has used MODIS data since 2006 to map burned       areas, monitor fires and analyse fire intensity and heterogeneity.
+Where       unreported fires are detected, rangers are sent to assess the fire impacts       on the ground and feed these data back into the park fire information       system.
+The park's fire ecology manager describes how the mapping system,       which remained in use through the impact period, improved mapping accuracy       and captured the patchiness in burned areas, thus preventing       over-estimation of burned areas and mapping their heterogeneity.
+By       assessing the impact of fire over time on the park's flora and fauna,       SANPARKS can make informed decisions about fire management to maintain the       park's fragile ecosystem [10].

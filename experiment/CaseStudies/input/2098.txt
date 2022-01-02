@@ -1,0 +1,28 @@
+     Outcome of research: A web-based user-friendly interface was       developed for BOADICEA (Impact       reference 5.1) which allows users to obtain rapid estimates of BRCA1       and BRCA2 carrier       probabilities and risks of developing breast or ovarian cancer.
+This       web-tool was made available       for general use in January 2008.
+Scope and reach of BOADICEA: The web-interface of BOADICEA       currently has more than 2500       registered users from the UK and 45 other countries (Europe, North America       and Australia and       other).
+Periodic monitoring of the web servers during 2012 revealed an       average of 50 concurrent       users at any given time during a working week.
+The chief beneficiaries of       BOADICEA have so far       been healthcare providers, notably organisers of genetic testing (clinical       geneticists and genetic       counsellors), breast cancer screening and chemoprevention programmes,       oncologists and general       practitioners, family members of women with breast cancer or otherwise at       high risk of the disease,       women with BRCA1 or BRCA2 mutations and their families who       could be counselled for their       breast or ovarian cancer risks, the general public and bodies involved in       the planning of screening       or intervention trials.
+Indicators of extent of impact: BOADICEA is one of the risk       prediction algorithms currently       recommended by the UK National Institutes of Health and Clinical       Excellence (NICE, Impact       reference 5.2, since 2006).
+It was also recommended by equivalent bodies       in other countries (e.g.
+American Cancer Society and Ontario Breast Screening program incorporated       in guidelines since       2011 for determining eligibility for screening of high risk patients       (Impact references 5.3-5.6).
+Nature of impacts: BRCA1 and BRCA2 mutation       screening is expensive and is associated with       adverse psychosocial effects.
+Similarly, breast cancer screening is       expensive and has adverse       consequences including over-diagnosis.
+Chemoprevention is effective for       breast cancer prevention       but has adverse side effects.
+Thus, it is crucial that these interventions       are targeted at the       individuals most likely to benefit.
+Use of BOADICEA has had several       inter-related impacts in this       regard:     (1) To identify women eligible for screening by magnetic resonance         imaging (MRI) so that available         resources are targeted to those most likely to benefit most from early         cancer diagnosis, while         minimising the associated health service costs [Impact references       5.2, 5.5].
+Under NICE current guidelines, women at raised risk of developing breast       cancer are offered       mammographic screening from age 40, and a subset of high risk women,       including BRCA1 and       BRCA2 mutation carriers, are offered screening by MRI.
+MRI screening is       more sensitive than       mammography but is approximately ten-fold more expensive.
+BOADICEA was       first adopted by       NICE in 2006 as a risk prediction algorithm for classifying women at risk       of familial cancer into       three risk categories: women at or near population risk, raised risk, or       high risk.
+BOADICEA       remains one of only two recommended breast cancer/carrier risk assessment       tools by the revised       NICE guidelines (June 2013, Impact reference 5.2).
+Women predicted to be       at raised or high risk       are offered annual mammographic surveillance from age 40, compared to age       50 under the       standard NHS screening programme.
+Women at high risk are offered MRI       screening.
+(2) Clinical genetics services are now using BOADICEA to refer women         for BRCA1 and BRCA2         mutation screening.
+Predictions obtained by BOADICEA are being used to provide a consistent       way for referring       individuals for BRCA1 and BRCA2 mutation screening (NICE       guidelines currently recommend a       combined mutation carrier prediction of over 10% although the threshold       varies across countries,       Impact reference 5.2).
+This allows targeting mutation screening to those       individuals most likely to       carry BRCA1 and BRCA2 mutations, thus minimising the       psychosocial effects related to mutation       screening and the associated costs of mutation screening.
+Women found to       carry BRCA1 and       BRCA2 mutations could then be offered more intensive screening,       prophylactic surgery or other       risk reduction options.
+(3) To guide chemoprevention and prophylactic surgery options for         women at high risk.
+The predicted risks provided by BOADICEA are helping clinicians and       high-risk women take       informed decisions when faced with the options of risk reducing surgery,       regular screening or       chemoprevention.
+According to the revised NICE guidelines (Impact       reference 5.2) women       classified to be at high-risk of developing breast cancer may be offered       chemoprevention with       Tamoxifen or Raloxifene.
+(4) To counsel women carrying BRCA1 and BRCA2 mutations       BRCA1 and BRCA2 cancer risk estimates based on BOADICEA are       being used to counsel women       carrying such mutations.
+These estimates have also been widely used by       various support groups       such as the patient support group FORCE (impact reference 5.7)

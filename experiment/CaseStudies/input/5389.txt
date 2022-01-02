@@ -1,0 +1,32 @@
+     Heat capacity is an important quantity to establish for the development       of new materials in areas as diverse as energy storage, energy generation,       optoelectronic communications or magnetism.
+New materials studied in       single crystalline form are often available in only very small quantities       and therefore the creation of an instrument that provides the ability to       measure small samples, in particular magnetic samples, sensitively has       particular importance for this reason.
+The direct derivative of the swept field ac calorimetric probe developed       at Imperial College is currently being sold at Cryogenic Ltd. Cryogenic       Ltd is a leading supplier of high field superconducting magnets and low       temperature measurement systems which operate without liquid helium.
+Cryogenic Ltd has offices in the UK, USA and Australia, and is partnered       with distribution companies in thirteen other countries [A].
+The system       was designed, tested and optimised within the Solid State Physics Labs at       Imperial College in 2003-4 and was published as a scientific instrument       design in 2005 [1].
+That was the primary method by which the research was       disseminated.
+The technical know-how was transferred to Cryogenic Ltd in       2005, by direct discussions with the company (discussions that were       facilitated by Imperial Innovations in the first instance and later by       Cryogenic's employment of Dr. Bugoslavsky).
+Throughout the following years the Imperial College research on       magnetocalorics has gained worldwide interest and through presentation at       international meetings and journal publication we have continued to       disseminate the use of the microcalorimeter.
+In this sense the research       undertaken at Imperial College has helped to underpin the commercial       impact of the probe that is being sold by Cryogenic Ltd.
+Since 2006, Cryogenic have been selling developments of the Imperial       designed microcalorimeter as part of its Measurement Systems range       (Cryogenic product range webpage [B]).
+The system allows for specific heat       measurements to be made for samples with microgram weights using a       miniature calorimeter fabricated on a silicon nitride membrane with       thermometer and heater.
+This technique offers unsurpassed sensitivity       combined with simplicity of operation [C].
+The normal temperature range is       2 to 300K, and high magnetic fields can be applied.
+The Cryogenic Specific       Heat measurement system features: low amplitude of temperature       oscillations and hence high temperature resolution (typically 0.1K); fast       measurements as the frequency of the temperature modulation is of the       order of 10 to 100 Hertz; high sensitivity of 1 nJ/K throughout the       temperature range 2-300K [B, D].
+The system is robust and durable; with       reasonable care the lifetime of a single sensor can span over tens of       sample replacements [B, C].
+The method used by the microcalorimeter is "fast         and capable of resolving details that would be very difficult if not         impossible to see using other methods such as relaxation calorimetry"       [E].
+The Cryogenic Ltd microcalorimetry heat capacity probe provides a useful       alternative method to the relaxation method offered by other       manufacturers, making it possible to measure small samples that are       invisible to other commercial probes.
+An additional advantage is the       possibility to make rapid measurements at varying temperature or applied       magnetic field.
+The small size of the measurement cell makes it easy to       adapt the experiment to the user's requirements (e.g.
+mounting on a       rotating stage, in small applied AC magnetic field, or illuminating with       light).
+The contribution and importance of the ac microcalorimeter to Cryogenic       Ltd has been confirmed in a letter from the Managing Director of Cryogenic       Ltd [F].
+He confirms that the company offers a heat capacity option that       was "developed at Cryogenic based on a prototype originally devised at         Imperial College...published in Review of Scientific Instruments in 2005"       [F].
+The company "understood the competitive advantage of this method         and commercialised it, making it compatible with cryogen-free and         liquid-helium based magnetic systems" [F].
+Cryogenic trades internationally and many of its customers "are based         in countries where liquid helium is of limited availability" [F].
+In       countries such as "Brazil, India, the Middle East, China and...Japan"       [F] liquid helium is very hard or extremely expensive to obtain making       cryogen free equipment attractive.
+The probe is ideally suited to the characterisation and therefore the       development of magnetic materials.
+Magnetic materials play a dominant role       in many key areas of technology (renewable energy, transport, sensors,       information storage).
+The highly sensitive probe also has potential for       use in a wide range of applications, where only small samples are       available, including biochemical and biomedical diagnostics, for which       samples are functionalised with magnetic beads or undergo changes of state       in magnetic field.
+End users primarily reside in research laboratories.
+Cryogenic Ltd report that in the last 3 years sales of the heat capacity       option, which is priced at about &#163;[text removed for publication] [C, F],       amount to approximately &#163;500K.
+The specific heat option is sold as "a         valued component in about 20% (&#163;2M worth) of the larger integrated         measurement systems [which are worth &#163;12M]...95% of [the]         Company's products are exported overseas and 75% goes outside Europe"       [F].
+They further note that adding "measurement options for heat         capacity and thermal conductivity has greatly benefited the market         acceptance of [their] instruments" [F].

@@ -1,0 +1,56 @@
+     Our interest in phase unwrapping originally stemmed from involvement in       developing optical 3D       surface-form measurement systems.
+What this case study illustrates is how       the work that was       embarked upon for the relatively narrow purpose of solving problems in an       area of 3D optical       metrology turned out to have very much wider applications and take-up.
+In 2010 we started to become aware of significant numbers of citations of       our unwrapping work in       areas far removed from optical metrology.
+This was reinforced by requests       for advice on       implementation of the algorithms, coming from people working in       geo-physics within the oil       industry, medical technology (particularly MRI), aerospace sensing for SAR       satellites, microscope       technology in the life sciences etc.
+It was becoming clear that our work       had a much wider potential       impact than we had originally envisaged.
+In direct response to the increasing level of requests, and to raise the       profile of our algorithms to a       wider industrial audience, we took the radical decision to make our C++       codes that implemented       the methods available for free download from our website.
+As part of this       strategy we developed a       range of support material for users to consult [E1].
+Over an 18 month period we logged 468 downloads from the website of these       implementations of       the algorithms described in Refs 2 to 5 above.
+Destinations included 15       countries (The UK,       Germany, France, Italy, Spain, Poland, Israel, Russia, The United States,       Canada, India, Japan,       China, South Korea and Indonesia).
+The graph in Figure 1 shows downloads       per month for the       monitored period.
+The codes have been available for free download since 2010 and remain       freely available today.
+Based on a detailed analysis of our 18 month sample we estimate that in       excess of 1,000       organisations have downloaded these algorithms since they were first made       available.
+Figure 1 &#8212; Unwrapper Downloads over an 18 Month Period.
+The downloads are a mix of academic and non-academic end-users and, based       on a sample,       approximately 40% are industrial users.
+The algorithms are used in a wide       variety of ways.
+In the       case of instrument developers it is often in the development of new       instruments, but sometimes it       is to replace previous under-performing algorithms in existing       instruments.
+In some cases, in MRI       for neuro-science for example, the user is actually driven by a need for       the phase data in their own       work and the algorithms simply offer a reliable, high-performance,       "off-the-shelf" solution.
+We       regularly follow-up with industrial organisations in order to better       understand their use and future       needs.
+Some samples of what we have learnt from these organisations are       given below:     Laser Optical Engineering Ltd., UK.
+LOE are an SME specialising in       the       commercialisation of new technologies in the area of optical sensing.
+Established in 1996,       their list of existing clients include major industrial organisations such       as: Rolls Royce, JCB,       Mattel, Bureau Veritas and Corus.
+Prestigious government clients include:       The Forensic       Science Service and Trading Standards.
+They have used the unwrapping       algorithms       described here within two products designed to help locate IED's and       landmines.
+These       products have only recently been declassified and were exhibited at DSEI       in ExCel in Sept       2013.
+The CEO of Laser Optical Engineering said "The products received         a fantastic         response from the world's armies.
+We are in the throes of the final         customer trials when we         hope to see substantial sales volume which will reflect in your         unwrapping."
+[Corroborative       witness ID=1]     The Max Planck Institute for Biological Cybernetics, Germany.
+An       Institute member       says "I use the 3D best path unwrapper for anatomical MRI phase         imaging.
+It is a very         efficient unwrapper."
+[Corroborative witness ID=2] [Note: According       to their website "The       Max Planck Society for the Advancement of Science is an independent,       non-profit research       organization."
+They are not HEI's or part of the HEI sector, nor are they       government       organisations in any form.]
+Shell International, USA.
+A Team Leader, Seismic Processing,       states: "Shell International         Exploration &amp; Production Inc. have evaluated GERI's phase unwrappers         in our seismic         processing software, overall we can say we have been satisfied with the         stability and         efficiency of the algorithm" [Corroborative witness ID=3]     We have selected these three examples as they illustrate the scope of the       impact both in terms of       sector (new product development, life sciences and oil/energy); and       geography (UK, Europe and       USA).
+As well as these direct users, there has been considerable further       promulgation of the algorithms       within the technical and software communities by third parties.
+Examples       of this are given below:            The algorithms have been translated independently into Java for         implemention as part of         the ImageJ library.
+ImageJ is a public domain image processing program         developed at the         US National Institutes of Health, whose website has received over 10         million hits.
+[Supporting evidence: E2 &amp; E3].
+The algorithms have been translated into Python, again independently         of GERI, and have         been included in Scikit-Image (a part of the SciPy library) by users in         Austria and South         Africa.
+[Corroborating witness ID=4 and Supporting evidence: E4 &amp;         E5].
+Take up in the application area of Neurological imaging has been         strong, particularly in the         USA thanks to the championing the algorithms by one prominant medical         user who states:         "the algorithms are now available to clinicians right across the           United States and beyond           through NITRC" (The Neuroimaging Informatics Tools and Resources         Clearinghouse).
+[Corroborative witness ID=5 and Supporting evidence E6].
+These libraries and distribution networks are very significant.
+They are       widely used by software       developers and so the incorporation and dissemination of our software       through these mechanisms       greatly increases our outreach to users.
+However, due to this third-party       distribution we have no       precise data on just how great the penetration of these algorithms is in       total, all we can say is that       the figure of 1,000 user organisations, based on downloads and quoted       earlier, is a minimum.
+One way to form a picture of the scale of this impact may be to consider       the range of application       areas of phase measurement systems, all of which require an unwrapper.
+These include, for       example:             Biomedical: catheter guidance, tissue imaging, dental caries,         MRI.
+Instrumentation: Low-coherence reflectometry, tomography.
+Films, Coatings and Adhesives: coating, adhesive and film         thickness measurements.
+Pharma &amp; Chemical: Particle sizing, scattering         measurements.
+Security: Perimeter intrusion/detection systems, detection of         explosives.
+Smart Structures: stress and strain measurement.
+Oil &amp; Gas Services: Dynamic seismic sensing of geophysical         properties.
+Photonics: Laser characterisation, interferometry.
+Digital: Displacement sensing for computer hard drives.
+The extent of our penetration into these sectors is perhaps reflected in       the fact a Google Search       using the search-string "phase unwrapping" lists our website as the top       three results (accessed 5th       Nov 2013).
+In a competitive arena, with a great many unwrapping algorithms published       each year, these       algorithms have established themselves as being among the leaders in their       field; we are not       aware of any other single algorithms, worldwide, that have such       extensive and diverse adoption.

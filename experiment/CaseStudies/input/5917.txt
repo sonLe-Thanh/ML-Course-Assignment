@@ -1,0 +1,64 @@
+     Impact: The underpinning research was exploited in the development       of an innovative Worst-Case Execution time (WCET) analysis technology now       called "RapiTime".
+This technology was transferred to industry via the       formation in 2004 of a successful spin-out company; Rapita Systems Ltd.
+This technology has been deployed on, and is in continuous use on, a       number of major long-term aerospace and automotive projects world-wide,       examples include:            [text removed for publication]: Flight Control Computer (FCC) and the         [text removed for publication] (RapiTime in continuous use since 2006)         [11].
+[text removed for publication]: FADEC (Full Authority Digital Engine         Control) for the [text removed for publication] (Since 2009).
+[text removed for publication]: (Since 2011).
+Alenia Aermacchi (Italy): Flight Control System for the M-346 military         transonic trainer.
+(Since 2010) [10].
+[text removed for publication] a European Space Agency [text removed         for publication] (Since 2012).
+[text removed for publication]: Used in a proof-of-concept relating to         new processes for the development of Flight Control Systems.
+(Since         2010).
+[text removed for publication]: Evaluation and tool qualification for         use on the [text removed for publication].
+(Since 2008).
+[text removed for publication]: Development of [text removed for         publication] software modules.
+(Since 2009).
+[text removed for publication] control system for small vehicles,         [text removed for publication] (Since 2010).
+Other customers since 2008 include [text removed for publication] and the       European Space Agency (ESA).
+Note, commercially sensitive detailed quantification of end-user benefits       are not available from the above major international companies.
+Since 2008, Rapita has also won significant export orders to China worth       over [text removed for publication] via its distributor Cinawind.
+Customers include: [text removed for publication].
+From 2008/9 to 2012/13, the company's annual revenues have more than       doubled [text removed for publication], with annual profits increasing       from [text removed for publication] to circa [text removed for       publication].
+The majority of Rapita's revenues come from products and       services based on RapiTime.
+Route to Impact: Above we detailed specific exploitation of the       technology and impact and during the REF period.
+Next we detail the       evidential link between the underpinning research and that impact.
+During       the EU FP5 NextTTA project members of the RTSRG group, Guillem Bernat,       Antoine Colin, Stefan Petters, and Alan Burns, introduced the underpinning       research on hybrid measurement-based WCET analysis.
+This approach combined       both measurement and static analysis techniques to accurately estimate the       WCET of complex software components running on advanced microprocessors.
+As part of the project, they also developed a prototype WCET analysis tool       called pWCET [5].
+This tool was evaluated on an Audi drive-by-wire system.
+Audi was an industrial partner in the NextTTA project.
+Audi's expression       of interest in pWCET and its capabilities led directly to the formation of       a spin-out company to transfer this technology into industry.
+In 2004, members of the RTSRG; Guillem Bernat, Ian Broster, Antoine       Colin, and Robert Davis, and the University of York founded a spin-out       company called Rapita Systems Ltd. (www.rapitasystems.com)       to commercialise the technology and bring it to market.
+All rights to the       technology and prototype tools were transferred to the company by the       University of York which became a shareholder in the company.
+In 2005, Rapita Systems received &#163;200k of funding from Viking Investments       Ltd. and an associated group of Business Angels [6].
+Following the initial       technology transfer, the pWCET prototype was re-implemented as a       commercial quality tool and re-branded as RapiTime.
+RapiTime has since       been extended to support analysis of systems written in C++ as well as the       C, and Ada programming languages, and has recently been complemented by a       Code Coverage tool (RapiCover) which uses the underpinning RapiTime       technology for code instrumentation and analysis.
+Together, RapiTime and       RapiCover are part of the Rapita Verification Suite (RVS).
+In 2006, BAE Systems used RapiTime on the Hawk Advanced Jet Trainer       project [7].
+Here, RapiTime was used to identify opportunities for WCET       reduction, thus creating headroom for new functionality to be added to the       system, while avoiding the need for a costly hardware upgrade.
+Using       RapiTime, BAE identified that just 1% of hundreds of thousands of lines of       code contributed 29% of the overall WCET.
+Further, by focusing       optimisation efforts on this 1% of the code, they were able to reduce the       WCET by 23% [8].
+Further, RapiTime was quantified as being able to       identify timing problems with less than 10% of the effort of previous       approaches, potentially saving months of work.
+As a result Rapita received       a BAE chairman's award for Innovation in the category Transferring Best       Practice.
+Since 2008, Rapita has focused on sales of its RVS product, centred on       RapiTime, to customers in the aerospace and automotive markets.
+This       impact has been described in the previous section.
+The RTSRG at the University of York continues to have strong links with       Rapita; Prof. Alan Burns is chairman of the Board, while Dr. Robert Davis       is a Non-Executive Director of the company and also a member of the RTSRG.
+Beneficiaries: RapiTime enables companies in the aerospace and       automotive electronics industries to reduce the time and cost required to       obtain confidence in the timing correctness of the systems they develop.
+It provides a cost-effective means of targeting software optimisation,       such that new functionality can be added to existing systems without the       need for expensive hardware upgrades.
+Further, RapiTime is portable across       a wide range of different microprocessors, meaning that companies can use       the same technology across multiple projects without the need for       re-training or adoption of multiple solutions.
+[text removed for publication], the major [text removed for publication]       aerospace supplier, described the benefits of using RapiTime to identify       timing problems during continued development of the Flight Control System       for the [text removed for publication] as follows: "The biggest         benefit that RapiTime brought to our development process was just how         quickly we could get comprehensive timing measurements from our tests.
+Not only did we reduce our effort requirements for the testing, but we         could use our results in ways that were infeasible before.
+It is now         significantly faster for us to identify a timing issue, update the         software to resolve the issue, test the updated software and verify that         it's fixed" &#8212; Wayne King, Engineering Fellow, [text removed for       publication] &#8212; 30th July 2009 [9].
+Without RapiTime, the timing measurement and analysis process needed to       determine WCETs has to be done manually.
+This is a painstaking and error       prone process that takes considerable time and effort.
+It also needs to be       repeated when changes are made to the application software.
+Further, the       manual process provides no information about the worst-case path, or the       contribution of different sections of code to the WCET.
+This makes code       optimisation an ad-hoc, ineffective and inefficient process, as optimising       for the worst-case is very different from optimising for the average case.
+Alenia Aermacchi engineers working on the M-346 Flight Control System       said, "the main advantage [of using RapiTime] is the possibility to         identify software bottlenecks that can be subject to optimisation.
+Without RapiTime the mandatory code optimisation would have been done         without the knowledge of where to concentrate the efforts."
+[10].
+Overall, "Using RVS, customers have cut the worst-case execution time         of large scale, legacy applications by up to 50% with only a few days         effort, and significantly reduced unnecessary testing and         instrumentation overheads" [11].
+Rapita has offices in York and opened a second office in Cambridge in May       2012.
+Rapita has created and sustained [text removed for publication] high       technology jobs [9].
+The success and indeed the existence of the company       is a consequence of the underpinning research as described in the       narrative.
+Corroboration of all of the facts presented above about Rapita and its       customers etc.
+can be obtained from [9].

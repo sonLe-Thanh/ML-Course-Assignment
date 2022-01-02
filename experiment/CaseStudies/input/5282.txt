@@ -1,0 +1,29 @@
+     Direct Economic     Corrosion costs the petrochemical industry about $12 bn pa at 1999 prices       [7] and it is essential to detect and manage it for the safe operation of       plant and to avoid environmental disasters such as leaking pipelines in       Alaska or subsea.
+Corrosion in pipe systems often happens at unpredictable       locations and conventional inspection techniques require scanning over the       whole surface to be inspected.
+Given the volume of pipes in service this       is impractical.
+The guided wave inspection system described above solves       this problem and makes it possible to do 100% screening of pipes that are       otherwise prohibitively expensive to inspect.
+In 1999 a spin-out company Guided Ultrasonics Ltd was formed to       commercialise the technology under licence from Imperial Innovations, the       College technology transfer company.
+It now employs 7 PhD graduates in NDE       topics from Imperial with a total staff of 15 in UK.
+It sells equipment to       service inspection companies who do the inspection for the oil companies;       the equipment and examples of applications are given in [8, 9].
+The       company has turned over &#163;32M in the REF period 2008-2013 as confirmed by       Operations Director, Guided Ultrasonics Ltd [B].
+Imperial Innovations also       licenses the technology to a Welding Institute subsidiary company, Plant       Integrity Ltd, whose system is described in [10, 11].
+This company has a       similar turnover so during the REF period the turnover from the technology       directly has been &gt;&#163;50M, over 80% of which is export [A].
+The test systems last for 5-10 years and there are over 300 systems in       service worldwide; they are typically charged at &#163;2500/day [B].
+Assuming       50% utilisation, revenue to service inspection companies is ~&#163;75M pa and       over 300 FTE inspectors are employed (crew of 2 per inspection).
+The       income generated for the service inspection companies is therefore around       &#163;450M over the REF period.
+End User - Economic and Safety     The benefit to the end user companies is reduced cost of inspection e.g.
+pipes buried under roads - excavation for conventional inspection costs       upwards of &#163;80k [C]; insulated pipes - stripping and re-instating       insulation typically costs $100-2000/m depending on whether scaffolding       etc.
+is required [B].
+There are also significant safety benefits e.g.
+:            Offshore risers - corrosion is most likely in the splash zone where         safe access for conventional inspection is expensive to ensure; in         contrast a guided wave test can be conducted from deck level where safe         access is easy to provide [C].
+100% volume inspection coverage gives much better probability of         detecting severe, isolated defects than local inspection on a sampling         basis.
+The technology also enables the end user companies to carry out more         inspection of critical, inaccessible lines and so improve safety and         environmental performance.
+An example of the use of the technology to         inspect an oil transmission pipeline crossing a swamp in Mexico is given         in [12].
+The enhanced safety benefit is much more difficult to quantify         but is clearly substantial.
+The technique is mainly used in the         petrochemical industry but is also used in the power generation         (especially nuclear) and gas transmission sectors.
+Standards     Guided wave inspection has been recognised as a Method of NDE in its own       right, and its worldwide use has grown steadily to the point at which it       is appropriate to establish standards.
+This is important to ensure that       the method is used correctly, and also that its capabilities are not       over-sold, both vital ingredients to its long-term success.
+Professor Lowe       is leading the development of standards, working with standards bodies, in       close collaboration with Guided Ultrasonics Ltd and Plant Integrity Ltd.
+The British Standard [13] explicitly cites [4] above and there are also       Italian [14], Japanese [15] and US [16] standards.
+Training of inspectors       is also crucial to the successful application of the technology and       certified training schemes are now in place e.g.
+PCN (UK), ASNT (USA),       RINA (Italy).

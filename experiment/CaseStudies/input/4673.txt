@@ -1,0 +1,51 @@
+     The WLAN modulation &amp; coding developments, WiFi multiple antenna       algorithms, in-home radiowave propagation models and robust       video-over-WiFi strategies reported in section 2 have contributed to       global wireless communication standards, led to wealth creation by       enabling the development of innovative products and services and improved       customer's WiFi experiences in the home.
+Details of this impact are given       in the following subsections.
+WLAN Standards       Bristol led the radio development in Europe's first WLAN research project       (1992-1995) and was the first university member of the European Technical       Standards Institute (ETSI, the European body responsible for radio       standardisation).
+Over the period from 1992-1994, the Bristol group       proposed the majority of the modulation and equalisation designs behind       Europe's first WLAN standard.
+This standard (known as Hiperlan) "was a         pivotal activity in the development of one of the most important markets         in today's communications industry" and Bristol researchers were         "major contributors" [a].
+More than 60% of this radio standard (and       almost all of the modulation and equalisation) was based directly on the       University's research work, for example [1,2].
+From 1995 to 1998, the       Group continued to develop the multi-carrier WLAN approach first proposed       in [1].
+The University's Group presented numerous contributions to the       ETSI and in 1996 the Hiperlan /2 standard was ratified [a].
+Although this       standard is no longer in use, "HIPERLAN did leave a lasting legacy by         providing WLAN regulations at 5GHz" [a] &#8212; the University-influenced       radio solution was largely adopted for IEEE 802.11a/g/n/ac, which is now       used in billions of devices world-wide.
+The Bristol team are credited with the publication of the first       publicly available technical paper to propose the use of multicarrier       technology for WLAN applications.
+[text removed for publication].
+This paper was presented at a symposium organised by the IEE in October       1993 [1].
+[text removed for publication].
+In 2008 the WiFi alliance stated that more than 350 million 802.11a/g       units had been shipped [c].
+In 2013 the WiFi standard provided wireless       connectivity in over 2 billion shipped devices.
+This includes smartphones,       tablets and laptops, to TVs, gaming and audio systems [d].
+Wireless Video Transmission       The University's research into wireless and video signal processing [4]       led to the spin-out company ProVision Communications Ltd, which was       founded by Nix and Bull in 2001.
+By 2009, the company had grown to employ       25 staff and was acquired in 2011 by Global Invacom [e].
+By exploiting       Bristol's wireless &amp; video patents and technologies, Global Invacom       has been able to develop an innovative range of wireless video products       for the satellite and cable TV industry [e].
+ProVision exploited       University research, such as [4,6], to develop the world's first       whole-home truly robust wireless HDTV transmission system [e].
+The units       beamed multi-channel television pictures from a wireless gateway to       multiple receivers around the home.
+Prototype units (marketed as AXAR)       were demonstrated at the Consumer Electronics Show 2009/2010 in Las Vegas       [f] and the Cable Labs Summer Conference in Colorado, 2010 [e].
+Industry       feedback, via prototype evaluation, confirmed that the Bristol video and       WiFi adaptation algorithms ensured these units were the first to deliver       carrier-grade high-definition video around the home using the WiFi       standard [e].
+As a result, ProVision was awarded the Frost &amp; Sullivan       European Innovation Award for WiFi Streaming Technology in 2010 [e].
+ProVision's AXAR1500 multi-room wireless video system was cited by an       expert panel at the International Broadcasting Conference as one of 2010's       top five digital video processing technologies [g].
+ProVision also       provided the WiFi and video technology, developed by the CS&amp;N       group to enhance spectator experience at the World Rally Championships, [text         removed for publication] [e].
+Exploiting the University's link adaptation and smart packetisation       algorithms [4], WiFi antenna designs and video optimisation techniques,       the University worked with ProVision to further develop its Consumer       Electronics Show demonstrator to produce the world's first whole-home       wireless HDMI product [e].
+The HDMI units made use of Bristol's advanced       WiFi and video bit rate adaptation algorithms [4].
+These dynamically       adjusted the video quality and bit rate based on regular estimates (tens       of times per second) of the link throughput [e].
+This intelligent       adaptation delivered smooth multi-channel video streaming even in poor       channel conditions [e].
+Bristol's adaptation was vital in overcoming the       data rate fluctuations seen over WiFi links [e].
+Global Invacom acquired       ProVision in 2012 and took the University technology underpinning the       wireless-video demonstrations to create a wireless high definition video       sender.
+This product was launched in 2012 [e] and can be purchased via,       for example, Amazon [h].
+Antenna Optimisation and WiFi Performance Verification       In 2011, the University's CS&amp;N group worked with BSkyB       to optimise the RF and MIMO antenna system on their latest WiFi-enabled       Hub.
+Ray modelling was combined with antenna optimisation [3] to ensure       that their integrated MIMO antennas gave near-optimal performance when       enclosed in the product casing [i].
+BSkyB launched their Sky Hub in       October 2012, claiming "unbeatable WiFi performance".
+BSkyB now       supply this Hub to all of their UK broadband subscribers, which currently       totals more than 4.2 million users [i].
+In partnership with Farncombe [e], Nix and Hilton have developed a       defacto WiFi test standard that addresses the core market need to verify       and validate the WiFi performance of new products [j].
+The approach       combines the Group's work [3] in 1) WiFi antenna design, integration and       verification, 2) in-home propagation modelling (ray tracing) and 3)       real-world multi-antenna WLAN throughput evaluation.
+Using this new       process, the Group began working with Virgin Media to ensure that their       recently launched Super Hub became "the best-in-class WiFi router for         cost/performance and quality of service" [k].
+CS&amp;N       applied their innovative WiFi test processes to optimise the antenna       locations and orientations within the casing of the new Super Hub to       maximise WiFi coverage and data rate within the home [3].
+The Head of       Quality at Virgin Media said "the resulting benchmarking gave us         critical information on performance of the antenna design, positioning         and its connection to the WiFi chipset that has resulted in the         best-in-class WiFi router" [k].
+The Group also performed competitor       evaluations that formed part of Virgin Media's new Super Hub launch       material.
+Virgin launched the device to its 4.3 million UK subscribers in       May 2013 and publicly announced Bristol's support via a press release [l].
+[text removed for publication] [k].
+In 2013, the CS&amp;N group analysed and evaluated five       new wireless products for BSkyB, [text removed for publication]       [i].
+[text removed for publication].
+In recognition of Bristol's "pioneering contributions to the Wi-Fi         standards from the early 1990s, and also their world-leading research in         Wi-Fi antenna design and characterisation", Broadcom (the world's       largest supplier of WiFi chipsets) donated six sets of reference 802.11       hardware flashed with their internal firmware [c].
+Access to this software       has not been offered to any other university [c].
+The software provides       low-level control not normally available to the public [c].
+[text         removed for publication].

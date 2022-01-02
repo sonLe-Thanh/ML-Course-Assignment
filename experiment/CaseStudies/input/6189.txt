@@ -1,0 +1,30 @@
+     Bartle's research on virtual worlds and in particular his player types       model, as presented in Designing Virtual Worlds, underpins impact       within the commercial domain of MMORPG design and beyond.
+In designing new       worlds, not only do developers now know what players find fun, they also       know why they find these things fun.
+Furthermore, Bartle's       research provides the creators of virtual worlds with an understanding of       why players move between types, and what paths they will take; this means       that appropriate content can be lined up accordingly.
+Overall, his work       enables designers to create worlds that have sustainable and long-term       appeal.
+The player types model has been accepted and adopted almost       universally across the sector and Designing Virtual Worlds is       widely recognised as the standard text on the subject [see corroborating       sources 1, 2].
+In the ten years since the publication of Designing Virtual Worlds,       the games industry has experienced significant growth, and this expansion       has been supported by contributions from an increasing number of       developers.
+Amongst these is BioWare, a division of Electronic Arts.
+In an       email testimony, BioWare's Lead Systems Designer outlines the significance       that the research behind Bartle's player types model has had for the MMO       industry, noting that "Bartle's work on the four player types of online       game players [...] is considered to be one of the academic pillars of       massively multiplayer game design" [3].
+He also goes on to explain how       Bartle's research has influenced the design of a number of individual       games including, most notably, BioWare's first entry into the MMORPG       market: Star Wars: The Old Republic (SW:TOR).
+Referring to the       development of SW:TOR, the testimony details how "[Bartle's]       philosophies have formed a central role" [3].
+In Star Wars: The Old Republic, BioWare succeeded in creating a       game which had both instant impact as well as long-term appeal and       sustainability.
+Within days of its launch in 2011, the game had attracted       1 million subscribers (each paying, typically, $14.99/&#163;8.99/&#8364;12.99 per       month), making it the "fastest-growing subscription MMO in history" [4].
+Two months later this number had grown to 1.7 million [5].
+This success       duly led to numerous industry accolades.
+In 2011 SW:TOR was named       GameSpy's MMO of the year [6] and MSNBC's Game of the year       [7].
+In reflection of its sustained appeal, at the 3rd annual       Game Developers Choice Online Awards (in 2012) it won awards for Best         online game design, Best new online game, Best online         technology and Best online visual arts.
+It was also       nominated for the Best audio online game award and the Online         Innovation award [8].
+The most recent figure obtained during the       REF2014 impact period indicates that, as of 15th June 2013, SW:TOR       had achieved 2.59 million global sales [9].
+Today the number of virtual worlds extends into the thousands, and Star         Wars: The Old Republic forms part of a vibrant and growing MMO       sector.
+The website MMOData.net reports that from 4 million in       2003, the number of worldwide subscriptions and active accounts had grown       to 15 million by 2008, and had reached 20 million by 2012 [10].
+By this       stage the global industry was valued in excess of $12 billion and this       figure is expected to reach $17.5 billion by 2015 [11].
+The growth of the       sector &#8212; and the way that Bartle's research has contributed towards this &#8212; is a topic addressed by the Founder of the International Game Developers       Association (IGDA, the worldwide professional association for video and       computer games developers).
+In an email testimony [2], he notes how the       player types model has been "highly influential" and explains how "the       influence of Bartle's model is evident in many MMORPG games".
+He then       concludes:     "This [the growth of the online game industry] is attributable to a       number of factors, such as improvements in internet connectivity and       graphic rendering.
+However, it's evident that Bartle's work has also made       an important contribution towards this growth and, were it not for his       research, it is unlikely that the sector would have reached the status       that it has today.
+Bartle's insights, as documented in Designing         Virtual Worlds, have been a key contributing factor in transforming       the sector from niche to mainstream".
+Founder, International Game Developers Association     Whilst the greatest impact of Bartle's research has been in the field of       MMORPG design, his player types model has also been applied elsewhere; for       instance, in the field of Gamification, where the principles of game       thinking and mechanics are applied in non-game contexts.
+Concepts such as       progress bars, challenges, and rewards for `good behaviour' are       increasingly being used to engage with customers or service users and to       solve problems.
+An example is the well documented `Speed camera lottery'       in Sweden, where law-abiding road users can win a portion of the fines       accrued from drivers who break speed limits, the aim being to incentivise       safe, law abiding driving [12].
+A ground breaking and widely cited book on       the subject (Zichermann, Gabe and Linder, Joselin: Game-Based         Marketing, Wiley, Hoboken NJ, 2010) places Bartle's player types       theory at the centre of Gamification [13, see page 144].

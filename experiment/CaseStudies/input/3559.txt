@@ -1,0 +1,37 @@
+     The underpinning research within CIMS has allowed the development of a       chromatic sensing methodology allowing cost-effective monitoring systems.
+The CIMS system has been used to interpret complex and emergent conditions       in several real world applications.
+This has led to significant           economic, societal and environmental impact       with national and large international reach.
+There are currently ten different organisations utilising the technology,       benefitting the UK economy and health care provision both nationally and       internationally.
+The impact includes, but is not limited to, the four       specific examples given below:     1.
+Time domain chromaticity with optical fibre, acoustic sensing       developed at Liverpool [3.1, 3.3], has been retrofitted onto High Voltage       transformers in sub stations operated by Electricity North West Ltd (ENWL)       and Western Power (WP).
+CIMS engaged Manchester-based manufacturer (MHA       Lighting [5.3]) to build monitoring units.
+35 units have now been produced       and installed in ENWL substations in the Midlands and the North West,       allowing early detection of incipient switching faults.
+This has resulted       in an important contribution to the provision of reliable electric power       supplies nationally.
+The resulting impact is therefore upon both industry       and society in general via reduction of the risk of widespread power       disruption.
+Furthermore: "Without these monitoring units           and the chromatic processing methodology, ENWL would not achieve some           of its regulatory aims and objectives in terms of the future energy           infrastructure" [5.1].
+2.
+Space domain chromaticity with 2D digital camera imaging developed at       CIMS has been used to monitor growth of bacterial colonies in urine [3.1].
+This led to the development of the MAST "UriPlus" urine monitor which was       then evaluated by 3 independent hospitals and one medical laboratory       [5.4].
+Following successful field trials the UriPlus instrument was       launched in 2011.
+To date, there have been 25 units manufactured.
+Furthermore there are 5-year consumables contracts in place with end-users       (from 2012 and ongoing).
+This represents a revenue income stream of &#163;2.5       million over the 5 year period in question [5.2].
+In addition to economic       benefits, the MAST UriPlus monitor provides improved diagnosis of health       threatening conditions for medical patients, through the urine screening       product because of its higher accuracy and ease of use: "...MAST           UriPlus was found to be a much improved instrument over the Matascan           Elite in ease of use, speed of use, user friendly software and           improved accuracy" [5.4]     Further research and development regarding space domain chromaticity has       also been applied for the detection of antibiotic effectiveness to treat       bacterial infections.
+This has been transferred from CIMS to MAST via a       KTP award.
+The researcher trained during in the project, as the KTP       associate, is now employed by MAST.
+Chromaticity is embedded in the new       MAST instrument, funded through this KTP award.
+The resulting performance       of the instrument is superior to previous versions [5.3] and "...reduces           waste and carbon foot print" [5.8].
+3.
+Optical domain chromaticity [3.1] for skin tissue monitoring is being       used internationally.
+An inexpensive mobile phone camera-based chromatic       system is being used at the Thengana Medical Mission Hospital &amp;       Research Centre (TMMHRC) and 3 hospitals in South India for the live       monitoring of jaundice in newly born infants (from 2010).
+"The scale           of the sociological importance is reflected in the fact that 9           million babies are born in India each year and neonatal           hyperbilirubinemia occurs in more than 60% of late preterm and term           newborns" [5.5].
+The CIMS system allows poorer sections of the       population, in remote areas, to have access to improved diagnosis with       consequent improvement in healthcare.
+4.
+Space- and time-domain chromaticity with optical and infra-red sensing       [3.1] has been employed for the non-intrusive assistive care of the           elderly in the UK.
+An assistive care system covering three       wings of a Care Home for the elderly, (Milestones Trust Bristol) has been       in operation for 10 years with continuous evaluation (2003-ongoing).
+A       further 8 room system was successfully tested at The Oakes, Merton Care       Home, London which won a Government e-Innovation Award.
+Summary of end-user beneficiaries:     (i) Economic: Electric Power Distribution Companies (ENWL WP etc)       including their industrial customers.
+Instrument manufacturers (e.g.
+MAST       Group Ltd, MHA Lighting Ltd) [5.1,5.2, 5.3]     (ii) Societal: Healthcare sectors (NHS) with an International       reach to the impact via TMMHRC (India) [5.5].
+Improvement of patient care       for elderly residents in care homes (Milestones Trust) [5.6].
+(iii) Environmental: The UriPlus instrument contributed to the NHS       LEAN target performance indicators for the MAST group [5.8]

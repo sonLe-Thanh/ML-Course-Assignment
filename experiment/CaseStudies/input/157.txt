@@ -1,0 +1,28 @@
+     Key step 1 was the ATEP I project: (laminate technology R&amp;D).
+Core income of &#163;64k (ATEP1+2), with match funding from the partners (total       ~&#163;300k) by the "Midlands Aerospace Alliance" and involving UTC HS       Marstons, BAe, Rolls-Royce, AJAX Tocco and UEES: Development of the       affordable diffusion bonding process.
+This ATEP project demonstrated for       the first time localised induction heating can create a high speed       diffusion bond (for Ti-6Al-4V), within 30 seconds; traditional methods       take at least 8 hours) utilising an innovative new technique, involving       vacuum insulation [1].
+A patent is pending for detailing the technology       developed in the ATEP [2].
+BURCAS (KTP): "Improving the brazing process at Burcas knives       division".
+The University supervised this KTP and collaborated with the       original ATEP (DB) partner AJAX Tocco in developing the brazing process,       defining and proposing machinery for improved and faster (and cheaper)       brazing of large (5 m) industrial knives as well as for improved heat       treatment of cutting edges, through localised induction heating       technology.
+This KTP extended the research knowledge of selected localised       heating necessary for the ADB process [3].
+Key step 2 concerned the reputation gained by the University in ATEP 1       and led to further work in the development, design and manufacture of       materials based on laminated layered manufacture, i.e.
+the MoD funded         project "Competition of Ideas" in collaboration with BAe.
+This       project involved the design of cellular materials, by numerical       simulation, for impact energy absorption and based upon DB/SPF.
+This       included the development of different geometries and topologies for the       cellular structure and their behaviour under conditions of high speed       impact [4].
+Key step 3 was a second ATEP 2 project TASC: Advanced Surface       Cooler technology development with HS Marston, Rolls-Royce, and ACE Ltd.       (Feb 2009 to Apr 2011) [5].
+In particular the collaboration with ACE Ltd       resulted in a KTP project (no.
+8230).
+Advanced Chemical Etching (ACE)         Ltd (laminate technology work): To use advanced chemical etching       linked to the affordable diffusion bonding process to manufacture highly       intricate structures for various applications, aerospace, automotive, and       other high value manufacturing.
+ACE Ltd (KTP): The aim of the project was to improve the existing       chemical etching process for aluminium and titanium components used in       aerospace applications.
+This derived from working with H S Marston (UTC)       on developing shim plates for compact heat exchanger units requiring micro       channels.
+The result of the project is new chemical etching processes       capable of consistent and repeatable high quality component product.
+The       new technology has proved to be 4 to 5 times quicker and capable of       extending the life of chemicals used tenfold from the existing process.
+With significant confidence in the new processes, ACE has invested       extensively both in buildings and new machinery, supported by increased       sales and marketing activity, as well as increased investment in R&amp;D.       The value of KTP to ACE has been in changing the mentality within the       company to use `Science' in their everyday business dealings [6]     The work undertaken has significantly enhanced the capability of ACE for       the processing of new technology components in titanium and aluminium       alloys which had previously been out of reach.
+Laminar Plate Technology is       in increasing demand for new generation developments of miniature heat       exchangers for cooling electronic devices to light-weight aero engine       fluid heat exchanger assemblies not available before.
+This development has       had a significant impact on the continuing success of ACE's business both       in the UK and internationally to give the company the confidence to       undertake a recent substantial expansion of the business [6].
+Linked to this research and development has been the need to investigate       alternative methods of bonding leading to a further collaboration using       the selective DB technology, developed by Ajax Tocco and the University,       in identifying a significant practical application for the oil industry to       use these new chemical etching processes [6, 7].
+.
+Further investments have been obtained and work is on-going to complete       the development of the ADB process, with AJAX TOCCO, ACE and The       University (HEIF-Fellow, Senior Research Fellow, and Research Fellow-in       MidSim to support this R&amp;D).
+Ajax TOCCO International Ltd are still       actively involved with developing the diffusion bonding process, in       collaboration with the University of Wolverhampton, and doing this with       equipment located at the Saltley site of Ajax TOCCO International Ltd.
+Currently this includes the investigation of a titanium bond for a part to       be used in the oil and gas industry.
+In addition they are considering how       to do bonding on somewhat larger parts but in an aluminium alloy [8].

@@ -1,0 +1,29 @@
+     The initial Cambridge research into building MEMS devices on the       nano-scale showed that shrinking MEMS devices allows them to work faster,       at lower voltages and more reliably.
+The speed of operation enabled these       devices to be used for making small fast operating variable capacitors for       mobile phone applications.
+The low resistance of the moving metal parts       ensures operation with a high electrical quality factor.
+The advantage of       using MEMS for memory products is that the low voltage operation removes       the requirement for charge pumps in embedded memory applications.
+As mentioned in section 2, the research underpinning the development of       MEMS devices was considered enough to attract a considerable amount of VC       funding.
+In 2000 the results were such that the company was able to raise       $6,000,000 to hire a CEO and to set up a research lab external to the       University, allowing the company to start developing its first silicon       foundry compatible nano- scale MEMS device, a non-volatile memory product.
+This development work was performed outside the department.
+Pushing for       the smallest possible MEMS devices allowed other products to be developed       with enhanced performance properties such at the digital variable       capacitor that is currently the main product of the company.
+Joint       research grants between Cavendish Kinetics and the University of Cambridge       Physics Department continued until 2005[i2].
+Thereafter, in 2006       $15,500,000 more in VC funding allowed Cavendish Kinetics to set up a       subsidiary in San Jose in California with the CMOS research team shifting       from Germany to the US, allowing the company to grow to over 30 employees.
+Within the relevant period, a further $10 million in investments from       Qualcomm and other VC's came into the company (2011) [i4] which allowed       the company to fully develop the digital variable capacitor products for       mobile phone applications.
+The latest 4G or LTE technology used in smart phones allows much faster       data transmission because data can be split between more than one band,       both during upload and download.
+In the UK there are three bands used for       LTE, the value of the frequency used is different for different regions of       the globe.
+There is no room in the phone to house more than one antenna,       so to solve this problem phones use resonant filters connected to the       antenna to tune them to work at different frequencies.
+At present this is       achieved with a gallium arsenide switch connected to a fixed capacitor.
+This combination is expensive, because the switches need to operate up to       several gigahertz without distorting the signal or damping the resonance.
+Ultimately it is predicted that smart phones will need to operate over 20       bands worldwide [i7].
+The Cavendish Kinetics solution replaces all these       components with a digital variable capacitor which is fabricated at a       standard CMOS foundry.
+Cavendish Kinetics ported its unique MEMS process       for nano-scale MEMS devices to a partner foundry TowerJazz Ltd that is       manufacturing chips that will be sold to phone manufacturers.
+The first       chip was launched in June 2013.
+There is another advantage to the Cavendish Kinetics technology and this       relates to the variation in the antenna performance depending on its       position relative to your body.
+If a phone is sitting on the desk or in       your pocket being used with headphones, the stray capacitance is different       from when it is held in your hand next to your head.
+This causes a shift       in the performance of the antenna which can be corrected for directly       using Cavendish Kinetics technology in a way that is not possible with the       current technology.
+Thus this product will allow new phone designs to take       full advantage of new high speed mobile phone networks referred to as LTE       or 4G which are now available in the US, Europe and Japan.
+It also results       in a longer time between battery charges as less power is required.
+Being       able to send and receive mobile signals more efficiently means that the       mobile phone signal suppliers do not need to build extra phone mast to       ensure fast data rates are available for everyone.
+As the chip replaces       several other components, it can also lead to a reduction in the cost of       the parts for the mobile phone.
+Thus the research at Cavendish has led to a new product that became       available in 2013 [i3] which reduces the energy consumption and improve       the performance of mobile phones.
+On a smaller scale, since 2008 the       development has provided over 140 person years of employment to engineers       and scientists in the US, and Europe and has resulted in over 97 published       patents [i10].

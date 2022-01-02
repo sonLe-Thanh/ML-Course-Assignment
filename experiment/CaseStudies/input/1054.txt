@@ -1,0 +1,35 @@
+     Joint research by Kingsley and O'Keefe into dielectric resonator antennas       has had significant commercial impact through the spin out company       Antenova.
+The company was registered by the University of Sheffield in       1999 and fully funded in 2001.
+Sheffield University owned 18% of Antenova.
+From the basic research Kingsley, as Chief Scientist and       co-inventor, further developed small dielectric antennas which eventually       led to the current range of RADIONOVA products in 2008 that can be seen on       the Antenova website (www.antenova.com)       [S1] and the more recent chip antennas (2010) produced in considerable       numbers that appear in mobile phones and tablets.
+The PhD student (Dr Liu) became an Antenova employee on completing his       studies in 2011 taking the research into the company for commercial       development.
+Dr Liu has designed two standard antennas, that are selling       in high volumes, as well as several custom antennas which arose from       research at Sheffield.
+For example a project in production with LG for       their 7 - 10 inch portable multi-media devices uses the low frequency band       technology for FM/TV bands reported in [R6].
+The ideas on capacitive       coupling structures in [R6] resulted in two products: (i) a pentaband       antenna for a portable payment machine using MEMS switches has been       implemented in a Glintt payment machine; and (ii) a Miniaturized pentaband       chip antenna which has been used in several of Silverspring's M2M       products, mainly for their smart metering systems.
+Both go into mass       production in 2013.
+This work has contributed significantly to Antenova's       recent commercial success.
+The worldwide antenna business is dominated by high volume manufacturing       of low-cost, low performing products that also have low margins, typically       around 10-11%.
+Antenova was set up to work at the high end of the market       using advanced antenna technology to make products for high- end feature       phones and smart phones.
+The requirements on the antenna are much more       severe in these products.
+The antennas are correspondingly more expensive,       but attract a much higher margin, typically 60%.
+The IP and Engineering assets of Antenova were bought out by Microsoft         Corporation, USA in 2013 to gain commercial advantage for their       future products.
+Company Performance     Antenova was a UK-registered, UK-based company with its headquarters in       Cambridge.
+There are other company offices in Chicago and Taiwan and       several staff (~6) in other Asian countries.
+The company employed 40       people of whom 75% have advanced degrees (Masters or PhDs).
+Economic Impact     Antenova turnover totalled &#163;16m between 2009 and 2012 reflecting       increased year-on-year sales for the same period:     Turnover:             2009: &#163;3.1M or $4.96M        2010: &#163;4M or $6.4M        2011: &#163;3.9M or $6.24M        2012: &#163;5M or $8M          Units sold             2009: 7.75M direct units shipped        2010: 10M direct units shipped        2011: 11.7M direct units shipped        2012: 15M direct units shipped          Units sold under licence:             Antenova has also generated considerable downstream revenue over its         lifespan.
+Antenova made about $17.5M in revenues from licensing and         royalties.
+This is made up from: Murata=$3M; Galtronics=$4M; Sony         Ericsson=$2M; Flextronics=$2.5M; others (includes LG, Inpaq, etc.
+)=$2M;         and Microsoft=$4M.
+[S1]          Antenova is one of the most innovative and advanced antenna companies in       the industry and is the only company to produce antennas for the full       range of mobile devices and protocols (phones, tablets, laptops, M2M,       etc.).
+Many products are customer specific.
+Microsoft's new Surface Tablet only uses Antenova antenna technology (1M       sales 4th Quarter 2012) due to their multiband capabilities       combined with a small physical volume.
+Market share: According to a major report on the mobile antenna       industry in 2012 by Mobile Experts [S2, S3] the overall antenna       market consists of "more than 2.3 billion structures shipped annually       (2012)".
+The report contains a pie chart showing that Antenova has 6% of       the market.
+The most valuable part of the company is its high dielectric       antenna technology according to the same report by Mobile Experts       [S2] with Antenova having the largest share of the global Antenna Design       Market at 15%.
+Main customers: Antenova's main customers over recent years have       been Microsoft, Dell, Nokia, LG, Samsung, Foxconn, TomTom, Philips,       Motorola, Sony Ericsson (now Sony), HP and Murata.
+Further Impact to beneficiaries: Antenova's high dielectric       technology has contributed to mobile devices becoming smaller, more robust       and more efficient (15%), thereby contributing to increased battery life       (5%) and enabling energy savings which has benefits for both the consumer       and the environment [S4].
+Since the technology enables design flexibility       and rapid design cycles, it has helped to reduce the cost of mobile       products too.
+Users also benefit from improved signal reception and the       ability to receive multiple protocols such as Bluetooth, WiFi, telephone,       Internet, Radio and TV, Navigation, etc.
+making their mobile device so       multi-functional.
+Overall these economic, consumer and environmental       advantages also give a competitive benefit the suppliers of mobile       devices.
+[S5]     Professor Kingsley can be contacted for a general overview of the       research and company product development [S6].

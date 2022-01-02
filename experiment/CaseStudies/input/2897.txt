@@ -1,0 +1,28 @@
+     Pathways to impact: During the last decade, Professor Evstigneev       and colleagues have given numerous presentations at significant       international conferences in the field, and published popular papers on       the subject addressing broad audiences.
+They have also organised several       workshops (e.g.
+Manchester, 2011, 2012, Bergen, 2011) with invited       theoreticians and practitioners.
+A recent popular paper &#8212; that introduced       to a wider audience some pertinent issues relating to MBF &#8212; was published       by Thorsten Hens in Finanz und Wirtschaft (the Swiss counterpart       of Financial Times) [1].
+Theoretical results published in [A-E] have been successfully employed in       investment practices within the Swiss and German financial systems.
+The       evidence of the impact of the research on MBF is provided by the       investment company AllMountain Capital AG (Switzerland) and Deutsche           Bank (Germany).
+Impact 1: AllMountain Capital AG.
+The results of the research were       used in the development of investment strategies in the AllMountain       Capital AG, and earlier, when building the Managed Futures trading team of       Horizon21.
+The AllMountain Capital AG is a specialist in Managed Futures       and systematic investment strategies, founded in 2010 as a spin-off from       Horizon21.
+AllMountain Capital is a highly successful hedge fund with USD       100 million currently under management.
+In 2008, after the investment company started using the mathematical       results on Behavioural and Evolutionary Finance outlined within the       research of Professor Evstigneev and colleagues, it achieved an average       annual return of +12%, with an annualized volatility of 15%, coping well       with the global financial crisis and the post-crisis situation.
+A partner       at AllMountain Capital AG notes that "For a systematic asset manager         like ours, it is of utmost importance to be able to rely on solid,         thorough academic work when it comes to formulating our investment         strategies", and writes in support of this research:     "The research of Profs.
+Evstigneev, Hens, and Schenk-Hopp&#233; in         Evolutionary Finance had an impact on AllMountain Capital on various         levels: It (i) enabled us to operationalize income strategies (Lambda         star) in the context of an investment portfolio; (ii) afforded us         crucial insights about the importance of a "better-than-average" market         timing when applying technical trading strategies; and, (iii) determined         the overarching focus we now apply to risk management when in intense         competition with other market participants, as many strategies do         return, on average, sub-par returns without a state-of-the-art risk         management.
+The fresh ideas suggested by evolutionary finance turned out         to be especially fruitful in crisis and post-crisis environments."
+[2]     Impact 2: Deutsche Bank.
+Results from the outlined       research provided a theoretical framework for the development of the       `Portfolio Total Return Index' (PTRI), used by Deutsche Bank.
+The       portfolio total return index is a rule-based value index which is built up       of several different asset classes.
+The index management and controlling       requires a risk valuation of each subclass, with this valuation was       primarily undertaken in the manner described in the underpinning research.
+Since 2008, DB has invested in the index with the DB X-trackers:       Portfolio Total Return Index (WKN DBX0BT).
+The DB X-trackers PTRI holds       more than EUR 84 million of assets under management, as of 10th       July 2012.
+Since its launch, the PTRI has created a total return of       approx.
+50% with a volatility of about 9.2%.
+Within this time, the       benchmark consisting of 60% Stoxx 50 Index and 40% REX-P Index only       achieved a total return of approx.
+17% with a volatility of about 12.4%.
+The Head of DB X-trackers, Deutsche Bank, alongside the CEO of Institut         f&#252;r Verm&#246;gensaufbau (Munich) note that "the scientific results         achieved by Igor V. Evstigneev [and colleagues]...  in the area         of `Evolutionary Finance' have essentially contributed to the         development of the Portfolio Total Return Index" , further       elaborating in their letter of support that this positive performance:     "...is significantly based on a successful risk management and         therefore on the scientific work of Igor V. Evstigneev, Thorsten Hens         and Klaus Reiner Schenk-Hopp&#233;.
+For this reason we are following the         future scientific developments in the area of Evolutionary Finance with         great interest.
+Further we understand this area as a practice- related         advancement of the classical Behavioral Finance approaches."
+[3][4]

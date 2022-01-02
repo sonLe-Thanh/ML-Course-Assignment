@@ -1,0 +1,44 @@
+     Since its formation ForthDD (originally Micropix) has raised in excess of       $33M in investment       including the 2011 injection of $11M by leading US microdisplay company,       Kopin Corporation [S5].
+Headquartered in Fife, Scotland, ForthDD has maintained and continues to       maintain strong       technical links with the ERPE research team.
+ForthDD designs, develops and       manufactures single       chip micro-displays used in the most demanding segments of markets such as       training and       simulation systems, HD video camera viewfinders, medical imaging systems       and virtual-reality and       head-mounted displays [S5].
+Entirely digital, providing 24-bit full-colour       images, capable of       handling high-speed motion and with no visible artefacts, ForthDD's single       chip imagers are       especially well-matched to the new solid state LED and laser diode light       sources and provide very       high native resolution.
+ForthDD now has offices in Spain, Germany and the       USA.
+In late 2012, ForthDD reaffirmed its position as the world's leading       supplier of advanced       microdisplays when it released the world's highest resolution full colour       microdisplay [S1].
+Underwood was employed as a consultant in the feasibility stage of       defining the new product.
+"ForthDD's premium quality components are deployed and used in the most         demanding systems         and applications imaginable.
+Forth Dimension Displays' product range         has, from the beginning,         been targeted at high-end markets.
+In these applications, image quality         is of the utmost         importance.
+The ability to provide colour has always been absolutely         essential throughout our         product range and the pioneering research done at ERPE on field         sequential colour, using         switched LED illumination, provided the foundation for our products to         produce deep, saturated,         satisfying colour."
+CEO, ForthDD [S2].
+The Near-To-Eye displays market comprises Head-Mounted Displays (HMDs)       and Electronic       Viewfinders (EVFs).
+While other companies and other divisions of Kopin       address the mainstream,       the Unique Selling Point (USP) of ForthDD is that its products achieve the       highest image quality       available in LCoS microdisplays and can thus command a high price from       those customers with       the most demanding applications.
+The foundations of the ability to meet       the requirements of the       most demanding applications lies in the research carried out by ERPE: "A         key selling point for         Forth Dimension Displays is our ability to produce high quality images         in applications where competing         technologies do not quite make the grade.
+Underpinning this image         quality are product features         enabled by technical specifications such as high pixel aperture ratio         and accurate liquid crystal         alignment, that were first established through the ERPE research on         backplane surface quality         improvement.
+The backplane surface quality improvement techniques         described by the ERPE research         have been adopted by CMOS foundries, such as those from which ForthDD         obtains the substrates for         its current product range."
+Director of Product Design, ForthDD       [S3].
+Achieving colour with pulsed RGB LED illumination.
+The combined fast switching capability of digital CMOS active matrix       drivers and Binary       Ferroelectric Liquid Crystal allowed the achievement of colour images by       using fast pulses from       Red, Green and Blue (RGB) LEDs to create the illusion of full colour       images without colour filters       and with no spatial separation of RGB sub-pixels.
+It also allowed an       all-digital video signal path.
+This ERPE research [2, 3], was quickly incorporated into early products       and has been continually       developed and refined within the company to encompass higher colour depth,       higher frame rates       and higher definition.
+"Thus every Forth Dimension Displays product,         including the most recent         product range, the QXGA (2048 x 1536 pixel) microdisplay launched in         October 2012, has used         and continues to use pulsed RGB LED illumination based upon the original         ERPE scheme that         was published [2, 3] as an outcome of the foundational ERPE research."
+CEO, ForthDD [S2]     Improving image quality through improved manufacturing techniques     The improvements in surface planarity and pixel fill factor achieved by       ERPE researchers [4, 5],       were critical to allowing FLCoS microdisplays to exceed the threshold of       image quality necessary       to satisfy customers.
+The underlying manufacturing processes were made       available to ForthDD's       commercial CMOS foundry supplier, through publication and direct transfer,       and thus were       incorporated into product manufacture.
+The CMOS foundry has continued to       refine these.
+Thus the       manufacturability, image quality and optical efficiency of the current       product range and the recently       released product range rely upon the ERPE foundational research in       manufacturing techniques       pioneered in the Scottish Microelectronics Centre.
+Infrastructure for the design and characterisation of the technology     The development of infrastructure linking the design and       manufacturability of FLCoS microdisplays       (such as the developed SPICE model for the FLC [6]) assisted the       productisation of the       technology.
+"GarField Matrics is the integrated circuit design         subcontractor to ForthDD.
+ERPE         researchers have made many successful technical advances to the design         of FLCoS         microdisplays.
+Specifically they developed a SPICE simulation model to         represent the electrical         load that the ferroelectric liquid crystal places on the drive circuit.
+It is essential to have SPICE         models of components that are both robust and accurate.
+Thus the ERPE         SPICE models have         been used directly in the design of FLCoS active matrix backplanes.
+Thus         the design-flow for new         products has benefited directly from the ERPE research on design and         characterisation."
+Managing Director, GarField Matrics [S4].
+The electronic architecture and pixel drive circuit of every product       generation designed by ForthDD       have been based upon architectures and designs first pioneered by ERPE       researchers.
+Thus the       prosperity of the company is comprehensively underpinned by ERPE research.
+And that prosperity       is evident in that, today, ForthDD is the division of Kopin Corporation &#8212;       the world's largest       microdisplay company &#8212; whose products address the most demanding markets       such as electronic       viewfinders for professional cinematography cameras plus commercial and       military flight simulators       (97% of military flight simulators based on head-mounted displays use       ForthDD microdisplays.
+Customers in these markets include Rockwell Collins, ARRI and L-3       Communications).
+Current       products are focused on Virtual Reality [S6] for consumer applications.
+"ForthDD develops and manufactures the world's highest performance         microdisplays for use in         Near-to-Eye and Head-Mounted Display Systems in market sectors such as         aerospace, medical,         training and defence.
+Operating in these very demanding market sectors,         ForthDD has, since         2008, increased its annual revenue by more than 25% to $5M, almost         entirely in exports, and over         the same period has increased its global workforce from 25 to 35         employees, as well as providing         competitive edge to its customer companies and benefits to the end-users         of its display products.
+It         now makes sales to 15 countries."
+CEO, ForthDD [S2]

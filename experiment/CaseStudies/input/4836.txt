@@ -1,0 +1,22 @@
+     "Surrey, collaborating closely with The Foundry across two funded           research projects, have           made advances in 3D computer vision which have greatly assisted us in           the development of           our industry-leading tools for stereo-3D film production."
+Founder and Chief Scientist, The Foundry.
+Introduction of a computer vision framework allowing robust       reconstruction and analysis of real-world       scenes has had a direct impact on stereo 3D production in film and       broadcast.
+Significant       contributions include:     - Pioneering computer vision technology allowing stereo 3D production       from a single moving       camera.
+This allows stereo production from the principal film camera view       without the need for a       stereo camera rig.
+- Full control of stereo parameters in post-production for film and       broadcast allowing correct       rendering for different screen formats and avoiding the need for manual       correction of visual       distortion.
+This greatly increases the flexibility of stereo production       for both film and broadcast.
+- Stereo production of stadium sports using conventional broadcast       cameras avoiding the need       for expensive stereo camera rigs and making possible simultaneous stereo       3D production       alongside conventional broadcast.
+Prototypes of this technology have been       used in conjunction       with the BBC for a variety of stadium sports (football, rugby, ski-jump).
+- Integration with The Foundry of robust visual analysis in industry       leading film post-production       software to increase flexibility in stereo production (Ocula) and video       editing for visual-effects       (NUKE).
+- Stereo 3D film production and post-production through integration of       computer vision       technologies in The Foundry's NUKE product which has been used on major       stereo film       productions (Avatar, Harry Potter, Pirates of the Caribbean, Batman)     Advances in robust visual reconstruction have been directly exploited by       UK industry collaborations       in broadcast (BBC), film post-production tools (The Foundry) and film       post-production (Framestore,       DoubleNegative).
+Framestore and DoubleNegative are the two largest UK film       post-production       companies with 500-1000 employees working on visual-effects for major film       releases (Avatar,       Harry Potter, Batman) and have both received Academy Awards (Oscars) for       their work.
+Exploitation of the robust visual reconstruction and stereo 3D rendering       in film post-production has       been realized though The Foundry's NUKE software.
+This research has       extended NUKE       functionality from a 2D compositing package to a 3D post-production tool       which is established as       the market leader in stereo post-production.
+This is evidenced by use of       NUKE as the major tool in       the recent wave of blockbuster stereo 3D films (Avatar for example) and       recognition of The       Foundry as one of the fastest growing UK technology companies.
+The Foundry has expanded from c. 20 people in 2007 to &gt;200 in 2013.
+Dr. Jonathan Starck who       transferred across to The Foundry in 2008 from the University of Surrey to       work on NUKE is now       their Lead Researcher heading up the company's research team.
+The Foundry       has been listed in       the Sunday Times Microsoft Tech Track top 100 each year from 2010-13 as       one of the UK's       fastest growing technology companies.
+The technology introduced in collaborative projects is licensed to The       Foundry and BBC under the       terms of the i3Dlive and i3Dpost collaborative agreements.
+The IP is       primarily realized as       mathematical methods, software and know-how and therefore not directly       applicable for patent       protection.
+Following the success of NUKE for stereo 3D production, The Foundry has       become one of the       leading software providers to the global visual effects industry; their       revenue increased from &#163;6.1M       in 2009 to &#163;14.9M in 2010 with a tripling of personnel from 35 to more       than 100.
+The Foundry was       acquired in March 2012 by the Carlyle Group for an undisclosed sum and       ranked 10th in the 2012       Sunday Times Deloitte Buyout 100.

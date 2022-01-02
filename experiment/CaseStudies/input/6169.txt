@@ -1,0 +1,29 @@
+     The Process: from research to impact     The invention of the MOF has led to a step-change in a range of       applications of fibre-optic technology, and created new business sectors       within the global optoelectronics industry which has adopted this new form       of fibre not only to improve or extend the performance of existing product       lines, but also to exploit its unique properties and develop revolutionary       new products and services.
+Several of these are already having       transformational impact across important application sectors.
+The biggest       impact so far is the use of MOF technology to create a revolutionary new       laser device, the Supercontinuum Fibre Laser (SFL), which       generates white light that can be &gt; 1 million times brighter than       possible by pre-existing technologies, and exploits the unique nonlinear       optical properties in MOFs [5.1].
+1.
+Economic Impact (creation of new business sectors and adoption of         new technology)     Creation of a local spin-out: The invention of MOFs and subsequent       early research on nonlinear MOFs conducted at the ORC led to the creation       and continuing success of the spin-off company Fianium, which was       founded in 2003 by Professor Anatoly Grudinin, and is now one of the       world's leading suppliers of compact, all-fiberised supercontinuum       sources.
+During the period between 2008 and 2013 the company more than       doubled in size.
+It currently has an annual turnover of ~&#163;10million       and employs more than 50 people in the Southampton area, many of       which are post-doctoral researchers coming from the ORC.
+The growth has       earned the company two Queen's awards: for International Trade       (2009) and Innovation (2012) [5.1].
+Fianium maintains strong links with       the ORC, where it funds research at the level of &#163;100k per annum, and       exports more than 90% of its products, thereby generating revenue and       profits for the UK [5.1].
+Creation of a new business sector: Besides Fianium, several other       companies worldwide have been created to commercialise supercontinuum       sources: NKT Photonics (Denmark), Menlo Systems (Germany) and Toptica       Lasers (Germany).
+Furthermore, MOFs are also sold as a product in their       own right by companies such as OFS (Denmark, USA), Fujikura (Japan) and       Yangtze Optical Fibre Company (China).
+Most other major fibre       manufacturers (e.g.
+Corning, Furukawa) have established large MOF research       programs and capabilities, even though they do not currently openly       advertise MOF products.
+[5.2].
+The estimated global market for MOF and         SFLs in 2011 was $96 million and this is predicted to rise to $621       million in 2016 [5.3].
+2.
+Health impacts     The use of MOFs to generate compact supercontinuum lasers has enabled the       development of new biomedical instrumentation and diagnostics.
+With the       very recent commercial availability of SFL-enabled products, MOF       technology is now beginning to be used in laboratories and hospitals       across the world to enchance our understanding of biological systems and       to aid diagnosis and treatment of medical conditions for improving the       health and well-being of the general public, as illustrated in the       examples below:     In the area of biological imaging, these MOF-enabled broadband       laser sources have a multitude of applications, including the areas of       fluorescence lifetime imaging, flow cytometry, and in-vivo optical       molecular imaging.
+In broadband spectroscopy, high-resolution       optical coherence tomography and endoscopic illumination,       these devices are being applied across a range of important medical       applications.
+SFLs, using Fianium products, have been key to the       development of a technique developed by Stefan Hell from the Max Planck       Institute for Biophysical Chemistry in G&#246;ttingen to push the resolution of       conventional microscopy beyond the conventional diffraction limit, thereby       achieving significantly sharper levels of detail in biological       imaging [5.5].
+Scientific instrument manufacturers have started to       integrate supercontinuum sources in their products.
+In 2012 Japan-based       manufacturer of precision instruments HORIBA integrated the high intensity       and broad wavelength range of a supercontinuum laser into a commercial         spectrofluorometer for improved diagnostic capability [5.6].
+In       2013, Leica Microsystems &#8212; a world leader in microscopy and imaging       solutions &#8212; began marketing products that use supercontinuum lasers as       "the ultimate source for confocal microscopy" [5.7].
+Manufacturer       Bioptigen develops non-invasive ophthalmic imaging systems,       generating high-resolution images of the cornea and retina.
+Early in 2013       the company integrated a supercontinuum source into its products "to       achieve a breakthrough in ophthalmic imaging for preclinical research"       [5.8].
+3.
+Impact on public and professional services     In the field of metrology, supercontinuum lasers based on the new MOF       technology have enabled ultrastable frequency combs that provide a direct       link between optical and microwave frequencies.
+This has made the       measurements of frequency, time and length far more accurate than hitherto       possible, with profound impact on both the fundamental science program and       commercial services, such as the distribution of accurate time       through an optical fibre network and time stamping services for financial       transactions, now offered by the National Physics Laboratory (NPL) [5.4]       and other such standards labs worldwide.
+This is an important contributor       to global international trade and world stock-markets.

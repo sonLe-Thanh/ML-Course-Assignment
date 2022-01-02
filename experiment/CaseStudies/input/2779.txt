@@ -1,0 +1,30 @@
+     Cyber security is becoming ever more important as society increasingly       relies on networked systems, while at the same time security threats to       the normal operation of these systems grow in number.
+To counter such       threats, it is important to develop effective tools to reduce security       vulnerabilities, and train users for proper understanding and handling of       security threats and tools for system protection.
+These activities are       underpinned by the three areas of our research outlined in Section 2, with       their impacts detailed separately below:            [text removed for publication]        Secure system composition: Our lab's research outcomes in this         area were disseminated through publications in journals and at         conferences.
+This attracted interests from Thales Research and         Technology (UK) Ltd, which actively engages in secure system         development.
+A joint on-going project was then initiated in 2006 to         transfer the lab's work on secure system composition outlined in Section         2 into security tools.
+During the period 01/2008 - 07/2013, the project         resulted in three invention disclosures and an enhanced Secure On-         Demand Architecture (SODA) solution to dynamic cascade vulnerability         checks in real-world networks for Thales [a].
+The collaboration is         evidenced in joint publication [4] in Section 3.
+The work has benefited         Thales in terms of better security solutions.
+In addition, the project enabled our lab to produce a software tool         MATTS (Mobile Agent Topology Test System) for assessing composed system         security.
+Some components of MATTS have been released by the lab as open         source software [b].
+This helps to promote its further development by         other developers and to make the tool freely available for security         improvement.
+Between 04/2009 - 07/2013, the released visualisation         component of MATTS was downloaded 14,323 times (about 3,305 times per         year) worldwide [c].
+This has made a positive impact on the wide         adoption of advanced technologies.
+The lab's security research also received broad international         recognition through the dissemination.
+This led to collaboration with 16         other partners across 9 EU countries to secure an EU FP7 grant of &#8364;9.6m         for developing secure and trustworthy composite services between 08/2010         - 01/2014 (see [8] in Section 3).
+The lab is the third largest         contributor with &#8364;741k.
+[text removed for publication].
+The lab's work on secure system composition outlined in Section 2 forms         a core theme of the project.
+It has been integrated into the solutions         and tools being exploited by the project's 10 industrial partners for         the development of secure composite services.
+The exploitation has         benefited not only these companies through more advanced security         techniques but also their customers through better-secured services.
+[text removed for publication].
+[text removed for publication]        Forensic analysis: As described in Section 2, the lab produced         a patent published in the US and UK in 2009 and 2010 respectively (see         [6] in Section 3).
+A spinout company Forsigs [d] was created jointly         with Tubedale Communications Ltd in 2008 with an investment of &#163;120k to         commercialise the patented technique for fast and accurate automated         searching of illegal data stored in computing devices for forensic         investigations.
+The product mainly aims at users from law enforcement         organisations (e.g.
+police) and companies.
+It has been used by the         Merseyside Police High Tech Crime Unit (MPHTCU) in real investigations         [e].
+The product demonstrated a speed improvement of 8.5 times that of         the previous tool used by the police with one case reducing a full         analysis from 22 hours down to 19 minutes, which was measured between         10/2010 - 03/2011.
+This reduces investigation time and hence increases         the police's efficiency in solving criminal cases.
+The use of the         product also resulted in the development of a new triaging process at         MPHTCU.
+The lab also provided MSc-level computer forensics training for 3         policemen from MPHTCU (09/2009 - 09/2011), one of whom is now at the         National Cyber Crime Unit, and a training course (04 - 05/2013) for 3         policemen for setting up Kuwait's first computer forensics unit.

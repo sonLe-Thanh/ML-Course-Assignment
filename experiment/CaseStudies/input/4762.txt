@@ -1,0 +1,31 @@
+     Pathway to Impact     The advance made in computer-aided safety engineering research described       above helped to       realise the vision of integrating safety consideration into the mainstream       design process and Hazid       Technologies Ltd, a University spin-out company, was founded in 2002.
+The       company has raised       over &#163;1.3m [5.1] investment from venture capitalists, private       investors and a county council to       carry out the development for commercialisation.
+From the prototype,       considerable work has gone       into re-implementing the code to commercial standard.
+A means of capturing       the basic information       from the plant P&amp;IDs was developed.
+The plant equipment knowledge base       was greatly enhanced.
+The fault-propagation engine was refined.
+In 2005, Hazid Technologies made a global sales agreement with Intergraph       [5.2], a major CAD       system vendor to the process industry.
+The agreement allowed Hazid       Technologies to integrate       the safety tools with Integraph's SmartPlant P&amp;ID and for Intergraph       to sell the tools as add-on       modules to their own SmartPlant P&amp;ID platform.
+As development progressed, it became clear that the integration of       process information and       knowledge-based reasoning allows different novel tools to be developed to       automate other safety-related       tasks.
+Further research was carried out [G3.2 to G3.4] and new       tools to address the       difficult problem of HAZOP of batch plants and design checks were       developed.
+The tools are       marketed by Intergraph as SmartPlant Process Safety (SPPS) and SmartPlant       P&amp;ID Engineering       Integrity.
+For a number of years, in addition to two full-time Executive Directors,       Hazid Technologies       employed three software developers and two chemical engineers, with sales       support provided by       Intergraph.
+With increased sales and prospects, the company recently took       on an additional       chemical engineers to provide technical support to clients, thus providing       employment for six       graduate and mid-career professionals [5.1].
+Beneficiaries     The beneficiaries of the commercialisation of the underpinning research       can be divided into two       groups.
+The primary beneficiaries are technology vendors.
+The secondary       beneficiaries are the       technology users.
+In the first group, Hazid Technologies Ltd from 2002 to 2010 benefited       from the stimulation of the       research and developed a suite of state-of-the-art commercial tools for       safety engineering.
+They       also secured a significant amount of investment and created job       opportunities.
+Intergraph Corp, a       world-leading supplier of P&amp;ID systems provided a platform for       integration and channel for sales.
+Both of these companies benefit from the sales of the tools and the       services they provide.
+Also,       recognising the impact Hazid Technologies is making in the process       industry, the world's largest       CAD system vendor AutoDesk has admitted Hazid Technologies Ltd into their       developer network       to integrate the Hazid tools with AutoCAD P&amp;ID [5.3] so that       the Hazid tools will become part of       their portfolio of add-on products, thus benefiting both companies.
+The second group of beneficiaries is the global process industry.
+Current       Hazid Technologies       clients are major process plant operating companies and engineering       companies from around the       world, e.g.
+Arrow Energy (Australia), Bechtel (USA), Chiyoda (Japan),       Clough (Australia), Conoco       Phillips (Australia), Fluor (USA), HEC (Hyundai Engineering, Korea), IMP       (Mexico), KEPCO E&amp;C       (Korea), Motiva (USA), Shell (Netherlands) and WorleyParsons (USA) [5.4].
+The use of the tools by Hazid is changing the way these companies do       design checks and hazard       identification.
+The General Manager of Clough (Australia) states,       "SmartPlant P&amp;ID Engineering       Integrity will help us to eliminate the manual P&amp;ID checking process       for significant time and cost       savings.
+This unique Intergraph solution ensures we maintain high-quality       P&amp;IDs, and when       handed over to owners, they meet all operational needs of the project.
+SmartPlant Enterprise       solutions have always delivered great value to our projects, and we are       fully confident that       SmartPlant P&amp;ID Engineering Integrity will drive continued success."
+[5.5].
+Intergraph Process,       Power &amp; Marine President states, "SmartPlant P&amp;ID Engineering       Integrity enables Clough and all       other engineering companies around the world to leverage intelligent       P&amp;ID capabilities, delivering       tremendous value to owner operators when handing over engineering       deliverables for enhanced       safety, quality and productivity of projects across industries."
+[5.5].

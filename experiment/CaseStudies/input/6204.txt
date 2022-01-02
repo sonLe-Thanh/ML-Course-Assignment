@@ -1,0 +1,30 @@
+     Electronic Stability Control (ESC) systems have been in use since around       2000 and have widely publicised benefits to the user.
+Since 2005 their       impact has been measurable and Garrot [5.1] notes that single       vehicle accidents have been reduced by 30-40%, whilst for `loss of       control' fatal accidents the reduction is up to 67%.
+With such obvious       benefits to consumers, many manufacturers are fitting ESC systems as       standard.
+EU legislation has required all HGVs and coaches to be fitted       with ESC since 2010 and all cars must have ESC by 2014.
+Critically, most       ESC systems use the Antilock Brake System (ABS) brake actuators already       fitted to vehicles.
+These act discretely, at or near the point of loss of       control of the vehicle, braking the vehicle as well as correcting its yaw       rate but producing a noticeable intervention to the driver.
+Whilst the       statistics prove the accident prevention benefits of these systems, the       motoring press dislike the intervention and in most cases the system can       be turned off by the driver.
+The advantage of ALSD is that yaw rate control is provided continuously,       and imperceptibly, to the driver.
+The yaw correction is provided by       left/right drive torque redistribution at the rear wheels, so no braking       is applied in most driving scenarios.
+The torque transfer capacity is       limited and the Jaguar system is implemented in conjunction with a       brake-based system that intervenes in the most extreme scenarios.
+For       drivers of the very powerful supercharged cars that adopt this system,       however, maintaining continuous control over the wider range of yaw       behaviour of the car is seen as a significant advantage, making the       potentially fatal consequences of the driver turning off the ESC less       likely.
+Following the vehicle and simulation based research carried out by       Matthew Hancock within his PhD research, the system was adopted on       Jaguar's X250 programme for the 2009 XFR (the supercharged variant of the       XF) [5.2].
+The control software passed through company       homologation, quality and reliability processes to satisfy BS EN       ISO9001:2008 and therefore attracted rigorous scrutiny and some       modification for mass production.
+ALSD does not operate independently of other software on the vehicle.
+For       example, vehicle speed and yaw rate sensing software and road friction       estimation are required for its use; these were not developed as part of       this research.
+However, the vehicle and differential system modelling,       supporting simulation work and subsequent structural design of the       controller is specifically relevant.
+The fundamental operation of Jaguar's       control software is substantially that which appears in Hancock's PhD.
+The       research is now in production and contributes very substantially to the       overall success of the ALSD on the production vehicle, providing "a major       contribution to the handling performance and stability control refinement       of these vehicles" [5.2].
+Since the XFR was launched to critical acclaim (What Car voted the       XF car of the year in 2008, and best executive car in 2011), Jaguar has       introduced the ALSD system onto all new supercharged variants of its range       (XF, XK and XJ).
+To date approximately 20,000 of these vehicles have been       sold worldwide.
+Jaguar is not the only car company offering differential control (BMW       offer a similar system on the M5) and, as stated, not all of the ESC       benefits of Jaguar's supercharged cars pertain to the ALSD system.
+However, the system does introduce benefits for drivers that users have       praised.
+Press reviews note the beneficial handling qualities as well as       stability of the ALSD.
+Comments have included:     "The diff control can shunt torque across the axle, promoting better       stability, better response".
+[5.3]     "Putting the power to the ground further than ever is the new Active       Differential Control (ADC), which is an electronically controlled       alternative to the traditional mechanical limited-slip differential, with       far more subtle control strategies ... Its subtle control strategies       optimize traction at each wheel, improving acceleration on low-grip       surfaces but also potentially improving stability when required."
+[5.4]     "Active Differential Control technology ... uses a multiplate clutch to       vector torque to the driven wheel with the most grip.
+Allied to the ABS       and stability control, this allows for the ultimate in traction and       precision both mid-corner and at its exit."
+[5.5]     "Grip is barnacle-like, and when the driver exceeds the car's limits &#8212;       which requires determination &#8212; he'll feel the diff helping to keep the       front of the vehicle ahead of the stern."
+[5.6]     The system is now being used on the new F-type (unveiled at the Paris       Motor Show in September 2012) and is in the process of being extended to       Range Rovers, starting with the new Range Rover Sport.
+When assessing domestic economic impact, it is useful to know that all       Jaguar Land Rover vehicles are built in the UK.

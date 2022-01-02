@@ -1,0 +1,35 @@
+     The aim of the TOPLESS (2007-2010) project was to develop the materials       and device architectures to the point where they were demonstrably       commercialisable [C1].
+Durham's research contribution to this was to       greatly increase the efficiency of polymer white light production [1-5],       and two of these key breakthroughs are the subjects of patents filed by       Thorn [P2-P3].
+By 2009 the consortium could build the most efficient       polymer solid state lighting panels ever made, with performance       approaching that of current industry standard, mercury vapour based,       fluorescent lighting units.
+However, the OLEDs are safer, easier to       recycle and more environmentally sustainable, because they contain no       mercury.
+This was recognised by the TOPLESS project winning the       Environmental category of the Technology &amp; Innovation Awards of The         Engineer [C2].
+In an interview with Prof Geoff Williams, the TOPLESS       project manager who gained his PhD from Durham University, then working in       Thorn Lighting said "The University of Durham ...have the ability,         within their photo-physics group to understand precise charge transfer         within the polymers, this is a valuable to feedback tool for the         development of the next generation of materials."
+[C3].
+These successes demonstrated that the devices would be commercially competitive       if a fabrication process could be developed which was economic yet gave       high quality, reproducible results.
+Initial work from TOPLESS demonstrated       that slot dye coating, a form of meniscus printing onto a glass substrate,       could be used to produce the ultrathin, uniform polymer films over the       large areas required.
+However, this prototype production method needed to       be scaled up to in order to form the basis of an industrial manufacturing       process.
+To do this, the original TOPLESS consortium was expanded, with       new industrial partners including Pilkington Glass (for the substrate),       Cambridge Inkjet Technology (to print bus bars on the anodes of the OLEDs)       and Tridonic (a sister company of Thorn, again based in the NE, to make       all the electronic controls for the lighting).
+These industrial partners       form the basis of a complete supply chain to incorporate the material into       commercial units.
+The development of a full manufacturing process from       this was supported by a &#163;4M grant (TOPDRAWER: 2010-2013) from the       Technology Strategy Board (sponsored by BIS) [C4].
+The first commercially       available units are expected in 2015, but `concept' design units are       included in an OLED lighting installation in the entrance of the Thorne       Spennymoor plant (Fig 1:C5).
+Fig 1.
+Concept design for OLED lighting on display at Thorn Spennymoor entrance [C5].
+While the TOPDRAWER grant covers the research and development costs, the     full scale industrial process also requires specialist infrastructure.
+The     TOPLESS consortium designed a pre-production line for manufacture of solid     state lighting, costed at &#163;4.5M.
+This was funded by BIS and ERDF as part of     a much wider &#163;20.5M package of support for plastic electronics in the UK.
+The equipment was installed at the national Centre for Plastic Electronics     (PETEC), based at NETPark (the Universities technology incubator start up     site) in Sedgefield in early 2011, greatly expanding the regional     infrastructure for plastic electronics, providing 26 new jobs at PETEC with     the aim of stimulating 250 jobs regionally and 1500 nationally [C6].
+The Managing Director of County Durham Development Company, the       organisation which runs NETPark, credits the collaboration with Durham       University with rescuing 600 jobs at the Thorn Spennymoor site after the       company proposed to move its operation to Romania.
+"When Thorn         Lighting's operation in the County faced the threat of relocation to         Eastern Europe we helped convince the company's leaders to stay and         invest &#163;24 million in a new facility.
+The new plant at Spennymoor         safeguarded 600 jobs and created new R&amp;D posts."
+[C7].
+The       Director of Innovation Development at CDDC said "It would have ripped         the heart out of Spennymoor had they gone, so we told them they really         shouldn't do that because they would lose their market leadership in the         UK.
+We told them, if you are into lighting then you will be interested         in the solid state lighting which is being done at Durham University and         commercialised here at PETEC.
+Thorn decided after six months of         persuasion and negotiation that not only would they stay, but they would         build a new factory with &#163;24M of their own money."
+[C8]     While the University research was key in discovering and developing the       new material, the commercialization of the OLEDs to a full lighting       product was only possible with major multibillion pound industrial       partners [C9].
+The University-Industry consortium funded by TOPLESS led to       especially strong links between the Physics Department and Thorn Lighting,       the largest lighting manufacturing employer in the North East.
+Research       staff from Thorn were seconded to Durham as part of the TOPLESS project       (Kamtekar, Goudin).
+They joined the University postdocs already working on       the material (Lyons, Dias, Vaughan, Jankus, Perepichka, now a Lecturer at       UCLan, Tavasli: now a lecturer at Uludag, University, Turkey, Siddle, now       working for a NE chemical company).
+Thorn and CDT also now co-sponsors an       EPSRC grant, while CDT have co-sponsored Dias on a 5 year Fellowship in       the Physics Department.
+All these links mean that the Knowledge Transfer       from the project is on-going.
+CDT-Sumitomo now routinely use the new       material characterisation techniques developed in the TOPLESS project,       buying the equipment to replicate the process on their own site in       Cambridge [C10].
+CDT Chief Technology Officer says "they continue to         value the contribution from Durham and because of that have entered into         OLAE+ [Organic and Large Area Electronics] EU funded project with Durham         and other institutions" [C10].

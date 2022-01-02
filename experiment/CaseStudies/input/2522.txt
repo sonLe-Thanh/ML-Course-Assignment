@@ -1,0 +1,41 @@
+     4.1.
+Automating interpretation of behavioural events in experimental         studies       Modern molecular science can study entire genomes in a single experiment       (tens of thousands of genes) yet behavioural research is still largely       rooted in a human observer watching the animals behave, especially within       social or interactive environments.
+The studies conducted by Professor       Armstrong's group into individual annotators and experts showed that       individual interpretation of behavioural events have a huge impact in       experimental studies.
+Building on this knowledge, the researchers       developed a range of tools that automate behavioural analysis and data       capture [H].
+These tools bridge the gap between the levels of analysis we       can perform on large protein complexes to their phenotypes in integrated       studies.
+Furthermore, the use of computer vision and tracking algorithms can       capture information that is extremely hard to obtain using any other       method.
+These techniques are also providing new insights into behaviour.
+Using techniques from machine learning the research team developed a new       approach to these problems where the system learns directly from experts       how to recognise the behaviour under investigation.
+Studies in a range of       animal behaviours demonstrated that the system could effectively mimic a       human expert.
+4.2.
+Commercialisation of the research     During the period funded by Scottish Enterprise, the management team took     the decision to directly commercialise the research.
+Achieving this     commercialisation required the alignment of the academic research activity     with crucial business and staff development processes.
+Supported by the     University of Edinburgh and the School of Informatics, the founding team     sought the advice of directors from major pharmaceutical companies [B] and     recruited business development advisers [C] for guidance.
+A strategic     decision was taken early on to build towards a company with Armstrong     focusing on the science and Heward taking the business lead.
+The School     invested significantly in the training and development of Heward over the     four years sending him on the best business training programmes available     (e.g.
+MIT's Entrepreneurship Development Programme).
+Actual Analytics Ltd. (Actual) spun out from the University in 2010.
+Actual obtained a license to the iBehave technology to form the basis of       its first software solutions.
+It has raised just under &#163;1.5 M from some of       Europe's leading early-stage private investors to support initial product       development and marketing activities [E,F].
+The company now develops and       sells software for supporting behaviour analysis and first products were       distributed via a combination of Software-as-a-Service (Cloud) model,       Server products and bespoke consultancy contract work [G].
+In 2011, Actual       negotiated a contract with the market-leading reseller (TSE-Systems) to       develop a new suite of server products (PhenoTracker, figure 1) now resold       by them internationally [I].
+Figure 1: The PhenoTracker software developed by Actual Analytics Ltd          Within the University the original inventors recruited highly experienced       commercial development staff as well as the best technical minds to       translate the ideas into a viable business proposition.
+Actual Analytics       now has ten employees in the UK (as of January 2013), providing       stimulating careers for highly-skilled individuals.
+4.3.
+Reducing the use of animals in laboratory research and the         Crack-IT challenges       The UK's National Centre for the Replacement, Refinement and Reduction of       Animals in Research (NC3Rs, http://www.nc3rs.org.uk)       funds innovative research into methods to reduce reliance on the use of       animals in science across a range of animal species to accelerate the       discovery of treatments across several therapeutic areas.
+In 2011, NC3Rs       proposed the Crack-IT challenges to tackle the "scientific and business       challenges that involve the use of animals" [A].
+In 2012, in partnership with AstraZeneca (UK), TSE Systems (Germany) and       the University of Strathclyde, Professor Armstrong and Actual Analytics       won a major NC3Rs award under the Small Business Research Initiative       (SBRI) framework (Crack-IT) for &#163;500k to develop a new monitoring system       for safety pharmacology in rats [D].
+This project developed a highly       disruptive new technology that automatically monitors animals for weeks or       months in their home environment rather than just during short       artificially-controlled laboratory experiments.
+The benefits for both       animal welfare and increased quality and quantity of experimental data are       very high.
+The funding awarded was NC3Rs UK, SBRI, Rodent Big Brother:         The Trurat Show, 04/12-0314, value &#163;500k.
+In late 2012, Professor Armstrong and Actual Analytics won a second award       (&#163;100k) in this area to expand its development in this area to include       mice in collaboration with the largest animal facility in the UK (MRC       Harwell).
+This programme expanded rapidly because of expressions of       interest to join from other leading pharmaceutical companies.
+This       research was funded by NC3Rs UK, SBRI, Rodent Little Brother: A Brave         New Homecage, 12/12-06/13, value &#163;100k.
+In July 2013, Professor Armstrong and Actual Analytics won a third award       (&#163;500k) to deliver the second phase of this programme.
+Actual Analytics       Ltd received funding to develop a mouse cage with an integrated `big       brother'-style video monitoring system, to record specific types of       behaviour and allow for social interaction in mice being studied for       nervous system disorders.
+The automated, non-surgical system improves       animal welfare for this type of research since animal handling and other       interventions are greatly reduced.
+It allows monitoring of individual mice       when housed together in their natural grouping, rather than individually,       producing more reliable results compared with current observational       methods.
+This research was funded by NC3Rs UK, SBRI, Rodent Little         Brother: Measurement of mouse activity, behaviour and interaction in the         home cage, 07/13-date, value &#163;500k.
+4.4.
+Summary of the impact       In summary the impact is best measured by the new company, which has       achieved the following:            Raised &#163;1.5M in investment for product development.
+Grown to employ 10 people spanning business development and research       Successfully negotiated a contract with a world-wide sales and         marketing company (largest in the sector)       Successfully secured three major SBRI contracts totalling &#163;1.1M to         develop new products to improve animal welfare in pharmaceutical         research and development.

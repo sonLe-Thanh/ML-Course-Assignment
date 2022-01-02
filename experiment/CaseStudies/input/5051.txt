@@ -1,0 +1,33 @@
+     Researchers at the Division of Imaging Science &amp; Biomedical       Engineering, KCL in collaboration with UCLA, devised and demonstrated, for       the first time, the basic concepts of simultaneous PET and MRI, including       practical implementations of the technique and demonstrations of       applications.
+This work has led to industry collaborations and the       development of PET-MR scanners.
+It has initiated what has become a very       large field with considerable commercial and clinical impact.
+Combined PET-MR examinations have directly improved patient experience.
+The innovation has immediately reduced the need for multiple examinations       and so reduced the number of patient hospital visits.
+There is also a       two-fold reduction in radiation dose from PET-MR compared with PET-CT,       which is particularly important for paediatric studies.
+The beneficiaries       of both the direct clinical use of PET-MR, and any new therapies that it       helps bring to the clinic more rapidly, are patients with a wide variety       of serious illnesses including cancer, and neuropsychiatric and heart       diseases.
+Combined PET-MR examinations also result in logistical benefits.
+Historically PET and MR data have been obtained on different occasions and       often in different hospital departments, which can be challenging for the       patient workflow.
+The logistical and patient experience benefits of       performing PET and MR examinations in the same session have recently been       demonstrated (Catalano et al 2013).
+The clinical and research applications of simultaneous PET-MR are now       being developed and evaluated worldwide, as evidenced in, for instance, a       2012 review paper by Martinez-M&#246;ller that cites both Buchanan et al.
+1996       and Garlick et al.
+1997 when discussing the introduction of the first       preclinical combined PET/MR systems [14].
+PET-MR is the most complex imaging technology to date with scanners       costing around &#163;3-4M.
+Initial sales have mainly been to large       clinical/research institutions.
+Siemens launched a CE marked system, the       Biograph mMR [9] in 2010, which has now been installed in 40 academic       hospitals around the world, with numbers increasing.
+Company-sponsored       talks recognise the pioneering work of KCL when discussing the background       to their current technology [10,11].
+The three main multinational medical imaging companies &#8212; Siemens, General       Electric (GE) and Philips &#8212; have all developed, or are in the process of       developing, whole body human simultaneous PET-MR scanners.
+GE has       announced that they will have a system available in early 2014 and Philips       is involved in various R&amp;D projects in this area.
+KCL work is       acknowledged by the manufacturers as the first development of the       technology showing its feasibility (see letters from Siemens and Philips       [12]) and is referenced in a number of company patents and patent       applications.
+For instance, a patent filed by GE on `Exclusion of       compromised PET data during simultaneous PET-MR acquisition,' [13] cites       Garlick et al.
+1997; Marsden et al.
+2002 and Slates et al.
+1999.
+Similarly, numerous recent leading review articles regarding clinical       PET-MR acknowledge KCL's contribution.
+For instance, Herzog et al [15]       acknowledge `the pioneering work of S. Cherry and P. Marsden dealing with       the first simultaneous MR-PET scan.'
+Similarly, Pichler et al.
+[16], when       discussing the idea to combine PET and MRI state that, `Simon Cherry and       Paul Marsden saw the need for PET/MRI in small-animal imaging studies to       add anatomic landmarks with high soft-tissue contrast to the molecular       information delivered by PET.'
+Both Siemens and GE expect significant impact through the use of PET-MR       in oncology and neuropsychiatry.
+Both application areas have double-digit       growth rates (15-25%) with a strong trend towards therapy assessment       (Biotech report 2008).
+In particular, the National Cancer Institute in the       United States is currently standardising PET and MRI procedures for cancer       therapy assessment, and it is projected that by 2015 response monitoring       will grow from 14% to 48% of all PET procedures (Biotech report 2008).
+The future potential of PET-MR is widely acknowledged as evidenced by the       specific EU Framework 7 call in this area [17], which was awarded to a       consortium including KCL.
+Due to the only very recent availability of       human whole body systems, work evaluating the many potential applications       and advantages of PET-MR is only just beginning to emerge, including       clinical utility and advantages obtained from MR-based motion correction       [18,19].

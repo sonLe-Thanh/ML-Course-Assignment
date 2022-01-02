@@ -1,0 +1,51 @@
+     The mathematical models developed by the OR group at Cardiff University       have been applied to a wide range of healthcare services, in a variety of       hospitals, across the UK.
+The impacts directly arising from the research       are highly significant and include:     Health Benefits     The research has been used in a major new trauma centre that opened in       2010, at St George's Hospital in London (a capital investment of &#163;3.6m).
+The models were used to create service level agreements (annual capacity       planning) with commissioners over several years and, importantly, informed       the required patient-flows and resourcing levels for the centre.
+This       enabled patient waiting time to be reduced and better levels of patient       care achieved through improved resource management and greater efficiency.
+The result has been an observed increase in survival rates of 54%.
+Jen       Goddard, Business Analyst at St. George's Hospital, stated, "The research       and tools that Cardiff University provided have been extremely useful to       St George's, enabling us to understand and model our data and use it to       significantly improve patient care and resource management.
+Mortality       rates have fallen as a consequence of the implementation of the Major       Trauma Centre and the Hyper Acute Stroke Unit."
+(5.1)     The models were similarly utilised by a new hyper-acute stroke unit       covering the South London area.
+The new unit and stoke care service were       rated as the best in the country by the National Sentinel Audit 2010       organised by the Royal College of Physicians.
+The outcomes were again       lifesaving; significantly lowering risk-adjusted mortality for stroke       patients to 60%.
+This is verified by data comparing mortality rates pre       and post the implementation of the research (provided by Jen Goddard, St.       George's Hospital).
+(5.1)     Patient care and hospital resources have also been significantly       improved, through the work of the OR team, at a major neurological       rehabilitation hospital in South Wales (Rookwood Hospital, Cardiff).
+Previously the complex scheduling of inpatient physiotherapy sessions was       undertaken manually which was time consuming and amounted to a clinician       spending one day per week assembling the following week's timetable.
+The       research enabled the scheduling process to be automated; the computerised       new system has been implemented since January 2011.
+It produces a vastly       enhanced schedule within minutes, enabling clinicians to devote more time       to assessing patients' needs and delivering medical care.
+Jakko Brouwers,       Senior Service Improvement Programme Manager at the Hospital commented,       "Your research work with our Department of Specialist Physiotherapy and       Rehabilitation at Rookwood Hospital has had a huge impact on how we       utilise our resources.
+...
+The automated computer scheduling creates a       fairer system for patients as it takes into account what treatment the       patient received the previous week."
+(5.2)     The work at Rookwood Hospital also included a detailed queueing analysis       of their patient admission and discharge process, with particular emphasis       on tailoring physiotherapy treatment to the needs of the patient.
+This       optimised the length of stay in the unit and provided improved quality of       life for patients.
+Jakko Brouwers added, "The service modelling work has       been a real asset in that it has opened the eyes of the operational       service manager to the issues regarding patient flow.
+These insights are       now used on a regular basis in waiting list management and admissions       meetings."
+(5.2)     The research has been particularly significant to the Welsh Ambulance       Service Trust (WAST).
+Like all Emergency Medical Services WAST is under       increasing pressure to provide wide geographical coverage and improve       performance to meet Government set response times.
+The work at Cardiff       University has helped WAST by forecasting 999 calls by category of call       and providing valuable evidence to confirm the importance of ambulance       allocations based on patient outcomes for different conditions (using       survival probabilities) as opposed to only those based on hard time       targets (e.g.
+8 minute response).
+This means that extra lives can be       saved.
+Researchers at Cardiff University have quantified the relationship       between overall service performance and changes to durations in each       phase.
+Critically, the findings show that reducing the time of the patient       handover from ambulance to the emergency department at hospitals makes the       biggest impact on overall WAST performance.
+Richard Whitfield, the       Research and Development Manager at WAST stated that "the work is an       extremely relevant contribution to implementing policy and procedural       changes at WAST."
+(5.3)     Financial Benefits     The research entailed modelling the Emergency Unit (EU) at the University       Hospital of Wales (UHW).
+This enabled the hospital to examine the       reconfiguration of services and identify problems in the system.
+Subsequently major changes were implemented, based on the results of the       research, leading to a huge alteration in patient flows in the EU.
+This       meant that the hospital was able to reduce staffing levels and the number       of trolleys by 43%, amounting to a net efficiency gain of approximately       &#163;1.6m.
+Andrew Nelson, Director of Acute Services, Cardiff and Vale       University Health Board, commented, "The modelling work provided by the       Maths school has been the basis of our plans for the current major       re-design and refurbishment of the Accident and Emergency Department at       the University Hospital of Wales.
+This is the second major change       resulting from the work undertaken by the maths school to improve our       knowledge of demand and capacity within the department and how we can best       equip the department to improve performance and overall cost       effectiveness".
+(5.4)     The models were used to evaluate the impact of the South Wales       Development Programme, leading to a &#163;4.2 million investment in system wide       capacity.
+This has allowed Cardiff and Vale University Health Board to       better align resources with the needs of patients.
+Moreover, it has formed       the basis of a successful joint bid with Social Services for a &#163;2.5       million invest-to-save scheme with the Welsh Government to improve       non-emergency transport services for hospital patients.
+(5.4)     Public Engagement     The research has been widely disseminated in the UK and overseas and has       led to a significant level of public engagement.
+Examples of this include       a series of four radio programmes that were aired on BBC Radio Wales       (2010) as part of its weekly programme called `Science Cafe'.
+Seminars       have been given in America at Princeton University, New Jersey; Columbia       University, New York; Baylor University, Texas.
+The audiences comprised of       a mixture of nonspecialists, teachers and students.
+Professor Griffiths       has also spoken at the Cardiff Scientific Society, which seeks to extend       interest in the application of Science to everyday life.
+His latest talk       in October 2012 was entitled "Some Queues I've enjoyed".
+Professor Harper       has also given a wide range of public talks including speaking at the       Cardiff University's Innovation Network event in April 2013.
+This was       attended by 70 delegates, including health care professionals, who scored       the event 4.2 out of a possible 5.
+(5.5)     Outreach activities, where the healthcare modelling research has heavily       featured, have involved over 500 school children.
+Regular sessions are       given, for example, at the Monmouth Science Initiative       (www.monmouth-science.co.uk).
+(5.6) Online resources, concerning       healthcare modelling topics, have also been created for teachers and       students, and are also part of national initiatives such as that by the OR       Society (www.learnaboutor.co.uk).
+(5.7)

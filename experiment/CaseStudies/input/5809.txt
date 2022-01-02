@@ -1,0 +1,33 @@
+     By 2012, the algorithms developed in IPAM based on the fundamental       research described above,       provided a time-resolved estimation of the directed interactions between       brain structures [2, 3].
+In a       preclinical application, analysing data that had been obtained by       Professor Bettina Platt at the       Institute for Medical Sciences (IMS) in Aberdeen, we could clearly       demonstrate in [2, 3 and further       unpublished results] the implications of our novel approach to dementia       research and, potentially to       early diagnosis.
+Transitions between sleep stages (see above), which are       critical in dementia,       could be defined with a much higher temporal precision than before.
+Standard approaches had       been allowing a resolution of around 4 seconds, whereas our new data-based       modelling approach       yields a resolution of typically 5ms.
+Additionally, we demonstrated       through a pilot study that our       theory and the corresponding algorithms outperform standard EEG based       spectral analyses       (unpublished results, [1]).
+Between 2012 and early 2013, the promising findings of our pilot study       led IPAM, under the lead of       Thiel and Schelter, to build the mathematical algorithm       into a software package which was       integrated as part of in an online platform marketed commercially by       BrainMarker BV in May 2013.
+BrainMarker is a Dutch company whose vision is to "provide the gold         standard in mental healthcare         by implementing an easy to use decision support and quality management         system in clinical         practice" [c1].
+They aim to bridge the gap between scientific       knowledge and clinical practice "for all         lines of mental healthcare by implementing quantitative EEG (qEEG)         measurements in a very         user-friendly way into practices.
+This allows a swift knowledge transfer         from the scientific         community into the clinical practice" [c1].
+The software package developed by IPAM fits well into the vision and       mission of BrainMarker.
+Via       our joint collaboration partner Professor Platt, we began to discuss the       potential exploitation of our       algorithm through the BrainMarker Platform in 2012.
+This resulted in a       sustained and fruitful       collaboration between researchers of the IPAM and IMS on the one side, and       the management       and computer engineers of the company BrainMarker on the other.
+Parallel to the development of the software package, extensive       beta-testing of the software was       carried out in applications to clinical data obtained by groups at the IMS       at Aberdeen [2, 3], the       Xi'an Jiaotong University (China), and a Neurologist Practitioner in       Freiburg, Germany.
+In the beta-testing,       our algorithm was applied by the team of medical specialists at X'ian       Jiaotong to study       various cognitive deficits [c2].
+The Director of the Institute of       Biomedical Engineering, Xi'an       Jiaotong University, states "We can confirm that this novel technique         presents a milestone in data-based         modelling and model-based data analysis" and "The new insights we         gained by this         technique that would have been impossible before enabled us to prepare a         manuscript to publish         our results in a high ranked international journal" [c2].
+The       Practitioner in Freiburgh has applied it to       research in Parkinson's disease [c3], and has stated: "Based on my         experience as a neurologist, I         can confirm that the results I have obtained using this unique technique         and looked at so far are         very promising; I truly believe that this technique has the potential to         provide the means for an         early diagnosis of diseases like dementia" [c3].
+Given these facts, BrainMarker decided in early 2013 to offer       practitioners access to the algorithm       developed by IPAM, via their subscription-based online platform programmed       in LabVIEW       (National Instruments, http://uk.ni.com).
+According to the Managing Director of BrainMarker, "the         system has already been used in over 35 practices in the Netherlands,         Germany, and Belgium and         continues to grow.
+Among their users are hospitals and research         institutions that have enabled         them to expand their database of human EEGs in various pathologies"       [c4].
+The revenue created       through the IPAM research is substantial.
+Access to the pay-per-click       software platform of       BrainMarker, of which Thiel and Schelter's algorithm is       one part, "costs &#8364;250 per month       (hardware, software, technical support) and &#8364;5 per measurement for a       clinic" [c4].
+The service provides different environments for researchers and for       practitioners who upload their       EEG files and receive an analysis report of the data.
+The advantage of       this approach is that it       delivers new and sophisticated health-care methods to practitioners       without requiring them to buy       expensive hardware.
+Also any updates to the software, including       improvement of algorithms, are       immediately available to customers.
+It is an ideal platform for an       optimised knowledge transfer       between academia and the health industry.
+The Managing Director of BrainMarker BV considers Aberdeen's contribution       to have been "a very         valuable component of [their] portfolio" and that it adds "considerably         to its functionality" [c4].
+In       summary, the software framework developed by IPAM became in 2013 one of       the key components       in BrainMarker's platform to tackle dementia in Europe.
+Its impact is both       commercial, and will       potentially change procedures carried out by clinical practitioners.
+There       is also strong potential for       growth globally as the relationship with Brainmarker continues.
+BrainMarker anticipates that "[this]         highly competitive online system provides a novel approach to health         care not only in Europe" [c4].
+Other companies have also become aware of the software tool.
+Companies       such as AbbVie       expressed their interest in continuing "the previously started common         efforts on pharmaco-EEG         analysis together with Aberdeen University".
+This particularly       includes our novel data-based       modelling approaches [c5].

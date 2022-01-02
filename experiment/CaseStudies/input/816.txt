@@ -1,0 +1,25 @@
+     The impact of the research has been to aid the effectiveness and       efficiency of global oil exploration, especially in frontier continental       margin areas.
+Oil companies have used the improved satellite gravity data       sets [4, 6] to perform many rapid, low cost geological evaluations       of marine areas.
+The construction of the GCMGS data set (2004) was initially sponsored by       ENI, Shell, Statoil and Total, but the reach has been subsequently       extended by Getech licensing the product in part or in full to most of the       world's leading oil companies.
+A further enhanced product, the Trident       data set, released in 2008 has maintained the reach and market leadership.
+Letters from the initial sponsors [A1, A2], [B], [C],         [D] attest to the widespread use of the derived data sets, whilst       the added value of the Trident data set is noted in letters [A1, A2],       [C] and [D].
+Exploring for hydrocarbons offshore is an expensive and risky business       and hence oil companies use a variety of data sets in the process (see [A1]).
+Gravity data can be used as a tool to map and model target geological       structures beneath the seabed.
+Access to spatial data sets, such as       satellite gravity, can have a massive impact on targeting potential oil       structures which can be followed up by more detailed and expensive       exploration methods such as 3D seismic and CSEM prior to drilling.
+Satellite-derived gravity data sets were available in the mid-1990s.
+However, take-up of these early products as a commercial exploration tool       was modest due to their limited accuracy, resolution and reliability.
+The       improvements in resolution that were made through this research led to a       step change in the use of satellite altimeter data to grade frontier       offshore areas for exploration.
+Satellite gravity data are now widely used       throughout the offshore oil industry, and Getech is a major supplier.
+Although gravity data measured on a ship or on the seabed can provide       better accuracy and resolution than satellite gravity, they are relatively       expensive and time consuming to acquire - and speed is a major factor in       exploration as it is competitive and often needs to be carried out to       specific timetables.
+Satellite data, on the other hand, are valuable,       because they are already available for any offshore area and enable rapid       assessment of new exploration areas.
+In consequence, satellite gravity       data continue to be used by oil and gas companies for hydrocarbon       exploration &#8212; especially in frontier areas or at regional scales (see [A1]).
+The economic value of the underpinning research can be measured in terms       of the value of the Getech marine gravity data to their customers; this is       related to the value of the data for each offshore exploration and the       number of times the data have been employed.
+According to Shell [A1],       cost savings afforded by the use of satellite marine gravity data are       related to the improvement in quality (accuracy, resolution and       reliability) over alternative products, and they estimate that a 10%       improvement in the reliability of marine gravity data yields at least       US$2.5M increase in the value of a single project.
+Two other Getech       customers confirm that the use of Getech Trident data set has indeed led       to a 10% improvement in the reliability of marine gravity data for       prospecting [B, C].
+Four Getech customers [A1, A2, B, C,       and D] confirm that the Getech marine gravity data have been used       routinely for frontier exploration in offshore areas, and three of these       customers [A2, B, C] state that the Trident data set has been used       in 3, 35-40, and 12 exploration projects per year, respectively.
+In addition to reducing commercial risk, the increased use of satellite       data has the added advantage of mitigating other risks associated with       exploration (see [A1]).
+Limiting risks to personnel and the       environment is very important to exploration companies; thus, technologies       which do not involve people working on the ground have important       advantages.
+The underpinning research has of course also been of economic value to       Getech itself [E]; the improved gravity anomaly data have       benefited the company through income and through reputational gain.
+Getech       received &#163;1.2M between 2002 and 2004 from six leading oil companies for       their initial marine gravity data set, helping enable the company to be       floated in 2005.
+Since then, and during the REF period, Getech has       licensed updated versions of the gravity data sets to sponsors, developed       as a consequence of technological improvements derived from the       underpinning research.
+The long-standing collaboration between Getech and       the University of Leeds has therefore maintained the economic impact and       reach of the underpinning research.

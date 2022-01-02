@@ -1,0 +1,43 @@
+     Cardiff University's contact with HP originated in 2007.
+Following the       research, the algorithms were subjected to extensive proof-of-concept       testing, in the Production Division in HP, where they were shown to       significantly improve the security of printing and network environments in       their prototype and pre-production printers and services.
+As a result of       this internal evaluation, the task of upgrading the key security features       in over 10 million electronic devices was initiated by HP in March 2013       (5.1).
+The algorithms are implemented in either the firmware or software       of devices, depending on their computing power.
+Unusual behaviour detection and information extraction in streams of       short documents and files (emails, news, tweets, log files, messages,       etc.)
+are important problems in security applications and failure to       adequately protect printing and network environments has the potential to       adversely affect millions of users.
+The applications &#8212; which range from       automatic document classification to information extraction and       information visualisation, from automatic unusual behaviour detection to       security policy enforcement &#8212; all rely on automatically extracted features       (in data streams) or keywords (in documents) to perform a higher level of       analysis.
+Of paramount importance in these applications is the quality       (accuracy) and speed (efficiency) of keyword extraction algorithms.
+The       algorithms developed by Cardiff have been shown by HP to satisfy these       criteria.
+Print Security:     The threat to printing and imaging devices and data has increased over       the last decade as a consequence of more sophisticated threats,       increasingly mobile workforces and changes in industry regulations.
+There       are a variety of means that data can be compromised in this fashion.
+These       include hardware theft which could expose documents sent to stolen       printers and multi-function printers for later printing, or unauthorized       changes to unprotected settings that will enable someone to reroute print       jobs and potentially access network and password information.
+Moreover       so-called network sniffers can obtain data that is transmitted between a       PC and a printer, revealing the print job.
+Similarly, unsecured cloud       connectivity could give unauthorized users access to the data at any time,       in any place.
+Data that is compromised can result in the loss of millions       of pounds due to employee and customer identity theft, private and       corporate lawsuits, industry violations or government fines.
+Subsequently,       means to combat unauthorised and illegal practises, whist enabling       innocent transactions or normal usage, are essential.
+The new approach to       rapid change detection in documents and text summarization and       classification developed at Cardiff, and implemented in electronic devices       by HP, identifies documents that are confidential and prevents them from       being printed by unauthorised users (5.1).
+Mitigating Risks to Data Security:     Cardiff University's research has significantly improved the security of       printing and network environments.
+The sophisticated and efficient       algorithms for data mining, which were developed for HP, recognise normal       and abnormal patterns of data.
+Developments such as the new approach to       rapid change detection in data streams and log files, applied to the       problem of feature extraction, provide extremely fast and effective       techniques for the identification of meaningful features by parameter-free       methods.
+Likewise, the approach to an extractive summarization, by       modelling data as small-world networks, can be applied to the problem of       extracting the most important structures from data.
+The algorithms are       essentially valid safeguards for all data transmitted via printing and       network applications.
+The feature extractor developed by Cardiff       University has undergone extensive internal evaluation by HP and found to       be vastly superior to existing techniques (5.1, 5.2).
+In the evaluation HP       found that the feature extractor developed by Cardiff considerably       outperformed other feature extractors in current use.
+In quantitative       terms, the confidentiality accuracy was increased from 60% to 83%, thereby       reducing the error rate by more than 50% (5.1).
+The ability of the       extractor to detect unusual behaviour means that dangerous or unauthorised       behaviour can be prevented and therefore it provides enormous security       benefits for HP's extensive client base &#8212; this includes customers in       nearly every country in the world.
+HP services corporations such as       Barclays Bank, Fords and a plethora of multinational organisations in the       healthcare, life sciences and pharmaceutical industries.
+Data privacy is       paramount to these businesses; the research has enabled information       sharing in a markedly more secure IT environment.
+Economic Gain:     HP has made it clear that it cannot divulge quantitative information       concerning economic gain from this research for reasons of commercial       sensitivity (in the context of sales) and state security (in the context       of consultancy).
+Sales     The research has enabled HP to retain its position as the market leader       in the information technology industry, a fact officially recognised since       2007.
+In 2012 HP had the biggest share of the global market, 16%.
+The       company states, as part of its corporate aims, "We lead in the marketplace       by developing and delivering useful and innovative products, services and       solutions."
+Instructively, the algorithms and resulting features       implemented in HP products are novel developments that outperform existing       attempts by competitors to address data security risks.
+They enable a       dynamic, as opposed to a static, response to protecting data.
+Dr. Steven       Simske, Director and Chief Technologist for Security Printing and Imaging       Engineering, commented that "the algorithms developed by Cardiff       University are novel to data mining and are extremely valuable to our       organisation.
+They enable us to successfully compete within the industry       and drive technology forward to meet the evolving needs of our clients.
+Without the research produced by Alex Balinsky our achievements in this       area would not have been possible."
+(5.1).
+Consultancy     The algorithms have also been used to progress HP's security policy in       their security consultancy practice.
+This guarantees impact for their high       end clients, including security services and law enforcement agencies       across the globe.
+Dr. Simske continues to state that "the research has       been integral to the development of our Big Data, Analytics and Security       themes.
+It is both unprecedented and highly creative work that is fuelling       the development of HP's entire security framework."
+(5.1)

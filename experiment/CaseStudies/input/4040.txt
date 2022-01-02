@@ -1,0 +1,29 @@
+     The key impact is through the deployment of the optical communication       system in many countries,       for long distance communications, enabling internet traffic and associate       commercial and individual       activity.
+The system, developed from the research at Aston, currently       (2013) employs over 100       people in its development and sales/support and has annual sales in the       region of $100M.
+The       impacts are therefore commercial for the company, its employees       and internet users across       much of the world, ie businesses, organisations and the public at       large.
+The development of the impacts achieved later, were initiated when       Marconi, a       telecommunications company, approached the Aston team to lead the       commercial development of       a long distance, high capacity optical communication system based on their       research.
+As a       consequence of this approach, in mid-2000, Doran, Forysiak and four of the       post-doctoral research       assistants left Aston to start a new unit named Solstis within Marconi       [5.1], with Doran as Chief       Technology Officer.
+Extensive funding (several &#163;10s millions) was provided       by the company.
+Between 2000 and 2003, the team grew to about 80 staff, with a core       complement of 15 photonics       engineers based on and led by the original Aston team.
+Field trials at 5,745 km were reported at Optical Fiber         Communications Conference, 2003.
+The first       version of the system was deployed across Australia in early 2003 for       Amcom IP1 (Australia) Pty       Ltd.
+This system was then created, tested and installed without       regeneration across almost       3000km, from Adelaide to Perth by the team with the core leadership       provided by the original       Aston team.
+The soliton-based technology provided a cost-effective       solution for long-haul networks       in two key ways: first it removed the need for repeaters to convert and       retransmit electronic signals       over distance for clarity; and second it enabled quick and easy capacity       upgrades.
+The product became the world leader in the field and when Marconi was       taken over by Ericsson in       2006, it was incorporated into the product portfolio of Ericsson under the       name Marconi Multihaul       (MHL) 3000 [5.2].
+After the initial demonstration in Australia, the system       was sold and installed       commercially for implementation and operation worldwide [5.3].
+Impact is therefore claimed since 2008, in the sales of systems       installed across the world and the       consequent employment of the staff required to develop and sell and       install the system.
+But the       impact of the system is greater than that since its role is to form the backbone         of the internet and       thus the impact could be said to extend to all who use the internet         where the system is         deployed [5.4].
+The distance and capacity achieved by this system       are the key features which       have satisfied the ever growing internet traffic.
+There is a large system in the UK now operated (and currently being       upgraded) by Vodafone       bought from Cable and Wireless in April 2012 as a major part of a $1Bn       acquisition, providing       meshed connectivity between ~30 major PoPs (Points of Presence), spanning       more than 20,500km       [5.5].
+There are systems throughout Europe with operators such as Deutsche       Telekom, Telefonica,       Vodafone, Telecom Italia, and TeliaSonera.
+The Telstra inter-capital and       national networks in       Australia are dominated by this system.
+The networks mentioned above have       all been installed or       upgraded during the assessment period [5.6].
+To date (2012/13) Ericsson has sold over 17,000 network elements of this       system (an element       would typically compose of bi-directional amplification and dispersion       compensation) with total       sales of approaching $1Bn.
+It is estimated that "around two thirds of         sales of MHL have occurred         during the impact period" [5.7]; this would amount to &gt;$600m.
+The       system has been deployed and       is operated in 50 countries and with over 100 different buyers.
+Current       business generated       amounts to around $100M a year and has been at that level since 2008.
+Ericsson has ~5% of the       world market for optical hardware valued at ~$15Bn a year.
+This system       remains a key product for       the company representing about 15% of their total optical hardware sales.
+[5.7].
+It is estimated that       over 100 people are employed currently (2013) on this system worldwide in       the development,       testing, installation and support.
+Several of the founders from Aston are       still employed by Ericsson       (and are still working on this product), two in senior positions in       worldwide development and       deployment; others are involved in either the technology or further       research.

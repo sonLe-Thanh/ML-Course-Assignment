@@ -1,0 +1,43 @@
+     The key beneficiaries of the research are the worldwide volcano       observatory community, and thus the populations protected through their       monitoring efforts.
+In addition, the team led by Oppenheimer has       played an active role in public engagement and science education.
+The       impact falls into three categories, as follows:     (i) Provision of training and tools for operational volcano           monitoring: From 2008 (see 3b, NERC) Tsanev has developed       hardware and software for automated measurements of SO2       emissions using UV scanners.
+This involved design of improved scanning       systems, environmental sealing, and firmware control of the       opto-mechanics.
+During the REF period, six scanners were delivered to the       Montserrat Volcano Observatory (2011; Plate 1), two to INGV-Catania (2011,       funded by the Italian Department of Civil Protection), one to the       Icelandic Meteorological Office (2012) and one to the Center of       Volcanology and Geological Hazard Mitigation (CVGHM), Indonesia (2013).
+The team also provided equipment to the National Seismological Network,       University of Costa Rica in 2008 and the Merapi Volcano Observatory       (Indonesia) in 2010.
+The research team has also provided advanced training       in the application of UV spectroscopy to measurement of volcanic SO2       emissions, and has supported the wider community via distribution of open       software.
+This equipment is used in installations for operational SO2       flux observations, or for rapid response during emerging episodes of       volcanic unrest.
+The Co-Leader of Gas Geochemistry Research and Monitoring       at INGV-Catania wrote that UV scanners designed and built by the Cambridge       team are "fully integrated in the scanner networks of Mt.
+Etna and         Vulcano, successfully providing automatic real-time SO2       flux data.
+At Mt.
+Etna, notable is the contribution that this equipment         has provided during the repeated episodes of volcanic unrest occurred         since 2011... 38 short-lived but powerful explosive events have         occurred, and the network has regularly highlighted its ability in the         automatic tracking of SO2 flux.
+This has         provided fundamental insight into volcanological processes and for         operational volcano monitoring and surveillance".
+(see 5(i).)
+The Staff Geochemist at the Hawaiian Volcano Observatory writes: "We         found the importance of the new spectrometer system demonstrated         convincingly at Kilauea in early 2008 as the volcanic system was         building to a summit eruption.
+Through the first two months of 2008 the         FLYSPEC told us that emissions from Kilauea were higher than we'd seen         them in over 20 years.
+The high SO2 emissions         quantified by the FLYSPEC led the National Park to close the south         portion of Crater Rim Drive in February to protect visitor safety.
+Our         ability to rapidly measure SO2 and rapidly         report the values had a clear and positive effect on our knowledge of         the gas hazards..." (see 5(ii))  Plate 1.
+Testing UV scanners on Montserrat      (ii) Support during volcanic emergencies: The research       team has collaborated with national agencies to assist with SO2       measurements during volcanic crises, notably at Merapi volcano (Java) in       2010 (Plate 2).
+This provides an example of how training, provision of       equipment and on-the-ground support combined to reinforce efforts to       assess hazards of one of the largest eruptions of the past decade, and the       deadliest since 1985.
+Plate 2.
+Portable scanner in use during Merapi eruption      The Indonesian institutions responsible for monitoring Merapi volcano are       the CVGHM and the BPPTK (Volcanological Research and Technology       Development Centre).
+The research team's collaboration with these       institutions began in April 2010 with training for six members of Merapi       Volcano Observatory's staff.
+This covered theory and practice in data       acquisition and processing.
+Hardware and software to perform gas       monitoring was donated to the Observatory.
+In October 2010, Merapi volcano       showed increasing signs of unrest.
+Following a request from CVGHM, Boichu       (PDRA on MIAVITA; see 3(b)) travelled promptly to Indonesia to assist with       gas surveillance and data evaluation and interpretation.
+The ground       observations provided critical information, especially before Merapi's       opening explosion on 26 October, by demonstrating that the volcano's gas       output was significantly higher than seen in the lead up to previous       eruptions.
+This suggested that a large body of magma was intruding into       the volcano, and that should it reach the surface, the ensuing eruption       would likely exceed the size of preceding events.
+The 2010 eruption proved       to be Merapi's largest in over a century.
+Decision making, especially concerning the establishment of exclusion       zones on the volcano, was based firmly on evidence from SO2       observations and geophysical and satellite radar data.
+The Head of       Division for Research and Technology Development on Geological Hazard in       Indonesia wrote that: "Connecting to [Oppenheimer's]         work with UV DOAS for SO2 monitoring in         Merapi, I would like to say ..: 1.
+Monitoring SO2       by using UV DOAS in the year of 2010 was very important, instead of         COSPEC instrument which have not worked since the eruption 2006.
+2.
+...When Merapi began unrest, all monitoring data increased clearly.
+We         need[ed] something [like] a decisive parameter to 'justify' my         interpretation that Merapi will erupt explosively.
+And I found [this in]         ... UV DOAS monitoring" (see 5(iii)).
+The crisis escalated rapidly       and there were 367 fatalities.
+Nevertheless, over 400,000 people       evacuated, and it has been estimated that "because of the effective         warnings by CVGHM and the response by BNPB (the Indonesian national       emergency response agency) and their provincial and local         counterparts, 10,000 to 20,000 lives were saved by evacuations"       (based on BNPB reports, see 5(iv)).
+(iii) Public engagement: Oppenheimer's research efforts       have been publicised in several documentaries.
+He was closely involved a       2009 film for Teachers TV (a government-funded broadcasting service).
+The       film, Journey to Etna, formed part of the series How Science         Works (see 5(v)), and featured demonstrations of real-time       measurement of SO2 flux.
+Over 700 schools used the videos and       associated materials in the classroom.

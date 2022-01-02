@@ -1,0 +1,41 @@
+     Simulations using High Performance Computers (HPC) are       established as the third mode of scientific investigation after experiment       and theory and it is inevitable that their impact will grow.
+HPC systems       are best viewed as tightly interconnected collections of individual       computers.
+Therefore, two main factors affect their overall performance:       the individual CPU power and the communication throughput       between these CPUs.
+Understanding both aspects is crucial for designing,       developing and testing HPC platforms.
+In order to rank the performance of HPC machines, benchmarking software       is used.
+By far the most popular is Linpack which is the only       performance tool used in the universally accepted list of the world's       fastest computers, www.top500.org.
+However, Linpack measures only computational speed (via dense matrix       multiplications) and it "does not stress local bandwidth" and "does         not stress the network" according to Jack Dongarra, who first       introduced this benchmark in the 1970's.
+Thom Dunning, director of the       National Center for Supercomputing Applications (University of Illinois at       Urbana-Champaign), agrees with this sentiment: "almost anyone who           knows about it will deride its utility".
+The unique property of our BSMBench code - the capacity to vary         computational and communication aspects simply by adjusting the       physical parameters of the theories it simulates - makes it an exemplary       alternative benchmark tool.
+In 2011, Lucini realised the important impact       that his software would have in the design and appraisal of HPC and       therefore began packaging the code into a benchmark tool, BSMBench.
+He utilised his IBM contacts to initiate a formal collaboration with         IBM to implement this work.
+This project was finalised by the internship         of Swansea PhD student, Ed Bennett, in the IBM Research Center       in Cambridge (MA) (from 25/6/11 to 17/8/11) formalised under a Joint Study       Agreement between Swansea University and IBM [C1].
+Lucini had overall       design lead of the benchmark tool and remains the maintainer of the code.
+This project resulted in a conference presentation, co-authored by Lucini       and Dr Kirk Jordan of IBM Research at the industrial-facing       International Supercomputing Conference, ISC12 [C2].
+As a result of this commercial         collaboration, BSMBench was released as an open source project       in June 2012, and can be downloaded free of charge from www.bsmbench.org.
+The code has been designed to run easily on a variety of systems, from       small symmetric multi-processor machines to the most powerful       supercomputers and it has been tested on systems from 64 to 8192 cores       with no degradation in performance.
+IBM has been using BSMBench since August 2011 to inform the design       of its supercomputers and to promote their cutting-edge BlueGene/Q       systems.
+These are currently some of the planet's most powerful HPC       architectures: they occupy four of the top ten places in the June 2013       world ranking (www.top500.org).
+The       BSMBench product has had significant impact on IBM and,       importantly, helped track some errors in their multi-million dollar         BlueGene/Q systems.
+From the IBM HPC Associate Program Director       [C3]:     I write to acknowledge the impact that BSMBench, the benchmarking tool         derived from your research on Strongly Interacting Dynamics beyond the         Standard Model, has had on the evaluation of our BlueGene/Q         architecture.
+While the www.top500.org       ranking of these systems is based on the Linpack benchmarking tool, the       capabilities of our architecture were confirmed by the more           stringent BSMBench tests.
+BSMBench establishes a new         concept in benchmarking High Performance Computing systems.
+We           have used it to test our recent IBM BlueGene/Q systems prior to their           commercialization through the work Ed Bennett did, and we         have found the results very informative helping to identify some issues         with the compiler and support software.
+BSMBench is being developed and commercialised by BSMbench Ltd, a       start-up company founded in 2012 specifically created to promote,       market, and utilise the BSMBench code suite.
+Lucini was a founder and is       Chief Technical Officer and a shareholder.
+This company has won significant         EU convergence funding worth &#163;180k to advance and refine the       software [C4].
+Currently, it is developing general-purpose parallel       software based on BSMBench that can be used in HPC applications in sectors       such as finance, aerospace engineering, weather forecasting and oil       extraction.
+BSMbench has recorded downloads of its software from companies       such as Fujitsu, Research in Motion (Blackberry), Jaguar Land Rover,         KLM and Microsoft [C5].
+From the BSMbench Company Director [C5]:     "this tool has been a crucial enabler for us and it is thanks to it         and to its open source nature that we were able to set up our business,         BSMbench Ltd. Basing its activity on BSMBench and on further         developments of it, our company is constantly growing its business and         attracting a larger base of customers."
+Since the summer of 2012, HPC Wales - a &#163;40m national computing       centre - has used BSMBench to benchmark and monitor the performance of its       systems [C6].
+In April 2013, BSMBench was used by Fujitsu (a major       IT systems company with annual turnover of &#163;1.8bn) to validate and       benchmark their computers at HPC Wales's latest Hub prior to its launch       [C7].
+BSMBench has also been used by Transtec, a European HPC       company with annual revenues of &#8364;45m, to benchmark their latest commercial       products [C8].
+Furthermore, Lucini was asked to perform monitoring of Fujitsu's         Sandybridge clusters using BSMBench [C9].
+The Chief Executive of HPC       Wales said [C6]:     "BSMBench has been used extensively on our systems, to monitor their         performance and detect potential problems at an early stage.
+In all our         applications, BSMBench has proved to be robust and reliable, and has         been an invaluable asset to enable us to provide a high standard of         service to our customers."
+The software has attracted the interest of the Open Source community.
+An article reviewing its features and describing its use in an industrial       environment was published in Linux Format,       the UK's best selling Linux magazine with a monthly circulation of 24,000       [C10], and in issue 124 of the Italian magazine Linux Pro [C11].
+From the editor of Linux Format [C10]:     "I write to acknowledge the impact that BSMBench has had for our         company.
+We carefully select the contributions we include in our         publications, for which we consider the packages that are of high         interest for our readers.
+Following this guideline, a 4-page tutorial on         using BSMBench was included in Linux Format issue 163 and the software         package itself was part of the bonus DVD in issue 164.
+Moreover, we have         been using BSMBench for reviews of hardware systems published in         subsequent issues of our magazine."

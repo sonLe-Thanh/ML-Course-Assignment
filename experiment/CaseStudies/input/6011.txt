@@ -1,0 +1,39 @@
+     Pathways to impact.
+We employed the following three       pathways:     - Contribution to standards.
+Jointly with Rinicom, the University       made specific, significant and traceable contributions to IEEE 802.16m       standardisation, aimed at adoption of research outcomes as a global       technical standard.
+- Collaborative research.
+All of the underpinning research was       conducted in collaboration with Rinicom Ltd, as sponsor and immediate       beneficiary.
+- Engagement with user communities.
+The research involved a       real-world network deployment in Slavutych/Chernobyl (population 25,000).
+Areas of impact.
+The impact is wide-reaching and       significant, comprising both economic and societal aspects; and it is       evident at local, international and global scales:     1) Global impact through the adoption of enhanced technical standards.
+The ITU (International Telecommunication Union) is the United Nation's       specialized agency responsible for the allocation of the global radio       spectrum and development of technical standards.
+In Jan. 2012, ITU       determined that WirelessMAN and LTE should be accorded the official       designation of IMT- Advanced, defining next-generation global wireless       broadband communications beyond 3G.
+Our research had direct impact on both       WirelessMAN and LTE, as detailed in a letter provided by the Certification       Working Group (CWG) of the WiMAX Forum [A].
+This includes adoption of the       technical content of the proposals submitted by Markarian and Rinicom       first in the WirelessMAN standard IEEE802.16.1-2012, and subsequently in       the LTE specification (3GPP TS 36.216, "Evolved Universal Terrestrial       Radio Access (E-UTRA); Physical layer for relaying operation") [A].
+Reach: The reach is global, benefitting the wireless       broadband business sector (vendors and operators), and ultimately users of       next generation wireless networks on a global scale.
+Vendors have to       implement techniques that originate from our collaborative research with       Rinicom in order to comply with the standards.
+Within the REF period, the       techniques have already been implemented in chipsets produced by Comtech       AHA, USA (AHA-4501 ASIC); Runcom, Israel (RNA300 ASIC); and Sequance,       France (SQN1220 SOC).
+Significance: The significance       of the contribution is evident in its selection for both standards, and is       also highlighted by the CWG in their corroborating statement: "...         presents an important and significant technical advancement to the         mobile broad band technology and systems as it introduces an efficient         method for the operation of transparent and non-transparent Relay         stations to improve capacity and coverage of a serviced cell".
+[A]     2) Impact on business performance through the improvement of a         product.
+Rinicom markets RiniMAX as a product for video surveillance       over point-to-multi-point systems that utilise WiMAX compliant radio       access.
+The cross-layer solution developed by Markarian's research group       led to a new version of the product, "RiniMAX R8000", which launched in       September 2009, replacing previous versions.
+As a result of the research,       the improved product is able to support simultaneous transmission of       multiple HD video streams over WiMAX.
+Reach: The       primary beneficiary is Rinicom, i.e.
+a local SME, but the product has       international reach; it has already been deployed for mobile metropolitan       area wireless video surveillance in the UK, Germany, Malaysia, Russia and       Ukraine.
+Significance: The impact on Rinicom's       business performance is highly significant, as evidenced by key indicators       (see Table).
+Turnover on RiniMAX grew by 148% over the three years       following the launch of the improved product.
+The product accounts for       half of the company's total turnover, which grew by 143% in the same       timeframe.
+The number of full-time employees rose from 5 to 15 [B].
+2008           2009           2010           2011           2012                             Turnover on RiniMAX           &#163;182,000           &#163;398,000           &#163;671,000           &#163;723,000           &#163;987,000                             Total turnover of Rinicom           &#163;577,000           &#163;771,000           &#163;1,370,000           &#163;1,719,000           &#163;1,871,000                             Full-time UK employees           4           5           10           12           15                           The research impact on Rinicom's business culminated in further impact in       April 2013, when the company received a Queen's Award for           Enterprise in 2013, one of the most prestigious accolades for       businesses in the UK, in recognition of the company's achievements [C].
+3) Impact on community regeneration.
+The UK Government initiated       the development of a city- wide wireless network for Slavutych/Chernobyl       in a programme to address the "Social and Economic Consequences of         Nuclear Power Plant Closure", and this was delivered by Lancaster.
+Our research team developed the network specification, oversaw the       deployment on site and monitored the network in the initial 3 months of       operation, for optimisation and observation to inform the research.
+The       deployment culminated in delivery of the "Town Information Network" to the       community, formally launched on 26 March 2009.
+Reach:       The primary beneficiary is the municipality of Slavutych and its       residents (population 25,000), who are provided with reliable Internet       connectivity.
+The network covers the entire town and has complete reach to       its business sector and residents.
+Significance: The       network has had a transformative impact on the community, as economic       growth had previously been hampered by a lack of modern and reliable       telecommunications, especially internet connectivity.
+The Slavutych       Business Development Agency reports that new information services led to       the creation of 40 new jobs, and a 93.4% increase in the number of users       of Internet services [D].
+A secondary beneficiary is the UK       Government, as our network deployment led to the completion of the       above-mentioned government programme (see the Government's 2008 report on       Global Threat Reduction activities [E], p.42]).
+Minister Mike O'Brian       launched the network in a live telecast connecting Whitehall with       Slavutych over the newly-established infrastructure, followed by a live       telecast connecting pupils of the Slavutych Lyceum with pupils of Central       Lancaster High School, highlighting the societal significance of the       project.
+The Government's press release highlighted the "culmination of       advanced technology transfer collaboration" as well as the "extensive       support from a team spearheaded by Lancaster University" [F].

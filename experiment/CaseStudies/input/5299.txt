@@ -1,0 +1,37 @@
+     Mayne's pioneering research in robust MPC for linear and nonlinear       systems made the MPC approach to controlling plants viable in practical,       industrial applications.
+The impact of his work on industry can be       quantified from two main vantage points: technical and economic.
+The       technology relying on linear and nonlinear MPC is used for improving       process performance, environmental impact and reliable operation.
+The impact of Mayne's MPC research includes a number of industrial cases       of success.
+In the following five success stories in two multinational       companies, Honeywell and ABB, nonlinear MPC was the essential (or       fundamental) component.
+In addition, direct reference to the company       pioneering the introduction of MPC in the specific sector during the       current REF period is made.
+&#8226; Honeywell &#8212; The impact of Mayne's research to Honeywell's       advanced control technology is evidenced by their testimony [E1]:     "....
+Professor Mayne has introduced several significant advances in         the area, especially in the extension of MPC to nonlinear systems."
+They also stated that Professor Mayne's contributions in nonlinear MPC "...         has had the greatest impact on (our) industrial practice."
+Honeywell specifically cited three areas of their operations in which       Mayne's MPC research work has been applied [E1]:     1) Ethylene production [E1, E2]: Ethylene is one of the       largest-volume industrial bulk commodity in the world.
+The majority of       ethylene is used in the production of ethylene oxide, ethylene dichloride,       ethyl-benzene, and a variety of plastics ranging from plastic food wrap to       impact-absorbing dashboards inside cars.
+Honeywell assisted Basell       Polyolefins GmbH, the world's largest producer of polypropylene (PP) and       advanced polyolefins products, in the implementation of nonlinear MPC       solutions to maximize profits from their ethylene plant.
+This       implementation has resulted, starting from 2008, in these key benefits: a)       substantial economic benefits, including ".. millions of dollars from         increase production annually" [E1]; b) improved quality control on       key units as a result of reduced control-variable standard deviations       (including a 52% reduction in standard deviation of top quality on the       PP-Splitter and 58% reduction in standard deviation of bottoms quality on       the PP-Splitter) [E2]; c) increased uptime: Basell has achieved an       Advanced Process Control online time in excess of 90% [E2].
+2) Power plants [E1, E3]: Fuel costs, energy conversion       efficiency, and environmental impacts of fossil-fuelled plants have become       priorities in both developed and developing countries.
+Since 2008, the       Honeywell MPC tool has been particularly effective in the operation of       power plants [E1].
+As a significant example, the deployment of a MPC-       based tool in the JinShan power plant (China) has enabled Sinopec to       increase the boiler efficiency by 0.5%, to increase the operating steam       temperature by 2.8&#176;C and to improve stability of key combustion process       variables.
+In addition, the air pollutant emissions from the fuel and       limestone consumption have been decreased to comply with environmental       standards in the region.
+The reductions in coal and coke consumption are       500 tons and 1,700 tons per annum.
+[E3]     3) Automotive Powertrains [E4]: Automotive engines are highly       nonlinear plants with significant model uncertainty due to production       variability and ageing.
+At the same time the control must satisfy both       input and output constraints.
+Honeywell developed a fully functional       nonlinear MPC-based controller that can be deployed on an engine in 2-3       weeks of engine test time, and with superior performance, as contrasted       with the performance achieved via several months required for traditional       techniques [E4].
+Based on this technology, they have established a new       business division based around their OnRAMP design suite for automotive       powertrains (http://www.honeywellonramp.com).
+&#8226; ABB &#8212; ABB is another company where the successes of MPC for       industrial applications are amply demonstrated [E5].
+Based on their       cpmPlus Expert Optimizer, an advanced process optimization product, they       have successfully used MPC in a number of manufacturing systems.
+Two       examples are cited [E5]:     4) Cement Manufacturing [E5, E6]: The cement industry of the 21st       century is confronted with disparate goals that at first glance seem to       conflict.
+For example, there is enormous pressure to increase profit and       margins, while at the same time there is considerable public interest in       the sustainable and environmentally friendly use of natural resources.
+In       other words, plant operators find themselves in a situation where they       need to react fast and optimally to continuously changing conditions while       still meeting various and probably conflicting objectives.
+MPC-based       feedback operates the plants to their optimal economic performance within       the technological, environmental, and contractual constraints.
+ABB has       installed MPC on-line optimizers in the Untervaz material blending plant       (Switzerland).
+Starting from 2008, the benefits achieved by the       installation are reduction by 20% of raw mix quality variability and       reduced kiln process variability.
+The nonlinear MPC-based optimizer has       been also installed in the Holcim's L&#228;gerdorf precalciner for temperature       control (Germany), and Buzzi's Guidonis cements grinding system (Italy).
+5) Coal-Fired Power Plants [E7]: Renewable energy sources have       pushed conventional power plants to be more flexible and efficient.
+This       has led to coal-fired power plants needing to have efficient boiler       start-up mechanisms.
+ABB has successfully developed, commercialised and       deployed numerous nonlinear model-predictive optimization solutions for       boiler start-up in power plants [E7].
+The complex dynamics of the boiler       start-up mechanism are described by a nonlinear model subject to numerous       constraints on energy usage and thermal stress.
+The ABB solution based on       nonlinear MPC implementation has successfully shown to be able to solve       the boiler start-up problem nearly optimally.
+On average, the energy       savings per start-up are around 15%, while starting up is much faster than       with standard procedures [E5].

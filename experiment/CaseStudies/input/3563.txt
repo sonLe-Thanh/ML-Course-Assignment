@@ -1,0 +1,17 @@
+     Nature of the Impact:     The dynamic inversion control law developed by Sasane and his co-authors       underpins an invention used and patented by Boeing in May 2012 [A] to       design flight control systems (Patent no.
+US 8, 185,255 B2) [B].
+This       invention overcomes a challenge in newer aircraft which are designed with       sophisticated flight control systems to achieve greater agility (in the       case of military aircraft) or improved fuel efficiency (in commercial and       private aircraft) and need advanced control laws to maximize their       performance.
+The in-flight control and manoeuvring of aerodynamic vehicles, such as       aircraft, is accomplished by positioning the aircraft's control surfaces,       the ailerons on the wings for example, to modify the airfb02ow across them       to affect an aerodynamic response from the aircraft.
+The control surfaces,       along with other force and moment producing devices, are referred to as       "control effectors".
+New aircraft designs include an increasing number of control effectors,       to improve fuel efficiency and increase fb02ight safety.
+Advanced control       laws are needed to make use of the larger range of control effectors.
+The       fb02ight control system must allocate the execution of commands among       several control effectors.
+The allocation is determined by the type of       action commanded, the fb02ight conditions and the known responses of the       aircraft.
+The previous generation of fb02ight control systems, however,       used control allocation algorithms which assume linearity of the control       effector effects, and fail to account for the possibility of interactions       between control effectors.
+The US patent invention overcomes this problem by using as its foundation       the dynamic inversion control law developed by Sasane, Hovakimyan and       Lavretsky [C].
+This formulates a solution to the nonlinear problem       mentioned above by using an approximate dynamic inversion based on       time-scale principles.
+The US patent covers a new method for the allocation of control authority       in real time among several control effectors of a controllable vehicle (in       particular an aircraft) in execution of a commanded manoeuvre.
+The       allocation takes account of possible nonlinear effects which those control       effectors may have on the vehicle and on each other in affecting such a       manoeuvre.
+Wider Implications: The invention is applicable to any air, space,       sea, under-sea or ground vehicle whose dynamics are controlled via a       selected set of control effectors (Column 1, first paragraph, of [A]).
+The       results can include improved passenger safety and increased fuel       efficiency (and hence less environmental damage).
+The reach of the       invention is therefore considerable.

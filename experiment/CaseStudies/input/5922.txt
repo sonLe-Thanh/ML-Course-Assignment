@@ -1,0 +1,34 @@
+     The ADS has transformed how archaeological research is communicated in       the UK, and impacted digital publication and archiving throughout the       world The ADS leads the world in setting standards for the       preservation and accessibility of archaeological data by and for the       commercial, community and higher education sectors.
+As a result of the Guides         to Good Practice, in 2008 the ADS was asked to lead on digital       information standards within the EU-funded Archaeology in Contemporary         Europe project.
+The Guides were updated in 2009-10 with funding from       the Mellon Foundation and continue to be endorsed in the UK by the Council       for British Archaeology, English Heritage and the Institute for Field       Archaeologists.
+The Guides are also embedded in the UK's teaching       curriculum as standard textbooks for digital archiving courses.
+The ADS's       implementation of Dublin Core metadata to archaeology has been widely       adopted across the world, having been taken up both by Digital Antiquity       in the United States and DANS in the Netherlands.
+In recognition of its       excellence in data standards in 2010 the ADS was awarded the Data Seal of       Approval (only the second UK archive ever to receive this accreditation,       after the UK Data Archive) [1] and it is the only accredited heritage       digital archive for the Marine Environment Data Information Network [2].
+The findings of research into the capture, flow and usability of       commercial and community data helped solve the grey literature problem       (e.g.
+Bradley 2006, Antiq.
+J.
+86, 1-13).
+In 2003 the OASIS project       and work of the ADS was commended by an All Party Parliamentary Group of       MPs [3].
+The success of the OASIS project led Historic Scotland to       adopt the system for recording archaeological reports and in 2010 English       Heritage built OASIS into their Planning Policy Guidance (PPS5).
+ADS now       sets the standard for recording archaeological data       produced by the commercial and community sectors; over 400       commercial contractors now use the ADS to archive their reports on open       access.
+In 2011-12 there were 110,000 individual downloads with almost       half of this usage from the non-HE sector.
+Developments from the Archaeotools       project increased the rate of indexing, and there are now over 21,000       reports online (compared with 1,722 in OASIS in 2008).
+In 2012 the Grey       Literature Library won the British Archaeological Award for Best       Archaeological Innovation [4].
+Groundbreaking research delivered by the ADS has extended interoperability         across national borders&#8212;influencing the EC's INFRASTRUCTURE       programme to facilitate cross-border access to databases of cultural       heritage institutions.
+In 2013, 16 countries each agreed to make       archaeological data publicly accessible through common interfaces       (European ARIADNE project) [5].
+The ADS has worldwide reach.
+It has supported the Netherlands, Sweden,       Germany, the US, Canada and Australia to establish equivalent facilities       (e.g.
+DANS, Netherlands; Digital Antiquity, US; FAIMS, Australia).
+Digital       Antiquity built upon the ARENA infrastructure to work with ADS to develop       the Transatlantic Archaeology Gateway, as well as a US equivalent of the       LEAP project.
+Initiatives in digital preservation costs such as       the ADS charging model, which has been applauded [6], has been       emulated most recently by DANS and Digital Antiquity.
+Keith Kintigh, past President of SAA sums up the significance and         international reach of the ADS: "The ADS is an enormous asset to the       UK's archaeological community&#8212;within and outside academic settings.... ADS       has been a key player internationally in advancing initiatives concerned       with the preservation and dissemination of cultural heritage information       and has... been a model of a sustainable and productive digital archive...
+In our own multi-institutional effort to develop a digital archive for       archaeological data in the US...ADS has not only served as a valuable       model, its staff have provided critical advice and assistance.
+Further,       ADS has been a major driver of international efforts to establish       interoperability of digital repositories facilitating the sharing of       archaeological information.
+Looking beyond archaeology, with its long (for       a digital repository) history of success, ADS has also been a widely cited       exemplar of a successful disciplinary repository" [7].
+The ADS has continuously sought to evaluate its impact.
+A       survey conducted in 2009-10 demonstrated that almost half of all users are       outside the HE sector: 10% central/local government; 8% private       consultants; 4% private research organisation; 5% business; 11% community       /charity organisation; 8% other; 86% of users are maintaining or       increasing their use resulting in continued access levels year on year       (Figure 1); 97% of users agree that the ADS has reduced the cost of data       acquisition and processing [8].
+According to English Heritage, the       ADS "has become the primary digital archive for a large part of [its] own       research" [9] and it has had a "very significant impact in the       wider archaeological community" [10].
+Figure 1.
+Cumulative accesses to the ADS, 1998-2012.
+A study conducted in 2012 showed that the work of 53% of UK       archaeologists would be severely impacted if the ADS did not exist; every       &#163;1 invested in the ADS yields a return to the UK economy of up to &#163;8.30       over 30 years and ADS is worth &#163;5m per annum to the UK economy [11].
+In recognition of its work, the ADS was awarded the Digital Preservation       Coalition's decennial award for the "most outstanding contribution to       digital preservation in the last decade" (2012) [12].

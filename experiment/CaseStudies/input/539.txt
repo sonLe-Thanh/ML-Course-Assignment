@@ -1,0 +1,77 @@
+     The beneficiaries of Stepping Stones are 1) local museums       on/concerned with the islands where the excavations occur, 2) the general       public, 3) UK schools and teachers, 4) government/public sector policy       makers.
+1-3 have developed impact as of the end July census date.
+4 has       had initial impact with more substantive impacts planned to occur       following the census date.
+Context: English Heritage's Research Strategy for Prehistory       states that "prehistory is poorly understood among the British public in       comparison to other historical periods", highlighting the All- Party       Parliamentary Archaeology Group's 2003 report which severely criticised       the "neglect" of prehistory within the UK's school curricula.
+In response       to these issues, EH's strategy highlights the need for "displays, web       resources, community projects and other outreach initiatives to do with       prehistory ... in order to engage new audiences and provide teachers with       what they need".
+The first three pathways to impact have provided a set of       resources which have benefitted the museums, schools and the wider public       in exactly these ways, with impact continuing well beyond the REF impact       census date.
+The strategy for project impact involves 4 distinct pathways aimed at       these beneficiaries.
+New museum displays.
+Public participation in excavations and media attention to them.
+Innovative web-based learning resources aimed primarily at school         children.
+Creation of new knowledge to inform government/public sector policy.
+1.
+The local museums with which this project works include the Museum nan       Eilean [Museum of the Western Isles], the Isles of Scilly Museum, and       Guernsey Museums and Galleries.
+Each has hosted a locally relevant       `western seaways' exhibition of the Stepping Stones project's work       and results, set in a broader context.
+These displays were largely       designed and delivered by the Stepping Stones team, who enhanced       the prehistory content of these museums significantly as a result.
+The       Museum nan Eilean exhibition was held at the Sgoil Lionacleit, Benbecula       site from 1st June - 30th August 2012.
+The Guernsey       Museum display, from 27th August - 17th September       2011, had 2,639 visitors in August and 1,626 in September 2011 indicating       how the active projects associated with these exhibitions stimulated an       interest in the islands' heritage and museums.
+These are two-part       displays, one detailing the broader project and major issues involved in       the research, the other focusing directly on each specific island group.
+The project also includes the analysis and publication of artefact       collections previously recovered from each site; this has added       considerably to curatorial expertise on existing museum resources.
+The       museum curators attest to the way in which the displays, in drawing on a       `live' excavation and current research project,brought a fresh,       contemporary feel to each museum and significantly enhanced their       resources for reaching the public.
+The museums have also acknowledged the       substantive development of the knowledge base that underpins their       collections/records.
+2.
+The project's most immediate impact has occurred during the course of       excavations, which has involved a broad cross-section of the local       community.
+There have also been 5 general talks for the public in other       parts of the UK.
+For each site, there has been an Open Day and public       lecture.
+At L'Eree, 11th September 2011, 180 people visited,       including 20 members of Junior Soci&#233;t&#233; Guernesiaise.
+On 14th       July 2012 an Open Day on site at An Doirlinn was attended by 60 people.
+The museum talks in relation to these seasons had audiences of c. 90.In       hosting these events, the project engages the general public in aspects of       their island's cultural heritage, so contributing to their knowledge and       quality of life.
+Members of local amateur archaeology societies have been       invited to take part in the excavations, providing them with an       opportunity to develop archaeological skills and experience, and to share       their ideas and expertise with the project.
+Feedback, in the form of       questionnaire responses from the talks and Open Days, has been good.
+In 26       questionnaires collected from the public on Uist in 2012, over 70%       indicated that their knowledge of regional prehistory, of the appearance       of the Neolithic, and of prehistory in general was transformed by the Open       Day and briefing events.
+Media interest has also been strong, providing a       further channel for dissemination and impact.
+Media reports include:      TV and Radio:       Wednesday 31st August 2011- 3 minute appearance on the Jim Cathcart       morning show, BBC Radio Guernsey.
+22,000 listeners per week.
+26th September 2011 4.20 pm - BBC Radio Solent.
+Tuesday 10th July 2012, 8pm - 2 min report (with interview) on       our excavations at An Doirlinn on BBC Alba TV news (the BBC's Gaelic       channel average audience of 50,000)       Monday 16th July 2012 - 2 min TV report on the `Frankenstein       mummies from Cladh Hallan' also included a piece on our excavations at An       Doirlinn and an interview with Fraser Sturt on STV       News articles:       Saturday 3rd September 2011 - half-page article in The Guernsey Press.
+The Guernsey Press has a daily circulation of more than 16,000, and       is read by some 38,000 people every day, more than 80% of the island's       adult population.
+23 September 2011 - Article         about the project as whole in The Independent       24th September 2011 Financial Times, general article.
+Thursday 19th July 2012 - half-page article summarising the results of the       project in the Stornoway Gazette (weekly circulation of c       11,000)       February, April and August 2012 Island News &amp; Advertiser       (monthly paper for Harris and the Uists) articles.
+The reach of the public engagement aspect of the project through its web       and social media presence and responses to blogs is fast growing.
+To date       there have been 3,260 hits/views of the project Youtube video and blogs       about the project.
+There are 4,303 Twitter and Facebook       followers/subscribers of project related accounts/blogs.
+There have been       207 likes/recommendations on Facebook and other related media.
+3.
+The project has allocated a significant tranche of its resources       towards the construction of an innovative set of educational web-based       resources.
+These are open-access and fully sustainable after the end of       the project.
+Importantly, since the project deals not just with       archaeology (in a narrow sense) but with subjects such as migration and       climate change, these will be of continuing relevance right across the       school curriculum and beyond.
+Each of the three content areas have drawn directly on the project's       findings; there is a direct and meaningful relationship between the       products of the academic research and the public impacts.
+This includes       considerable use of the comprehensive application programmer's interface       (API) available within Google Earth.
+Google Earth is an extremely popular       and easy to use application which is also available as a `plugin' enabling       the program to be incorporated into a webpage.
+The 3 elements include A) A         project website acting as a central hub from which users are       directed to all of the resources available.
+In addition to the       introductory front page, this has island- and site- specific pages,       providing information about the excavations (including videos, captioned       photos of key features, etc.
+), details of other sites nearby (drawn from       the project database), announcements about Open Days and public lectures.
+Also analysed is the number of hits on each of the webpages to determine       the popularity of the constituent parts of the site.
+B) A `western seaways' navigation game in development.
+Users choose (a)       departure and arrival locations, (b) the type of prehistoric boat they       want to travel in, and (c) the season; they will then be able to see if       they end up in the right place, and how long it takes to get there.
+The       palaeo- oceanographic models produced as a result of the research are       combined with these input parameters to generate a Google Earth `tour'.
+The tour will then be imported into the Google Earth plugin in the website       and displayed as a 3D journey.
+This will give children (and others) a fun       angle on prehistoric seafaring, making them aware of genuine past maritime       networks.
+C) A set of chronologically animated Google Earth overlays, enabling       users to visualise changing sea levels in the past, and to locate specific       Mesolithic/Neolithic sites (and even their own houses) in relation to       these.
+A number of overlays are already available which help users to       appreciate how sea level change will affect the planet in future.
+Outputs       from the research were used to generate the overlay frames at given       moments in time.
+In focusing on change in the prehistoric past, the model       provides an important deep-time context for modern and future       environmental change.
+Together, these outputs represent an exciting and       significant set of new educational web resources, focusing on the       prehistoric past.
+In order to maximise their impact potential, they are       advertised via links on other relevant websites.
+Our project partners also       link to their own webpages.
+Again, the structure of this element is       tiered, with the local scale of each island group being made clearly       relevant to bigger issues (e.g.
+sea level change over time).
+These provide       schools with a new teaching resource.
+4.
+Impact on Government/Public sector policy is a significant goal and       this has commenced although this area requires most development.
+The       project is working with local and national bodies such as English Heritage       to inform their coastal heritage development and protection planning and       policies.
+In particular, the project has provided time series       environmental data which can be used by a range of different researchers       and government bodies (climate scientists, English Heritage, Historic       Scotland, local authority coastal planners, etc.).
+Data collected on the       nature of beach profiles, rates of sedimentation and erosion, along with       changing sea-levels/hydrological conditions, can all be used to inform       coastal management plans, heritage management strategies, sea-level and       climate modelling initiatives.
+The initial instances of this impact on public policy are documented in       1) the Isles           of Scilly Historic Environment Research Framework Resource         Assessment and Research Agenda, where Garrow advised on sections       relating to the Neolithic and Early Bronze Age and related research agenda       items.
+In particular this contributed to Research Agenda items 3, 5, 8,       14-16, 18-20, 20, 27, 30, 45 and 46.
+2) The second instance is a       contribution to the States of Guernsey Environment Department, charged       with maintaining the island's coastal defences, where evidence relating to       the specific impact of local sea level changes was utilised.

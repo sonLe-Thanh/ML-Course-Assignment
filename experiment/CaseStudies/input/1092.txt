@@ -1,0 +1,53 @@
+     After completing the PhD it became apparent that although there were a       number of researchers working on Ambisonics, it was extremely difficult to       utilise the published work for Audio Production and live events.
+Ambisonics was not implemented in any commercial music production       software, meaning practitioners could not utilise the benefits of the       system.
+To this end, a number of VST software plug-ins were created       (November 2005) which implemented the encoding and decoding algorithms       necessary for 1st and 2nd order Ambisonics.
+These plug-ins could be loaded       into VST compliant DAWs allowing existing workflows to be leveraged with       minimal changes.
+The plug-ins were improved and augmented, including       graphical user interfaces, 3D reverberation, distance filtering/proximity       effects and up to 4th order operation, to incorporate new research from       the UoA.
+They have been consistently updated and expanded with bespoke       decoders created for new projects.
+Both the software and a publicly       available set of instructional videos are available at         www.BruceWiggins.co.uk.
+The software has been used in a number of       projects in both academia (from Undergraduate to PhD level work) and in       industry with the public being exposed to the outputs of the system       internationally.
+The reputation of the University's work in spatial audio technology led       to an approach by Funktion One, designers of high quality sound       reinforcement equipment, who were looking to implement spatial audio in       large, live outdoor events.
+The WigWare software was used to process live       audio, with extra software created to allow for frequency dependent       panning effects.
+This joint project led to a measured benefit of lower       noise levels off-site, and more enveloping audio on-site compared to other       stages controlled in a standard stereo-based manner.
+The software is now a       feature of Funktion One live events, known as the Funktion One       Experimental Soundfield, with the system featured at the Glade Festival       every year since 2006, and at the Glastonbury Festival on the Glade and       Sprit of 71 stages from 2008.
+The latter included a live version of       Tubular Bells processed by the WigWare software in 2011.
+In an article       interviewing Anslem Guise, one of the founding members of the Glade       Festival (Tpi, 2012) he openly praises the system "My highlights this         year were the Meteor and I would say Origin this year was incredible,"         commented Guise.
+"The decor from Artescape in Cape Town combined with         the lighting and of course the amazing Ambisonic sound from Funktion-One         really was another level."
+John Newsham (from Funktion One) is       quoted in the same article "The Ambisonic system runs in Audio Mulch on         a laptop with Bruce Wiggins' Wigware Ambisonic VST plug-ins and an Echo         soundcard.
+Bruce has developed second order Ambisonic VST panners which         are capable of delivering some stunning pan effects," (Tpi 2012).
+The research is also utilised by computer games company, Codemasters, who       have pioneered the use of real-time Ambisonic encoding and decoding in       their Playstation 3, Xbox 360 and PC games.
+They have been using the       WigWare suite of Ambisonic plug-ins in order to create pre-mixed Ambisonic       audio for use in their games including Colin McCrae DiRT2 (reported by       VGChartz as 1.68M sales) and the 2011 BAFTA winning Formula 1 2010 game       (2.3M sales reported by Trade paper MCV on 17th May 2011).
+The use of       pre-mixed audio has allowed for full 3D scenes to be constructed, mixed,       and stored using just four channels of audio, yet still allows them the       flexibility of re-orienting the entire sound field using just a few       multiply and add operations per sample.
+Different speaker layouts in the       decoding are then easily added post mix.
+This has allowed an increase in       the complexity and amount of audio content in the game as the storage of       the 3D scene is much more efficient.
+It is thought that the steerable       pre-mixed audio, i.e.
+premixed audio that can still take into account       which way the camera is facing on decoding, was a world first in computer       games, thus allowing significantly more audio content to be included on       the DVD used to distribute Xbox games.
+The BBC's Audio R &amp; D department have been using the research as part       of a wider project looking into future high definition audio formats.
+Research Engineers from BBC's audio team visited Derby in 2011 in order to       discuss Ambisonics implementation issues and production workflow.
+They       also attended our Sounds in Space event the same year where Wiggins       presented a live demonstration comparing 1st, 2nd and 3rd order Ambisonics       using the Wigware software.
+This, along with the research has "helped         members of our team to understand Ambisonics processing and how it         sounds, allowing us to explore the area more effectively in our own         research."
+With the team also using Wigware plug-ins, along with a       number of web-based animations Wiggins generated visualising the       differences between Ambisonic orders, to demonstrate Ambisonics as a       surround format to colleagues at the BBC; this has informed decisions on       the direction of research at the company.
+Also, the BBC have "used your         [Wiggins'] papers ([2004] thesis and 31st AES conference) in developing         an understanding of issues for irregular loudspeaker layout decoding         processes, and used it to build some of our own algorithms in MATLAB for         3D irregular decoding".
+The BBC's work in this area has been       reported on TV and the web, with a screenshot of the WigWare web site       appearing on BBC Click (18m.50s on 13-08-2011 episode, BBC, 2011).
+Further afield, the Museum of Jurassic Technology in Los Angeles       (http://mjt.org/) has a small 14 seat cinema theatre where they are       working on a 3D, stereoscopic, motion picture that was shot in the       Republic of Georgia (2011).
+The audio was recorded with a B-format       Ambisonic microphone and an accompanying Ambisonic Music Track has been       produced using the WigWare plug-ins.
+The founder of the Museum, and the       user of the research was awarded the MacArthur Fellowship (nicknamed the       Genius Grant) in 2001.
+Examples of the impact of the work on live and recorded music production       are numerous.
+Work at Blumlein Records in Germany not only releases       recordings using the WigWare tools, but also advocates their use in       magazine articles and on the internet regarding surround audio production;       "Mixing took place in Ambisonic B-Format.
+I used Bruce Wiggins'         Ambisonic panner to place every M/S decoded channel at its position         within an octagon and WigWare's 5.1 decoder to map the B-Format to my         ITU 5.1 monitoring environment.
+When editing the session alongside the         composer, Oliver [Korte] was amazed by the precise localisation of every         sound source around us.
+Quite an achievement considering the - in         Ambisonic terms - irregular placement of the loudspeakers."
+(Levine,       2011).
+A surround DVD released in February 2013 entitled Oliver Korte:       Elemente is a typical example of work produced using the software       (AllMusic.
+2013) with reviews available, in German, at Korte-oliver.de.
+(2013).
+One such review states "...it is included on DVD in a         breath-taking 5.1-surround version...".
+On Tuesday 3rd July 2012,       Bob Beldon's Animation band performed tracks from the Transparent Heart       album which was performed in live 8 speaker Ambisonics using the WigWare       software to provide Ambisonic reverberation in real time.
+A review of the       evening stated "Coupled to Ambisonic's pioneering live surround sound         set up that was manipulated live by its creator Serafino DiRosario...         the immersive audiovisuals only served to heighten the intense feelings         at the heart of Belden's visionary urban jazz aesthetic."
+(Flynn,       2012).
+A number of researchers are utilising the research worldwide, such as at       Queensland University of Technology in Australia where the Wigware       software is used to provide live panning and decoding in the production of       a Theatrical work with 3D audio (Wilkinson, 2013).
+A recent PhD student at       Queen Mary's University London used the software in a project with the BBC       (Morrell et al, 2012) in order to create a hybrid 3D audio rendering       system combined with surround vision.
+In addition, a composer, orchestra       conductor and researcher at the University for the Creative Arts is       utilising the software in their PhD in music (Abras, 2013).
+Wiggins also       generated the irregular Ambisonic decoder coefficients used in the CSound       Ambisonic Decoder op-code (Furse et al.
+2008).
+This computer programming       language for sound has been downloaded more than 310,000 times since       January 2008 (source: Sourceforge.net).

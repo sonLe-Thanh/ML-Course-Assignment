@@ -1,0 +1,21 @@
+     The model reduction algorithm (described in section 2) reduced the       simulation time of water distribution network models by several orders of       magnitude and has been used by various companies including OptiWater in       Israel [i1], who routinely use the algorithm in their projects.
+The new pump models described in section 2 generated significant interest       from the water community and have been adopted for implementation in the       new version of Epanet &#8212; Epanet 3 [i2].
+Epanet software is free to download       and is currently the most extensively used water distribution system       modelling software across the world.
+The findings of the EPSRC grant GR/M67360 were implemented by South       Staffordshire Water Company, with support from the EPSRC RAIS grant       (GR/S14382, 2002-2003).
+This led to the introduction of pressure control       still in use today [i3].
+The benefits of pressure control include: reduced       unwanted consumption; reduced flow from leaks; fewer bursts; and fewer       customer complaints.
+It is estimated that the introduction of pressure       control by South Staffordshire Water corresponds to both a 20% reduction       in water loss from leak flow (which equates to savings of ca       &#163;7,000 per annum per metering area where the system is implemented) and       100 fewer bursts in a year (leading to a total saving to the company of       &#163;0.5 million in the relevant DMAs).
+The estimates are based on the Allen       Lambert report (2012) for IWA Water Loss Specialist Group.
+The controller developed with Aquavent (a part of the MIDAS company) and       modelled and tested in the Neptune project has subsequently been installed       at six sites by Aquavent, with each installation reducing losses from       background leaks by 20%.
+This approach simultaneously reduces the number       of bursts and automatically adjusts the pressure to meet current water       demands, thereby leading to greater cost savings for the water company.
+The controller has recently been installed (2012) at Addenbrookes       Cambridge University Hospital, Royal United Hospital Bath NHS Trust and       HMS Drake Fleet Maintenance Base, Davenport [i4], leading again to       reduction of leaks by 20% and an anticipated cost saving of &#163;50,000 per       annum in each institution (assuming an average consumption of 300 m3       per day and the water price of &#163;2 per m3).
+In May 2013, Prof Ulanicki was commissioned by Scottish Water to provide       consultancy and assess the major pressure control scheme in Edinburgh, to       resolve instability issues occurring in some specific conditions [i5], the       project was completed in July 2013.
+Prof. Ulanicki diagnosed precisely the       cause of the instability and provided a general answer to the question       which had puzzled water engineers for years &#8212; why PRVs tend to oscillate       at low flows.
+Each instability incident causes multiple bursts, resulting       in a loss of tens of thousands of pounds.
+The findings are now being       implemented in practice.
+The burst detection method, based on the e-FAVOR active identification       experiment and the new burst indicator developed by the EPSRC Neptune       project, has been adopted by Affinity Water ("the largest water-only       supplier in the UK" https://stakeholder.affinitywater.co.uk/about-us.aspx,       accessed 25/07/13) as standard practice for bursts detection since 2010       under the coded name, PlaN [i6].
+The impacts derive from the shorter       duration of the unreported bursts.
+The implemented systematic method       allows the company to perform more inspections per year in each DMA and       identifies bursts faster during the inspection.
+In financial terms it will       reduce water losses by 400m3 per burst.
+With 90 bursts per year       it brings &#163;72k/year savings (based on Lambert et al.
+report, Financial       Times, 1998).

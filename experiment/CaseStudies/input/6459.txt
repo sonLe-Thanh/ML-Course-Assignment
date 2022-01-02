@@ -1,0 +1,29 @@
+     Glaucoma is known as `the silent thief of sight' because most people with       glaucoma have no early symptoms or pain.
+By the time a patient is aware of       vision loss, the disease is usually quite advanced.
+Late diagnosis is one       of the most important risk factors for glaucoma blindness.
+Left       undiagnosed and untreated, glaucoma can lead to irreversible blindness.
+If       the condition is detected early enough, it is often possible to halt its       development or delay its progression with medical or surgical treatment [a].
+Diagnostic and monitoring techniques, therefore, play a pivotal role in       glaucoma management.
+The research in this case study has contributed to       the improvement of glaucoma healthcare by providing new diagnostic tools       and evidence for the required frequency of monitoring the VF.
+The diagnostic and predictive power of the MRA has led to the worldwide       acceptance that imaging of the ONH should be performed in addition to VF       monitoring, in order to characterise glaucomatous damage to the eye [b].
+The MRA has also become a `reference standard' for establishing the       performance of other imaging devices in establishing whether or not       glaucoma is present [c] and in predicting its development in       patients with high IOP [d].
+The worldwide scale of use of this       technology is substantial.
+At Moorfields Eye Hospital, all newly referred       glaucoma patients are now imaged using the HRT, which means that around       32,500 patients in this hospital alone have been benefited from this       technique for the period 2009-2013 [e].
+Nationwide and worldwide,       this number is much higher.
+The pre-eminence of the MRA is further illustrated through its use as the       technique of choice in glaucoma imaging (scanning laser ophthalmoscopy)       diagnostics worldwide, with more than 6,500 HRT devices having been sold,       mostly since the incorporation of the MRA into the device's software in       1999.
+For more than 15 years, the MRA has remained a robust indicator of       structural change, which has contributed to the success of the HRT and its       adoption by clinicians worldwide.
+Heidelberg Engineering have confirmed       that "The inclusion of the Moorfields Regression Analysis developed         with Professor Garway-Heath has been one of the contributing factors to         the adoption and success of the HRT within the glaucoma community.
+MRA         has become synonymous with HRT and is considered one of the most         important single tests for the early diagnosis of glaucoma" [f].
+The development of a map that correlates structural findings with       functional loss is another key achievement in the field of glaucoma       management.
+As a result of this research, it is now possible for       clinicians to understand the link between vision loss and damage to the       optic nerve that transmits visual information from the eye to the brain.
+The anatomical map known as the `Garway-Heath Map' was developed to help       establish this correlation and is now used worldwide for the evaluation of       glaucoma patients and in clinical research in glaucoma and other ocular       conditions [g].
+In the diagnostics industry, it is incoprporated       into widely-used diagnostic software such as in the Heidelberg Eye       Explorer [h].
+It has recently been incorporated into FORUM       Glaucoma Workplace (Carl Zeiss) [i], software for the presentation       of diagnostic test results, allowing clinicians to visualise       simultaneously functional and structural outcomes of patients.
+Heidelberg       Engineering and Carl Zeiss are the market leaders in glaucoma diagnostics       and the `Garway-Heath map' has become central to the display of the       diagnostic results.
+The significance of our research and publications on imaging is evident       from their extensive referencing in European management guidelines [j]       and their citation as Suggested Reference Texts in American Preferred       Practice Pattern (PPP) Guidelines [k].
+The widespread success of       the HRT since the incorporation of the MRA into its software has boosted       research and development in this field.
+This, in turn, has led to       widespread use of imaging devices in the clinic as confirmed in the       European Glaucoma Society (EGS) guidelines [l].
+Using our       publications as the basis for its evidence, the EGS recommends the use of       imaging in the diagnosis of glaucoma and in monitoring its progression.
+Likewise, the American PPP Guidelines recommend the use of imaging devices       as diagnostic tools, and recognise their increasing clinical importance [m].
+Our work on imaging has also been used as the basis for evaluating the       evidence for the use of imaging devices in screening for glaucoma [n].
+Our work on the frequency of VF testing required to identify patients at       risk of lifetime visual impairment has been used by the EGS in its       guidelines to recommend the optimal frequency of VF testing in glaucoma       management [j].

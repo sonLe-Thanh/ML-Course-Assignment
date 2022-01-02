@@ -1,0 +1,30 @@
+     Xen, both as open source software and as a paradigm, has had a       significant, transformative effect both on the national and international       economy and, owing to the energy saving afforded by virtualisation, on the       environment.
+In addition to Xen's broad impact, the Cambridge team founded a       successful company to exploit the research.
+In 2005, Pratt, Hand and       Fraser co-founded XenSource as a vehicle to provide a robust open source       version of Xen.
+Pratt and Fraser joined XenSource in 2007 on a permanent       basis; Hand took sabbatical leave to work at XenSource in 2006/7.
+XenSource was acquired by Citrix Systems in 2007 for US$500M.
+Since then,       Xen has become a key technology in Citrix's product portfolio.
+Xen is the       hypervisor at the core of Citrix's XenServer virtualisation       product and also underpins the Citrix XenDesktop, XenApp, Netscaler SDX       and Cloud Platform solutions.
+Xen is also used in the Citrix internal       cloud on which many of the Citrix Online SaaS products are hosted.
+As of       early 2013 there are over 100,000 unique customers using XenServer.
+XenServer runs workloads in over half of the businesses in the Fortune 50.
+Combining the sales of all Citrix Xen-based products and solutions, Citrix       estimate that Xen is an active component in over $1billion of Citrix       business annually.
+[7,8] Citrix employs around 100 engineers in the       XenServer team, many of whom are active contributors to the OpenSource Xen       code base.
+If all Citrix staff in Xen-related roles are taken into       account, they total approximately 150 FTE.
+[7]     Xen has also had an impact on the environment through CO2       reductions.
+For example, in March 2009, Tesco announced it had implemented       Citrix XenServer to increase the capacity of its Real Time Sales system by       75%, enabling the handling of 1,500 sales-related messages per second.
+Tesco's IT Director also commented that the virtualised Real Time Sales       environment used `less than half of the energy of the physical bare metal       equivalents', supporting the company in achieving its CO2       targets.
+[9]     In 2010, Citrix commissioned a report from Forrester Consulting (FC) into       the `total economic impact' of Citrix XenServer Enterprise Edition.
+FC       reported that organisations purchasing XenServer could expect reduced       energy requirements, lower labour costs for managing the server       environment and avoidance of maintenance costs.
+FC found that the       particular company they interviewed in depth gained a return on investment       of 136%, and that increased return on investment was a probable outcome       for other organizations needing to virtualize a greater number of physical       servers.
+[10]     Xen is available as open source, so that Xen has made contributions       beyond Citrix.
+It remains the dominant virtualisation platform in the       public cloud.
+[8] Xen is the hypervisor in the world's largest OpenStack       cloud, operated by RackSpace, as well as in Amazon EC2.
+[12,13] In March       2012 it was reported that Accenture Technology Labs had used a probe       methodology to estimate that Amazon EC2 was running on up to 454,000       servers(14) across 7,100 racks, an impossibility in pre- Xen       times.
+Significant services offered over the EC2 infrastructure include       NASDAQs FinCloud, Netflix, and Zynga.
+Citrix estimate that there are 10 million distinct users of OpenSource       Xen [7], including many large enterprises.
+Xen's recent move to the Linux       Foundation demonstrates continued strength and vibrancy, with industry       partners including Amazon, Google, Intel, AMD, Verizon, CA Technologies       and Samsung joining Citrix on the advisory board of the Linux Foundation       Collaborative Project.
+This Poject is based around OpenSource, using the       same scheme that started with the original Xen 1.0 GPLv2 release from the       Computer Lab.
+Oracle is one company that have made use of the open source availability:       "Oracle VM Server for x86 is based on the Xen kernel and underlying         hypervisor technology, and it capitalizes on the Xen paradigm for         management of Oracle VM guests".
+[16]     Xen's impact on processor design, which originates from 2006 [15],       remains in force today: the Intel hardware-based virtual machine (HVM)       processor feature is a direct consequence of Intel supporting the Xen       architecture.
+HVM is in turn now used by all virtualisation systems that       run on Intel processors, which means that the original Cambridge research       on Xen has had impact even on Xen's competitors.

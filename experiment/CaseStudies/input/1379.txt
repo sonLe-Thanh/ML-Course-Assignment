@@ -1,0 +1,41 @@
+     The possession of an effective, robust and technologically innovative       design process is a key success factor for R-R and a direct contributor to       the performance and safe operation of its high- integrity power systems.
+The 1990s were a decade when R-R started and accelerated its journey from       a largely paper-based to a wholly computer-based design system.
+This       context drove R-R to become an industrial sponsor of the UTP formed in       1998.
+Wallace's research and DRed in particular were significant outputs       for R-R.     DRed has achieved specific major impacts in the period from 2008 to 2013,       as follows:            The use of DRed was recommended for 19 of 33 design process steps           for the new Trent XWB engine by R-R's Global Head of Power Systems         Design in a manual for designers entitled, "Generic System Design         Process &#8212; overview of steps, process and tools proposed for the Trent         XWB".
+This was released formally to the designers in October 2008 and         updated in 2009.
+The design teams applied this process from 2008 to         2010, producing approximately 700 schemes that defined approximately         30,000 engine components of the engine.
+After the first successful         engine run in 2010, DRed continued to be used within the process for a         further 2 years of engine development, problem diagnosis and re-design,         during which the number of schemes, including re-issues, rose to         approximately 2,000.
+The use of DRed, having being embedded at the         start, has continued throughout the period of initial flight aboard the         Airbus A380 Flying Test Bed on 18 February 2012 and the first flight of         the Airbus A350 itself on 14 June 2013.
+(Ref 6)         As at 31 July 2013, Rolls-Royce has an order book for the Trent XWB of         more than 1400 engines (Ref 7).
+Although the company does not publish         the value of this order book, an estimate can be made using         announcements on the value of specific orders.
+For example, the order         for 25 aircraft from Air Lease Corporation on 4 February 2013 cited a         list-price order value of USD1.1 billion for 50 engines (Ref 8).
+This         suggests that the whole Trent XWB order book, at list price, is worth         approximately GBP20 billion.
+In 2009, DRed became a significant tool in the R-R Engineering           System (RRES), as the Generic System Design Process brochure was         incorporated into RRES.
+The methods and guidelines in RRES are used by         all R-R's engineers (approximately 14,500 in 2013, which is an increase         from approximately 10,000 in 2008), who work in all R-R's businesses         across the world &#8212; i.e.
+aerospace, marine, energy, and nuclear.
+(Ref 6)        DRed was adopted as the standard tool for incident investigations         by the 80-person Service Engineering Department in Civil Aerospace at         R-R, following its successful use during 2004 in a real incident, and         has been used for the following major incidents between 2008 and 2013:      o British Airways Flight 38 with 152 passengers and crew on board       crash-landed at Heathrow Airport on 17 January 2008.
+It was a Boeing 777       with 2 R-R Trent 800 engines.
+The engines had not responded to the power       demands on final approach at an altitude of 600ft and a distance 2 miles       from touchdown.
+At the outset, the cause could have been a failure in any       of the engine, airframe, maintenance, control and/or operational systems.
+The incident was unique and high-profile.
+DRed was the tool of choice in       the root cause analysis by the Civil Aerospace Engineering team.
+A large       network of DRed charts was gradually developed, printed out and displayed       at meetings where stakeholders from multiple organisations participated in       identifying and eliminating causes over the course of a year.
+DRed enabled       the narrowing of potential causes to a single, testable hypothesis.
+(Ref       9)     o One of the four Trent 900 engines on QF32, a Qantas Airbus A380,       suffered an uncontained intermediate pressure disc failure on 4 November       2010.
+The aircraft was climbing through 7,000ft after departure from       Singapore Changi Airport with 469 passengers and crew on board.
+The       incident again was high-profile with the potential for significant       business consequences for R-R, Airbus and Qantas.
+It threatened to ground       the aircraft type (indeed, Qantas initially did so for a short period).
+The R-R Chief Engineer and Chief Design Engineer of the Trent 900 at the       time, and their team of approximately 300 engineers, made extensive use of       DRed in conducting the root cause analysis.
+Once the root cause was       established beyond reasonable doubt, DRed was used again to evaluate the       design solution.
+The Chief Engineer said; "We used DRed in the first         weeks of the QF32 investigation to explore possible failure scenarios         and to formally capture evidence from hardware and data analysis.
+This         was our structured, systematic approach to the problem understanding and         it proved valuable for the Engineering team, also helping with reporting         at the end of the process."
+(Ref 10).
+The impacts above were born of knowledge transfer and process       improvements that started before 2008 and that continued throughout the       period from 2008 to 2013, for example:            From 2003, Wallace's research (particularly Ref 3) and DRed have been         a core element of the Graduate Training Programme, which is an important         programme in R-R because R-R principally targets newly qualified         graduates in its recruitment.
+From 2008 to 2013, over 1,000 graduate         trainees have been recruited worldwide, attended this programme and used         the training in their work (Ref 11)       In 2005, R-R established a subsidiary, Rolls-Royce Operations India         Pvt Limited (RROIPL), to build a robust engineering services platform.
+RROIPL grew to employ over 800 engineers by 2012 and has continued to         grow, supporting the delivery of engineering solutions across multiple         R-R business sectors.
+DRed was built into operations from the start and         it is still an integral tool in 2013.
+A Technical Operations Manager at         RROPIPL has observed that "...using DRed with the local engineers is           fantastic.
+It helps to achieve a common technical understanding and           overcome the communications barriers" between engineering teams in         the UK and India.
+(Ref 12).
+The impacts of DRed were primarily founded on the quality of the research       by Wallace's team, but they would not have been achieved so quickly or so       widely at R-R if the team and its counterparts at R-R had not invested       time in knowledge transfer activities.
+Key success factors included:            close engagement of Wallace's research team with the Design Methods         team at R-R with endorsement and encouragement from the Chief Designer         at R-R;       involvement of front-line designers and service engineers in studies         and trials;       the professional attention given to the structuring of DRed and its         user interface to win acceptance among designers as being easy to use.

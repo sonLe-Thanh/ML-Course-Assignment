@@ -1,0 +1,27 @@
+     Context     With constant growth of air traffic and greater security       concerns, RTT scanning for airport baggage has become increasingly       important in recent years.
+Current aviation hold baggage screening systems       can deliver high speed and resolution, but with a high false alarm rate.
+Rapiscan Systems is a global leader in high quality security inspection       solutions and advanced threat identification techniques, with more than       70,000 systems installed worldwide.
+Rapiscan reported 33% growth in       revenue in 2012 and the parent company, OSI, had annual revenue of $793m       in 2012 [S1].
+The Rapiscan RTT scanner combines high speed, high resolution and a low       false alarm rate at the first level of screening.
+The key to Rapiscan       RTT's innovative design is that, unlike other CT baggage screening       systems, it does not use a moving gantry &#8212; one revolving around the bag,       typically taking 12 to 15 views.
+Instead, Rapiscan RTT adopts a new       technology: a stationary array consisting of a very large number of micro       X-ray emitters, which captures tens of thousands of views of a typical       bag, therefore generating images with significantly better resolution in       all planes at much greater speed, and keeping maintenance costs low [S2].
+However, reconstructing the three-dimensional images from the planar data       collected by the new hardware design required a different approach from       the state of the art at the time.
+Pathways to the Impact     Realizing the need for major technological improvements in the prototype       for RTT scanning, Rapiscan approached our research group with the aim to       develop novel theory and more accurate algorithms for such scanning.
+The       underpinning research has been funded jointly by Rapiscan and EPSRC       including 3 KTA projects and two sponsored PhD studentships.
+This       industry-driven project ensured rapid incorporation of the novel       algorithms into the new generation of RTT scanners [S3].
+Dr Wadeson had a KTA secondment with Rapiscan for a year in order to       enable technology transfer; specifically this was to use Geant4 modelling       within Rapiscan.
+Dr Thompson has completed a KTA concept and feasibility       study to implement his reconstruction algorithms on a GPU, again with       Rapiscan, and a further year's secondment to Rapiscan to complete GPU       implementation and systems integration.
+Reach and Significance of the Impact     By improving the accuracy of the reconstruction, using our algorithms and       scatter correction, the RTT80 and RTT110 scanners are better able to       detect threat objects and reduce the false alarm rate [S2].
+By determining       the presence and position of a threat, our industry-leading resolution and       reconstruction process delivers optimal performance for the detection of       materials in configurations typically difficult to detect [S2], which       improves baggage handling efficiency, while lowering operational costs.
+RTT can also measure density levels in liquids, identifying threat liquids       and alerting the operator to potentially concealed explosives [S2].
+The prototype RTT80 scanner won The Engineer Innovation and Technology       Award 2010 in the Defence and Security category [S4] and was the first       ultra-high speed system to pass ECAC's Standard 3 threat detection test       [S5], the highest such standard.
+Rapiscan already has substantial orders       for RTT80 systems and has begun manufacturing in a UK factory [S3].
+The       larger RTT110 (110 cm diameter aperture in the scanner) was field-tested       in Manchester Airport in 2010 [S6] and has recently been ECAC (Standard 3)       certified (2013) [S7].
+From 2014, all European airports must install       Standard 3 certified equipment for any new hold-baggage screening       equipment and the RTT110 will form part of the new terminal 4 ECAC       Standard 3 test facility at Heathrow airport [S8].
+The new scanners capture detailed 3-D images at speeds of between 1200 to       1800 bags per hour, compared to legacy CT rates of 600 bags per hour, and       at higher resolution.
+When comparing the RTT maintenance costs with       current CT technology, due to need for fewer machines, higher throughput       and the revolutionary stationary gantry design, annual maintenance cost       savings of 35-50% can be realized [S2].
+Moreover, the significantly       improved resolution, combined with built-in diagnostic tools, allows the       operator to quickly resolve alarms [S2].
+In 2011 Rapiscan received a US$20m order to provide multiple units of the       new RTT scanners to Manchester Airport Group [S9].
+The RTT110 machines       have been deployed in Seattle airport.
+RTT systems have European       regulatory approval and RTT110 systems are currently being manufactured in       the UK [S3].
+The new scanners are "positioned to change the aviation security         screening industry" [S5] and "are making air travel safer"       [S6], which will reduce risks to the security of all nation states.

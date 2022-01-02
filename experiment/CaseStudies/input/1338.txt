@@ -1,0 +1,47 @@
+ Drummond encouraged and supported students Simon Taylor and Connell Gauld to commercialise his group's algorithms and know-how.
+The three jointly founded Extra Reality Limited in June 2010.
+Extra Reality developed the DoEng smartphone-based tracking research into an exemplar proof- of-concept AR application (app), called `Popcode'.
+The app, a free download for Android-based smartphones, and later iPhones, delivered context-related information about an item using a mobile phone.
+Users opened Popcode on their phone when they saw the Popcode logo printed on a magazine page, poster or leaflet.
+They pointed their phone camera at the logo.
+Popcode recognised information hidden in the logo and downloaded the relevant AR content.
+The user then turned their phone camera from the logo to whatever picture was printed alongside the logo, watching this picture on their phone.
+Popcode overlaid the image with animations, information and interactive content.
+The underpinning research ensured that the AR system was efficient, robust and fast enough to provide a high-quality experience on a smartphone.
+Early projects created a high profile for the company.
+For instance, the University of Cambridge used Popcode in 2011 to augment the brochure for its Science Festival, which attracts over 35,000 visitors.
+VEEMEE Limited, a creative media/marketing company with significant links to both fast-moving consumer goods businesses and creative media companies, recognised the value of Popcode and in May 2011 formed Zappar Limited, as a joint venture with the shareholders of Extra Reality, for the purpose of acquiring Extra Reality Limited.
+[text removed for publication] Zappar Limited purchased the intellectual property (IP) created by the DoEng research from Cambridge Enterprise, while Boeing retained a non-exclusive licence to the IP created with its sponsorship.
+To date, Zappar has not received any external venture capital funding and has been self-financed from its operating revenue.
+The company has two models for generating revenue from projects for clients: (1) production advances for AR-enabled products plus royalties on sales achieved; (2) fixed project fees.
+Zappar's revenue in the financial year 2012/13 was GBP612k, which it reinvested in product development, recruitment and global expansion.
+As of June 2013, it employs 17 people, an increase of approximately 13 since 2011 (Ref 7).
+Zappar is now established as a full-service company that provides both the AR delivery platform and the creative content for clients.
+The Zappar process is essentially unchanged from the Popcode process and remains underpinned by DoEng research results.
+Each user experience of using Zappar is called a Zap.
+A Zap lasts on average 90 seconds, 60% of all Zappar users zap the same content more than once and the experience requires active participation (Ref 7).
+Firstly, as a comparison, the average duration of conventional online video advertisements is 24 seconds (Ref 8), which is less than a third the length of an average Zap.
+Secondly, only a fraction of viewers watch online video advertisements to completion.
+Thirdly, the video advertising experience is passive, whereas a Zap actively engages the user.
+This means that Zappar creates longer, more repeated and more active engagement than conventional methods of advertising.
+Zappar sees the benefit to its brands partners and licensees is through its ability to add incremental engagement and therefore media value to marketing activity as well as creating new product lines, stock-keeping units (SKUs) and incremental sales for license holders (Ref 7).
+Zappar has created over 300 different experiences for over 50 different brands and licensed properties in 17 countries around the world over the last two years (Ref 7).
+It has created partnerships with licensees (principally T-shirt manufacturers), which has led to relationships with licensors, such as Warner Brothers and Disney.
+Current Zap-enabled products include T-shirts, caps, accessories, greetings cards, books, CDs, posters, puzzles, calendars, magazines and toys.
+These goods are used to deliver added value content for some of the world's most popular properties, including, Marvel's Spiderman, the pop group One Direction and Skylanders, which is an interactive console game created by Activision (Ref 7).
+[text removed for publication] Zappar client work since its launch in 2011 includes the following:  Over 1.5 million Zappar-powered tee-shirts have been sold in retail outlets such as JCPenney, Macy's, Wal-Mart, Target, ASDA, C&amp;A and Woolworths in countries that include Australia, Canada, Mexico, South Africa, the UK and the US (Ref 7) Zappar was used for the limited edition picture box set version of the 2012 album "Take Me Home" by the pop group, One Direction.
+Buyers gained access to exclusive content, brought to life using Zappar, which included behind-the-scenes videos and photos of the group.
+[text removed for publication] Zappar was used for exclusive features with Fabulous (a free magazine supplement in News International's "Sun on Sunday" paper with a readership of over 4 million people).
+Features for Leona Lewis and One Direction were enhanced with Zappar to promote their new albums (Ref 7).
+The editor of Fabulous stated: "We wanted to offer our print readers an enhanced experience and Zappar's cutting-edge technology has enabled us to do this.
+We look forward to pushing the boundaries with them in the future" (Ref 9) A cover promotion for Rogue magazine in association with "Magnum" ice cream, featuring the actress and TV presenter Solenn Heussaff, used Zappar (Ref 7) The Tatler lifestyle magazine used Zappar to augment its content for the the Queen's Diamond Jubilee in 2012 and Valentine's Day in 2013 (Ref 7) Zappar was used in the promotions for the UK release of Warner Bros' "Happy Feet 2" film in 2011, which included a Zappar-powered posters that triggered a dancing penguin and the ability to view the film's trailer (Ref 7) A similar poster-based promotion was used for the cinema release of the film "Harry Potter and the Deathly Hallows: Part 2", "Sherlock Holmes: a Game of Shadows" and "Green Lantern" for Warner Bros (Ref 7) Zappar engaged with ASDA in March 2013 to promote an in-store Easter egg hunt [text removed for publication].
+Head of Events Marketing at ASDA stated, "The AR Easter Egg Hunt is a great way to get across the ASDA personality and another example of how ASDA stores are a destination for mums and kids.
+We are really excited to be embracing this new technology and incorporating it into the ASDA app.
+Hopefully everyone enjoys meeting the Easter Bunny!"
+(Ref 10).
+Zappar, with ASDA, won the Award for Best Practical Case Study at the 2013 Augmented Reality Summit in London in June 2013 for which the judges' criteria were: concept of use of AR; imagination, innovation and uniqueness; commercial feasibility; market perception; and achieved results/return on investment (Ref 11).
+Time Online ran a feature on Zappar in October 2012 in which the President of Creative Strategies Inc, an established Silicon Valley industry columnist, presented his independent view: "A few weeks back, executives of a U.K. company called Zappar came to my office to show me their augmented reality technology.
+I have been looking into augmented reality for over a decade and have only seen false starts.
+But for the first time, I finally saw a technology and app infrastructure coming together that suggests to me that augmented reality is finally ready for prime time."
+He added, "Also, of the AR apps I am aware of, Zappar seems the furthest along in getting big support from ad agencies, Hollywood, game makers and others" Ref (12).
+Zappar hired two further developers in April 2013 to work on its new self-serve Zapcode Creator system, which will allow consumers and businesses to create, publish and share their own AR content on the Zappar platform.

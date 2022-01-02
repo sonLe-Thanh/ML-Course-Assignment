@@ -1,0 +1,30 @@
+     The impact that our research has had can be demonstrated in the       commercial application (described at the end of this section) but also in       the recognition received:            a Chairman's award from BAE Systems;       Surrey was awarded a commercialisation award for &#163;250k from SEEDA;       SNS received a &#163;750k investment from IP Group;       SNS equipment sales of &#163;1.5M per annum to the global research         community during the start-up phase alone.
+The semiconductor industry, whose worth is measured in billions of       dollars, urgently needs new interconnection technology and low-k       dielectrics to maintain the pace of innovation according to Moore's law.
+The limitations of existing manufacturing technology threaten the       evolution to next-generation geometry sizes, speeds and power       conservation.
+Manufacturers in the semiconductor industry, currently use copper to       provide the vertical interconnections required for integrated circuit (IC)       fabrication.
+Carbon Nanotubes (CNT) can be structured to act as extremely       efficient conductors, but their adoption as a replacement for copper has       been hindered by the fact that conventionally grown CNTs require       temperatures of around 700 degrees centigrade.
+This is too high for       semiconductor processing, and leads to the destruction of the microchip       circuitry.
+In parallel, the semiconductor industry has continuing needs       for better dielectric materials.
+In this context, better means lower       dielectric constant with solid materials preferred over highly porous       systems.
+The materials processes must integrate smoothly with the       remaining processes as the technology need is for an incremental change       rather than a disruptive re-engineering.
+"SNS's low-k material offers a potential step change for           dielectrics with a k value that meets the requirements of 22 nm           integrated circuit technology" Chair of ITRS Interconnect Working           Group     These two, well-understood industry needs are the primary target market       for Surrey NanoSystems Ltd.
+The highly innovative PTCVD process, which       provides the ability to grow carbon nanomaterials at low substrate       temperatures, is the technology that underpins SNS.
+It removes a major       obstacle in using devices such as CNT in next generation microchip       manufacture.
+SNS was formed in 2008 to commercialise the technology and       has developed it into the world's first "turn-key" NanoGrowthTM       machine for the cost-effective, low-temperature production of precision       aligned multi-wall carbon nanomaterials.
+The commercial development is       entirely focussed on meeting the International Technology Roadmap for       Semiconductors (ITRS).
+This is a high-risk, high-reward strategy and is       supported by venture capital.
+".....we would consider a film with these verified novel           characteristics as interesting, and would therefore be interested in           further internal evaluation for suitability of potential use [in a           manufacturing process] in the future.....".
+Manager, Intel Ireland     The NanoGrowthTM machine, provides a fabrication system that       allows CNT structures and low-k dielectrics to be grown at silicon       friendly processing temperatures, that is below 450 degrees C, making       viable a new interconnection process for high-volume semiconductor       manufacture.
+This is the first commercially available nanomaterial growth       machine that allows the user to easily and precisely control the rapid       growth, quality and characteristics of carbon nanotubes and low-k       dielectrics using fully tested "ingredient mix recipes."
+SNS was formed in 2008.
+The first stage of the business model was based       on developing the market for the NanoGrowthTM machine in       academic and commercial research laboratories.
+As a result of this       strategy, many research establishments around the world have entered into       partnership agreements with SNS.
+The second part of the business plan was       to attract further investment and to incorporate the technology more       widely into a range of manufacturing processes.
+This is now underway,       following the &#163;4.5m of 2nd round funding that was recently       (2012) secured.
+The company's base is in Newhaven, and has already hired       20 staff to run the activities.
+Dr G.Y.Chen has transferred from the       University of Surrey as CTO and Prof Silva is CSO and a Board member       together with K.Robson from Surrey's Research and Enterprise Support       office.
+The new business is still growing, but has already impacted       considerably in the area in terms of providing employment and economic       regeneration.
+SNS expects the overall market to grow at approximately 10% per year and       notes that downturns in the sector often see increased spend in R&amp;D.       The key part of the market to SNS is the semiconductor wafer fab       equipment, worth approx.
+$33bn in 2008 and expected to grow to $41bn by       2012.
+The low-k materials market in itself was worth over $2.4bn in 2011,       and together with the interconnect market unlocks the $250bn semiconductor       industry IC manufacturers and equipment vendors.
+SNS has started the       validation process for their equipment to be incorporated in the 2014 IC       cycle which has a 2 year lead time.

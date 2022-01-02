@@ -1,0 +1,22 @@
+     The combination of mitomycin, ifosfamide, and cisplatin (MIC) was       previously widely used in Europe for the treatment of advanced NSCLC.
+This       required patients to stay in hospital overnight, and had adverse effects       on quality of life.
+Cisplatin and etoposide (PE) were commonly used       together to treat poor prognosis SCLC.
+However, major problems with       cisplatin treatment were the administration time and significant       symptomatic non-haematological toxicity.
+Gemcitabine/carboplatin (gem/carbo) became popular because it was given       as an out-patient treatment with short infusion time.
+It was also better       tolerated, causing less emesis, renal impairment, hearing loss and       neurotoxicity compared to other regimens.
+In addition, many NSCLC patients       are elderly (median age 72) with poor performance status and have multiple       co- morbidities, so clinicians often recommend carboplatin instead of       cisplatin to treat this population group.
+Gem/carbo therefore became       widely used as a first-line treatment in the UK and internationally to       treat patients with advanced NSCLC (Lilly data).
+In 2009, NICE guidance       recommended pemetrexed-based chemotherapy for NSCLC [a], and since       that time, gem/carbo has been used mainly to treat SCLC (NICE guidelines       TA26 [b] and CG121 [c]).
+The following recommendations are from the NICE website (accessed 30       April 2013), based on the findings of the UCL trials:     SCLC [d]:     "Early stage (broadly T1-2a, N0, M0) or limited disease (broadly T1-4,         N0-3, M0)     Consider carboplatin if renal function impaired, poor performance         status (WHO 2 or more) or significant comorbidity"     Extensive disease (broadly T1-4, N0-3, M1a/b)     Offer platinum-based combination chemotherapy (maximum 6 cycles) if         patient can receive chemotherapy".
+NSCLC [e]:     "For advanced NSCLC, offer a combination of a single third-generation         drug (docetaxel, gemcitabine, paclitaxel or vinorelbine) plus a platinum         drug (either carboplatin or cisplatin)."
+As a result of the national guidance, gem/carbo was used as a reference       regimen in the BTOG 2 trial (a large national clinical trial of 1,350       NSCLC patients) to compare low dose and high dose platinum regimens [f].
+The study shows gem/carbo was well tolerated and superior to low dose       cisplatin but has similar outcome compared to high dose cisplatin regimen       [g].
+The Study 10 findings are also quoted in the US National Comprehensive       Cancer Network (NCCN) guidelines to support the use of carboplatin to       treat extensive SCLC [h].
+Individual patient data from Study 10       were used for the meta-analysis comparing the efficacy of cisplatin versus       carboplatin in the first-line treatment of SCLC [i].
+There is also       reference to Study 10 in Canadian guidelines on bladder cancer [j].
+Approximately 4,000 new cases of SCLC are diagnosed in the UK each year.
+The majority of these patients have extensive SCLC and poor performance       status and hence many are treated with a carboplatin-based regimen instead       of a cisplatin-based treatment.
+A carboplatin regimen can be easily       administered as an out-patient regimen reducing chair time usage and       avoiding the inconvenience of prolonged hydration or overnight stay       associated with cisplatin and also fewer of the adverse effects that are       commonly seen with cisplatin administration.
+The Systemic Anti-Cancer Therapy (SACT) Dataset, within the National       Cancer Intelligence Network, has been recording data on types of       treatments for lung cancer since April 2012.
+For 2012 there were 3,686       SCLC cases recorded in England and Wales.
+The SACT dataset shows that       between April 2012 and March 2013, 710 patients with SCLC received       carboplatin, though only around 80% of trusts had uploaded data so the       actual number is likely to be nearer 900, meaning that 26% of SCLC       patients received carboplatin [k].

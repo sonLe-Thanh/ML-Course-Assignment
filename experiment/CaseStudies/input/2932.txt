@@ -1,0 +1,24 @@
+     Context     Moving software applications from one platform to another is often a time       consuming and expensive process due to differences between operating       system (OS) and processor pairs.
+The need to rewrite applications for the       new OS/processor pair resulted in a software/hardware dependency that was       a major barrier to strategic migration, delaying hardware sales and       limiting the availability of software on new platforms.
+Rawsthorne's research led to the development of hardware virtualization       technology which allows software applications that have been compiled for       one OS/processor pair to run on another without any source code or binary       changes, and at speeds comparable to native ports.
+The technology       dramatically reduced software developers' cost, risk, and time-to-market       in supporting multiple hardware platforms.
+Pathways to Impact     The research led directly to the creation of the start-up company       Transitive, with Rawsthorne as CTO, which secured venture capital funding       from Pond Venture Partners Ltd., Manchester Technology Fund (a University       of Manchester/UMIST venture fund), Crescendo Ventures and Accel Partners.
+Transitive had its headquarters in Los Gatos, California with a research       and development team in Manchester.
+Transitive was purchased by IBM in       2009.
+Reach and Significance     Transitive Corporation and IBM Manchester Lab.
+The primary       economic impact of the research was through the establishment of       Transitive Corporation.
+The company accounts show that Transitive employed       81 on 31/11/2008 and 76 staff on 31/12/2009 [A].
+Transitive was acquired       by IBM in 2009, which on 13th May 2010 announced the official opening of       the IBM Manchester Lab [B], which continues to this day.
+The press release       [B] states that "the Manchester Lab engineers have already developed IBM&#174;       PowerVM Lx86 for IBM Power Systems, a technology which helps to enable       clients to consolidate their Linux-based applications onto IBM systems".
+Apple's Adoption of Transitive Technology.
+In the early 2000s, it       was apparent to many in the industry that Apple's choice of PowerPC       processor for its Macintosh computers was increasingly limiting its       business.
+The volumes available in the (IBM-compatible) PC business had       enabled Intel and AMD to produce ranges of CPU chips carefully optimized       for use in different system products such as servers, desktop and laptop       computers.
+Apple laptops were handicapped by needing heavier thermal       solutions and heavier batteries than IBM-compatible PCs of the era, which       made it impossible for Apple to compete with PC manufacturers in this       growing market.
+In 2005, Apple announced it would transition the entire Macintosh product       line to Intel CPU chips starting in 2006.
+As part of this announcement       they introduced "Rosetta", licensed from Transitive, to allow existing       PowerPC applications to run on new Intel-based Macintosh computers at good       performance [C, D].
+Rosetta was shipped with Apple desktop and laptop computers that used Mac       OS X "Tiger" from Version 10.4.4 to Version 10.5 "Leopard", which       essentially cover the period from January 2006 until August 2009.
+As an       estimate of the number of copies of Rosetta shipped, from Q2 2006 until Q2       2009, Apple shipped over 25 million desktop and laptop computers [E].
+We       expect that most of these were in use for at least some part of the REF       period, and in terms of sales, over 14 million desktop and laptop       computers were sold by Apple from Q1 2008 to Q2 2009, representing a       revenue of over $20bn [E].
+The sales of Apple computers roughly doubled       from 2006 to 2009, reflecting the successful change in platform that       Rosetta helped to bring about.
+For Intel there was also a significant revenue boost as every one of the       post 2006 Macintosh computers contains an Intel CPU.
+Over the period       2008-2011, 40 million were sold, representing additional sales revenue to       Intel of approximately $4bn.

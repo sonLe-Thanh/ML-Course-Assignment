@@ -1,0 +1,31 @@
+     The impact of the research described above has been both on the work of       large industrial       companies (Unilever PLC), as well as industrial research institutes       (I2T3).
+In both cases the       methods developed in the research were directly applied to problems of       industrial relevance.
+I2T3 (Innovazione Industriale Tramite Trasferimento Tecnologico Onlus) is       based in Florence and is       an industrial research and technology transfer organisation.
+This was       funded for start up, by the       Chamber of Commerce of Florence, the Cassa di Risparmio di Firenze, the       Fraunhofer Institut and       the University of Florence, and brought together industrial and academic       partners.
+Its Vice-President       describes direct impact of the methods developed in this research on a       technologically relevant       project called "MAC-GEO".
+The project concerned modelling of the evolution       of geothermal       reservoirs and I2T3's contribution focused on phase equilibria of       geothermal mixtures.
+The project       was worth 800k Euro overall, but involved also data collecting, database       organization so that this       modelling part had a budget of ca.
+200k Euro.
+Polydispersity came in both       as part of the main       dynamic model and, of course, in solving the phase equilibrium conditions.
+I2T3 had a contract to       work on phase equilibrium calculation and chemical kinetics between rock       matrix and geothermal       fluid.
+I2T3's Vice-President emphasizes that the phase equilibrium       calculations were possible only       because of the efficient numerical methods arising out of the research in       this case study.
+He is also       conducting a feasibility analysis for a project for a company that makes       compressors and might be       interested in developing modelling software in which liquid/gas phase       transitions of polydisperse       fluids are taken into account.
+I2T3's Vice-President also reports several other instances of impact,       including modelling of       blowdown processes in hydrocarbon pressure vessels (with I2T3 and       Snamprogetti spa, at that time       part of the ENI group, now sold to SAIPEM), and a project with ENI to       model wax formation in       pipelines where again hydrocarbon mixtures were involved.
+The results for       the impact at       Snamprogetti were presented at a SIMAI (Societa Italiana di Matematica       Applicata e Industriale)       conference, in a symposium about oil and gas-related mathematical       modelling that had significant       attendance from industry.
+More significantly, the moment method was       incorporated directly in       blowdown process simulation software delivered to Snamprogetti, where it       was then used in the pre-design       of hydrocarbon pressure vessels.
+Unilever is the world's third largest consumer goods company.
+It owns       over 400 brands, including       several with annual sales exceeding one billion euros.
+Its products       include foods, beverages,       cleaning agents and products for personal care and hygiene.
+Many of these       products are       polydisperse in nature.
+Food products such as mayonnaise or margarine are       typically colloidal       mixtures of several different ingredients (including plant oil, fatty       acids, water and plant-sterols).
+The       same is true for home and personal care products, many of which are       sophisticated blends of       surfactants, polymers and colloids.
+It is essential for processability and       usability of these substances       that they can be designed to be stable against demixing of their       components, for the entire range of       ambient temperatures at which they are used, stored, or processed.
+A substantial amount of work is therefore invested at the Unilever       research labs to formulate       compositions that ensure such stability of their products.
+The       polydispersity research described in       section 3 has provided concepts and insights which have streamlined this       work [see for example       "Flory-Huggins theory for the solubility of heterogeneously-modified       polymers", P. B. Warren,       Macromolecules 40, 6709 (2007)].
+Particularly in the area of computer       aided formulation, the ideas       are expected to lead to significant savings in research efforts, faster       development cycles, shorter       time-to-market, and improved flexibility and efficiency in the supply       chain.
+In a supporting letter, a senior scientist at Unilever describes the       impact of the research,       emphasizing the conceptual impact as follows: "Indeed, I may add that the       polydispersity work now       shapes my thinking in a deep way.
+In computer-aided formulation we are       investigating of the phase       behaviour of alkyl chain terminated surfactants.
+Polydispersity in the       alkyl chain length is a concern,       but I think a key insight from the polydispersity work is that it is       legitimate to estimate the effect by a       2- or 3-component mixture...." In this way the conceptual insights from       the moment free energy have       an impact on Unilever's day to day work.
+Concerning the resulting savings       in research efforts for a       typical characterisation project, the senior scientist further comments:       "...
+It is difficult to quantify the       impact in financial terms though if we say it saved 6 months of       characterisation effort, we can make       a very rough justification that this corresponds to &#163;50m.
+This is       indicative of the scale of savings that       have continued to accrue since."

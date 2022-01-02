@@ -1,0 +1,38 @@
+     Pathways to impact     Long-standing collaboration with HWC.
+Our partnership with HWC is       a major route to impact (on TETRA, and other areas of communication       systems research).
+With regards to QoS research, the collaboration       culminated in subcontracting the University for EMM software development.
+The code was released to HWC in October 2001.
+It includes Mux/DeMux       software for QoS mapping and multiplexing of application, written by       Friday (an RA in Davies' group) in collaboration with Indika Samarakoon of       HWC [A].
+The TETRA MEX layer standard specification evolved from Mux/Demux       and the precursory research.
+Collaboration with Philips Telecom / Simoco.
+The joint work with       Simoco gave Davies' group access to early TETRA technology and enabled       application of their QoS research for operation over TETRA.
+It also led to       the entry of HWC into the TETRA standardisation activity, by the       invitation of Dr Mark Rayne (then with Simoco, since 2001 with Sepura plc)       [B].
+Engagement with users.
+Engagement with LAMR resulted in a       real-world application that was instrumental in conveying the importance       of multimedia over TETRA.
+The application was featured in Land Mobile         &#8212; Wireless Communications for Business [C], shown on the BBC's       Tomorrows World programme, and selected for the Best Application Award       at the TETRA World Congress in 2001.
+Details of the impact on TETRA     The TETRA standard is overseen by ETSI, the European Telecommunications       Standards Institute.
+As part of their standardisation activity, ETSI       commission contributions from external experts under the framework of       Special Task Force projects (STFs).
+Each STF is set up as a small group of       experts who conduct technical work to address a specific challenge with       the necessary research, and who produce results that directly feed into       the standard.
+Introduced by Rayne, HWC has worked on a succession of ETSI STF       contracts, addressing special tasks on different parts of the standard.
+Two of these contracts concerned work on the MEX layer, allocated       exclusively to HWC [D].
+The first contract was under STF 179, a larger       task force driving the whole TEDS specification from 2001-2006.
+HWC       developed and authored the MEX layer specification, i.e.
+support for       applications to negotiate QoS, mapping of application QoS to radio       resources, and packet queuing.
+This was followed by a contract under STF       314, a task force that ETSI allocated exclusively to HWC, with Indika       Samarakoon as task force lead.
+HWC developed updates of TETRA's Peripheral       Equipment Interface (PEI) to support MEX, and refined MEX to support three       different modes of operation for QoS management.
+The MEX layer then became       included as a new clause 30 in the TETRA II air interface specification       (ETSI TS 100 392-2, released in August 2010), with associated updates in       the PEI specification (ETSI TS 100 392-5, released in July 2010) [E].
+HWC       also contributed to other parts of the TETRA II release, via STFs that       leveraged other Lancaster University research (work on coding,       interleaving and link control led by Honary in the Communication Systems       Department).
+The beneficiaries of TETRA II and MEX are i) vendors in the       TETRA market &#8212; benefitting from a defined standard for developing enhanced       products; ii) TETRA users in public services &#8212; enabled to exchange       multimedia data via their terminals; and iii) the wider public &#8212; as more       efficient communication of emergency and safety services results in lives       saved.
+Reach of the impact.
+The reach is global: TETRA is the       world-wide leading technology for critical communications, adopted in over       120 countries.
+More than 250 networks are in use by Governments for public       safety and related services, and TETRA is routinely used to create private       mobile radio services at major events (e.g., London 2012 Olympics and       Paralympics).
+The market is growing, with 12% more terminals shipped in       2012.
+Motorola and Cassidian are market leaders who spearhead TETRA II       compliant deployments.
+For example, Asia's largest TETRA network, operated       by the Beijing Government, is being extended based on the latest release       to serve up to 110,000 users [F], and the City of Nanjing is deploying a       new TETRA network ahead of hosting the Youth Olympic Games [G].
+These new       deployments are based on a version of a standard that includes MEX and       manufacturers have the option to leverage QoS technology that has its       roots in Lancaster University research.
+At the same time, standards       development is progressing toward a next generation of critical broadband       (e.g., based on LTE) extending TETRA, for which QoS management components       such as MEX will become increasingly important in critical communications.
+Significance of the change effected.
+The significance of       the impact plays out on two levels:     (1) The MEX layer plays a significant role in the TETRA protocol stack,       as it enables the network to balance the QoS requirements of multiple       applications.
+The alternative to MEX would be that applications request       underlying network services directly; but that would be unworkable as       applications are unaware of the total application demand on the network.
+MEX, in contrast, supports that applications negotiate their QoS, and       multiplexes applications to optimise overall throughput.
+(2) The significance of efficiency and multimedia in mobile       communications for public safety is widely documented, evidencing the link       between efficiency of mobile communication, productivity of services,       lives saved, and net cost savings for society [H].

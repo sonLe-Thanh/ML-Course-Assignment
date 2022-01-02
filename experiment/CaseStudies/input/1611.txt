@@ -1,0 +1,25 @@
+ Background RSA is one of the world's leading multinational insurance groups, focusing on general insurance.
+It employs 23,000 people and serves 17 million customers in over 140 countries.
+RSA has annual premiums of &#163;9 billion and a &#163;4.5 billion market capitalization, and they hold reserves of &#163;15 billion, The European Commission established the Solvency II project in the early 2000s, to review and reform the rules governing direct life and non-life insurance undertakings and reinsurance undertakings operating in the European Union (EU).
+The Solvency II Directive,adopted by the EU in the European Council in 2009, significantly change how the capital requirement of general insurers is set and assessed.
+To ensure compliance with the new regulations, RSA set up a research programme into reserving which has fed through to impact on RSA policies and practise.
+To facilitate the research and its impact, Jens Nielsen, then research director at RSA, set up a "knowledge loop" in 2004, which continues today, whereby practical problems confronting RSA are fed through as research questions for academic research, the research is then tested on RSA data through an internship programme.
+The outcome of this process is then evaluated by RSA with a view to implementation or to stimulate further research.
+Dr Bent Nielsen was contacted initially by Jens Nielsen, in 2004, to lead the research into problems of calendar effects in the chain ladder model.
+Bent Nielsen then became associated with RSA as an academic consultant from 2004 to 2012.
+As part of this "knowledge loop" with RSA, Bent Nielsen also organised a number of workshops in Oxford between 2006 and 2008 as a part of RSAs corporate development programme.
+These discussed the emerging research with participation from academics and about 20 actuaries from RSA helping to continue this co-productive research dialogue.
+Internship programme An annual internship programme has been running since 2004 for 2-3 Oxford undergraduate mathematics students.
+It involves a period spent absorbing recently researched methods and associated computer programs, followed by a period of testing the methods on RSA data.
+In the initial period the students are supervised by academics.
+Subsequently they are supervised by RSA actuaries.
+The students then write their findings up in a confidential internal research report and make an oral presentation to RSA management.
+The topic of the internship has changed from year to year.
+In 2009 the main topic was calendar effects with Dr Bent Nielsen leading the initial academic supervision and guidance.
+Impact 1: Research on calendar effects To date the research by Dr Bent Nielsen and others has impacted on the operations of RSA in two main ways.
+First, the research into calendar effects [R1, R2] influenced RSA.
+[text removed for publication] Impact 2: Research on forecasting in the presence of structural breaks Second, the research on forecasting in the presence of structural breaks was important in determining the company's response to the global financial crisis.
+In 2009, the possible effects of the financial crisis on their reserves was a key issue for RSA and the research on forecasting in the presence of structural breaks [R3] was the focus of the 2009 internship.
+Bent Nielsen presented the theory and related computer routines in R to the interns, and to the then Head of UK Reserving at RSA.
+The interns then tested the methods on a number of internal RSA data sets.
+[text removed for publication] Impact 3: [text removed for publication]

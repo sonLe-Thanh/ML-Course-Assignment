@@ -1,0 +1,35 @@
+     We now present evidence to show that the research cited in &#167;2 and &#167;3       above has changed the       understanding and awareness of major industrial companies of the       advantages of BDD and has       resulted in its integration into major industrial trials and proprietary       software products.
+BDD is now routinely used as an analysis tool for certification of       engineering designs, i.e.
+before       implementation.
+Much more significantly, BDD can also be used to support       decision-making on       system utilisation in real-time operation.
+For example, as       component faults are reported or       environmental conditions change fast BDD calculations can be performed to       update the prediction       of the probability of mission failure; when this reaches some preset       critical threshold appropriate       action can be taken.
+BDD is a major development with wide and significant       applications.
+In       particular, recognising BDD's value, BAE Systems have adopted it for use       in unmanned aerial       vehicles (UAVs).
+BDD's are used for many different aerospace applications such as by NASA       (http://www.hq.nasa.gov/office/codeq/doctree/fthb.pdf)       and by the group of Antoine Rauzy at the       Ecole Polytechnique in Paris [5.5].
+Example 1     The development of BDD led to a large collaborative project with BAE       Systems as Project       Partners, called NECTISE (Network Enabled Capability Through Innovative       Systems Engineering).
+It was also supported by EPSRC and worth &#163;8.4 million       (1/11/2005-30/4/2009) with about half       being industrial funding.
+The research involved ten universities, led by       Loughborough University.
+Prof John Andrews was the principle investigator of the submission, and       Prof Michael Henshaw       (Loughborough University) later led the programme.
+The impact of BDD on       this work and its       outcome for BAE can be verified by [5.1].
+The key aspect being       that the BDD decision-making       capability in the area of real-time diagnostics was fundamental to a       number of BAE Systems       research themes and changed the understanding and awareness as to the       operational advantages       conferred by BDD.
+In particular the work led to the integration of BDD's       into major industrial       research programmes: Autonomous Systems and Integrated Vehicle Health       Management (IVHM).
+Example 2     The development of BDD at Loughborough University led to it being       thoroughly tested and its       viability demonstrated for an entirely different application, firstly in       BAE Systems-led projects       ASTRAEA I (2006-8) and then in ASTRAEA II (2009-2013) concerning UAVs.
+It       is predicted that       following the Tornado, no future UK/European military aircraft       will have onboard pilots, and for       such aircraft UAVs will be the norm.
+BAE's Advanced Technical Centres have       carried out       experimental trials and BAE's Military Air &amp; Information Group is (in       2012-13) undertaking UAV       flight trials.
+BDD is an essential part of this work and the impact of       this research will be felt       wherever UAVs are deployed &#8212; such as earth observation, monitoring of       pipelines and power lines,       detecting and controlling forest fires, law enforcement, border control       and coastguarding.
+The UAV       must have the ability to respond to changing conditions.
+Such changes can       occur due to       component failures causing loss of functionality or reduced redundancy,       changing weather       conditions, or the emergence of a threat such as another aircraft in the       locality.
+When these       conditions are reported the mission success likelihood is re-evaluated       using the BDD approach,       accounting for the new conditions.
+Mission failures can be considered in two ways: catastrophic failure       where the vehicle will be lost,       and mission failure where the mission objectives are not accomplished but       the vehicle lands safely.
+When the predicted likelihood that the vehicle will successfully perform       its intended task becomes       unacceptably low, action is required to mitigate this situation.
+This       action takes the form of mission       reconfiguration.
+Mission reconfiguration for a UAV selects a new route,       new mission objectives, or       can be implemented to abort the mission and make an emergency landing.
+It       is this mission       reconfiguration process through the use of BDD's which provides the main       impact in UAV design.
+Within the ASTRAEA project there have been a number of projects (or       themes).
+Specifically,       ASTRAEA's Theme T7 `Health Management System Design' addressed the issue       of `maintaining       real-time system awareness of the UAV'.
+This was a collaborative project       between BAE Systems,       LU and Aberystwyth University.
+According to a BAE Systems member, `BDD was       an essential       underpinning methodology' [5.1].
+The significance of ASTRAEA I's Theme 7 (referred to above) led to its       being selected as a finalist       (one of three) in the 2009 Institution of Engineering and Technology       Innovation Awards, a further       indicator of the impact of the BDD method [5.2, 5.3].
+The research has therefore been integrated into experimental trials in       one of the world's largest       manufacturing companies in an area of vital importance to the future of UK       security and economic       development.
+A further indicator of the impact of BDD comes from the fact that       commercial software companies       such as ISOGRAPH, ARALIA and ITEM SOFTWARE now incorporate BDD in their       proprietary       packages for Fault Tree Analysis [5.4].
+The research therefore       changed the awareness of another       industry leading to new products and services.

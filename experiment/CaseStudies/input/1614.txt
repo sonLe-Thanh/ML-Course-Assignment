@@ -1,0 +1,13 @@
+     Spiegelhalter's funnel plot methodology has been adopted by numerous       organisations charged with communicating medical outcomes to the public,       and has become increasingly influential in recent years with growing       public concern resulting from the release of evidence of certain NHS       performance outcomes.
+A major application area has been in child heart surgery.
+The National       Institute for Cardiovascular Outcomes Research (NICOR) uses funnel plots       to communicate risk of surgery for congenital heart disease to the public       [6].
+In addition they have strongly featured in Inquiries into possible       performance failures in UK hospitals: based on his research in this area,       Professor Spiegelhalter was a member of the 2010 Inquiry into child heart       deaths at the Oxford Radcliffe Infirmary, which resulted in the ceasing of       surgery in Oxford.
+In 2012 he also contributed funnel-plot analysis [7] to       the controversial Safe and Sustainable [8] programme that       recommended closure of centres for paediatric heart surgery.
+In April       2013, at the height of the controversy surrounding surgery at Leeds       General Infirmary, Professor Spiegelhalter was part of the group analysing       the revised data and he produced funnel plots to communicate the findings       &#8212; this analysis contributed to the decision to restart surgery at Leeds.
+[9]     As a result of Spiegelhalter's research, funnel plots have become a       standard method used for comparing outcomes within the National Health       Service: Department of Health guidance on `Detection and management of       outliers' [10] is almost entirely based on Spiegelhalter's work.
+The       National Joint Registry [11] uses them to identify centres with poor rates       of knee-replacement problems, while Organ Donation compares kidney       transplant success rates between centres.
+The initiative in 2013 to       publish surgeon-specific outcome data makes extensive use of funnel plots,       which appeared in news coverage [12].
+The NHS Information Centre uses       funnels as part of their reports on "Summary Hospital-level Mortality       Indicator (SHMI) &#8212; Deaths associated with hospitalisation, England" [13]       on an annual basis, including allowance for over-dispersion.
+Following the       Mid-Staffordshire Inquiry (at which Professor Spiegelhalter was a       witness), this information is used to select hospitals for further       investigation.
+Funnel plots have been included in software distributed by the Eastern       Region Public Health Observatory (now part of Public Health England): a       training video has been produced and 6500 downloads have been reported.
+[14]

@@ -1,0 +1,37 @@
+     According to a 2010 report of the House of Commons Environmental Audit       Committee "Poor air quality reduces the life expectancy of everyone in         the UK by an average of 7-8 months and up to 50,000 people a year die         prematurely because of it.'
+Defra estimates that poor health due to       air pollution costs the UK f07e&#163;19 bn p.a.
+(http://www.defra.gov.uk/environment/quality/air/air-quality/eu/).
+The       Health and Environment Alliance commented in 2013 "For the first time,         the Global Burden of Disease assessment has ranked an environmental       [health risk] factor [outdoor air pollution] among the more         widely discussed `life-style' risk factors, such as tobacco and alcohol"       (Lin et al, Lancet 2012, 380, 2224-60).
+4.1 MCM informs policy.
+Action to manage and improve air quality       in the UK is largely driven by EU legislation.
+The 2008 ambient air       quality directive sets legally binding limits for concentrations       in outdoor air of major air pollutants that impact public health.
+The EU       also sets national emissions ceilings.
+VOC oxidation, to form ozone and       secondary particulate matter (PM), presents particular problems because of       its long range and therefore transnational nature.
+The Head of the Air       Quality Programme at Defra (Department for Environment, Food and Rural       Affairs) (2005-2010) (previously, Head of the Air Quality Science Unit,       Defra, 1993-2005) stated that "The MCM formed the core of the modelling         research to inform policy related to ozone in Defra.
+As part of the PTM         (Photochemical Trajectory Model), and as a benchmark against which other         mechanisms were evaluated, it played a crucial role in ensuring that the         UK's policy positions were founded on the basis of the best available         science, on EU Directives such as the National Emissions Ceilings         Directive and the Solvent Emissions Directive and the UNECE `Gothenburg         Protocol'.
+Over the period during which Defra supported the MCM it         became a world-wide benchmark for chemical mechanisms and we in Defra         were therefore able to feel great confidence in our international         negotiations having based our positions on such excellent science"       (A).
+A detailed review for Defra provides a discussion of the MCM and of       its application in policy related work (A review of the Master Chemical         Mechanism, prepared for Defra, July 2007).
+Developments between       2007-2009 can be found in a 2009 project report to Defra (B) that       outlines the use of the MCM to model the formation of secondary organic       particulate matter (termed "secondary organic aerosol" in the report).
+4.2 MCM as the gold standard to benchmark atmospheric pollution         models.
+Because of the need to accommodate detailed atmospheric       transport, models of air pollution for policy purposes simplify the       chemistry and reduce the number of species involved to make the       atmospheric modelling more manageable.
+Because of its fundamental nature,       and the quality of its response to experimental evaluation, the MCM has       contributed substantially to policy applications through its use as a reference         mechanism that can be used to test the smaller, less fundamentally       based mechanisms that are used in atmospheric policy models.
+In their       report to Defra on modelling tools for policy applications (Review of         tools for modelling tropospheric ozone formation and assessing impacts         on human health &amp; ecosystems, Report to Defra, November 2007),       Monks et al.
+stated: "the traceability of chemical schemes" (i.e.
+mechanisms) "to an explicit basis is a more robust methodology than the         use of tuned generic schemes" (i.e.
+mechanisms not directly linked       to fundamental chemistry) "and the MCM should be used as a reference         benchmark for this process."
+The Head of the Air Quality Programme       at Defra (2005-2010) has stated that the impact of MCM has been sustained       since 2008: "The MCM has continued to provide a benchmark or standard       against which other, simpler, mechanisms are judged.
+Models using these         mechanisms are in continual use within Defra to inform and evaluate         policy, as demonstrated by the revision of the UNECE/CLRTAP 'Gothenburg'         Protocol in 2012 and the forthcoming negotiations on a revision of the         EU National Emissions Ceilings Directive later this year" (A).
+This       ongoing position was confirmed in 2013 by the current Head of the Air       Quality Science and Evidence Team at Defra (A).
+A similar recommendation has also been made in the United States where       the Environmental Protection Agency now considers that the MCM "is the         `gold standard' of chemical mechanisms.
+Both of the chemical mechanisms         that US EPA recommends for regulatory actions since 2008 have drawn from         the mechanism sequences in MCM.
+If our mechanisms are consistent with         MCM, we are confident they will hold up to scrutiny" (C).
+4.3 PTM/MCM informs policy       Section 2.2 outlined the importance of the MCM in a photochemical       trajectory model (PTM), which allowed the contribution of individual VOCs       to ozone formation in Europe and the UK to be quantified through       Photochemical Ozone Creation Potentials (POCPs).
+The PTM/MCM has been used       since 2008:            by Defra to ensure that the UK's policy positions are founded on the         basis of the best available science.
+This included the evaluation of         policy strategies based on VOC reactivity, implications of multiday         ozone formation in Europe and the impacts of large VOC releases from         industrial plant (A).
+by the Hong Kong Environmental Protection Department to identify key         ozone precursors.
+"Policy debate on the environment has been           stimulated and informed by ... research evidence using the master           chemical mechanism (MCM) as the chemical mechanism within a           photochemical trajectory model (PTM).
+We are currently assessing the           potential of using the MCM/PTM model as a new tool in the development           of those policies" (D).
+by the European Solvents Industry group in 2009 (E) to highlight the         effectiveness of the Solvents Emissions Directive in reducing ozone         since 1990, while also establishing that further restrictions under the         2004/42/EC Directive (Paints) would not contribute to a significant         further ozone reduction in Europe.
+by Derwent et al.
+(F) to attribute improvements in peak episodic ozone         concentrations in the UK 1990-2010 to EU Air Quality Policies.
+They also         established that the upward trend in the annual mean daily maximum could         be attributed to intercontinental transport of pollutants, emphasising         the need for global policies to abate ozone, as discussed by the UNECE         Task force on Hemispheric Air Pollution (G).

@@ -1,0 +1,45 @@
+     Mangat's impacts can be characterised as: influencing professional         practice, through software       and training; economic impact, through licencing of innovative       construction materials and a curing       method; and economic impact through enhancements to a provider's       capability.
+Influencing professional practice, through software and training       Software: By the culmination of the project [ii] described in section         2, the LINK consortium and its       steering group had identified the need for bridge management software       including the optimum       repair capability for bridge managers.
+The software house, Research         Engineers Ltd, was therefore       inducted into the consortium and, in 1998, a further LINK project was       initiated [ix] to develop an       expert system for optimal repair in reinforced concrete highway bridges.
+This fed into the       development of the commercial bridge management software via a TCS [x].
+Infrastructure         Asset         Management (IAM) Ltd [A,B] was established in 2004 to commercialise       the resultant software,       under licence to SHU.
+The software implements the models and equations       from Mangat's research       (e.g.
+refs [1-3]) and uses these, alongside relevant asset design and       construction parameters, to       determine optimum maintenance, inspection and repair cycles [B].
+IAM       has now become a leading       provider of infrastructure asset management software and consultancy.
+Its       Bridge Management         Xpert (BMX) system is the market standard for bridge management in       the UK, with a client base       including over 30 local authorities.
+The more recent Asset Management         Xpert (AMX) system       supports the management of any type of asset.
+The company has achieved       sales of ~&#163;300k in the       REF impact period, with ongoing sales of ~ &#163;100k pa.     Training: Mangat's expertise of repair, maintenance and management       of bridges has also been       intrinsic to the development of a professionally accredited course for       training bridge       inspectors/engineers to achieve the enhanced competences required by the       UK Bridges Board [C].
+In 2012, the Department of Transport (DoT) adopted this Bridge Inspection       Competence and       Training Scheme for the training of all present and future bridge       inspectors in the UK [D].
+Mangat's       contribution was fundamental to the development of this training scheme.
+Its content was first       considered in 2008 when, on the basis of his research record, he was       commissioned by the Scots       Bridges Group to develop a training course on bridge management and       inspection [D].
+This was       delivered to 85 bridge professionals in Dundee in 2008.
+Further iterations       of the training were       subsequently delivered in other locations (London, Birmingham, Dundee,       Glasgow, Sheffield,       Durham), 11 deliveries yielding a total attendance of 392 bridge       inspection and bridge       management professionals from local authorities, national authorities       (e.g.
+the Forth Bridge       authority), and private sector consultant engineers.
+In the light of his lead in the area, Mangat was the only academic       consulted when, in 2008-9,       the UK Bridges Board undertook a review of bridge inspection competence       and training (see       section 9.1 of [E]).
+The recommendations of this review led directly to       the DoT Training Scheme.
+Mangat and his colleagues (O'Flaherty and Lambert) are registered training       providers and       assessors [F].
+O'Flaherty has been submitted to REF in UoA16.
+This       training, together with the       software and service impact described above, provide uniformity of bridge       condition assessment       across the UK, leading to efficient targeted investment by Government and       national asset       management agencies (e.g., National Rail).
+Economic impact through licencing of innovative construction           materials and methods       The materials systems and curing approaches developed by Mangat to       overcome limitations of       conventional repair have also achieved impact.
+AAMs have been successfully       licenced to two       companies, Liquid Granite Ltd and C-Probe Systems Ltd,       whilst LOVACS, developed in       collaboration with Inditherm Plc, has been employed in a number of       constructions, such as the       Heathrow Terminal 5 Car Park.
+AAMs: The Research and Innovation Office (RIO) at SHU worked       closely with Mangat to manage       and commercialise the IP in AAMs.
+This led to a decision to exploit AAMs       through a spin out       company, Liquid Granite Ltd [G], rather than publish detailed       research findings in the open       literature.
+Publication would have risked disclosing the optimum       compositions needed for       commercialisation &#8212; policing of IP within the construction industry is       impractical.
+Technology       transfer officers in RIO handled all negotiations in the establishment of       Liquid Granite Ltd, drafting       licence agreements and providing authorisation for signature.
+Market       analysis performed by RIO       also highlighted the future potential of AAM technology.
+Ongoing usage of       Portland cement is not       sustainable due to the volume of CO2 produced in its       manufacture, so the construction industry is       increasingly employing low carbon products such as AAMs.
+Liquid Granite Ltd [G] was launched in 2006 (licence arrangements       agreed 2007) to exploit       AAMs.
+In this case SHU opted to take a licence agreement rather than an       equity stake.
+Equity is       held by a business angel plus two commercial partners, Church Holdings         Ltd and North Barnsley         Partnership who have collectively invested over ~&#163;50k in cash and at       least an equivalent in-kind       contribution.
+Liquid Granite concentrates on fire retarding       applications, selling AAM-based precast       lintels meeting the highest fire resistance specification for fire plug       applications in buildings - total       sales in the REF period are &#163;109k (licence income &#163;5,455), including a       batch of AAM lintels       installed in 2012 Olympic village.
+In 2012, C-Probe Ltd [H] took up a licence from SHU for a       customised version of AAMs,       concentrating on repair and corrosion protection of reinforced concrete       structures.
+This is based on       the electrically conducting version of AAMs and targeted at CP       applications [4], consistent with C-Probe's       other activities in the corrosion protection business and the       supply/installation of CP       systems.
+The customised version of AAM was trialled at Leeds Civic Hall       (limestone clad steel       framed building), pending a contract exceeding &#163;100k.
+LOVACS: The largest order achieved to date for LOVACS was by Laing         O'Rourke to cure       concrete during the Heathrow Terminal 5 construction.
+To July 2013, Inditherm,       had achieved total       sales of &#163;262,165 [J], of which &#163;35k (licence income &#163;853) fell in the REF       impact window.
+Impetus       for further impact was provided by a 2013 research grant to Mangat, within       an EU consortium [viii].
+Economic impact through enhancements to a provider's capability       Lambert's collaboration with the research of Mangat and O'Flaherty has       improved the international       competitiveness of Mott MacDonald (Lambert's employer).
+The       underpinning research on CP       systems has made Mott MacDonald a leading international provider       of durability enhancement and       corrosion remediation solutions to the built infrastructure sector [K].
+Examples include advances in       the design of CP systems which have been implemented in consultancy       projects and the       development of a new dual function anode system for CP [L].
+Commercial       projects resulting from       this within the REF impact window include: 85 Fleet Street, London &#8212; CP to       limestone clad steel       framed building, 2008 (value &#163;800k); St James Buildings, Manchester &#8212; CP       to limestone and       glazed brick clad steel framed building, 2008 (value &#163;100k); 992 Walnut       Street, Kansas City, USA &#8212;       Carbon fibre/AAM, CP design for granite clad steel framed portal, 2013       (value $80k); Severn       Bridge main suspension cables &#8212; residual life assessment (fees &#163;50k);       Civic Hall, Leeds, trial       carbon fibre/AAM, CP installation to limestone clad steel framed building,       2013 (potential value       &gt;&#163;100k); Battersea Power Station &#8212; CP design optimisation (prospective       fees &#163;20k).
+Because these works focus on extending service life and avoiding       demolition/reconstruction,       each represents an overall cost saving of tens of millions of pounds to       clients and wider society.

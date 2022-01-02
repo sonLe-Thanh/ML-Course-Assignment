@@ -1,0 +1,56 @@
+     Granta Design Limited was founded in 1994 to commercialise the results       from Ashby and Cebon's research collaboration in the DoEng by producing       software for industry.
+Granta remains an independent, private company       owned by its founders, employees, the University of Cambridge and ASM       International.
+Ashby is the Chairman and Cebon is the Managing Director.
+The company is now the World's largest firm specialising in materials       information software, with 110 staff in Cambridge, Germany, and the USA.
+Granta has grown organically by approximately 30% per annum since 2008       [7].
+As part of the original intellectual property (IP) assignment by the       University in 1994 (in exchange for the University's shareholding), all       relevant IP created by Ashby and Cebon in their University employment has       been channelled into Granta since its foundation.
+This has resulted in a       stream of products for the company.
+In this case study, the focus is on       Ashby and Cebon's research results on eco-design, transferred to Granta in       2001.
+Granta first used this IP to create a data product for eco-design in       2004 and has developed a number of products based on the original IP:     1.
+MaterialUniverse Eco Data (launched 2004, originally as `Eco       Selector') provides life cycle data for raw materials, their       processing/forming, their use and disposal/reuse including energy       consumption, CO2 emissions, water use, toxicity, compliance with       regulations, biodegradability, and other parameters required to analyse       eco performance over the lifecycle [8].
+This data product was first       released within CES EduPack, Granta's teaching product [9], subsequently       for industry in the CES Selector and GRANTA MI systems.
+While launched       prior to 2008, it has been developed continuously by Granta since, and       underpins sales and use of all eco-design products from 2008 onwards.
+2.
+Eco Audit Tool (launched 2007) is used during the design process,       drawing on MaterialUniverse Eco Data to estimate product life cycle       impact.
+It quantifies the most important environmental impacts and guides       designers in their selection of material and process technologies to       minimize these impacts.
+It was first released with CES EduPack and       subsequently as an add-on to the CES Selector software for industry [10].
+Nearly all of its sales and use have been in 2008 and onwards.
+3.
+Eco Materials Advisor (launched in 2011) is incorporated directly in       Autodesk Inventor, a digital design and prototyping application supplied       by leading CAD software company, Autodesk.
+It provides access to a       cloud-hosted version of the MaterialUniverse Eco Data from within Autodesk       Inventor.
+Any user can apply this data to their CAD model and then use Eco       Audit technology to compute the eco impact of their design [11].
+4.
+MI:Eco Audit (EMIT Member Version, launched 2012) enables users at       organizations with the GRANTA MI software to access MaterialUniverse Eco       Data within their enterprise materials information management system,       together with in-house materials data, and to apply Eco Audit calculations       using that data.
+The first version is available to members of the       Environmental Materials Information Technology (EMIT) Consortium, a       collaborative project co-ordinated by Granta.
+The members of the       Consortium include: Boeing, EADS Astrium Satellites, Emerson Electric,       Eurocopter, Honeywell, Lockheed Martin, NASA, NPL, Rolls-Royce, Thales,       United Technologies Corporation, and US Army Research Labs [12].
+Granta invested GBP0.5M in developing the MaterialUniverse Eco Data prior       to 2008.
+GBP1M was invested in the Eco Audit Tool (which includes Granta       capital, EC FP7 and TSB funds) prior to 2008.
+GBP1.3M was invested in Eco       Materials Advisor CAD integration (Granta capital, contributions from       strategic partner Autodesk and from EC Framework Pro in some supporting       functions) after 2008.
+The MaterialUniverse Eco Data and Eco Audit Tool       are an optional part of the GRANTA MI and CES Selector systems.
+For       organizations licensing these options, they are a key component of the       business case when adopting and using Granta software.
+These organizations       licensed software generating over GBP2M of revenue for Granta in financial       year 2012.
+Use of these technologies, based on data provided by Granta in May 2013,       is as follows:             120 companies worldwide hold licenses for MaterialUniverse Eco Data         and Eco Audit Tool within the CES Selector software        Eco Materials Adviser is available to 200,000 individual users of         Autodesk Inventor        MI:Eco Audit (EMIT Member Version) is licensed as an enterprise         application to 6 corporate members of the EMIT Consortium        570 universities and colleges worldwide hold licenses for         MaterialUniverse Eco Data and Eco Audit Tool for teaching or research.
+Commenting on the relationship between Autodesk and Granta Design, the       Senior Vice President, Manufacturing Industry Group at Autodesk said in       2011: "Autodesk is committed to providing the best 3D design and         engineering software to address the world's environmental challenges,         making sustainable design easy and accessible for manufacturers and         designers.
+Through the Eco Materials Adviser and our partnership with         Granta, we are helping make environmentally preferred material         selections a reality for enterprises of all sizes."
+[13]     The Editor of CAD magazine, `Develop 3D', said in an editorial in 2011: "Autodesk         and Granta Design have done an excellent job with the first release of         Eco Materials Adviser.
+It's not a mainstream type of tool as yet, the         rise of this type of design-system integrated tool has yet to happen.
+That said, economic, business and legislative pressures relating to         sustainability and compliance are only going to increase, all across the         globe.
+As a result, being able to load up a digital product model, even         in its nascent form, and gaining insight into the environmental impacts         of that product is going to become more and more critical for the design         and engineering community.
+As we move towards an era in which design and         engineering is not only about function, form and cost, but also         environmental impact, having this type of capability built into your         workhorse design tool will soon turn from a `nice to have' to an         `absolutely essential.'"
+[14] Examples of end users gaining benefit       from the use of the tools in the REF period include:     &#8226; Eco3 Design Consultancy published information about its use of       the Eco Audit Tool in April 2012, which it had used to advise Zodian on       how to improve the environmental impact of its lighting control product by       the: inclusion of recycled materials, reduction of materials used and use       of alternative electronics.
+The analysis suggested that these design       changes would lead to CO2e (carbon dioxide equivalent) savings of over 9kg       per unit over each unit's life.
+Zodian produces 125,000 units per year, so       the annual emission saving is well over 1,000 tonnes of CO2e.
+The       reduction in energy consumption of the products to which this lighting       control unit is attached has been calculated at 2,053MWh over the 125,000       units and their 15 year life cycle.
+This would equate to overall cost       savings for the user of the product of over GBP200,000.
+[15].
+&#8226; A global design consultancy applied the Eco Audit Tool, in combination       with CES Selector materials selection, to support re-design of a train       seat for their client, one of the World's leading engineering companies.
+The work took place over a period of 6 weeks and was completed in early       2013.
+Through light-weighting and selection of low embodied energy       materials a lifecycle reduction in energy and CO2 emissions of 35% was       achieved.
+One of the designers in the Munich office said: "I think         Granta is a great tool for supporting designers' thoughts on using the         right materials and guiding the design direction".
+According to a       member of the design team in Los Angeles: "Granta (EcoAudit) gives a         designer confidence to pursue a new concept rather than guessing up         front if it even would make sense from manufacture materials         perspective.
+The design can be tuned and optimized by plugging in         multiple materials and processes...and CAD can be plugged in to compare         pros and cons" [7].
+Teaching staff from institutions around the world have downloaded       and used the teaching resources relating to Eco Audit from the Granta       Design web.
+During just the 3 months to 1 June 2013, there were 239 unique       downloads of such teaching resources.
+There is a considerable body of       evidence illustrating effectiveness of Granta's Eco-Design system in       teaching and its uptake.
+For instance, the Associate Professor in the       Mechanical Engineering program at the University of North Florida stated       in 2013, "For the vast majority of engineering programs in the U.S.,         ABET accreditation remains the standard of validation of their degree         offerings...CES EduPack has been incorporated into existing courses in         the mechanical engineering curriculum at the University of North         Florida...Direct assessment of the presentation of methodology and         demonstration of attention to eco factors, [using EcoAudit] permits a         direct assessment tool for many of the `h' through `k' outcomes       [that are defined by ABET]."
+[16]

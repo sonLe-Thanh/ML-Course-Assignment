@@ -1,0 +1,28 @@
+     This research has led to the development of new optimization routines       which have been commercialised as a product by the Numerical Algorithms       Group (NAG).
+This product is based on the PENNON software code developed       by Kocvara and Stingl.
+The Chief Technical Officer at NAG has confirmed       that they expect to include it under licence in Mark 24 of the NAG C       Library, available in February 2014.
+[source 1] These novel routines for       nonlinear optimization will help NAG attract new customers, as well as       bringing further benefits to industrial and commercial end users.
+Inclusion in the NAG Library will mean that this product is actively       marketed to the company's worldwide client base which includes many major       corporations in the finance sector and engineering industries.
+The       company's annual financial statement demonstrates their international       reach with 44% of their &#163;8.2m turnover in 2012/2013 coming from outside of       the UK, including 17% from the USA and Canada, 8% from Japan and 19% from       Europe and the rest of the world.
+[source 2]     Market requirements     Semidefinite optimization is a relatively new field of optimization which       is of growing interest for several reasons.
+Many practical problems in       operations research and combinatorial optimization can be modelled or       approximated as semidefinite optimization problems.
+In automatic control       theory, SDP's are used in the context of linear matrix inequalities.
+SDP       is a special case of cone programming.
+The quickly growing number of       applications in many research and industrial areas include robust       optimization, control theory, relaxations and approximations to       combinatorial optimization problems, optimization of mechanical structures       in automotive and aerospace engineering, chemical engineering, image       recognition, machine learning, financial engineering, and many others.
+Many of these problems are intrinsically nonlinear.
+However, the software       currently available is only capable of solving problems with linear       constraints.
+PENNON is the only software that can solve nonlinear       problems.
+NAG and PENNON     NAG is a well-established not-for-profit company with international reach       that provide high quality methods for the solution of mathematical and       statistical problems.
+Its products are widely used by major companies,       universities, supercomputing sites and numerous independent software       vendors in many parts of the world.
+The NAG Library is the oldest and       best-known product of NAG, and is used by developers to add mathematical       and statistical functionality to their applications, or to solve       complicated mathematical problems.
+[source 3]     NAG closely collaborates with Birmingham's Optimization Group led by       Kocvara.
+One of the outcomes of the collaboration will be a set of new       routines in the NAG Libraries based on the Pennon optimization package.
+These routines will further include new algorithms for conic quadratic       optimization that will be developed under the supervision of Michal       Kocvara with the financial support by NAG.
+[source 4]     In NAG, work is underway on routines for linear and nonlinear       semidefinite programming.
+This will include routines for dense and sparse       scenarios, and can be applied to many problems in operations research and       combinatorial optimization.
+In the next phase, the newly developed       optimization library will be extended by routines for nonlinear       second-order conic optimization     NAG turned to PENNON for this because of the increasing demand for       reliable software for semidefinite and conic quadratic optimization and,       based on the popularity and generality of PENNON, they decided to base the       new implementation solely on this code.
+This allowed them to bring a       product to market more quickly than would otherwise have been possible.
+A further aspect of the impact achieved is the investment in further       development made by NAG.
+This is through funding by NAG of a postdoctoral       research fellow at Birmingham supervised by Michal Kocvara for two year       who will develop new algorithms and software for this class of problems.
+NAG has agreed to pay the salary costs for the research fellow over the       two years (&#163;73,000) for the two year period.
+[source 5]

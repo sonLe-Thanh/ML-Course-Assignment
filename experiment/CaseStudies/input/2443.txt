@@ -1,0 +1,20 @@
+     Impact on public policy     The National Institute for Health and Care Excellence (NICE) tested all       of the published risk scores for ACS using an unselected population of       approximately 70,000 patients from the United Kingdom.
+NICE guideline 94       [5.1], published in 2010, European Society of Cardiology (ESC; 2011)       [5.2], American Heart Association and American College of Cardiology       (2012) [5.3] guidelines now recommend that the GRACE risk score should be       used because of its superior performance when compared to the other       published risk-scoring tools.
+Fifty-five countries have pledged to       implement the ESC cardiovascular guidelines.
+Impact on clinical practice     Recent publications from others have extended the role of the GRACE risk       score to other indications including pulmonary embolism [5.4] and contrast       renal nephropathy.
+In addition, an independent study demonstrated that the       score predicts outcome (whereas stress imaging does not) in follow-up       patients after chest pain [5.5].
+Similarly, the GRACE risk score remains       accurate at predicting hospital and long-term fatality in ACS patients in       the era of high-sensitivity troponin and B-type natriuretic peptide [5.6].
+The GRACE risk score has been extensively tested, and implemented       internationally: PubMed (May 2013) retrieved 291 published manuscripts and       4034 citations involving the GRACE risk score, and on Google there are 46       pages of citations using the term "GRACE risk score".
+Examples [5.4-5.8]       include studies from clinical settings as diverse as Brazil, Portugal and       China that demonstrate the superiority of the GRACE score.
+The GRACE Steering Committee (Chair, K Fox) made the GRACE risk score       freely available to download to a mobile device (2011; more than 10,000       downloads from Google Play alone).
+In addition, a simplified version of       the GRACE risk score was developed in 2012, externally validated in the       French Acute MI FAST registry; the updated version is now implemented and       freely available (July 2013).
+The GRACE risk score app provides a       user-friendly interface of the variables that convey 90% of the risk of       the full multivariable GRACE risk model.
+The clinician uses this       information alongside his or her clinical evaluation to guide management       of the patient.
+The app received coverage in UK and international media       (The Times [5.9], The Times of India and many others) and has been       requested by NHS England's Pan-London Clinical Leadership Advisory Group       for Cardiology for use in its inter-hospital transfer system [5.10].
+The       GRACE score will also be incorporated into a "pocket guidelines" app       developed by the ESC for distribution to clinicians in the 55 affiliated       countries.
+Impact on health and welfare     The GRACE programme identified that survivors of non-ST elevation ACS       (previously perceived as minor or threatened heart attacks) had higher       long-term risks of death and recurrent myocardial infarction and       ST-elevation myocardial infarction [3.1, 3.2].
+In consequence, a series of       international randomised trials has focussed on improving outcomes in       non-ST elevation ACS, including Fox's British Heart Foundation-funded RITA       3 trial.
+By facilitating appropriate treatment, the GRACE risk score has       contributed to a change in practice and improved outcomes [3.5].
+Fox and       colleagues demonstrated temporal changes in outcomes, improved use of       evidence-based therapies, a decline in deaths and myocardial infarction       and approximately a halving of new heart failure [3.5].
+These findings for       international GRACE sites are corroborated by British Heart Foundation       statistics.
+Modelling by the UoE team suggests that implementation of the       GRACE score results in a saving of 30-80 lives for every 10,000 patients       presenting with non-ST elevation ACS.

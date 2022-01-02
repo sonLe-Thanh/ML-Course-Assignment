@@ -1,0 +1,27 @@
+     By engaging with the Object Management Group (OMG), the international       standards body in       charge of software modelling standards, KCL researchers were able to       change how people defined       software modelling languages and, through that process, the software       modelling languages used       by real software developers.
+All subsequent standards [A,B,C], Object       Constraint Language (OCL),       UML, and Queries/Views/Transformations (QVT), have more rigorous       definitions and all use the       metamodelling framework (MMF) concept defined and developed at KCL.
+Along       with researchers       at York, the team was invited to join the standardisation process in the       early 2000s, following their       pioneering work in the area.
+Over the next 5 years, Clark and Tratt       attended over 20 OMG       meetings around the world, working with an organisation which had       previously had little input from       academic researchers.
+Clark subsequently co-founded spin-out company,       Xactium Software, in       2003, based on the tools and expertise he had generated while working on       UML at KCL [D].
+The team's initial input was to the OCL2 (Object Constraint Language) and       UML2 (Unified       Modelling Language) standards.
+UML is the de facto standard for       software modelling, used by       hundreds of thousands of software developers around the world.
+OCL is a       sister language which       allows UML models to be augmented with fine-grained statements expressing       valid models.
+The       KCL input to both standards was given in conjunction with major       international companies such as       IBM, as well as smaller UK companies such as Artisan Software.
+OCL1 was a simple functional language used for expressing constraints on       UML models,       frequently frustrating users who needed greater expressivity than it could       deliver and marginalising       its use.
+The submission for the OCL2 standard, co-authored by the KCL       team, became the core of       the OCL standard.
+This turned OCL into a powerful, rigorously defined       language that has become       far more widely used than its predecessor.
+UML1 was, in contrast, a large and monolithic language with vague       semantics that made using it       difficult for anything beyond the proverbial "sketch on the back of an       envelope".
+Through the "2U"       group (a subset of pUML), concepts such as package extension which were       developed at King's,       became part of the eventual UML2 standard.
+Most fundamentally, the MMF       framework developed       at King's was used as the basis of UML2's definition.
+After the completion of the OCL2 and UML2 standards, the software       modelling community turned       its attention to model transformations.
+While the need for these had been       known for some time,       few realistic ideas had been put forward.
+The KCL team partnered with Tata       Consultancy Services       (TCS) to tackle this vital new area.
+Having provided much of the       intellectual thought leadership in       this evolving area, and having created several prototype model       transformation languages, the KCL       team became major contributors to the Queries/Views/Transformation (QVT)       standard (released in       2011), authoring the document that formed the core of the eventual       standard.
+QVT concepts such       as separate declarative specifications ("QVT relations") and imperative       implementations ("QVT       operational"), as well as the graphical notation, were created at KCL.
+UML2 and OCL2 were adopted by all leading tool companies (e.g.
+IBM,       Borland; and open-source       tooling such as Eclipse), and are now widely used by software developers       across the world.
+Amazon lists double digit numbers of books specifically about UML2, and       many other books       include a treatment of UML2.
+The QVT standard has been implemented in at least 12 commercial software       development tools.
+Industrial examples include Borland's Together tool [E] and Tata       Consultancy Service's ModelMorf       [F]; open-source examples include Eclipses's MMT project [G]; and Inria's       ATL.
+This wide-spread       implementation has meant that QVT is used daily, often unknowingly, by       tens of thousands of       software developers who take its presence as a fundamental platform for       their development work.
+Industrial users of QVT include the NASA Jet Propulsion Laboratory and       IBM.

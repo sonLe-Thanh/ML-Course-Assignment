@@ -1,0 +1,20 @@
+     The University of Glasgow has developed an integrated suite of       microfabrication processes that now sits within the photonic systems at       the heart of today's global data transmission networks.
+Commercialisation of silicon planar waveguide technology and associated       fabrication techniques began in 1998 with the formation of spin-out       Kymata, an optical components company based in Livingston, Scotland.
+Kymata licensed IP, including a range of patents, from the Universities of       Glasgow and Southampton.
+The company grew rapidly and was successful in       securing multimillion pound venture capital backing from investors across       Europe and the US.
+In 2001, it was bought by French company Alcatel       Optronics for more than $119m; Alcatel Optronics was subsequently taken       over by Avanex in 2003.
+The US-based company Gemfire acquired Avanex and the associated       Livingston plant in 2004.
+The University of Glasgow technology has been       used by Gemfire since then in both manufacturing and R&amp;D, underpinning       product development and supporting market growth in the area of optical       component integration.
+The technology base has been used to develop planar       lightwave circuits (PLCs) that are compact, stable and reliable.
+These       products have played a significant role in the building of optical data       transmission capacity to meet demand caused by the explosion in video over       the internet.
+Gemfire has continued to develop their portfolio using the flame       hydrolysis deposition techniques (FHD) and deep vertical etching       technology research from the University of Glasgow.
+The technology base       allowed a new, greener range of Arrayed Waveguide Grating (AWG) products       with low power consumption to be introduced in 2008 - Gemfire's `athermal'       AWG.
+The athermal AWG gained significant market share as the design is       temperature-insensitive and requires no electrical power, reducing overall       system power requirements.
+Gemfire added six new products to the athermal range in April 2012,       followed by a further two PLC-based product families in August 2012.
+These       offer higher channel count, and narrower channel spacing for long       haul/metro systems; and lower channel count, wider channel spacing for       access and datacoms applications.
+The VP for Sales &amp; Marketing (PLC       Products), Kaiam Corp., stated that `these new products have enabled       Gemfire to increase market share in the telecom market, and also to       attract new customers in the adjacent metro and datacom market segments.'
+Based on the athermal platform, the company's revenues reached $12m       annually and the company went through a period of recruitment, with staff       numbers at the Livingston operation increasing from 19 in 2004 to around       70 in 2013.
+In 2013, Gemfire was one of the world's top 5 PLC companies.
+In April 2013, Gemfire was acquired by Kaiam Corporation (http://www.kaiamcorp.com)       a California-based developer and manufacturer of innovative components       primarily for the optical interconnect market, in a multimillion dollar       deal.
+Kaiam acquired the company to access their PLC technology and       Gemfire's 8-inch wafer fabrication facility in Livingston.
+Kaiam now plans       further investment to build production of high-speed optical modules for       the global data networking and datacentre markets.

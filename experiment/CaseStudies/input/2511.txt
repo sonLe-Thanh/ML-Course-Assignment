@@ -1,0 +1,22 @@
+     The methodology developed in the research has been adopted by Barrie       &amp; Hibbert (B&amp;H) and led to the economic impact described below.
+B&amp;H, a part of Moody's Analytics, is a provider of financial risk       models to the financial services sector; over $25 trillion of assets and       liabilities are valued and managed with B&amp;H support; over 60% of the       insurers in the Global Fortune 500 are B&amp;H clients.
+The company has       benefitted from the research in three ways.
+New products and services.
+The research has allowed B&amp;H to       develop a LSMC solution for projecting the value of complex liabilities in       a computationally efficient way.
+This projection is a key part of the       Solvency II calculation for firms adopting an internal model approach.
+B&amp;H already sell a leading economic scenario generator (ESG) and the       LSMC solution uses this platform and allows them to sell a new set of       services to their existing international clients and to gain new clients       for their ESG.
+A key part of the credibility of the LSMC solution is the fact that it is       backed by extensive research and that the work carried out in Cathcart's       thesis has given clear answers to the implementation issues mentioned       above.
+In particular it provides reassurance to clients that the method       produces good results and that the technical choices made by B&amp;H are       backed by extensively documented investigations.
+According to a senior executive of B&amp;H, `The commercialisation of       this research effort has been one of the most successful projects that       B&amp;H has undertaken' [7].
+Since 2011 B&amp;H has taken this research       and seen commercial benefit in a number of areas:            Supporting B&amp;H Brand &#8212; The technical aspects of these techniques         and the associated promotion and marketing have helped to further         support the association of the B&amp;H brand with technical excellence         in Monte Carlo simulation.
+The work has led to 12 consulting projects generating &#163;0.75M ($1.2M)         in revenue.
+It has led to 5 new product implementations generating &#163;0.8M ($1.3M)         in revenue.
+The pipeline for the balance of 2013 foresees circa &#163;0.95M ($1.5M) in         revenue for existing products.
+Estimated revenue over the next 5 years is circa &#163;6M ($10M)         representing 12% of total B&amp;H revenue.
+Provision of research-based consultancy or training.
+The services       provided by B&amp;H include consultancy and training for clients.
+There is       a demand for this as the LSMC approach is a relatively sophisticated       approach that requires specialist expertise that many insurers cannot       routinely access.
+The research project has provided an extensive set of       examples and training materials and has supported 6 commercial consultancy       projects.
+Improved risk assessment and management.
+For firms purchasing the       LSMC solution the end impact of the research is improved risk assessment.
+Clients and their regulators have much more confidence in the estimates of       the distribution of future values of complex liabilities and the capital       calculations that are based on these [7].

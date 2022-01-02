@@ -1,0 +1,30 @@
+     CPT's research into surface metrology has significantly influenced       practices throughout the manufacturing sector.
+In order to facilitate knowledge exchange, demonstration versions of the       software developed as part of the SURFSTAND project were distributed to       all partners, among them world-leading metrology company Ametek Taylor       Hobson.
+At the time the company, which is based in the UK and specialises       in the supply of measurement systems to major industrial sectors, was in       the process of upgrading its own software.
+After a period of negotiation       Taylor Hobson concluded a formal research collaboration contract with CPT       to exploit SURFSTAND within the company's own software offering, as       supplied with its instruments.
+Subsequent work, beginning in 2009, focused       on third-generation wavelets for the extraction of morphological features,       enhanced surface visualisation and routines for robust Gaussian filtering.
+In 2011, as part of a larger collaboration that also involved PhD       sponsorship, a licensing agreement to incorporate the latest advances into       Taylor Hobson's software was signed.
+SURFSTAND has now been fully       structured into a piece of component-based software that can be bolted on       to the many different types of metrology instrumentation Taylor Hobson       offers, and all of the company's software products use the basic knowledge       developed from the project [a].
+Taylor Hobson's sales have increased as a direct result of these       advances, with presence in some markets doubling since the integration of       SURFSTAND and its derivatives into the company's advanced instrumentation.
+The company is currently one of the leading metrology instrument suppliers       to the manufacturing sector in China, with double-digit growth in sales       year on year.
+Taylor Hobson's Technical Director has confirmed that       SURFSTAND has "enabled us to maintain a competitive market position",       particularly in the fields of optics (e.g.
+lenses for smartphone and DLR       cameras) and bearing surfaces (e.g.
+those capable of delivering "green"       low-friction performance for the automotive industry) [b].
+In 2009 one of Taylor Hobson's leading research engineers took up a Chair       at CPT.
+Conversely, two of the Research Fellows who worked on the software       are now employees of Taylor Hobson, having been trained at an advanced       level at CPT, and lead all software development in the company, thus       facilitating further knowledge exchange.
+In 2012, in another illustration       of the strength of CPT's collaboration with the company, Taylor Hobson       sponsored a new Chair in Surface Metrology.
+The company's Technical       Director has acknowledged the "fruitful" partnership and has credited the       formative and continuing research with helping to provide "the necessary       bedrock of research from which to build commercially viable industrial       solutions in global markets" [b].
+CPT researchers remain active on ISO committees that promote the outcome       of the SURFSTAND project and incorporate them into Geometrical Product       Specification (GPS) standards, the most recent of which were published in       2012.
+This work involves the standardising of numerical parameters, data       filtering, verification and specification rules and data formats.
+So far       nine standards documents have been produced as a direct result of the       SURFSTAND project (ISO 25178 &#8212; Areal Surface Texture), and the research       has also contributed to 14 other standards (ISO 16610 &#8212; Filtration) [c, d,       e].
+As a result all companies that are ISO-compliant measure surfaces using       the results of the SURFSTAND project.
+ISO-compliant measurement is       essential in virtually all manufacturing sectors and is part of many       quality systems, including Six sigma and ISO9000.
+SURFSTAND output can       therefore be found in areas of manufacturing ranging from aerospace and       automotive to microelectronics and bio-implant production.
+The relevant       ISO Convenor has described SURFSTAND as "core" to the development of these       standards, adding: "[They] are the means by which surface property       measurement across the world is compliant and traceable... Consequently,       they are key to all aspects of modern manufacturing."
+[f]     In addition, all companies that supply industry with surface-measuring       instrumentation must implement the results of the SURFSTAND project       through compliance with ISO.
+One such supplier is French company Digital       Surf, a major global player in the field, which uses CPT-authored ISO       standards and algorithms across its entire product range [g].
+The National       Physical Laboratory (NPL) has also implemented the SURFSTAND results on       its instrumentation and through the collaborative development of       web-enabled software tools in the form of its SoftGauges &#8212; digital gauges       that are hosted online to allow end-users to check the correctness of the       surface metrology software provided by instrument vendors.
+Acknowledging       SURFSTAND's importance, the Principal Research Scientist at NPL's       Engineering Measurement Division has noted: "Without this fundamental       research the SoftGauges project would not have been possible and the       application of verified and compliant software in support of manufacturing       would be hindered."
+[h]     The SURFSTAND work, along with the international industry links and       further research it engendered, was crucial to CPT being named one of the       new EPSRC Centres for Innovative Manufacturing.
+Supported by &#163;8m in       funding, this identifies CPT as a national centre of excellence and       innovation in advanced metrology.
+Business Secretary Vince Cable       officially opened the Centre in October 2011 and remarked that it would       "ensure Britain stays ahead of the game in precision technology".

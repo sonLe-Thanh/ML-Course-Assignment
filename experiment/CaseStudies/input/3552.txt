@@ -1,0 +1,14 @@
+     As a part of this work described in section 2 we hypothesised that:             Reducing homocysteine with combinations of folic acid, vitamin B12         and anti-oxidants such as glutathione or N-acetyl cysteine would reverse         the cognitive decline seen in Alzheimer's patients and the aging         population in general.
+Since our work, a number of clinical trials have been carried out and         the resulting data is conflicting.
+However, the use of combined therapy         has been more successful than use of single agents &#8212; and the result         locally is the formation of a new company &#8212; Cobalz Ltd (1).
+The aim of         this company is to focus on research and treatments for Alzheimer's         Disease and other dementias &#8212; focusing principally on B vitamins and         homocysteine (1).
+Cobalz Ltd have successfully applied for patents for         the use of vitamin B12 as a medication for Alzheimer's         Disease (e.g.
+2) and have also recently been awarded a patent for their         formulation &#8212; Betrinac which contains vitamin B6, vitamin B12,         folic acid and N-acetyl cysteine (3).
+Cobalz Ltd present &#163;100 to the         best MSc Biomedical Science student annually.
+Chemically linking glutathione or N-acetyl cysteine to cobalamin to         form thiolatocobalamins would be more effective against oxidative stress         than either of the compounds or cobalmin in isolation.
+In a collaboration with Dr Nicola Brasch, Kent State University, USA, we         designed the synthesis of the novel thiolato cobalamins GSCbl and         NACCbl.
+These compounds proved to be superior to other anti-oxidants in         a cell model of oxidative stress (4) and as a result we jointly applied         for patents on the compounds (5, 6).
+PamLab Llc then took a licence on         these patents with the intention of going to pre-clinical trials (7).
+Work is continuing on these compounds with plans to synthesise further         novel cobalamin derivatives.
+Vitamin B12 has a multiple effects &#8212; indirect due to its         effect on one carbon metabolism, direct due to a previously unknown         anti-oxidative action, and direct due to a previously unknown effect on         signalling pathways.
+We were able to confirm that vitamin B12 has anti-oxidative activity (4,         8) also that the compound influenced signalling pathways in particular         Akt phosphorylation (9) which has later been confirmed by other workers         (10).

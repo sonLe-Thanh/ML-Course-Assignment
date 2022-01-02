@@ -1,0 +1,40 @@
+     RNLI lifeboats attend over 15,000 incidents annually, with an average of       22 people rescued daily.
+As time is of the essence in life-threatening       incidents in the sea, an immediate response with minimum reaction time is       imperative.
+In 2008 BU prepared a slipway Guidance Design Documentation for the RNLI,       resulting from the EPSRC CASE award (R1).
+The document was a good practice       design guide for implementation by RNLI technical staff.
+The new       water-based slipway system identified has been implemented across 38% of       RNLI lifeboat stations since 2008.
+The research has led to improvements in       crew safety and RNLI launch reliability, as well as reducing maintenance       down-time and machine failure.
+An increased number of standby lifeboats       are now ready to interfere/engage, with the ultimate goal of ending the       preventable loss of life at sea.
+All this has been achieved alongside the       considerable cost savings of ~&#163;200k per year as detailed below.
+The RNLI's       head of engineering support (R2) is an author on publications P3-6, which       corroborate the impact claims.
+Financial Impact     Once fully implemented across the slipway network, the combined effects       of the research allows the RNLI to save up to &#163;52k in lubricant costs and       a further &#163;143k in material replacement costs (P3).
+This equates to a       saving of almost &#163;1 million over a 5 year term.
+With a 2011 combined       budget of just &#163;140m (R3) across the entire UK lifeboat operations solely       provided by charitable donations, this systemic saving is crucial to the       RNLI.
+These savings are used to contribute to the on-going process of       modernising the RNLI network as a whole.
+The RNLI's head of engineering       support, Steve Austin, states: "The findings of the specific research are       extremely valuable to the RNLI as they outline improvements that can be       made to produce more efficient, durable and cost-effective slipways from       which to launch and recover the lifeboats" (P3, R4 &amp; R2).
+Operational Impact     The research has also shown that the improved fitting criteria and a       modified panel design can reduce the high wear and friction effects.
+This       philosophy is now codified in three related volumes of slipway panel       design and fitting guidelines.
+These were published in 2008 and are used       by the RNLI (R1).
+Slipway lining panels' lifespan increased by over 100%       through better panel fitting criteria and modified panel geometry (P4       &amp; P5).
+The RNLI has adopted these panel redesigns and fitting criteria       on all their new slipways.
+Since 2008 the new slipway lining material       identified in the research has been fitted to the new and newly       refurbished slipway stations.
+This includes Tenby, Padstow and Sennen Cove       among others (R2).
+The recommended slipway lining materials are being phased in across the       UK slipway station network over the next few years, coinciding with the       simultaneous roll-out of the new Tamar lifeboat.
+Currently around 38% of       RNLI slipway stations use the new water lubrication system.
+Durability of       the panels is increased while service and maintenance time is       significantly reduced.
+Environmental Impact     In response to the research results the RNLI have stopped using grease to       lubricate the slipways.
+Instead they have adopted the automated       water-based system BU advised.
+Since 2010 the RNLI has applied this across       their slipway network, preventing the release of grease from the slipway       into the surrounding marine environment.
+Once fully adopted this will       result in the removal of 500+ litres of marine grease per annum from the       local marine environment with a consequent saving in carbon emissions of       ~740kg CO2 p.a.
+Further environmental benefits include the reduction of carbon emissions       from material wear by 45% alongside with other useful environmental       savings due to reduced maintenance costs (P3).
+Crewman Safety Impact     The automated water-based system has removed the need for a crewman to       descend the slipway during lifeboat operations and has correspondingly       improved crew safety on lifeboat slipways.
+The reliability of slipway       launches has also increased.
+Additionally, testimonials from individual lifeboat personnel confirm       that the use of the automated water based system reduced the risk exposure       of the volunteer lifeboat crew at each slipway station.
+This allows the       safe continuation the RNLI's crucial role in preserving life along the       coast of the UK and Ireland (R5).
+Further societal benefits include the continued on-going reliability and       security of vital life-saving services through the reduction in       maintenance down-time and machine failure.
+Wider Research Impact     The research was presented at a number of international conferences       including at the House of Commons as part of the `Reception for Younger       Engineers at the House of Commons' (R6) and was short-listed at the Times       Higher Education (THE) Awards 2010 in the category of `Outstanding       Contribution to Innovation and Technology'.
+This award specifically       highlighted BU's role in reducing environmental impact and costs (R7).
+The research methodology developed during this project has many potential       uses in other tribological contact situations, including oil rig rescue       craft, overseas slipway lifeboats and cradle-launched beach rescue craft.
+The research is also relevant to applications involving sliding contacts       along any tiled or grooved surfaces, including tyre friction along paved       roads and spacecraft heat shields.
+The application of the research within the RNLI has already had       significant economical, operational and environmental benefits, as well as       facilitating improvements to crewman safety.
+The &#163;1 million saved over a       five year period frees up resources to be used in the 15,000 incidents and       rescues the charity attends each year.

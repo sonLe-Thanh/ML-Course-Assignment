@@ -1,0 +1,28 @@
+     Context       Matrix functions underpin computer simulations used to inform decision       making across almost all industrial sectors.
+The need for high-quality       simulation results makes it increasingly important to enable the accurate       and efficient computation of matrix functions.
+Our research has provided       the first reliable and efficient algorithm for computing general matrix       functions, as well as the state of the art algorithms for the matrix       exponential and matrix logarithm, which play a key role in control theory.
+MATLAB, from The MathWorks (head office in Natick, MA, USA, with other       offices including in Cambridge, UK) is a commercial mathematical software       system with almost 2 million users in industry and academia.
+Its       associated toolboxes and Simulink, an environment for multidomain       simulation, run within MATLAB and provide specialist capabilities that are       widely used in the engineering and finance sectors.
+The Numerical       Algorithms Group (NAG) Ltd Library is a product of NAG Ltd. (head office       in Oxford UK), which has as its core business the production and sale of       mathematical and statistical software components, including libraries.
+Pathways to Impact       Higham and Tisseur have long-standing professional relationships with       colleagues from NAG and The MathWorks, going back to the 1980s.
+As a       result of these links, the research reported here has been strongly       influenced by the needs of NAG and The MathWorks; and both companies have       been in a position to rapidly incorporate the resulting algorithms into       their products.
+A Knowledge Transfer Partnership (2010-2013) funded a       full-time KTP Associate to translate algorithms for matrix functions       developed by Higham and Tisseur into NAG products.
+Reach and Significance of the Impact       The research has reached a large proportion of the relevant community       through its incorporation in widely used commercial and open source       software, including R [S4], Eigen [S5] and Scipy (Python) [S6].
+Indeed,       the majority of end users of matrix functions will be using the algorithms       that are the focus of this case study, albeit unknowingly.
+We have found       the non-academic impact of open source implementations of our algorithms       impossible to quantify, and so instead quantify the impacts of       implementations made by the commercial companies The Mathworks and NAG.
+The MathWorks       The Mathworks state that [S2] "it is difficult to measure direct         economic impact of the ... algorithms, it is inarguable that your         contribution to Matlab and MathWorks' product line has been significant         in accelerating the pace of engineering and science in a wide variety of         industries from aerospace and automotive to financial and         pharmaceutical."
+Nonetheless all copies of MATLAB licensed within       the assessment period contained our algorithms and the annual revenue of       The Mathworks in 2012 was US$750 million [S7], mostly due to licensing       income.
+Specific direct impacts for the company are detailed below:            The MathWorks incorporated the new algorithm [2] in MATLAB 7.0.
+From         2004 to 2011 this was the only numerically reliable code for general         matrix functions available in any commercial software, giving The         MathWorks a commercial advantage and its customers a unique capability.
+A crucial aspect of MATLAB functionality is its ability to detect ill         conditioned problems and warn the user of ill conditioning.
+From MATLAB         6.0 (2000) the condition number of a matrix is estimated using the block         algorithm of [3], which provides more reliable estimates than the         previous point algorithm.
+This block algorithm has continuing impact as         a key component of MATLAB, used in the ordinary differential equation         solvers and fitting functions used in the Statistics and Curve Fitting         Toolboxes [S2].
+Our algorithms for the principal matrix logarithm [4, Alg.
+11.11] and         matrix exponential [1] are "an intrinsic part of MathWorks' Control           Systems Toolbox, underpinning the reliability of MATLAB in control           engineering applications" [S2].
+The implementation of our matrix exponential algorithm in MATLAB         function expm led to a faster, more accurate code and better         maintainability of the code base due to the use of an M-file rather         than C [S1].
+NAG     Specific direct impacts for NAG within the assessment period are detailed       below:            A new code f01ecf (f01ecc) introduced in Mark 22 (2011) of the NAG         Library for computing the matrix exponential using the algorithm of [1].
+A new family of NAG Library codes for evaluating general matrix         functions by the algorithm of [2] and the matrix logarithm using the         algorithm of [4, Alg.
+11.11] was released in Mark 23 (spring 2012).
+A NAG Library code f0y4d for matrix norm estimation using the block         algorithm of [4] was released at Mark 24 (spring 2013).
+The new matrix function codes are helping NAG gain more revenue across       all sectors, both from new customers and from existing users who are more       likely to renew with the new features.
+The total additional income       resulting from these codes, from new licenses plus renewals, is estimated       by NAG as &#163;100k during the project (January 2010 - July 2013), &#163;240k in       the year after project completion, with a further doubling for each of the       following two years, which is very significant for a company with about 70       FTE staff [S3].

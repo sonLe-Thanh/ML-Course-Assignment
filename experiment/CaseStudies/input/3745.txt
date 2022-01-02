@@ -1,0 +1,52 @@
+     The 2A technology discovered and developed by Prof Martin Ryan in St       Andrews allows the simultaneous expression of multiple proteins across a       wide array of plant and animal cells and organisms.
+This greatly improves       efficiency, simplifies the process of transgenesis, improves genetic       stability of transgenics, expanding the types of genetic manipulation one       can perform.
+Specific impacts in the period 2008-2013 include:            Development of a more nutritious variety of Golden Rice to treat         vitamin A deficiency       New cancer therapies based on co-expression of T cell receptor chains       Efficient and predictable generation of induced Pluripotent stem cells         by co-expression of transcription factors       Numerous patented new techniques in healthcare, protein expression and         plant biotechnology          The 2A system is superior to all other methods for the co-expression of       multiple proteins, and facilitates much more complex strategies of       transgenesis.
+In the words of the Director of the Tumor Immunology Group,       Jonsson Comprehensive Cancer Centre, UCLA, USA in 2013 :     "The use of 2A sequences has allowed the planning and conduct of         multiple gene transfer-based clinical trials.
+Without their description         by Professor Ryan it is hard to conceive that we would be able to         conduct clinical trials where several transgenes are expressed         simultaneously and at high levels."
+[S1].
+Impact has been delivered in the following areas:     a) Plant Biotechnology to improve human nutrition.
+Vitamin A deficiency (VAD) affects 100s of millions of people in Asia and       Africa, and is implicated in ~2 million deaths per annum in children under       5.
+Some 500,000 children go blind each year due to VAD.
+Rice does not       produce vitamin A, nor its precursor pro-vitamin A (&#946;-carotene).
+The       biosynthetic pathway leading to the synthesis of provitamin A was       engineered into rice using 2A technology to make `Golden Rice' with high       levels of vitamin A by Korean scientists at the National Institute of       Agricultural Biotechnology.
+The 2A strategy proved much more successful       than the use of an alternative method of co-expression, with at least 7       times higher levels of vitamin A (Ha et al.
+2010, Plant Biotech.
+J.
+8,       928-38).
+Patent protection was applied for in 2008 [S4].
+Introduction of this strain of rice will help alleviate the severe health       toll of VAD.
+Golden rice made with 2A technology (top right) has more vitamin A than control rice (left) or golden rice made with alternative technologies (bottom right).
+b) Cancer Therapy     New types of cancer treatment via gene therapy are       revolutionising the treatment of the disease.
+Here, 2A is used to       co-express the T-cell receptor TCR&#945; and TCR&#946; chains (in transformed       patient T-cells: ex vivo gene therapy) targeted against cancer       antigens.
+Use of the 2A sequence ensures that both subunits of the       receptor can be co-expressed at similar levels, minimising side effects.
+This strategy is now being used in the treatment of numerous types of       cancer, notably metastatic melanoma.
+The Director of the Tumor Immunology       Group, Jonsson Comprehensive Cancer Centre, UCLA, USA stated in 2013:     "This is particularly important for clinical trials based on the         genetic engineering of the immune system to fight cancer.
+Many groups         around the world are using 2A sequences for the expression of T cell         receptors (TCR) for adoptive cell transfer immunotherapy in patients         with cancer.
+This is because the two chains of the TCR need to be         expressed efficiently and at similar levels.
+Furthermore, the use of 2A         sequences has become such a routine that we are now planning the         expression of a string of transgenes linked by 2A sequences in such         clinical trials."
+[S1].
+c) Regenerative Medicine     A second major impact in human health has been in the rapidly expanding       field of regenerative medicine and transplantation.
+2A has played a       pivotal role in the co-expression of the four transcription factors       required to produce induced pluripotent stem cells (iPSCs): one can now       make patient-specific stem cells relatively simply to avoid problems of       organ rejection or immune response.
+The Nobel Prize for Medicine 2012 was       awarded to Prof Shinya Yamanaka of Kyoto University who is using the 2A       system extensively in his work producing human iPSCs.
+He is establishing a       bank of such cells to cover 90% of the Japanese population, thus providing       near-universal tissue matches for medical purposes.
+The methodology       utilizes 2A technology to streamline the process (eg Okita et al.
+(2011) A         more efficient method to generate integration-free human iPS cells.
+Nature Methods 8, 409-412. doi:10.1038/nmeth.1591) and has been adopted by       the wider scientific and commercial biomedical communities.
+The field is       moving ahead very quickly because 2A peptide-linked cell reprogramming is       "Much more homogeneous compared with conventional systems"       according to an expert in the field from the University of Edinburgh [S2].
+Indeed, the technology has been rolled out as a commercial product by       companies such as ABM (http://www.abmgood.com),       which markets "Yamanaka Factor Polycistronic Adenovirus" for iPCS       generation that allows co-expression of the four transcription factors "linked         by protein 2A sequence which allows similar levels of transgene         expression of four factors in target cells, thus streamlining iPSC         reprogramming" [S5].
+Figure from Cell Biolabs showing how the 4 transcription factors needed for iPSC reprogramming are linked by 2A sequences from different viruses          The company iPierian (www.ipierian.com),       founded in 2008, is using 2A-based iPSC technology to develop new       patient-specific cell lines to discover and develop new therapies for the       treatment of neurodegenerative diseases such as Alzheimer's and       Parkinson's.
+In 2009-11 it raised $78 million in start-up financing [S6].
+iPierian has entered a global licensing agreement with Kyoto University       and Prof Yamanaka has joined iPierian's scientific board [S7].
+A wide variety of companies are now selling products for iPSC       reprogramming that use 2A technology, including Cell Biolabs (www.cellbiolabs.com),       Biosettia, (www.biosettia.com),       Stemgent (www.stemgent.com),       GenTarget, (www.gentarget.com),       SBI System Biosciences (www.systembio.com).
+Together, these developments highlight the impact that facile       multi-protein co-expression with 2A technology has had in the field of       regenerative medicine.
+d) Patents using 2A-based technology     Over 490 patent applications that use the 2A peptide technology have been       made since Jan 2008.
+Over 100 patents using 2A technology have been       granted in the same period, with applications aimed at cancer therapy,       vaccine development, animal transgenesis, tumour suppression, novel       antibiotics, targeted gene knockouts and protein production [S8].
+Conclusions     2A co-expression technology has therefore produced a highly substantial direct       impact in many areas of modern molecular medicine / biotechnology since       2008.
+The underpinning research in St Andrews which demonstrated that 2A       sequences were efficient self-cleaving entities was crucial to this       impact.
+A 2012 report from the BBSRC, which funded much of the research in       St Andrews, noted that:     "success has been notable in the fields of cancer treatment and         regenerative medicine.
+2A has been critical for the development of         treatments for metastatic melanoma, colorectal cancer, synovial cell         cancer and is entering trials for renal cancer.
+The sequence is also         being used in the production of transgenic plants and tailor-made         pluripotent stem cells."
+[S9]     Finally, to quote the Vice Chair of Immunology, St Jude Children's       Research Hospital, USA:     "It is rare for me to go to a meeting without at least one person         approaching me and commenting in their successful use of the 2A system.
+I also know that several groups, including (Nobel Laureate) David         Baltimore's, are using 2A-based vectors in pre-clinical studies.
+Thus, I         have no doubt that your 2A system has had a           substantial impact and that this will continue to grow over         the next decade."
+[S3].

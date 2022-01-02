@@ -1,0 +1,34 @@
+     The Sheffield research has changed the way Pratt &amp; Whitney designs       and manufactures aircraft engines, and the way the Food and Environment       Research Agency (Fera), part of the Department for Environment, Food and       Rural Affairs (Defra) conducts risk assessments.
+Commercial impact     The Design for Variation initiative was led by Grant Reinman, a       statistician at Pratt &amp; Whitney.
+Pratt &amp; Whitney learned of       Kennedy and O'Hagan's work from a literature search.
+A key dissemination       route for Oakley &amp; O'Hagan (2004) was the software package GEM-SA,       which implements the methodology in this paper, written by Marc Kennedy       during his time at Sheffield.
+It was made available for free download, and       Pratt &amp; Whitney have used it in their design processes (though they       have now built on it to develop their own software).
+Kennedy is now a risk       analyst at Fera, and so disseminated the research within Fera directly.
+Pratt &amp; Whitney's Design for Variation process has five steps: (i)       define probabilistic design criteria; (ii) use computer models and       physical experiments to identify causes of performance variation and       uncertainty; (iii) find the optimum design to satisfy the design criteria;       continue data collection to (iv) validate the models; and (v) ensure the       models remain consistent with the real world.
+Methods in Oakley &amp;       O'Hagan (2004) and Kennedy &amp; O'Hagan (2001) play an essential role in       steps (ii) and (iii), and hence have contributed to what Al Brockett, a       former vice president of engineering module centres at Pratt &amp;       Whitney, describes as a "paradigm shift" and a "high-visibility         strategic priority" in the way they design and manufacture aircraft       engines [S1].
+An illustration is given in Reinman et al.
+[S2].
+In the design of       a jet engine turbine airfoil, a computer model predicted the life       expectancy of the airfoil, given its design.
+There was variability in       airfoil life expectancy due to part-to-part variation, engine-to-engine       variation, and environmental variation, and the designers wanted to know       how to reduce variation in life expectancy.
+A variance-based sensitivity       analysis was used: the analysis told them how much of the output variance       was caused by each source of input variation.
+As the model was       computationally expensive, the analysis could not have been done without       Oakley &amp; O'Hagan (2004).
+The designers used the results to assess the       most cost-effective way of reducing variability in life expectancy, by       targeting the most important sources of input variation (and not wasting       resources by reducing unimportant input variation).
+Pratt &amp; Whitney calibrate their computer models to data using Kennedy       &amp; O'Hagan (2001).
+This method allows them to account for all sources       of uncertainty in their model predictions &#8212; in particular, uncertainty due       to a model not representing reality perfectly.
+Reinman et al.
+explain the       benefits: "Significant insight can be gained from the calibration         results.
+In a recent study, assumptions typically made about boundary         conditions near the airfoil surfaces were found to be over 20% higher         than what the calibration process revealed them to be.
+Part temperatures         were being over-estimated, and correspondingly airfoil life was being         under-estimated" [S1].
+To quantify the financial benefits of DFV, Pratt &amp; Whitney did a       Business Case Study to assess the value of quantifying and managing       uncertainty over the entire life cycle of an engine (from design through       to service), using sensitivity analysis and calibration methods within       their DFV process.
+The published saving in sustainment costs from doing       this, for a large fleet of military aircraft, was approximately [text       removed for publication] [S3].
+The company also estimates that its       component-level DFV initiatives "have yielded a 64% to 88% return on         investment by reducing design iterations, improving manufacturability,         increasing reliability, improving on-time deliveries, and providing         other performance benefits" [S1].
+Change to professional practice in environmental management     The Sheffield research has also changed the way the Food and       Environmental Research Agency (Fera) conduct probabilistic risk       assessments.
+Kennedy et al.
+[S4] report an analysis funded by the       UK Health and Safety Executive's Chemicals Regulation Directorate (Defra       project no.
+PS2005), investigating risks of exposure to pesticide from the       spray drift of an agricultural boom sprayer.
+A computer model predicted       the level of exposure to bystanders and residents after a crop-spraying       event.
+The model had uncertain and variable inputs, such as the height of       the boom, distance of a bystander from the source, wind speed, etc.
+Using       the sensitivity analysis method of Oakley &amp; O'Hagan (2004),       implemented in GEM-SA, they quantified the contribution of each       uncertain/variable input to the output uncertainty, to give risk managers       information on how best to manage risks by reducing output uncertainty.
+Due to the computational expense of the model, this would not have been       feasible without Oakley &amp; O'Hagan (2004).
+The analysis in this case       suggested reducing boom height and variation in boom height has the       potential to reduce exposure.
+Other ongoing projects at Fera are using GEM-SA for contaminated land and       assessing the impact of recycling pesticide containers: Defra research       project PS1010 &#8212; Development of Category 4 Screening Levels for       Assessment of Land Affected by Contamination; and Defra research project       PS2808 &#8212; Recycling of Home and Garden Pesticide Containers.

@@ -1,0 +1,22 @@
+     Digital contents get delivered to mobile phones (as mobile TV), PCs (as       Web TV), terrestrial TV and satellite TV.
+The worldwide population of       mobile TV subscribers had almost quadrupled from 75 million in 2008 to 271       million in 2011, and it is expected to reach 792.5 million by 2014       according to RNCOS's (an industry and consultancy firm) report on Global       Mobile TV Forecast to 2013.
+Smartphone users spend one fifth of their       usage time watching videos and TV programmes on their mobile phones in the       UK (Nielsen Mobile Insights, 2012).
+The recent roll-out of 4G in the UK       strongly features its capacity to deliver real-time TV programmes and       videos with high- definition image quality on their mobile devices.
+The Open Mobile Alliance, the leading global industry forum for       developing interoperable specifications for mobile services, publicly       stated in 2012 that its schema, OMA-BCAST, was adapted for various       networks: DVB-H in Europe, DVB-SH (satellite) in the USA and DVB-NGH in       China.
+The document called for further enhancement of OMA-BCAST for 4G and       LTE networks, attesting to its agility and adaptability, following the       technical advancement of networks.
+Rapid evolution of technologies in the field of communication networks       means that technologies need to be both agile and easily upgradable.
+From the time of its official endorsement by the European Union in March       2008, DVB-H, the broadcasting network that delivered digital contents to       handheld devices, enjoyed the privilege of being the most preferred method       in Europe until its service came to halt in early 2012.
+The network used       the convergence system schema known as DVB-CBMS, which was designed by       Prof Cosmas and his team along with their industrial partners, to provide       users with access to live TV programme channels.
+For example, according to       the General Manager in Institut fuer Rundfunktechnik (the research centre       of the German, Austrian and the Swiss public broadcasters), DVB-H network       was available in Austria since the start of the UEFA European Football       Championship 2008 until the end of December 2010.
+In Feb 2009, 3 Austria       announced that it had 90,000 subscribers to its DVB-H mobile TV service       since its first launch in June 2008.
+In Switzerland, DVB-H was launched in       mid-May 2008 by Swisscom (Bluewin TV mobile), before the UEFA       European Football Championship 2008 and the service continued until March       2010.
+[corroborating source 1]     In Germany, Mobile DVB-H phones were announced in accordance with the       OMA-BCAST, for example, Samsung SGH-P960 supported both DVB-CBMS and       OMA-BCAST.
+[corroborating source 1]     In June 2008, 3 Italia announced its offer to provide DVB-H customers       with free access to six TV channels.
+In Feb 2009, Italy launched a full       OMA-BCAST compliant service delivery platform to operate worldwide.
+Major       mobile phone manufacturers such as Nokia, Samsung and LG have launched       special mobile TV editions (e.g.
+Nokia 5330, Samsung, Philips, Garmin, LG,       Motorola, Sagem, ZTE, etc) using DVB-H technology and the convergence       system.
+[corroborating source 1]     In Africa (South Africa, Nigeria and Ghana), DVB-SH and OMA-BCAST       (DVB-CBMS) has been a huge success since its launch in 2010.
+A digital       satellite TV service provider, DStv Mobile provides real-time TV       programmes via Walka 7, a portable TV with a 7" viewing screen.
+The       countries use an Electronic Programme Guide, which updates scheduling       information for current and upcoming broadcast programmes and this can       only be interfaced with OMA-BCAST.
+In 2013, DStv subscribers across Africa       reached 6.7 million, with 4.5 million from South Africa.
+[corroborating       source 2]

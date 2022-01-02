@@ -1,0 +1,43 @@
+     The Inerter invention and associated academic work has been widely       recognised as a fundamental innovation.
+It has led directly to Smith       delivering over 20 plenary, invited or named lectures since 2008 at many       locations around the world including: Hyderabad, Kyoto, Budapest, Nanjing,       Gent, Boston, Wuerzburg, Hong Kong, London, Tokyo, Oberwolfach, Toronto,       Athens, Koblenz, Tel Aviv and elsewhere.
+Smith was elected to become a       Fellow of the Royal Academy of Engineering and this research was       referenced in his citation.
+4.1 Context       In motor racing, car performance is ultimately limited by the ability of       the car to grip the road while transferring power through the tyres, and       suspension design is a critical area differentiating one team from       another.
+Earlier innovations to improve grip, such as active suspension       and tuned mass dampers had been developed, and in F1 were subsequently       banned by the Federation Internationale de L'Automobile (the FIA: which is       the governing body for world motor sport and the federation of the world's       leading motoring organisations including F1 and the World Rally       Championship).
+Nevertheless, the quest for competitive advantage in such a       high-profile sport is unrelenting.
+4.2 Technology transfer and development       Based on his previous experience with active suspension design in F1,       Smith realised that the Inerter could give performance advantages in this       area and in 2001 presented his work to McLaren Racing (with whom DoEng had       an established relationship).
+Smith worked through Cambridge Enterprise to       arrange a joint development agreement granting exclusive rights in F1 to       McLaren in 2002 for a limited period.
+Understanding how to make optimal       use of one or more Inerters required extensive analysis, simulation,       experimentation and track testing.
+It was also necessary to develop       light-weight and reliable components.
+In due course, a clear lap-time       advantage was demonstrated by the McLaren team with Smith working as a       consultant.
+4.3 Significance of the Inerter       The first use of an Inerter in an F1 race was in Kimi Raikkonen's McLaren       MP4-20 at the 2005 Spanish Grand Prix which he won.
+McLaren cars then won       10 of the remaining 15 races of the 2005 season.
+The significance of the       invention is further evidenced by McLaren's efforts to keep it secret       under the code name "J-damper", the efforts of others to discover the       design and use of this new component, and the subsequent case of spying       brought by McLaren against the Renault engineering team in 2007.
+This       spying case also shows the radical and subtle nature of the invention,       because the FIA found that "Renault fundamentally misunderstood the         operation of the system" even after seeing the drawings for the       J-damper (Paragraph 8.7, FIA World Motor Sport Council Decision, 7       December 2007).
+4.4 Impact from 2008       During the December 2007 hearing, neither the World Motor Sport Council       nor McLaren made public what the J-damper was.
+Thereafter, speculation       increased on internet sites and blogs about the function and purpose of       the device and there were many amusing and erroneous guesses.
+Finally, the       truth was discovered by a motor sport correspondent from the Autosport       magazine, Craig Scarborough.
+Autosport ran an article on May 29, 2008,       page 33, "Mark Hughes on... A genius idea, and why McLaren hasn't         tried to stop others using it", which revealed the Cambridge       connection and that the J-damper was an Inerter.
+The exclusive license       with McLaren was then allowed to lapse and, in 2008, Penske Racing Shocks       was granted a non-exclusive license to design, develop, and produce       generic and team specific Inerter designs as well as future embodiments       and enhancements.
+To quote from the Penske Racing Shocks press release       [7]: "The benefit of the Inerter to the handling characteristics of         all racing vehicles is undeniable in both theory and practice.
+We are         confident that the ingenuity of Cambridge now combined with Penske         product quality, performance, and customer service, will promote greater         exposure of the Inerter in Motorsport."
+Publicity about the Inerter and its use in motorsport has continued at a       high level in the popular press and magazines [8, 9].
+The Inerter featured       in a report by the IEEE Control Systems Society presenting success stories       in control engineering [10].
+At the same time, its use has spread beyond       the F1 grid to IndyCars and several other formulas (with customer names       remaining confidential in many cases).
+Cambridge Enterprise is receiving       royalties for direct licenses from several F1 teams and, through Penske,       from several more (the values remain confidential).
+It is widely assumed       that all 12 current F1 teams are using Inerters [11].
+The Inerter is now permitted in the IndyCar Series Rule Book [12] with       certain packaging constraints and Cambridge Enterprise is receiving       royalties from Penske and another licensed supplier of Inerters, GWC       Engineering, from a majority of the IndyCar teams.
+Royalties are also       being received from Penske from a number of customers in different domains       of motorsport outside of F1 and IndyCars, with details largely very       confidential.
+Penske has continued a strong development programme in       collaboration with Cambridge.
+In 2011, Penske launched a new product,       which was covered in the technical press [13].
+To quote from Penske's Director of Research and Development [14], "Developing         the use of Inerters in racing with Dr. Smith and Cambridge University         has helped Penske Racing Shocks to increase our market share within the         our industry, and significantly increase overall sales.
+The use of         Inerters in race car suspension design has helped our customers to both         increase grip levels and platform stability at the same time making this         development a necessity to be competitive in many racing formulae."
+To quote from the McLaren Head of Vehicle Dynamics [15]: "In McLaren         Racing we have worked with Prof Malcolm Smith since 2001 when he first         introduced us to the concept of suspension networks containing the         Inerter.
+Prof Smith's work in this area was completely new at the time,         so far as we know, and we worked with him for a number of years to         understand the technology and optimise the Inerter for use in Formula         One.
+We successfully applied the system to our Formula One cars and we         understand it has also been used by many other Formula One teams.
+It has         been very satisfying to see a technology born out of a highly academic         study of passive electrical and mechanical networks turn into a tangible         benefit in Formula One suspension."
+The significance of this work is summarised by the Technical Advisor to       the President of the FIA, 2006 to 2010 [16], "The Inerter was the         outstanding technical advance that came to my attention while at the         FIA.
+There were many clever improvements and refinements of technology         every year in Formula One, but the Inerter stood apart in that it was         totally new thinking coupled with real potential benefit for the         automotive industry.
+Suspension systems although infinite in variety had         always depended on springs and dampers to determine their         characteristics.
+The Inerter allows a new fundamental component to be         added.
+Electronics without a capacitor would be rather stunted, now         suspension designers have a previously missing component."
+The significance is further underlined by Paddy Lowe, who was Engineering       Director (2005-2011) and then Technical Director (2011-2013) at McLaren       Racing, before becoming Executive Director (Technical) at Mercedes Grand       Prix (2013-), "The Inerter was first introduced to F1 in 2005 and has         become a standard element of F1 suspension systems, now of equal rank to         the spring and the damper in our constant search for higher levels of         grip and stability."

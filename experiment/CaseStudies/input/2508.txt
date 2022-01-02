@@ -1,0 +1,24 @@
+     Improved commercial software products for molecular dynamics.
+The       enhanced value offered       by the NHL thermostats in comparison to existing approaches was       immediately recognised by the       commercial software company Accelrys who incorporated the techniques in       their commercial code       Materials Studio.
+The impact on Accelrys was achieved through an       extended period of interactions       from which led to a solution to the problem of `ringing' observed with the       Nos&#233;-Hoover thermostat;       this solution was subsequently used in Accelrys's software.
+Ringing arises       when the system is       initialised with data far from a correct equilibrated state.
+This leads to       a severe oscillation in kinetic       energy with poor simulation results as a consequence.
+Although ringing       could sometimes be       addressed by ad hoc approaches these were inefficient and time consuming;       code developers       needed a robust, systematic solution.
+The results published by Leimkuhler       and his collaborators in       [1-3] suggested that the NHL method would robustly sample the canonical       distribution over a much       wider range of parameters and this was subsequently verified by Matthews,       Akkermans (Accelrys)       and Leimkuhler who demonstrated that a working NHL implementation       dramatically resolves the       ringing problem in simulations of several complex molecules (a silicon       system and a substantial       organic molecule).
+As a result, Accelrys implemented NHL in its Materials         Studio software.
+This       implementation, carried out in collaboration with Leimkuhler and Matthews,       was released in version       6.0 of Material Studio (Nov. 2011) and was highlighted as a       valuable new feature [6].
+Matthews       and Leimkuhler drafted the documentation of the new method.
+The more       recent versions of       Material Studio continue to rely on the NHL thermostat.
+A quote from a       group manager at Accelrys       confirms the importance of the NHL thermostat for their product: `During       2011 Accelrys worked       closely with Leimkuhler to implement the Nos&#233;-Hoover-Langevin thermostat       within Forcite, the       molecular dynamics module of Materials Studio.
+This thermostat was a key       contribution to the       product because it eliminated a widespread problem experienced by Accelrys       customers,       specifically the excessive time required to equilibrate a system' [7].
+Accelrys's Materials Studio is the world's leading commercial       software package for molecular       simulation of materials.
+Accelrys had 2012 revenues of $162M, most of       which comes from software       licenses.
+Detailed breakdown of sales figures is not available, but Materials         Studio is one of       Accelrys's two primary software products and is widely used within the       commercial materials       sector, with thousands of installations worldwide.
+Enhancements to public domain software.
+The majority of industrial       users of MD simulation       tools make use of public domain software developed by government-academic       partnerships and       wide impact has been achieved through the implementation of the methods in       several such       resources.
+In parallel with the Accelrys implementation, the NHL method       was implemented in the       DL-Poly 4.0 code (STFC Daresbury laboratory, [8]) and into AMBER, a major       NSF-funded       molecular software package [9].
+Confirmed industrial users of these       software include Sony,       Samsung (DL-Poly, [8]), Pfizer, Novartis, Takeda and Dart Neuroscience       (AMBER, [9]).
+Further       implementations were carried out by Bernstein (Center for Computational       Materials Science.
+Naval       Research Laboratory, Washington, DC, USA), by Gabor Csanyi (Engineering,       Cambridge       University) as part of a QM/MM code, and as part of the NAMD code project       [10].
+This research has impacted widely on the extensive community of MD code       users by reducing       computational requirements.
+Because MD simulations use vast computational       resources (30% of       all CPU cycles on the NSF TeraGrid (now XSEDE) HPC system [11] and over       40% of the usage of       the UK National HPC Service HECToR relate to molecular simulation [12]),       algorithmic       improvements lead to large gains in net computing time, with clear       benefits for the accuracy,       reliability and cost-effectiveness of simulations.

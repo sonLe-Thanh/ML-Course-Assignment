@@ -1,0 +1,52 @@
+     Cultural heritage has recently embraced 3D technologies to impressive       effect.
+The PiXaR film Brave, set in an imaginary Scottish castle,       introduced millions to Scottish landscapes.
+The Scottish Ten       project captured stunning 3D representations of heritage sites.
+Computer       games like Assassins Creed enable exploration of historic scenes.
+The VTTP platform complements these technologies and migrates them to       community and research settings that are radically smaller than was       possible before.
+Where Scottish Ten digitally preserves sites as       they are today; VTTP enables authentic recreations of their heyday; where       Brave present a single pathway through a fictional narrative, VTTP       enables visitors to explore authentic scenes; where Assassins Creed       delivers pre-defined scenarios to a global audience; VTTP enables       community participation in the creation and exploration of scenes directly       connected to communities.
+Science awareness.
+The 3 month "Create and Inspire" public       engagement course at Dundee Science Centre (12/2011&#8212;3/12) [S10] used VTTP       and the St Andrews Cathedral reconstruction to create a multi-user exhibit       which managed to "take a vision, achieved through decades of         scholarship of how this building was - and make it accessible to all"       [S6].
+There were over 1000 visitors at "Science in the City" (3/12),       including classes from 7 primary schools, STEM ambassadors, and all ages       of the public.
+Visitor-book comments were unanimously positive: many       suggested that the experience had contributed to revising their perception       of the sites, and many expressed a desire to follow up the experience by       visiting the sites or by connecting to the reconstructions from home.
+"Kids were very interested and enjoyed being able to interact with the         Cathedral, the controllers are a medium that made it easy for them to do         this (77th Kelty Cubs).
+This gives a new view to         something which has interested me for many years.
+It helps put what you         see on the ground into perspective (Teacher).
+Love that you are         bringing history to life in a way children want to interact with       (Visitor).
+I think it is great fun (School Student)."
+[S9]     Others invited use in schools and museums, which we have since taken up.
+The VTTP has exhibited at over 20 venues globally including, by invitation       Digidoc 12 "the world's leading digital documentation and         visualisation conference focused on cultural heritage" (Cabinet       Secretary for Culture and External Affairs) [S11].
+Installations in Museums.
+On the 200th anniversary of       the Sutherland clearances, using the VTTP and methods developed by       Sweetman " has produced the first virtual world with historical         content, accessible in a cultural context in the UK; it has enhanced the         visitor experience in our museum, and has put Timespan on the map as a         forward thinking organisation with a growing national reputation"       [S7], The Timespan VTTP installation features a pre-clearance Caen       Highland Township, "a Scots township at the centre of an uprising in         the 19th Century ...
+It offers a unique         opportunity .... where gaming technology is married with historical         information" [S6].
+The installation, with a 300" wrap-around display       and natural body movement control, extends Timespan's story-telling room's       functionality so that "the visitor is able to not just sit and listen         to a story but to be part of the story" [S6].
+The strength of the       impact flows from an intuitive user interface, local content, local       participation in content creation, and visually powerful 3D graphics.
+"One         of my own ancestors was cleared from Caen.
+...
+I can now sit in Timespan         (or at home) and take my avatar through the township into the         longhouses, corn-drying kiln and byres to see what my own ancestors saw.
+This is a surreal experience let me tell you!"
+[S3].
+At the public       event to launch the Caen reconstruction, 100% of those who filled in       questionnaires agreed or strongly agreed with the statements: "The         exhibit helped me imagine what it would have been like to live in Caen"       and "I would now like to find out more about life in the Highlands"       [S13].
+In the month following the launch (6/2013) there was a 32%       increase in visitor numbers [S3].
+Synergy with an excavation of Caen and       photographic interpretation mean that "all three elements ... combine         to make a powerful narrative ... for those who like history and for         those who think they don't" [S6].
+The low equipment cost (&lt;&#163;3000) and support for content creation make       CAVE installations available to small museums for the first time.
+Embedding the VTTP makes its content available to Timespan's 13,000 annual       visitors and web users, and connects with the 40 community groups that use       Timespan's facilities including a group researching genealogy, the       knitting circle, carol singers, local archaeologists, a meeting of local       councillors, as well as primary, secondary and DAS school visits [S7].
+The       invitation to exhibit alongside Canadian Caen descendants at the Helmsdale       Highland Games symbolises digital Caen Township's place at the centre of       the local community.
+Following on from the Caen project, Historic       Scotland, Creative Scotland and the Heritage Lottery Fund have funded VTTP       installations of the Brora Salt Pans, the 18th-century       Fethaland Fishing Station Shetland Museum (90,000 visitors p/a), a model       of 19th-century St Kilda World Heritage site, Taigh       Chearsabhagh Museum (30,000), and the Eyemouth Fort Museum [S12].
+The       Vikingaminjar heritage company and the Cultural and Education director of       Mosfellsb&#230;r are funding the University of St Andrews to reconstruct of a       10th-century Viking longhouse [S4] for use in schools and       tourism.
+Education and Schools At Madras College, the virtual St         Andrews Cathedral informed the social science approach to a local       unit of the Curriculum of Excellence, engaged Department of Assisted       Learning students, and contributed to baccalaureate project work.
+The Head       of DAS, Glenrothes High observed that "these children with a range of         moderate learning difficulties spend many hours on the X-box so the         controls were recognisable and posed far less threat than paper and         pencil...
+The pupils engaged fully with the activity and the arrangement         allowed for co-operative learning, good oral communication skills and         was fun" [S5].
+A social science teacher commented "The quality         and quantity of work students have been doing in their own time speaks         of how the Cathedral reconstruction has fired their imagination.
+I         haven't known anything like it before"' [S2].
+In a session with Dundee High students, all indicated it changed their       impression of ancient Sparta: "This session has now made me realise         that they were more civilised than I thought.
+I liked the virtual world         that showed what the church looked like" [S9].
+Describing a session       in Linlithgow academy with the virtual Linlithgow Palace developed jointly       with Historic Scotland and Education Scotland, the Education Manager for       Emerging Technologies in Education Scotland observed "each session         lasting 40 minutes, buzzing with investigation, exploration, enthusiasm,         and energy.
+Many pupils returned to interact further with the Palace         during their own free time over lunch"" [S9].
+TL to BR: In the digital Linlithgow Palace; Friends of Eyemouth Fort         explore it in 3D using X-Box controllers and Oculus Rift; a descendent         returns to Caen Highland Township with Timespan museum; words from         Linlithgow Academy S2 describing Linlithgow Palace recreation.
+A meeting with HM Inspectorate of Schools (10/2012) led to invitations to       Royal High, the Scottish Association of Teachers of History Conference       (11/2012), distribution through the pan-Scotland GLOW website (05/2013),       and further school use including at Dundee High, Strathkiness Primary,       Helmsdale Primary and Glenrothes High [S12].
+Press and TV coverage [S6]       with a total print circulation of over 200,000, has fed into online       registrations (over 2000), web visits (20,000) from 112 countries, social       media (8000 peak weekly reach) [S8], and an invited feature in       "History Scotland" reflect growing interest and influence.
+"We see the         support and partnership of those at St Andrews University as vital and         influential in ...our agenda of using contemporary digital tools and         worlds to support, enrich and enhance learning" [S1].
+By creating immersive reconstructions with interactive content, windows       onto the past have been opened which provide people with rich new insights       into their cultural heritage.
+Existing and emerging digital literacies       make the exhibits open to those with a huge range of interests and       abilities.
+Internet access, portable exhibitions and installations enable       access from home, in the classroom and in museums.
+Embedding exhibits in       local museums reaches across generations and bring heritage to all parts       of the community.

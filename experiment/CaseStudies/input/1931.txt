@@ -1,0 +1,25 @@
+     The Oxford research team used the new QPLIF technique to test, in Oxford,       a prototype single       cylinder engine for JLR's AJ133 V8 engine.
+QPLIF was used to confirm JLR's       in-house       computational fluid dynamics (CFD) predictions of fuel spray and mixture       preparation in the       cylinder, providing JLR with a validated model.
+The purpose of the Oxford validation step was to improve the quality of       the design process and       ultimately the end product.
+JLR say: "From a business perspective         emphasis on putting the most         reliable data, including CFD data supported by robust validation, into         the early development         process has contributed to the quality of the end product, in this case         the production of the AJ133         engine."
+The validation provided by Oxford enabled JLR to exploit their model in       the engine design process.
+JLR say that "CFD is an important stage in the development of new         engines and all subsequent         engine development programmes.
+The high quality data provided by the         University of Oxford for         CFD validation has allowed the CFD simulation data to be used with         greater confidence.
+The         quality and the confidence JLR place in the data was due to the         expertise of Professors Ewart and         Stone and the research facilities at the University of Oxford."
+In relation to the specific work described in this case study, JLR said "when         there were extreme         pressures on the JLR research budgets, we prioritised the continuation         of research with the         Professors Ewart and Stone at the University of Oxford at times when         many other projects were         being cut."
+JLR also identify the value of the work for subsequent       R&amp;D, explaining that it "improves         the quality of engineering and allows the Jaguar Land Rover engine         experimental work to be more         focused."
+JLR used their validated CFD model to make improvements to and complete       the design of the       AJ133 5-litre V8 engine, which was launched in 2009.
+The new engine       included a new spray-guided,       homogeneous direct injection combustion system that was tested in Oxford.
+The AJ133       engine is available as an option in Jaguar models (XFR, XJR, XKR-S, XKR,       XJ, XK) and Land       Rover models (Discovery, Range Rover, Range Rover Sport).
+The price range       of these vehicles is       from &#163;45,000 to over &#163;100,000 and [text removed for publication]       vehicles containing an AJ133       engine have been sold between the launch in 2009 and 31st July       2013.
+From this, one can       estimate sales of between [text removed for publication].
+JLR say that "the vehicles have been well received by the customers,         resulting in increased sales         and profits for the group; the engine is a major influence on the         customer appreciation of a         vehicle".
+This is reflected in reviews of the engine.
+Autocar       described the power delivery system as       "silky smooth and linear" and "at motorway speeds, the engine         is quiet and refined, yet can also         deliver impressive in-gear acceleration" [B].
+Top Gear       called it "one of the world's great V8s" [C].
+Car manufacturers now have strong motivation for their engines to use the       minimum fuel.
+They have       to meet increasingly stringent emission regulations and customers are       becoming very conscious of       rising fuel costs.
+Car ignition requires a rich fuel mix near the spark       but the rest of the mixture can be       lean (less fuel, more air): by optimising the combustion process, it is       therefore possible to reduce fuel       consumption and hence emissions.
+[text removed for publication].
+While this is difficult to quantify,       even a small improvement in fuel efficiency will have had a significant       environmental impact over so       many vehicles.
+The previous engine model, the AJ33, met the EU4 European       Emission Standard but       the AJ133 meets the EU5 standard, which has more strict requirements on       nitrogen oxides and       atmospheric particulate matter.

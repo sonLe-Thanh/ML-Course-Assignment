@@ -1,0 +1,37 @@
+     EUROMOD has an impact at EU-level through informing analysis and policy       formation within the European Commission.
+It has been used by various       national governments within the EU, including those of Greece and Austria.
+EUROMOD spin-offs have been developed for use outside the EU &#8212; these       include SAMOD (South Africa) and SRMOD (Serbia).
+1.
+EU policy     The European Commission's Directorate-General for Employment, Social       Affairs &amp; Inclusion (DG-EMPL) makes extensive use of EUROMOD in policy       formation and has stated that EUROMOD "provides comparative information of       the highest available statistical standard in the EU, which is only       scarcely available from other sources.
+This makes Euromod a particularly       useful tool for analysis and policy formulation at the EU level"       [corroborating source 1].
+DG-EMPL has confirmed that "Euromod outputs...       regularly feed into the analytical reports published by the European       Commission, such as the EU Employment and Social Situation Quarterly       Review or the annual flagship Employment and Social Developments in Europe       Review...
+These reports provide analytical underpinning for the policy       formulation by the European Commission in the employment and social       fields" [1].
+For example, the Annual Report on Employment and Social         Development (2012) cites EUROMOD in numerous places, including a       number of explicit references to Essex research [corroborating source 2].
+Much of the DG-EMPL's use of EUROMOD has involved modelling the effects       of austerity measures, and it has confirmed that "Euromod data are used to       support the analysis of consolidation packages implemented in a number of       Member States, which in turn underpins Commission policy recommendations       to the Member States" [1].
+For instance, the EU Employment and Social         Situation Quarterly Review of March 2013 models fiscal consolidation       using EUROMOD, while that of December 2011 uses EUROMOD to model outcomes       of austerity measures [3].
+Sutherland has presented EUROMOD findings at DG-EMPL events and she was       invited to present the paper that compares distributional effects in six       countries at the European Commission conference on Inequalities in         Europe and the Future of the Welfare State (December 2011) [4].
+In       November 2012 DG-EMPL held the Microsimulation for Policymaking in         Times of Crisis conference, which included an opening presentation       by Sutherland and a further talk on nowcasting from Essex researchers &#8212;       both of which are available on the DG-EMPL's website [5].
+A recent DG-EMPL       working paper includes an analysis of nowcasting poverty using EUROMOD and       draws on Navicke et al.
+(2013) [6].
+DG-EMPL has confirmed that "the       on-going EUROMOD work on nowcasting provides valuable and timely       information on the most probable recent trends in the distribution of       incomes and particularly in the share of population at risk of poverty"       [1].
+2.
+National-level impact within the EU     Greece     EUROMOD has been used in the design of new policies in Greece between       2011 and 2013.
+The model provides simulations of the likely and       distributional effects of various alternative policies, which are either       adopted or abandoned as a result.
+Although these simulations are not       publically available, the Chairman of the Greek Government's Council and       of Economic Advisors has informed us of four specific impacts: (i) a new       real estate tax has been introduced, which is linked with the cadastral       value of the dwelling and other variables that are mostly available in the       EUROMOD data base (this tax was introduced in Law 4021/2011 and updated in       Law 4152/2013); (ii) "radical change" in the design of family benefits &#8212;       tax allowances have been abolished and the benefits have become       income-related (these changes came into force through Law 4093/2012 and       Law 4110/2013); (iii) progressive cuts have been applied to the sum of       pensions received by individual pensioners &#8212; until recently Greece had no       register of pensioners, only pensions (this change was introduced in Law       4110/2013); (iv) the decision to introduce means testing to disability       benefits was abandoned due to EUROMOD simulations, which showed that the       cost incurred would outweigh the potential benefit [7].
+Austria     The Austrian Federal Ministry of Labour, Social Affairs and Consumer       Protection (bmask) has used EUROMOD in two ways as part of a project in       which Essex is an official partner [8].
+Firstly, the Social Reform       Microsimulation was designed in order to help Austria meet       poverty-reduction targets in line with the "Europe 2020 strategy".
+This       reduced version of EUROMOD was introduced in January 2013 to assess the       effects of policy change in particular "impact dimensions".
+Secondly, this       simplified version of EUROMOD allows the public to assess the potential       impact of policy changes.
+This can be done through a web portal that all       Austrians can use &#8212; registration is required but the service is provided       free of charge.
+Bmask has stated that "without the existing EUROMOD model       it would not have been possible to offer an instrument for the       quantitative impact assessment of the Europe 2020 target group within the       Austrian impact assessment system at reasonable cost" [9].
+The ultimate       impact of this work with bmask is not yet known, but the impact to date is       that a national government is relying on EUROMOD to develop strategies to       reduce poverty and to help the public better understand policy change.
+3.
+Impact outside the EU     EUROMOD has been adapted for use outside of the EU.
+For instance, a team       in Serbia (with Essex as a partner) developed the SRMOD microsimulation,       which has been used in the development of the Law on Social Protection       (Official Gazette of the Republic of Serbia, No.
+24/2011) [10].
+The World       Bank office in Belgrade asked the SRMOD team to make the ex-ante analysis       of the distributional and poverty effects of the draft law.
+The World Bank       then used the results of this analysis as the basis for recommendations       for improvement of the draft law.
+Some of these recommendations were then       included in the final version of the law [10].
+A further example is in       South Africa where the SAMOD microsimulation has been developed by the       South African government and a team at the University of Oxford's Centre       for the Analysis of South African Social Policy, with Essex having joint       ownership and Sutherland acting as an advisor [11].
+To date, six projects       have been commissioned by the Department of Social Development, Office of       the Presidency, and Statistics South Africa.
+A member of the Oxford team       has confirmed that "SAMOD is thus having a direct impact on policy       development within Government, particularly on policy development planning       within the Department of Social Development" [12].

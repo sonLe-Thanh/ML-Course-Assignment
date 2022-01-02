@@ -1,0 +1,43 @@
+     The dissemination in the early to mid-1990s of our pioneering research       results on particle light scattering triggered a succession of approaches       from external organisations and commercial companies.
+In all of the       examples given below (occurring 2008-13), the organisations made the       initial contact with us, each facing specific particle detection and       characterisation challenges and seeking to know if our technologies could       tackle them.
+This `user-driven' influence has remained at the core of our       research strategy and underpins the effectiveness and impact of our work       in these wider end-user communities.
+1.
+Developed from research funded by NERC and the Met Office, our Small       Ice Detector (SID) probes (right), are now part of the instrument       provision on the UK's FAAM (Facility for Airborne Atmospheric Measurement)       research aircraft, the primary vehicle for airborne atmospheric research       by the Met Office and all UK universities.
+Deployed in over 30 national       and international atmospheric research campaigns since 2008, SID probes       have provided cloud physicists for the first time with detailed in         situ data concerning the sizes, shapes, and concentrations of small       ice crystals (sub-20um) and droplets which often co-exist in clouds.
+This       information is critical in allowing Met Office and other climate       researchers to more accurately model cloud radiative properties, which the       Intergovernmental Panel on Climate Change (IPCC) acknowledges is the       greatest source of uncertainty in climate change prediction.
+2.
+Following the SID probes' success, we received research contracts from       leading meteorological organisations worldwide to develop and build       similar spatial light scattering instruments to meet specific requirements       for in situ detection and characterisation of microscopic ice       crystals in both high-altitude atmospheric cloud and laboratory       cloud-simulation environments.
+Since 2008, our instruments have been used       by:     (i) US National Center for Atmospheric Research (NCAR):       Advanced SID2 probe for use on `HIAPER' (High-performance Instrumented       Airborne Platform for Environmental Research) aircraft.
+The resulting data       has been used to reduce uncertainties and improve accuracy in NCAR climate       prediction models.
+(Two contracts totalling US$145,000.)
+(ii) Colorado State University/NASA: A laboratory PPD (Particle       Phase Discriminator) instrument (based on SID technology) for use in their       cloud simulation chamber deployed in both ground and NASA aircraft-borne       ice-cloud studies, enhancing understanding of cloud ice nucleation       processes and the effects of, for example, anthropogenic aerosols on these       processes.
+(Contract value US$68,000.)
+(iii) Institute for Meteorology and Climate Research, Karlsruhe,       Germany: Europe's largest cloud microphysics facility.
+A high-resolution       SID3 light spatial scattering instrument to provide data on ice nucleation       and growth processes, in turn feeding into improved models for cloud       behaviour, cloud albedo, and hence climate warming/cooling.
+(Contract       value &#8364;140,654.)
+(iv) Leibniz Institute for Tropospheric Research (Leibniz       Institut f&#252;r Troposph&#228;ren-forschung (IfT)), Leipzig, Germany.
+A combined       SLS and backscatter depolarisation instrument for use on the Leipzig       Aerosol and Cloud Interaction Simulator, again providing data to modellers       on ice nucleation processes.
+(Contract value &#8364;134,800.)
+(v) Institute for Meteorology and Climate Research, Karlsruhe,       Germany.
+An enhanced laboratory Particle Phase Discriminator, PPD2, for       laboratory and airborne (inboard) investigations into, for example, the       effects of bioaerosol on cloud icing, a major unknown in cloud formation       and lifetime.
+(Contract value &#8364;76,890.)
+3.
+BIRAL Ltd (Portishead, Bristol).
+Since the late 1990s, this       major aerosol instrumentation provider to military and civilian markets       has been manufacturing its `Verotect' military generic biological aerosol       detectors and, latterly, `Aspect' and `AFS' (Aerosol Fluorescence       Analyser) civilian particles analysis instruments.
+All three incorporate       particle light scattering technologies funded by Dstl, developed by the       Particle Instruments Research Group, and subsequently licensed to BIRAL,       which continues to market them internationally.
+4.
+CASELLA CEL Ltd (Bedfordshire).
+From 2000 to 2003 we       transferred our light scatter technology to this multinational       environmental monitoring company by designing a novel wide-band       (10nm-10um) particulate pollution monitor, the first of its kind developed       in Europe.
+5.
+PCME Ltd (Cambridgeshire).
+In the early 2000s PCME, a European       leader in stack emissions monitoring, was acutely aware that its market       position was threatened, as its product range, based on electrostatic       measurement techniques, was not sensitive enough for new European and US       Waste Incineration Standards EN-13284-2/EN-14181 and PS-11.
+From 2003 to       2006, we exploited our laser light scattering expertise in designing a       class-leading light scattering monitor, the first to meet the new       Standards and which continues to be sold as the company's successful PCME       QAL 181 `Proscatter' instrument.
+6.
+SELECT GROUP Ltd (Devon).
+In 2008, the spatial light       scattering methodology we had pioneered and patented (GB2333835) a decade       earlier for airborne asbestos detection was selected as the core       technology in an EU FP7 SME capabilities project entitled `ALERT'.
+This       product development project, ranked 9th of 3,500 applications, involved       Select Group and several end-user Europe-wide trade bodies such as the       Thermal Insulation Contractors and the European Demolition associations,       together representing most of Europe's 2.4 million construction sector       SMEs.
+Over three years, the Particle Instruments Research Group developed       the world's first real-time portable detector for airborne asbestos       fibres, now being brought to market by Select Group to significantly       reduce the annual worldwide 100,000+ death toll attributed to occupational       asbestos exposure (International Labour Organisation) and reduced the       associated US$528 billion (WHO/ILO, 2007) compensation costs.
+7.
+ALPHASENSE Ltd (Essex).
+In early 2013, the university agreed       an exclusive worldwide licence with Alphasense to exploit low-cost light       scattering particle sensor technology previously provided to the Met       Office for volcanic ash detection.
+Alphasense is now taking this device       into mass production.

@@ -1,0 +1,31 @@
+     The research has enhanced lending bodies' understanding of SME behaviour       and has refined existing credit scoring models by providing additional       detail, thereby improving SMEs' access to credit.
+In the field of credit       scoring, conference presentations have more immediate reach and impact as       they avoid the significant time lag before results are published in       journals.
+In the case of the research reported here, the findings have       reached a wide range of leading lenders via INFORMS 2012, Credit Scoring       &amp; Credit Control (CS&amp;CC) 2007, 2009, 2011 conferences.
+CS&amp;CC2011 attracted 349 credit practitioners, with major lenders       (Lloyds, RBS, Barclays) attending [5.1].
+In addition, in June 2013 Dr       Andreeva organised a workshop specifically focused on SMEs which brought       together 30 practitioners and 40 academics [5.2, 5.3].
+1.
+Modelling risk of leasing to SMEs.
+[text removed for publication], the leading [text removed for publication]       leasing company hiring out transport and equipment predominantly to SME       customers, took into account the results presented at CS&amp;CC2007, 2009       conferences and later published [in 3.1] when designing their first       statistical scorecard (implemented in 2011).
+Their statistical scorecard       is now based on the methodology outlined in the paper.
+Previously, [text       removed for publication] used a subjective judgmental approach to credit       risk assessment.
+The new statistical model allowed them to automate a       significant part of this process.
+This led to faster decision-making       whilst ensuring an acceptable risk level [5.4].
+Communication with the       company was conducted via e-mail, telephone and visits to [text removed       for publication] by Dr Andreeva between 2008 and 2011.
+2.
+Management Capability.
+[text removed for publication] (a leading [text removed for publication]       bank with more than 30 million customers) approached Dr Andreeva and       Professor Ansell after the CS&amp;CC2007 conference.
+Together, they       devised a PhD project which used [text removed for publication] internal       credit transactions data.
+Obtaining highly sensitive commercial data for       research is extremely difficult; it will not be made available unless       lenders see clear benefits.
+The release of this data is therefore in       itself a testimony to the research's perceived practical value by [text       removed for publication] [5.5].
+The research and discussions with [text       removed for publication] have led to an improved understanding of the       underlying structure of transactional data.
+As a direct outcome of this       PhD studentship collaboration, elements of Management Capability that       underpin variables in [text removed for publication] scorecards can be       shown in a more visible way than was previously the case [5.6].
+The PhD       student, [text removed for publication] now has a job with the Central       Bank of China, and her expertise in the assessment of SMEs' risk was a       decisive factor in her obtaining this position [5.7].
+3.
+SME behaviour during the credit crunch.
+Similarly to the case with [text removed for publication], [text removed       for publication], one of the [text removed for publication] largest       credit bureaux, supplied its data for research following the CS&amp;CC2009       presentation (data received in spring 2011).
+Again the very fact of data       provision signifies the provider's confidence in the practical value of       this research.
+The research value has been to disaggregate the effects of       the credit crisis on the performance of different segments of SMEs.
+The       in-depth knowledge generated has allowed [text removed for publication] to       check assumptions around stability of variables in their scorecards.
+This       has engendered improved understanding of SMEs' vulnerability and their       risk drivers, which in turn has enhanced [text removed for publication]       analysts' ability to make scorecard developments robust to economic       downturns [5.8].
+Because of the commercial sensitivity of a scorecard's       predictive performance and the complex, iterative nature of scorecard       development, no data exist to quantify the precise impact of this, or any       other, discrete piece of research.
+However, we know that even a small       improvement in predictive accuracy translates into less loss (Berger,       Cowan and Frame, Journal of Financial Services Research, 2011),       thus leading to savings which can be re-invested into new credits, and       ultimately expanding the credit available to SMEs.

@@ -1,0 +1,34 @@
+     The research has had impact in three areas: (1) on social and clinical       care, (2) on public awareness, government and policy makers, and (3) in       commercial applications for education and entertainment,     (1) Social and clinical care impact     CRNS has been running the ALIZ-E project as directly applicable research       since 2010 and this has resulted in impacts upon the clinical care       practices for chronically ill children.
+Between 2011 and 2013 a robot has       been used in sessions with outpatients (diabetic children) to educate and       comfort at the San Raffaele Hospital, where consultants have been       appointed to support the CRNS experiments, define research priorities, and       lead the adoption of robots in the paediatric ward.
+Similar work has begun       in the Netherlands at Zuid Nederlands Ziekenhuis and Gelderse Vallei and       Rivierenland Ziekenhuis.
+Work has begun on the use and acceptability of       robot companions in schools, with demonstrations in UK primary schools       between 2011 and 2013 to show the robots use as an educational platform.
+Use of the robots has also begun among practitioners and professional       services.
+For example, the robots have been adopted as educational aids by       the Italian diabetes society (SOStegno70 association) at their diabetes       summer camps in 2012 and 2013 and as tools for diabetes diary management       by the Dutch diabetes society (Diabetesvereniging Nederland).
+(2) Impact on public awareness, government and policy makers     The robots used in the ALIZ-E project, and the robot footballers have       played an important role in the University's outreach and widening       participation programmes aimed at enhancing public awareness of the       potential impact and benefit of research.
+They reach hundreds of school       children each year through regular appearances at the annual Science and       Technology Showcase, where they are among the most popular features.
+The       robots have also made wider public appearances, from Plymouth Argyle       Football Club to science festivals and international television       programmes.
+The appearance of the football robots in Plymouth attracted an       estimated audience of 15,000.
+This public awareness has been crucial in generating further impact at       policy level.
+In 2011, Belpaeme was invited to take part in the UK-Japan       mission of the BIS Technology Strategy Board.
+The team of five academics       and industrialists visited Japanese universities and companies to promote       UK robotics and scout Japan for collaboration opportunities.
+The visit       resulted in an advisory document for the TSB in November 2011.
+These       recommendations were included in a key speech by the Chancellor of the       Exchequer to the Royal Society on "eight great technologies", remarking       how the UK needs to catch up with Japan as "the UK has 25 robots per       10,000 employees in non-automotive sectors; whilst Japan leads the world       with 235 robots per 10,000 employees".
+This led to a &#163;35 million       investment in robotics in 2013 by the Minister for Universities and       Science.
+ALIZ-E research and its outcomes also featured in the `Big ideas for the       future' report of Research Councils UK.
+ALIZ-E was included as an example       of "excellent research taking place in UK higher education [which]       demonstrates the value of public investment in higher education and       research and the positive impact this has on economic growth and the       social wellbeing of the UK".
+(3) Commercialisation of robot technology for education and         entertainment     In collaboration with Merlin Robotics Ltd, robot football kits have been       produced as an affordable entry into an historically expensive niche       market.
+The Miabot Kit has received international acclaim for making       football robotics accessible.
+Between 2008 and 2012, Merlin sold football       systems, education kits and training based on CRNS knowledge transfer, to       the value of &#163;250k.
+The kit has also been adopted by universities in the       UK (e.g., Reading and Warwick) and beyond, who compete in international       robot football competitions that serve as a competitive test environments       for advanced research.
+Merlin and CRNS also developed training packages to       meet demand following the sale of ca.
+100 robot kits to the Ministry of       Education in Malaysia.
+Additional sales have followed - including to       Jordan.
+The Miabot kit was also sold with a suite of accessories as a       mobile robotic platform for education and research.
+In this form, it was       used by Reading University in research on the control of robots by       cultures of neurons.
+The work on social robotics led to the commercialisation of SociBot by       EngineeredArts (Penryn, UK) and the business start-up Syntheligence       (Paris, France) to commercialize the retro-projected face technology that       provides an economical and robust way of implementing expressive and       responsive faces on social robots.
+Syntheligence received initial       investment from French incubators Creative Valley and Agoranov.
+Prototypes       have been sold to the University of Sheffield, the Dutch Centre for       Technological Research (TNO), and the Universit&#233; Pierre et Marie Curie       (France).
+The collaboration with French SME Gostai led to the development of       middleware for robotics that was used in the ALIZ-E project to enable       robots to use cloud computing.
+Gostai invested &#8364;192,800 in the ALIZ-E       project to enable the company to develop the Urbi system architecture,       which is critical in maintaining the company's competitiveness in the       robot Operating System market.
+Collaboration with CRNS also led to the       integration of the Urbi architecture with another robot - Nao - from       Aldebaran Robotics.
+In in August 2012 Gostai was acquired by Aldebaran       Robotics to power Aldebaran's global growth.

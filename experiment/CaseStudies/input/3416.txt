@@ -1,0 +1,34 @@
+     The research performed by the University of Oxford's OGBI since 1993 has       transformed the field of `glycomics' in three major respects.
+First, by       making sugar technology available for clinical studies, and for the       biotechnology and pharmaceutical industries worldwide it has driven       commercial investment and revenue generation.
+Second, it has led to the       design of new drugs that are pioneers in their fields.
+Third, it has       advanced commercial production processes for biopharmaceuticals.
+Commercial investment and sustained revenue generation       OGBI's research in the late 1990s was carried out in collaboration with       Oxford Glycosciences (UK) Ltd (OGS), a University of Oxford spinout       company specialising in integrating proteomics and genomics for drug and       biomarker discovery.
+OGS's first commercial products were based on       Professor Dwek's research into methods for sugar detection and analysis.
+In particular, OGS `miniaturised' Dwek's gel-based glycoprotein       identification and isolation platform1,2 and sold it worldwide       for scientific research.
+OGS's success was endorsed by its acquisition by       CellTech for &#163;103M in 20035.
+Royalty payments to Oxford       University attest to the on-going importance of OGS' commercial activity &#8212;       [text removed for publication].
+Drug discovery       When OGS was sold in 2003, all of the University's share of royalties       (approximately &#163;20M) were ploughed back to fund translational research at       OGBI, which has since supported further commercial activity.
+Continued       development of the iminosugar drug Zavesca (misglustat) for lysosomal       storage diseases6 is one example of commercial application       arising from this research (see impact case UOA5-04 for details).
+Sales of       Zavesca since 2008 have generated CHF 315 million in revenues for       Actelion, the company sublicensed to sell it7.
+A second       example, as yet without a proprietary name, has been developed by       Professor Zitzmann of OGBI, in collaboration with United Therapeutics and       Unither Virology.
+With &#163;12M from United Therapeutics and $45M from the US       National Institute of Health, Professor Zitzmann and colleagues have       produced a powerful highly innovative antiviral iminosugar, which in       December 2013 is due to enter phase II clinical trials of its efficacy       against dengue virus8.
+Glycoprofiling biopharmaceuticals       Therapeutic glycoproteins are used to treat various diseases.
+For example,       many different recombinant forms of immunoglobulins are produced to treat       life-threatening conditions such as metastatic breast cancer and       non-Hodgkin's lymphoma.
+Control of glycosylation is of major importance       during the development and production of these drugs, because glycan       chains can have marked effects on stability, activity and antigenicity in       intact organisms.
+However, recombinant glycoproteins are typically       produced in cell culture systems and often consist of a mixture of       glycoforms.
+Licensing bodies such as the European Medicines Agency and the       US Food and Drug Administration will allow for a certain range of       variation in glycoforms, but the manufacturer and the agency must agree on       the extent to which such variation is acceptable for a given drug       formulation.
+Once a drug is approved, biopharmaceutical companies need to       ensure that every product batch falls within the defined range.
+The National Institute for Bioprocessing Research and Training (NIBRT) in       Dublin is an organisation set up by the Irish government to support the       biopharmaceutical industry by providing operator-training courses.
+Another       key area of focus for NIBRT is to assist the industry in maintaining the       exacting quality standards needed for biopharmaceutical production.
+To       this end, the NIBRT GlycoScience Laboratory (headed by Professor Pauline       Rudd, formerly of OGBI), in collaboration with the Waters Corporation and       Beckmann, developed a state-of-the art version of the Glycobase database       that was first developed at Oxford4.
+Glycobase 3+ provides data       for 650 N-linked and O-linked glycan structures including       both published and proprietary glycans9.
+The database is being       used to bring greater control and predictability to products produced by       pharmaceutical companies.
+The database is open access, enabling it to be       freely used by both academic and commercial users.
+However, a specialised       subset of the database relevant to pharmaceutical companies, as well as       the NIBRT bioinformatics platform for interpreting the data, has been       incorporated into the Waters UNIFI 1.7 platform10.
+Combined       with an automated platform for glycan release and labelling, thousands of       samples can be processed each week, making it invaluable for monitoring       cell cultures and for evaluating product batches.
+On average the Glycobase       3+ database is accessed from over 150 independent IP addresses each day11,       with the largest concentrations of users in the US, Ireland, Germany,       Spain, France and Australia.
+In addition to providing support through Glycobase 3+, the NIBRT       GlycoScience Laboratory provides a high-end contract glycoanalytical       service for pharmaceutical companies12.
+The high-throughput       analytical and bioinformatic platform at NIBRT is based on the prototype       that was first developed in the OGBI at the University of Oxford3.
+A large number of pharmaceutical companies use NIBRT's service to analyse       their products, and to carry out basic research into effector functions of       potentially novel therapeutic agents such as monoclonal antibodies.
+These       companies include Shire, Agilent Technologies, GeneMediX, GE Healthcare,       Lilly, Janessen, Waters, BD, Merck Serono, Astellas, Reliance Life       Sciences, Unither, Pfizer, Merck, L'Oreal and Roche13.
+[text         removed for publication]14.

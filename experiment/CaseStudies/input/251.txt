@@ -1,0 +1,44 @@
+ The main route for delivering impact for the statistical QA tools of [1] is via a number of software packages [2].
+These include affyPLM and affyQualityMetrics, available at bioconductor.org, a repository for free open source bioinformatics software, started in 2001 by an international team led by members of the Fred Hutchinson Cancer Research Center, and now the default software resource for the bioinformatics community.
+The reach of this impact is considerable.
+For example, during the REF period, the two packages have been downloaded from Bioconductor over 380,000 times [2 i, ii]; Chipster's server in Finland (one of ten such servers worldwide) has 788 users [2 iii]; and the Genevestigator web tool which uses the Bioconductor package affyQCReport (incorporating affyPLM) for the QC of datasets is used for [text removed for publication] [2 vi].
+With two of the co-authors working for biotech companies it was easy to establish further connections to the commercial world and spread the word about the methodology.
+Invitations to conferences such as JSM helped in sharing the methods, both with other statisticians and with users.
+More details about the routes to impact are given in the explicit examples below.
+(A) Process improvement in microarray facilities and standardisation of data quality targets The availability of QA tools [1] has enabled large microarray facilities as well as smaller laboratories to routinely monitor and improve their processes.
+This enables them to use high quality data for downstream analysis, ensuring validity of scientific conclusions.
+Two supporting letters [3, 4] confirm this: [3] CEO of Spheromics (formerly at Novartis and the Australian Genome Research Facility): "Quality assessment and control for microarray data is an area where existing quality control methodology was not sufficiently developed [...].
+The methodology [from [1]] has been helpful to me for both detecting outlier arrays and revealing systematics errors in the process.
+[...] I have been using the tools proposed and the guidance about their interpretation, in particularly the NUSE distributions.
+They would highlight, at a glance, differences of chip quality caused by batch effects."
+[4] Senior Bioinformatics Officer at ICR (Institute of Cancer Research): "We use quality assessment based on statistics methods developed by [1] implemented in R-packages.
+Quality assessment has been helpful to us in determining outlier arrays and detecting artefacts in the data.
+This makes sure our dataset is not distorted by poor quality microarrays."
+The QA methods from [1] have contributed to changing attitudes in the genomics community, both in academia and beyond, towards giving higher priority to routine checking of data quality and to understanding of technically caused variation before drawing scientific conclusions.
+For example: &#8212; The quality landscapes feature provide a visual presentation of quality defects, thereby allowing scientists to identify, in the measurement process, specific causes of poor quality.
+The popularity of [5] (e.g., 10715 visits in the 12 months preceding February 2013) confirms the usefulness of this approach.
+&#8212; Making use of the QA tools for microarray data has become a routine step in scientific studies to ensure the reproducibility of research findings; see e.g.
+[6] for one of many examples.
+Many authors cite the software or names of the QA tools (RLE, NUSE) rather than the publication [1].
+The methods [1] have played important roles in setting professional standards for microarray data quality, as illustrated by an international initiative led by the US Food and Drug Administration (FDA).
+The Microarray Quality Control (MAQC) project aims at establishing standards to ensure successful and reliable use in clinical practice and regulatory decision-making.
+Phase II aimed to assess and establish "best practices" for development and validation of predictive models for personalised medicine.
+CEO of Spheromics, who was involved in the project, states in his letter [3] "In Phase II of that project, I have made frequent use of the assessment methods from your paper."
+(B) Individualisation of treatment decisions In the last decade, many biotech companies have been pushing for the development of diagnostic and prognostic tools to support the optimisation of treatment choices.
+For example, individualised recurrence estimates help decide whether or not a patient would benefit from adjuvant chemotherapy.
+Clearly the need for high quality standards becomes increasingly important the closer the use of a tool gets to a clinical setting.
+The QA methods developed in [1] are being used in the research units of companies developing tools for personalised medicine.
+We demonstrate this in detail for Veracyte, a molecular diagnostics company and a pioneer in the emerging field of molecular cytology.
+Veracyte has developed a gene expression based test called Afirma that is expected to reduce massively the number of surgeries with their attendant morbidity (life-long follow-up treatments) in initially suspected thyroid cancer due to the occurrence of fairly common thyroid nodules.
+A recent economic impact study in the Journal of Clinical Endocrinology and Metabolism concluded that routine use of Afirma in the USA would result in 74% fewer surgeries in patients with benign tumours, that is, tens of thousands of avoidable surgeries each year corresponding to about $122 million medical savings [7].
+The traditional diagnosis of thyroid cancer produces up to 30% inconclusive cases which typically result in surgery, of which 70%-80% of patients turn out to have benign tumours.
+Afirma succeeds in avoiding the need for surgery in about half of such cases, resulting in expected health care cost savings of $3000 per patient as well as improving patient health outcomes.
+Afirma has been developed and clinically validated as published in 2012 in high-profile journals such as the New England Journal of Medicine (NEJM) [8].
+A crucial step for the commercial success of Afirma is to obtain medical insurance cover, e.g., it was approved by Medicare in 2012.
+For this, FDA software validation is key, a step that takes six months and about $300,000 and after which the algorithm is locked.
+To ensure their success in winning over the clinicians, Veracyte needed the negative predictive value of their tool to be above 94%, which required the highest possible quality standards.
+Veracyte's Chief Scientific Officer states in her supporting letter [9]: "A recent study found that the Afirma Gene Expression Classifier demonstrated strong accuracy, reliability and reproducibility under a range of conditions and variables.
+This includes maintenance of sample stability, analytic sensitivity and analytical specificity [...] A key step to these achievements is data quality assessment and control.
+We have been using quality assessment methods such as summaries of RLE distributions from your publication to shed light on the sources of variation in our custom-made gene expression microarrays.
+[They] have been serving us for detecting outliers as well as for revealing and removing artefacts and batch effects arising from inconsistencies in operator, protocol or sample condition."
+Several media stories from 2012 onwards highlight how particular patients, after having taken the Afirma test, have avoided surgery with long term health savings and improved patient welfare [10].

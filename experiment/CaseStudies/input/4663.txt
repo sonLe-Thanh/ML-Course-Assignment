@@ -1,0 +1,72 @@
+     In the activities described below, Band, Conrey, Keating and Snaith have       used the intriguing and accessible nature of their research to encourage       audiences in several countries to engage further in mathematics and to see       the human side of mathematical investigation.
+Royal Society Summer Science Exhibition: Quantum mechanics has a       counter-intuitive feel that makes it intriguing to diverse audiences.
+The       research on quantum graphs [4,5] was demonstrated to the public through a       hands-on exhibit in the Royal Society Summer Science Exhibition, which       took place between 5 and 10 July 2011.
+The Bristol team, consisting of       postgraduate and undergraduate students from the mathematics and physics       departments and led by Band, had to compete to win a place at the       exhibition.
+The exhibition "showcases the most exciting cutting-edge science and       technology research" [c] and in 2011 attracted large and diverse       audiences, with a total of 13,812 visitors.
+It "provides a unique       opportunity for members of the public to interact with scientists" [c].
+This face-to-face interaction is an effective way to demonstrate ideas and       to highlight the human side of research.
+The Summer Science Exhibition       achieved excellent media coverage in 2011, with news pieces appearing in       most of the national broadsheet papers including The Financial Times, The       Times, The Daily Mirror, The Sunday Express, The Daily Mail and The       Independent.
+The exhibition was also featured in The Washington Post       online.
+The effect of the exhibition extended beyond those visitors who attended       the event.
+The Summer Science Exhibition website had 54,639 Visits, from       35,993 Absolute Unique Visitors resulting in 179,909 Page Views.
+In       particular, the page describing Bristol's "Can you hear the shape of a       graph" exhibit [d] has been viewed by 2,346 unique visitors.
+In addition,       a New Scientist blog [e] about this research and the exhibit has been       viewed by 5,300 people, and two YouTube movies of the exhibit in action       have been viewed by 2,000 people [f].
+These figures indicate the number of       people reached by this activity even after the exhibition.
+Public lectures: Audiences have been stimulated to explore       mathematics through the many public talks Conrey and Snaith have given       about their research, in particular [1,2,3], both to schoolchildren and in       evening lectures to general audiences.
+Information follows about three       representative talks for which audience feedback is available.
+At a public lecture on his research at the International Centre for       Mathematical Sciences in Edinburgh in January 2013, Conrey introduced       number theory in a historical context, then brought the audience up to       date with current research.
+Audience feedback gives evidence of stimulated       interest [i]: "made me want to go out and become more informed";       "Excellent evening!
+I enjoyed some of the details of the early research by       Gauss and others.
+It was also interesting how the topic is being       approached by current mathematicians"; "Very interesting subject.
+... Have       started doing some modelling/analysis on my own and will buy a book on the       subject"; "Very interesting.
+Was understandable for people below       undergraduate level (I am at school studying for standard grades).
+It       encouraged me to read about the subject afterwards"; "I intend to read up       some more on the Riemann Hypothesis."
+At an evening lecture to the general public for the British Science       Association in 2010, Snaith's talk on her research in number theory and       random matrices received these comments [i]: "a very complex concept was       explained very well indeed &#8212; one of the most interesting talks; it       answered some questions I was asking about!
+"; "good lecture for an       introduction to the subject &#8212; lots of questions to go and read about!"
+In June 2013, Snaith visited 21 AS-level students at Strode College,       Somerset, to speak about her research [2,3].
+Her aim was to reveal the       excitement of original mathematics and how some of the keys to progress       are mathematical interactions and collaborations, as this is a side of       mathematics that is not so apparent when the subject is studied at school.
+Comments from students indicate that this aim was successful [i]: "there       is more to learn about maths than I thought"; "showed how mathematicians       actually work"; "it has changed my view on the sort of problems they       solve".
+Also, seven students indicated that they would now be more       inclined to study mathematics, with comments such as: "I didn't realise       maths went much further than Newton or Euclid"; "there are more areas of       mathematics to study than I thought".
+These comments demonstrate that       being exposed to current mathematical research has changed students' views       on the subject and made a third of them more likely to study maths       further.
+The talks, of which the above are examples, inspire audiences to engage       with maths both during and after the events, as well as to reach a clearer       understanding of what mathematicians do.
+Such events have often reached       large audiences: for example, Conrey's keynote address at the 2012 opening       of the "Imaginary" exhibition at Parque de las Ciencias [b] in Granada,       Spain, is mentioned in five blogs and the Granada newspaper.
+Snaith's       talks have included speaking to 900 final-year school students in the       "mathematics in action" programme in London, and she was chosen to give       one of the two London Mathematical Society Popular Lectures in 2009.
+Science project: Impact is achieved not only through dissemination       of current research but also through enabling students to participate in       research.
+The following example demonstrates the profound effect on the       students involved.
+Conrey has co-authored a paper [j] on smooth numbers       with two high school students.
+Their presentation on the subject won a       Grand Prize at the Synopsis Silicon Valley Science Fair in California,       which involved 130,000 high school students.
+One of the students wrote       this about the experience: "Our research for the math project was both       enthralling and rewarding.
+I had previously studied a number of math       concepts outside school, but this was the first time I was part of       developing and creating a new method for solving a problem.
+Experiencing       this new level of learning where I could discover something entirely new       was fantastic.
+The project has greatly increased my enthusiasm for       research and has given me ideas for other math mysteries I'd like to       investigate."
+By participating in current research the students'       perception of mathematics changed.
+The second student said: "I would have       to say that the work we did definitely changed my view about mathematical       research.
+It was interesting seeing how mathematics could be applied in       the world past high school.
+I've always enjoyed math but didn't really       understand its direct applications past high school besides things like       engineering and business.
+I really enjoyed seeing the kind of work done by       mathematicians."
+TV documentary: Conrey and Keating (both from the Bristol       mathematics department) and Berry (Bristol physics) were interviewed about       their research on random matrix theory and number theory for a Japanese TV       documentary (2009), "The Cosmic Code Breakers", subsequently dubbed into       English.
+This work reached an international audience (and TV viewers are       potentially a different audience from those who choose to attend public       lectures).
+The work of the Bristol researchers, in particular [2,3],       formed a central component of the programme.
+This multi-award-winning       documentary was shown at a number of film festivals in 2010 and won the       Pierre-Gilles de Gennes Prize at the Pariscience Festival for "spreading       scientific knowledge through an original scenario".
+This festival was       attended by 8,200 people, including 2,700 schoolchildren; 242 people       attended the screening.
+The film also won a Silver Dragon Award at the       China International Conference of Science &amp; Education Producers,       attended by over 200 professionals from the industry.
+In addition, it       received the Grand Prix Japan Prize from the Japan Broadcasting       Corporation &#8212; the top prize, entered in the continuing education category,       from 360 entries &#8212; and received the following praise: "This outstanding       program holds the tension, curiosity and interest of the audience.
+Interviews, brilliant graphic visuals and audio techniques come together       in a comprehensible and thrilling narrative of mystery-solving.
+The       dramatic story of prime numbers affected and changed the view of all of       the jury &#8212; even those afraid of math".
+It was also nominated for a Banff       World Television Festival Rockie Award, and shown at the Goethe Institut       Science Film Festival, which was attended by 128,000 people in Thailand.
+The programme has been syndicated by American Public Television since       January 2011.
+Popular science books:The Japanese popular science book "Primes,       zeta functions and arithmetic quantum chaos", by Shin-ya Koyama [a],       describes research in number theory and random matrix theory.
+The fact       that Conrey, Keating and Snaith are three of the six mathematicians with       large photos on the cover is an indication of how prominent their work is       in this field and in the book.
+Their work, including [2,3], appears in it       seven times and forms a substantial part of Chapter 15.
+This book has sold       about 5,000 copies and at the end of 2011 was the best-selling popular       science and technology book on Amazon Japan.
+Four English language popular science books, produced around 2004 but       still available and having impact, are also relevant here.
+In "The Music       of the Primes", by Marcus du Sautoy [a], which is consistently in the top       ten bestsellers on Amazon UK for History of Mathematics and Number Theory,       Bristol research is described in detail nine times and plays a significant       role in the story the book tells.
+Schoolchildren who visit the School of       Mathematics often quote this book as a factor that inspired them to       consider studying the subject.
+One reader on Amazon states (March 2010):       "The book is packed with fascinating details about eminent mathematicians,       their eccentricities, and sometimes madness.
+My maths interests are mainly       in its applications, and I've tended to regard pure maths research as an       intellectual game, but this book made me want to revisit pure maths."
+[g]     In the popular book "The Riemann Hypothesis", by Karl Sabbagh [a], Brian       Conrey is mentioned fourteen times, Keating eight times, while the whole       Bristol team (Berry, Conrey, Keating and Snaith) accounts for about 450       lines of text.
+In two further popular books on the Riemann Hypothesis, "Prime Obsession"       by John Derbyshire [a] (ranked 22nd in number theory and 64th       in history of mathematics by Amazon UK) and "Stalking the Riemann       Hypothesis" by Daniel Rockmore [a], the research of the Bristol group is       described some 14 times in each book.
+A reader reports on "Prime       Obsession" (December 2008): "I have always felt that advanced pure       mathematics is as worthy an art as painting or sculpture, and the great       mathematicians as worthy artists as Van Gogh etc.
+But because of the       inaccessibility of the subject matter to the layman this great art       couldn't be widely-enough shared.
+With more books like Prime Obsession       this wrong will be righted."
+[h]

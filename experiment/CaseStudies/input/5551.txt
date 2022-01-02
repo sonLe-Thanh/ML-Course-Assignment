@@ -1,0 +1,35 @@
+     Incorporating supply side economics into an econometric model for           the UN     The United Nations is one of the three main organisations which help       organise the world economy       (along with its sister institutions of the World Bank and the       International Monetary Fund).
+Its special       brief is to enable global cooperation in areas such as international law,       international security and       economic development, as well as world peace.
+It uses an econometric model       to make effective       predictions based on the global economy.
+In the late 1960s, Nobel Laureate Laurence Klein set up a world modelling       project called Project       LINK, designed to integrate independently developed national econometric       models into a global       econometric model.
+By the mid 1980s, this project had expanded       considerably and was taken       over by the United Nations' economic analysis department as its main       forecasting and policy tool.
+By 2005, the original LINK model had grown to such an extent that it had       become unwieldy and       was no longer fit for purpose.
+So, in 2007, the UN launched a project to       build a new world model,       called the Global Policy Model, and invited Professor Stephen Hall from       the University of Leicester       to act as a consultant to this project ([Source 1], [Source 2]).
+The UN is currently using this new model in their twice yearly       forecasting and policy analysis which       forms the basis of the UN's submission for the G8 policy round each year.
+This is published       regularly by the UN in its document, World Economic Situation and         Prospects.
+This document       forms the main part of the UN's briefing and submission to the G8       intergovernmental negotiations,       it also is an important input into the UN's own deliberations and policy       decisions ([Source 3]).
+Representatives from the G8 countries use the UN's submission to help them       make informed       decisions affecting global issues.
+The Group of Eight (G8) is a forum for the governments of the world's       eight wealthiest countries -       France, Germany, Italy, Japan, the United Kingdom, the United States,       Canada and Russia.
+Collectively, the G8 nations comprise 51.0% of 2011 global nominal gross       domestic product.
+A major focus of the G8 since 2009 has been the global supply of food.
+At       the 2009 summit, for       example, the G8's members promised to contribute $20 billion to the issue       over three years.
+Other global issues addressed at the annual summit include health, law       enforcement, labour,       economic and social development, energy, environment, foreign affairs,       justice, terrorism, and       trade.
+Incorporating learning into an econometric model for the ECB     Macroeconomic models have very real and practical benefits for large       banks, in their work to       balance the economy.
+They can be used to analyse the likely impact of the       bank's actions in a       range of areas.
+How might the raising or lowering of interest rates, for       example, affect the       manufacturing sector, unemployment levels or retail spending &#8212; and how       will the respective       impacts on each of those sectors affect each other?
+Similarly, how would       the raising of interest       rates in Greece affect the economy in France?
+An important aspect of the ECB's work is the forecasting and policy       analysis of the Eurozone       countries.
+This work is largely carried out and co-ordinated through the       use of a policy model called       the Multi Country Model (MCM).
+The first MCM model was set up at the ECB       between 1994 and       2000 and has been refined over the years according to experience and new       research.
+In 2008, Professor Hall was asked to help to develop a new version of the       MCM which would       incorporate learning into the structure of the model (previous versions       had only been solved under       rational expectations).
+The European Central Bank had recognised that its       approach to modelling       the European countries was inadequate in an important respect.
+By basing       their analysis on a       model which used rational expectation, it was essentially impossible to       analyse the possible costs       of a policy which is strongly affected by economic agents' expectations,       except under the       assumption that agents get things right.
+The new multi-country model which Professor Hall worked on incorporated       learning as one of the       options for exploring expectations effects.
+This latest version fully       incorporates a consistent set of       supply side equations using a nested CES production function.
+This model       also has the ability to       be solved either under the rational expectations assumption or under       learning.
+This project was successfully completed in 2010 and the model now       constitutes the main       forecasting tool for the ECB ([Source 4], [Source 5]).
+It is the main       policy tool which is able to       investigate individual country effects within the Eurozone.
+These modifications to the forecasting tool enable the ECB to make more       accurate predictions       about the economy, improving the Bank's ability to take effective and       timely action to keep inflation       low and minimise deflation.
+The ECB works as a hub for all the Eurozone       member countries, so all       the constituent central banks of the Eurozone will now be contributing and       using the new multi-country       model.
+So the influence of the learning procedures has spread to all the       member banks.
+Many of the individual member banks are also developing versions of the       model for their own       countries to be used in-house.

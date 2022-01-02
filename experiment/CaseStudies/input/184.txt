@@ -1,0 +1,32 @@
+     Visual analytics (VA) continues to mature as a subject area within       Interaction Design and       Middlesex has increasingly provided international leadership in this area       both to researchers and       the wider research user community.
+Impacts arising from our research in VA       address deployment       of software at government research labs in the security sector; supporting       low literacy users such       as those using services located in Citizens Advice Bureaux (CABs) and       leadership at both a       national and international level in VA.     A key aspect of applied aspects of the research detailed earlier is the       need to support `theory       building' (such as that found in intelligence analysis) using visual       mechanisms for reasoning and       narrative construction based on data that has been retrieved and organised       by the various       automated techniques e.g.
+automated knowledge extraction and thematic       clustering.
+Our ideas       have been implemented in the INVISQUE technology leading to impact in       three areas.
+Firstly, INVISQUE enables visual support for human reasoning actions to       support theory building       and this has applications in the intelligence domain.
+Secondly, as this       has developed, the research       has contributed to and established a community both nationally and       internationally in the area of       visual analytics.
+Thirdly, recognising that the software technology       originates from research       exploring issues facing low literacy users, the software has also       applicability in CABs.
+The research is being used by the UK MoD to help them define       theory-building tools for their       intelligence community.
+In our work, we refer to the concept of a       Reasoning Workspace and how       such a Reasoning Workspace is formed in design.
+The constituent elements       are underpinned by       the research reported from 2005 onwards that identified insights into how       expert users bring to       bear techniques to support their information seeking behaviours.
+The       research also identified the       need for novel visual representations and the need to support backtracking       within such visual       representations.
+Some of these findings were most clearly noted when first       working with low       literacy users but now have their use in a security setting.
+While the software arising from the research, INVISQUE, can be provided       on request, it has been       made available to both the Pacific North Western National Laboratory       (PNNL) and the UK Ministry       of Defence (DSTL).
+At PNNL, a variant of INVISQUE is installed and used as       a complementary       tool to other technologies developed by PNNL [S3].
+DSTL has used the       software for experiments       with security related information.
+The usage of the technology is reported       in an internal manuscript       and confirmation of the activity noted by DSTL [S4].
+Thus the primary       beneficiaries of this research       are the security organisations of the UK and US.
+The impact of the       research is largely the design       and principles underpinning the technology.
+The novelty of the INVISQUE environment and the supporting research led       to the first UK       workshop/conference on the recently established field of visual analytics.
+This workshop in 2010,       at Middlesex, was attended by delegates from both the UK Government and US       Dept of Homeland       Security and was a direct consequence of the research presented from Wong       and others.
+The       workshop provided the basis for the formulation of the UK Visual Analytics       Consortium led by Prof.       Wong with funding from Department of Homeland Security and the UK Home       Office [S2].
+UKVAC is funded by to carry out research in technologies based around       INVISQUE and to provide       advanced training on related technologies for visual analytics.
+Other       members of this consortium       include Oxford, Imperial, UCL, Bangor and Swansea.
+The UKVAC has run three International Summer Schools and an accompanying       conference (2011,       2012 and 2013) and is the premier UK located event in this area attracting       delegates attending the       summer school from the intelligence, finance and academic communities       amongst others.
+The INVISQUE technology has also been applied in Citizens Advice Bureau       settings.
+Further we       planned to develop a deployable version for the National CAN to begin in       Feb 2012.
+However due       to budget cuts at the CAB, the project was postponed until further funding       could be found.
+A       number of commercial organisations have expressed various levels of       interest in this technology,       including Microsoft, IBM i2, BAE Systems, Detica, Taylor and Francis       (which was prepared to       adopt the INVISQUE user interface concept - but had to cancel the project       as a result of funding       cuts) [S1], JISC and the British Library.
+Professor Wong has played a pivotal role in ensuring that INVISQUE has       also had impact on the       wider international community through the offices of the NATO IST110       committee and is       presenting a keynote at the NATO Visual Analytics Symposium.
+This impact       is evidenced by the       supporting letter from Prof Margaret Varga, Chairman of NATO IST100/RTG055       [S6].
+INVISQUE and its underlying concepts have been the basis for a successful       grant proposal to the       European Commission.
+The project VALCRI (Visual Analytics in Criminal       Intelligence Analysis) has       been costed at &#8364;16.8 mil (EC grant &#8364;13.1 mil) and involves 18 industrial,       research and police end-       user partners across the UK, Europe and the US [S5].

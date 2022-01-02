@@ -1,0 +1,40 @@
+     i) Development of accessible web-based mapping tools to enhance         understanding of social and spatial relations.
+For arts and social sciences academics, and even more so the general       public, conventional GIS requires a steep learning curve.
+Instead, Open       Source web-based tools specially developed by our VUG project are easy to       use for the purpose of spatial analysis.
+These tools include:       address-based plots; area-based charts or `chloropleths'; tools to measure       distance from a specific point (to explore dispersion), and distance       between points; graphical representations of gradients; and calculation of       hectares/acres for polygons.
+Each has been developed assisted by a       technician and the Senior Mapping curator at the NLS (see 5.1), using a       spreadsheet or database driving a Yahoo geo-coder, and overlaying       grid-references on historical maps of different periods.
+A `one-stop'       approach means spatial data of any historical period can be represented       easily and cheaply.
+It takes spatial analysis out of the preserve of the       GIS specialist.
+In 2010-12 dissemination of the mapping tools took place through the VUG       website (5.4), workshops (100 people), posters and fliers (2000), and a       widely publicised launch (120 people) (5.5).
+The VUG project also featured       in the national press (The Times 3/12/10), a local newspaper       (Edinburgh Evening News 4/12/10), and in several NLS Newsletters       (called CAIRT, circulation c.400; 5.6) to the general public.
+Presentations were made to local history societies (e.g.
+North West       [Edinburgh] Heritage Group, Borders Family History Society, Wester Hailes       Community Group); U3A; and to organisations &#8212; EDINA (JISC-designated       national data centre at the University of Edinburgh) (5.7); Royal       Geographic Society (Scotland); library professionals (BRICMICS; UK       National and University Library forum).
+Poster exhibitions were set up in       public libraries in Perth and Edinburgh.
+A talk was given to the Lothian       and Edinburgh Access Partnership for Schools (LEAPS), and a poster with       VUG website details was sent to over 100 Scottish secondary       school-teachers of history.
+In the HE Sector, conference papers were given       in person by the PI, technician as part of his professional development,       and by the map curator.
+Skype and live videocasts were made to public       audiences and conferences in Durham, London and Edinburgh.
+The VUG mapping       tools were presented at an Heritage Lottery Fund sponsored public event       (Leicester, July 2012) where representatives from 50 different community       organisations were informed about mapping data; 25 individuals took part       in a lab session and successfully used the tools.
+NLS data shows that the VUG website generated 48,600 unique page views       (use of site page by an individual computer in any one session) between       July 2010 and January 2013.
+More specifically there were 2,146 unique       pageviews (of an average of 2 mins 31 secs) of the `Mapbuilder'.
+This tool       enables the user to use a geocoder to obtain latitude and longitude for       their address-based data and plot it on a suitable historical map; thus       the figure is evidence of actual use to map specific data.
+Online `guides'       have also been very popular; the guide to `Using Quantum GIS' received       4,214 unique pageviews in the equivalent period, demonstrating active       engagement with the materials and tools.
+The Borders Family History       Society has used the tools to map poor relief recipients in Melrose and       Jedburgh (5.8); the Wester Hailes Community Group has published a booklet       of local history walks, with maps generated through the VUG tools.
+ii) Programme of presentations and accessible publications to enrich         public understanding of the built environment.
+Published research on `The Colonies' has contributed directly and       successfully both to residents' demands for conservation status, and       Edinburgh City Council planning department interest that has led       indirectly to an initiative for a council housing design that draws       significantly on the `colony' design principles.
+Private architectural       practices have begun to style their designs as `New Colonies' as they seek       to make connections to the nineteenth-century housing form as revealed by       Rodger's research.
+Interest in the paperback Edinburgh's Colonies: Housing the Workers       has exceeded all expectations.
+In addition to presentations to local       residents' groups in several `Colony' locations, the publication sold out       (2000 copies) in 12 months (publisher's royalty statement, January 2013)       and it was featured in the Scottish national press (eg.
+Scotsman,       13/12/2011, 5.9).
+Further public lectures on the `Colonies' in 2012       included the Edinburgh International Book Festival (220 attending); `Doors       Open' Public Lecture (100); Radical Book Fair (40); and the Edinburgh       History Festival (225), through a public event organised by Rodger to       bring his scholarly research to the attention of an audience of all ages       and backgrounds.
+Edinburgh's Colonies has also been produced as an       audio-book by the Royal Society for the Blind.
+Rodger has provided significant input (at the request of a number of       bodies) to discussions about the designation of the 11 Colony sites in the       city as of `Conservation Area' status.
+In the first instance, he was       approached by individual `Colony' area Residents' Associations for advice,       which he gave, regarding Conservation Area status.
+Initial assessments of       the `Colonies' was carried out by 28 students in Building and Conservation       at Heriot-Watt University (as well as University of Edinburgh planning       students); Edinburgh's Colonies was the course reader.
+Their       practical design work was presented to the public in the Council's       exhibition space.
+At the request of Edinburgh City Council, Rodger       recorded a videocast on `Colonies' research stressing the significance of       neighbourhoods in relation to community building; the videocast was       promoted as part of a consultation process organised by the Council       (5.10).
+The designation for conservation status of eight of the `Colony'       developments was finally approved by the City Council's Planning       committee, 6 December 2012 (5.11).
+The Principal Practitioner with       Edinburgh City Council's Planning Department has commented: `Your book, Edinburgh's         Colonies, and your personal involvement in the Council's video on       the Colonies which was used as part of the community consultation, were       invaluable to the Council's assessment of the Colony developments in       Edinburgh for conservation area status' (email to Rodger, 6 March 2013)       (5.2).
+Rodger was also approached by the Cockburn Association (Edinburgh Civic       Trust) for comments on Conservation Area status, as well as comments as       part of historical input to the Scottish Government's consultative paper,       `A Policy on Architecture and Place-making for Scotland: Public       Consultation 2012'.
+(5.3).
+At the request of the City's Planning       Department, Rodger ran CPD sessions in April 2013 (5.3); he has also       delivered CPD sessions on the Colonies' design principles [text removed for publication] 	  and Architects.
+Both events addressed the relationship       between design features and community and neighbourhood.

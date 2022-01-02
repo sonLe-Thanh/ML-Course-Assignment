@@ -1,0 +1,15 @@
+ 	   	   	       Packaging structures based on thermoplastic bio-materials are being       increasingly used by food       retailers with the result that, as they are bio-degradable and/or       compostable, the amount of waste       which is being produced is being significantly reduced.
+This research has       contributed to the       steady increase worldwide in the use of biodegradable plant based       materials in food packaging       structures.
+This uptake is, in turn, generating a demand for further       knowledge of the material       properties and behaviour of thermoplastic bio-materials.
+The thesis [6] and all the computational results on the forming processes       for thermoplastic food       packaging containers were delivered to the company Plantic plc, (http://www.plantic.com.au), the       world's largest manufacturer of starch based materials for packaging, who       sourced the materials.
+In response, Plantic stated that `the company is pleased to receive the       outcomes of the project       which will be included on our website and which will provide technical       information for our clients,       many of which are multinational firms.'
+Furthermore, Pactiv plc (http://www.pactiv.com), one of the       largest suppliers in the world of food containers for packaging (e.g.
+to       Marks &amp; Spencer plc),       similarly confirmed that `the outcomes from the project will help us to       modify our designs and       processing facilities for packages produced from new eco-materials.'
+There is strong motivation from governments worldwide for the adoption of       biodegradable       materials in food packaging, both to reduce the amount of non-degradable       waste that litters the       world and also to avoid the use of oil-based products in the packaging       arena.
+The research described above has been disseminated through presentations       made at a number of       major international conferences including:     i) NUMIFORM 2007, 5-day international conference on Materials Processing       and Design:       Modeling, Simulation and Applications, University of Porto, Portugal (see       [5]).
+ii) CMMSE 2010, 4-day international conference on Computational and       Mathematical Methods in       Science and Engineering with approximately 130 presentations, Almeria,       Spain.
+(Proceedings,       Volume 3, p 849-852, ISBN13: 978-84-613-5510-5).
+http://gsii.usal.es/~CMMSE/images/stories/congreso/volumen1_10.pdf     In addition, the work is cited by engineers/mathematicians world-wide,       for example:     i) Thongwichean, T., Pahlakormkule, C., Chaikittiratana, A. Finite       element analysis for       thermoforming process of starch/biodegradable polyester blend.
+AIJSTPME       5(2), 33-37, (2012).
+ii) Saedpanah, F. A posteriori error analysis for a continuous space-time       finite element method for       a hyperbolic integro-differential equation.
+BIT Numer Math (2013)       53:689-716 (2013).

@@ -1,0 +1,33 @@
+     Research into the theory of modelling and forecasting by the Oxford       researchers has informed the development and the use of the PcGive       software for empirical analysis.
+The associated documentation (Doornik,       J.A.
+and Hendry, D.F.
+Empirical Econometric Modelling using PcGive,       Timberlake Consultants Press, London (2013, 2009, 2007, 2001) both       introduces the user to the underlying econometric methodology and provides       a series of tutorials explaining the detailed use of PcGIve.
+The       automatic search algorithm Autometrics, [R5] has been part       of PcGive from version 12 (release date August 2007), permitting       econometricians to use automatic methods for model selection and       evaluation, and to detect and model structural breaks.
+PcGive13       (released 2009) extended the application of Autometrics to       non-linear models.
+Automatic model selection procedures save considerable       labour time, allowing economists to focus on their economic expertise       while widening the scope for empirical discovery when initial ideas are       incomplete.
+The importance of structural shifts as a cause of forecast       failure [R3] makes automatic detection and handling of such breaks       vital.
+PcGive software has been adopted in many governmental institutions       and businesses, and is now seen as `the' industry standard.
+The       Bank of England, the Federal Reserve Board, International Monetary Fund       (IMF), The World Bank, Inter-American Development Bank and many European       central banks use PcGive, implementing the methodological       developments as they advanced from the early research into the software.
+This is confirmed by the data on purchases of PcGive by central       banks.
+Based on information from 2011 and 2012 only, purchases or renewals       were made by central banks from: Argentina, Barbados, Bulgaria, Czech       Republic, Denmark, ECB, France, Italy, Mongolia, Nigeria, Norway Peru,       Philippines, Uganda, Bank of England, the Federal Reserve Board, and FRB       Dallas.
+Other institutional purchases for the same years include: Bank for       International Settlements, IMF, US Bureau of Labour Statistics, US       Department of Transportation, European Commission, Statistics Netherlands       and Norway, The World Bank, The Law Society.
+While in the same period,       companies making purchases or renewals include: Allstate Insurance,       Fidelity Investments, and ITAU Unibanco (among others).
+Motability, a       national charity helping disabled people with personal mobility, and one       of the largest automobile lease-companies in the UK, recently adopted Autometrics       to develop better forecasts three years ahead for the residual values of       vehicles returned when their leases had ended.
+Total non-academic sales       were equivalent to almost 2500 single-user copies over 2008-2013.
+Detailed       information on the number and range of sales of the PcGive       software and the OxMetrics platform developed at Oxford for the       period 2008 to 2013 may be obtained from Timberlake Consultants Ltd, the       private distributor [C1]     The impact of the recent developments in econometric methodology and       software is evidenced in empirical work using automated       general-to-specific model selection (GETS) and Autometrics       produced by central banks and international institutions as documented in       the following references.
+A few key examples include:            Norges Bank employs the modelling software in empirical studies.
+The         Director of Research at the Norges Bank (the Central Bank of Norway)         states that OxMetrics is the standard software offered to their         economists and is used in econometric research, policy analyses and         staff training [C2, C3].
+The Federal Reserve uses the methodology and the associated software         to estimate its models and to inform its thinking and approach to         modelling [C4, C5].
+MOSES: Model of Swedish Economic Studies", an "aggregate econometric         model for Sweden...intended for short-term forecasting and policy         simulations" constructed by Sveriges Riksbank (Swedish Central         Bank).
+Autometrics is described as "an essential ingredient in         building MOSES" [C6.
+p. 14].
+The UK Office for National Statistics has used the GETS modelling         approach to produce flash estimates of European labour costs for use in         policy-making [C7].
+The Agricultural and Rural Development Unit, Africa Region of the         World Bank has used the general-to-specific methodology in Autometrics         to investigate key food prices in developing economies [C8].
+Researchers at the Czech National Bank used the general-to-specific         methodology in Autometrics for testing banking sector resilience           [C9].
+The successful commercialization of the software has been supported by       the provision of tailor- made extensive training courses, designed by the       Oxford team.
+These have been used by central banks and international       institutions: for example week-long courses have been run at the IMF       (annually, 2002 to 2011), the central banks of Japan (2009) and Brazil       (2010), and the ECB (annually, 2010 onwards), as well as annual public       attendance courses for academics, students and private users.
+Timberlake       Consultants, jointly with our team and other researchers, organize       OxMetrics conferences as a forum where academics and practitioners       exchange ideas and experience, annually in Europe (usually London), and       biannually in Washington DC [C1].
+Private sector companies like Absolute Strategy Research use the team's       approaches and software in their commercial activities.
+Absolute Strategy       Research place the econometric methodology developed by Professor Hendry       and his team, and the associated computing software, "at the heart of much       of the econometric analysis that we undertake" and confirm that it plays a       key role in their commercial success [C10].
+The Joint Managing       Director stated: that "the econometric methodology that [Hendry's team]       have developed has helped us specifically in the last year in our       modelling of European and Global corporate earnings... as well as in the       creation of a suite of Leading Indicators for Eurozone, UK, Asia and the       USA."
+[C10]

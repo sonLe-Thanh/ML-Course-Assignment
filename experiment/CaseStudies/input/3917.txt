@@ -1,0 +1,14 @@
+     The underpinning research detailed in section 2 and as evidenced by the       publications and funding detailed in section 3 has had impact in a number       of areas.
+In the commentary below we detail the impact that this research       has made in five different areas.
+The research [3.1, 3.2] has changed awareness and understanding       within Pilkington and Applied Multilayers (subsequently Power Vision) [5.1]       of the optimized production conditions for depositing optical thin film       coatings with the best crystallinity and in the development of new       transparent conducting oxide materials.
+This has led to cost savings as it       is difficult to vary growth conditions and assess film quality       experimentally, but through computer simulation it is possible to predict       the type of growth that will occur for many different choices of parameter       values, and thus optimise the growth process.
+The research is further       supported by funding from Asahi Glass.
+The work has also been taken up by the nuclear industry following       investigation of long time evolution of irradiated materials and dose       effects in radiation damage studies [3.3].
+The impact in the civil       nuclear programme has been through an improved prediction of ageing       effects in irrradiated structural materials used in nuclear reactors and       the behaviour of nuclear fuels.
+This has also led to funding to optimise       the safe disposal of nuclear waste.
+The Bader charge algorithm developed within this research [3.5]       has been incorporated into standard quantum chemistry packages such as       VASP and GAUSSIAN [5.2]; these packages are used by thousands of       research scientists internationally.
+The algorithm developed has       completely replaced the techniques that were previously used for this       analysis.
+Prof. Smith was invited by EPSRC to attend two meetings (one in London       and one in Oxford) with politicians and representatives of India's       Department of Atomic Energy.
+These meetings resulted in a change of UK       government policy towards nuclear collaboration with India with funding       being made available for joint projects [5.3].
+The research has also changed the operational models that are used by AWE       to understanding ageing in the nuclear weapons stockpile as evidenced by       the supporting letter [5.4].
+The measure of AWE's interest in this       work is recognised through their continuing funding of research at       Loughborough for the last 7 years.

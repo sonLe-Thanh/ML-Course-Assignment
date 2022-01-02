@@ -1,0 +1,24 @@
+     Results from large-scale national trials led by the ICR and the RM       testing hypofractionated breast radiotherapy (START trials Research Refs       1, 2, 3 and 6 above) have had a widespread impact on clinical practice in       the UK and internationally.
+Radiotherapy dose fractionation is now       standardised across the UK, as defined by the START team, involving a       15-fraction regimen delivered over 3 weeks.
+This regimen was approved by       NICE in 2009 (NICE guideline CG80 [1]).
+The START trials (A and B) were       led by Yarnold and Bliss as principal investigators and leaders of the       Trial Management Group, with 35 participating clinical centres.
+Statistical analysis of the trials was carried out by Bliss and her team       at the ICR, Bliss and Yarnold then produced the final report with the data       interpretation.
+The results were more widely disseminated in a series of       publications in medical journals, beginning in 2008, with Yarnold as the       senior author (Research Refs 2, 3 and 6 above).
+As a result of the       published outcomes, a Cochrane systematic overview of the 3 UK and 1       Canadian trial informed the updated (2009) NICE guidance on the management       of early and locally advanced breast cancer, recommending 40Gy in       15-fractions (the START B trial test schedule) as the standard of care for       these patients.
+This was immediately adopted nationwide, and remains a       standard of care at all 61 UK radiotherapy centres.
+Department of Health statistics for 2012 report 37,000 attendances       (courses) of radiotherapy delivered to breast cancer patients, involving a       total of 510,000 exposures (fractions), of which up to 20% are palliative       (fewer than 15 fractions).
+These statistics are consistent with the large       majority of curative treatments being delivered to patients using the       START trial 15-fraction regimen (see Table 2 [2]).
+This means that at       least 25,000 women per year in the UK are treated with the START regimen,       replacing a wide variety of pre-existing regimens, many of which involved       25 fractions delivered over 5 weeks.
+Women are spending less time and       money travelling for treatment, and the cosmetic results have improved       substantially without any loss of cancer control.
+In addition, the NHS is       saving substantially on treatment costs.
+There is evidence that ICR research into hypofractionated radiotherapy is       having a substantial impact on the development of international healthcare       practice in breast cancer treatment.
+Countries in mainland Europe and       North America are either adopting the START regimen systematically       (Canada, Netherlands, France) [3], conducting confirmatory trials       (Denmark: corroborating source listed below [4], also see       ClinicalTrials.gov NCT00909818), or adopting it piecemeal [5].
+There is       also rapid adoption in India (corroborating source listed below [6]).
+It       should be noted that adoption in countries where healthcare insurance       payments are linked to the number of fractions has been slower.
+START provided evidence to support safe and effective delivery of       hypofractionated radiotherapy, and led ICR teams to investigate this       approach further in the NCRI FAST pilot trial, which, in turn, informed       the design of the current NIHR (HTA) funded FAST-Forward trial [7].
+This       study will accrue 4000 women with early stage breast cancer by 2014,       thereby benefiting a large number of patients by giving them the       opportunity to take part in clinical trials &#8212; currently 200 UK patients       per month are being recruited.
+Another trial that has followed from the       ICR START studies is the NCRI IMPORT HIGH trial, currently recruiting 2800       patients across the UK [8].
+The radiotherapy quality assurance (QA) programmes accompanying the       fractionation trials led by the ICR and the RM have standardised       radiotherapy techniques in the majority of the UK's 61 radiotherapy       centres and have been the main vehicle for the safe introduction of       advanced radiotherapy techniques, including intensity modulated       radiotherapy (IMRT), across the UK.
+These benefits have remained in place       after completion of trial accrual, as confirmed in a recent national       survey [9].
+The QA team has demonstrated the importance of centres       participating in clinical trials, as these provide the framework and       impetus for introducing more accurate radiotherapy for UK women with early       breast cancer.
+The national radiotherapy QA team derives strong support       from ICR staff in the Joint Department of Radiotherapy and Physics, whose       members helped develop the protocols used in the breast fractionation       trials.

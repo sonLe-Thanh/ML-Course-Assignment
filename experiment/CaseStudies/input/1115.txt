@@ -1,0 +1,28 @@
+     Our research has had a major impact on risk reduction in safety-critical       components in aero-engines and led to increased confidence in predicting       and avoiding potentially catastrophic situations in service.
+The work has       been carried out under combined HCF and LCF loading conditions, a       simplified but realistic representation of those experienced in service by       an engine during typical flight cycles.
+One of the examples of our research impact is the RR LiftFan Blisk, an       integral blade on disc developed for use in the F35B STOVL joint strike       fighter (JSF) aircraft for the new UK aircraft carriers.
+The fan Blisks       cost in excess of &#163;250k each.
+Failure of the Blisk cannot be tolerated       under any circumstances, since it would jeopardise the safety of the pilot       and risk the destruction of a &#163;35m aircraft.
+Also unnecessarily frequent       inspections will lead to considerable costs.
+The LiftFan is very highly       loaded and susceptible to high cycle fatigue (HCF) so inspection limits of       critical parts of the fan need to be set at appropriate levels.
+The blades       of the fan are susceptible to minor impact of FOD from small particle       ingress, as all aero gas turbine fans are.
+The Portsmouth research was       targeted at the fatigue integrity of the JSF LifFan.
+The outcomes of our       research have helped to establish the safe stress level in the         presence of a known FOD threat and the inspection limits at a larger         damage size and with greater confidence.
+As a result, the Blisk       provided technical improvement and weight reduction over previous designs,       as well as improved airworthiness with significant economic benefits         due to reduced inspections (the precise values are confidential to       MOD and RR).
+The new knowledge developed is generic and can also be       applied to civil aero engines (e.g.
+RR Trent and BR700 engines) and to       legacy RAF engines (e.g.
+in Typhoon and Tornado aircraft).
+All blades are susceptible to some degree of FOD; hence an effective       damage management scheme is essential for safety and economy.
+A high       integrity repair process has been under development at RR using a       proprietary laser additive technique in order to contain the damage and       maintain the structural integrity of the blades.
+The process is applicable       to critical rotating parts, which are key components in the current       generation of defence and future civil aero engines, with significant       economic benefits.
+The results of our research have contributed to the       validation of the method and increased the confidence in its use towards a       lower life cycle cost for critical components such as the Blisk,       supporting its economic application.
+FOD is estimated by the USAF to cost the international aero-engine       industry 4 billion US dollars annually, therefore the development of       improved fatigue resistance in the presence of FOD during design and       manufacture of components is economically very important.
+Advanced surface       treatments, such as laser shock peening (LSP), have been introduced to       provide improved fatigue strength and crack growth resistance.
+The       treatment produces significant compressive residual stresses along the       leading edge of aerofoils such as fan blades, so that the critical region       becomes considerably more damage tolerant.
+Typically, LSP can achieve full       through section compressive residual stress at the leading edge, therefore       improving FOD tolerance where FOD is most expected.
+A fundamental       understanding of the fatigue behaviour of FOD in the presence of LSP is       vital, if this treatment is to be utilised to its full potential in       enhancing the fatigue resistance of fracture critical components in the       event of FOD.
+The research carried out at Portsmouth from 2008 has provided some unique       insights on the influence of residual stresses due to LSP and FOD on the       near-tip stress -strain fields and early crack growth behaviour developed       under combined LCF+HCF loading.
+This is the first time such       information has become available, also the very first time a       rational analysis has been developed for early crack growth from FOD in an       LSP treated surface under service loading conditions [Lupton4].
+The Portsmouth results have given further confidence in the use of LSP       treatment in FOD-susceptible components.
+The data and crack models         developed at Portsmouth have been used by RR in determining both design         stress levels and tolerable FOD damage size for critical aero engine       aerofoil components such as fan and compressor blades.
+Due to the       beneficial effects of the residual stresses from LSP treatment, these       limits are now set at higher levels with greater confidence, thus       contributing to safer design and economic life management.

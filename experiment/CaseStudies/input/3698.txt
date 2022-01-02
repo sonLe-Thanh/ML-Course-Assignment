@@ -1,0 +1,60 @@
+     Pathway to Impact     Decision support technologies have a complex pathway to impact.
+We       operate in areas where       complex decision-making controls the use of large assets or the deployment       of workforces.
+Here       operational expenditure is large and so are the consequences of       inefficient decision-making.
+Therefore the process of adopting innovation in decision-making policy is       multi-staged and       conservative.
+Some large companies innovate in-house &#8212; an example is       British Telecom.
+Others,       such as oil and gas majors, outsource innovation to technology support       companies, which are       often SMEs.
+Examples of such support companies here are Viper Subsea and       ODS Petrodata.
+Decision-support technologies are therefore developed through stages of       "technology readiness"       before ultimate internal adoption or external purchase by a large company.
+There is therefore a       value chain of technology adoption.
+As an academic research group, we       operate at the start of the       value chain by translating advanced knowledge in optimisation and learning       into software       components that address a decision-making problem identified by a company       as an area for       improvement.
+We essentially operate as an outsourced part of these       companies' R&amp;D functions       and add value by proving concepts, quantifying potential efficiencies and       encapsulating specialist       know-how in software components around which decision-support products can       be developed and       sold.
+Our main economic impact therefore is in creating this value.
+It is       measured by proven       efficiencies in decision-making processes and the potential sales value       this creates for the       companies, or, in the case of a large company, internal adoption for use       in high-value decision-       making.
+Typically we operate by embedding our research students with       partner companies and       often this leads to employment to support development through the next       stages of the value chain.
+Therefore, a secondary economic impact is the transfer of high-skilled       individuals into companies.
+Reach     In this case study we explain how our research in data-driven decision       support has impacted one       large company, British Telecom, and two SMEs, ODS Petrodata and Viper       Subsea.
+In each case,       the interaction has resulted in value-add in terms of decision-support       software and the long-term       employment of research students by the company.
+We discuss specific       aspects of the pathway       and significance for each company in turn.
+Operations Management Decision Support at British Telecom     Context     Workforce Dynamics Simulator (WDS) is a dynamic business simulation       environment, developed       at British Telecom, which enables large scale simulation of workforces and       notable resources.
+It       uses historical or generated data to investigate the execution of work       plans.
+WDS takes detailed       input data on geographical locations, tasks to be completed and engineers       available, typically over       a 90-day planning period and involving around 25,000 workers across the       UK.
+The system       simulates a variety of scenarios and the output reports are used to       support decision making in the       business.
+A key problem is that WDS is sensitive to choice of input       parameters.
+These must be       tuned to ensure that the predictions in the output report are as accurate       as possible.
+Pathway     In 2010-11, BT funded a project at RGU supervised by McCall, to       apply metaheuristic optimization       algorithms to carry out the tuning of WDS.
+WDS simulations are expensive       and accuracy is       important so search accuracy was a target here.
+A variety of       different algorithms were evaluated,       including the DEUM algorithm.
+The decision to investigate the use of DEUM       in this case was       motivated by the high computational cost incurred with each simulation.
+We       packaged a suite of       algorithms, including DEUM, as a software component called the WDS Tuning       Tool (WDSTT).
+Impact and Significance     WDSTT has been adopted by BT, replacing a parameter sweep of tuning       parameters for WDS.
+WDSTT adds value in up to 5% more accurate field workforce simulations as       well as reduced       tuning times (up to a factor of 10).
+Since the incorporation of WDSTT, the       simulation software has       been used repeatedly in BT to support management decision-making in       assessing the effect of       changes in different business scenarios and transformation initiatives       including: the effect of new       product introduction; the effect of special events on demand; and support       for IT investment       decisions [I1].
+It is impossible to quantify financially the effect of       more accurate simulation on the       quality of decisions.
+However the decisions involved correspond to       investment of multi-million       pound amounts in the deployment and organisation of over 20,000 field       workforce employees, so       small percentage changes in accuracy translate into significant financial       and operational value.
+McCall's former research student (Shakya) is permanently       employed as a research manager at       British Telecom.
+While at BT, he has applied DEUM to a dynamic pricing       problem [I2].
+Subsea Hydraulic Control Diagnostics at Viper Subsea     Viper Subsea (VS) are an engineering company offering specialised       consultancy support for       hydraulic control systems for offshore oil and gas production.
+Offshore       drilling installations consist       of an interconnected set of pipes, pumps and valves used to collect       hydrocarbons from different       wells for onward processing.
+Pumps and valves are controlled hydraulically       through hydraulic       controls.
+Due to the nature of hydrocarbon flow, pipes pumps and valves       can become clogged or       stuck and so performance changes over time.
+Shutdowns in production cost       millions of dollars per       day and so it is important to correctly diagnose faults in the system when       they occur, either to       avoid or to minimise and to accurately target shutdowns.
+Viper Subsea are       therefore interested in       developing diagnostic software for sale to operators of offshore       installations.
+Pathway     VS and Technology Strategy Board (TSB) funded a two-year KTP project       (2011 - 13), supervised       by Petrovski and McCall, to develop algorithms for pro-active fault       diagnosis using control       feedback data from the real-time operation of subsea hydraulic systems.
+As       the algorithms need to       be accurate but also run on limited capacity machines in robust       environments search efficiency       and search accuracy are both key.
+A wide range of learning algorithms,       including Bayesian       Network learning [R3, R4], was evaluated on test problems, using test data       supplied by a major       operator.
+A diagnostic software component was packaged in a prototype       product V-Sentinel, which       can, within a few seconds, identify abnormalities in data streams from 14       sensors, characterising       the level of hydrolic liquid in a tank, quality of insulation, and       validating pressure sensors.
+Impact and Significance     In a final report on the project, required by TSB, VS valued V-Sentinel       as having a profit-generating       capacity of &#163;165K per annum [I3].
+It is reasonable to value an asset at       five times its annual profit-       generating capacity, in this case &#163;825K.
+VS are actively developing       V-Sentinel and the research       student is now permanently employed by the company for that purpose.
+Drilling Rig Market Data Modelling at ODS Petrodata     Context     ODS-Petrodata Ltd. (ODSP) are an Aberdeen-based SME specialising in the       provision of oil and       gas market data.
+ODSP's market data and analyses are made available to the       oil and gas market       through a number of web products including RigPoint, which oil and gas       majors and large financial       investors use to inform their selection of offshore drilling rigs for       particular jobs.
+The drilling       performance of a given rig depends on a large number of factors relating       to rig specification, drilling       location and water depth Given that each rig-hire costs several hundreds       of thousands of dollars       per day, the potential benefits of reduced drilling time by a few days on       average, realised across       the hundreds of annual hires in the global market, run to $10Ms per annum.
+ODSP were therefore       interested in adding value to their RigPoint product with a drilling rig       selection tool, able to inform       choice by predicting time to drilling depth for selected rigs.
+Pathway     ODSP and TSB funded a three-year KTP project (2009 - 12), supervised by McCall       and       Petrovski, focussed on integrating and modelling two large datasets       containing over one hundred       and fifty data fields and fifty thousand records of drilling rig and well       data.
+The size of the datasets       and consequently modelling complexity necessitates search efficiency.
+Chain-model algorithms       [R3, R4] were used to produce Bayesian Network models relating the data       factors.
+These models       were incorporated in a software tool to predict the drilling performance       of particular rigs given a       range of over forty possible input factors that would be known to decision       makers, including drilling       location and depth.
+The software is capable of inferring factors that are       not given.
+Impact and Significance     In the final report on the project, required by TSB, ODSP valued the       software component as having       a profit-generating capacity of &#163;1.35M per annum [I4], so an estimated       value of &#163;6.75M.
+As the       project was nearing completion, ODSP was acquired by a large US data       company IHS Ltd. IHS       committed to continuing development of the rig efficiency software [I4]       and the research student       was taken on as a permanent employee.

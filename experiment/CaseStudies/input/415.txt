@@ -1,0 +1,44 @@
+ The impact of the research resulted from the sale and/or application of DIVAST, as illustrated for CH2M HILL (2000), Buro Happold (1999) and the Environment Agency North West (2000).
+The model's application by each of these organisations, and Professors Falconer and Lin's engagement with these organisations, has led to the following typical impacts in the REF period.
+Economic &#8212; Buro Happold are currently using the model in the design of a major coastal waterway development project in Kuwait.
+Sabah Al Ahmad Sea City will eventually accommodate 100,000 people.
+The pioneering development is being constructed in five phases, two of which hav already been completed, and includes 180 km of shoreline, 2000 ha of water area and 81 million m3 of water at high tide.
+The associated waterway network has been demonstrated to be viable as a direct consequence of Cardiff University's model.
+The waterway network is critical to the success and viability of the land-based development.
+DIVAST has been used for waterway alignment, waterway depth and width design, bridge, culverts and throttle design and flushing studies.
+The average price of serviced homes is &#163;300k.
+Each phase typically has a base value of approximately &#163;1.2B prior to development.
+[5.1] Buro Happold's involvement in this project has developed and enhanced the company's international reputation in the coastal and marine engineering field.
+The CEO of Buro Happold (Paul Westbury, FREng) stated that: "The research undertaken by Cardiff University and their on- going technical support to Buro Happold has played a key part in our success in Sabah Al Ahmad Sea City.
+This has resulted in really positive financial gain for the corporation (each of the five phases has an estimated base value of &#163;1.2B prior to development).
+Moreover, the scale and success of the Sea City venture has been used to exemplify our specialist expertise and experience.
+It has consolidated our reputation and market positioning and led to successful bids for new, large scale contracts in Saudi Arabia, USA, China and Egypt (amounting to a combined value that exceeds &#163;1M)."
+[5.2], [5.3] CH2M HILL (previously Halcrow) use the DIVAST suite to provide one of the principal engines for their 2D flood inundation models ISIS 2D and 2D-TVD (2009).
+ISIS 2D (and TVD) is marketed `for use in surface water management plans and flood risk management studies'.
+The ISIS suite enables flood risk and hazards to be predicted, the impacts on people, property and the environment to be assessed and mitigation options to be tested (notably, Defra have stated that the economic cost of flooding, &#163;3.2B in 2007, could rise to &#163;12B by 2080).
+CH2M HILL (Halcrow) is recognised as being one of the world's leading consultants in flood risk modelling.
+Over the last 60 years the company has operated in more than 120 countries and currently has more than 200 projects around the world connected to flood management.
+The models are widely used for flooding studies for UK and international clients; examples of users include the Environment Agency, Canals and Rivers Trust (formally British Waterways), Scottish Environment Protection Agency and Spain's Ministry for the Environment (CEDEX).
+Richard Crowder, Director at CH2M HILL, stated that `the research undertaken by Cardiff University, and their ongoing technical relationship with CH2M HILL, has made a significant contribution to the capabilities of the ISIS software suite.
+This has been fundamental to us securing and delivering major flood risk projects in the UK and across the globe, including a long term contract with a major global insurance company to develop national scale flood risk models'.
+[5.4] The ISIS suite and the ISIS 2D engine can also be acquired by practitioners and researchers in both a fully featured paid for and reduced functionality free version from the CH2M HILL website (ISIS FREE).
+To-date over 12,000 users have downloaded the free version.
+CH2M HILL estimates that the models have been used to study the protection of over &#163;10B assets to-date.
+[5.4],[5.5] Environmental and Health Benefits &#8212; NASA Earth Observatory have stated that 2 billion people are likely to be vulnerable to flooding by 2050.
+The use of the models, individually or in combination, serves to help reduce these statistics.
+CH2M HILL, for example, have used the models (as part of ISIS 2D) to model over 700km of main river and major tributaries of the Siret River in Romania.
+This was to combat a series of flood occurrences in the last 40 years, including a major event in 2005 that resulted in fatalities, evacuations and damages to crops amounting to &#8364;500M.
+Another project supported the development of water management strategies in Argentina and Paraguay, The model simulated 90 days of a large flood event originating from the Pilcomayo River, which has one of the largest sediment loads in the world.
+Further examples include work for the Philippines Government, where the research is helping to map and manage potential flood risk scenarios for the entire country.
+[5.6] Another use of the models concerns water quality.
+Illnesses derived from contact with contaminated water include gastroenteritis, respiratory tract, ear, eye and skin infections.
+Based on data regarding bather numbers (80 million swims per year), work for Defra infers that 1.3 million cases of gastroenteritis each year could be associated with bathing in England and Wales.
+The EA North West used the linked model to establish the frequent cause of non-compliance of the bathing waters at Lytham St Annes.
+The results illustrated that non-compliance at the bathing beach was due to bacterial inputs from the river Ribble and combined sewer overflows from Preston Wastewater Treatment Works.
+Following the outcome of a Public Inquiry in 2008, where Professor Falconer was a key witness and the model was a key part of the evidence, United Utilities embarked on a &#163;114M upgrade of the Preston works.
+This will bring `significant environmental improvements to the Fylde coastal bathing waters (including Blackpool beaches) and designated shellfish beds located within the Ribble Estuary'.
+[5.7] Improving Industry Knowledge and Public Engagement &#8212;The research has been used to study the effects of the Severn Barrage and has significantly contributed to industrial knowledge and stimulated public engagement The findings are of national and international significance, particularly in terms of flood risk, water quality and power generation.
+They highlight that two-way generation could produce almost as much power as the traditionally favoured option of ebb-only generation, but with this operating approach considerably reducing the hydro-environmental concerns about siting a barrage in the Severn Estuary.
+Since 2008, Professor Falconer has delivered over 160 presentations on the Severn Barrage, flood modelling and water security to learned societies, such as The Royal Academy of Engineering, and given numerous media interviews to radio and TV channels &#8212; both in the UK and overseas.
+His research on the Severn Barrage also formed key evidence to the House of Commons Energy and Climate Change Committee in January 2013.
+[5.8],[5.9],[5.10]

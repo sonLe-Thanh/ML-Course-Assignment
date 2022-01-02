@@ -1,0 +1,41 @@
+     In 2012, approximately 2,700 kidney transplants were performed in the UK       and 16,812 in the USA.
+However, up to 50% of transplant recipients will       have at least one infection within 1 year of transplantation.
+CMV is one       of the most common infections in KTRs, and can lead to clinical disease       involving fever, inflammation of the lungs, liver or gut, and also       disruption of the local immune response, leading to secondary infections       and long-term injury to or rejection of the transplanted kidney.
+University of Glasgow research has helped to establish revised standards       of care for the clinical management of the prevention (IMPACT trial) and       treatment (VICTOR trial) of CMV disease in KTRs.
+These trials are cited in       current guidelines around the world, supporting recommendations that       include:            Doubling the length of preventative (prophylactic) treatment with         valganciclovir in KTRs from 100 days to 200 days, which has been shown         to halve the relative incidence of CMV disease over 12 months.
+The use of oral valganciclovir as an alternative to intravenous         ganciclovir in the treatment of human CMV disease, which has been shown         to be equally effective at eradicating disease in 85% of solid-organ         recipients with non-life-threatening illness (74% of whom were KTRs).
+Adoption of oral valganciclovir and extended prophylaxis in           clinical guidelines     Since the publication of the IMPACT and VICTOR trials, the findings have       been adopted to support recommendations for the management of KTRs in       national and international guidelines.
+With the exception of Kidney       Disease: Improving Global Outcomes (KDIGO; discussed later), all of the       guidelines below cite the VICTOR trial to support oral valganciclovir as       an alternative to intravenous ganciclovir to treat CMV disease, and cite       the IMPACT trial to support the use of oral valganciclovir for 200-day       (6-month) prophylaxis to prevent CMV disease in high-risk adult KTRs.
+National guidelines            The American Society of Transplantation is an organisation of more         than 2,700 transplant clinicians, whose annual congress attracts in         excess of 5,000 delegates from around the world.
+Its 2009 guideline         `Cytomegalovirus in solid organ transplant recipients' cites University         of Glasgow research in the "CMV Prevention" (level 1 recommendation,         ref.
+26 and 32, p.S80) and "CMV Treatment" (ref.
+12 and 39, p.S83)         sections.a       The British Transplantation Society (BTS) is the professional voice of         transplantation in the UK, representing all healthcare professionals         working with transplant patients.
+Their 2011 guidelines on `Prevention         and Management of CMV Disease after Solid Organ Transplantation' cite         University of Glasgow research in the Prophylaxis (ref.
+99, p.34-35) and         Treatment (ref.
+131, p.45) sections.
+The BTS guidelines provide further         context, describing IMPACT as a `landmark study', and stating         that, `in practice, many units have begun to use oral valganciclovir           prophylaxis to avoid the costs and inconvenience of hospital admission           and/or home intravenous anti-viral therapy."
+Likewise, they state         that "substantial clinical experience in recent years has reinforced           that [use of oral valganciclovir to treat CMV disease] is an           appropriate treatment strategy, which has the advantage of being able           to offer management as an outpatient for a proportion of patients.
+'b        The Renal Association is the professional association for renal         physicians and scientists in the UK, and has an active role in the         development of renal services in the UK.
+In 2011, Prof. Jardine         co-authored their guidelines on `Post-operative Care of the Kidney         Transplant Recipient'.
+The guidelines are intended for those healthcare         professionals who care for KTRs, but who are not experts in transplant         infectious disease.
+They cite University of Glasgow research as         Prophylaxis recommendation 8.2.1 (level 1 recommendation, ref.
+110,         p.45-46) and Treatment suggestion 8.2.2 (ref.
+112 and 113, p.45-46).c           International guidelines            KDIGO is an independent group with a core mission of developing and         implementing clinical guidance in kidney disease with an international         focus.
+The 2009 KDIGO guideline on `The care of kidney transplant         recipients' cites University of Glasgow research under         recommendation 13.2.3.2 (level 1 recommendation, ref.
+312, p.S48); the         guidelines pre-date publication of IMPACT.
+Whilst they give a strong         recommendation, they describe the evidence of the VICTOR trial as `D'         (low) due to the absence of patients with life-threatening CMV disease.
+However, they clarify in their rationale that, `At this point, most           experts would be willing to use oral therapy to treat adult KTRs with           mild CMV disease.
+'d        The Transplantation Society is the leading international society of         physicians, surgeons and scientists involved in the transplantation of         organs and tissues.
+Its 2010 guideline `International Consensus         Guidelines on the Management of Cytomegalovirus in Solid Organ         Transplantation' was developed using a consensus group of 45 experts         from 15 countries worldwide, which also included Jardine.
+These         guidelines cite University of Glasgow research to support Prophylaxis         (level 1 evidence, ref.
+88, p.785) and Treatment (level 1         recommendation, ref.
+33 and 87, p.787) recommendations.e        The implementation of the Transplantation Society's International         Consensus guidelines was surveyed in 2011, a year after publication,         receiving responses from 155 transplant clinicians, representing 126         clinical centres in 41 countries.
+Feedback from 73% of respondents         represented kidney transplant practice.
+Of all respondents, only 99         specified which antiviral they use in high-risk patients, but of these,         86% used oral valganciclovir, and just over half of them used it for a         period of 200 days.f              Amendment of licenses by medicines regulators       For medicines to be used in a modified way, the national medicines         regulatory bodies must amend the relevant licenses.
+The IMPACT trial         resulted in amendment of licenses for use of valganciclovir for         preventing CMV disease in KTRs by UK medicines agenciesg-i         and the United States Food &amp; Drug Administration,         providing the option of extended 200 day treatment with oral         valganciclovir.
+Whilst the UK Medicines and Healthcare products         Regulatory Agencyi refers to the outcomes of the study in its         amendment, the statutory advisors to the Scottish and Welsh governments         (Scottish Medicines Consortiumgand the All Wales Medicines         Strategy Grouph) published their detailed evaluation of the         IMPACT evidence.
+The Scottish Medicines Consortium's role is to license (or amend         licenses for new indications) those drugs that are both clinically         effective and represent good value for money.
+This ensures that drugs         meeting these requirements are accepted for routine use and have access         to NHS funding.
+The Scottish Medicines Consortium evaluated the         comparative efficacy and safety of 100 day versus 200 day treatments,         citing the IMPACT study,3 including an analysis of the cost-         effectiveness of using the drug, based on a cost-utility model provided         by the manufacturers of valganciclovir (Roche).
+These data supported the         amendment to the license, on the basis that an additional 100 days of         preventative treatment was considered to offer both clinical and         economic value.
+A 200 day treatment is currently being used in the two         renal transplant units in Scotland (Glasgow Western and Edinburgh Royal         and infirmaries).g

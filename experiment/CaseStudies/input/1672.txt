@@ -1,0 +1,38 @@
+ The development of practical PDH laser stabilisation by the University of Glasgow has created global economic impact of many millions of pounds in the period 2008-13.
+Although the University of Glasgow did not commercialise the PDH technique, the researchers were active in the dissemination of its benefits to audiences both in academia and industry.
+During the 1990s, the laser and gravitational wave communities shared an interest in stable and rugged high power optics and members of the commercial laser community routinely attended scientific conferences such as the 7th Marcel Grossman Conference (Stanford, 1994) where Ward presented results on the stability of the University of Glasgow 10m interferometer using PDH locking.
+Moreover, owing to the high profile of the work carried out at Glasgow, the group maintained collaborations with leading universities and research institutes worldwide who in turn also trained students, collaborated with industry and engaged in commercial activities providing an international dimension to the widespread dissemination of the benefits of the PDH technique which ultimately led to industrial adoption.
+For example, the Glasgow group has an historically close link with Prof. Robert L. Byer at Stanford University and through him to companies adopting PDH in products.
+For example, New Focus, (subsequently bought by Newport) was a Stanford spin-out which utilised PDH in its products.
+There were also links between gravitational waves and atom optics groups particularly in Germany and it is from here that companies such as Toptica were founded.
+Prof. Hough and Prof. Ted Haensch had close links through working on the Scientific and Technical Advisory Committee for the Virgo interferometric gravitational wave detector in 1994-97.
+Prof. Haensch subsequently founded Menlo Systems in 2001 that produces stable and ultra-stable laser systems.
+The impact of the University of Glasgow work has occurred on three different scales.
+a) Sales of dedicated high-speed frequency/phase modulators Implementation of the PHD technique within specialist research establishments and commercial products requires the use of dedicated high-speed frequency/phase modulators that can be inserted into the laser beam and highly stable optical cavities to which the frequency of the laser can be locked.
+The global number of units sold every year to enable implementation of PDH stabilisation is commercially sensitive but estimates fix revenue at a level of &#163;6-10M per annum.
+This is broadly similar to revenues generated from sales of complete systems.
+Companies such as New Focus, Leysop, Thorlabs, and Gsaenger have significant sales due to the widespread adoption of the PDH technique and as confirmed by Newport in 2011, who said: "In particular, Pound Drever Hall (PDH) r-f locking has become the accepted standard technique for locking high finesse resonant optical cavities, and Newport has used it in a range of commercial products.
+For more than 10 years, New Focus and Newport have sold a large number of r-f electro-optic modulators and high stability cavity mechanics to researchers building PDH systems for laser stabilisation and wavelength conversion."
+b) Sales of complete laser systems Complete laser systems incorporating PDH stabilisation give turn-key output of laser light with stabilised, and / or predetermined frequency.
+In addition, the PDH technique is central to enhanced harmonic conversion of laser frequency (e.g.
+from IR to visible) where the non-linear optical conversion is enhanced within a frequency-matched, resonant cavity.
+Companies such as Toptica and Sacher Lasertechnik sell green, blue and UV laser systems that depend upon PDH.
+Newport sells a sub-system that is used with the customer's own laser to produce the required light.
+Menlo Systems has developed an Optical Reference System based on PDH stabilisation for use in metrology, high precision spectroscopy and interrogation of optical clocks.
+The reach of this impact is world-wide with the companies above selling into European, North American, Japanese and Asian markets.
+The market for relevant lasers in such systems is currently worth in excess of &#163;5M per annum, and totalling between &#163;15M and &#163;20M since 2008.
+One company alone (Toptica) has sales of PDH-enabled frequency-converted systems, with current revenue from the sale of approximately 60 systems per annum being estimated at more than &#163;3M per annum.
+Their sales are increasing year on year.
+Moreover quoting from a testimonial from Toptica: "Laser frequency stabilisation to cavities or cavity length stabilisation &#8212; both by the Pound-Drever-Hall (PDH) method &#8212; are important applications of our customers.
+Commercial adoption of this method was made practicable after demonstrations in the mid-90's by the Glasgow group and collaborators that reliable, long-term locking of optical systems was possible &#8212; a must for industrial use.
+Our business benefits from the PDH method in mainly three ways...we developed and sell individual Pound-Drever-Hall detector modules directly to the market... Secondly, these modules are one of the key components of our frequency-converted product family... Thirdly, the PDH method is implemented in our new guide star laser system called SodiumStar20..." Scottish SME M Squared Lasers said: "Although the original publication of the technique was in the 1980s, it was only the further work in the early 1990s that Glasgow University clearly showed for the first time that robust and stable operation over long periods of time was possible.
+This was key in establishing the method as being of real value for use in practical optical applications."
+Also from M Squared Lasers: "Throughout the period between 1993 and 2013 the work done in Glasgow University on the PDH locking technique had led to a significant portion of the scientific laser companies adopting PDH within their products and this has led to laser manufacturers achieving tens of millions of pounds in product revenue."
+c) Enabling advanced applications in metrology and the semiconductor industry The commercial availability of PDH stabilised lasers are central to a number of applications beyond research.
+All of the world's national standards laboratories (e.g.
+NPL, NIST, BIPM) use PDH stabilised lasers in their time/frequency standards.
+In addition to these precise absolute optical frequency standard which allow precise distance measurement, PDH is used for precise frequency control with respect to a doubling cavity, allowing laser sources such as the Sony Chicon to generate low noise, continuous wave 266nm light for sophisticated semiconductor inspection tools.
+The Chicon, emitting deep-UV light at 266 nm with maximum output power of 1W, was originally developed by Sony as a core technology for in-house wafer inspection systems.
+The main advantage of a short wavelength for wafer-inspection tools is the ability to detect particles as small as 30 and 40 nm on bulk-Si and Silicon on Insulator (SOI) wafers, respectively.
+In 2009 Sony decided to commercialise the product for the market of laser inspection systems and UV-Raman spectroscopy.
+The product line was subsequently taken over by Oxide Corporation which is currently offering four product lines under the Frequad brand.

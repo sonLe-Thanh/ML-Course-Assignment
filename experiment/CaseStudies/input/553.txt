@@ -1,0 +1,39 @@
+     The DOSE index     Treatment decisions for COPD depend crucially on an accurate prediction       of the future progression of the disease, and treatment guidelines       recommend physicians to assess disease severity.
+Of the several       multi-system indicators available, both the DOSE and the BODE are       significant predictors of mortality [2] but the DOSE index is simpler and       cheaper to use compared with the BODE index.
+The BODE index is the most       commonly cited index of severity in research studies, but is virtually       never used in primary and secondary care.
+A 2012 analysis of 14610 records       on the OPC database of patients with a diagnosis of COPD revealed no case       for which there was a complete BODE score [3].
+This is because the BODE       requires trained staff to conduct a six minute walk test along a 30 metre       corridor, with total administration time of at least twice that time       (&gt;12 minutes).
+In contrast the DOSE index consists of 4 items which       according to NICE recommendation should be part of the routine assessment       of patients in all settings (NICE CG 101), and so for many patients incurs       no additional costs for assessment.
+The same 2012 analysis of the 2012 OPC       database revealed that around half of COPD patients (7,228 of 14,610) had       a valid DOSE index properly recorded.
+If the indicators for the DOSE are       not collected (i.e., about 50% of this sample) then guidelines are not       being followed.
+The DOSE index and associated management recommendations       can be automatically computed from routinely collected data by data       analysis systems such as the OPC COPD reporting service       (http://www.optimumpatientcare.org/),       and the Health Intelligence risk stratification service       (http://www.health-intelligence.com/population-based-risk-stratification.html).
+This means that the NHS staff require no extra work to obtain the DOSE       score other than that required by following the NICE guidelines.
+By       calculating a DOSE score they are thereby able to identify patients in       need of intensive management.
+The DOSE index has been widely adopted internationally and has led to       changes in recommended guidance worldwide in terms of assessing disease       severity.
+The following guidelines or organisations recommend the use of       the DOSE: (a) The Global initiative for Chronic Obstructive Lung Disease       (GOLD) 2011 guidelines, which are the most influential in the world,       recommend the DOSE for assessing disease severity [1].
+(b) `Diagnosis and       management of COPD in primary care: A guide for those working in primary       care' (Primary Care Respiratory Society, Third Edition, 2010) [4] (c)       IMPRESS guidelines (an organisation that links the British Thoracic       Society with the Primary Care respiratory society) [5] and (d) the COPD       exchange educational website with &gt;7,500 registered members in 2012       recommends the DOSE index in routine clinical care [6].
+A UK company used       by NHS commissioners (Health Intelligence) uses the DOSE index to stratify       risk for people with COPD, and thereby determine treatment selection.
+The       DOSE index is also used by a patient management organisation, Optimal       Patient Care, which has been providing assessments using the DOSE index on       7000 patients annually over the last three years [3].
+The results are       returned to doctors and patients, and the scores are used to assess       disease severity and guide treatment recommendations.
+The National COPD       audit is a Department of Health initiative similar to the diabetes and       cancer audits.
+The audit is currently being developed with first data       collection due in late 2013.
+It aims to include nearly all 800,000       patients in primary care with a registered diagnosis of COPD.
+One of the       key items being used to assess disease severity and progression is the       DOSE index [7].
+The DOSE index is used as part of a COPD management template which has       been developed by the Primary Care Respiratory Society in conjunction with       Almirall (a pharmaceutical company) and the Department of Health.
+The       template is currently in beta-testing with 1,000 practices per year       scheduled to receive it over the next 3 years [7].
+The template is being       used in primary care to assess disease severity and to estimate future       risk of progression and complications.
+The template provides management       decision support based on the DOSE index and other data.
+The LINQ     The LINQ has achieved the following changes to clinical practice: It       provides a convenient way of helping clinicians identify patients'       information needs prior to the clinical interview so that the clinician       can focus on the topics where the patient has information needs.
+Our       research shows that its use improves patient education as well as anxiety.
+When used in an integrated education package, it has been shown to       significantly reduce rate of hospitalisation, with patients being less       breathless and having improved daily living activities (Wakabayashi et       al., 2011).
+Its use has also been extended to other respiratory diseases       [8].
+The LINQ is currently used in specialist respiratory units, pulmonary       rehabilitation programmes and in primary care both in the UK and       worldwide.
+Its use is recommended in various guidelines, including Impress       [5] and the COPD Exchange [6] which has approximately 500 registered       users.
+The scale has been translated into 11 languages [9].
+In Japan, the       LINQ is currently used in 26 institutions where it is used in patient care       by 9 physicians, 7 nurses, 4 physiotherapists, 1 pharmacist, 5 university       nursing departments [10], and a LINQ book has been written on the       information that should be provided to patients [11].
+In Canada its use is       reflected in the development of a scoring template by a Canadian physician       that is now available on the LINQ website, hosted by Plymouth University       [8].
+Its use across different countries is reflected in the number of hits       on the website: 200,000 between December 2011 and January 2013, and the       number of downloads of translations of the questionnaire in different       countries during the same time: English = 582; Japanese = 315; Italian =       314; Chinese = 243; Dutch = 240; Bulgarian = 227; Spanish = 221; Finnish =       201; German = 201.
+In many cases a single download is then used for       several assessments.
+The research has informed national guidelines through the involvement of       Hyland and Jones on key committees.
+Prof Hyland has acted as a member of       the Outcome Assessment and Pulmonary Rehabilitation subcommittees of The       National Strategy for COPD and the International Primary Care Respiratory       Group where his research informed the production of guidelines on practice       with a set of recommendations for patient management on the care of adults       with difficult to manage asthma:       http://www.theipcrg.org/download/attachments/1901269/Difficult+to+Manage+asthma+deskop+helper.pdf?version=1&amp;modificationDate=1335729880000.
+)Dr       Jones has served on the Global emPOWER international education initiative       for COPD editorial board (used in meetings involving 36,000 primary       clinicians in 28 countries), COPD exchange editorial committee (producing       a national COPD web based resource with over 7,500 registered users), the       British Thoracic Society review group producing Home Oxygen guidelines for       Adults and Home Oxygen guidelines for Children, and served on the Main       Implementation committee of National Strategy for COPD.

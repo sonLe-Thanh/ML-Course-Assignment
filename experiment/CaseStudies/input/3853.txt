@@ -1,0 +1,29 @@
+     Three impacts are claimed here resulting directly from the research of       Cook and Lomas: (i)       improvements to indoor air quality, thermal comfort and energy performance       through better design       of ANV buildings in general, and the HAWAC building in particular, (ii)       greater confidence of the US       design team to design other low energy buildings, and (iii) a new product       for industrial collaborator       SEC leading to improved building energy performance for their customers.
+i) Improvements to indoor air quality, thermal comfort and energy         performance     Cook and Lomas planned, coordinated and undertook commissioning,       fine-tuning and post-occupancy       monitoring of the HAWAC building.
+By identifying the causes of disparities       between       actual and intended performance, this work enabled contractors and       facilities managers to correct       errors and thus restore air quality and temperatures to levels nearer       those intended, whilst       maintaining the low energy credentials of the building and the       consequential low emission of       greenhouse gases [C1].
+The expertise gained is applicable to       future projects of team members.
+The low-energy credentials of the HAWAC building has raised the profile       of Judson University and       had a positive impact on its enhanced marketing strategy [C1].
+The       impact for the University       culminated in the award of LEED Gold energy rating in Feb. 2009 in       recognition of the building's       design and performance [C3, C4].
+(ii) Greater confidence of the US design team     For the US architects involved in the HAWAC building's commissioning, the       concept of ANV was       new.
+The experience has enabled them to go on to design other low-energy       buildings using natural       ventilation with greater confidence [C2].
+The design strategy is       applicable to office-type buildings in       low-humidity climates across the globe.
+The work of Cook with SEC has had       wide reaching and       significant impact for the company's activity.
+The outcome of the       monitoring and simulation work       has been to replace the traditional, crude PC-based control system at       SEC's headquarters, with a       new controller in which CO2, temperature and humidity sensors       are integrated along with       processing hardware in a single housing.
+The NV LogIQTM       controller, which incorporates the new       algorithm developed in the underpinning research, is now the centrepiece       of a new product range       launched in 2012 [C5].
+The controller also incorporates a logging       facility that enables data to be       collected at 10-second intervals at a centralised location so that       ventilation systems can be       properly commissioned and fine-tuned.
+As noted in the underpinning       research, a lack of post-occupancy       commissioning can be a major cause of unexpectedly poor performance in       naturally       ventilated buildings.
+The new NV LogIQTM controller makes such       commissioning possible as an       integral part of SEC's offering to clients.
+The new control system was       installed at SEC       headquarters in 2012 and has been refined by Khatami (LU researcher),       leading to an exemplary       showcase facility for SEC with direct impact on their marketing strategy [C6].
+Monitoring and       occupant feedback has confirmed the performance advantages of the new       control algorithm in       terms of better indoor air quality, thermal comfort and energy performance       [C6].
+The first       customers for the NV LogIQTM controller were secured early in       2013 and initial data has shown       effective operation.
+For example occupant thermal comfort was maintained       in the new naturally       ventilated offices of the Diocese of Nottingham (Dunham House), despite       the heat waves over the       summer of 2013.
+The underpinning research on hospital design, which was       incorporated into the       control algorithms developed, has ensured that the NV LogIQTM       controller is also fit for use in a       wide range of healthcare facilities.
+At the time of writing, SEC had       prepared quotations for       supplying NV LogIQTM for use in offices, schools and dwellings       [C6].
+(iii) A new product     SEC sees its collaboration with Loughborough University as part of its       `aggressive new product       development programme ...' as `The results of this research have been       directly fed into new       products' [C7].
+When the KTP project began late in 2008, new       product development commanded       the efforts of three SEC staff.
+By 2012 this had grown to seven full time       and two part time staff.
+The       company's capacity to absorb new knowledge and practices from research has       also improved       substantially.
+In the summer of 2012, the company had a Loughborough       University Masters       student carry out a short study aimed at further improving the positioning       of the ventilation       controllers at their headquarters.
+The company now employs a Loughborough       University graduate       as a full-time Design Manager (new post) to continue developing this area       of the business.
+The impact on SEC of Loughborough University's research motivated further       collaboration with       Loughborough University, e.g.
+financial support to enable Khatami to       complete her doctoral       research [C6], the annual prize awarded by SEC to the best       graduate from the Low Carbon       Building Design and Modelling masters course [C6], controls       provided by the company for the       University's new design school (completed in 2012) and sponsorship of the       university's Doctoral       Training Centre in Energy Demand Reduction.

@@ -1,0 +1,28 @@
+     Incorporation of the research findings in US Transportation Research       Board guidelines [C1, C2] has changed practices of RESA design and       evaluation [C3, C4, C5] and led to improvements in RESA design at       three airports [C4, C5].
+This has directly improved the safety of       the 74+ million annual passengers, 830,000 aircraft movements, and tens of       thousands of airport workers and local residents at these sites [C6]       by informing and improving airport safety modelling and management systems       [C4, C5].
+The research underpinned Pitfield's contribution as       Evidence in Chief at the 2011 UK planning inquiry concerning the proposed       expansion of London Ashford Airport, near Dungeness nuclear power       stations.
+Pitfield's evidence enhanced public and practitioner       understandings of the risks of aircraft accidents on and near airports and       contributed to the Office for Nuclear Regulation's (ONR) decision in 2012       to review how the risk aircraft pose to nuclear safety is evaluated.
+In       October 2013, Pitfield, Budd and Gleave were contracted to undertake       external research with the UK Health and Safety Executive in Support of       the ONR Chief Inspector's Evaluation of Accidental Aircraft Crash risk and       develop a new off-airport crash model [C7].
+Public and practitioner dissemination of the research at the ATRS Annual       Conference in Brazil in 2005 attracted attention from the Brazilian Civil       Aviation Authority (BCAA).
+Following the move of a BCAA employee to       US-based consultancy Applied Research Associates (ARA), Pitfield and       colleagues at Loughborough University developed and won a joint bid with       ARA for funding from the US Airport Cooperative Research Program to       implement their research [C3].
+The resulting international academic/industry collaboration directly led       to the publication of ACRP Report 3 Analysis of Aircraft Overruns and         Undershoots for Runway Safety Areas in 2008.
+This report details a       nine-step procedure for evaluating a RESA to determine the probability       that an incident will occur during aircraft operations at or near an       airport with severe consequences [C1].
+This procedure, underpinned       by the Loughborough team's research, is now widely known as 'ACRP 3'.
+In       ACRP Report 50, published in 2011, ARA extended ACRP 3, adding, among       other things, a freely-available risk-analysis software tool for       calculating the risk associated with RESA designs [C2].
+To comply with new national regulations, US airports must enhance their       RESAs to meet FAA design standards by the end of 2015.
+In pursuit of this,       San Francisco International Airport (SFO) proposed a set of RESA       development alternatives and commissioned ARA to evaluate them using ACRP       3 (2009-2010).
+SFO needed to quantify the extent to which each       non-standard alternative would reduce the risk of severe accident       consequences and compare this with the risk reduction that would be       realised were SFO able to implement standard RESA designs.
+The first phase       of SFO's RESA-development program began in 2012 with completion       anticipated in 2014 [C4].
+The fatal Asiana Airlines Boeing 777       undershoot at SFO on 6th July 2013 illustrated the vital       importance of this work.
+In Canada, new regulations regarding RESAs are currently being drafted by       Transport Canada following recommendations from the Canadian       Transportation Safety Board.
+Like SFO in the US, the Greater Toronto       Airports Authority (GTAA) used ACRP 3 and ACRP 50 as the principal sources       for its assessment of risks associated with the RESA designs proposed for       Toronto Pearson International Airport.
+The process culminated in an option       for each runway end and the recommendation that an engineered materials       arrestor system be installed.
+The GTAA board of directors adopted the       recommendations and implementation will be completed in 2015 [C5].
+In 2011, the UK Secretary of State for Communities and Local Government       called in a planning application for expansion of London Ashford (Lydd)       Airport.
+Pitfield participated in the subsequent public inquiry [C8]       as an expert witness for Lydd Airport Action Group (LAAG).
+In his proof of       evidence, he explained how the methodology could be applied to Lydd.
+He       estimated the risk posed by the proposed airport expansion of an aircraft       crashing into one of the nuclear power stations at Dungeness and       contrasted the sophisticated Loughborough model with the Byrne model, a UK       industry standard for risk assessments.
+Permission for the airport's       expansion has recently been granted.
+Following criticism from Pitfield and       others of the Byrne model, the Office for Nuclear Regulation convened an       independent technical advisory panel (TAP) in 2012 to provide advice on       aircraft crash hazards in relation to nuclear safety.
+Pitfield was asked       to participate in the TAP from November 2012 [C9].
+Public       awareness of the importance of aircraft-accident modelling has been       enhanced by: Pitfield's participation in the public inquiry and the       publication of articles referring to his evidence in the Kentish         Express local newspaper and in the print and online editions of The         Guardian national newspaper [C10] and Gleave's interviews on       Sky News, BBC News, Al Jazeera and Channel News Asia (2012 and 2013) on       the subject of aircraft safety incidents.

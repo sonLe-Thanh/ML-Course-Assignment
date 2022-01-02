@@ -1,0 +1,24 @@
+     The wavelet transform algorithm developed from the research outlined       above uses a form of octave filtering, common in digital audio, which       helps to reduce the level of expertise required for its use to that of an       undergraduate student.
+As such, the research makes such analysis of       earthquakes accessible to a wider audience, not necessarily just in       academia, but in industry too.
+Whereas industry would previously had to       turn to academic experts to obtain acceleration, velocity and displacement       profiles, the new algorithm using the wavelet allows a much broader       audience industry audience to access and benefit from the same information       used for design.
+A significant beneficial contribution made by the approach outlined above       is that it returns the low-frequency acceleration and velocity pulses, as       well as the displacement fling-step.
+Hitherto this information could not       be directly obtained from the recorded accelerometer data.
+Instead, it had       to be simulated in order to predict the seismic response of buildings from       forward directivity pulses and damaging displacement fling-steps in       near-fault ground motions such as inter-story drift.
+Moreover, the       algorithm recovers information on ground rotations which may be the cause       of tensional oscillations of a building during an earthquake.
+This sort of additional information is useful in designing earthquake       resistant structures.
+Civil engineers and seismologists working on       earthquakes in New Zealand (in 2010) and Iceland (in 2008) used the       algorithm to produce and publish the results of the acceleration, velocity       and displacement profiles of those seismic events.
+That data elucidates       the type of damage caused, the extent of the damage and its relationship       to fault lines; it also helps understand the behaviour of faults and,       indeed, helps find fault lines where none were known to exist.
+One       important implication of this improved understanding is that the data can       be used to improve the design of seismic resistant structures.
+The research has also underpinned a commercial impact with Canterbury       Seismic Instruments Ltd. (CSI), which manufactures seismographs in       Christchurch, New Zealand.
+In 2011 the company expressed an interest in       incorporating the algorithm into a commercial software package included       with each seismograph sold to clients to enhance the capability and       analytic accuracy &#8212; and therefore the desirability &#8212; of its products.
+This       improved package may be sold to clients wishing to estimate parameters       useful in designing seismic resistant structures.
+The design of the       algorithm and particularly its ease of operation made it attractive to the       company, since it allows its use by non-experts and produces rapid       results.
+The commercialisation of the algorithm into a software package is       under development [a].
+CSI was particularly impressed by the fact that the algorithm produced       readings and profiles of low-frequency acceleration and velocity pulses       and displacement fling-steps at the Darfield Station which aligned       accurately with GPS displacement readings taken during the 2010       earthquake.
+The company published the wavelet-transform analysed results       from data recorded by its instrument at the station [5].
+The fact that the       Darfield Station had seismographs manufactured by CSI at their site was,       of course a bonus, since it was recorded data from their seismograph which       the algorithm analysed so effectively.
+The research outlined above has also led to collaboration with the       University of Iceland, who have likewise expressed an interest in the       software, and with whom results of their 2008 earthquake have been already       published.
+This was of particular interest in [1], since the EERC       researchers in Iceland had implemented a small aperture array of sensors       which Chanerley helped embedded in the cellars of houses in Hveragerdi       village during several visits to the EERC in Iceland.
+This array provided       valuable data, from which Chanerley was able to form an argument based on       evidence that the acceleration transients, which cause the baseline error       in the acceleration time history, were caused by instrument tilts due to       ground rotations.
+Recently Chanerley has been collaborating with Professor Jack Baker's       Research Group at Stanford University to ascertain and predict the impact       of fling effects in near-fault ground motions.
+Chanerley provided       acceleration and velocity fling pulses and displacement fling-steps from       seismic events in Turkey, Taiwan, New Zealand, USA as well as from some       physics based simulations.

@@ -1,0 +1,33 @@
+ Building on the work of the Winstanley group prior to this impact period, when the research led to wider recognition that transmissible strains of P. aeruginosa, and the LES in particular, are important in the context of CF, the group has achieved the following impacts:  The multiplex PCR test for transmissible strains (combining Winstanley group designed PCR tests for the LES and Midlands1 strains with a published PCR assay for the Manchester strain) has been used routinely in the NHS diagnostic laboratories serving both Adult (Liverpool Heart &amp; Chest Hospital) and Children's (Alder Hey Hospital) CF Units from 2008.
+This therefore represents a new clinical product.
+The clinical uptake of the multiplex PCR test has extended from local NHS to national level, as HPA Colindale used it as its main assay to test P.aeruginosa isolates from CF Units across the UK for the majority of the period Jan 2008 to July 2013.
+The PCR tests developed in Liverpool have helped in the recognition of the presence of the LES in other CF centres.
+HPA Colindale receives thousands of P. aeruginosa isolates each year from CF Units across the UK for strain typing.
+Although they have more recently switched to wider use of an alternative typing method (VNTR), the PCR assays are still used occasionally by Public Health England, Colindale [10].
+The LES remains the most common clone of P. aeruginosa associated with CF infections in the UK (Martin et al.
+2013 J Med Microbiol on- line ahead of print).
+The use of the multiplex PCR test has allowed clinicians to make informed decisions about patients with transmissible strains of P. aeruginosa with respect to segregation of patients, because patients are cohorted for treatment depending on their microbiological status (ie.
+LES-positive or LES-negative).
+This has had an impact on the health of CF patients because the use of this test has contributed to the fact that new cases of LES infections are extremely rare in Liverpool.
+The main beneficiaries are CF patients who are not yet infected with P. aeruginosa.
+Prior to the use of PCR tests to identify patients infected with transmissible strains, there was no patient segregation.
+The consequence of this can be seen from the fact that prior to its discovery and the development of a simple test, the LES was already present in 80% of P. aeruginosa-infected patients in the Liverpool paediatric unit (Cheng et al 1996 Lancet 348:639-642, Panagea et al.
+2004 Molecular Diagnosis 7:195-200).
+Most of these patients have now moved on to the adult unit.
+Because of effective segregation measures, there are now only small numbers of LES-infected patients at the Liverpool paediatric unit, and there have been no new cases for several years.
+Cases in the paediatric CF Unit in Liverpool have decreased from 47 LES-positive patients in 2003 to 8 LES-positive patients in 2009.
+In the adult unit there was a reduction in the proportion of patients with LES (2003 to 2009) from 71% to 53% [12,13].
+Since 2009, there have been no new cases of LES-infected patients in the Adult CF Unit other than patients new to the unit (ie.
+transferred from the paediatric centre or new to the region).
+There is a clear clinical benefit to restricting the spread of the LES, which is associated with increased patient morbidity (Al-Aloul et al.
+2004 Thorax 59:334-336).
+This increased morbidity has been shown to be true also for patients in North America infected with the LES (Aaron et al.
+2010 JAMA 304:2145-2153).
+It is important to note that the impact of segregation based on genotyping is ongoing.
+Patients, including new patients and first-time P. aeruginosa infected patients, are regularly monitored using the PCR tests, enabling LES-positive patients to be treated apart from non-LES, and minimising the threat of further spread of the strain.
+It is likely that there has also been impact at other CF centres.
+Public Health England has confirmed that "Professor Winstanley's research has played an important role in the significant extensions of lifespan and quality of life improvements experienced by CF patients in England in the last few years" [10].
+In addition, the research highlights the existence of transmissible strains of P. aeruginosa (thought unlikely before Liverpool's initial LES report in 1996) has impacted on researchers worldwide and contributed to the discovery of other transmissible strains (Fothergill, Walshaw &amp; Winstanley 2012 Eur Resp J 40:227-238), leading to changes in clinical procedures aimed at control of cross infection.
+The use of our PCR assay is recommended in guidelines published by the UK Cystic Fibrosis Trust Microbiology Laboratory Standards Group designed to underpin the development of National Standard Operating procedures for the processing of respiratory samples submitted from people with Cystic Fibrosis [8].
+This was circulated to all diagnostic laboratories in the UK serving CF units.
+Hence, the assay has impacted on policy change.

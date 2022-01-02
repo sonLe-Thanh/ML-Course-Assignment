@@ -1,0 +1,65 @@
+     Here we detail the impact of the entire suite of 17 Zooniverse       projects, all of which have been launched and sustained in the REF period.
+Many of these projects involve researchers and datasets from other       institutions, but the underpinning research and expertise in citizen       science as a scientific tool, along with the leadership of development and       implementation, is an Oxford-led endeavour.
+The Zooniverse       includes 7 astronomy projects (the first being Galaxy Zoo,       launched 2009) and 9 projects beyond astronomy, for example in climate,       nature, health and the humanities.
+In November 2012 the users of Zooniverse       were surveyed to determine the nature, reach and significance of the       impacts.
+The survey received over 2000 responses [A], primarily from users       of astronomy projects Galaxy Zoo and Planet Hunters.
+Impacts on the users of the Zooniverse: The       Zooniverse is distinguished by its broad reach, with more than       856,000 people engaging directly as a result of signing up to one or more       of the projects and taking part.
+Roughly one third of these volunteers are       from the UK, one third are from the US and one third are from over 100       other countries.
+Translations into languages including Polish, German and       Czech further widen the Zooniverse's reach.
+85% of survey       respondents were not already amateur astronomers prior to engaging with Zooniverse.
+88% of respondents agreed that the Zooniverse had increased their       understanding of how modern scientific research is carried out.
+In       addition to citing specific research methods they have learned about,       users say that working with real data has enhanced their understanding of       the research process.
+Comments include: "working with real data [...]         gives me a better feel for the connection between data scientists deal         with and the conclusions they develop from it" and "by         participating in the research, I have appreciated more what researchers         have to check for, cross referencing their data, and analysing the         results".
+Comments also indicate a better understanding of       scientific consensus: "a thing isn't true just because one person says         or believes it is, a thing is true because it can be shown to be by         observations and measurements which are not dependent upon one's         personal bias and/or belief structure."
+85% agreed that the Zooniverse had increased their understanding       of astronomy and physics.
+Again users list specific scientific concepts       they now understand, for example gravitational lensing and morphological       classification of galaxies.
+Comments include: "with every Zooniverse         project I've participated in my knowledge of that subject has increased         substantially."
+78% of under-18s said they were more encouraged to       study physics or astronomy at a higher level as a result of the Zooniverse.
+39% of all respondents said they were more likely to take up a scientific       career as a consequence of their experiences with the Zooniverse.
+Over half of respondents have changed their astronomical observing       behaviour as a result of the Zooniverse including 19% who observed the       night sky for the first time.
+Many note that they have bought their own       telescopes and now observe as a family activity.
+In all, 87% of       respondents reported at least one increase in engagement with science as a       result of the Zooniverse, including those who read more about       science (68%), studied more formally (34%), carried out their own research       (12%), attended lectures or events (19%), and/or visited museums and       planetariums (33%).
+The highly accessible nature of the Zooniverse is an important       factor in enabling these impacts.
+Users comment that "these projects         have allowed me to feel less removed from the daily application of         science and more knowledgeable about astronomy, something I've always         had an interest in but have been too intimidated to pursue seriously"       and "what was once seemed [sic] distant, lofty, and inaccessible to         many people is now right at their fingertips."
+Teaching: Further reach is achieved through formal and informal       teaching.
+Teachers use the Zooniverse site directly to support       classroom learning and comments suggest that this "has opened their         curiosity in a whole new way" and changed some students'       preconception that "science was hard or boring."
+Another teacher       comments that "the feedback from students suggests that they learn         about physics/astronomy but also get a better understanding of what         scientists actually do."
+In recognition that impact through teachers       is an important pathway, the Zooniverse has produced resources for       teachers directly.
+A series of workshops, using Galaxy Zoo data,       were organised in Oxford and following their success the Zooteach       tools were launched in 2011.
+These resources include 38 lesson-plans       categorised by subject and age, and have received almost 14,000 page views       between 1st January 2013 and 30th July 2013.
+Many survey respondents note that they participate in Zooniverse       projects with their families in an informal learning environment.
+A user       said "the combination of tutorials and extensive community discussion         about the data are an invaluable part of increasing mine and my family's         scientific literacy."
+47% of under-18s said that the Zooniverse       had helped with their school work.
+Parents find the Zooniverse       beneficial to support their children; for example one commented that "I         have a better understanding of physics, so much so I can help my son in         his school work."
+Media: Many of the Zooniverse projects have enjoyed a high       media profile, both on launch and during their operation.
+UK broadcast       examples included BBC Radio 4's Today Programme (6 appearances) and PM (1       appearance), BBC Breakfast (1 appearance), Bang Goes the Theory (2       appearances).
+Lintott is co-presenter of Sky at Night (viewership 1       million) where Galaxy Zoo was featured and other projects       mentioned.
+Stargazing Live (viewership 4 million) also featured two       projects on episodes of the show.
+Galaxy Zoo was reviewed in the Guardian       [B] which concluded that there was "no surer way to engage the public         than to involve people in the research itself."
+Planet Hunters is       showcased in the Economist [C].
+Museums: Museums have also made use of the underlying Zooniverse       software leading to a wider audience than just the primary users of the       online projects.
+Zooniverse project Solar Stormwatch has       been at the heart of programmes for schools and visitors run by the Royal       Observatory Greenwich.
+This won `Best Innovative Site' at the 2010       `Museums and the Web' awards [D].
+The Public Astronomer at the Royal       Observatory Greenwich said, Solar Stormwatch has "certainly         had a very positive impact on the content of our public programme, as         well as the Observatory's online and media profile.
+We regularly run         solar viewing sessions [...] and Solar Stormwatch has been the         springboard for several of these" [E].
+US museums, including the       Adler Planetarium in Chicago (500,000 visitors per year), have also       featured Zooniverse projects prominently in floor displays and in       public programs.
+The President of the Adler Planetarium said: "Our         partnership with Oxford University on the Zooniverse citizen science         effort is a critical component of our success in inspiring the next         generation of explorer.
+The Zooniverse permeates our operation, and         allows us to offer all visitors meaningful opportunities to engage in         frontier science" [F].
+Charity: Cell Slider, a Zooniverse project       launched in 2012 in collaboration with Cancer Research UK (CRUK), is the       first biomedical citizen science project in the world; its purpose is to       accelerate cures for cancers by using citizen scientists to classify       tumour samples.
+So far Cell Slider has helped to reduce analysis       time from 18 months to three months, and with accuracy that shows a high       degree of agreement with expert pathologists.
+The Citizen Science Lead at       CRUK said, "in addition to significantly reducing research timeframes,         CRUK recognise Zooniverse's impacts on their work as a charity.
+The         Zooniverse has given us access to a community of people outside of the         typical CRUK supporter base.
+Cell Slider is the first non-fundraising         product CRUK have launched and the first time that CRUK cancer research         data has been made publicly available for analysis.
+The Zooniverse has         made an essential contribution to these developments."
+[G]     Sustainability: There are many problems in science that cannot be       dealt with by purely automated processes, and capability to crowdsource       parts of the analysis is crucial.
+By pursuing these scientific problems       through citizen science, the Zooniverse has created a virtuous       circle where the scientific outcomes and the public both benefit.
+In only       four years, this stream of citizen science has grown into a large activity       measured by number of users and the diversity of projects: from January       2013 to July 2013, between 500 and 1000 new users signed up daily and 4       new Zooniverse projects were launched.
+On-going engagement is       apparent through the Zooteach resources, discussion forums and       special tools for advanced users.
+Recognition: In 2011, Lintott won the Royal Society Kohn Award "for         his excellent engagement with society in matters of science and its         social dimension".
+Zooniverse also won the President's Prize       in the Institute of Physics web awards.
+Zooniverse was the       People's Choice winner as well as the overall winner by the judges, who       described it as "a great site for non-professionals to take part in         serious scientific discovery" (Paul Millar); "an engaging online         experience that takes visitors beyond browsing and into genuine         interaction" (Sumit Paul-Choudhury); and "a great way to harness         collaboration, sense of participating and making a difference"       (Maggie Philbin).
+The Old Weather project, a collaboration with       the Met Office, won the 2012 Royal Meteorological Society award for       "Meteorological innovation that matters" &#8212; the certificate states that the       success of Old Weather "depended on the efforts of the Zooniverse         team, who built the novel website interface which ultimately allowed the         public to digitize the data with minimum effort" [H].
+Commercial uptake: In 2009, Microsoft licensed the Zooniverse       framework in their development for NASA of Be A Martian.
+Tiny Planets,       an educational website, also implemented a version of the Zooniverse       project Moon Zoo adapted for children aged 4-7, into their online       educational virtual world.
+Scribe, a generic package for       crowdsourced transcription, was developed by the Oxford team as       open-source software.
+The first third-party implementation of Scribe       was in What's the Score, a partnership between the Bodleian       Library and Google to digitize a collection of music manuscripts.

@@ -1,0 +1,30 @@
+     The research team in Plymouth worked as part of a Knowledge Exchange       project with De La Rue to design a quality assurance system for specialist       security features used in their banknotes.
+The team designed, developed       and constructed a complete system to reliably detect and identify security       measures with a tolerance better than 5%.
+Such precision is currently       impossible to recreate in counterfeiting.
+The patented technology used in       the sensors was invented by Plymouth University academics and has also       been used to provide applied solutions for a number of other companies.
+The University team worked to tight deadlines to meet De La Rue's       production start date for the manufacture of their new technology feature.
+The project involved a combination of mechanical design, sophisticated       magnetic sensor design, electronic circuit design, and working in       partnership with another De La Rue subcontractor.
+The team have       successfully installed and commissioned working detection systems at the       De La Rue, Bolton &amp; Loughton sites.
+This technology is highly confidential and subject to non-disclosure       contacts for much of the detail.
+The precise details of the implementation       cannot be described for these reasons.
+In outline, invisible encrypted       features are identified by specialist magnetic detectors precisely       designed to optimise the recovered signal from the security thread.
+These       heads are micro-fabricated in the Clean Room facility at Plymouth to       ensure maximum security.
+The recovered signal is decrypted using novel       information processing algorithms, also developed at Plymouth, to allow       the tiny signal to be reliably recognized with very low signal-to-noise       ratios.
+The latest evolution, included in all Euro and other banknotes,       allows innovative optical effects linked to more complex structures which       do not increase the production cost of the banknotes.
+Specifically, the development with Plymouth has resulted in two       technologies, Magtext&#174; and MagForm&#8482; which are found on banknotes.
+The       University technology was applied specifically to the De La Rue       requirement and has resulted in a completely bespoke system which has now       provided quality assurance for over 5 billion banknotes.
+MagForm&#8482; can only       be identified on the expert level.
+Magtext&#174; is part of De La Rue's Mask&#8482;       technology which is used on many currencies including the EURO and GB       Pound.
+The research has improved the performance of a worldwide business through       the introduction of new technology.
+Potential future losses through       counterfeit have been mitigated by the improved quality assurance systems.
+The new technology has been adopted by De La Rue, the world's largest       commercial currency printer and papermaker.
+This research has considerable       reach in that De la Rue is involved in the production of more than 150       currencies worldwide including the EURO.
+Almost half of all banknotes       issued into circulation in the past two years across the world were       created by De La Rue.
+The technology is now used on all issued UK Bank of England notes.
+The       Bank of England has confirmed that "Plymouth have developed a sensor         technology based around a novel structured magnetic read head to monitor         the quality in banknote production and fraud detection.
+This has had an         outstanding benefit enabling all UK bank notes to be monitored using         this technology."
+De La Rue is delighted with the system and the partnership continues with       Plymouth University providing technical support and periodic calibration       of the magnetic sensors.
+The company has benefited greatly from the       application of the novel technology and the rare academic skills employed       to support their mission critical project.
+The new technology is a       step-change in security thread technology.
+Dr. Jim Snelling, Research Manager at Overton Technology Centre (De La       Rue International) has said: "We have enjoyed an excellent working         relationship with the University of Plymouth team whose expertise and         technology have produced a tailored and robust solution for our on-line         QA process"     The innovative methods to deter forgery help De La Rue remain market       leaders.
+Contracts in this sector are large, for example the contract to       produce new banknotes for the Board of Commissioners of Currency of       Singapore is worth &#163;30 million.

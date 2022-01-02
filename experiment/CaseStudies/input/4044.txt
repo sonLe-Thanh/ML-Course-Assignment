@@ -1,0 +1,28 @@
+     Research into electromagnetic and acoustic materials at the University of       Exeter has driven major scientific innovations within QinetiQ.
+Much of the       work has been in the military arena of several MoD agencies, including the       Counter-Terrorism Centre.
+The importance of Exeter's input is captured by       QinetiQ's investment of &#163;3.7m in Sambles' research group over 15 years to       support stealth-related R&amp;D.     Exeter's input has, according to QinetiQ [5.1], "helped to maintain an       innovative culture" within its Smart Materials Technology (SMT) team,       which has one of the highest patent generation rates in the company.
+Fourteen patent applications [5.2-5,5.9] have been filed with Exeter and       the SMT team won the Divisional Prize for Technology Innovation in 2012.
+Nine ex-Exeter Physics postgraduates and graduates are currently employed       at QinetiQ Farnborough.
+Sambles et al's 2004 paper [3.5] led directly to the creation of the Very       Thin Radar Absorbing Material (VTRAM).
+VTRAM, patented in 2004, is       believed to be the world's thinnest practical RF absorber.
+Recognising the       commercial opportunities, QinetiQ turned its attention to using VTRAM in       RFID tag technology.
+RFID tags are used for automatic identification and       tracking, for example to locate pharmaceuticals in warehouses.
+However,       the signal from standard RFID tags cannot be read if the tags are in close       proximity to metals and liquids.
+QinetiQ found that a modified version of       VTRAM could be used to design new tags that were shielded from the metal       or liquid, thus RFID tags could be used on any metallic or water-filled       container.
+This offered a solution to companies like WalMart who wished to       RFID tag all their goods.
+QinetiQ developed a portfolio of patents and       created the spin-out company Omni-ID in March 2007 [5.6].
+The company was       founded on the technology originally developed at Exeter with James Brown,       who completed his PhD under Sambles in 2010 and was technical director       from 2007 to 2012.
+Omni-ID grew rapidly, from an initial offering of 3 products to a       portfolio in excess of 20 products.
+In 2009 it received $15m in funding       from investors on the back of strong initial market demand for its RFID       tags.
+It secured another $8m in September 2011 to finance expansion.
+In       2012, it won `Best in Show' [5.7] at the RFID Journal Awards for its       Visual Tag System, which provides workers with real-time information and       instructions regarding moving assets.
+Its high-frequency RFID tag       technology is being used by the US Government, IBM and Bank of America for       cheaper and more efficient IT asset management; by BP, Shell Oil and       Petrobas to increase the traceability of assets through the oil production       process; by BHP Billiton and Holt Cat for tool inventory; and by GE       Healthcare and Johnson &amp; Johnson for safe monitoring of       pharmaceuticals [5.8].
+Specialist tag sales since 2007 total more than $5       million, and it has created 15 jobs in the UK and another 115 around the       world.
+The development of several joint patents between Exeter and QinetiQ       contributed to the award in 2009 of a three-year &#163;3.2m EPSRC Knowledge       Transfer Account, one of 12 KTAs in the UK, for the two partners to       explore the commercial potential of the intellectual property generated       over a decade of research.
+The KTA focused on developing       anti-counterfeiting technologies; the International Chamber of Commerce       predicts the value of counterfeit goods globally will exceed $1.7 trillion       in 2015.
+By 2012 the project generated four patent applications [5.9] and       inspired the creation of Arkiris Ltd [5.10], a company jointly run by       Exeter and QinetiQ to work in the security and tagging markets.
+The       Arkiris project has taken IP that was not being used by QinetiQ and       developed it into technology that is being licensed in the fields of       security and anti-counterfeiting.
+A QinetiQ funded project at Exeter is       currently with a security customer to integrate a technology described in       two patents into their product.
+A further outcome of the research is a collaboration between Exeter,       QinetiQ and Sweden's Institute for Surface Chemistry that has succeeded in       identifying new technologies that can be used to prevent the       counterfeiting of documents.
+A three-year &#163;180k project with QinetiQ began       in September 2012, using Exeter's expertise in electromagnetic       metamaterials to explore new stealth technologies based on vibroacoustics.
+In the same month, QinetiQ also placed an Industrial CASE award within the       School of Physics and Astronomy to develop a deeper understanding of the       Terahertz regime and explore new markets in what is still relatively       virgin territory for commercial and governmental applications.

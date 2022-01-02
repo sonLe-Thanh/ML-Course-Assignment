@@ -1,0 +1,35 @@
+     Traffic noise reduction is an important area for Computer Aided       Engineering (CAE) both for minimising noise pollution and to meet high       customer expectations.
+Providing quieter means of transportation leads to       significant competitive advantages and enhances the reputation of a       vehicle brand.
+The automotive industry alone spends over US$1bn p.a.
+on       NV-related costs [B1] and virtual NV simulation and testing account for a       steadily increasing slice of this outlay.
+However, due to a lack of       reliable simulation tools, NV costs are still dominated by expensive       measurements and prototype testing.
+NV simulation is thus an area of       growing importance for vehicle manufacturers and CAE providers.
+Since 2009, DEA has advanced from a mathematical concept to a practical       numerical tool for engineers in the commercial NV sector.
+The UoN group       developed the product alongside the main business partner, inuTech GmbH, a       provider of numerical modelling solutions and expertise as well as       software products.
+The strategy is based on transferring specialised       research knowledge via inuTech into the wider modelling and simulation       market, integrating it into the standard CAE environments used by key       players in that market.
+From there it is introduced into the end user       market of vehicle manufacturers and suppliers.
+In order to achieve full impact in the commercial sector, it is vital to       build up a solid reputation in engineering communities as well as within       the academic sectors.
+The group therefore presents results regularly at       mechanical engineering conferences (13 since 2009) and collaborates with       key mechanical engineering groups in Southampton (ISVR), Cambridge,       Leuven, Lyon, Graz and Munich.
+These efforts won the confidence of       industrial partners and led to representatives of Bombardier, EADS, ViF       and JLR speaking at the group's conference InnoWave2012 at UoN: 	  http://inutech.de/midea/events/InnoWave2012/.
+While the main impact so far (in terms of direct investment and change of       business practice) is on the numerical simulation and software industry,       the team at UoN has (alongside those industrial partners) made concerted       efforts to advertise and collaborate with end users in the vehicle       manufacturing industry: the impacts of DEA on both these industrial       sectors are described below.
+Numerical Simulation &amp; Software Industry       (Impact: economic benefits, change in company practice and adoption of new       technology)     A close collaboration between inuTech and UoN has developed over recent       years boosted by various grants from EPSRC and the EU.
+inuTech has       recently committed further to DEA: "Due to positive feedback from         customers, we decided in September 2012 to invest directly in the method         with an emphasis on constructing a software package with user-friendly         pre- and post-processing tools and adjusting the method to the needs of         specific customers such as in the ship and aviation industry.
+inuTech's         development efforts amount to in total approx.
+160K &#8364; including the         salaries of two members of staff as well as part funding your       [Tanner] sabbatical."
+[B2] This represents a substantial investment       from the company into DEA of 10% of their annual revenue (2012 total       revenues were &#8364;1.65 M; 21 employees).
+Via contacts from inuTech, a business partnership with another numerical       software company, CADFEM GmbH, Munich, started in Oct 2012.
+Investment by       the company in DEA is already paying dividends: "CADFEM has decided to         support the commercialisation efforts of inuTech by actively promoting         DEA to its own customers and contacts.
+Currently, CADFEM is leading the         negotiations with a potential customer in the ship building industry in         China via its partner company Peraglobal Inc. based in China."
+[B3]     UoN is also a coordinating partner in a new grant (MHiVec, [B7]) together       with the company CDH AG, Ingolstadt, who have leading expertise in       vibro-acoustics in the car industry and whose research focus the team has       influenced: "CDH AG has also adapted its internal R&amp;D policy in         line with the collaboration with the MHIVec project and has extended its         own research efforts in the mid-to-high frequency regime to reflect the         wider objectives of the project."
+[B4]     Vehicle Manufacturers       (Impact: economic benefits and competitive advantage, working towards       reduction in vehicle noise and improved passenger comfort)     Following refinement of DEA tools in the past few years, inuTech is       promoting the method widely to its userbase: "New DEA tools developed         over the past years make it possible to contemplate going into this         market and consequently we sought and received additional funding         through a new IAPP (Mid-to-High Frequency Modelling tool for Vehicle         Noise and Vibration (MHiVec) starting in Sept 2013. inuTech is confident         that DEA constitutes a true innovation in vibro-acoustic modelling and         provides an additional lucrative market segment for the company."
+[B2]     Since 2010, benchmarking projects with various partners from the sector       have taken place to validate the method for real engineering structures.
+This is vital to convince the community of the advantages of the new       methodology.
+The team has for example obtained benchmark problems and       meshes from: Germanischer Lloyd (shipbuilding) [B5]; JLR (car       manufacturer) [B6]; EADS/Airbus (aerospace) and Bombardier (train       manufacturer).
+The group has demonstrated that the method delivers cost and time savings       and gives correct results.
+The method is now being assessed by end user       industries for adoption in future design cycles.
+JLR supported a knowledge transfer secondment, hosting Chappell for 8       months within the company and provided in-kind contributions worth       &#163;15,000.
+Based on the success of this project (culminating in the       development of DFM introduced in [A5]), JLR joined the MHiVec consortium       and has pledged to invest in the order of &#163;65,000 over 4 years in terms of       staff time, measurements and training of consortium members [B7].
+The       company comments that: "We believe that DEA together with the DFM         technology is a serious candidate for closing the mid-frequency gap."
+[B6]     The combination of DEA with DFM is of great interest to industrial       partners, and ensures the impact of the work will be further enhanced,       e.g.
+Germanischer Lloyd: "We see great potential in the new method, in         particular in the extension of DEA to a mesh based approach using the         DFM method as published recently in the Proceedings of the Royal Society       [A5]."
+[B5]

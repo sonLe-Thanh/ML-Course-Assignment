@@ -1,0 +1,22 @@
+     The cost of IEP installation to the process owner is non-trivial, so       offering a transparent mechanism for comparing cost versus safety       trade-off is clearly valuable and fulfills a previously unmet user need in       the explosion protection installation industry.
+A typical IEP installation       on a process plant costs between &#163;40,000 and &#163;120,000, with some       installations costing as much as &#163;700,000.
+To pay any extra money for a       `better' (or safer) IEP system, the process plant owner needs to know what       `better' means in the context of improved safety.
+The Brunel-Kidde       algorithm, backed by peer reviewed academic research [1] and presented to       industrial researchers at multiple international conferences [2], is the       first such algorithm which can compare two IEP systems in terms of their       safety integrity levels.
+Kidde, and later UTCFS, were sufficiently convinced of the value of this       research to give a contract worth &#163;75,000 to an external, UK-based       software developer (Optirisk Systems Limited, London) to develop a       commercial level version of the software (2009-2012).
+In addition, the       company made a very significant and sustained in-kind investment in       laboratory experiments to calculate the flame propagation probabilities in       typical process plant set-ups.
+After the handover of the software by       Optirisk Systems in 2012, UTCFS trained their entire worldwide sales force       of 31 sales operatives in its use.
+Training for this software tool is       mandatory for new sales staff as it is now a standard tool used in IEP       sales by UTCFS worldwide.
+For each candidate protection installation, the       software provides a transparent demonstration of the trade-off between the       cost paid by the process owner and the reduction in residual risk       achieved, and since 2012 it has played a key role in negotiating the sale       of explosion protection installations.
+The value of this work to       Kidde/UTCFS can be judged from a letter to Brunel from their Principal       Research Scientist.
+A quote from his letter reads: "We conduct this very       complex and challenging business in a competitive and a code compliant       environment.
+Every design ultimately causes us to address and review with       our clients the trade-offs between protection options.
+The envisioned       benefit from this work will be to make available at the point of sale a       systematic means to assist us and our clients, to make the best decisions       in specifying process explosion protection safety measures.
+Moreover the       quantification of the standing residual risk will allow the client to       elect a safety integrity level pertinent to their process application."
+UTCFS believes that this algorithm is beneficial to the entire industrial       explosion protection industry (both for the process plant owners as well       as protection sellers).
+Thus the algorithm was put into the public domain       via publications [1]-[2].
+In addition, the work has been disseminated       through three major international conferences on loss prevention in the       process industry which focussed on industry-relevant research.
+Company       users made presentations at two of these conferences, both of which were       in or after 2008 (see corroborating sources [S1] &amp; [S2]).
+The       algorithm and its commercial development has given the company a `first       user' advantage whilst, for the process plant owners, the algorithm       provides an improved method of risk assessment together with a way of       determining the cost of mitigation, which is now becoming widely accepted       by both academia and industrial peers.
+As the safety installations sold using this algorithm become commonplace,       it is very likely that the computation of the residual risk for an IEP       system will become a standard practice in the process plant safety       industry.
+Further, it is expected that some form of quantification       of residual risk, similar to that achievable by Brunel-Kidde algorithm for       IEP in process plants, will eventually become mandatory in the practice of       buying and selling explosion protection installations in a variety of       other sectors (such as passenger aircrafts and offshore oil platforms).
+Thus the impact of this work has a wide potential reach even beyond the       specific industry sector.

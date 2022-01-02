@@ -1,0 +1,35 @@
+     (references e.g.
+[A] are to sources in section 5)     Laser tracers and laser trackers are widely used for high accuracy,       large-scale dimensional metrology, for example in the calibration of CNC       and CMM machines.
+In 2010, the best such instruments used differential       interferometry for high accuracy displacement measurements, necessitating       either continuous observation of a single target, or the use of much lower       accuracy absolute distance meters.
+The AMULET project broke these       limitations, by equipping a prototype laser tracer with dynamic FSI to       perform absolute distance measurements with accuracy comparable to       that of differential interferometry and with other user benefits as       described below.
+The National Physical Laboratory, as one of the partners       in the project, tested the dynamic FSI technology and confirmed       sub-part-per-million accuracy at up to a 20 metre range [A].
+Isis Innovation, the University of Oxford's technology transfer office,       filed two patents [4] for the FSI system in July 2011, which were licensed       to ETALON-AG in 2012.
+ETALON identified the FSI technology as, "a         pioneering solution to the precision measurement of absolute length"       [B].
+New capabilities in absolute distance metrology     The dynamic FSI approach allowed the tracer to be tolerant to beam breaks       and to automatically switch targets.
+ETALON describe some of the       advantages of dynamic FSI being that it allows traceable measurements with       a "10,000 times faster time resolution and 20 times higher accuracy"       than previous absolute distance systems; that it "recovers gracefully"       from beam breaks and does not require frequent calibration.
+Dynamic FSI systems can also be scaled up to make many hundreds of       measurements for only a small fractional increase in cost compared to the       basic system, simply by using multiple interferometers whose components       are cheap.
+ETALON have identified that together with being "cheaper to         manufacture than previous technologies", this makes their "Absolute       Multiline&#8482;" range of FSI products "relevant and accessible to a much         wider range of purchasers" [B].
+ETALON describe their market areas       as "the calibration, monitoring and accuracy enhancement of machine         tools and measuring machines", with customers from the mechanical       engineering, metrology, automotive and aerospace industries, as well as       from research sectors.
+New product brought to market     The Absolute Multiline&#8482; system launched in November 2012 [B] became       ETALON's primary FSI-based product.
+It is a general purpose, absolute       distance interferometer system marketed as having up to 100 measurement       channels and distances between the sensors and system electronics of up to       several kilometres.
+ETALON's marketing material describes another       advantage of the system as being that, "The sensor signals are not         affected by electromagnetically noisy environments; therefore the         placing of sensors in e.g.
+energy chains is possible without the         degradation of performance" [C].
+The list price of the basic product       ([text removed for publication]) with software is in excess of [text       removed for publication].
+ETALON's development of the FSI system into a product was accelerated by       research and consultancy contracts undertaken by Reichold and his team at       Oxford, which ETALON identify as "drawing directly on knowledge and         experience from their research" [B].
+ETALON-AG secured funding from       the Lower Saxony Development Bank, NBank, to build a prototype Absolute       Multiline&#8482; system for marketing and user training purposes.
+In total,       ETALON have invested [text removed for publication] in developing and       marketing the Multiline system.
+This included not only manufacturing the       prototype but also demonstrating it at trade shows in Chester, Stuttgart       and San Diego.
+They have stated that they wish to "make Multiline one         of the cornerstones of our business".
+The first of these systems, with 24 channels, was built at Oxford and       later repackaged by ETALON.
+This system was sold to the Metrology and       Quality Management group at RWTH Aachen, and installed and commissioned in       June 2013.
+The group leader at Aachen stated that the system "significantly         enlarged" their capabilities in the field of large volume metrology       and that they were "not currently aware of any other system on the         market that [Aachen] could have purchased to achieve the same         performance".
+Their most challenging application at July 2013 had       successfully achieved ten simultaneous absolute distance measurements over       distances up to 6m [D].
+By July 2013, a second sale had been agreed to the       metrology group at the SLAC National Accelerator Laboratory in the USA.
+New budgeted programme and employees at the National Physical         Laboratory     NPL is the UK's national measurement institute, operated commercially       under contract to the National Measurement Office.
+As a direct result of       their participation in the AMULET project, NPL decided to establish their       own FSI group including a research programme valued at around &#163;700,000       [A].
+By July 2013 this included appointing two new, full-time members of       staff, one of whom was Dr Warden, who left the Oxford group to take up       that post.
+As another benefit, NPL realise licence revenue from any sales       of Absolute Multiline&#8482; and thus receive financial benefit from the systems       sold by ETALON.
+Influence on policy via technology roadmaps     One of the themes within NPL's future vision, `Metrology for the 2020s'       (published in March 2012), is `embedded and ubiquitous measurement':       within this theme, laser interferometry systems for accurate and traceable       metrology were identified as having an important contribution to future       processing and production [E].
+NPL state that the FSI work will be       instrumental in delivering some of this vision.
+NPL also identify the       inclusion of FSI on two roadmaps as resulting directly from AMULET [A]:            The UK National Measurement Office draft Large Volume Metrology         roadmap 2011-19 [F], which forms part of the Engineering and Flow         metrology programme of the governmental Department of Business,         Innovation and Skills.
+The European Association of National Metrology Institutes (EURAMET)         Technical Committee for Length's roadmap for Large Volume and Long Range         Dimensional Metrology, published in June 2012 [G].

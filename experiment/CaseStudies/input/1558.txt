@@ -1,0 +1,34 @@
+     All publicly operational iris recognition systems worldwide deploy, as       licensed executables, the Daugman algorithms.
+Today they are owned by the       French conglomerate Safran-Morpho, for whom Daugman serves in a       consultancy role as Chief Scientist for Iris Recognition.
+From 2007       through 2011 they were owned by L1, for whom Daugman served in the same       capacity, until L1 was acquired by Safran-Morpho.
+This pattern of       successive corporate acquisitions with Daugman as Chief Scientist extended       prior to 2007 with the companies Securimetrics, Iridian, and IriScan (who       were the first to commercialise the technology).
+Many device integrators and camera makers became licensees during the       past decade, whose brand names include Panasonic, Oki, LG, Sagem,       IrisGuard, Unisys, Sarnoff, Privium, BI2, PIER, and CLEAR.
+Government       deployers use the brand names IRIS (the UK Home Office Iris Recognition       Immigration System); UIDAI (Unique Identification       Authority of India); CANPASS (in lieu of Canadian Passport       presentation at all eight of Canada's international airports); and NEXUS       (bi-directional USA/Canadian border crossings).
+[7]     There have been various civilian applications of the iris recognition       algorithms based within airports during 2008-2013, in five different modes       of use, with the following beneficiaries and impacts: (1) Arriving       passengers who are enrolled in automated iris recognition systems (such as       IRIS, trialled at 10 UK airport terminals; Privium at Schiphol Airport;       CANPASS and NEXUS at several USA and Canadian airports; and ABG at       Frankfurt) avoid waiting in long queues for passport presentation and       immigration clearance.
+The UK Border Agency describes iris recognition as       a `secure biometric,' but has now chosen to decommission its IRIS scheme       because the new biometric e-passports do not include iris information.
+Nevertheless, the IRIS system proved influential in informing the debate       about biometric identification.
+(2) Departing passengers at several       airports enjoy expedited security screening, if they have been deemed       low-risk by US agencies in "Registered Traveller" programmes such as       CLEAR; iris recognition at such gates establishes or confirms their       identity.
+At Tokyo Narita Airport, expedited iris-based check-in and       "e-Airport" guidance is given to passengers.
+(3) Airline crew members use       iris recognition at special portals to gain expedited access to the secure       air-side, at airports such as Schiphol and Charlotte-Douglas, avoiding the       long queues of departing passengers.
+(4) Airport employees gain access to       restricted areas such as the tarmac, baggage handling, and maintenance       facilities, using iris recognition at Schiphol and JFK airports.
+(5)       Watch-list screening of arriving passengers based on the iris recognition       algorithms continues with more than 2 billion iris comparisons daily in       the United Arab Emirates and also in other Gulf States, with persons of       some 170 nationalities enrolled.
+The UAE system began deployment in 2002.
+During the REF impact period, new deployments were launched in Qatar,       Oman, and Jordan.
+Expellee databases are exhaustively searched in       real-time to detect persons who are deemed dangerous or for other reasons       excluded from entering a country, for the benefit of security and       law-enforcement.
+For example, in the first nine months of 2012 there were       more than 20,000 detections of persons travelling with forged documents,       who were matched to their true identities as persona non grata by       the iris recognition systems.
+[10]     In 2011 the Government of India launched the national UIDAI [6,14,15]       project to enrol the iris patterns of all 1.2 billion citizens within       three years in an ID entitlements scheme.
+This followed a successful pilot       in 2010 enrolling and confirming identities of tens of millions of       citizens in the state of Andhra Pradesh, using the Daugman algorithms.
+The       goal of UIDAI is to issue every person with a biometrically provable       unique entitlement number (Aadhaar) by which a host of benefits and       services may be accessed, which are currently inaccessible because of lack       of means to prove one's identity (only 4% of Indians hold a passport, and       fewer than half the population hold a bank account; the problem is       especially acute in rural areas).
+Daugman's iris recognition techniques       were chosen for this purpose because they were found to be significantly       faster and more accurate than other biometric modes such as       fingerprints.
+[14,15] UIDAI aims to enhance social inclusion.
+It is       noteworthy that the scheme is voluntary yet millions of people perceive       the advantages of the scheme and queue to enrol.
+Similar national projects       are underway in Indonesia and several smaller countries.
+One significant challenge of the UIDAI system, successfully addressed by       the Daugman methods, is detection of multiple identities.
+UIDAI requires       this during enrolment to prevent fraudulent acquisition of multiple       entitlement identities.
+Each new registrant must be compared with all       existing ones, so the problem scales as the square of the population,       requiring 1018 pairings.
+The Daugman methods provide both       enormous resistance to false matches, and enormous speed of matching.
+With       389 million persons enrolled as of July 2013 and a further million       enrolments every day, some 1014 iris comparisons are performed       every day.
+The bit-parallel logic in the matching algorithms allows 64       bits of two IrisCodes to be compared in a single clock cycle.
+The       factorial term domination of the binomial distribution resulting from       comparisons between different eyes (as strongly confirmed independently by       NIST in 2012) generates the rapidly attenuating tails which cause the       extreme resistance to false matches, as discussed in all of references       1-5.
+In addition to its technical impact, Daugman's iris recognition system       has had impact on social and political policy, informing the debate about       identity systems [11,12,13].
+As an example of a robust identity system, it       made concrete the previously-abstract debates about the use of biometrics       for identity controls and spawned a debate in India and beyond about the       morality and ethics of such an ID system.

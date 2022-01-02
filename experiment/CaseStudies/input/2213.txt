@@ -1,0 +1,26 @@
+     "Newcastle's research on underwater acoustic technology has had a         strong and lasting impact on Tritech's business and the subsea industry         as a whole, reaching the offshore oil &amp; gas industry, oceanographic         data collection, renewable energy, search &amp; rescue and professional         &amp; recreational diving."
+&#8212; Technical Director 1990 - 2009,       Tritech International [E5].
+Impact on business     A licence agreement and Knowledge Transfer Partnership with Tritech has       directly resulted in 3 innovative products being marketed by the company       since 2008.
+The first two of these were the micron data modem [E2, E5] and       MicronNav USBL tracking system [E3,E5] which incorporate Newcastle's       Doppler tolerant spread spectrum signalling and range/angle estimation       algorithms.
+These products now provide tracking for the majority of       miniature underwater vehicles being sold worldwide.
+Over 300 licences have       been issued by the University to date with a sales value of &#163;2M.
+The         market for these devices is growing rapidly, currently accounting for         around 10% of company turnover in a business employing ~100 people.
+The most recent product introduced is the high performance AM400 acoustic       modem [E4, E5] which incorporates all of the underpinning research outputs       and has demonstrated unparalleled performance in terms of data rate (up to       32kbits/s) and range (up to 10km).
+This has enabled the company to win       contracts for high value bespoke systems, to operate in very severe       channel conditions where competing products are completely unable to       operate, and the university has issued 6 licences corresponding to around       &#163;300k of sales since 2010.
+These products represent major steps forward in       performance, miniaturisation and cost, which wouldn't have been possible       without Newcastle's innovative signal processing [E5].
+Impact on the subsea industry     The MicronNav USBL and micron modem products have provided a reliable,       cost effective and miniaturised solution for the tracking of small       underwater robotic vehicles.
+This is now the preferred solution         adopted by vehicle manufacturers such as Seabotix Inc [E6] and Videoray         Inc who account for the majority of the world market.
+Many end       users, including the US and Canadian Navy [E7], have found the ability to       accurately track these vehicles invaluable in rapidly locating and/or       tagging seabed targets.
+The combination of accurate tracking and data       communication in one miniature unit has also led to its deployment on       several autonomous underwater vehicles under development around the world       [E8].
+Likewise high performance AM400 modems delivered by Tritech have       enabled very challenging operations to be carried out.
+A good example of       this is the remote collection of large data files from subsea tidal       turbine near Orkney, overcoming severe noise and wake effects and a       hostile 5km shallow water channel.
+Impact on diver safety     Inspired by the death of a well known diver, the IET and the British Sub       Aqua Club (BSAC) launched an international competition to challenge       engineers to develop an affordable system to track and monitor the world's       estimated 3 million divers.
+The Newcastle group and Tritech teamed up to       develop low cost prototypes for a diver personal transponder and surface       interrogator based on the successful spread spectrum concepts.
+4 teams       from around the world entered devices but, after successful trials by BSAC       divers in Scotland, the Newcastle-Tritech design was declared the winner       [E9] and the team were presented with an award and prize money by the IET.
+BSAC described this as one of the most significant contributions to         diver safety in the last 50 years and could help to reduce the estimated         100 deaths each year in diving accidents.
+Since 2008 Tritech have       delivered several systems for diving applications, enabling multiple       divers to be tracked from the surface, to receive commands and to signal       if they get into difficulty.
+Working with another commercial partner, a       mass market product accessible to all recreational divers is undergoing       final testing at the time of writing ahead of a product release.
+Impact on the environment     Another positive impact brought about by the research is the reduced       impact on marine life, since some environmental groups estimate that up to       10 million whales/dolphins are affected by high power acoustic systems per       year.
+Both the spread spectrum technology and the adaptive array receivers       dramatically reduce the required acoustic source power for a given range.
+The AM400 product emits a total acoustic power of approximately 10W         which is up to 10 times lower than competing systems intended for the         same range.
+Similarly the Micron modem and USBL products may operate       over 1km radius without exceeding the safe limit on acoustic intensity       suggested by marine biologists of approximately 100mW/m2.

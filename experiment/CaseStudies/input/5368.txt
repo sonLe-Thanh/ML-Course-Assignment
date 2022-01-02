@@ -1,0 +1,29 @@
+     Professor Korchev established Ionscope in 2004 with Prof David Klenerman       to exploit advances in scanning ion conductance microscopy [A].
+The main       aim of the spin-out company was to supply fully assembled SICM instruments       to the biological community allowing them access to this technology.
+Both       Imperial College and Cambridge University have shares in Ionscope and the       intellectual property developed is incorporated into the company.
+Imperial       College is a major shareholder in the company and Professor Korchev is       non-executive Chief Scientist of Ionscope [B].
+In addition to patent [6], Imperial College retains the rights to execute       the following patents:                                WO 2000/063736           Optical microscopy and its use in the study of cells                             WO 2002/102504           The production of molecular arrays                             WO 2002/077627           Patch-clamping and its use in analysing subcellular features                             WO 2007/042776           Modulators of the purinergic signalling pathway for treating             sodium homeostatsis, hypertension and aldosteronism                             WO/2009/095720           Scanning ion conductance microscopy                          Ionscope currently employs 4 members of staff [C].
+In 2007 it secured       &#163;680k in investment from individual investors belonging to the Cambridge       Angels Group [D] and was awarded the University Spin-Out award at The       Engineer Technology and Innovation Awards [E].
+This award recognises       excellence in a business formed within the last five years to commercially       exploit a technical innovation, product, process or centre of expertise       originally conceived within a university.
+Ionscope currently has       operations in nine countries: UK, USA, China, Japan, Germany, France,       Canada, Mexico, Australia and Taiwan [F].
+In the UK it is based at the       Melbourne Science Park outside Cambridge.
+[text removed for publication]     Ionscope's first product was called ICnano, and provided a platform for       high resolution imaging of living cell membranes, and soft or fragile       surface features without making contact with the surface of the sample.
+Since 2008, 3 variants of the instrument have been sold internationally.
+In 2012 the company introduced the ICnano 2000 series [I].
+This is a new       generation of microscopes based on the recently developed "hopping-mode"       SICM (2009) with the advanced controller which includes an embedded       processor, field-programmable gate array (FPGA) with digital signal       processing (DSP) functionality.
+The ICnano2243 [J] is the top range in the       ICnano 2000 series and combines both sample scanning and probe scanning in       a single scan head.
+This gives the advantages of large lateral scan range       and fast probe scanning and can outperform the most of assays developed at       Imperial College.
+The research and products developed are considered transformative and a       novel disruptive technology that will redefine this commercial arena.
+Ionoscope Ltd currently has six novel products that are marketed       internationally [K].
+SICM microscopy was originally developed for       biological applications.
+However, it has other applications in broader       fields such as electrochemistry.
+The SICM microscope is now used in energy       research in characterizing and improving our understanding of how and why       lithium ion batteries fail [L].
+Ionscope's Scanning Ion Conductance Microscope (SICM) products are in use       today across the globe, providing answers to difficult measurement       problems in topographic scanning.
+In the past three years the number of       publications using Ionscope technology has more than doubled reflecting an       increasing interest in adopting SICM technique in different fields of       research [M].
+ICnano products are used in cellular biology to investigate       membrane processes at the nano-scale.
+In addition to its function as an       imaging tool, ICnano products have been integrated with other measurement       techniques, including: fluorescence microscopy, for combined topography       and florescent marker detection electrophysiological measurements; for       topography guided patch-clamp recordings and measurement of ion channels       in non-biological membranes.
+The nanopipette used as probe can be       exploited to allow: nano-deposition, for local application of chemicals;       and pipette pressure control, for local force application and displacement       measurement [N].
+In November 2012 Ionscope welcomed international attendees to its first       Scanning Ion Conductance Microscope (SICM) User Group Meeting held in       Cambridge (UK) [6].
+At the meeting current and future developments in the       company's range of products for SICM were described by Chris Moore, the       former CEO of Ionscope.
+The included a new scan head for sample or probe       scanning, hopping mode raster scanning, high-speed Z-control,       topography-guided positioning and an environmental chamber [6].
+The       meeting demonstrated the wide adoption of the SICM technology, with       delegates discussing applications as varied as: (i) studying ion channel       distribution and function in renal epithelia and neuroblastoma cells, (ii)       the combined use of SICM and patch-clamp to study the clustering of sodium       channels in cardiac Myocytes, (iii) the application of SICM to the       analysis of membrane structure and second messenger compartmentation in       cardiomyocytes, and (iv) applications in plant science to reveal the       structure of the anti-fungal spider web on strawberry leaves, and platelet       structures on pea leaves [O].

@@ -1,0 +1,31 @@
+     The ability to monitor and optimise the operation of lasers simply and       reliably is important in many sectors and for some problems it is       essential to know the temporal shape of the pulse.
+Walmsley and his group       knew that a new device would have commercial appeal if they could reduce       its size so it became smaller than the laser itself, and simple and       reliable enough to be used by non-specialists.
+This demanded a simplified       design.
+The research at Oxford resulted in a number of commercial advantages of       this technique over its predecessor:            The reduction in optical components by eliminating the need for         chirped pulses            reduced the device's physical size to less than that of a shoebox (10         times smaller).
+simplified the installation process.
+reduced the cost of fabrication.
+increased the operational lifetime.
+enabled its use by non-expert users.
+The use of a longer crystal            increased the sensitivity by a factor of 10 (pulse lengths of 16fs -         300fs can be measured).
+improved the robustness.
+New product brought to market     The Oxford research was commercialised through an exclusive license to       German company, APE GmbH.
+APE specialise in devices for generation,       manipulation and measurement of ultrashort laser pulses.
+APE have 55       employees, and sell products for the ultrafast laser market, directly and       through distributors (e.g.
+Vereon, Newport, Thorlabs, Photonics Industry)       in 40 countries.
+Building on the licensed technology, APE introduced automatic calibration       further simplifying the design.
+The new device, LX SPIDER, was brought to       market in May 2008.
+The product is supporting a small group within APE       that is dedicated to laser pulse metrology and the LX SPIDER represents       between [text removed for publication] of APE's total sales.
+It       retails at approximately [text removed for publication] and [text removed for publication] 	  units have been sold to large and small       companies as well as research institutions [A].
+LX SPIDER is now the most       common commercially-available method for full characterisation of the       electric field of ultrashort laser pulses.
+Benefits to laser manufacturers     Due to the commercialisation of the Oxford research and subsequent       commercial availability through APE of the LX SPIDER, laser performance       can now be specified more completely and easily than was possible a decade       ago.
+Specification of the pulse shape, as well as its duration, in order       to verify that the pulse is as short as possible is now routinely expected       by buyers of lasers.
+Companies who manufacture and sell lasers have used the LX SPIDER to       specify their lasers and incorporated its use into their verification       protocol.
+For example, Coherent Inc., one of the largest laser       manufacturers and a leading producer of short pulse lasers and amplifiers,       uses LX SPIDER units as a diagnostic tool in their R&amp;D to verify laser       operation, to adjust the laser configuration before shipping and during       installation.
+Coherent said that the LX SPIDER "not only gives the pulse duration,         but also spectral phase information, which simplifies and streamlines         the alignment of compressor parameters in order to achieve best possible         compression of amplified pulses.
+Spectral phase information also allows         for a fast identification of possible issues with optics coatings, that         are not meeting our specs, or even mirror surface flatness issues on         optics that see spectrally spread beams."
+[B]     Benefits to other end users     Ultrashort optical pulses are used in many applications, including       advanced microscopy, materials processing (including photonic components       for communication and sensing) and biomedicine.
+A method for pulse       characterisation provides end users with more reliable processes and       results.
+Where high levels of precision are required, introducing an LX       SPIDER into the experimental configuration has allowed the user to adjust       the optical pulse accurately.
+A major market for the LX SPIDER is the commercial research laboratory       sector where it is used by those performing molecular spectroscopy and       microscopy, including the study of molecular dynamics in physical       chemistry, transport studies in biology and for developing solar cells.
+Another important set of applications is in nonlinear microscopy, used       especially in biology.
+Knowing and controlling the shape and duration of       the ultrashort optical pulses used in these techniques is vital to the       generation of high-quality images, since the efficiency of the nonlinear       processes that underpin these techniques depends on the peak intensity of       the input laser pulses.

@@ -1,0 +1,21 @@
+     Although the use of search-based methods, including constraint reasoning,       has had an impact       across many areas with software engineering, the SBSE approach has had       particularly strong       impact on Software Testing.
+All software organisations depend crucially on       their testing to ensure       that software performs within acceptable engineering tolerances for both       the functional properties       and the behavioural (non-functional) properties of the systems.
+Research       carried out by Professor       Harman and his colleagues is used by many commercial and industrial       software developers across       the world, embodied in the Microsoft Pex tool and the Microsoft Visual       Studio integral component,       Fakes.
+The head of the Microsoft Pex development team reports that "development         of Pex...has         been very significantly influenced by the work of Professor Harman and         his group."
+Harman and his post-doctoral researcher Kiran Lakhotia worked with       Microsoft to incorporate their       work on search based test optimisation into the Microsoft Pex automated       software testing tool.
+These techniques are available online as plug-ins for the .Net Visual       Studio development tool and       have, together, been downloaded more than 50,000 times.
+The work that       underlies this tool was       published in 2008 [LHM08].
+The work on Pex was cited in the recent       Microsoft report on the impact       of research on Microsoft's software testing programme that appeared at the       top-tier Software       Engineering conference, ICSE, in 2011.
+Lakhotia was seconded to Microsoft in 2009, while employed as a Research       Assistant at KCL in       Harman's CREST team.
+During his secondment, he implemented the floating       point test case       analysis parts of Pex.
+This work is described in detail in the paper on       FloPSy [A] coauthored by       Lakhotia, Harman and the head of the Microsoft Pex development team, in       2010.
+In addition to this       direct contribution to the Pex code-base, Harman and his team influenced       and informed the       development of Pex throughout the project and "have continued to         influence and contribute to the         development of Pex" [C].
+Microsoft's Pex development team leader reports [C]: "Without Harman's         work, there is little doubt         that the Pex tool would not exist in its current form and his         contributions have had a significant         impact on the relevance and value of the Visual Studio plug-in         downloaded by more than 50,000         users worldwide.
+The overall success of the plug-in eventually caused         the Visual Studio product         group to ship Fakes, one core component of Pex, as an integral part of         Visual Studio 2012/2013."
+Harman and another post-doctoral research, Shin Yoo worked with Google to       implement a       regression test optimisation system.
+This system was deployed for a period       of two weeks (before it       became overloaded with internal demand and had to be disabled) as an       integrated part of Google's       entire code base to collect data for analysis and optimisation.
+Google       made a research award of       &#163;25k to support this work.
+The ideas that underpin this work were       published in a 2007 paper at the       ACM International Symposium on Software Testing and Analysis (ISSTA),       subsequently presented       in a more detailed journal version [3], and a paper describing the       collaboration and its effects at       Google [B] was published more recently.
+DaimlerChrysler funded research on development of the Vada system by       Harman and his team at       KCL, in a series of research projects that accrued cash funding of       approximately &#163;60k, much of       which was received by KCL.
+SBST is changing the way software engineers build unit tests for code and       is affecting the software       engineering process.
+The Pex/Code Digger tool is widely discussed in the       software development       community [E] demonstrating its impact on some of the most influential       figures in the software       development world.

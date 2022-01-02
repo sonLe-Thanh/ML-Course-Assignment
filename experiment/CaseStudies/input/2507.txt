@@ -1,0 +1,27 @@
+     The research has had an economic impact for the companies commercialising       uplift modelling       through software sales and consultancy, and on their customers who have       improved the cost-effectiveness       of their marketing investments.
+Uplift modelling has been a core part of       the       consulting and software solutions marketed by Quadstone Limited from c.       2000 onwards.
+Quadstone was acquired by Portrait Software, in December 2005 for &#163;3.5M.
+Pitney Bowes       Software then acquired Portrait Software (including Quadstone) in 2010 for       &#163;44M.
+The Uplift       Software continues to be a key part of the analytical software and       services delivered by Pitney       Bowes today, now marketed as Portrait Uplift [6-7].
+While the precise       impact and results of uplift       modelling are in many cases not shared publicly by Quadstone's customers,       in some cases they       are.
+For example, US Bank (the fifth largest commercial bank in USA as of       2010) and Telenor (the       world's 7th largest mobile phone operator) have both published       case studies discussing the results       in some detail.
+These are:     US Bank.
+The bank traditionally used `straight response modelling'       to target sales of various       products including HELOCS (Home Equity Line of Credits, i.e.
+mortgage-backed loans).
+Traditional response models performed so poorly, in some cases, that with       the typical 30% cutoff,       they achieved no incremental sales (compared with the control group) at       all or a small negative       uplift.
+[text removed for publication].
+Work presented at Predictive       Analytics World showed large       improvement when uplift modelling was used.
+[text removed for publication]     Telenor.
+The published case study [10] shows how, by using uplift       modelling for its customer       retention programme, Telenor reduced the rate of customer defection.
+[text       removed for       publication].
+Uplift modelling software from (now) Pitney Bowes is used by       dozens of financial services,       telecommunications and other major companies in the US, UK and mainland       Europe.
+See [11] for       further details.
+An example is T-Mobile Austria who have been       using the software since 2009.
+A       senior expert in their Consumer-Customer Insights division made the       statement: `with the use of       the uplift modelling approach T-Mobile Austria has successfully optimized       big retention campaigns;       this has not only reduced communication costs in direct marketing       activities but also had a       significant uplift in contribution margin as an effect of targeting only       segments which should be       "moved" by simultaneously avoiding common side effects in pro-active       targeting customers.'
+[12]     Other applications.
+In addition to these direct impacts of the       research through Quadstone Limited       and Pitney Bowes, Uplift Modelling has, after a slow gestation, started to       be recognised more       widely as a powerful method for increasing marketing efficiency in areas       such as demand       generation (cross-selling, up-selling, deep-selling) and customer       retention (where campaigns with       significant negative effects are not uncommon).
+The following examples       illustrate this.
+SAS (the       world's largest private software company, and the leading provider of       statistical software) now       includes an Incremental Response Node in its Enterprise Miner 7.1 product,       which implements       some form of uplift modelling.
+Similarly KXEN, another analytics       company, lists uplift modelling as       a capability of its InfiniteInsight Explorer [13].
+The ideas underlying       uplift modelling have now been       diffused broadly and adopted in models that, although not directly       traceable to the original       research, have most likely been influenced by it.
+An example is the 2012       Obama campaign which       used `persuasion' models for each state (equivalent to uplift models) to       decide who to target [14].

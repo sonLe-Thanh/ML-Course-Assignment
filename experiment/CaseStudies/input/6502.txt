@@ -1,0 +1,22 @@
+     The European Union (EU) has designated 2013 to be the "Year of Air"       during which a comprehensive review of the air quality policies has been       undertaken.
+To inform this review, the REVIHAAP (Review of Evidence on       Health Aspects of Air Pollution) project was co-funded by the EU DG       ENVIRONMENT and WHO Regional Office for Europe, to answer 24       policy-related questions about air pollution and health.
+Included in this       review was consideration of whether new evidence was sufficient to revise       the WHO 2005 Air Quality Guidelines, published in 2006 [A].
+Anderson was a       member of the REVIHAAP Scientific Advisory Committee and Atkinson was an       expert advisor and contributor to the report, especially sections on       ozone.
+The following sections of the REVIHAAP July 2013 report [B] refer to the       Air Pollution Epidemiology Database (APED) which is a systematic review       facility established at St George's to provide continuously updated       meta-analyses of time-series evidence, as described in document REF3a.
+APED incorporated the results of the underpinning time-series studies into       a cumulative meta-analysis, commissioned specifically for the REVIHAAP       report:            Pages 52-55 &amp; table 2: Use of ozone coefficients from APED,         including APHENA [4]       Pages 74-76 &amp; table 5: Use of NO2 coefficients from APED       Pages 145-149 &amp; table 11: Use of SO2 coefficients from APED       Pages 217-218: References (APED cited as Anderson HR et al.
+2007, but see REF3a.)
+Linked with REVIHAAP, and extending from it, the HRAPIE (Health Risks of       Air Pollution in Europe) review [C] recommends concentration-response       functions for cost-benefit analysis to guide future policies for air       pollutant control.
+Anderson is a member of the Scientific Advisory       Committee and Atkinson is an advisor and contributor of evidence to       HRAPIE.
+Coefficients from time-series studies provide the key evidence       base for estimating response functions and cost-benefit analyses for all       gaseous pollutants.
+Also, the observation that time-series analyses show similar effects of       short-term fluctuations in PM on health outcomes worldwide [D] buttresses       the argument that there is a causal association between respirable       particulate exposures and diverse health outcomes, including       non-respiratory mortality.
+This conclusion, linking time-series work with       chronic effects of PM, was also reached by the UK Department of Health       COMEAP in 2010 [E].
+Results from time-series studies also underpin the 2011 COMEAP subgroup       report on UK Air Quality Standards, on which Anderson was a committee       member [F].
+This used APED to update the WHO 2005 Air Quality Guidelines       [A] from which was developed a Daily Air Quality Index (DAQI) with       bandings indicating likely short-term health effects.
+The DAQI is now       implemented as a public information system online [G] and during periods       of high air pollutant levels, health warnings are incorporated into       national weather forecasts for the UK.
+Time-series methods have been extended to studies of the effects of heat       waves and climate change.
+Although sulphate is a cooling agent, black       carbon and ozone could together exert nearly half as much global warming       as carbon dioxide.
+The complexity of these health and climate effects of       shorter-lived greenhouse pollutants needs to be recognised in mitigation       policies.
+Links between strategies to reduce greenhouse gases and public       health outcomes were reviewed in 2009 by a consortium in which Anderson       and Atkinson were involved [H].
+Assessment of the relative importance of 67 risk factors, worldwide and       by region, formed part of the Global Burden of Disease 2010 project (GBD).
+Anderson co-chaired the GBD subgroup assessing health effects of outdoor       air pollution, which evaluated both ambient particulate pollution and       ambient ozone [I].
+An analysis of burden of disease due to air pollution       in the UK found that this had fallen by over 50% between 1990 and 2010,       reflecting mainly improvements in air quality over this time resulting       from effective environmental policies [J].

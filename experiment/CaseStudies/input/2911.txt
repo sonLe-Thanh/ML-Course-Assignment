@@ -1,0 +1,51 @@
+     Context     Internationally required regulatory genotoxicity tests are very effective       in producing positive results for carcinogens.
+However, they can also       produce positive results for most non-carcinogens which are termed       `misleading positives'.
+Walmsley and his team realised that the       development of a more accurate assay would reduce the number of misleading       positives and ultimately save money and animals.
+Pathways to impact     Walmsley founded the spin out company Gentronix in 1999.
+The direct       beneficiaries of the company's technology cover diverse sectors, including       pharmaceuticals, biotechnology, agrochemicals, foodstuffs, biomaterials,       flavours and fragrances.
+Accurate early in vitro screening, as       provided by the Gentronix GADD45a assays, reduces the need for animal       testing and can rescue compounds misclassified as genotoxins by other       tests, which that might otherwise be discarded, thereby saving these       industries considerable sums of money.
+Reach and significance of the impact     Business growth and performance:       Gentronix is a successful and growing business.
+It relied on private and       university investments of &#163;3m from 1999 to 2010, and became profitable in       2011.
+In the year ending August 2012, there were 286 revenue generating       orders, representing a 32% increase on the same period in 2011.
+A       significant development was customers taking advantage of the rapid       testing service, which accounted for 78% of revenue.
+Despite flat or       declining revenues in the broader economy the total revenue from orders       during the 2012 financial year was &#163;1.88m [A], representing an increase of       50% over 2011 and 330% over the financial year ending 2008.
+Cumulative       revenues since 2008 are &#163;5.54m.
+Gentronix employs 17 full-time staff.
+Key       to the success of the company has been the retention of a core team of       four scientists from the time when the company was founded.
+Reducing the numbers of animals used in research:       In 2007, the European Centre for the Validation of Alternative Methods       (ECVAM) recognised the critical need to reduce the misleading positives in       in vitro genotoxicity assays to avoid unnecessary animal testing       [B].
+Whilst only 30-60 animals are used for a regulatory in vivo       genotoxicity study when in vitro genotoxicity results are       negative, a `positive' in vitro genotoxicity assay can trigger the       use of up to 200 animals in follow-up mechanistic studies.
+Typically, a       two year rodent study on a novel compound destined for use as       pharmaceuticals, household products or cosmetics can use 400-500 rats and       mice per compound.
+Historically, many of those animal studies were       needless because the in vitro result was misleading.
+The high specificity of the GreenScreen HC assay produces fewer, but       reliable positive results, and hence triggers fewer needless animal       studies  [text removed for publication].
+Also in 2007, the UK National       Centre for the Replacement, Refinement and Reduction of animals in       research (NC3Rs) awarded the `Reduction' prize to Gentronix, following the       successful completion of research they sponsored in the Walmsley lab [C].
+This supported the development of a modified GreenScreen assay that       included the addition of minute quantities of preserved rodent liver       extracts.
+This allowed the detection of genotoxic metabolites, a key       requirement for in vitro assays.
+Reducing drug development costs for the pharmaceutical industry:       In the pharmaceutical industry it can cost $6m to get a compound to first       time in human.
+Most compounds do not get that far so it is important to       identify liabilities early on.
+Regulatory preclinical genotoxicity safety       assessment tests require gram quantities of product and cost $60k to       complete.
+The Gentronix test costs $250 to $2,500, and requires only       sub-milligram quantities of product, which is all that is available in       early screening.
+Over 70 companies, predominantly in the EC, US and Japan       now use the test, either using kits, or by sending compounds to the       Manchester labs for service testing.
+For example [text removed for       publication] flavour and fragrance molecules are currently being tested       for the Research Institute for Fragrance Molecules.
+Positive results in regulatory tests can be misleading, but a positive       result during preclinical safety assessment can trigger additional       mechanistic studies delaying pre-booked clinical trials, costing millions       of dollars.
+Early screening with Gentronix tests reduces late stage       failure.
+Independent users of the GADD45a assay in the global       pharmaceutical industry &#8212; Galderma (GreenScreen HC) [D] and       GlaxoSmithKline (BlueScreen HC) [E] have described the utility of the       assay in peer-reviewed manuscripts.
+"BlueScreen-384 was found to         reduce the need for costly and time-consuming analogue testing using         traditional genotoxicity tests, such as the Ames test" [E].
+Collaborations with industry:       More than 100 pharmaceutical and fine chemical companies in 17 countries       have used the Gentronix assays and services as part of their genotoxicity       profiling strategy.
+In the development of GreenScreen HC, Gentronix performed international       ring trials to demonstrate its transferability and reproducibility to       industry sectors [6].
+This saw the company working with Unilever (UK), GSK       (UK), Johnson &amp; Johnson (Belgium), BioReliance Corp. (USA), Leo Pharma       (Denmark).
+New products, services, partnerships and license agreements:       The GADD45a assay has attracted new customers every year across the US, UK       and Europe and it is continuing to expand further.
+The assay has been       developed in GreenScreen HC and BlueScreen HC forms, and both are       available with and without `S9' metabolic activation.
+Customers gain       access to the assay by buying test kit products, undertaking Gentronix       in-house service testing, undertaking service testing through third-party       contract research organisations (CROs) or by signing a license agreement:            In 2010 GlaxoSmithKline, which had supported early development of the         GADD45a assay for high throughput screening (384-well format), signed a         3-year license agreement for use of GreenScreen and BlueScreen HC in         genotoxicity screening [F].
+Gentronix has formed partnerships with international CROs including         BioReliance, Charles River, and LGC Standards.
+GreenScreen HC with S9 was introduced in 2008, leading to a dramatic         increase in sales (80%) and BlueScreen HC with and without S9 was         introduced in 2010.
+The latter opened up new markets excluded by patents         on GFP.
+For example in the flavours and fragrance industry, 500         compounds were tested in 2012.
+In-house service testing began in 2008 with GreenScreen HC (+/-S9),         and has expanded through the formation of a strategic partnership with         Apredica in 2010 to include BlueScreen HC (2010), the Comet and         micronucleus assays and in 2011 the Ames test.
+In 2012, Gentronix         announced its first screening contract in Japan, with the pharmaceutical         manufacturer Kowa.
+Recognition by policy-making and validation/regulatory bodies:       Walmsley has given invited presentations to national and international       policy makers such as the Department of Health Committee on Mutagenicity       and the International Life Sciences Institute.
+Both presentations led to       published guidance in 2011 that highlight the assay [G, H].
+In 2009 Walmsley gave an invited presentation on the GADD45a assay to the       New Chemical Entity review group of the US Food and Drugs Administration       (FDA).
+A key step towards the assay being approved by a regulatory body       such as the FDA is recognition and assessment by an international       validation authority.
+At the request of one such validation authority,       ECVAM, Walmsley undertook a "Step 1, pre-submission", which was accepted       on 29/06/12.
+As a result the GreenScreen HC protocols are now published in       the INVITTOX database (available for over 2500 registered users in 75       countries).
+A "Step 2, Complete submission of project" to ECVAM was made       in April 2013.

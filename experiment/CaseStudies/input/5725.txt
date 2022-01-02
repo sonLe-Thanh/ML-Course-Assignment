@@ -1,0 +1,28 @@
+     Traditional laser light sources operate at a single wavelength and       consequently if a particular investigation requires multiple wavelengths,       the user has to buy and install a separate laser system for each.
+By       contrast, supercontinuum fibre lasers provide the directional beam and       tight focus of standard lasers, but with an exceptionally broad spectral       bandwidth.
+Although this comes at the cost of lower power compared to       single wavelength lasers, there are nevertheless a myriad of applications       requiring multiple wavelengths for which high power is not necessary.
+For       these a supercontinuum source provides an effective all-in-one solution in       which the wavelength is changed simply by inserting an appropriate filter.
+Applications are found across microscopy, medical imaging and       spectroscopy, enabling experiments or analyses that would otherwise be       impossible or prohibitively expensive [9].
+As such, there is a large and       rapidly expanding market for any company able to provide supercontinuum       fibre lasers having the right price and performance.
+As a result of its collaboration with Bath researchers, Fianium [10,11]       is now firmly established as a world leader in supercontinuum sources,       with a [text removed for publication].
+Following [text removed for publication] and in recognition of their       outstanding achievements in international trade and innovation, Fianium       received the Queen's Award for Enterprise in both 2009 and 2012 - the UK's       top award for business performance [13].
+[text removed for publication].
+The 2012 award       specifically recognises the innovation associated with Fianium's       supercontinuum sources.
+Since 2008, [text removed for publication] representing a       significant economic gain [12] (the R&amp;D employment multiplier is 1.23,       while the output multiplier is 1.44 [14]).
+Bath's CPPM is a world leader in fibre supercontinuum research, and       although not the only research team in this active field [text removed for publication].
+The success of the early interaction with CPPM led to a joint DTI/TSB       project with Fianium between 2006 and 2008 [15].
+The strengthened links       that ensued provided CPPM researchers with improved insight into the       commercial possibilities of supercontinuum fibres.
+In particular, Knight       and Wadsworth initiated research on how to extend the short wavelength       cut-off of the supercontinuum further into the blue end of the spectrum.
+[text removed for publication].
+An improved understanding of the non-linear optical physics       that underlies supercontinuum generation resulting from theoretical work       at CPPM (Skryabin [7]) led Knight in 2007/8 to design a new fibre that       reduced the short wavelength cut-off to 420 nm (ultraviolet) [5].
+[text removed for publication].
+Another TSB-funded project, Whitelase, between Fianium and the CPPM       (Knight, Wadsworth; 2008-2011 [8,15]) further extended the supercontinuum       into the deep ultraviolet (320 nm)[6] [text removed for publication].
+Knowledge transfer       into engineered products has been facilitated by two KTP projects (Knight,       Wadsworth; 2011-2013) [text removed for publication].
+In total, this investment revenue       amounts to [text removed for publication].
+The on-going relationship between Fianium and       the CPPM has also been supported by licensing and consultancy agreements       with Knight and Wadsworth.
+A number of US and EU patents protect Bath's       methods for supercontinuum generation [16].
+[text removed for publication].
+The SC390 supercontinuum source &#8220;Whitelase&#8221; 	  	       The principal impact claimed in this case study is            Development of a world loading new technology: Supercontinuum light         sources       Sales of supercontinuum products since 2008 total [text removed for publication].
+[text removed for publication].
+[text removed for publication].
+Fianium received the Queen's Award for Enterprise in both 2009 and         2012 [13]       The collaboration between Bath physicists and Fianium has resulted in         over &#163;1M of DTI/TSB investment funding [15].

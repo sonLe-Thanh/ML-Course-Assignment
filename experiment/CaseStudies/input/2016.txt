@@ -1,0 +1,78 @@
+     Published in 2008, Finding Moonshine created a channel via which       du Sautoy's research has had huge impact on society, stimulating interest       in, and engagement with, mathematics.
+The ultimate beneficiaries have been       millions of members of the general public whose mathematical curiosity has       been awoken.
+Finding Moonshine provides the general public with a unique       insight into mathematical research.
+As the story of the classification of       finite simple groups unfolds, du Sautoy charts the progress of his own       research, month by month, during the year following his 40th birthday.
+Its       publication cemented Marcus du Sautoy's position as an outstanding       expositor of mathematics and provided a platform from which he expanded       his public engagement activities.
+Millions of people have subsequently       watched his TV shows, listened to his radio programmes, played his Flash       games and interacted through Facebook.
+He has been able to use his       position as a leading mathematician and public figure to engage with       Government.
+Throughout he has maintained close contact with his audiences       and developed new ideas through more intimate activities such as `Maths in       the City' and `Pi Day'.
+How research underpins impact       Marcus du Sautoy's second popular book, Finding Moonshine: A         Mathematician's Journey into Symmetry was published in 2008.
+Although primarily concerned with the story of the classification of the       finite simple groups, du Sautoy's own research is central to the       narrative.
+The story begins in 2005, on his 40th birthday, and uses the       literary device of being divided into twelve chapters, one for each month       of the year.
+Amid many diversions into the (often colourful) lives of       famous mathematicians and stories of major mathematical discoveries, it       has two narrative strands.
+The first is the story of the classification of       the finite simple groups.
+The second is the progress, month by month, of       du Sautoy's own research.
+As part of this second strand, he describes the       problems that he is working on and something of the process of solving,       or, in the case of the problem that he first describes, not solving, them.
+He describes Higman's PORC conjecture and his growing scepticism about its       validity.
+We also see his programme develop: he and a research student       demolish one of his conjectures by exhibiting a group for which the       corresponding zeta function does not satisfy a functional equation &#8212; a       concept elegantly explained in terms of palindromic symmetry &#8212; as the       conjecture predicts, and so the question is refined.
+His research, and the       process of research, are thus brought directly to the reader.
+Crucially,       the book demonstrated that, rather than cherry-picking pieces of       mathematics that are easy to explain, du Sautoy is able to explain the       mathematical concepts that lie at the heart of his research in a way that       is accessible and engaging.
+The next step was to provide his audiences       with the opportunity to go beyond the passive process of reading and to       actually participate in the mathematics.
+This required multiple media, but       combining his abilities as a broadcaster with his deep knowledge and       boundless curiosity as a researcher he developed ideas based on these same       mathematical concepts into TV shows with accompanying web-based Flash       games.
+Nature and extent of impact.
+The impact of Finding Moonshine has been both direct and indirect.
+It has been translated into ten languages and has sold over 62,311 copies       worldwide [A].
+The Fields medallist Professor Sir Timothy Gowers wrote in       his review for the Times Higher Educational supplement [B]: "If         you are genuinely curious to know what it is like to be a mathematician,         there is now a better way of satisfying your curiosity: read Finding         Moonshine."
+The publication of the book gave du Sautoy the platform       to promote and explain the importance of group theory to a wide audience,       with diverse mathematical backgrounds, as evidenced by many of the       comments from readers left on du Sautoy's blog [C]:             "I'm a former student of maths.
+I abandoned my studies 20 years           ago.
+Recently, my wife gave me your book about symmetry as a present.
+Now I am enjoying the reading greatly.
+You awakened in me a kind of           longing for maths.
+A math worm that was sleeping for years.
+[...]           I just wanted to thank you for making Mathematics so appealing."
+Just finished this book.
+It really is a very good read even for           those who have a little understanding of maths.
+Considering I only           have a GCSE I didn't find it too bewildering."
+"I just finished reading Finding Moonshine in the dead of night           last night :) I so enjoyed it [...] Now I see symmetry           everywhere &#8212; what a joy!"
+TV and Radio.
+With the success of Finding Moonshine, du       Sautoy found himself in increasing demand as a broadcaster.
+A string of       appearances on TV and radio, in which he explained the importance, and       excitement, of mathematics followed, including:            The Story of Maths (4 part series on BBC4, Autumn 2008): Episode 1,         0.58 million viewers;       Horizon: How Long is a Piece of String &#8212; Presented by comedian Alan         Davies and featuring Marcus du Sautoy on BBC2 on 17th November 2009:         2.11 million viewers;       Horizon: What Makes a Genius &#8212; on BBC2 on 17th February 2010: 1.76         million viewers;       A Brief History of Mathematics &#8212; a ten part series profiling famous         mathematicians on BBC Radio 4 in June 2010.
+(TV viewing figures here and below are taken from www.barb.co.uk/viewing/weekly-top-30.)
+One of Horizon's viewers commented on du Sautoy's blog [C]: "Your         enthusiasm is infectious.
+I repeated your explanation of Euclid's Prime         Number Proof to my 9 and 12 year olds and they were gripped.
+I didn't         understand about mathematical proofs until after I left school!
+Thanks         for a great piece of work."
+With such clear evidence of his appeal as a broadcaster and of his       ability to present complex mathematical concepts, right up to the cutting       edge of research, in a way that was accessible to audiences from very       mixed mathematical backgrounds, he next went beyond the traditional format       of these programmes to develop new shows, supported by materials that       exploit a range of electronic media, which appeal to audiences with a much       wider demographic profile.
+Importantly, the public actively participate in       the mathematics.
+Building on the success of Finding Moonshine, the       material of these shows is directly based on mathematical concepts,       especially the prime numbers and symmetry that lie at the heart of du       Sautoy's research.
+The first such show was The Code, a three part documentary series       on BBC2 which started on 27 July 2011.
+Viewing figures for the three       episodes were 1.75 million, 1.53 million and 1.33 million.
+Viewers of The         Code were invited to participate in an interactive mathematical       treasure hunt based on the academic ideas presented in the programmes.
+The       treasure hunt involved four web-based Flash games, produced by the company       Six to Start, who state [D] "all of the games are tied directly         into concepts shown in the show", focusing on mathematical concepts       such as symmetry and prime numbers, hunting for clues in the programmes,       solving riddles, finding examples of prime numbers in everyday life and       completing a complex mathematical quiz book.
+They add that over 1 million       people played the Flash games, playing for an average of 24 minutes, and       more than 100,000 took part in the treasure hunt challenge.
+The level of       engagement by viewers was staggering, as all of the elements of the       treasure hunt involved dedication and complex mathematical concepts.
+According to the Six to Start Executive, reported in an external       blog [E], there are "300,000+ interactions on the Facebook fan page,         1000+ photos, videos, 3D models, and a wiki with 100,000 views and 2000+         edits &#8212; all created by users".
+An appraisal of the treasure hunt on       the same blog emphasises the significance of the engagement: "The whole         thing was really involved and quite complex, not to mention on a         traditionally unpopular subject, maths, so over 100k players for the         meta-puzzle is impressive [...] it does seem like quite an         achievement."
+The opportunity to engage a quite different kind of audience arrived when       du Sautoy was chosen as co-presenter of the comedy-maths show, Dara &#211;         Briain's School of Hard Sums.
+First aired on Dave on 16th       April 2012, it attracted 1.7 million viewers.
+According to the Executive       Producer of the show [F] "[it is] the most watched completely new         title in the history of the channel" with "more than double the         normal ratings in its slot with 555,000 viewers for episode one".
+She adds that proof that viewers have engaged with the maths that du       Sautoy introduces on the show is that "the homework questions were         viewed a staggering 442,124 times!
+The title accounted for almost a         quarter of all page views when it was on air (2,030,796 total page         views) and has recently been re-commissioned by Dave".
+Recognition of the huge educational potential that du Sautoy had unlocked       came in a speech [G] of Michael Gove, Secretary of State for Education: "Computer         games developed by Marcus Du Sautoy are enabling children to engage with         complex mathematical problems that would hitherto have been thought too         advanced.
+I am sure that this field of educational games has huge         potential for maths and science teaching".
+Maths in the City and Pi day.
+Public engagement activities must be       continually refreshed if they are to continue to have impact.
+Recognising       the importance of a two-way dialogue, and also the value of smaller scale,       more intimate, projects than his TV shows, in 2010 du Sautoy began working       with a team from the University of Oxford's Department of Continuing       Education to create a way to reach out to the public with maths, ensure       engagement with the subject and open a two-way dialogue with participants.
+The result was the Maths in the City project: a website with a user forum       heavily involving social media, and walking tours around Oxford and London       pointing out examples of maths in everyday life.
+Just as when he describes       outings with his son in Finding Moonshine, symmetry, inevitably,       plays a central role.
+Du Sautoy helped to design the free tours and       materials and led some of them before handing over to students from the       Oxford Mathematical Institute, whom he had trained.
+Funded by the EPSRC,       the tours, which were attended by adults and school groups from as young       as Key Stage 3, were a huge success with over 2500 people engaging via       social media, over 460 people attending the tours and over 130 examples of       `maths in the city' from around the world posted on the website.
+The Maths       in the City project has been so successful, that the same format is being       used in the training of mathematics teachers in China.
+Du Sautoy has continued to work with the University of Oxford's       Department of Continuing Education to create events that not only broaden       the knowledge of the participants, but also their approach to maths.
+Through the use of online communication, these events allow participants       to engage both during and after the live event.
+The first event, Pi day,       which took place in March 2013, made innovative use of social media in       arranging for participants to `rediscover Pi' through experiments.
+According to http://oxfordconnect.conted.ox.ac.uk,       around 2000 participants from 17 different countries took part.
+Sale of Groups and Common Hope.
+In a completely different       direction, in October 2012, du Sautoy offered opportunities to name       nilpotent groups appearing in his research in recognition of contributions       to charity.
+Through this direct application of his research, du Sautoy       sponsors the Common Hope Charity that supports orphanages in Guatemala.
+Amid widespread, and very positive, publicity for mathematics, such as the       article [H] in The Times, he also offered one of the groups to       Queen Elizabeth II in honour of her Diamond Jubilee.

@@ -1,0 +1,34 @@
+     This case study gives an example how the RG1 provides solutions to       practical problems by direct engagement with industrial partners.
+The main       beneficiaries are test engineers (e.g.
+those in the Logic Devices       Consortium at IMEC) and equipment suppliers (e.g.
+Keithley Instruments).
+The details of the impact for each are given in what follows.
+Keithley Instruments: Keithley, as a global prime test equipment       supplier, played a leading role in disseminating the new technique.
+After       demonstrating the new technique on the home-made facility [R2.1], the RG1       made an effort to maximise its reach and impact by working with     Keithley.
+By implementing the technique on the industrial-standard       equipment, it opened a channel for its dissemination to the Keithley's       world-wide customer base.
+The RG1's activities in developing new measurement techniques have been       noted by Keithley and an agreement was signed with Keithley to implement       these new techniques on Keithley's instruments in 2010 [C2.1].
+After the       take-over of Keithley by Tektronix, the collaboration agreement was       renewed in 2013 [C2.2].
+Following the publication of the new technique for       mobility in 2012 [R2.1], Keithley noticed its advantages and "believes       that equipping its instrument with such advanced techniques will give it a       competitive edge" [C2.2], "as it demonstrates the capability of 4200-SCS       and explores its application potential" [C2.1].
+Keithley provided its most       advanced ultra-fast pulse test module 4225 to the University to implement       this technique [C2.2].
+By working together with Keithley, the RG1 made the       following key contributions:            It demonstrated that the new technique can be implemented on the         industrial standard equipment, as reported in March 2013 [C2.3].
+It prepared the application note no.
+3236, authored by Z.Ji from the         RG1 [C2.1, C2.4]; the application note is available at Keithley's         website addresses given in [C2.4].
+It prepared the control software [C2.1, C2.5], available through         Keithley's website given in [C2.5].
+Keithley has been disseminating information about this technique to its       world-wide customers by highlighting it in its quarterly newsletter "Test       Patterns", which was also sent to its global customers by email [C2.6].
+It       is drawing attention to this technique as one of the strengths for its       award-winning 4200-SCS instruments in its sales promotion [C2.1].
+These       activities provide mechanisms for a global reach and impact.
+According to       the data provided by Keithley, 67 customers downloaded the application       notes on the same day when they received the email notification regarding       the new feature.
+Each 4200 instrument costs US$ 80k, but it offers       multi-functionality and it is difficult for Keithley to tell how many       customers purchased it just because of this new feature.
+The Logic Devices Consortium at IMEC: The members of this       Consortium include Intel, Global Foundries, TSMC, Sony, Panasonic, and       Xilinx.
+The RG1 has collaborated with it for 20 years [C2.7].
+The Consortium supported the research into a new technique by providing       three sets of test samples requested by the RG1: one set (2.3-nm SiO2)       as the benchmark and two sets for testing the applicability of the new       technique to samples of high trapping (1.65-nm HfSiON/SiON) and high gate       leakage (1.28-nm HfSiON/SiON).
+These samples were the same as those used       by the Consortium for technology development [C2.7].
+As the users of the new technique, IMEC [C2.7] corroborates that "the new       mobility measurement technique simplifies the test procedure without using       the expensive RF setup, has better accuracy and efficiency".
+The       significance of the improvement is supported by the following quantitative       information:     (i) Reduced cost: The quotations received by the RG1 show       that a typical RF probe station costs approximately &#163;130k and it also       requires network analyser, such as Agilent PNA, costing over &#163;70k.
+In       addition, the test devices should have special RF structures, whose cost       is manufacturer-specific.
+All of these are not required for the new       technique.
+(ii) Improved reliability: The commercial capacitance metre       can only tolerate gate leakage below 10 A/cm2, which is lower       than the gate leakage in advanced transistors.
+The capacitance measured by       the new technique is independent of gate leakage and it has been       demonstrated that mobility can be extracted with a gate leakage as high as       40 A/cm2 [R2.1, R2.2].
+(iii) Better accuracy: The drain voltage mismatch induces       an error over 20% and the charge trapping can cause an additional 20%       error [R2.1, R2.2].
+These errors were eliminated by the new technique.
+(iv) Improved efficiency: The existing technique measures       current and mobile charges separately, whilst the new technique measures       them simultaneously, so that the number of tests is halved [R2.1, R2.2].

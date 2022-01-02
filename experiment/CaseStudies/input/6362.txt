@@ -1,0 +1,47 @@
+     4.1 Quiet propeller aircraft.
+The commercialisation of active       control systems for aircraft has been led by Ultra Electronics [5.1], a       group of over 20 businesses in mainly the UK and North America that       supplies electronic systems to the defence, security and aerospace       industries.
+It employs over 3,000 people.
+After Southampton research made       it clear that using structural actuators to drive the fuselage allowed       both the vibration inside the passenger cabin and the noise level to be       controlled, ISVR developed novel inertia actuator designs, which now have       several international patents (e.g.
+WO 2005 059 397) granted to the       University.
+These patents were licensed in 2004 to Ultra Electronics who, in 2009,       announced the installation of their 1,000th active noise control system       for a commercial propeller aircraft [5.2].
+A total of 200 such systems       have been installed since January 2008.
+These systems are now standard fit       on the Bombardier Dash 8 Q400, which is the most popular type of civil       propeller aircraft.
+Bombardier recently confirmed [5.3] that it had orders       for 428 of the Q400s from 40 operators in 30 countries on six continents.
+These aircraft have transported 177 million passengers over 3.2 million       flight hours.
+The new market for noise control devices in aircraft is       still growing, which is confirmed by their Technical Director, Ian       Stothers [5.4], who originally worked at ISVR on the very first control       system under the supervision of Prof Elliott.
+4.2 Vibration reduction in ships and submarines.
+In marine       applications, auxiliary and propulsion machinery causes vibration that       leads to passenger and crew discomfort and radiated noise that is harmful       to marine life and creates a severe detection hazard for naval vessels.
+For manufacturers of military vessels, attaining contractual targets is       essential due to severe penalties that can be as much as &#163;1 million per dB       of non-compliance.
+The distinctive technology developed by staff at ISVR       is now being commercialised for wider use by BAE Systems.
+The following       statement has been provided by Alastair Sherriff, NAVED Manager, BAE       Systems Maritime [5.5]:     "BAE Systems have found the links we have developed with ISVR to be         invaluable in progressing technology development and knowledge transfer.
+We regard your work in active noise control for maritime applications as         a technology driver for BAE Systems and the significant developments         that have taken place since your move to the ISVR have been the key to         moving the technology out of the laboratory in preparation for future         applications.
+The use of the developed toolset and the novel approach to         characterising transfer paths will provide deeper understanding of the         composition and contribution of noise sources not possible with legacy         techniques.
+Our link with the ISVR is providing real capability         improvement now and we hope will continue in the future."
+4.3.
+Jet engine noise measurement.
+The Rolls-Royce project on       measuring noise output in an indoor test-cell environment has produced       substantial financial and environmental benefits.
+Using methods pioneered       at the University Technology Centre in Gas Turbine Noise, Rolls-Royce       engineers were not only able to ensure that engines' noise levels were       acceptable, they were also able to acquire the data needed to develop       technologies for reducing the emissions of carbon dioxide and nitrogen       oxides.
+By piggy-backing the noise tests in this way, Rolls-Royce avoided       the need to undertake separate outdoor tests.
+New testing methods have       been in place since 2007, delivering savings of at least US$ 4million       since January 2008.
+The ISVR has successfully applied these methods to       engines in test beds in Spain, Germany and the UK.
+When combined with       other work undertaken at ISVR, the result is a significant reduction in       engine noise and emissions.
+Dr Andrew Kempton, Chief Noise Specialist at       Rolls-Royce, said [5.6]:     "The technique has allowed us to exploit noise measurements when         aero-engines are tested indoors.
+Such indoor tests are conducted to         provide understanding of other engine properties (not their noise), and         rather than conducting a specific outdoor noise test (with a typical         cost of $1M) Rolls-Royce, with the support of Southampton University,         piggy-backs noise measurements on the indoor tests.
+Since January 2008,         these techniques have been exploited on four such piggy-back tests.
+In         reality, in many cases the outdoor noise test would have not been         possible (for cost or logistics reasons).
+So piggy-backing noise         measurements using your technique on indoor tests has allowed us to         acquire data that is used to help us develop technologies to improve the         environmental performance of our engines (for example in terms of CO2 or         NOx emissions) by ensuring that the noise impact is acceptable.
+Technology developments at Rolls-Royce, supported by our University         Technology Centre in Gas Turbine Noise at Southampton, have resulted in         exceptionally quiet aircraft with low emissions; two of the new         generation aircraft (such as the A380 and B787) produce the same amount         of noise as one of the aircraft they are replacing, so that in the next         forty years aviation can double without increasing the overall noise."
+4.4 3D sound systems.
+Even in the early stages of the ISVR work on       sound reproduction, undertaken in the mid-1990s, there was massive       interest from industry sponsors, including Yamaha, Hitachi, Samsung and       Japan's largest construction company Kajima Corporation, which resulted in       total funding of around &#163;1.2 million.
+Kajima, with its annual turnover of       $15 billion, was primarily interested in simulating the acoustical       environments offered by the buildings they designed.
+This involves       replicating sounds exactly as they would be heard in the yet-to-be-built       concert hall, office or meeting room.
+Recognising the huge commercial       potential, the University assigned a number of patents, which came out of       the underpinning research, to a holding company, Adaptive Audio Ltd, who       in 2004 formed a joint-venture company, Opsodis Ltd, with Kajima [5.7].
+Kajima engineer Dr Takashi Takeuchi, who had completed a PhD in the late       1990s under the supervision of Prof Nelson, returned to ISVR in 2006 as       visiting researcher, where he has since supported the commercialisation of       the technology through Opsodis Ltd.
+The intellectual property was       sub-licensed to several audio manufacturers including Marantz (Japan), and       Inkel (Korea).
+Sales of the systems since 2005 by Marantz [5.8] have       exceeded 6,000 units, with a total sales value of US$7.22 million [5.9].
+These sales include a first "high-end" product known as the "ES-150",       which sold 211 units and a second product known as the "ES-7001", which       sold 5,198 units.
+As of July 2013, the total number of ES-7001 products       sold since January 2008 is 2,968 (total sales value of US$3.71 million).
+The Inkel product was launched in the USA in May 2013 under the "Sherwood"       brand [5.10].
+It is anticipated that sales of this product will reach       5,000 during 2013 alone.
+Interest in the technology continues to expand       and is being evaluated by NHK (the Japanese Broadcasting Company), the BBC       as described above, and Huawei, who awarded a &#163;420k contract to ISVR in       2013 to undertake the development of loudspeaker arrays for personalised       audio.
+The latter is being led by Dr Filippo Fazi, former PhD student of       Nelson and ISVR Lecturer (2010ff), who was awarded a Royal Academy/EPSRC       Fellowship worth over &#163;450k to undertake further work in inverse problems       in electro-acoustics.

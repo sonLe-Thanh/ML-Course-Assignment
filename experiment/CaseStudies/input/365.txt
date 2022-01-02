@@ -1,0 +1,33 @@
+     Economic Impact     Cardiff's PWE has achieved global economic impact since 2008, with       world-leading companies applying it to develop new products.
+PWE has       resulted in a successful spin-off company, Mesuro Ltd. [5.1], attracting       industrial funding of over &#163;1.25M from Selex, LabTech, Milmega, Copham,       M/A-COM, Freescale, Agilent and QinetiQ.
+The streamlined development and emulation capabilities afforded by PWE       reduce the need for prototyping, minimises time-to-market and provides       competitive edge.
+PWE, according to M/A- COM, plays a "significant         role in developing and optimising the circuit used in the final design"       [3.2] [5.2].
+This was recognised from the outset by key players in the       mobile communications industry, e.g.
+from 2004-2007 Nokia provided       financial support of &#163;400k and benefited from reduced development time and       costs by using PWE to evaluate device technologies for next generation       mobile communications systems [3.1] [5.3].
+M/A-COM is an excellent example of a beneficiary that has achieved       time/cost savings and major competitive advantage.
+It used PWE [3.3] to       develop a high-performance PA product for satellite telephones ahead of       competition, "to successfully secure the design win" [5.2].
+This       product alone has directly generated over $40M revenue and employment of       eight additional staff in 2009-2013.
+PWE has enabled additional amplifier       products with expected revenue of $15M for 2013-2018 [3.2] [5.2].
+Furthermore, QinetiQ (2008) and WIN Semiconductors (Taiwan) (2012-13) have       used PWE for rapid optimisation of their gallium nitride (GaN) technology       [3.1],[5.4].
+The successful demonstration of a system based upon fundamental PWE       concepts [3.1] at the International Microwave Symposium in 2008 (the       largest such exhibition, attracting over 200 exhibitors and 15,000       attendees) indicated its potential for direct commercialisation.
+After       raising an initial investment of &#163;1M from three investors (Fusion IP,       Invest Wales and ERA Foundation), the Cardiff University spin-off company       Mesuro [5.1] was established in 2009.
+Mesuro supplies PWE systems directly to the relevant industries, e.g.
+mobile communications, semiconductor foundries, military and satellite       systems, and has exploited PWE to establish a successful market presence       and leadership.
+It currently employs 7 FTE staff.
+In 2010-11 it secured       investment of &#163;450k and revenue of &#163;220k, with revenues for 2011-12 and       2012-13 rising to &#163;700k and &#163;1.5M, respectively.
+This includes sales to       Infineon and M/A-COM in the USA, and Miyoshi (Mitsubishi) in Japan.
+In 2009, and as a result of the success of PWE, Welsh Government funding       (&#163;370k) enabled the "Green Communications Centre" within the Knowledge       Transfer Centre (KTC), which increased technological capabilities and       improved business access; it is now part of Cardiff School of       Engineering's "Business Gateway".
+To date, this industry-focussed,       PWE-related activity [3.1] has generated &#163;160k from customers including       EADS-ASTRIUM, Cobham CTS, UMS, TNO, Plextek, WIN-Semiconductors and       Analog-Devices.
+Impact on Practice     CREE, currently the world -leading company in the RF-power semiconductor       sector, used PWE to successfully demonstrate the potential of their GaN       technology for very efficient PAs (2008) [3.1], [3.3].
+CREE have       introduced PWE-based CAD models for mainstream simulation tools, for their       newest 50V GaN technology (2013) [5.5].
+This new generation of models       gives circuit designers unique access to PWE by displaying the internal       voltage and current waveforms within CREE transistors - "a technique         driven by the published work and activities of the Cardiff CHFE group"       [5.5].
+Similar work was undertaken for Freescale on its LDMOS technology       (2008) that translated into two funded PhD studentships (&#163;100k).
+In his plenary presentation at the 2013 IEEE Radio and Wireless Week, the       President, CEO and Founder of National Instruments (NI) highlighted PWE's       impact on their new products [3.6],[5.6].
+The "Cardiff model" has now been       integrated into NI's mainstream microwave simulation tool (AWR Microwave       Office).
+NI is also providing &#163;250k of funding (2013) to support       device-modelling aspects of PWE research at Cardiff in addition to funding       a NI Lectureship post (2013).
+Since 2008, industrial engagement with PWE has been promoted through 16       EPSRC CASE and other industry-funded studentships with M/A-COM (x2),       QinetiQ (x2), Selex (x2), Freescale (x2), Alcatel-Lucent, Copham,       Millmega, Roke Manor, Labtech, Mesuro, NXP and EADS.
+International PhD       funding from Agilent (USA) is a direct result of Cardiff's reputation for       working with industry on a wide range of challenging practical areas.
+The       impact of PWE is also promoted through the targeted recruitment of Cardiff       PhD graduates to relevant industries, including three students into       Alcatel-Lucent (UK) in 2009 and one into Ericsson (Sweden) in 2010.
+Environmental Impact     Emerging communication systems must minimize their environmental impact       through improved energy efficiency.
+In collaboration with Alcatel-Lucent,       Nokia-Siemens-Networks, France Telecom - Orange, Freescale and other       members of the OperaNET-2 consortium, Cardiff is using PWE to improve       efficiency of power amplifiers and so reduce the carbon footprint of       mobile communications systems [5.7].
+A 20% efficiency improvement in a       typical (2013) 3G base-station power amplifier translates into savings of       approximately &#163;2.5M/year and a 17 kiloton reduction in CO2       emission for a typical EU network (with 12,000 base-stations).

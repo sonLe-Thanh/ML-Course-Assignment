@@ -1,0 +1,48 @@
+     In 2009, a Knowledge Transfer Account (KTA) funded project between Bath       and Ashwoods Automotive, an Exeter based SME, was focused on the       optimisation of hybrid electric powertrains.
+It became clear that       realistic driver behaviour had a far more significant effect on CO2       production and fuel efficiency than that possible through design       improvements, as is the case in conventional vehicles.
+Because of the importance of driver behaviour for all types of vehicles,       and following discussions between Bath and Ashwoods based on these       findings, a new product (Lightfoot&#174;) was created by Ashwoods       that incorporated the Universal Driver Aggression Algorithm (or UDAA)       which arose from the Bath research [5].
+The development of this product       relied heavily on the Bath team to ensure that the full benefits of the       research findings could be realised.
+Ashwoods engineers were seconded to       Bath during the product development, ensuring effective knowledge exchange       and exploitation of the research.
+Lightfoot&#174; was launched in 2011 through a new business       venture, Ashwoods Lightfoot, which owns the IP relating to the product,       creating three new jobs.
+The product is marketed to fleet operators of       light commercial vehicles.
+The system consists of a data processing module       and a driver display system that can be integrated into the existing       dashboard instrumentation and is connected over the mobile phone network       to Ashwoods' central servers.
+The system makes use of data readily       available from the vehicle's diagnostic computer.
+The data are processed       using the UDAA algorithm developed in the underpinning research both to       quantify driver aggression and to optimise gear shift strategy.
+This       approach allows Lightfoot&#174; to be fundamentally more effective       than competing products, which simply aim to indicate to the driver when       to change gear, due to its ability to modify driver behaviour in a robust       and universally applicable manner.
+This represents an important strategic       advantage to Lightfoot&#174;, significantly improving driver       acceptance and minimising the application support needed for each new       fleet user.
+Lightfoot&#174; uses visual and audible feedback to drivers to       help them improve the fuel efficiency of their driving.
+In addition, the       system reports back to the fleet manager who oversees a ranking and       monitoring system to reward the best drivers and encourage those who need       to improve.
+The reduction in CO2 emissions is achieved solely       through behavioural improvements, with no modification to the vehicle       engine.
+During the development phase, trials run on customer fleets by Ashwoods       demonstrated that Lightfoot&#174; saved an average of around 7% in       fuel/CO2 when compared with baseline measurements across a wide       range of drivers and duty cycles.
+The savings were even higher for       exceptionally aggressive drivers and highly dynamic duty cycles; in these       cases savings of up to 20% were achieved [A, B].
+In service, the product       has consistently returned a saving of at least 10% [C].
+Lightfoot&#174; has been a commercial success and is the sector       leading product, winning a number of industry awards [D].
+The work       undertaken by Bath, exploiting the underpinning research has been central       to this success.
+In the words of the Ashwoods Managing Director [C]:     `The innovative work of the PVRC has contributed directly to our         business.
+The novel driver aggression monitoring algorithms developed         with the University have helped our Lightfoot product to become the         leading offering of its class.'
+The impact here is immediate and persistent.
+The beneficiaries are       Ashwoods Automotive, through increased sales (value of the 2,500 unit       sales to date are around &#163;625,000) and a rising profile within a new       product sector [C].
+In addition, the six major fleet operators that use the technology have       gained significant reductions in fuel costs, valued at over &#163;83,000 per       month on the current number of installations.
+Over 50 subsequent trials       have now been run by large fleet operators with savings ranging from 8 to       23%.
+Northumberland County Council saved 13.5%, Coventry City council       12.7%, DAF 9.9%, and May Gurney 14.3%.
+User experience has been positive,       for example, Wiltshire County Council [E] states:     `We have improved our consumption by 8-10% on these vehicles.
+The         system is easy to manage, relies on the driver to drive correctly to         make the savings, and therefore does not take up officer time.
+As the         potential savings are significant, it is our intention to invest in         Lightfoot in the future.'
+The largest user is Autoglass, which has adopted Lightfoot&#174; across       its entire fleet and has seen rapid and significant improvements.
+In the       words of the Autoglass Managing Director [F]:     `Within a couple of days of using the tool we see many of our drivers         go from spending 55&#8212; 60% of their time in the green zone to hitting 90%         and higher.
+Our savings in fuel costs speak for themselves.
+...     ... Our technicians have really embraced the technology...We've even         seen some light-hearted competitiveness emerging when the manager         reports go up on the notice board every week.'
+Fleet operators spend around 25% of their cash flow on fuel, so any       saving in this area can be passed on to the general public through a       reduced price of goods and services.
+The wider environment benefits       through reduced CO2 from the vehicle fleet are clear.
+The       annual impact of the 2,500 currently operational systems can be estimated       by considering the effect of a 10% saving relative to the current fleet       average CO2 emissions from light commercial vehicles, estimated       in 2010 by AEA at 207.6 gCO2/km across a fleet of 2500 vehicles       travelling an average of 25,000 miles each year [G].
+The saving is in over       2,000 tonnes of CO2 per year.
+Figures 1 and 2 show actual changes in driver accelerator pedal activity       before (Baseline) and after (Live) activation of Lightfoot&#174;.
+These changes, represented as probability density distributions, give rise       to the savings determined in [G].
+Fig.
+1: Accelerator pedal (throttle) activation probability density       before (Baseline) and after Lightfoot&#174; was activated (Live).
+Note the shift towards lighter pedal activation when the device is active.
+Fuel use is proportional to accelerator pedal position.
+Fig.
+2: Engine speed probability density before (Baseline) and after Lightfoot&#174; was activated (Live).
+Note the considerable shift towards lower engine speeds when the device is active.
+Lower engine speeds are typically more efficient for an equivalent power output due to reduced friction.

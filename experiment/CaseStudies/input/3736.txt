@@ -1,0 +1,26 @@
+     Impact on commercial partnerships development     The research described is of value to the commercial companies, public/       private partnerships that are developing novel regimens and trial designs       for TB drug development by speeding development and reducing its cost.
+Tuberculosis trials are hugely expensive (&gt; $50 million) due to the       large number of patients that must be recruited.
+They are slow because of       the time taken to grow the organism in the laboratories supporting the       trial.
+The assays that we have developed directly address this as they       take just a few hours in comparison to 42 days of conventional methods1.
+Justin Green of GSK states "Of real importance, it reduces the time         taken to obtain a positive culture from approximately 42 days to just a         few hours" [1].
+This means that go-no-go decisions in our adaptive       trials paradigm can be made in real time2.
+By quantifying the       number of viable organisms there is the potential to reduce the sample       size of the trial (http://c-path.org/CPTR.cfm).
+In particular, developing an understanding of the role of bacterial load       and the relationship between load and cavities has had a major influence       on commercial and academic researchers performing and developing clinical       trials for tuberculosis (example GATB         Consultants meeting) [3].
+The MBL assay has now been incorporated       into the industry- academic development project funded to develop       model-based systems to shorten TB drug development by the Innovative         Medicines Initiative in collaboration with GSK, Janssen and Sanofi       Aventis [4].
+The value of this technique to determine treatment response       has been identified in an authoritative review that gives it the highest       level of certainty to this statement [5].
+Current impact on drug development and trials     The MBL Assay has been taken up rapidly and is being applied to the       design of current trials by international researchers in the PanACEA       consortium's MAMS phase IIb study of four novel regimens started in March       2013 in South Africa and Tanzania that is recruiting up to 400 patients       [2].
+From March 2012, its utility is being evaluated in comparison with       other commercial assays and a novel assay in development is being funded       by a grant from the European Developing Country Clinical trials       partnership [4] in collaboration with Pharma company Sequella Incorporated       who are providing co-funding, bringing the total funding &#8364;1.7m.
+Impact of pre and early phase clinical trials     The St Andrews research is being developed and applied as part of our       partnership with the pharmaceutical industry and is being taken up by our       research collaborators who have been awarded funding via the Innovative       Medicines Initiative [4].
+Justin Green from the GSK states "this novel         assay that detects live mycobacteria is felt to be an important new tool         for commercial drug developers like GSK" [1].
+The CSO of Helperby Therapeutics, a pharmaceutical SME note "The work         of Professor Stephen Gillespie is having considerable impact on the         field of tuberculosis.
+For example, his new assay (MBL) for the         measurement of the total quantity of Mycobacterium tuberculosis         in sputum and other tissues is highly significant.
+This is because it is         becoming clear that conventional culture and microscopy techniques         underestimate the bacterial load.
+Using the Gillespie assay, it is now         possible to objectively detect and quantify all the different         subpopulations of M. tuberculosis including those that are         missed by conventional methods.
+The combination of MBL and modelling is         transforming the speed of pre-clinical studies by short circuiting the         need for culture and supporting the development of new models.
+It is         possible that one day, the Gillespie technique or one which is based         upon it, will replace all conventional methods of detection of M.
+tuberculosis."
+[2]     Pre-clinical model development     The mathematical model has been used to demonstrate the value of a new       more human-like mouse model of tuberculosis treatment and this allows the       evaluation of novel drugs more rapidly shortening the duration of the       pre-clinical pathway [2].
+This model has also been used to test a new       mouse treatment model that mimics human disease more closely in an       industry academic research partnership.
+The modified MBL assay for M.         marinum is being used by an SME, ZF-screens (Holland), in the rapid       evaluation of tuberculosis drugs in Zebra fish reducing the costs and       allowing drugs to be evaluated more rapidly.
+As GSK state "the Mycobacterial Load [assay] is one of the early         success....could now be applied not only to human studies, but also         cutting edge animal models."
+[1]     By reducing costs and timelines in clinical and pre-clinical tuberculosis       drug development research in this way patients benefit with the prospect       of new medicines for tuberculosis coming closer.

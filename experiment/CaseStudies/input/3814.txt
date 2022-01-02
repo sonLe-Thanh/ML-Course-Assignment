@@ -1,0 +1,35 @@
+     The public and a wide range of UK services and industries benefit from       weather forecasts provided       by the Met Office, including agriculture, aviation, construction, energy,       retail, and transport [see       evidence item a].
+The economic value of the forecasts has been       estimated to be in excess of       &#163;600M pa, and perhaps much more [evidence item b].
+Forecasts of       severe weather have a huge       value in terms of public safety.
+Although it would not be meaningful to       put a financial value on any       one component of the forecasting system, the accuracy and value of the       forecasts clearly depend       crucially on the accuracy, as well as efficiency, of the forecast model       dynamical core.
+Climate change, forced by anthropogenic greenhouse gas emissions, will       have major impacts on       society in the UK and worldwide.
+Both mitigation and adaptation measures       will have huge costs,       from the level of individual businesses and organizations up to national       government level [evidence       item c].
+Policies on mitigation and adaptation therefore require       the best possible predictions of the       future evolution of the climate, and our best available tools for making       those predictions are       sophisticated numerical models such as the Met Office / Hadley Centre       climate model (a variant of       the Met Office weather prediction model).
+Again, the accuracy and value of       the predictions depend       crucially on the accuracy of the model and its dynamical core.
+The newest generation of the Met Office dynamical core, known as ENDGame,       is designed to       retain the advantages of the current operational dynamical core, while       making several       improvements.
+Prof Thuburn's group at the University of Exeter has made       several key       contributions to the formulation and development of ENDGame, some of which       are documented in       section 2, and which have impacted on its robustness, accuracy, and       efficiency.
+Robustness, stability and convergence.
+For operational use, the       dynamical core must be robust       and free from numerical instability within its planned operating regime.
+Prof Thuburn made key       contributions to obtaining a stable formulation (a) through improving the       calculation of semi-Lagrangian       departure points (reference [6] above) and (b) through analysis showing       the need for a       space-and-time-dependent reference state for the iterative solver       [evidence item d].
+Tests have       shown ENDGame to be more stable and robust than the current operational       dynamical core [see       evidence item f]:     "...work by Prof Thuburn helped to improve our understanding of the         ENDGame iterative solver         and other aspects of the formulation, which eventually led to a         breakthrough in achieving         numerically robust solutions.
+This specific aspect is of crucial         importance to our operational         forecasters for whom model failure causes major disruption, leading to         delays in delivery of         products to our customers.''
+[evidence item f]     Accuracy.
+ENDGame combines accurate wave propagation with an       optional conservative semi-Lagrangian       transport of mass and trace species, considered essential for some climate       simulations       (references [1], [2] and [3] above).
+In addition, the improved stability       and robustness imply reduced       dependence on ad hoc scale-selective dissipation.
+These improvements have       led to several       measurable gains in model accuracy and realism in trials, including better       maintaining the       atmospheric eddy kinetic energy, which helps to increase the spread in       ensemble forecasts (a       desirable property) and to maintain the natural variability in climate       simulations, more realistic       stratospheric gravity wave activity, and improved climate precipitation       fields [see evidence item e       and evidence item f ].
+"The performance of ENDGame in pre-operational trials suggests that it         delivers significant         improvements in accuracy over the current operational dynamical core.
+An         important element of         this improvement is that the new model has much better variability.
+This         leads, for example, to         improved tropical cyclone tracks and intensity, improved summer Asian         monsoon rainfall and         improved wind speed forecasts.''
+[evidence item f]     Efficiency.
+Prof Thuburn's group made a key contribution to the       efficiency of the iterative solver       through understanding the effect of different back-substitution strategies       on error growth/decay.
+The improvement helped enable ENDGame to run in approximately the same       time as its       predecessor, despite the greater complexity of its algorithm.
+Indeed,       ENDGame is slightly more       efficient on large numbers of processors.
+This efficiency was a crucial       factor in the decision to take       ENDGame forward to operational use [see evidence item e and       evidence item f].
+"The improved understanding of the iterative solver also allowed a         reformulation that         significantly reduced the number of iterations needed, and hence the         cost of ENDGame.
+This         has been critical in enabling ENDGame to run within the same time window         as the current         operational dynamical core.
+Indeed, the formulation of ENDGame achieves         better scaling on         large numbers of processors and, when ENDGame goes operational, this         will allow us to         increase the resolution of the forecasts (from 25km to 17km) beyond what         we would be able to         do with the current model.''
+[evidence item f]     (Further improvements in efficiency may be possible using an       `incremental' version of the solver       proposed and tested by Prof Thuburn, and by using the longer timesteps       permitted by the       improved stability of ENDGame.)
+ENDGame will be used operationally from early 2014.
+At that point the       impact of this research will       begin to reach the public, policy makers, and businesses and services that       use Met Office weather       and climate forecasts.Prof Thuburn engaged with the ENDGame project at an       early stage (2005)       by providing an independent review of a draft ENDGame formulation.
+The       pull through of the       research into pre-operational development has been facilitated by frequent       close contact between       Professor Thuburn and the Dynamics Research group at the Met Office; since       2005 he has       typically spent one day per week visiting the Met Office.
+He has       co-authored several papers with       the Met Office Dynamics Research Group (Section 2).

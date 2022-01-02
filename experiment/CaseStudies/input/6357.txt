@@ -1,0 +1,46 @@
+     The main impacts of the research carried out by Professor Wood et al       include the foundation of the nCATS centre, which collaborates with       commercial companies on a large scale, as well as the direct adoption of       research findings by industry.
+By 2008, UK companies were lobbying the government to found a       strategically important national centre for Tribology.
+Tribology research       excellence at UoS and industrial links were instrumental in the group       winning a &#163;3.5million award from the Engineering and Physical Sciences       Research Council (EPSRC); with &#163;4 million from UoS and &#163;2 million from       industry, nCATS was launched in 2009.
+Today nCATS collaborates with a wide       range of industries and over 100 organisations, most of them industrial.
+It has international standing, with collaborators in the USA (Sclumberger,       Chevron, DePuy), Japan (Tribotex, Diado), China (Lanzhou Institute), EU       (BMW, Vestas) and the UK (RR, Shell, Airbus).
+A major remit of nCATS is collaboration with industry to enhance UK       companies' tribological competitiveness.
+The centre's ~&#163;200k of       consultancy annually delivers real solutions: it achieved a 20% increase       in the stability and mechanical efficiency of worm gears in industrial       actuators for Rotork (17% world market share in gears and controls).
+Knowledge transfer in 2009 concerning gear face patterns and lubrication       regimes enabled the company to launch a new product (IQ3) within a shorter       time frame.
+In fact the work by nCATS has been applicable to products       accounting for 80% of Rotork Controls profits (&#163;30 million).
+Adrian Landa       from Rotork states "Working with nCATS has helped us produce more         efficient, stable and reliable gears which have led to a new product         being launched (IQ3) with a better understanding of variation caused by         the manufacturing processes.
+The knowledge transfer has helped us to         think about our designs in different ways.
+We are also now able to         question our supply chain with more confidence and knowledge in both         technical and statutory (REACh etc.)
+requirements of lubricants and gear         components ie we are now an informed customer.
+We continue to have         fantastic commercial success and believe the work of nCATS will help us         realise an increase in our &#163;30m profits [5.1].
+John Crane UK Ltd (30% market share in seals) came to nCATS in 2012 for       advice when experiencing electrostatic discharge that was damaging power       generation gas seals and threatening a large commercial contract.
+nCATS       conducted a suite of reciprocating wear tests and monitored for       electrostatic discharge.
+The mechanism and reasons for discharge were       fully explained and alternative materials suggested.
+John Crane has       implemented these materials changes and the multi-million pound commercial       contract has been successful.
+Ian Goldswain states "The work conducted         by nCATS for John Crane UK Ltd contributed significantly to the         successful understanding of the causes of electrostatic discharge (ESD)         in a turbomachinery application which proved to be vital to a major         business agreement between John Crane and a key customer in the oil         &amp; gas market" [5.2].
+Direct research impacts on industry include changes to how BNFL processes       its radioactive slurry.
+UoS results were included in a 2003 BNFL Design       Guide [5.3a] for slurry handling pipework and components (risk of leaks       from erosion), and although this guide itself was published before the       impact assessment period, nuclear industry lead times mean that UoS       research has continued impacting designs since 2008.
+The guide has been       adopted throughout BNFL, with no failures or shutdowns reported since       publication.
+This work is critical: rules issued by the Health and Safety       Executive demand that BNFL pumps and processes the slurry without any       leakages during plant lifetime, due to the radioactive nature of the       slurry.
+Sellafield Ltd, the company responsible for nuclear       decommissioning and waste management, placed several further projects with       nCATS, most recently - in 2011 - an independent technical review of an       internal desktop wear study of jet erosion from sludge handling plant       agitators (RIfI Document Refs.
+08/SQ/00455/R and 00709/R) [5.3b,c].
+This study highlighted the vulnerability of stainless steel valve parts to       erosion.
+Erosion damage was avoided by Sellafied employing a more erosion       resistant material in the identified parts of valves.
+This improved design       was put forward for a BNFL award [5.3d].
+Gulab Mistry states "The two         studies have enabled the equipment design and the selection of the         materials of construction for a new sludge storage plant as part of a         Sellafied remediation programme.
+The knowledge has been shared         internally with other Sellafield projects"[5.3e]     In the area of wear detection, existing engine and gearbox wear debris       detection systems rely on the magnetic property of debris.
+Through their       research activity, nCATS developed an Electrostatic Sensor (ES) which can       detect ceramic (as well as ferrous) wear debris [5.4a].
+The system also       monitors oil quality and tribofilm health through surface charge       characterisation.
+These sensors work in real time online, are more energy       and economically efficient, and monitor both wear sites and debris.
+In       between 2003-2006 GE Aviation integrated this technology into its       commercial sensor system (the only system commercially with ES sensors),       now used on the F35 Joint Strike Fighter Lightning II aircraft engine (3       ES per engine) &#8212; currently the only ES in production.
+GE Aviation predicts       provision of sensor systems for 6000 jet engines by 2025; spares could       increase this.
+Honor Powrie states, "Work performed by nCATS (at         Southampton University) has improved understanding of the         application of electrostatic sensors for oil system health         monitoring, including mechanical component condition and oil quality.
+This has helped better quantify capability and limitations, which is         important when assessing the readiness and uniqueness of such a         technology.
+Collecting and analysing multiple sensor data, again from         oil system bench test monitoring, has demonstrated some of the relative         merits of the different sensing approaches, as well as the usefulness of         multiple sensor analysis for enhanced fault detection and diagnosis"       [5.4b].
+As a national centre, nCATS sees dissemination of tribology expertise,       especially to industry, as a major part of its remit.
+To this end, major       events have been run such as a Marine Energy Systems day (supported by the       IMechE, EPSRC, IET, IOP and IOM3) with ~60 attendees; a       Functional Coatings for Industry day supported by the Materials KTN with       ~100 attendees; Tribology at Sea day supported by the IMechE with ~65       attendees; and hosting the Faraday Discussion on Tribology supported by       the RSC with over 100 attendees.
+Breakout sessions at these events helped       shape an EU ERC bid and TSB consortium.
+nCATS has also gone on to directly       perform consultancy and research for a number of company contacts made at       these events.
+Two Knowledge Transfer Partnership bids have also been       submitted and the Materials KTN has requested nCATS to run another       dissemination event.
+Other outreach has included an interview by BBC Radio Solent concerning       the benefits of nCATS to industry and a webinar about the economics of       tribology through the UK Tribology Network (&gt;40 logged in) of which       Professor Wood is the Chair.
+Outreach to children has included INTECH       Science Centre at Winchester where two large fixed demonstrator models       allow children to appreciate friction and material choices.
+An educational       video where complex tribology concepts have been presented in simplified       terms has also been produced with outreach funds from a "Green Tribology"       EPSRC Platform Grant (EP/J001023/1) [5.5].

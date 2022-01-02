@@ -1,0 +1,51 @@
+     London and the Thames Estuary have always been subject to flood risk.
+There are &#163;200 billion of capital assets in the Thames tidal floodplain,       including 500,000 properties, nearly 100 tube/train stations, the City       airport, 400 schools, 16 hospitals and 8 power stations, and 1.25 million       people live or work below the Thames average high tide level.16       In addition, the London economy is worth &#163;230 billion per annum and is the       centre of government as well as many other sectors.
+It has been estimated       that the cost of a single London flooding event could be &#163;12-16 billion,7with       great potential for fatalities.
+London therefore has a high level of       protection against coastal floods.
+Construction of the current Thames       Barrier began following the enquiry into the East Coast flooding in 1953       and was completed in 1983, at a total cost of around &#163;1.7 billion in 2012       prices.
+The original design of the barrier was to cope with a 1-in-1000       year event until 2030, taking into account the long-term sinking of south       east England.
+However, the design did not take into account changes in the       size of storm surges in the North Sea.
+The Environment Agency (EA) launched the Thames Estuary 2100 (TE2100)       project in 2002, and the final TE2100 plan was released in November 2012.16       TE2100 was established because of a recognition that exposure to flood       loss was increasing and that flood protection infrastructure &#8212; including       the Thames Barrier &#8212; would need upgrading at some stage in the future.
+The       initial planning work to identify management options used established       Defra guidance on sea level rise (12 mm/year over 2055-2085, or       approximately 90 cm by 2100)8, and following the Avoiding       Dangerous Climate Change conference9 in 2005 also considered an       extreme sea level rise scenario of 4.2m by 2100.
+Using these scenarios, a       series of high level options involving different combinations of       adaptation measures were developed.
+In 2005, TE2100 commissioned the Met       Office's Hadley Centre (which resulted in Unit staff being involved), POL       and (for river flood risk) NERC's Centre for Ecology and Hydrology to       produce revised climate change scenarios.
+The research into storm surges had two consequences.
+First, it used       several climate models to estimate both changes in storminess and regional       sea levels, demonstrating that the sea level rise assumptions made in the       original plans were reasonable.6 Second, using expert judgement       and interpretation of evidence from periods of past rapid sea level rise,       it produced a new estimate of a plausible (but highly unlikely) maximum       sea level rise (termed the H++ scenario) of 2.7m.
+This was considerably       lower than the extreme case previously used.
+The TE2100 Plan16       recognises the importance of the Unit's findings, stating (p28):     "These results give greater certainty that we have being planning for         the right potential range of water levels this century"     "Our previous worst-case scenario for increases in maximum water levels         can be revised down."
+"Such a reduction in worst-case scenario for this century means that a         tide-excluding barrage will not be necessary to manage flood risk this         century and can be dropped from our final options"     The cost of this second barrage has been estimated to be approximately       &#163;10 billion (in 2012 prices)16, and would need to be       accommodated in the Government's financial planning.
+As noted by Reeder       and Ranger (2012)18 of the proposed developments: "These         types of investments tend to be difficult or costly to reverse (i.e.
+they have high `sunk costs'), are high-stakes and their design is         dependent on what assumptions are made today about the climate over its         lifetime (e.g.
+the appropriate height of a sea wall will depend on         assumptions about sea level rise over the next few decades).
+This means         that if forecasts are incorrect today, the project can become maladapted         to climate, exposing society to greater risks, wasted investments or         unnecessary retrofit costs."
+They also note the success of the       TE2100 in handling this problem: "The TE2100 project demonstrates that         robust adaptation planning is possible even where dealing with         long-lived decisions with high sunk-costs and deep uncertainty over         future climate risks."
+The TE2100 plan also defines the monitoring,       reviewing and the decision-making procedures that will be needed to keep       the risk to London, including the storm surge risk from the east and the       fluvial risk to the west, within acceptable levels.10     The associated monitoring costs are also calculated.
+Part of this       continued evaluation is undertaken through the i-STORM international       network of moveable storm barriers, which includes representation from the       UK (the Thames Barrier), the Netherlands, Russia and Italy15.
+The aim of i-STORM is to share experience and methods; Lowe sits on the       science panel for the network, bringing his experience of climate change       to i-STORM.
+The experience of TE2100 has being used to inform similar       projects elsewhere in the world.18,19     Because of its importance to such a large population the TE2100 plan has       received considerable media attention11-14 and has great       economic implications.
+A quantification of economic importance of the       recommendations was commissioned by NERC from the DTZ/UGL consultancy and       traces the impact of storm surge modelling work at POL.20       Because that modelling was deployed via Lowe and Gregory (2005)1       and Lowe et al.
+(2009)5 into TE2100, the findings are relevant       here.
+The NERC-DTZ report summarises the financial impacts to be:       safeguarding the London Economy &#8212; &#163;94 million per flood day; safeguarding       property in the Thames Estuary area &#8212; &#163;2 billion per annum; giving       confidence to future London investment &#8212; &#163;2.1 billion per annum; value of       human lives in the Thames floodplain &#8212; &#163;31.25 billion per annum.
+The research used to construct the scenarios for extreme water levels for       TE2100 also contributed directly to the UKCP09 climate projections.6       The UKCP09 climate projections were published by Defra in 2009, and       provide climate information designed to help those needing to plan how       they will adapt to a changing climate.
+UKCP09 was developed by       incorporating the needs of users of climate projections, and also by       making use of advances in climate science since the previous set of UK       scenarios was published in 2002.
+In particular, the UKCP09 projections       take a probabilistic approach, and construct probability distributions for       changes in relevant climate, marine and coastal variables.
+The Marine and       Coastal Projections Report5 presents scenarios for changes in       mean sea level and storm surge around the UK (along with wave heights and       ocean temperatures), and was led by the Unit's Dr Lowe.
+These scenarios       show ranges in change in mean sea level and storm surge, based on the use       of multiple climate models.
+Chapter 717 of the UKCP09 report       gives a case study of the use by TE2100 of the sea-level rise and storm       surge projections (given in Chapters 2-4 of the report) and demonstrated       how the UKCP09 results could be used in practice.
+The UKCP09 sea level and       storm surge scenarios have since 2010 been incorporated as Supplementary       Guidance21 into the Environment Agency's revised Flood and       Coastal Erosion Risk Management Appraisal Guidance (FCERM-AG)22.
+This guidance is used in all coastal flood management projects in England,       and has been applied in all appraisals started since August 2011.
+The UK's       Climate Change Risk Assessment23, published in 2012, used the       UKCP09 sea level rise scenarios to estimate future exposure to coastal       flooding.
+The Thames Region Climate Change Programme Manager of the Environment       Agency notes that24 "The TE2100 project was the first major         infrastructure planning project to put adapting to the impacts of         climate change at its centre......Jason [Lowe]'s research commissioned         by the TE2100 project formed the majority of the input to the UKCP09         marine projections and has proved very valuable not only to the TE2100         plan but also to the wider UK in understanding the scale of challenge to         adapt to rising sea levels and changing weather patterns."
+Background information     6.
+UK Climate Projections, UKCP09, Defra, http://ukclimateprojections.defra.gov.uk/     7.
+London Assembly, Environment Committee, London under       threat?
+Flooding risk in the Thames Gateway (2005) http://legacy.london.gov.uk/assembly/reports/environment/flood_thamesg.pdf     8.
+Defra Flood and Coastal Defence Project Appraisal Guidance.
+FCDPAG3 Economic Appraisal Supplementary Note &#8212; Climate Change Impacts       October 2006. http://bit.ly/HwIgrn     9.
+H. Schellnhuber et al.
+(2006) (eds) Avoiding Dangerous         Climate Change (Cambridge University Press) http://bit.ly/1aPDEHi     10.
+Sarah Lavery (TE2100 Project Manager), Environment Agency,       Thames Estuary 2100-       http://www.gre.ac.uk/__data/assets/pdf_file/0004/473782/Sarah-Lavery_TE2100-pdf.pdf     11.
+Ministers plan new Thames barrier as flood risk rises,       Independent, 27 August 2007       http://ind.pn/1dZGpbY     12.
+Thames Barrier to hold until 2070, BBC News, 31 March 2009       http://news.bbc.co.uk/1/hi/england/london/7973623.stm     13.
+New Thames Barrier delayed for 40 years, London Evening       Standard, 31 March 2009       http://www.standard.co.uk/news/new-thames-barrier-delayed-for-40-years-6932789.html     14.
+No need to replace Thames Barrier says former manager, New       Civil Engineer, 21 Feb 2013       http://bit.ly/1iB78JJ     15. i-STORM: International network for storm surge barriers https://www.i-storm.org/

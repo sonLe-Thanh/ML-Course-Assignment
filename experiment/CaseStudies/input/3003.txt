@@ -1,0 +1,28 @@
+     Context     The fourteen AGR and the one Magnox reactors produce about 18% [A] of the       UK electricity.
+The graphite cores of these reactors provide channels for       fuel cooling and control rod entry.
+During reactor operation irradiation       damage and radiolytic oxidation changes the dimensions and properties of       the approximately 1700 tonnes of graphite components that make up a single       typical graphite reactor core.
+These changes can challenge the structural       integrity of the core.
+However, the irradiated graphite database for these       reactors is incomplete and the mechanisms driving the structural and       property changes are not well understood.
+Therefore, the reactor licensees       are required to make safety cases for continued operation of reactors       every three years.
+Pathways to Impact     The Office for Nuclear Regulation (ONR) encouraged the establishment of       the Nuclear Graphite Research Group (NGRG) in 2001 to supply independent       research and advice on the structural integrity of nuclear graphite       reactor core components.
+The ONR also encouraged and enabled the NGRG to       gear up their funding by obtaining research funding in other related areas       from industry, the EU and EPSRC.
+The codes, data, and statistical models developed by NGRG are made       available and have been adopted by the licensees operating nuclear power       reactors.
+In addition, the NGRG has made available the experimental       techniques and medium-scale facilities to industry.
+This has informed the       licensees' research output and experimental planning for life extension.
+The ONR seeks independent advice and research from the NGRG at the       University of Manchester to enable them to assess the graphite core safety       cases.
+NGRG's reputation has enabled it to become as a major partner within       international sponsored programmes on the development of inherently safe       High Temperature Gas-cooled Reactor technology and the development of       methodologies for dealing with the ~200,000 tonnes of irradiated nuclear       graphite waste which exists worldwide.
+Reach and Significance of the Impact     During the impact period NGRG has produced 25 reports for the HSE, IAEA       and others [C]; 15 GTAC technical reports for ONR [D], published papers in       leading journals, and attended and made presentations at both national and       international conferences and meetings, including IAEA co-ordinated       research programmes (see above).
+Members of the NGRG also attended over       forty official licensee/ONR meetings [E] to offer advice and critical       input.
+Significant advances in computational power have enabled development of       sophisticated numerical models and data analysis techniques for single       components through to whole cores [1, 2, 6].
+This is key to interrogating       safety cases for reactors as experimental data on whole components and       reactors under operating conditions through life is impossible to obtain:     The advice given by the NGRG ensured that Oldbury continued safe       operation for 44 years, until 2012.
+"Both of the site's reactors were       scheduled to close at the end of 2008, and since that time the site has       generated an additional 7 terawatt hours (TWh) of electricity, worth an       estimated &#163;300 million to the taxpayer.
+The extra generation has also       saved around six million tonnes of carbon from being released into the       atmosphere."
+(Oldbury News 21.10.2011)     On current figures, the operating value of a reactor is approximately       &#163;0.5m per day.
+Therefore, to extend the life of the operating fleet has a       value of approximately &#163;2.5bn per year to the licensees [F].
+This clearly       has a significant impact in reduced electricity prices.
+EDF have       identified the benefits to UK plc of plant life extension of the nuclear       generation fleet [G].
+This includes            Avoiding 30 million tonnes of CO2 every year which over the         7 year life extension is equivalent to removing all cars from UK roads         for 5 years       Annual spend in the supply chain of &#163;650m pa of which 90% is in the UK       Partnership with specialist suppliers employing 2000 staff on average         and 6000 at the peak of the extension programme          Having provided the data on which the life of the Oldbury power station       was extended, the decision that safety considerations now determined that       the station should cease operation was taken in consultation with the NGRG       [H], hence minimising the risk of accidents and associated economic and       societal consequences.
+On the decommissioning side the NGRG is a major partner in the EU       CARBOWASTE FP-7 programme involving 28 partners from the EU and elsewhere.
+This is a &#163;12m programme set up to investigate methods and provide       international recommendations for dealing with irradiated graphite waste.
+The value associated with reducing the designation of graphite waste from       Intermediate Level to Low Level is significant [I].
+The impact of the research is such that the ONR has established a Chair,       Lectureship and Research Fellowship at the University of Manchester.

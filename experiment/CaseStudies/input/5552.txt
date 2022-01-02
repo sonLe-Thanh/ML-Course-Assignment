@@ -1,0 +1,45 @@
+     How the research led to the impact     The National Bank of Poland (NBP) began its interest in the forecasting       methodology developed by       Charemza and Makarova after the research seminar held in 2003       mentioned above, where       Charemza presented their initial results.
+The seminar was followed       by meetings with the Governor       of NBP and the Deputy Governor.
+As a result of these meetings, Charemza       (and later Makarova)       continued the development of the MPI working part-time at NBP.
+The method of (and potential benefits from) making monetary policy       decision according to the       indications given by the MPI were presented and discussed in a series of       internal workshops at       NBP.
+In June 2006, the first pilot application of the index was published       in an internal bulletin of       NBP under the title of `Krotkookresowa prognoza inflacji i ocena klimatu       decyzyjnego' (Short-term       inflation forecast and the evaluation of the monetary policy climate).
+Since then, the bulletin has been regularly produced on a monthly basis.
+It is delivered to the       members of the Monetary Policy Council one week before their monthly       meetings.
+A typical issue       of the bulletin would report both systematic forecasts (updated every       month) and occasional       information relevant for the special circumstances of each period.
+An important feature of the Bulletin is its timeliness.
+The most relevant       information used for       updating the forecast is the consumers' price index (CPI).
+This is       published by the Polish Central       Statistical Office three or four days before the so-called working meeting       of the Monetary Policy       Council.
+When Charemza was at NBP, the preliminary version of the       forecast was usually       produced within 2-3 hours after the CPI figure was released.
+The       preliminary version of the bulletin       was available about 6 hours after the release for scrutiny by the Director       of the Macroeconomic       Research Bureau of NBP.
+The final version of the bulletin was usually       ready for delivery to the       Council less than 24 hours after the release of the CPI figure.
+In other       words, its cut-off date (i.e.
+the moment after which new statistical data could not be included in the       forecast) was just 24 hours       prior to its publication date.
+By comparison, the usual cut-off date for       other forecasts produced at       NBP, based on quarterly rather than monthly data (ECMOD forecast), was       three weeks.
+In March 2008, Charemza's and Makarova's secondments ended and they left       NBP.
+However,       they retained control over the bulletin until September 2009.
+Overall they       produced 37 regular       issues of the bulletin.
+Before leaving the NBP, they provided training and       consultation to the team       of NBP researchers which took over the bulletin in September 2009.
+The       bulletin is still delivered to       the Monetary Policy Board on a monthly basis.
+Evidence of the impact     Due to the confidential nature of the bulletin (and of the computer       program used to calculate the       MPI), it is difficult to provide written evidence of the computational       details.
+However, permission to       release a sample bulletin for the purpose of REF evaluation has been       granted ([Source 1]).
+The former Deputy Governor of National Bank of Poland is the person who       actually engaged       Charemza in the project.
+He participated in the Monetary Policy       Council meetings in his capacity of       the Deputy Governor.
+He said: "One of the main duties of Prof Charemza was       to prepare a monthly       forecasting bulletin, containing probabilistic forecast of inflation and       evaluation of index of monetary       policy climate, which identifies appropriate timing for undertaking policy       decisions.
+The       methodology of this index as well as concepts used for the probabilistic       forecasting had been       developed by Professor Charemza in collaboration with Dr Svetlana       Makarova, also employed by       the NBP at that time.
+It is my understanding that the methodology was       original and described in       academic paper authored by Charemza and Makarova.
+(...) the bulletin         was considered as one         of the main auxiliary information used by the members of the Monetary         Policy Council, who         often commented favourably on its quality and original content."
+See [Source 2].
+A former member of the Monetary Policy Council of Poland and currently       Director of the Institute of       Economics at the National Bank of Poland was one of the final recipients       of the bulletin, as the       voting member of the Monetary Policy Council.
+He said: "In the period from       2004 - 2010 I was a       member of the Monetary Policy Council of the National Bank of Poland,       responsible for conducting       monetary policy... Information given in the bulletin helped me (and         most likely my colleagues         in the Council as well) in undertaking monetary policy decisions.
+Since 2010 I have been       acting as the Director of the Economic Institute of the National Bank of       Poland.
+I can confirm that         some methods developed by Wojciech Charemza are still in use and         contribute to the         forecasting analysis made by the Institute for the benefit of the         Monetary Policy Council.
+Most notably the indicator of monetary policy climate has been       re-programmed and is now       included in the currently produced bulletins."
+See [Source 3].
+The former Director of the Research Department of the National Bank of       Poland is currently       Deputy Director of the Institute of Economics of the National Bank of       Poland.
+He was responsible       for the scrutinising the bulletin, supervising its production and       delivering it to the Monetary Policy       Board.
+He said: "The monetary policy conducted by the National Bank of       Poland in the period of       2005-2008 is generally regarded as being successful.
+In particular Poland       was the only country in       European Union which avoided negative growth in 2009 and maintained       positive growth record       throughout.
+Also its inflation, albeit occasionally breaching the target       bands, was never greater       than 5% in this period.
+This is, to a large extent, attributed to the       effective monetary policy.
+Overall,         I can conclude that the forecasting methodology developed by Professor         Charemza and his         collaborators contributed significantly to the enhancement of the         analytical and forecasting         tools used at the National Bank of Poland."
+See [Source 4].

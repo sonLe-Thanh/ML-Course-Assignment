@@ -1,0 +1,34 @@
+     Process/Events from Research to Impact:     Hayward created the start-up company Alba Ultrasound in 2000, to pursue       the commercial application of his research.
+From 2000 - 2005 the main       focus of the company was to design and manufacture the sonar array suite       for the UK mine hunting fleet, [text removed for publication].
+This system       was the world's first ever wideband sonar capable of performing location,       identification and classification from a single system.
+Each sonar array       comprises many, sometimes thousands, of individual transducer elements,       arranged so that the sound beam can be moved around under control of the       electronics in the sonar unit.
+Moving the sonar beam this way enables       images of the underwater scene to be developed in real time.
+It was       acclaimed as the best sonar system in the world (Defence Preview, April       2004).
+The initial research was not only instrumental in establishing Alba's       commercial relationship [text removed for publication], but has continued       to contribute to the growth of the company.
+The collaboration between the       company and the University of Strathclyde continued after 2000 through a       KTP programme, collaborative grants and key scientific outputs (Source A).
+The recent expansion of the company also has its roots in the success of       this long-term partnership.
+The Managing Director of Alba Ultrasound has       noted that `The basic research at Strathclyde has been a key element in         the uptake of piezocomposite technology and this is widely recognised by         the worldwide community' (Source B).
+The research undertaken at the       University of Strathclyde has generated a platform of design tools and       critical understanding to enable Alba to develop its range of world       leading wide bandwidth sonar arrays.
+During 2005 - 2008, the research       conducted by Hayward and CUE produced ground-breaking innovations in the       company's product range which helped to realise a range of       sensitivity-bandwidth properties which were previously unachievable.
+Types of Impact     Expansion of Alba Ultrasound Ltd: Since 2008, Alba has undergone a       significant expansion in business, primarily associated with       diversification into commercial sonar markets, including underwater       surveying, sea bed mapping, intruder detection systems and guidance of       underwater vehicles.
+[text removed for publication]     In 2009, the company moved into new state-of-the-art customised premises       in the North of Glasgow, which provided the environment to enable a step       change in the production output.
+Subsequently, turnover has increased       almost linearly from &#163;0.75M in 2007 to &#163;3.8M by the end of June 2013 and       the business is growing rapidly, with an employee count of 45 in June 2013 - an increase of 200% from the start of 2008.
+The collaboration with the       Centre for Ultrasonic Engineering has provided a conduit for 4 highly       skilled researchers into Alba in both project management and senior       engineer roles.
+Sales and exports: Alba's key differentiator in the transducer       manufacturing sector is the design of bespoke array transducers to match       the wide range of applications associated with their worldwide customer       base.
+Approximately 70% of Alba's products were exported in 2012.
+By July       2013 in the region of 15% of the company's sales were in the       military/naval sector, and the remaining 85% of sales to other commercial       sonar manufacturing companies.
+The company has strategic, long term       relationships with a range of clients [text removed for publication].
+Improved and innovative products: Sonar systems incorporating       Alba's wideband array products enable higher resolution images to be       realised which contribute to improved understanding of marine       environments.
+Alba incorporated the outcomes of fundamental research       undertaken at Strathclyde into their design process leading to products       that are able to operate efficiently across extended bandwidths from a       single device.
+This has revolutionised the mode of operation for sonar       systems, as not only can a single device be driven at high power for       enhanced propagation distances, but the ability to control the drive       frequency provides the capability of switching from object detection (use       of low frequencies, with low resolution) to object classification (using       the higher resolution afforded by the smaller wavelengths associated with       high frequency wave propagation).
+The application of advanced coded       excitation waveforms within these sonar systems was a consequence of the       uniform transducer behaviour achieved over extended bandwidths which, in       turn, permitted the implementation of advanced signal and image processing       techniques.
+The company received the Queen's Award for Innovation in 2012       (Source D).
+Alba Ultrasound manufactures high end, bespoke transducer array products       for the following applications; side scan and bathymetric sonar, mine       hunting, high frequency imaging, intruder detection, autonomous underwater       vehicles, remotely operated vehicles and hull mounted sonar systems       (Source E).
+The clients who purchase Alba's arrays are companies who in       turn manufacture the electronics and display systems for the complete       sonar product, which is then sold on to the end-users.
+Each Alba 'product'       is tailored to the requirements of an individual client and its particular       sonar system.
+Contribution to the commercial success of other companies: The       research conducted in collaboration with the University of Strathclyde       during 2008-13 has directly led to a range of Alba products which have had       a beneficial effect on the global sonar market.
+In addition to the mine       hunting arrays, Alba products [text removed for publication]...enabling       underwater tasks to be carried out more safely and with minimal damage to       the affected areas (Source G).
+This is achieved through the provision of       highly detailed images in sub-sea surveying which permits more accurate       classification of structures such as shipwrecks, harbour installations and       pipelines.
+[text removed for publication]     Minimising negative impact on marine environment: The advanced       sonar imaging systems deployed by various commercial and military       operators have been made possible by the research-based Alba products.
+Alba's transducer arrays are designed to operate well above the acoustic       frequency range of Cetacean species, including whales and dolphins.
+The       company has conducted in-house testing which has shown the effects of its       sonar on marine mammals to be minimal.

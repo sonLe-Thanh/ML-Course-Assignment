@@ -1,0 +1,22 @@
+     Fraud is a serious and long-term threat to a peaceful and democratic       society.
+A recent Europol       (2012) report (source 1) estimates that payment card fraud brings       organized crime groups in the       EU an income of around &#8364;1.5B.
+Businesses use a range of methods to detect       this, mostly based       around the usage of an automated rules-based Fraud Management System       (FMS).
+However, the       generation of these rules is an expensive and time consuming task, and       fails to address the fraud       problem where the data and relationships change with time.
+The latter is       typically the case, as       credit card fraud is a highly organized crime with strategies being       steadily adapted as criminals       discover which forms of fraudulent transaction are being detected.
+The AI Corporation, based in Guildford, Surrey is a leading provider of       rule-based FMSs.
+AI       Corporation works with major banking and retail customers around the       world, who together       process more than 20 billion payment card transactions a year.
+Indeed in       the UK alone AI       customers process 95% of acquiring card transactions.
+It was founded in       1998, but since that time       the core technology that underpins its products has remained essentially       unchanged.
+Consequently, by late 2012 its once rapid growth as a company had       stagnated and there had been       virtually no investment in new products or technology.
+The AI Corporation was acquired at the beginning of 2013 by a team of       investors who saw the       growth potential of the company should finance be made available to update       its products and       services.
+The Department of Computing's research on payment card fraud       detection is a central       part of the new management's product roadmap.
+The core IP for a product       based on this research       lay with a spinout of the Department, Thoughtified.
+Consequently, the team       of investors agreed to       fund the acquisition of Thoughtified by AI Corporation in order to provide       the latter with       Thoughtified's capability in predictive analytics and visualization of big       data to productise the       Department of Computing's research in the automated detection of credit       card fraud.
+This was       phase II of the strategy to revitalize AI Corporation.
+This strategic       relationship with the Department       of Computing through Thoughtified was an important part of the investor's       original acquisition       decision.
+We have also seen a significant upturn in AI Corp's business as a result       of this work.
+As of July       2013 a &#163;970k contract had been placed with AI Corporation by Shell UK for       the new product.
+Further contracts are in an advanced state of negotiation with: Global       Payments Inc (est.
+&#163;500k);       Barclays Bank (est.
+&#163;250k); First Rand Bank (est.
+&#163;100k).

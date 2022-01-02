@@ -1,0 +1,40 @@
+     4.1.
+Clinical applications     Neurological diseases such as MND or Parkinson's Disease can result in       deterioration in speech production due to a loss of coordination and       control of the speech articulators.
+It is currently estimated that 170       people per 100,000 are affected by dysarthria (speech motor disorder);       about 5,000 people in the UK have MND, with 2 people per 100,000 newly       diagnosed each year.
+People with such speech disorders lose not only a       means of communication, but also vocal expression of individual and social       identity.
+A number of Augmentative and Alternative Communication       (AAC) devices are now available to enable people with such conditions to       communicate by speech, for example using eye-tracking interfaces.
+However       these devices come with a very limited range of synthetic voices:       sometimes users do not even have a choice of male or female voice, let       alone a voice with their accent and speech characteristics.
+In conjunction with MNDA Scotland, we have developed a "voice banking"       service containing recordings of several hundred speakers from across       Scotland.
+The main aim of this is to enable accent-specific average voices       to be constructed which can then be better adapted to the target speaker,       but it also means that donors will have an `insurance policy' should they       ever require a personalised synthetic voice.
+Voices banked include the       First Minister of Scotland, and many other MSPs (corroboration: [C], [D]).
+Our research in personalised speech synthesis and voice reconstruction       has resulted in a collaboration with the Euan MacDonald Centre for MND       Research at Edinburgh.
+The Euan MacDonald Centre was established in       Edinburgh, in 2007, by the generosity of MND patient Euan MacDonald and       his father, Donald.
+Initially we carried out a pilot study with Euan       MacDonald for whom just three minutes of (disordered) speech was       available.
+We were able to reconstruct a personalised synthetic voice,       which is installed on his eye-tracking based AAC device and is in daily       use.
+Euan MacDonald campaigns on behalf of the disabled [B] writing that       "I feel that a person's voice is one of the most personal things that they       possess and the Voicebank project is another project that I feel       passionately about.''
+[C].
+Since then, in an extended trial, we have successfully provided ten       patients with a reconstructed voice that they use via an       internet-connected device (e.g.
+iPad).
+Current trials involve a prototype       user interface in which everything runs locally.
+This work has had       considerable media coverage, for example a special feature in the prime       time (9% audience share) Japanese programme "Close-Up Gendai"       (corroboration: [F]).
+The work is being extended into a clinical trial       phase supported by an MRC Confidence in Concept award, and funding from       the charity MNDA.
+The recently opened Anne Rowling Clinic (founded by donations from J.K.       Rowling) will have a recording facility specialized for voice banking       purposes, and incorporated into the design as a direct result of our voice       banking and reconstruction research (corroboration: [E]).
+4.2.
+Commercial take-up     Since 2008, the Combilex multi-accent lexicon has been commercially       licensed to ten companies and organisations in seven countries.
+These are       MModal in the USA; IVO Software in Poland; Phonetic Arts in the UK;       Toshiba Research Europe in the UK; Illumina Digital in the UK; the       University of Alberta in Canada; NICT in Japan; Amazon in the USA; Google       in Ireland; Samsung Beijing R&amp;D in China.
+In addition to these a       further five evaluation licenses have been acquired, resulting in revenue       of &#163;31,000.
+Following an initial exploratory consultancy contract with the University       (2011), Orange / France Telecom (UK) Ltd initiated a Knowledge Transfer       Partnership (2012-13) whose aim is to improve automatic voice building       through development/integration of novel automatic speech recognition       techniques and build commercial-grade systems for bringing personalised       speech technology to Orange customers.
+Building on this Orange / France       Telecom recently funded custom development of Swahili accent English TTS       voices and Kiswahili (Swahili Language) TTS for trials with customers in       Kenya.
+SMEs have also been developed based on the research produced at       Edinburgh.
+Paul Taylor founded Phonetic Arts in 2007; building on the       concatenative synthesis structures he developed while a lecturer in       Edinburgh (1997-2001).
+The 15-person company specialised in the       development of high-quality speech synthesis for computer game       applications and were acquired by Google in December 2010 for an       undisclosed amount (corroboration: [A], [H]).
+4.3.
+Community of users     We have developed a broad and diverse community of users through the       release of software toolkits and synthetic voice libraries.
+We are the coordinating site for the open-source speech synthesis       toolkit, Festival and the associated Edinburgh Speech Tools package.
+Festival is distributed as default in a number of standard Linux       distributions including Arch Linux, Fedora, CentOS, RHEL, Scientific       Linux, Debian, Ubuntu, openSUSE, Mandriva, Mageia and Slackware, and can       easily be installed on any Linux distribution that supports apt-get.
+More       recently our work on statistical parametric speech synthesis and the       algorithms for adaptation have been incorporated in the HTS toolkit (one       of the coordinators (Yamagishi) is from Edinburgh), which integrates with       Festival.
+These toolkits are the most used open-source speech synthesis       systems (Corroboration: [G]).
+These open-source toolkits have also formed       the high performing baseline systems for the international Blizzard       evaluation of (commercial and research) speech synthesis also organised by       Edinburgh.
+Although our core speech synthesis software is open source, we licence a       specifically-produced high quality synthetic voice library separately       (e.g., http://licensing.research-innovation.
+ed.ac.uk/2948), free for non-commercial research usage.
+Between December 2010 and July 2013 it was licensed to 162 researchers       from a variety of organisations in 25 countries.

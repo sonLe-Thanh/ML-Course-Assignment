@@ -1,0 +1,30 @@
+     Seagate Technology has two sites for development and manufacture of       read/write heads (the micro-scale component that reads and writes       information to a hard disk), Bloomington, Minnesota, USA and Springtown       (Derry), Northern Ireland.
+The relentless demand for increased storage       density exceeds 20% compound annual growth rate at the same cost/bit: the       read/write head is central to delivering the performance gains required.
+There is also a recognition that advances in existing materials and       concepts used in the heads were becoming increasingly incremental.
+There       was corporate realisation of the need to explore new materials, ideas and       fabrication methodologies.
+To this end in 2007-09 Seagate Technology       commenced restructuring of R&amp;D activities in tandem with closure of       corporate R&amp;D in Pittsburgh, USA.
+To be competitive for corporate investment for these new technologies       required a set of competences that went significantly beyond that of the       R&amp;D activity constituted at Springtown in 2009 and the risk that       investment would be made elsewhere was held by the regional development       agency, Invest NI "... our initial concern that the investment would         be made in USA rather than Northern Ireland."
+[Source 1].
+Further, to also address the upcoming paradigm shift of heat assisted       magnetic recording (HAMR) whereby a read/write head would integrate a       light delivery system to deliver heat to a localised spot on the disk       which would necessitate additional expertise in plasmonic design and       realisation beyond that of their own early concepts (see W. Challener et       al, Nature Photonics 3, 220 (2009)       http://dx.doi.org/10.1038/nphoton.2009.26).
+In undertaking the development of the investment business case for the       expansion of their R&amp;D activities at Springtown, Seagate Technology       developed a strategy that would see the Springtown team focus on       Technology Readiness Levels (TRL) 5-9 while simultaneously identifying       supporting collaborative basic research in the University [Source 2]       founded on an open innovation model.
+Following horizon scanning by Seagate Springtown, a due-diligence       exercise evaluated our research competence as the suitable supporting       element to their strategy [Source 3].
+Research that made material       contribution to the exercise was [Source 2]:            "A capability to undertake physical creation, examination and           measurements on ferroic materials on a sub 100nm dimension       The ability to create novel ferroic and photonic architectures that           embody integration of traditional deposition methods such as vapor           deposition and electro-deposition and new the nanotechnologies such as           template growth and self-assembly.
+The fabrication of nanoscale plasmonic elements in geometry and           integration akin to that envisaged for medium term realization of           HAMR.
+The ability to undertake plasmonic design, tailored to preliminary           HAMR needs and realization."
+The importance of our role in the Seagate investment case was recognised       by Invest NI as "... a key factor in moving the discussion forward and         ultimately enabling the investment to be made in Northern Ireland.
+Attracting such a large corporate investment to Northern Ireland has had         a hugely positive economic impact in the region.".
+[Source 1].
+Management at Seagate Springtown developed their investment business case       that secured corporate mandate for the &#163;60M investment package to grow the       R&amp;D function, in support of the areas outlined above, by 85 persons       and announced in January 2010 [Source 4].
+Subsequently, in June       2010, a further strand of the business case was an additional investment       of around &#163;9M (capital and recurrent) by Seagate to a new open innovation       hub at CNM called ANSIN working in TRL 1-4 [Source 5].
+This is       their first such venture globally.
+The consequences of this impact have been marked.
+With the creation of       the R&amp;D posts at Springtown, by 2013 the site undertakes 40% of the       corporate R&amp;D for read/write heads, a proportion significantly greater       than in 2008, and has responsibility for recording heads in notebook       products [Source 2].
+To describe the reach and significance of this impact, Seagate Technology       is the world-leading provider of data storage devices.
+They have the       broadest product offering in the industry with the largest customer base,       and focus on the vertical integration of the critical technologies:       read/write heads and recording media.
+Seagate has a market capitalisation       of $13B and 53,000 employees worldwide.
+It has some 43% of the storage       device market and revenues of $10-12B p.a.
+(Q2 FY13: 57M drives shipped;       revenue of $3.7B).
+Of Seagate's two sites for the development and manufacture of the       read/write heads, Springtown has a dominant role in manufacture.
+The       operation employs around 1350 staff, with 200 OEM staff on-site, and       manufactures some 300-400M read/write heads p.a., supplying 75% of       Seagate's needs (equating to some 25-30% of the global supply).
+The site       contributes some &#163;100M p.a.
+Gross Value Add (GVA) to the UK economy.

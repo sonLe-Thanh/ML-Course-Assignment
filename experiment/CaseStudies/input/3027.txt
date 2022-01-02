@@ -1,0 +1,25 @@
+     Research in atomic and molecular physics at Manchester requires       state-of-the-art instrumentation       for the study of atoms and molecules by electron spectroscopy.
+This       requires accurate knowledge       of the behaviour of electrons and ions in the electrostatic and magnetic       fields of the       instrumentation.
+Consequently, a software package (CPO) was developed to       model this behaviour       precisely.
+Analytical instruments using charged-particle optics are also       widely used in industry.
+These instruments also need to have the highest performance for the       increasingly demanding       requirements of customers.
+Consequently, a spin-off company was formed to       make CPO available       to manufacturers of scientific instruments and other users of electron       optics.
+This company, called       Charged Particle Optics Ltd, was started by two staff from the School of       Physics and Astronomy       (Read &amp; Bowring).
+The principle advantage of CPO for customers is that it is one or two       orders of magnitude more       accurate than conventional finite element or finite difference methods.
+This has been demonstrated       by more than 200 benchmark tests that are based on problems that have well       known analytical       solutions.
+These benchmark tests are readily available to prospective       customers, [A] and these       tests have established CPO as the gold standard of charged particle       optics.
+This superior accuracy       provides, for example, enhanced mass resolution in a mass spectrometer       [text removed for       publication].
+Other important advantages are that CPO can easily deal with       electrodes of any       shape and of very different sizes, such as nano-sized electrodes in       centimetre-sized systems, and       because CPO is a charge-based method, it can deal with systems that       include space charge       and/or cathodes.
+These are of crucial importance to manufactures of high       throughput analysis       tools, [text removed for publication] .
+Moreover, a manufacturer can use       CPO to develop and test       designs for new products before any metal is machined, saving them       considerable time and cost       [text removed for publication].
+CPO has been sold [text removed for publication].
+Illustrative Examples of Impact     (i) [text removed for publication].
+(ii) [text removed for publication]     (iii) At the Jet Propulsion Laboratory (JPL), California, CPO was used to       simulate the electron       ionizer in the prototype of a gas chromatographic mass spectrometer system       that was later flown       as a flight version to the International Space Station (ISS).
+The purpose       of this instrument is to       monitor the concentration &#8212; at the parts-per-million to parts-per-billion       levels &#8212; of trace, toxic       chemical species in the ISS cabin atmosphere.
+Species include acetone,       ethanol, aldehydes,       ketones, benzene, and perfluoropropane.
+The unit also monitors the major       constituent species N2,       O2, CO2, and Ar.
+Both types of measurements are       needed to assure astronaut safety in the cabin.
+All data are processed on-board by the instrument, and as well transmitted       to JPL for further       analysis and archiving.
+The full space-charge capability of CPO was       especially important to the       design and testing of the electron ionizer of the mass spectrometer.
+[text       removed for publication]       The instrument was used successfully for two years aboard the Space       Station, and was recently       returned to Earth for refurbishment [text removed for publication].
+Summary of Economic Impact     [text removed for publication]

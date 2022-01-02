@@ -1,0 +1,28 @@
+     The V5 tag and antibody system has become an integral part of the       molecular and cellular       biologist's toolkit in industrial, healthcare and commercial laboratories.
+From 01/01/2008 to       31/07/2013, the impact of the underpinning research can be seen in       economic terms (&gt;&#163;600k total       sales with &#163;298k in Royalties to St Andrews), commercial R&amp;D (&gt;110       patents issued making use       of the technology) and public health (new vaccines for emerging       multiply-drug resistant bacteria).
+Direct economic impact       The V5-tag and anti-V5 antibody were developed for research purposes in       the Randall laboratory       in the mid-1990s.
+The excellent specificity and utility of this antibody       meant that it was soon in high       demand in the research community.
+In 1995, a royalty agreement was made       between the       University of St Andrews and the US company, Adb Serotec, under which the       Randall lab would       provide Serotec with the purified anti-V5 antibody in return for 50%       royalties from sales.
+AbD       serotec also produces a variety of directly conjugated antibodies for       which the University receives       40% royalties.
+A subsequent deal with Invitrogen (1996) resulted in that       company marketing a       variety of V5 antibodies along with an extensive range of vectors to add       the V5 tag to proteins.
+Serotec now purify the antibody directly and supply to Invitrogen under       this agreement.
+Direct       sales of the V5 antibody and related products covered by the Royalty       agreement amount to &#163;298k       for 2008- 03/2013 [S3].
+According to the Senior Vice President of       the company, the V5       monoclonals are "one of (Serotec's) most successful products ... sold         to a large variety of life         science based companies."
+[S1]     Broader impacts on non-academic R&amp;D     Invitrogen is part of Life Technologies Corporation, a company valued at       $13.6 billion in its       takeover by Thermo Fisher Scientific in April 2013 [S4].
+The       importance of the V5 tag/antibody       technology to Invitrogen is evidenced by the fact that the company has       developed over 100       products making use of the technology in their highly successful TOPO and       Gateway cloning       vectors [S5].
+These are marketed and sold to a wide range of       commercial as well as academic       laboratories.
+The secondary impacts arising from the use of the V5 antibody in       non-academic research are more       difficult to qualify in absolute terms but there is clear evidence of the       reach and significance of the       V5-antibody in these non-academic spheres:     800 patent applications filed and over 110 patents issued in the period       2008-July 2013 made       explicit use of the V5-epitope for the science underpinning the patent [S6].
+Examples from patents       issued in 2012-13 include:            the inhibition of virus infection (patent US8263570)       molecular markers for characterization of human         cancer states (patent US8268568)       engineered organisms with enhanced fermentation         activity to improve chemical product yields (patent         US8114974)       treatment of cancer with novel monoclonal antibodies         (patent US8318160)       therapeutic treatments for Alzheimer's disease (patent         US8398981)      	      Example of an Invitrogen product using V5 technology       	 Vaccine Research     The development of vaccination is one of the biggest public health       successes of the past 100       years.
+New vaccines are required urgently to treat emerging and newly drug       resistant diseases.
+The V5 tag and antibody "have been invaluable tools in the development         of subunit vaccines         against HIV-1 and TB (tuberculosis)" [S2].
+A vaccine against       tuberculosis, developed using the V5       tag, is currently undergoing phase IIb clinical efficacy trials in South       Africa.
+The vaccine, MVA85A,       has already been shown to be "safe and well tolerated" [S7].
+This is the first of a new generation of       vaccines against TB and has already completed 15 clinical trials (the       current vaccine, BCG, is not       100% effective and TB causes an estimated 1.4 million deaths a year       according to the WHO).
+Diagnostics &#8212; advantages of the V5 tag over alternatives     West Nile virus is a serious emerging disease and rapid new diagnostic       methods are needed       urgently.
+The virus can cause fatal neurological disease, but 80% of       infected humans don't show       any symptoms [S8].
+Therefore it is important to develop methods to       detect the virus in blood       samples.
+In 2011 a new diagnostic reagent based on the prM antigen was       reported, which is       suitable for the detection of antibodies against West Nile virus in serum       samples.
+This requires       expression of the prM antigen in tagged form so that it can be       immobilised.
+Use of a polyhistidine       tag "disrupted" the protein so that it was not useful as a       diagnostic antigen.
+Use of the V5-tag       however "allowed formation of the authentic antigenic structure and the         proper presentation of the         V5 epitope", allowing the development of a "useful diagnostic         agent" [S9].
+Thus, although a variety       of tags are available, the V5 tag has clear advantages in some       circumstances.

@@ -1,0 +1,28 @@
+     Nearly all solid medicines like tablets and capsules contain drugs in       crystalline form; and all crystals have the potential to `morph' into not       one but many alternative forms.
+The likelihood of the crystals actually       changing and becoming a danger to patients is very small but it can and       does happen, with catastrophic consequences.
+In 1988, a clinical failure of Tegretol (carbamazepine) tablets, the       anticonvulsant widely used with epilepsy, was observed.
+It was believed to       be caused by a phase conversion from the anhydrate to dehydrate form.
+In       1998 Abbott Laboratories withdrew Norvir (ritonavir), essential at that       time in the treatment of HIV/AIDS, because the capsules unexpectedly       failed dissolution tests.
+The public were without an essential drug while       researchers investigated.
+They finally identified that the drug crystals       had changed into a more stable, less soluble polymorph which contaminated       laboratories and effectively halted production processes.
+They had to       completely reformulate the drug and develop a new capsule product.
+The       case cost Abbott hundreds of millions of dollars and over 600 scientists       working for nearly a year to resolve the issue.
+The estimated loss in       sales in 1998 alone is $250m.
+Pfizer experienced similar problems with two drugs in development and       concluded that a deeper scientific knowledge of polymorphism was an       emerging need in the pharmaceutical industry.
+The consequences were       typically catastrophic, hard to predict, clinically and economically       unacceptable, and damaging to patients' trust in the company to produce       the quality products they relied on.
+Pfizer identified internal and external drivers for the need to       understand polymorphism on a more scientifically rigorous basis.
+These       drivers included:            emphasis on the chemical rather than physical attributes of drugs and         excipients;       the instrumentation used to characterise polymorphism was relatively         simplistic and unable to predict the potential for phase transition;       the existing protocols to test physical performance required large         quantities of expensive pure solid drug, and occurred too late in the         development process to stimulate the re-engineering of defective         crystalline drug forms;       an industry-wide drive for more rapid drug development and clinical         testing.
+Pfizer turned to the University of Greenwich to develop the scientific       methodology to:            produce small quantities of highly purified drug crystals, alone and         in drug product matrices, from side streams of conventional pilot         batches;       use the pure drugs to develop tests on single crystals, a process         which is much cheaper and can be performed at the start rather than end         of the drug development process;       develop tests that could predict polymorph instability and how they         behave during manufacture, and in turn allow the engineering and         understanding of new solid-state forms for development.
+Since 2008 Pfizer has been able to apply the resulting methodologies,       systematically to the development of crystalline APIs for use in solid       oral and inhalation dosage forms.
+The company has also applied them to       understand the risk for products licensed from other companies not using       this scientific paradigm.
+Pfizer has invested &#163;2.4m in the university to       date.
+The programme has resulted in critical technology and human resource       transfer to the company as well as 27 refereed publications.
+To date 24       researchers have progressed through the scheme; 40% have taken up posts       within Pfizer and 42% with other leading pharmaceutical companies.
+The larger impacts are that Pfizer has vastly reduced the risk of       polymorphism in its drugs, increasing the confidence of patients and       health professionals.
+Examples of what might have happened without the       university's pioneering research abound, for instance to UCB with       Parkinson's disease drug rotigotine.
+Filed in 2003 as a drug that did not       exhibit polymorphism, rotigotine was delivered through Neupro skin patches       and many patients experienced an improved quality of life.
+In 2008,       dendritic structures were observed: a new form polymorph had crystallised       which reduced the patches' efficacy.
+The product was withdrawn in the US       in 2008 and did not return to the market until 2012.
+Similarly, in 2010       BMS withdrew 64 million Avalide tablets (hydrochlorthiazide and       irbesartan) over concerns that irbesartan crystals had converted to a less       soluble polymorph.
+Avalide sales were calculated to be $310 million in the       first nine months of 2010.
+Pfizer is able to safeguard its patients and       avoid the cost associated with recalls and the redevelopment and relaunch       of clinically essential products.

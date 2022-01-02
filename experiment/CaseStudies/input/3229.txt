@@ -1,0 +1,39 @@
+     The research described in section 2 has led to widespread benefits to         patients and healthcare providers, along with the adoption of a new ISO         standard for electronic health records.
+Healthcare providers in       south-east England have adopted a new anticoagulation management         technology, which is unique in the UK [a].
+This has been       commercialised by the new UCL spinout company Helicon Health.
+The success of the Helicon Heart stroke prevention service is crucially       enabled by distributed teams of clinicians having access to a shared and       medico-legally robust EHR for every patient, which meets all of the       requirements, standards and architectural features summarised in Section       2.
+Helicon Heart tailors UCL's complete ISO EN 13606 conformant EHR       implementation specifically to cardiovascular shared care.
+It incorporates       a care plan for patients at risk, especially those needing preventive       anticoagulation treatment, and provides computerised decision support to       ensure that care is optimally managed.
+The use of Helicon's stroke prevention and anticoagulation management       system is important because each patient has a narrow and unique safe       dosage window, subject to variation over time, which can be influenced by       lifestyle changes, other medications and certain foods; it therefore       requires regular blood test monitoring (every few weeks) and careful dose       adjustments.
+Both too high and too low a level of anticoagulation can lead       to serious or fatal haemorrhages, or stroke.
+Anticoagulants are one of the       three classes of drugs most commonly associated with fatal medication       errors in the UK, and in the top five in the US and Australia.
+The NHS       Litigation Authority has reported that medication errors involving       anticoagulants fall within the top ten causes of claims against NHS trusts       [b], and have amongst the highest litigation cost of any NHS treatment: in       the UK, an average of fifty patients per year experience serious adverse       events arising from preventable warfarin-induced complications; ten of       those patients die.
+In financial terms, every prevented stroke saves the       NHS &#163;16,000 per annum [c]; the estimated saving to each CCG is       approximately &#163;500,000 per annum, to which the Helicon Heart service makes       a significant contribution, as discussed below.
+Following the successful evaluation of a pilot version in 2004 [d], the       EHR repository was enhanced for greater resilience and performance, and       the clinical application enriched following user feedback.
+It was       installed in the Whittington Hospital and accessed by an early adopter       community of GPs and high street pharmacists; it went into full clinical       use from August 2008 [e].
+Helicon Heart is now being used by 5 NHS       Clinical Commissioning Groups (CCG) across north London and Hertfordshire,       covering 2 Hospital Trusts, 30 General Practice delivery sites and 3       Community Pharmacies (including Boots).
+The system underpins clinical         care for 3,000 at-risk patients, and Helicon Health has secured       additional contracts to extend this to 4,500 patients from 2014 [f].
+This       shared EHR system facilitates collaboration between community staff         and hospital specialists [g, h, i], and has enabled the Whittington       Hospital to transfer over 600 patients over the last few years from         the more inconvenient and expensive hospital service to a more local       GP or Community Pharmacy service, whilst being able to continue to remotely         monitor their quality of care [a].
+This has released capacity in the       hospital for the referral of new and often more complicated patients.
+A       member of the Haringey Clinical Commissioning Group said the service,       which the CCG has been using throughout the impact period, "provided a       safe option for monitoring INRs1 in primary care.
+It provides the         commissioners, providers and patients with information that assures them         of the quality of the service being provided" [h].
+This service was         highlighted in the NHS Customer Service Excellence award made to the         Whittington Cardiovascular Department.
+It commended the community-based         anticoagulant and stroke prevention service as a "transformational         service" to the Cabinet Office [j].
+Now that the system is widely distributed across many sites, clinical       governance is vital.
+A Clinical Governance Board oversees the quality and       safety, for which Helicon Heart generates real-time clinical         governance quality measures, which is possible because of the       high-quality and comprehensive EHR data it contains.
+This information is a       huge asset for the clinical governance process and provides great learning       opportunities for different general practices who can compare each others'       quality performance.
+The governance data show that most of the hospital,       GP and pharmacy sites are maintaining satisfactory anticoagulation control       metrics and are improving year on year.
+The system has helped to       demonstrate that community sites deliver safe and well-regarded care [h].
+This is particularly appreciated by patients, for whom a visit to their GP       or local community pharmacy is usually much more convenient than being       treated as a hospital outpatient.
+An independent patient satisfaction       study was commissioned in 2009, undertaken by UCL staff who are world       experts in health technology assessments but had no prior connection to       this project.
+They showed that patients unanimously favoured the new         anticoagulation service, which they found to be more convenient, had       shorter waiting times, required a minimally invasive test (less bruising),       and led to them getting the results and treatment instructions immediately       [g].
+They could take away a clear and well-structured paper summary of       their condition, care and treatment that could also be shown to any other       care provider.
+Creation of spin-out company: In May 2012, UCL Business and       Whittington Health formed the spin-out company, Helicon Health, to support       the roll out of anticoagulation and stroke prevention services (Helicon       Heart) including the EHR system, decision support and clinical governance       [k].
+The company employs 10 people and generated &#163;200,000 income in its       first year.
+This company has joint funded with UCL the enrichment of the       Helicon Heart system to cover atrial fibrillation management, another       critical factor in stroke prevention, which was completed in May 2013.
+[f]     Wider adoption of ISO standard: ISO EN 13606 is the only       internationally endorsed standard for communicating EHRs between       heterogeneous systems.
+Countries that have publicly adopted the ISO EN       13606 EHR interoperability standard since its publication in 2008 include       the UK (NHS England), Sweden, Spain and Brazil.
+It is, however, mandatory       in all EU countries.
+Countries still considering its adoption include       Norway, Ireland, Japan, Korea, Rwanda and Australia.
+Several EHR vendors       have chosen to use it as the basis for their EHR systems.
+These standards       are now being adopted by the NHS for its logical record architecture: for       example, every week over 11,000 patients change their general practice in       England safe in the knowledge their whole life general practice record       will be available at their first consultation with their new GP using ISO       EN 13606 based messages.

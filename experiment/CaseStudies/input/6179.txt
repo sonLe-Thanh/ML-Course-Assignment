@@ -1,0 +1,28 @@
+     Recent economic events have underlined the enormous importance of risk       management.
+Logistic regression, involving estimating the likelihood of a       customer defaulting within a set period, was long the dominant method of       building credit scorecards.
+In what has been described as a "sea-change"       in modelling, Southampton's research has been fundamental in driving the       development and adoption of a more flexible approach.
+The broad impact of this work can be split into two phases.
+The first saw       recognition among lenders that survival analysis can lead to a scorecard       that is as good as &#8212; if not better than &#8212; logistic regression in terms of       identifying loans that are more likely to default.
+The second phase       heightened awareness that this approach allowed scorecards to include       factors such as economic conditions and loan interest rates &#8212; the absence       of which was a critical weakness of scorecards used in the run-up to the       sub-prime mortgage crisis.
+The approach also allowed estimation of the       default risk of portfolios of consumer loans.
+Workshops and conferences have been key to disseminating the advantages       of these new methods.
+Since 2008 Thomas, Mues and Baesens have presented       their research at an average of 30 events a year.
+Held both in the UK and       abroad, these have included the University of Edinburgh's Credit Scoring       and Credit Control Conferences, &#8212; the 2013 one, attracted more than 450       practitioners [5.1]; conferences organised by industry specialists such as       SAS, the OR Society and Infoline; and workshops for individual       institutions such as GE Capital, Lloyds, RBS and the Coventry Building       Society.
+Banks, industry experts and other practitioners are now acknowledging the       major advantages of the survival analysis approach.
+For example, referring       to Thomas's presentation at a March 2008 "master class" for risk modellers       at HBOS [5.2], Alan Forrest, who at the time was HBOS's Manager of Group       Credit Analytics, described the "experience and insight" provided by       Southampton's work as "crucial to the training of the HBOS modellers".
+Forrest, now Manager of Model Review and Research for RBS Risk Management,       said: "At the time survival analysis was a growing technique in HBOS.
+[Southampton's] academic papers were fundamental texts and motivators...       and the 2008 Master Class cemented HBOS's acceptance of survival analysis       as a modelling and retail risk management technique."
+[5.3] Similarly       Richard Norgate, Director of Customer Analytics and Decisions at the       Lloyds Banking Group acknowledged the Southampton group "played an       instrumental part in changing the industry in the use of survival analysis       to model credit risk" [5.4]     The ability to expand the survival analysis method to incorporate       economic conditions and loan interest rates allows the building of default       risk models which can be stress tested.
+This is fundamental to the Basel       Accord regulations introduced in 2008.
+This aspect of the research,       together with the School's work on estimating Loss Given Default, has       become the basis for a new series of conference appearances and workshops,       held in more than 30 countries and including presentations to regulators       such as the Financial Services Authority and the Department for Business,       Innovation and Skills.
+One such event led to the research team using survival analysis to build       a pricing model for the Coventry Building Society's mortgage portfolio.
+The Coventry is among Britain's top-10 mortgage lenders.
+In 2008       Southampton's model was applied to a portfolio of 115,000 mortgages with a       total value of &#163;12bn, and the concepts it introduced are still used in the       Coventry's modelling today [5.5].
+Other financial organisations have introduced these ideas as a result of       summer projects undertaken by Southampton MSc students in Management       Science and Finance under the supervision of the research team.
+Each year       around 10 of these projects are in the credit-scoring area, with several       involving the development of models based on the proportional hazard       approach.
+Lloyds and HSBC have been among the organisations to implement       related methods with Lloyds saying "they helped them make real steps       forward in new project ideas which we would struggle to make otherwise".
+There have also been numerous email enquiries and several visits from       financial analysts concerning the technical details of building scorecards       in this way.
+During 2012-13 these included organisations in the USA       (Toyota Financial Services, WW Grainger, Citi and JPMorgan), Canada,       Brazil, Chile, Ecuador, Hong Kong, China, Australia, South Korea, South       Africa, Germany, Spain, Hungary and Lithuania [5.6].
+These demonstrate the       research's ongoing impact on financial organisations worldwide.
+Dr Joseph L Breeden, CEO of leading industry specialist Prescient Models       LLC, has remarked that the work of Thomas, Mues and Baesens has been       pivotal to "a sea-change in modelling", observing: "Loan-level forecasting       techniques... are a great advance over standard logistic regression.
+The       research being conducted by the Southampton team is critical to exploring       the applicability and limitations of these methods so that we can educate       lenders about where they work best and where further advances are required       for success" [5.7].

@@ -1,0 +1,45 @@
+     This case study describes a collection of impacts on healthcare practice       within the NHS, resulting directly from our successful programme of       research for patient benefit.
+Process of research &#8658; impact       A central plank of our impact strategy is the co-production of         knowledge, with an emphasis on practice-based evidence       (of real-world problems faced by clinicians) to evidence-based         practice (knowledge translation leading to rapid changes in       policy and practice in healthcare based on robust research findings).
+All       of the research cited herein could be translated very rapidly, as the       clinicians co-creating the evidence were either the decision makers for       policy/practice enhancements or were key players in influencing those       decisions.
+Consequently, in all cases the evidence produced by the cited       underpinning research led directly to the impact reported.
+Impacts       Three of our five impacts are evidenced by documented           changes to clinical guidelines in the regional NHS.
+1.
+A new care pathway was established in February 2013 for the         Carotid Endarterectomy surgical procedure (unblocking a carotid       artery), providing pre-operative guidelines for ward, medical, and nursing       staff.
+Based on our research on inter-arm differences in blood         pressure, medical and nursing personnel are now required to check       and record blood pressure in both arms.
+All subsequent measures should       then be taken from the higher-reading arm.
+At least 1 hour before the       patient is due to go to theatre the nursing staff must clearly mark the       arm to be used for blood pressure measurement.
+The anaesthetic team will       place the arterial blood pressure line into this arm to monitor and guide       patient management in surgery.
+The Carotid Endarterectomy pathway applies       initially to NHS surgical patients across the Durham Tees Valley and North       Yorkshire, but we envisage that post-publication it will be adopted widely       given the clinical readership of the journal.
+Our data indicate that a       clinical error &#8212; selecting at random an arm with a clinically significant       lower (false) blood pressure reading &#8212; would result for one in every 7-9       patients.
+Carotid endarterectomy is performed to reduce the risk of       stroke.
+Selecting a lower-reading arm for blood pressure monitoring would       misguide patient management during surgery potentially leading to       inadequate blood flow to heart and brain.
+The potential harm is therefore       stroke or heart complications during surgery.
+Therefore, the impact is         significant, as this simple, inexpensive change to the care pathway       eliminates the risk of this clinical error in blood pressure monitoring         during surgery, and thus substantially reduces the potential for       harm.
+2.
+From August 2011, the 6-min walk test (6MWT) was included in       the battery of preoperative screening tests in the North East Care         Pathway for abdominal aortic aneurysm repair, based on the evidence       produced in our validation study.
+This pathway applies to NHS patients       across the North East of England.
+The impact is significant, as in a         cash-strapped NHS the 6-min walk test is a robust practical alternative       where more sophisticated cardiopulmonary exercise testing (CPET) resources       are unavailable.
+Moreover, the 6MWT can now be used as a simple         initial test within a tertiary referral model; those patients       walking &gt; 563 m are not referred for CPET, whereas those walking &lt;       427 m are.
+3.
+A new clinical pathway was established in June 2013 for the referral         of Bariatric and Specialist Weight Management patients into clinical         Sleep Services.
+There is a known strong association between morbid       obesity and risk of developing Obstructive Sleep Apnoea Syndrome (OSAS),       but OSAS remains undiagnosed in the majority of patients presenting for       bariatric surgery.
+Untreated OSAS is associated with increased prevalence       of cardiovascular disease, type 2 Diabetes Mellitus, and memory and       cognitive dysfunction, with life expectancy decreased by up to 20 years.
+Untreated OSAS is also associated with a significantly increased risk of       adverse outcome and increased length of hospital stay in patients       undergoing surgery.
+Based directly on the evidence from our diagnostic         accuracy study, robust cut-points for the STOP-BANG screening tool       (an 8-item questionnaire with yes/no answers) are built in to the referral       pathway.
+Patients complete the STOP-BANG questionnaire at the point of       referral, that is, bariatric surgical or specialist weight management       evaluation clinics.
+Further actions depend on the patient's score between       0 and 8:     0-2 = no referral required; 3-4 = refer to Sleep Clinic       for review &#8212; history and sleep oximetry will be assessed prior to a       decision on any requirement for sleep consultation; &#8805; 5 = refer       directly to Sleep Clinic for further assessment.
+Our research revealed that a score of &#8804;2 effectively rules out OSAS,       whereas 7/10 patients with a score of &#8805; 5 will have OSAS.
+James Cook       University Hospital Sleep Services (Danjoux is Head of Sleep       Medicine, since 2011) is a tertiary referral centre covering bariatric and       specialist weight management programme patients from Durham Tees Valley       and North Yorkshire.
+The impact is significant; the new referral         pathway streamlines referrals by identifying individuals at high         likelihood of having OSAS, whilst excluding those at low risk.
+Prior       to the implementation of the new pathway, the Sleep Services department       was inundated with referrals of patients for sleep consultation and       assessment &#8212; an inefficient model for utilisation of valuable resources.
+Exercise training advice to patients       Our two exercise training RCTs have resulted in interim impacts on the         clinical encounter.
+These impacts were put in place further to the       analysis of the trial data, before any subsequent research output       (December 2008 for AAA patients and December 2011 for survivors of       critical illness).
+Both research studies revealed a clear increase in       fitness after the exercise intervention.
+Although these findings must be       confirmed in a larger multicentre RCT, on the premise that the probability       of benefit substantially outweighs the risk of harm, recommendations are       now made to patients to engage in exercise of the same frequency,       intensity, and duration adopted in the trials.
+These recommendations are       made within a brief negotiation model; a patient-centred       counselling method for enhancing motivation for health behaviour change in       brief clinical encounters.
+In the vascular pre-operative assessment clinic       at James Cook University Hospital Middlesbrough, exercise is recommended       for every patient being considered for repair of an AAA to improve fitness       for surgery.
+Physiotherapists in the ICU follow up clinic make the same       exercise recommendations for survivors of critical illness.
+Both impacts       apply to NHS patients seen at James Cook University Hospital, which       provides a tertiary care service for Durham Tees Valley and North       Yorkshire NHS.
+These interim impacts are significant, as they are       likely to result in increased fitness for surgery (AAA) and accelerated       recovery from critical illness.
+In addition, the clear positive effect on       the primary outcome in both RCTs is impact in and of itself.
+Indeed, Main       Panel A recognise that it takes a long time for trialled interventions to       be fully rolled out, and the demonstration of clear efficacy of an       intervention in a patient population is an interim impact, within the       spirit of the MRC guidance on developing and evaluating complex       interventions.

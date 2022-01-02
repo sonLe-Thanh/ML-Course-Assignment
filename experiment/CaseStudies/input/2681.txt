@@ -1,0 +1,45 @@
+     The main impacts have been economic, on the safety of automotive and       aerospace travellers, and       on practitioners and professional services.
+There has been additional       impact on society, culture       and creativity.
+Economic and safety impacts: There have been two strands to the       economic and safety impacts       of this research:            First, Blundell's research has contributed to the development         of the TASS' MADYMO suite of         software products, which is sold globally throughout the automotive and         aerospace sectors.
+According to van der Made, who was Engineering Manager at TASS from 2005         to 2007,         Blundell contributed significantly to developing the MADYMO         software in three main areas:         airbag simulations, automotive safety and human modelling, with airbag         simulation being having         the greatest impact.
+His research helped to inform the development of         software for crash testing         when a passenger in a vehicle is `out of position' and `to implement         real improvements', this         being `one of TASS' best-selling global products'.
+van der Made         explained that Blundell         developed knowledge and models of application of the MADYMO software,         which includes how         to use the software in different areas (e.g.
+automotive, aviation).
+It         is this application knowledge,         according to van der Made, which is the added value to TASS and allows         them to market and         sell better the software, and to guide its future developments [a,b].
+Blundell's research has had an impact on the safety of automotive         and aerospace travellers         globally.
+This is a result of his research leading to significant         improvements in TASS' MADYMO         software, which is used to improve travellers' safety, and which TASS         supplies to all the main         equipment and vehicle manufacturers in the automotive and aerospace         sector.
+Secondly, the improvements made to the software enable equipment         manufacturers who         purchase it to simulate many different crash scenarios.
+Undertaking many         real-world crash tests         would be prohibitively expensive.
+For example, it is a requirement that         before being approved         for use, a new aircraft seat design must be subjected to a crash test,         which can cost up to &#8364;30k:         simulations do not remove the need for a real crash test, but they do         enable the manufacturer to         test many different seat designs and save significant sums of money by         only crash testing the         final, software-optimised design.
+Furthermore, safety regulations         require the certification of each         layout of seats in an aircraft, and the use of testing according to the         industry standard `head         injury criterion' test.
+By using MADYMO, the Brazilian aircraft         manufacturer, Embraer, was able         to experiment with several seat configurations on its aircraft, without         the need for costly testing         of each configuration.
+This enabled it to increase the customisation of         its aircraft, so providing         aircraft more precisely suited to the needs of its airline customers         which is given it a competitive         advantage over companies not using MADYMO.
+Embraer have estimated that         using software         simulation saves it an estimated &#163;300k per seat layout [c].
+Impacts on practitioners and professional services: Edgar Uhl of       Autoflug GmbH has stated       that working with Blundell and his team on the HeliSafe project       has taught Autoflug how to       incorporate simulation into the product development process.
+The benefit       to Autoflug is that       computer simulation now provides a method for obtaining workable solutions       which directly       supports new product design.
+He has said that this is now used in at least       20% of Autoflug's       aircraft seating product range and has been of real benefit to the       company, which turns over       approximately &#8364;18-20M p.a.
+[d].
+As stated previously, the helicopter       sector is characterised by       much lower safety levels than the automotive sector.
+Blundell's       work with helicopter and safety       equipment manufacturers has resulted in the transfer of robust and       established automotive design       and development practices, such as safety harnesses and airbags, into       aviation.
+In addition,       Blundell's research has been widely disseminated to practitioners       working in the field, contributing       to debate about `best practice' in automotive and aerospace safety.
+For       example, in 2011,       Blundell's group presented their work on the use of topology       optimisation in lightweight vehicle       architectures at the 2011 Altair Technology Conference attended by       representatives of the       automotive industry including more than 500 engineers and simulation       experts from 25 countries.
+In 2012, the group presented at the ICRASH 2012 conference, and more       recently at an       international symposium on `Human Modelling and Simulation in Automotive       Engineering'.
+It has been long recognised by the sector that helicopter crash survival       lags considerably behind       automotive.
+Blundell's work on the HeliSafe project has led       directly to the availability to       practitioners of design tools to improve passenger safety systems for the       helicopter sector.
+His       work with on the project with Autoflug GmbH to develop and test the       prototype of a safety harness       project demonstrated, according to Uhl (Scientific Coordinator at       Autoflug) an improvement in       occupant protection of between 20% and 40% across the evaluated injury       criteria [e].
+The HeliSafe project has informed the policy debate on aviation safety at       the European Aviation       Safety Agency, EASA, the sector's hugely influential regulatory and       policy-making body.
+The lead       partner in the HeliSafe consortium, Autoflug, was invited to present the       results of the research at       EASA's rulemaking workshop in 2008 and 2009.
+Due to the interest in the       project findings, EASA       asked for information from the project, and copies of videos of crash       tests undertaken as part of       HeliSafe, which EASA used in a film on "Certification and       Standardisation".
+In 2009 Autoflug was       invited to become a member of the European Helicopter Safety Analysis Team       (EHSAT), which is       the working group of the EHEST (European Helicopter Safety Team) and       Autoflug contributed to       the analysis work and proposed the utilization of the HeliSafe Safety       Concept through this group.
+This work is ongoing [f].
+A summary of the Helisafe project is available in the project's final       publishable activity report [g].
+Impact on society       To enhance public interest and engagement in science and engineering, and       to stimulate public       discourse, some of the work described in this case study has been       disseminated in the wider       media and press.
+Most notably:     i.
+Television broadcast on the German-Swiss-Austrian TV-channel `3sat' on       the 7th and 8th       July 2005 for the daily science-programme "Nano".
+ii.
+Television broadcast on Deutsche Welle TV worldwide in August 2005.     iii.
+Television broadcast on the daily science program "Daily Planet" on       Discovery Channel       Canada.
+The programme was transmitted on 17th January 2008.
+Conclusion     Blundell and colleagues have worked with industrial collaborators       over many years to increase the       survivability of a crash.
+Their work with TASS to improve the MADYMO       software has brought       significant economic benefit to TASS, but also to TASS' customers who are       now able to simulate       crashes rather than undertake real, physical tests.
+Blundell has       had strong impact too on       professionals working in Autoflug GmbH, taking advanced simulation       techniques from academia       into SMEs.

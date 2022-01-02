@@ -1,0 +1,45 @@
+     Wavelet and multiscale methods are beginning to permeate many areas of       application.
+This case study deals with impact generated directly from       research carried out in Bristol, in the areas of finance, economics,       marketing and industry.
+The features that have made wavelets valuable in       academia (speed, efficiency, performance, sparsity, theoretical       guarantees) have also made them essential for many real-world applications       where data can be nonstationary (time-varying statistical properties) or       exhibit sharp changes (e.g.
+boundaries in images), and where its analysis       must be fast and reliable.
+In all cases described below the impact was delivered through activities       such as (i) technical report publication (ii) presentation at       international conferences, (iii) refereed journal publication (iv) through       word of mouth transmitted by graduate students, postdocs and colleagues       and, importantly, (v) through the release of high-quality free software       such as the wavethresh [6] package, available on the Comprehensive R       Archive Network (software archive).
+The wavethresh package [6] is written       in the R language/system which is the one of the major statistical       software packages and is both a statistical software environment and       programming language.
+Core Inflation Measures     Obtaining key measures of critical economic time series is an extremely       important and challenging task.
+Merely collecting data to estimate       inflation, for example, is expensive and time-consuming.
+Assessing the       data and deriving estimates such as GDP or core inflation requires careful       thought and delicate statistical analysis.
+Such economic measures have an       enormous impact on decision- making at the central government level, in       the wider economy and also for the general public by influencing their       expectations concerning the state and future of the economy.
+It is,       however, immensely difficult to quantify precisely the benefits of       estimating inflation, much less the value of any specific method that       might be involved in trying to measure or control it.
+Central banks make use of state-of-the-art denoising methods to improve       estimates of core inflation and other economic series.
+The Reserve Bank of       New Zealand (RBNZ) Discussion Paper [a] highlights that New Zealand was       the first world economy to introduce inflation targeting, dramatically       improving its inflation performance from the worst to among the middle of       the pack (Organisation for Economic Co-operation and Development       19-country average).
+The aim of inflation targeting is to achieve price       stability.
+Report [a] makes it clear that "one of the main problems with       measuring inflation concerns the presence of short-lived shocks that       should not influence policy makers' actions."
+Report [a] further states:       "Wavelets were specifically designed for isolating short-lived phenomena       from long term trends in a signal".
+Report [a] then compares several       wavelet shrinkage techniques including the complex-valued denoising method       [4], linear wavelet shrinkage (an option in [6]) and several existing       econometric methods.
+Report [a] also pays careful attention to issues such       as use of nondecimated wavelets[1], boundary conditions and wavelets'       operation as a real-time tool.
+Report [a]'s conclusion is that "our       wavelet measure has the performance, credibility and perspicuity needed       for it to be a suitable tool for central banks and other policy makers.
+We       believe that wavelets are a very promising avenue for further research       into the analysis and forecasting of economic and financial data".
+wavethresh [6] was one of the key software tools used in this work.
+RBNZ's       wavelet measure developed up to May 2009 in [a] was actually operationally       used by RBNZ to assist inflation targeting [b].
+Hence, our research not       only influenced RBNZ to explore multiscale methods and wavelet shrinkage       methods such as those described in [4], but was used practically to feed       into a mechanism to control inflation in New Zealand, [b].
+Impact Through Software     Research in [1] has become influential partly by being incorporated into       the MATLAB software package.
+MathWorks, the company that produces MATLAB,       implemented both the one- and two- dimensional stationary wavelet       transforms (swt and swt2) whose help pages directly       reference [1].
+For reasons of customer confidentiality MathWorks are       unable to name their customers.
+However, MathWorks have directly confirmed       in 2012, [e], that these transforms are being used for multiscale analysis       of 1D signals in oceanographic time series and parity space analysis for       sensor validation (which uses the residual signal in analysing a       distributed network of sensors to determine whether all sensors are       functioning properly).
+Also, for 2D signals they are being use for medical       imaging (specifically endoscopic imaging), security inspection systems       (processing of images in homeland security applications to identify       harmful contents) and fault detection in manufacturing.
+Increasing Marketing Accuracy     AC Nielsen is a large multinational market research company.
+Evidence of       their utilizing multiscale methods for improving accuracy in marketing       forecasts can be found in [c] and in use post-2008 [c].
+The wavelet packet       transfer models introduced by [3] were used to incorporate wavelet packet       factors into a regression model used to forecast future sales of       well-defined brands of fast moving consumer goods.
+The wavelet-based       methods produced significantly reduced errors in future forecasting.
+These       improvements are economically valuable for the clients of Nielsen and       Nielsen itself, as well as reducing waste and energy costs from producing       products at the wrong times.
+Document [c] also demonstrates how they used       the wavelet periodogram invented in [2] to identify large variance       contributions of market response time series that were not previously       attributed to certain marketing independent variables, such as sales price       and patterns of promotional and advertising activity, and not captured by       existing algorithms.
+Spatial Risk Measures and Denoising With Wavelets     [text removed for publication]     Texture Analysis in Industry     Simulating, modelling and analysing texture is an important task in many       areas including manufacturing industry.
+Through joint work with       researchers at Unilever texture analysis modelling and simulation methods       were developed that were specifically applied to hair product development       and new ways of analysing fabric pilling, the surface defects of textiles       caused by wear, under different conditions (e.g.
+how hair responds to       different hairsprays or how fabrics respond to different       detergent/treatment regimes).
+The impact was delivered through an EPSRC       CASE studentship and technology transfer of research methodologies [2,5]       and software from Bristol into Unilever.
+The key theoretical development       was the creation of multidimensional locally stationary wavelet processes       which benefits texture modelling by (i) enabling texture features to       change their nature over the spatial domain (unlike existing stationary       techniques which force statistical constancy of textures) and (ii) the       wavelet part permitting sharp changes of texture, which is hard to do with       classical Fourier texture techniques.
+A key commercial advantage was that       the multiscale techniques permitted a new objective measure of texture to       discriminate between good or bad conditions.
+The Project Leader Advanced       Measurement and Data Modelling, Unilever R&amp;D, Port Sunlight [f] has       commented "The work initially developed there has informed my ideas of       what that particular technology can do for us and internally rewritten       version of the code is still in use within the company".
+Much of the       original code is now contained within the freeware R package LS2W which       depends on the wavethresh [6] package, both on the Comprehensive R Archive       Network repository.
+Our work resulted in a follow-on grant from Unilever       for &#163;20k that supported postdoctoral work on multiscale methods to analyse       body dynamics data.
+Overall, Unilever supported this programme of work for       five years.
+The research produced a trained student who subsequently       worked for Shell Research for several years and then entered academia,       carrying out further funded related research projects with Unilever and       other companies.

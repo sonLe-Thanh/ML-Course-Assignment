@@ -1,0 +1,71 @@
+     Note: research references are cited as [x], corroborative sources as         {x}.
+The main beneficiary of the impact is our collaborating laboratory, J P       French Associates, the UK's largest lab for forensic speech and audio       analysis and widely recognised as a world leader in the field.
+Our       research also benefits other forensic speech analysts, and judicial       systems in the UK and internationally.
+The impact of the research base is       felt in several ways:     1.
+Professional support to J P French Associates (JPFA)            Foulkes, Llamas and Watt act as consultants for JPFA, conducting         casework and/or providing research-led insights to casework conducted by         JPFA (especially via expert insight into Scottish and northern/midlands         English dialects, variables for analysis, distribution of features and         extent of expected variability of features).
+York staff were consulted         in over 30 cases in 2008-13.
+{8}        Methodologies developed in sociophonetics have been applied to         forensic casework by JPFA and York staff.
+For example, formal         quantification of sociolinguistic variables was integral to a 2009 case,         establishing that an evidential recording was highly unlikely to have         been produced by the suspect [6, p. 566].
+Research on the         acoustic effects of face coverings [10] was applied to an appeal         case in 2013, in which audibility tests were reconstructed by the York         group.
+The key issue was whether the speaker at the scene of the crime,         wearing a motorcycle helmet, could have been heard or identified by         witnesses.
+(Both cases are in progress in July 2013.)
+Our research with earwitnesses provides new insights into the factors         that may affect witness recall of voices they have heard (e.g.
+whether         the voice was shouting, disguised, or transmitted by telephone).
+This         body of work confirms the view that earwitness testimony must be         assessed with a detailed understanding of the specific context of each         case, and enhances a court's ability to assess the reliability of the         testimony.
+Work such as [3] is regularly cited in JPFA case reports for         UK and international cases, e.g.
+in R -v- Miah &amp; ors (2009); DPP -v- Tighe &amp; Tighe, (Ireland 2010); HMA -v- Gallagher (2010), R -v- Tongue (2012), R -v- Karsten (2013).
+{8}        Voice quality analysis has rarely been included in speaker comparison         reports, despite its clear potential as a diagnostic feature for         analysis.
+In 2008 Watt and Foulkes assisted JPFA in developing a method,         based on Laver's VPA protocol, to enable JPFA to undertake formal voice         quality analysis for the first time.
+It has since been used in over 500         cases.
+{8}        JPFA staff, benefitting from direct access to a thriving research         culture through our collaboration, have greatly increased their own         research output and involvement with wider academic communities (e.g.
+[6,8,10,12,14,15],         {2,3,8}, two staff engaged in Marie Curie FP7 grant (&#8364;3.2m) [14],         support to JPFA through University of York research funding [11]).
+Our collaboration has contributed towards the professional development         of staff at JPFA.
+All five junior analysts are York Masters graduates,         with four undertaking PhDs at York in 2008-13.
+They routinely apply         research skills and insights acquired during their training to casework,         drawing on our research outputs.
+Peter French summarises the impact as         follows: "JPFA's unique relationship with the University of York has         enabled the firm to be at the forefront of research in modelling         individual speaker characteristics.
+This has provided us with a better         understanding of the strengths and limitations of the various approaches         to forensic speaker comparison and assisted with our developing new         practical phonetic and acoustic measures for use in casework.
+The         research and general input of members of the University has been         invaluable to us and facilitated our rise to the position of the UK's         largest and most prominent independent forensic speech and acoustics         laboratory."
+{8}           2.
+Provision of expert testimony and opinion            In 2008-13 Foulkes and Watt were lead or sole authors on expert         reports in over 20 UK and international cases.
+Foulkes provided a         written report and evidence in court in the high profile case of David         Bain's retrial for the murder of five members of his family (New         Zealand, 2008).
+The evidence played an integral role in a disputed         section of a recording being excised prior to the jury hearing it.
+Bain         has been described as a "unique case" in New Zealand legal history, "the         first time that such detailed linguistic evidence... with such potential         impact on such a significant trial has been successful in the New         Zealand courts, the success lying in its having been heard in its         entirety and its import accepted" {4, p. 154}.
+In 2013         Watt produced case reports for courts in Malaysia and Northern Ireland,         having been identified as an appropriate expert on the strength of his         research on speech by people wearing face coverings [10].
+The         Malaysian trial was for kidnap by a person whose face was masked, while         the Northern Irish case concerned intelligibility of the voice of a         robber wearing a scarf across his face.
+The Malaysian judge excluded the         prosecution expert's evidence on the basis of Watt's report.
+Casework conducted by Foulkes and Watt routinely involves analysis of         phonetic and linguistic features that they have analysed in detail in         sociophonetic research [4-7,9].
+For example, in 2010 Watt         provided expert opinion in the perjury case of the former MSP Tommy         Sheridan, drawing on his expertise in variation in Scottish English [9,13],         {6}.
+3.
+Improving national and international practice in forensic speaker         comparison            Our research on mobile telephone transmission showed acoustic effects         on vowel formants are far more serious than those in landline recordings         [2].
+Case analysis must therefore accommodate these factors, and         appropriate steps be taken in acoustic analysis of case materials to         cater for major differences in acoustic properties caused by the         technical transmission (correcting first formant measurements or         avoiding them altogether).
+This work is widely recognised and its         findings applied routinely by analysts at many forensic agencies,         including the US Secret Service {1}, BKA (German State forensic         laboratory) {5}, NFI {11}, Royal Canadian Mounted Police         {9}, as well as JPFA {2}.
+Phonetic insights on variation were integral to the development of a         new framework for the expression of conclusions in 2007, in         collaboration between York staff, JPFA, and colleagues at the University         of Cambridge [8].
+It was adopted as a common framework by almost         all forensic phoneticians in the UK.
+This represents a marked change in         the format used to present expert evidence.
+It offers a logical and         legal advance on its predecessor, which incorrectly led analysts to         offer definitive statements about speaker identity in a binary or         probabilistic framework (effectively delivering a judgment of guilt,         which is properly a matter for the trier of fact not the expert         witness).
+The UK framework has since been translated and adopted by         practitioners in other countries including Germany, Spain, and Turkey.
+In Turkey, for example, the framework has been used in over 300 cases         conducted since 2008 by the national forensic laboratory.
+{10}        Since 2008 practising forensic analysts from Denmark, Norway, the         Netherlands, and Spain have undertaken professional training at York,         including via the MSc in Forensic Speech Science (either the full degree         or key modules).
+The MSc provides a theoretical and practical grounding         in forensic speech science, especially speaker comparison.
+It is         squarely based on the research strengths of the York group, and on the         working practices of JPFA.
+These analysts employ skills and insights         from their training at York in their casework.
+For example, Jos         Vermeulen MSc is now the sole registered speech expert at the         Netherlands Forensic Institute (NFI; an agency of the Ministry of         Security and Justice, and one of the world's leading forensic labs).
+All         reports and witness testimony he produces are based in part on York         research (e.g.
+[2,3,6]).
+Sociolinguistic research in particular         has led to a "sharpening" of casework methods in the context of         multilingual societies [4,7,11].
+He describes the MSc as "the         most relevant academic degree in the world" for the training of forensic         practitioners in this field.
+{11}        In 2012 the Royal Canadian Mounted Police appointed a York MSc/PhD         graduate, Colleen Kavanagh, as a forensic speech expert.
+She is part of         a unit which offers service to all of Canada.
+She applies research         methods and insights from her training in her casework.
+Her appointment         allowed the RCMP to include the phonetically-based UK practice [6,8]         for some cases.
+This has led to an increase in the number of cases         accepted by the lab (9 cases in 2013 as of 23/8/13, versus 1 to 6 cases         in each of the previous seven years).
+In previous years, most requests         were turned away because the recordings could not meet the RCMP's         criteria.
+{9}        In 2009-11 the UK Law Commission undertook a full review of the law on         expert evidence, prompted by a call for reform from the House of         Commons' Science and Technology Committee.
+This call reflected concern         that expert opinion evidence was being admitted in criminal proceedings         too readily and with insufficient scrutiny, and in light of concern over         public confidence in the expert witness system.
+One aim of the review         was to approach standardisation of the treatment of different forensic         sciences.
+York led the UK group of forensic speech scientists in this         review, holding a meeting of over 20 practitioners and interested         academics in 2009.
+The response of the group was cited at length in the         resulting guidelines on expert evidence.
+Based on our understanding of         the complexities of speech, and the difficulties in applying linguistic         analysis to forensic materials, we argued against a proposal to separate         forensic practice into `science-based' and `experience-based'.
+Instead,         we argued that most forensic analysis involves an application of         scientific principles mediated by the analyst's experience.
+Our position         was accepted as a general principle for forensic experts.
+{7}

@@ -1,0 +1,48 @@
+     UK based Rolls-Royce Holdings Plc is the world's second-largest       manufacturer of jet engines in       wide body civil aircraft [A], in competition with the largest industrial       company in the world and US       defence contractor, GE.
+It is the only non-US based company with       significant operations in this       sector and employs 42,800 people worldwide with 22,800 based in the UK       [B].
+Manufacture of civil       aerospace jet engines generated revenue of &#163;6,437M in 2012 with &#163;727M of       underlying profit for       Rolls-Royce [B].
+Rolls-Royce is one of the UK's largest manufacturing       exporters, with 75% of its       revenue coming from overseas [C].
+Rolls-Royce, unsurprisingly, wish to       retain competitive       advantage, hence their interest in research that will a) reduce the       probability of blade failure and b)       allow a 10K higher operating temperature that saves fuel and reduces       emissions.
+The impact of       our research lies in two key areas:     1.
+The microstructure of nickel superalloys: casting,           porosity, grain orientation and creep           prediction     Nickel superalloys are used in the manufacture of jet engines blades due       to their excellent       mechanical strength and resistance to creep (tendency for solids to slowly       move or deform under       stress) at high temperatures; good surface stability; and corrosion and       oxidation resistance.
+Optimising these properties via composition or manufacturing process is       key to the successful       manufacture and sale of jet engines and to the continual improvement of       fuel efficiency in aircraft.
+Because of the significant fuel cost and CO2 savings realised,       they are replaced every 10,000 h       (around every 2 years).
+Relatively high volume manufacturing of these       blades is therefore essential       and the cost of manufacture has a significant impact on airline service       costs and aero engine       manufacturer profitability.
+The optimisation of properties is achieved       through the reduction or       elimination of crystal grain boundaries (i.e.
+single crystal growth) and       the appropriate selection of       the grain orientation to reduce deformation (creep) from the centrifugal       stresses in the engine.
+This       is exactly what the research insights outlined in section 2 allows one to       control.
+The FIB-SIMS work has also been helpful in understanding the mechanisms       of high temperature       oxidation of the melt and its interaction with the mould wall.
+This has       enabled casting surface scale       to be tackled, allowing larger single crystal castings to be used in new       engines at an economically       acceptable cost without suffering from excessive scrap rates.
+The FIB-SIMS technique development has also enabled the role of Y in bond       coats to be quantified       in follow-up work at Imperial.
+These are the interlayers that act as Al       reservoirs and diffusion       barriers between the metallic blade and the insulating ceramic thermal       barrier coatings.
+This has       enabled improved PtAl-based bond costs to be implemented in production,       enabling further life/       temperature improvements to be achieved.
+A Materials Technologist at Rolls-Royce Plc notes:       "the research collaboratively with Imperial College addressed the         mechanism for the formation of         stray grains ... [and] was instrumental in the design of a novel grain         selector that successfully         enables the "filtering" of these stray grains and ensuring casting         conformance.
+This has resulted in         publications in peer reviewed journals...as well as two granted patents         for the grain selector....The         collaboration with Imperial College has been important in identifying         the role of the as-cast oxide         that forms during solidification and that plays a crucial role during         solutioning."
+[D].
+Quantitative Estimate of the impact       Scrap rates in the production of these type of blades due to       non-conformance in 1993 were ~50%       and are now reduced to ~10%.
+This improvement leads to a ~&#163;300m/yr savings       in waste material       and processing (based on a cost per blade of &#163;100 and typical production       rates).
+A lower bound on       Imperial's contribution to this of 5% gives a saving of &gt;&#163;100m over the       last decade attributable to       the casting research.
+The ability to grow single crystals with an improved       yield made it       economically feasible to manufacture larger single crystal castings,       leading to the ability to raise       turbine entry temperatures, which impacts on fuel burn and consequently       fuel cost and CO2       emissions, improving competitiveness.
+A 10K increase in temperature       capability equates to about       0.5% increase in fuel efficiency.
+A Rolls Royce specialist in nickel       alloys notes that:       "It has been estimated that an increase in compressor discharge         temperature of 30C produces         0.3% less specific fuel consumption per engine.
+For a large twin engine         aircraft flying from London         to New York, a 0.3% SFC equates to a 700kg reduction in fuel         consumption, which translates to a         reduction of ~2.25tonnes of CO2 emissions per flight."
+[E]     The 2012 estimated fuel costs of the airline industry were $210bn, and as       Rolls-Royce has ~40%       of the market their increased temperature capability allows a saving of       $420m/year in fuel, or 2.6       million tonnes of CO2 equivalent.
+This reduction in running       costs makes Rolls-Royce engines       attractive to airlines and has allowed the company to grow its market       share.
+The improvement in       10K material capability and the subsequent saving of $420m/yr can be       assigned to developments       across Ni superalloy research.
+The importance of this improved casting       process has had a       significant impact on the fortunes of Rolls-Royce Plc - this was       highlighted in an Economist article       on April 21st 2012, which states:     "But some things are not for sharing because they are too important to         preserve a product's         competitive advantage.
+For Rolls-Royce, turbine blades are one of those         key technologies.
+The         magic that creates them depends on a deep understanding of materials         science and production         technology.
+When metals solidify after casting they normally contain         lots of microscopic crystals.
+That would still leave them strong enough for most things, but it is a         potential weakness in a         turbine blade.
+So Rolls-Royce uses a unique system which casts the blade         in a nickel-based         super-alloy with a continuous and unbroken crystalline structure.
+This         ensures there will be no         structural defects."
+[F]     2.
+FIB SIMs: O interstitials in titanium     The compressor and fan blades of a jet engine are made of titanium alloys       because of their       superior density-normalised fatigue strength.
+Hollow fan blades are made       by diffusion bonding and       vacuum brazing processes that can be difficult to control.
+As near-final       manufacturing processes       they are impossible to non-destructively inspect and therefore any       variability must be tightly       controlled.
+This has been enabled by the techniques developed by Shollock       and used by Dye to       understand and help improve the production process.
+A Rolls-Royce Fellow       provides details of fuel       consumption savings and CO2 emissions and explains how oxygen diffusion       measurements and       the development of an algorithm to predict the thickness of oxidation       damage as a function of time       and temperature were "beneficial to Rolls-Royce plc."
+"The use of FIB SIMS depth profiling of interstitials in `good' and         `bad' microstructures enabled the         root cause for variability in the manufacturing process to be defined as         nucleation driven from         surface topography rather than via a chemistry change.
+... Whilst the         benefit associated with this         work is difficult to quantify in direct financial terms, the         manufacturing changes are being         implemented in order to reduce the probability of fan blade failures in         service.
+The direct cost to the         company is ~&#163;5M per failure event.
+"[G]

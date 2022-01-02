@@ -1,0 +1,36 @@
+     CORE (http://core.kmi.open.ac.uk)       is a unique aggregation system, which enables free access and reuse of       open access content at a full-text level from a single access point.
+As of       July 2013, CORE harvests 498 open access repositories (including all UK       ones) and journals, resulting in 15m+ metadata records and 1.5m full-text       documents.
+CORE detects semantically related or duplicate content from       full-text and metadata and, where possible, constructs citation networks.
+The system provides a range of services for accessing and exposing the       aggregated data: CORE Portal, CORE Mobile, CORE Recommendation Plugin,       Application Programming Interface (API), Linked Open Data and Repository       Analytics.
+CORE was the first system implementing the `three access levels       from a single source' architecture for open access [3.6].
+These levels       (transaction, analytical, raw data access) can be mapped to the following       REF impact categories.
+Impact on public policy and services     Impact on services for the general public.
+According to Google       Analytics, in July 2013 CORE received more than 540,000 visits and served       about 90,000 users.
+Between January and August 2013, this number grew       steadily by 10-15% each month.
+If the requested document is represented       only by metadata, CORE offers all available full-text documents that are       semantically related [5.2].
+For its unique potential of content discovery,       CORE has been declared as one of `The top ten search engines for       researchers that go beyond Google' [5.5].
+CORE provides free apps for       Android and iOS [5.9].
+About 1.5% of all requests come from mobile       devices.
+Impact on digital libraries and compliance with future REF policies       [5.10].
+CORE provides analytical information about the content and       compliance of repositories with common standards.
+CORE's       repository-related services are critical for the new generation of       post-2014 REFs because open access accessibility is a key HEFCE       requirement.
+Service to institutional repositories.
+CORE researchers developed       a new content recommendation tool, the CORE Widget, that is available in       the EPrints Bazaar Store repository (http://bazaar.eprints.org/)       [5.7].
+This tool helps users to discover open access content effectively.
+Impact on institutional repositories.
+CORE recommender allows the       host repository to offer the user semantically similar documents across       all harvested repositories.
+This novel service is used by UNESCO [5.4],       The Open University's Open Research Online, University College London       Computer Centre, the European Library [5.1], Glasgow University and       Goldsmiths College.
+Economic impact     A Jisc-commissioned report [5.8] estimates the increase in productivity       by text mining as being worth between &#163;123.5m and &#163;156.8m per year.
+CORE       is the only UK service to provide access to raw metadata and the content       of research papers as downloadable files or through an API, which is       essential for the development of novel text-mining applications in the       digital library and media industry.
+Between January 2012 and July 2013,       thirty-four users requested and received access to CORE preprocessed text       to develop their own text-mining applications.
+Impact on society, culture and creativity     Since 2012 CORE has been the European Library's default remote search       service and is routinely used by their users worldwide.
+A significant       number of access requests to the CORE repository originate from the       European Library search engine [5.1].
+CORE is listed 2nd in the TOP 100 Thesis &amp; Dissertation         References on the Web [5.3].
+Algorithms for calculating cross-language relatedness developed within       CORE scored `overall-best' in one of the two categories of the       cross-language interlinking competitions [3.5] in 2011 and 2013 and were       among the top performers in the other.
+A member of the CORE team has been invited to present CORE at the World       Summit on Information Society, WSIS-10 Review, held in Paris, February 23,       2013 `Using E-Science to Strengthen the Interface between Science, Policy       and Society: High Level Roundtable' [5.6].
+CORE is the essential component of UNESCO's Repository for Connecting       Local and International Content (CLIC).
+At the World Summit on the       Information Society, WSIS-10 Review, Ms Christina von Furstenberg (Senior       Programme Specialist, UNESCO) presented the CORE-based CLIC as `the next       generation of tools for the [UNESCO's] Management of Social       Transformations (MOST) ... that allows comparative access to research,       policy recommendations and open access sources, based on semantic       analysis'.
+CORE-based CLIC is named as the key component for UNESCO's MOST       programme in the mini-report to be submitted to UNESCO's Executive Board       at its 192nd session to be held in Paris from September 24th to       October 11th 2013.
+[5.4].
+In recognition of CORE's impact on the open access movement, in June 2013       Jisc invited the CORE team to tender for the national metadata aggregator.
+This submission was successful and CORE has been selected to be the UK       repository aggregator within the UK Repositories Shared Services       Infrastructure.

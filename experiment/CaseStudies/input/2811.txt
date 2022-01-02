@@ -1,0 +1,43 @@
+     The impact of interoperability specifications occurs at the adoption       stage, not at the stage of writing the specifications themselves.
+For that       reason, IEC's interoperability research has adopted a strategy in the       development of specifications that centres on adoption, as described in       [1] above.
+This involves understanding the requirements of software       vendors from the start, both to make sure their requirements are being       considered, as well as to ensure they have a stake in the emerging       specification.
+Another characteristic of this approach was to rigorously       and iteratively ensure that the formulation of the specification was as       simple as possible, while still remaining effective, in order to make       implementation as easy as possible.
+Also important was the re-use of       existing, widely used interoperability specifications as a basis for newer       agreements, to further minimise implementation effort.
+Finally, a deep       understanding of the needs of end-users has been required in order to make       adoption by the vendors worthwhile, by generating demand.
+This approach       achieved the following results:     Course Related Information (XCRI).
+In this case the involvement of       conventional software vendors was less relevant, since XCRI's principal       application is internal to the institution which adopts it.
+The end-user       community is therefore largely the same as the implementer community, and       it was they who drove both development and adoption.
+A key intervention of       the IEC was to maximise the simplicity of the specification, which ensured       that XCRI is easy to implement.
+This has led to high levels of impact, and       our research indicates that over 100 institutions have adopted XCRI in       some form, many of whom are included in the XCRI-CAP directory, maintained       by the company InGenius Solutions [7].
+A notable adopter is Skills       Development Scotland, who have implemented a method for bulk import of       courses into the National Learning Opportunities Database which depends on       the use of XCRI [8].
+Further details of adoption are available in the Case       Studies presented on the XCRI Knowledge Base [9].
+Our research estimates       that Higher Education Institutions in the UK have saved &#163;1.5m to &#163;2.8m per       year in course data rekey-ing, either in outright savings or else in       deploying budgets for higher level marketing purposes.
+Looking at external       use, the national XCRI aggregator (http://xxp.igsl.co.uk/app/xcridirectory)       currently has feeds from eighty-two institutions.
+The XCRI specification       is now also aligned to national and international standards.
+RDF       vocabularies for XCRI are part of Linked Universities http://linkeduniversities.org/lu/index.php/vocabularies/.
+It has been also been used as a model for data in institutions, for       example in the data sets for https://data.ox.ac.uk/       where it is augmented with things like geographical data for buildings,       departments etc.
+Leap2A.
+This specification involved vendors as well as end-users       from the start.
+The methodology led by IEC resulted in a simple and       effective specification, and also ensured that it was based on the widely       used IETF Atom feed format, which both aids implementation and usage in       tools that weren't designed specifically for Leap2A.
+The impact of the       specification on the ePortfolio market has been considerable.
+As is shown       in [7], many leading providers of ePortfolio tools have adopted Leap2A.
+The result is that the specification is integrated in nearly all       e-portfolio installations in UK Further and Higher Education institutions       (42% of all such institutions have an e-portfolio system), and many       similar markets.
+The IMS/ISO Content Packaging (CP).
+This standard followed       software design patterns from large vendors such as Microsoft and Sun (now       Oracle).
+More specialised e-learning vendors such as Blackboard and Moodle       have been more active in the design of profiles of Content Packaging such       as Common Cartridge and SCORM.
+IEC contributed substantial research into       educational resource sharing practices from Jisc programmes in the UK, as       well as technology research from interoperability events into the design       of the specification.
+This ensured that the specification met the needs of       UK Higher Education institutions.
+The high degree of impact of the       specification can be seen from IMS Interoperability Conformance       Certification Status, [11], which shows that almost all learning platform       providers have adopted the specification.
+Content Packaging is also a       component of the widely adopted SCORM application profile, and details of       adoption of SCORM are available at [12].
+The result is that between 90 and       99% of Higher and Further Education Institutions in the UK have Virtual       Learning Environments that can import and export educational Kcontent or       whole courses using some variant of IMS CP.
+The global picture is similar.
+Content Packaging was adopted as an international standard by ISO in 2009,       further cementing the role of the specification within the educational       technology landscape [13].
+IMS Question and Test Interoperability (QTI).
+This specification       involved some large assessment boards in the early design stages, although       they participation dropped off as the project developed.
+IEC helped       organise and fund a community of end-users who were able to develop       implementations of the specification as it was being designed.
+This type       of technology action research has proven crucial in the development of QTI       as well as other specifications.
+QTI is not a simple specification, since       the requirements on computer aided assessment are complex and varied, but       it is built on a very widely implemented standard: HTML, the document       language of the web.
+This, as well as QTI's position as the world's only       open assessment interoperability specification, has led an enduring impact       on the field.
+The QTI specification was always the most popular download       from the IMS website, as was IEC's briefing on QTI on CETIS' website.
+According to Pearson "QTI is the most widely used and adopted assessment       interoperability standard in the assessment industry" [14]     More recently, IEC has calculated that the specification has been       instrumental in the design of a series of assessment infrastructure       projects in six different nations worth a total of at least &#163;250 million.
+As a result of US federal government investments in particular, most major       US publishers are now standardising their own internal systems and item       and test collections on IMS QTI, ensuring that the impact of the       specification will continue for the foreseeable future.

@@ -1,0 +1,39 @@
+     The period of 2008-July 2013 provides a window on an impact story that       was already well established at the start of it, and has multiple aspects       continuing at the end of it.
+Understanding the story prior to 2008 is       important in understanding the route to the in-period impact.
+The       long-standing research relationship, set out in Section 2, is itself the       primary route to impact.
+The impact described below should be set against       the fact that, while there have been many attempts to use formal       verification tools such as model checkers such as FDR (which explore the       state space of an implementation trying to eliminate the possibility of       errors) for certifying large-scale software systems, comparatively few       have been successful.
+The exploitation of the UoA's research in CSP and FDR was carried out by       the Systems Assurance Group (SAG) within DERA (later QinetiQ) from the       1990s up until 2012.
+The exploitation took the form of building models of       high profile third party software based components and systems in order to       check independently derived safety or security requirements on behalf of       the MOD.
+Independent measurements [J] indicated the potential for 60-80%       savings on time and cost when used the approach was used as part of a       system's development due to reductions in testing and automation of       re-work due to requirements change.
+More importantly it enabled the MOD to       accept systems for use when testing was not a viable option, e.g.
+to prove       a negative such that a dangerous behaviour could never occur.
+The       importance of this is that it enabled new military capabilities to be       exploited that reduced the risk to life of service personnel in       operations.
+For example the MOD was able to use the Typhoon aircraft,       instead of more vulnerable aircraft, because of the direct contribution of       CSP and FDR to its military airworthiness.
+The process of transferring       such a system from the procurement part of MOD to the Services for       military operations is called "Release to Service".
+The successful       application of formal methods to systems of this scale is unusual, and we       believe that in legacy systems it is probably unique.
+Success can also be       judged by the safety record of such a complex safety critical software       system.
+The importance of Oxford's work is shown in a quote from [C]       below:     `Oxford's research has been central to the Systems Assurance Group's         project support activities, up until 2012, and now D-RisQ Ltd. Research         outputs from Oxford were applied to give bespoke solutions to difficult         assurance issues and then turned into commoditised services that were         used to reduce the cost of assuring third party systems.
+Conversely         challenging assurance issues were fed back to Oxford to stimulate         research whose outputs were again applied.
+The result of this         collaboration was the creation of a unique capability to assess third         party systems.
+The key to the capability was the exploitation of         non-determinism to model uncertainty about claimed system behaviour and         Oxford's contribution to this was to provide tractable analysis         methods.'
+FDR first became widely used within DERA in the late nineties, after it       was used to analyse the safety of inserting the US Tomahawk Land Attack       Missile system into the Royal Navy's legacy systems [A,B].
+This, and much       of the subsequent work, depended crucially on FDR chase,       discovered and developed at Oxford during DERA-sponsored security work as       described in Part 2.
+Further models for assessing the safety of systems       procured by the MOD were developed [D], as well as methods for scaling the       analysis, for example using compression [1,2 above], induction [2,3] and       symmetry reduction [5].
+MOD project support led to the development of a generic library of CSP       models that could be re-used, enabling more MOD procurements to be       supported.
+For example, various fault tolerant architectures have been       modelled and used to assess different MOD avionics systems, as shown in       the following quote from [C], which demonstrates clear impact within the       REF period:     `A notable application of FDR2 was to check Code Level Analysis         Objectives (which link lower level safety objectives to high level         aircraft safety requirements) for Eurofighter Typhoon's avionics         systems.
+The exploitation of FDR2 on providing evidence for the Release         To Service recommendation for Eurofighter finished in 2010.
+The Systems         Assurance Group developed a tool called ModelWorks that compiles higher         level descriptions of systems into efficient machine readable CSP for         checking specified properties by FDR2.
+In 2011 - 2012 two notable         applications of ModelWorks and FDR2 took place.
+The first application         was to check safety properties of a System of Systems based upon Service         Oriented Architectures.
+The second application of FDR2 was to check         safety properties for a Plug and Play Architecture for Weapon Systems         that is being developed by a consortium called Weapons Integration UK         under a task called Software Auto-code and Auto-proof.'
+Reference to the "Software Auto-code and Auto-proof" work can be found in       [E]; details of ModelWorks can be found at [F].
+ModelWorks was the main       means by which FDR has been exploited since 2008.
+The Plug and Play       project is a direct descendant of the earlier work on cruise missiles       described above.
+A further economic impact has been the formation of a company to further       develop and commercially exploit the tools and methods described above,       both in their established domain in the defence sector and beyond.
+In May       2012 the start-up D-RisQ Ltd was set up [F].
+D-RisQ has licensed FDR, and       IP from QinetiQ, such as ModelWorks, that utilises the UoA's research.
+It       aims to provide assurance evidence that is at least 60% cheaper than       current practice in the areas of automotive, defence, and aerospace       through standards such as ISO 26262, 00-56, and DO178-C.
+This represents a significant personal financial risk to the founding       directors of approximately &#163;500K to start up the company and created 9       high tech jobs in an area hit by redundancies in high tech firms.
+D-RisQ's       promise was recognised in a recent competition for start-ups [G].
+At 31       July 2013, D-RisQ is six months into a project with Blue Bear Systems       Research [H] to develop and certify a vehicle with entry level autonomy       using FDR, with some oversight by the Civil Aviation Authority.
+Similarly       they are engaged with the automotive sector in the application of FDR       through ModelWorks being taken forward in 2013 through the Advanced       Manufacturing Supply Chain Initiative for commercial exploitation by       D-RisQ in partnership with Ricardo Ltd [I], to improve cost efficiency       across the UK.

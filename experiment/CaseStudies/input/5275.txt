@@ -1,0 +1,50 @@
+     Syngenta is the world's third largest company specialising in seeds and       pesticides.
+The company is driven by its biotechnology and genomic       research.
+The challenges facing the world's food supply are also key       issues facing agriscience companies such as Syngenta.
+A key issue is that       the science is complex and the data are incomplete.
+In order to solve       these challenges, following a world-wide search among leading       Universities, Syngenta identified the modelling work in Professor       Muggleton's group at Imperial as being the best match for their Systems       Biology modelling requirements.
+In 2008 Syngenta founded a Systems Biology       Innovation Centre at Imperial under Prof Muggleton's supervision to enable       collaboration within a $3m programme using Inductive Logic Programming       techniques in an industrial context [A].
+Since the start of the collaboration in 2008, ILP techniques developed in       Prof Muggleton's group have had profound impact on Syngenta's business in       areas such as improving consumer traits in tomatoes; environmental       benefits in better prediction of herbicide impact, and reducing risk by       prediction of unwanted toxicological effects.
+In particular, Muggleton's       ILP approach represents background knowledge, allowing description of       biochemical networks.
+This has been a key advantage with respect to other       Systems Biology modelling approaches.
+Since ILP is a Machine Learning       technique, this allows the network description to be automatically revised       on the basis of high-throughput biological data.
+ILP has the advantage of       suggesting readily comprehensible hypotheses.
+Biologists can then examine       the hypotheses using their existing knowledge.
+Those plausible hypotheses       that are impossible to disprove can be considered for further experimental       validation, while a biologically non-meaningful hypothesis may indicate       that insufficient background knowledge has been provided.
+The specific commercial impact is detailed below.
+Tomato ripening (2008-2013)[A]:     In the context of tomato-ripening, the tools developed by Professor       Muggleton have highlighted new pathways that have been integrated into       tomato-breeding programs.
+The outputs of the tomato-ripening project have       changed Syngenta's research direction by focusing on manipulating pathways       using tools developed at the UIC rather than individual proteins.
+ILP is       used for analysis of gene expression and metabolite changes across fruit       development to identify new genetic targets that play a role in       controlling the ripening process.
+This allows Syngenta to focus on these       genetic control points in breeding new tomato varieties, thus producing       the most favourable combination of fruit quality characters in the ripe       fruit.
+A Senior Syngenta Fellow confirms that this research "has informed       a breeding program where we are using this information to breed new       varieties using marker assisted technologies"[A].
+The cost of breeding a       new tomato variety is $5m [B].
+Syngenta assess that the market size of       improved flavour earlier in the ripening process is &gt;$100m; Syngenta is       the world's largest supplier of tomato seed and it is estimated that       Syngenta can capture between $40-50m of this market.
+This is a high impact problem for Syngenta, and the UIC has delivered       novel solutions addressing these challenges.
+Herbicide toxicity (2008-2013)[A]:     When new agrochemicals fail due to adverse toxicology, it is often       because of liver cancer.
+The research has been used to identify molecular       markers that are indicative of liver cancer.
+These markers have been used       to develop a simple biochemical screen to reduce the chances of failure at       the late stage.
+In addition to saving costs, this reduces reliance on       whole animal mammalian tests, which has a positive ethical outcome.
+These       toxicology experiments are expensive (multi-million $), and use whole       animal in-vivo tests prescribed by regulators.
+When compounds fail at this       stage, Syngenta has had to spend around $100-250m.
+The Imperial research       has enabled successful identification of new pathways containing molecular       markers that have been linked to liver cancer.
+Early removal of       potentially carcinogenic herbicides highly impacts Syngenta's reputation       and benefits society.
+In addition, key Syngenta employees have been       trained in the use of computational and visualisation tools developed in       this collaboration.
+These tools have been employed in Syngenta's research       into product safety, changing their working practices.
+"The downstream       value of this will be very large indeed regarding reduction in our       toxicological failure rate once the pathways have been fully investigated"       quote from [A].
+Environmental modelling of herbicide-based crop management             (2009-2013)[A]:     Within Ecology the network of predatory inter-relationships between       species is referred to as a Food Web &#8212; what eats what.
+Food Webs are key       to understanding the effects of agriculture on the environment.
+However,       detailed Food Webs are rare since each link requires intensive field       studies.
+The application of the underpinning ILP research in environmental       modelling has led to production of a machine-suggested food web involving       45 species, generated automatically from a large-scale field dataset       provided by Syngenta, as detailed in [C].
+The proposed web correlates       strongly with links suggested within the literature.
+The industrial       significance of this is that food-webs are indicators of biodiversity [C].
+The automatic generation of food-webs will enable Syngenta to perform       experiments at a landscape scale that have been previously impossible to       do.
+Evaluating environmental impact of a change in farming practice, such       as a new herbicide, at a species level requires sampling across farms over       a few years.
+Prediction using machine learning helps provide guidance to       farmers on the impact of farming practices.
+The economic and environmental       impact can be quantified.
+Syngenta wishes to ensure their chemistry has       minimal impact on the environment.
+Syngenta estimates that use of machine       learning based Food Web generation will facilitate opening markets worth       &gt;$100m per year for a new herbicide [B].
+Equinox Pharma Ltd     The same underpinning ILP technology is being used within the Imperial       College spinout Equinox Pharma, founded by Prof Muggleton and two other       Imperial College professors in 2008.
+The company applies Support Vector       ILP to initial molecule candidate discovery within both drug discovery and       herbicide discovery problems.
+Initial contracts obtained by the Equinox       Pharma have been from Japanese pharmaceutical company Astellas and       Syngenta.
+Due to the commercially sensitive information we cannot go into       details but in both cases the machine learning led to promising candidates       that were taken forward for internal validation within the companies.
+[E]

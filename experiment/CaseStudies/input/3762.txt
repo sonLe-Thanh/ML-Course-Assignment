@@ -1,0 +1,26 @@
+     Ultrafast technology is an applications sector that is based in part on       the laser sources developed by the Ultrafast Lasers Group (ULG) as       described in section 2.
+The use of this technology underlies a wide range       of applications that have emerged since the 1990s and have developed       rapidly throughout the period of assessment (2008 - 2013.)
+These range       from the development of ultraprecise measurements of frequency required       for internet communications to the latest generation of techniques for       corrective eye surgery.
+The importance of the work of the ULG is       highlighted by the CEO of Femtolasers who states "...the work of         Professor Sibbett and more recently Dr Brown and Professor Sibbett has         played a major role in leading the development and applications of         ultrafast laser technology..." [F1].
+The development of practical technologies to achieve mode-locked laser       operation was the underpinning requirement for the global development of       ultrafast technology in the 1990s and its subsequent adaptation into a       widely adopted technology from the early 2000s to the present day.
+Work in       the field by the ULG was of major influence in defining product       technologies for major multinational companies in the field including       Coherent and Spectra Physics (now part of Newport) in the USA.
+This       adoption led directly to the development of a suite of commercial devices       (Coherent MIRA and Spectra Physics Tsunami) that continue to underpin the       commercial sector.
+The scale of the success of these technologies can be       estimated by the fact that "...there are many thousands of Titanium         Sapphire Kerr lens mode-locked lasers installed worldwide..." [F2] A       conservative estimate of $100k per system in 2013 shows that this market       alone is worth many $100s million.
+The more recent work described above       continues to have a major influence on the decision making processes of       these leading international companies as the Advanced R&amp;D Manager for       Spectra-Physics states "...the work of your St Andrews research group         ... has continued to be of interest and influence within the commercial         laser community."
+[F3]     In addition to product development by major commercial players, the       research highlighted above also has led to the development of laser       systems by the smaller specialist laser companies such as M Squared in the       UK, FemtoLasers, a multi-million &#8364; turnover SME in Austria [F1] and KML       Inc in the USA with new product launches occurring throughout 2008 - 2013.
+Continuing through the period 2008 - 2013, new commercial laser systems,       amplifiers and applications such as multi-photon microscopes have begun       to further revolutionise fields as diverse as biology, medicine and       manufacturing technology.
+Indeed, the source technology has now reached       such a point of maturity that it is now routinely installed as OEM       components within products such as systems for eye surgery [S1].
+The impact of the research can also be identified through its influence       on a range of applications that impinge on many areas of society.
+[text       removed for publication].
+A major recent development has been the       deployment of ultrafast lasers within medical treatments, particularly for       surgery on the eye.
+For example, the IntraLase system now offers       commercial refractive surgery to more than five million of patients       worldwide and the latest generation of treatment for cataracts is based on       the use of ultrafast laser systems related to those developed by Sibbett.
+[S2]     The measurement and characterisation of ultrafast pulses remains an area       of key importance within this technology field.
+The ULG showed that a       highly simplified method based on non-linear absorption in low cost       semiconductor devices could be used to obtain basic pulse duration       information.
+This innovation was patent protected (US6195167 B1 - granted       2001) and subsequently licensed by Elliot Scientific to produce an award       winning commercial product, the Timewarp Autocorrelator.
+[S3]     A major impact of the work of the Sibbett group has been one of       influence.
+A study in 2010 of emerging ultrahigh intensity laser       facilities shows that there was more than $4.5 Bn of activities under       development between then and 2015 and more than half of these are based on       technology directly developed within PHYESTA [S4].
+Notably, many major       companies and individuals have highlighted the importance of the work in       the 1 f06dm and 2 f06dm spectral regions from 2000 onwards and in       diode-pumped femtosecond lasers to product development [F1, F3-5].
+[text       removed for publication].
+A 2008 survey showed that the ultrafast laser market was worth       approximately $260M annually with a predicted year-on-year growth of up to       30% [S4].
+Many of the developments in this field have been influenced and       underpinned by the work of the Sibbett Group that retains a place of major       world influence within the field both through its historic and on-going       research.
+[F1-5]

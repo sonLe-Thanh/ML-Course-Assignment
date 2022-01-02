@@ -1,0 +1,24 @@
+     Context     In order to stay competitive in a world market, aeroengine manufacturers       are under constant pressure to develop new engines, which demonstrate       dramatically improved fuel efficiency combined with reduced emission.
+These improvements can only be achieved by optimising high temperature       materials or develop new materials with improved temperature capability.
+With increasing temperature capability, however, the weldability of aero       engine materials decreases dramatically making fusion welding completely       unsuitable.
+Consequently, new materials can only be applied once an       appropriate joining technique has been developed.
+A step forward for new       disk materials such as powder-processed nickel base superalloys is to       transfer from fusion to solid state welding techniques, such as inertia       and linear friction welding.
+Pathways to Impact     The research carried out in Manchester contributed to developing inertia       and linear friction welding parameters in order to join powder processed       nickel-base superalloys, high strength dissimilar steels and an advanced       Titanium alloy.
+Detailed microstructure and residual stress analysis       provided a new understanding of the welding processes, which in return       provided guidance in developing parameters with researchers directly       involved in the parameter development by participating in welding trials       carried out in the USA.
+The fundamental research upon inertia welding was       funded originally by the EPSRC (1999-2002, &#163;145k).
+Translation of this       research for application by Rolls-Royce in aeroengines has been provided       though a number of projects of over the period 2002-2011 with a value       &#163;750k, funded from a number of different sources that include the DTI, TSB       and Rolls-Royce.
+Reach and Significance     Many friction welding combinations that were studied are now employed in       modern aeroengines developed by Rolls-Royce.
+For instance, inertia       friction welding of nickel base superalloys has been used in the Trent       900, which powers the A380.
+The number of friction welds has further       increased in the Trent 1000 (entry into service in 2010) for the Boeing       787.
+The Trent XWB engine (maiden flight in 2013) that powers the A350       Airbus will again see the introduction of additional friction welds where       University of Manchester contributed by undertaking detailed       microstructural and residual stress analysis.
+The Trent XWB was       custom-designed for the A350, and the A350 with the XWB engines provide a       25% step-change in fuel efficiency compared to its current long-range       competitor [A].
+More than 1,200 of these engines have so far been ordered       [B].
+It was announced in April 2013 that the parent company of British       Airways, International Airlines Group had placed an order with Rolls-Royce       for more than &#163;1 bn for Trent XWB engines to power a fleet of 18 Airbus       A350-1000 aircraft, along with an option to buy engines for a further 18       [C].
+The implementation of these friction welds allows Rolls-Royce to use new       high temperature materials (RR1000), as well as novel material       combinations.
+As a consequence, the engines can operate at a higher       temperature than previous engines with material that has about a 50 f0b0C       higher temperature capability than previous alloys.
+The result of this is       that Rolls-Royce has been able to develop new engines with improved fuel       efficiency.
+By enabling the operating temperature to be increased, there       are also subsequent benefits in terms of NOx and CO2       fuel emissions.
+In addition, research has enabled blisk technology, which has delivered       up to 30% weight saving on critical rotating components.
+The capability to       join materials without the requirement for mechanical joints (such as       bolts) has also enabled the development of novel engine architectures.
+This gives benefits in terms of SFC and has also enabled Rolls-Royce plc       to maintain market share as they are able to offer this technology to       their customers.
+All of these aspects are crucial for Rolls-Royce in order       to maintain competitive advantage and compete in the global market [D].

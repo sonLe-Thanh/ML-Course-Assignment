@@ -1,0 +1,43 @@
+     (i) The Impact of Signature     In October 2007 Frederick Burwick and James C. McKusick published Faustus:       From the German of Goethe.
+[i] This translation of Faustus     had originally been published anonymously, but their version carried the     bold subtitle Translated by Samuel Taylor Coleridge.
+The last     chapter of their volume consisted of a `Stylometric Analysis of the Faust     Translations', using Professor Millican's Signature software to corroborate     the authors' claim that Coleridge was indeed the translator.
+From the     beginning of 2008 this provoked a major literary controversy that has     persisted ever since, in numerous websites and journals (including The       Times Literary Supplement and The Guardian).
+The society Friends       of Coleridge, which aims to foster interest in the life and works of     Coleridge and his circle, has a page on its website with links to the     various responses that they have received to Burwick's and McKusick's claim.
+[ii]     Secondly, very shortly before the US Election in November 2008, Professor       Millican was involved in a controversy about Barack Obama's autobiography       Dreams From my Father.
+Some Republican commentators advanced claims       that this autobiography was either written or ghost-written by Bill Ayers,       a Vietnam-era domestic terrorist.
+Author Jack Cashill claimed that his own       analysis of the book showed Ayers' writing style, and backed this up by       citing analyses by American researchers using Professor Millican's       Signature software.
+In 2008 Professor Millican himself was approached by       US Congressman Chris Cannon, who attempted to hire him to prove Ayers'       authorship using computer analysis.
+Professor Millican refused, after he       was not given any advance assurance that the results would be published       irrespective of their outcome.
+He later carried out his own research and       criticized the claim, saying that he could find no evidence for Cashill's       hypothesis.
+The story made the front page of the Sunday Times in       November 2008, after Professor Millican had written an article about the       affair for that paper.
+[iii]     Finally, in July 2013, The Sunday Times again referred to his       work, this time after he had used his software to corroborate a suspicion       raised by Richard Brooks, the arts editor of the New York Times,       that the supposedly debut novel The Cuckoo's Calling by Robert       Galbraith was in fact written by J.K. Rowling under a pseudonym.
+[iv]       Professor Millican noted that this novel was significantly closer in text       comparison to other work by Rowling &#8212; including her Harry Potter work &#8212;       than it was to other crime books.
+Rowling subsequently confessed that the       work was indeed hers and commented on her own website, `I hoped to keep       this secret a little longer.'
+(ii) The Impact of Elizabeth and its Associated Research on Marketing     In August 2005 Professor Millican received an e-mail from Craig Kolb[v],       a business analyst with the company Ask Afrika.
+Kolb wanted to try to use       chatterbot technology in a marketing context, and had identified Professor       Millican's Elizabeth system as the most suitable for the purpose, owing to       its power, its control, and its flexibility.
+Working together, Millican       and Kolb developed a script that the latter then used to investigate South       African consumers' reasons for choosing their mobile phone network.
+Exploiting the feedback from this exercise, they have in the last year       undertaken further work towards producing an online version of Elizabeth       capable of augmenting online surveys.
+(iii) The Impact of Turtle and its Associated Research on Primary and         Secondary Education       Professor Millican's Turtle system is designed to enable beginning       students to script their own chatterbots and, in doing so, to learn about       artificial intelligence.
+This has led to his being involved in       consultation on Michael Gove's plans to develop the teaching of computer       science in schools, in place of the information and communication       technology that exists at present.
+Because of his philosophical interests,       Professor Millican was put in touch with Vanessa Pittard, who works at the       Department of Education and holds responsibility for the technology in       schools strategy and who is leading this initiative.
+He was subsequently       invited to participate in a conference organized by the National       Association of Advisors for Computers in Education, a community of       educators, technologists, and policy makers concerned with the role of       technology in advancing education: this conference took place in Easter       2012.
+A year later Professor Millican was invited by the Lord Empey of       Shandon to a meeting at the House of Lords on the teaching of computer       science in schools.
+This in turn issued in invitations to two HEA       workshops at Oxford Brookes for Computer Science and ICT teachers, at both       of which he displayed and promoted his software.
+Several of the teachers       decided to try out his software in their schools.
+These workshops were       organized by Alistair Surrall, the Oxfordshire `Computing in Schools       Coordinator', who writes, `Oxfordshire schools are lucky to have a local       university as supportive as Oxford...
+The workshops were a great       success...
+Some local schools have been trialling Professor Millican's       teaching tool Turtle, created to engage students (and teachers) in the new       Computer Science curriculum.
+We're now investigating the possibility of       running robotics workshops in local schools using the university's       resources to support the work being done in our classrooms.
+'[1]     Professor Millican also organized a visit for primary school children       from Westfields Junior School in Yateley to Oxford, where they used his       Turtle system to learn some basic techniques of programming.
+On a return       visit to their school he gave them further exposure to the system, using       the most recent hugely improved version of his software.
+Karine George,       headmistress of the school, writes, `As a consequence of [the first visit,       the school IT Manager began]... a programming club... using [Professor       Millican's software].
+The children... gained a great deal from the       experience... We do not want our children to be passive consumers of       technology, but better able to use their creative talents to imagine a new       future... [Professor Millican's] work in [the] school and at Oxford       University... has taken [their] coding to a new level... Our year 6       children have also been involved in the "APPs for Good" programme,       normally the reserve of 11 - 18 year olds.
+This has also involved coding       and resulted in them getting to the finals in London.
+'[2]     Among those who have been following and promoting Professor Millican's       work in relation to primary and secondary education is David Brown, the       Ofsted National Lead for Information and Communication Technology.
+He       writes, `It is clear that Professor Millican's research is being put to       really effective use in helping to shape the teaching of computer science       in both primary and secondary schools.
+'[3]     (iv) The General Impact of Professor Millican's Work on Higher         Education       Professor Millican's interest in the philosophy of computation led him to       pioneer a new degree at the University of Oxford in Computation and       Philosophy.
+This in turn inspired the introduction of a similar degree in       Computer Science and Philosophy at the University of York, where he was       made an Honorary Visiting Professor in Philosophy in 2011.
+Members of the       Philosophy Department at York had heard Professor Millican's account of       the new Oxford degree, and members of both the Philosophy Department and       the Computer Science Department had been impressed by the associated       research on his website.
+They were persuaded that there would be       considerable interest in a degree at York that combined the two       disciplines, and such a degree was established in 2012.
+Professor Tom       Stoneham, Head of the Philosophy Department, has said that he is happy to       corroborate this account.
+[4]

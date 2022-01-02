@@ -1,0 +1,24 @@
+     The beauty of the printed electronics technology that arose from the       FAB-3D is that it is capable of being used across a wide range of       application areas.
+Printed electronic devices can range from emissive       badges for people or instruments or even bottle labels, to displays for       products, games, devices for security purposes, or even personal lighting       devices such as light panels.
+It is also useful for short life-time       products, where cheap devices are required for limited time periods such       as for exhibitions or conferences, as well as for large-format devices       such as advertising display posters.
+Another large area where the       technology can be applied is on clothes as display panels or on safety       helmets to act as nightlights.
+The technology has been exploited by several industrial partners.
+1) As a result of the FAB-3D project, Johnson Matthey has successfully       sold precious metal nano- particles for making inks for the ink-jet       printing of plastic electronics to a number of different customers.
+This       has allowed them to understand the market and position themselves in the       supply chain.
+They have invested over &#163;2M in R&amp;D to support this       initiative.
+http://www.jmsilver.co.uk/page-view.php?page_id=192&amp;parent_page_id=178     2) Similarly, Intrinsiq Materials Limited (IML) has been selling copper       based inks for ink-jet printing ACEL displays.
+They write "...which         have allowed the company to grow in size from 9 people in 2007 to 31 at         the present time, and have secured an additional $4M of investment in         the technology from US based venture capitalists.
+The help that we have         received from Brunel has let us apply the technology to a large range of         new applications winning both significant TSB and EU funding (approx.
+&#163;5M to date) and more importantly a significant number of industrial         customers.
+We have sold pastes and inks to over 100 companies, and as a         result we are currently working on 8 joint development agreements to         ready the technology for industrial applications in displays,         electronics, solar cells, printed electronics and biotech."
+http://www.intrinsiqmaterials.com/Products.html     3) Printed Electronics Limited (PEL, Part of the Invotec Group of       Companies) were the industrial lead of the project.
+They state that their       "staff have grown from 3 at the start of FAB 3D to 14 now and their         biggest problem is getting qualified staff."
+PEL are working with       Hasbro to take embedded ACEL into board games.
+They further state that "At         the time there seemed to be nothing but problems but as we think back to         where we were and where we are now we are pleased and proud of our         achievements.
+Central to that achievement has been our relationship with         you and your colleagues for which you have our thanks."
+PEL have       secured &#163;8.6M of investment to develop a high-volume supply chain for       printed electronics.
+4) Keeling &amp; Walker &#8212; supplier of inorganic nano-materials     In collaboration with Brunel, Keeling &amp; Walker developed a novel       spin-coating method for applying transparent conductive coatings on glass,       based on an ink that contains antimony-doped tin oxide nano-powders.
+Brunel's role was in the characterisation of the nano-powders during their       development and full characterisation of the electrical and structural       properties of the deposits.
+K&amp;W now offer this ink for sale.
+A limitation of the process was that it required substrates that could       withstand the high temperatures necessary to cure the coatings.
+Initial       collaborative studies between K&amp;W, Brunel and Nottingham University       indicated that the process could be operated on more temperature-       sensitive materials by using a laser curing process, which had the added       advantage of improving process times.

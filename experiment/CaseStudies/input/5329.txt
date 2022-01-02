@@ -1,0 +1,35 @@
+     Impacts include: health and welfare, public policy and services,       practitioner and services Main beneficiaries include: patients,       practitioners, NHS, NICE, American Heart Association (AHA), American       College of Cardiology (ACC), European Society of Cardiology (ESC)     Heart failure occurs in 1-2% of the adult population rising to 16.4% in       men over the age of 75.
+The overall prevalence is 0.9% in men and 0.7% in       women, giving estimated total of 750,000 people in the UK [1].
+The most       recent National Audit report (2011) shows that there are roughly 68,000       hospital admissions for acute heart failure per annum [1].
+Most cases of       heart failure are due to coronary heart disease (approximately 70%) and       many heart failure patients have or have had hypertension.
+Although there       has been an overall decline in mortality from coronary heart disease, the       number of patients with heart failure is increasing.
+More than 80% of       patients who die in the weeks, months and years after a heart attack will       first develop heart failure, which is the underlying cause of their       mortality.
+Survival rates in epidemiological series are worse than for       breast and prostate cancer, with annual mortality ranging from 10% to 50%       depending on severity, with a high risk of sudden death.
+Newly diagnosed       patients have a 40% risk of dying within a year of diagnosis.
+Providing       services to patients with heart failure costs the NHS an estimated &#163;625       million per year.
+Heart failure is in the top ten diagnoses for use of       hospital bed days and places.
+The heart failure burden is set to increase, due to the increased age,       diabetes and obesity in the general population, and because it is now       possible to rescue patients who would previously have died during       myocardial infarction (MI) using improved treatments [1].
+Beta-blockers       both improve symptoms and produce 30-40% benefits in terms of mortality.
+In England and Wales 65% of patients are prescribed a beta-blocker, and it       is considered that this figure should be improved.
+Their use is now       mandatory in heart failure where once it was completely contraindicated: a       dramatic reversal of practice.
+The National Heart Failure Audit 2010       demonstrated that heart failure patients discharged home on beta-blockers,       and particularly if the beta-blocker was increased to &gt;50% of the       target dose, had better survival and reduced rehospitalisation for heart       failure at follow up.
+Particularly, the routine treatment of MI patients       with beta-blockers is found to lengthen life and reduce symptoms in the       heart failure population [1].
+The initial uptake of beta-blockers to treat heart failure was slow,       because the initial loss of cardiac function during dosage meant that GPs       were reluctant to prescribe these drugs.
+Adoption came following the       findings of the clinical trials and subsequent publication of the       international guidelines.
+The NICE 2010 guidelines for chronic heart       failure were predicated on the findings from the Imperial led randomised       controlled trials (as discussed above) and recommendations now include the       use of beta blockers in older adults with heart failure due to left       ventricular systolic dysfunction (as shown in the SENIORS trial), as well       as previously undertreated patient subgroups with heart failure including       chronic obstructive pulmonary disease (COPD), peripheral vascular disease,       diabetes mellutis and erectile dysfunction [2; see page 95].
+The American       guidelines AHA/ACC (2009) [3] recommend beta-blockers in a number of       stages for heart failure e.g.
+p410.
+"Use of 1 of the 3 beta blockers       proven to reduce mortality (i.e., bisoprolol, carvedilol, and sustained       release metoprolol succinate) is recommended for all stable patients with       current or prior symptoms of HF and reduced LVEF, unless contraindicated       (see Table 3).
+(Level of Evidence: A)".
+The recently updated ESC (2012)       guidelines [4] states in their section 7.2 Treatments recommended in       potentially all patients with systolic heart failure "The pivotal trials       with beta-blockers were conducted in patients with continuing symptoms and       a persistently low EF, despite treatment with an ACE inhibitor and, in       most cases, a diuretic.
+Despite this, there is consensus that these       treatments are complementary and that a beta-blocker and an ACE inhibitor       should both be started as soon as possible after diagnosis of HF-REF.
+This       is in part because ACE inhibitors have a modest effect on LV remodelling       whereas beta-blockers often lead to a substantial improvement in EF.
+Furthermore, beta-blockers are anti-ischaemic, are probably more effective       in reducing the risk of sudden cardiac death, and lead to a striking and       early reduction in overall mortality" (page 1804).
+In the section "Key       evidence supporting the use of beta-blockers" page 1805-6, they       extensively reference the COPERNICUS, SENIORs and COMET trials.
+Professor Poole-Wilson was a key opinion-leader in the adoption of       beta-blockers into clinical practice for heart failure.
+He gave many       presentations on the use and mechanism of benefit of beta-blockers,       showing experimental and clinical data from groups at Imperial, which       contributed to the widespread adoption.
+From his experience with the       COPERNICUS and COMET trials, as well as the underpinning Imperial research       on the protective role of the &#946;2AR, he argued strongly for       carvedilol as a drug of choice.
+Carvedilol is now a widely used drug for       this condition [8].
+NICE has adopted the use of beta-blockers in systolic heart failure as a       `Quality Standard (2011)' [5; see page 18] "Proportion of people with       chronic heart failure due to left ventricular systolic dysfunction who are       prescribed beta-blockers licensed for heart failure".
+It is also used as       an incentivisation metric for GPS in their `Quality and Outcome Framework       (QOF)' [6; page 12] "In those patients with a current diagnosis of heart       failure due to left ventricular systolic dysfunction who are currently       treated with an ACE-I or ARB, the percentage of patients who are       additionally currently treated with a beta-blocker licensed for heart       failure".
+For all indications, more than 191.5 million prescriptions for       beta blockers were filled in 2010, making them part of standard therapy       [7] and the 4th most commonly prescribed drug for all       indications [8].

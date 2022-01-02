@@ -1,0 +1,45 @@
+     Fluorescent ligand technologies developed at the University of Nottingham       have been commercialised through the spin-out company CellAura.
+Distributer agreements have made these ligands globally available,       enabling industry to gain new insights into receptor ligand interactions.
+In addition, the use of fluorescent ligands allows for faster, more       cost-effective screening studies that negate the need for radio-labelling,       making ligand binding studies safer and reducing the associated       environmental impact.
+The initial publication in the Proceedings of the National Academy of       Sciences (1) described for the first time a pharmacologically-validated       fluorescent ligand for a GPCR and the application of FCS to the study of       non-peptide GPCR ligands in membrane micro-domains of single living cells.
+This work and the patents (11,12) that were filed before this publication       formed the basis for the establishment of the spin-out company CellAura       Technologies Ltd in 2004.
+CellAura, based at Nottingham BioCity, began       trading in 2006 and has subsequently received investment funds of &#163;1.8M       (a).
+Since 2008, CellAura have maintained a workforce up to 7 FT and 4 PT       staff (a).
+CellAura currently market 51 products (17 validated ligands and 34       development ligands, www.cellaura.com).
+These products are underpinned by the novel ligand development process       patented by the University of Nottingham (11,12), which has been       exclusively licenced to CellAura since 2006.
+In some cases, ligands have       been developed in collaboration with the University (4,6) via a pipeline       agreement signed in 2008 (a).
+The unique selling point of these products       is that they are pharmacologically validated and provide applications not       previously available by conventional methods &#8212; they can be used on primary       cells (including from diseased tissue), on single living cells, in real       time and in the native environment &#8212; providing new information on binding       kinetics and receptor distribution, internalisation and signalling.
+They       can also be used to perform traditional receptor-ligand binding studies at       comparable cost to using radio-ligands without the need for associated       radioactive licences, infrastructure and safety monitoring, making these       studies more amenable to smaller research companies for whom it is not       practicable to have their own radiation facilities.
+To facilitate access to CellAura's products, on-going regional       distributor agreements were arranged with Fisher Scientific (UK and       Scandinavia) and Funakoshi (Japan) in 2009, and worldwide agreements with       Abcam and Sigma-Aldrich in 2011 (a).
+CellAura also make direct-to-customer       sales in Europe, North America and Australasia, and provide custom ligand       development contracts.
+Their customers include the major pharmaceutical       companies AstraZeneca, Pfizer, Sanofi Aventis, Amgen and Takeda, and GPCR       biotechnology companies such as Addex and Heptares (a).
+Novartis       Pharmaceuticals UK Ltd has used CellAura ligands to understand the       mechanism of `tethered' drugs which has led to a new direction in their       research into GPCR drugs.
+The Global Head of Respiratory at Novartis       confirmed the benefits to the company "Novartis' studies with         fluorescent derivatives of therapeutic compounds have led to the         ground-breaking concept of tethered drugs which Novartis has applied to         better understand the pharmacological mechanism of drug compounds and to         direct new research on longer acting drugs targeting GPCRs.
+It is         therefore an enabling technology that brings benefits to the         pharmaceutical industry by allowing the pursuit of approaches that were         previously unavailable".
+(b)     CellAura ligands are also utilised by drug discovery technology       providers.
+Between 2009 and 2012, CellAura developed a number of custom       fluorescent ligands for CisBio Bioassays, a French-based global drug       discovery assay development company.
+CisBio adopted 18 `active' ligands       (prepared exclusively for CisBio and not available via the CellAura       catalogue) for use in their proprietary Tag-lite&#8482; GPCR high throughput       screening (HTS) platform (a,c).
+Promega Corporation, a US-based market       leader in developing and commercialising novel reporter technologies and       assay chemistries for interrogating GPCR signalling, has been using       CellAura ligands since 2011 to successfully validate their innovative       NanoLuc&#174; Luciferase Technology.
+The combined use of this superior       luciferase technology along with high affinity fluorescent ligands has       also enabled GPCR-ligand interactions to be studied via Bioluminescence       Resonance Energy Transfer (BRET; d).
+Promega state that "The         fluorescent ligands developed by CellAura have proven to be excellent         tracers for measuring the affinities of various GPCR drugs in the         competitive displacement format, and have helped to validate NanoLuc as         an excellent reporter tag for ligand binding studies using BRET.
+Data         presented to customers in the pharma industry in 2012 and 2013 have         spurred considerable interest in NanoLuc/BRET for general target         engagement assays".
+(d)     Since 2008, CellAura have demonstrated that their technology works on a       range of functional screening platforms used in the pharmaceutical       industry, including high content analysis (HCA) imaging platforms.
+Demonstration results have been disseminated via poster presentations at       various scientific meetings (e) and used in marketing materials.
+CellAura       was voted `best new technology' at the European Laboratory Robotics       Interest Group (ELRIG)/ SBS Drug Discovery meeting in 2008.
+Fluorescence       techniques such as HCA rely on high resolution fluorescence image capture       meaning that these techniques are not as fast as traditional methods for       receptor ligand binding, and are in general being used to provide       additional information alongside rather than replacing radio-ligands in       HTS.
+In 2012 CellAura established a successful collaboration with BMG       Labtech (a German-based global developer and manufacturer of microplate       readers) that enables CellAura's ligands to be utilised on a conventional       (non-imaging) PheraStar fluorescence plate reader.
+Ligand binding assays       analogous to radio-ligand studies can be performed on the PheraStar with       inherent safety advantages.
+The PheraStar also has time saving advantages       over HCA (all inclusive 96 well plate assay time of &lt;10 minutes,       compared to approx.
+1 hour) and gives comparable binding data, making this       technique more amenable for HTS.
+Technical notes outlining this technique       are made available via both the CellAura and BMG Labtech websites (f).
+In       addition, a PheraStar plate reader costs much less than a HCA imaging       platform (approximately &#163;70K compared to &#163;450K (i)).
+Together, these       fluorescent ligand binding techniques provide improved methods for       investigating ligand interactions with GPCRs (discussed by Comley in the       industrial publication, Drug Discovery World Spring 2009, 32-50)       and time and cost benefits (particularly when using specific screening       platforms) for drug discovery, important factors when promoting new       technology to a pharmaceutical industry that has undergone major       realignment in recent years.
+In addition to the use of fluorescent ligands in drug discovery, CellAura       have diversified the impact of the technology to include live cell       sorting.
+This new patented technology (g), filed by CellAura in 2007,       describes the novel use of fluorescent ligands as alternatives to       antibodies for fluorescence activated cell sorting.
+The method described       can be used to easily sort cells expressing specific receptors when       generating recombinant clonal cell lines.
+CellAura ligands have been used       by the German SME inSCREENex GmbH since 2009 to establish cell lines for       drug discovery.
+Their Managing Director confirmed the benefits of using       CellAura ligands "The performance [of the ligands] was great and         superior to any of the antibodies we used in parallel.
+By using the         ligands we were able to reduce the time to analyse our cell lines         significantly.
+Further, the application of the ligands allowed us to         screen a high number of novel cell lines for optimal expression.
+This is         not possible with conventional methods like Western Blotting."
+(h)     In summary, commercialisation of fluorescent ligands through CellAura has       opened up new and improved methods for industrial drug discovery, and a       number of distributer agreements have made these ligands globally       available.

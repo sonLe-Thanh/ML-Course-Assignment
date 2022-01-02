@@ -1,0 +1,26 @@
+     Our research in systems architecture, privacy protection and human       dynamics has been applied in the development of five systems supporting       applications relating to environmental sustainability, healthcare, urban       development, transportation, and art:            Environmental Sustainability.
+In response to the call by the         Convention on Biological Diversity of the United Nations, the Bat         Conservation Society established the Indicator Bats (iBats)         biodiversity-monitoring programme (http://www.ibats.org.uk).
+We applied         our work in systems architecture to design and develop a smartphone app         employed by citizen scientist volunteer groups to collect evidence         quantifying bat populations from echolocation signals, subsequently used         by the iBats software to infer ecosystem health.
+According to statistics         provided by Apple Market and Google Store, over 7,000 volunteers in 65         countries across the globe have deployed our app on their smartphones.
+The extended reach of the app has become possible through the         application of the techniques described in [4], replacing an assortment         of data collection equipment previously employed at a cost of &#163;1,000 per         person by the user's smartphone and an ultra-sound microphone costing         less than &#163;100.
+Extensive coverage of what the press has named the Bat         Phone has resulted in greater public engagement with the iBats         programme.
+This work was a Medallist for Environmental Project of the         Year at the 2011 BCS UK IT Industry awards.
+Healthcare.
+Our work on system architecture [5] and human dynamics [1]         has been applied to extend the standard Universal Parkinson's Disease         Rating Scale (UPDRS) to assess the severity of symptoms of Parkinson's         sufferers.
+Our system employs the advanced inertial sensors, audio, and         touchscreen of a smartphone to automatically capture motor performance         indicators, which are then made available through secure transmission to         the hospital for analysis and safekeeping.
+By enabling the         administration of tests at home, our system reduces the frequency of         hospital visits, thus improving the quality of life for sufferers and         leading to reduced overall cost of care.
+Moreover, the assessment of the         patient's condition is more precise than using standard UPDRS, which         means that the dosage of medication is better controlled.
+Our system has         been validated in a preliminary clinical trial at the National Hospital         of Neurology and Neuroscience with a sample of 100 patients and is         currently seeking a full clinical study to achieve CE certification for         use with the general public.
+Urban Development.
+We were commissioned by inmidtown, the business         development district of Bloomsbury, Holborn and St. Giles, to apply our         research on human dynamics [2,3] in order to develop a participatory         sensing system providing evidence of carbon savings as relating to green         initiatives being co-ordinated by them.
+Our system collects location         tracking information from a sample of 3,000 volunteers from the 350,000         who work in the district.
+Our software identifies patterns of users'         behaviour, which are employed by inmidtown to inform the redesign of         urban flows in the area, specifically aiming to improve the well-being         of the working population.
+Transportation.
+We have used our models of human dynamics [3] to         develop and release a mobile app on Google Play that allows London         commuters to optimise their travel expenditure.
+The app is free and         allows any of the 22 million Oyster Card users who choose to download it         to save up to 20 per cent of their monthly travel costs.
+The app has         generated significant income for the department through advertising         using the Google AdMob system.
+Art.
+Our research in participatory cyber-physical systems [2,4] has         been employed in collaboration with Proboscis for the creation of         community and performance works of art.
+These works have been exhibited         at several national and international events, attended by over 5,000         participants in total, including Surface Tension (Science Museum, London         2009), Digital Cities (The Building Centre, London 2009), Mobilefest         Festival (Sao Paulo, Brazil 2009), Dislocate08 Festival (Yokohama, Japan         2008), and Art and Cartography Exhibition (Wien, Austria 2008).
+Since 2008, we have engaged with the general public by discussing our         research in several trade and general science blogs, magazines and         newspapers including Information Week, Financial Times, Daily Mail, New         Scientist, Tech Radar, RFID Journal, AIM News, Stern (Germany), and Vima         and ERT (Greece).
+Collectively, these media reach an audience of over 5         million worldwide.

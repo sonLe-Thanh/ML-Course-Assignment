@@ -1,0 +1,28 @@
+     Impact on health       The development by ICR researchers of conformal radiotherapy and then the       refinement of that       technique to create effective and deliverable IMRT has revolutionised       radiation therapy.
+The       impact has been seen both in terms of more effective disease control and       improvements in patient       wellbeing by decreasing the side-effects of healthy tissue irradiation.
+Tumours can be precisely       targeted within a high intensity radiation volume, while adjacent normal       structures can be spared,       leading to reduced side effects.
+Because of reduced irradiation of       adjacent tissues, higher doses       can be delivered to the tumour &#8212; resulting in improved cure rates.
+In       addition, cost-effective       hypofractionation can be employed, providing economic benefit to the NHS       (Research Ref 4       above).
+As a result of the outcome of the ICR/RM clinical research trials       programme, IMRT is now the       approved treatment technique for many cancers in the UK and elsewhere,       with changes made in       clinical guidelines to implement this.
+For example, IMRT is standard       treatment for early prostate       cancer, benefiting about 8,500 men per year in the UK [1].
+This treatment       modality is now       recommended in guideline publications from the European Association of       Urology (EAU), the       European Society for Medical Oncology (ESMO) [2] and from the US [3].
+The       dose and fractions       that are recommended in these guidelines are based on the ICR/RM trials,       which are referenced       as evidence in the guidelines.
+IMRT is also being used in the treatment of breast cancer (NICE guideline       CG80 [4]), lung cancer       (NICE guideline QS17 [5]) and metastatic spinal cord compression (NICE       guideline CG75 [6]).
+The       patient benefit that is attributable to IMRT, which stems from the changes       in clinical guidelines in       the UK, has recently been positively assessed by Cancer Research UK [7].
+IMRT is in widespread use for head and neck cancers to reduce parotid       gland dose and avoid the       complication of "dry mouth".
+The ICR and the RM led the national PARSPORT       trial of parotid-sparing       radiotherapy and from that demonstrated the dose constraints to be applied       (Research Ref       6 above).
+The national implementation of IMRT for head and neck cancer has       been led by a       number of different levers, for example, the National Cancer Action Team       recommended that it       should be made available in all centres for head and neck cases following       the PARSPORT trial.
+The ICR has had a significant impact on healthcare practice through its       important role in the       implementation of the proper and effective delivery of IMRT throughout the       UK, leading to gains in       efficiency and productivity in the NHS.
+Using test cases, ICR medical       physicists train staff in other       UK hospitals to use this technique, thus driving the modernisation of       radiotherapy throughout the       NHS.
+The ICR runs a national IMRT course each year involving around 70       trainee radiography       practitioners.
+All new radiotherapy equipment can deliver IMRT but without       the training provided by       the ICR/RM not all the hospitals would have the capability to use it.
+Thanks to the UK       Governments Radiotherapy Innovation Fund (&#163;23m), 22% of patients receiving       radiotherapy were       given IMRT in April 2013, up from around 14% in Aug 2012 [8].
+The fund's       primary objective is to       extend NHS capacity to deliver IMRT, and as such this initiative has also       funded a nationwide       IMRT fundamentals course under the leadership of Professor Nutting, in       collaboration with the       Royal College of Radiologists, to increase clinician involvement in and       awareness of IMRT.
+Impact on commerce       In addition to the clinical impact of the ICR research on the development       and implementation of       conformal radiotherapy and IMRT, the research has also had a commercial       impact.
+The ICR       worked with the company Elekta AB to develop techniques for its       accelerators to enable them to       effectively deliver conformal radiotherapy and subsequently IMRT.
+Elekta       formed an international       IMRT research consortium from 1994 to 2001 to help to develop IMRT       delivery technology.
+Professor Webb was Chair from 1998-2000 and played an active role       throughout.
+Elekta continues       to market accelerators with IMRT capability, based on this research, to       this day.
+This has added       considerable shareholder value to Elekta [9].
+ICR's collaboration with Elekta was never exclusive and many other       companies developing IMRT       technology were helped by the ICR's publications and expertise (for       example, Varian, BrainLab       and Calypso).
+Professor Webb also worked with DKFZ, through a Visiting Professorship,       helping their spinoff       company MRC Systems (later part of Siemens) to develop IMRT technology.

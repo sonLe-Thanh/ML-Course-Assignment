@@ -1,0 +1,57 @@
+     The search for and discovery of the Higgs boson using the ATLAS detector       have had a significant impact upon the public's interest and engagement in       physics.
+This has been achieved through a variety of public engagement       activities that UCL research helped underpin.
+Films for schools and the general public: "Colliding Particles" is       a series of 12 short films funded by the STFC and produced between 2008       and 2012.
+They are based in large part on reference [4] above, following       the development of the new way of finding the Higgs boson, and showing how       an experiment-theory collaboration works and how a result can get approved       by a big collaboration such as ATLAS.
+The films, which also extensively       feature the detector [2] and the Higgs discovery [1], were targeted at       schools and the "how science works" curriculum.
+As of December 2012 they       had been viewed approximately 100,000 times on YouTube and Vimeo, and many       of these views would have been in classes with many students seeing a       single view.
+The level of interest seems to have been sustained or       increased, and the number of views was nearly 200,000 as of 31 July 2013.
+They are also available on a dedicated website (www.collidingparticles.com)       along with teaching resources for each episode.
+The series has stimulated       interest in physics amongst school children and the wider public, as       evidenced by the following selected feedback [A]:     "As a physics teacher, I've used [the films] quite a bit in my         teaching at Dulwich College and several students appear to have been         really quite taken with them &#8212; in fact at least 4 are pursuing physics         and the films actively helped them make their decision."
+"Great series, has inspired me to begin studying physics at the Open         University."
+"From a consummate layman, this sort of snapshot is v important for         people like me, its good to get an insider's view of the reasons behind         the investment and the possibilities that become reality for you         boffins.
+Good work."
+"The best film I've seen about science, full stop.
+As a scientist, I         recommended it strongly to my non-scientist friends as the best way of         understanding what science is really like.
+Thank you."
+"Quality reality television which has something totally fascinating to         say with grit, class and style &#8212; captivating and moreish.
+I'm sure these         films inspired at least 3 of my students to apply for physics at         university."
+Online blog: Butterworth's "Life &amp; Physics" blog began on       Wordpress in December 2009, with a post explaining the physics of       reference [4], and moved to The Guardian's website in August 2010.
+The       blog regularly discusses UCL research, including the progress and       implementation of the technique described in reference [4], and the key       background measurements and calibrations.
+Butterworth posts approximately       once a week, and the blog attracts a sustained average of about 50,000       unique visitors a month, with peaks of around 20,000 a day for key posts       at key times.
+The Guardian's Editor in Chief said [B]:     "The discovery of the Higgs boson was a huge international news story         with massive interest from readers.
+Prof Butterworth's insider take on         the Higgs and his contributions on the field of particle physics in         general have been integral to the Guardian's science coverage.
+And his         blog has been very popular with our online audience."
+The Guardian's Assistant National News Editor with special responsibility       for science, environment and technology said [C]:     "The discovery of the Higgs boson was undoubtedly the most important         pure science story of 2012 and biggest in terms of readership on the         Guardian's website.
+This culminated in a rich suite of coverage around         the discovery announcement in July last year &#8212; including a live blog         (over 300k page impressions) and video (over 200k) that explains what         the Higgs boson is in simple terms.
+[...] And needless to say, the         announcement dominated the front page of the newspaper.
+"The Guardian's network of science blogs, of which Prof Butterworth's         Life and Physics is one, have a very unusual status that is unique in         Fleet Street.
+He and the other bloggers are able to publish directly to         the Guardian's website without direct editorial intervention.
+He was         selected for one of these coveted blogs because he is a great writer and         an immensely authoritative figure in the field.
+We recognised when we         set them up that this area of physics was going to be scientifically         interesting as well as hugely newsworthy and wanted someone who could         write from the inside on what the developments in the field really         meant.
+Prof Butterworth's blogs have delivered that in spades including         a personal take on the Higgs announcement itself.
+He has been integral         to our coverage of this vitally important area of research."
+Public discourse about science is stimulated by the blog, as evidenced by       the frequent online discussions (dependent on topic) with some posts       attracting more than 500 comments.
+A selection of feedback from readers       demonstrates the significant impact that the blog is also having on public       interest and understanding of physics [D]:     "Professor Butterworth's online outreach and engagement activities         have had a profound impact on my career in science.
+As I was completing         my STFC-funded PhD [...] I often found myself wondering if juggling the         research and the communication of the research was sustainable &#8212; even         possible &#8212; in the long term.
+[...] The picture painted [by the blog] was         one that convinced me that perhaps a combination of physics, engagement,         management &#8212; and even a healthy work/life balance &#8212; was possible [...]."
+"I think [your blog] is one of the most influential blogs in particle         physics, including also the discussion of wider issues like science         funding etc.
+It is a very nice mixture of scientific facts and personal         insights, and as such it appeals to both a wider audience and to         professionals.
+Personally, I have to say that your blog is one of the         very few I actually read, and it not only provided stimulating thoughts,         but has also informed me of recent scientific results."
+"It is the best physics blog and I read every article with great         attention.
+It makes having the internet worthwhile and it makes the         readers feel like they're a part of the biggest experiment of the age."
+"I had decided some time ago that I was going to try to learn physics         properly, and had made a small start on it around the time the LHC         kicked off its proton-bothering in anger.
+But since then, having been         able to follow its progress (along with other science news), as written         by a real, day-to-day working scientist [...] has really spurred me on.
+In short, your blog has fuelled my enthusiasm for the subject [...]."
+TV programme: BBC's programme Horizon: The Hunt for Higgs, based       on references [1] and [2] above and specifically featuring UCL's       Butterworth and Davison, attracted around 1.43 million viewers with an       audience appreciation score of 85%, significantly above the average of 82%       (source: BBC, Programme Producer [E]) on its first broadcast on BBC Two       (Jan 2012) and has subsequently been repeated several times.
+AA Gill in       the Sunday Times reviewed the show, describing it as the "top show of the       week" [F].
+The programme was shortlisted for the EuroPAWS best Science in       TV Documentaries Award 2012 [G].
+Public events: About 15,000 people attended five shows (Nine       Lessons and Carols for Godless People, 2011 and 2012; End of the World       Show, 2012; Science Showoff, 2013; and Feynman Birthday, 2013) at which       Butterworth and others discussed the Higgs [1, 2].
+The End of the World       Show had an audience of about 3,500 and a ticket price of &#163;25-40.
+Butterworth also contributed to two events held at Latitude Festival in       2012 about the discovery of the Higgs boson, based on the research in       references [1] and [2] above.
+These were an Infinite Monkey Cage event and       an hour discussion on the Higgs boson in the Literary Tent, and were       attended by about 8,000 people in total.
+Schools talks: Members of the UCL HEP group also deliver many       talks in schools, underpinned by their particle physics research.
+At least       14 Higgs-related talks have been given since January 2008, reaching       between 20 and 250 students at a time (approximately 1,000 students in       total).
+An example of feedback (from the Head of Physics at Highlands       School, a state-funded comprehensive in Enfield, London) [H]:     "We are very much missing James Monk's contribution to our physics         students (incidentally we had 12 AS students when you visited us, now we         have 40).
+They are about to start particle physics and it would be great         if one of your team could find the time to come and talk about what is         happening in your research.
+This type of talk has a huge impact in terms         of connecting students with the subject."
+While aspects of the impact clearly focus on UCL contributions, the huge       collaborative effort of ATLAS, the LHC and CERN, which involves many other       UK institutions, was obviously vital and these other institutions share in       the credit for the impact generated.

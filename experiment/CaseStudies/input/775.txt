@@ -1,0 +1,27 @@
+     Researchers, both academic and industrial, from all over the world       (Netherlands, Belgium, Italy, France, USA, Canada, India, Korea) made use       of our work as evidenced from the citations made to our papers listed       above.
+One paper that cited our work is by a group in the Vancouver-based       company LB Foster Friction Management.
+Eadie D.T., Santoro M. and Kalousek J.
+(2005) Railway noise and the       effect of top of rail liquid friction modifiers: changes in sound and       vibration spectral distributions in curves.
+Wear 258, 1148-1155.
+LB Foster used our work to gain crucial insight into the fundamental       mechanisms of wheel squeal, in particular the role of stick slip and the       shape of the traction-creepage curve.
+Armed with this insight, they       developed a commercial product, the KELTRACK &#174; Top of Rail Friction       Modifier, which has revolutionised the wheel/rail interface dynamics and       has achieved unsurpassed reduction of squeal noise.
+http://www.lbfoster.co.uk/_pdf/Portec-Keltrack.pdf     KELTRACK is a water-based suspension of proprietary solids, which is       pumped to the top of the rail by a trackside delivery system, prior to a       curve where squeal is of particular concern.
+The water component       evaporates and the material remains as a thin dry film.
+This film alters       the coefficient of friction to a value between that of dry friction and       that of a lubricated contact, and hence changes the lateral friction force       between wheel and rail.
+In this way, the stick/slip feedback between wheel       oscillations and friction force is disrupted, i.e.
+the mechanism that       generated the squeal noise has been deactivated.
+This technique allows       KELTRACK to dramatically reduce squeal noise as trains negotiate a curve.
+The noise abatement levels (up to 27 dB) are almost immediate.
+Other       benefits (not found in traditional lubricants such as oil or grease) of       this system include reduced lateral forces, reduced wear, decreased       potential for derailment, no effect on traction and breaking,       environmentally safe (non-contaminating).
+The Top of Rail Friction Modifier is now used on railways around the       world, for example on Tokyo Metro, Beijing Metro, New York City Transit       Authority, Madrid Metro and numerous others which transport billions of       passengers daily.
+Within the UK, KELTRACK is applied on London       Underground, and on sites on Network Rail.
+For example there are a number       of application systems controlling curve squeal around Euston Station in       London.
+(see the e-mail by Dr Don Eadie, Vice President, Technology and       Innovation, LB Foster Friction Management dated 6 June 2012).
+The impact       world-wide has been and continues to be massive, benefitting millions of       commuters and city-dwellers.
+Another paper that cited our work was produced by a European research       consortium focussing on active squeal attenuation.
+Cigada, A. Fehren, H., Manzoni, S., Redaelli, M., Schiedewitz, M. and       Siebald, H. (2008) Investigations on the attenuation of squeal noise from       a resilient railway wheel by means of piezo-actuators.
+Proceedings of ISMA       2008, 2709-2723.
+Cigada et al applied our work within the FP6 &#8212; funded project InMAR       (Intelligent Materials for Active Noise Reduction, see http://www.inmar.info/start.htm       ).
+In an e-mail dated 29/6/2012, they write "we have studied your research       in order to fully comprehend the squeal phenomenon and its generation       mechanism and to find suggestions on the way to actively control it.
+Finally we have been able to control squeal".
+One of the partners of the       InMAR consortium was the company ERAS GmbH (G&#246;ttingen, Germany), which has       a commercial interest in controlling squeal noise (and other unwanted       vibrations) by active methods.

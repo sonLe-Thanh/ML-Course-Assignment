@@ -1,0 +1,38 @@
+     The original research work from 2003 onwards has helped UK companies to       introduce new       products and improve both their competitiveness and productivity.
+Two       specific beneficiaries are:       Guidance and Zetica.
+The work with Guidance Navigation Ltd began with an EPSRC research grant       (GR/S12845/01)       which then lead to a KTP award (KTP006498 from 2007 to 2009 for &#163;262,452).
+Guidance is a       leading developer and supplier of sophisticated navigation and position       measurement systems.
+When Guidance began to work with Liverpool in 2005, the company employed       about 30 people.
+Now the company has expanded to three groups working in navigation,       monitoring and       microwaves with over 120 employees.
+The company has benefited greatly from       two innovative       solutions from the research described above: one was a smart and       cost-effective diversity antenna       system for their offender tagging system, which has significantly improved       the system reliability       and operational range.
+The other one was a specially designed reflector       antenna which could       produce a narrow horizontal beam but a broad vertical beam for marine       guidance and navigation.
+Guidance has provided electronic tagging systems for use in offender       monitoring since 2000.
+However, there was a serious problem with the system: the RF communication       link between the       tag and the receiver was not reliable and sometimes caused false alarms,       potentially disastrous       since offenders might be falsely accused of breaching their home curfew       terms.
+Huang and       colleagues identified that the unreliable radio link was mainly caused by       the unoptimised antenna.
+A cost-effective polarisation diversity antenna system based on our       original work [3.1, 3.2], was       developed and implemented by Liverpool, has significantly improved the       system performance.
+As a       result security of offenders has increased, the public policy relating to       offender management has       improved and Guidance has outperformed its competitors and won new       contracts.
+For example, in       the UK its market share has gone up from 20% (2005) to over 70% (2010);       and it has also helped       the company to win contracts overseas (e.g.
+the USA and France).
+In       addition, in 2006 the       company won the Queen's Innovation Award for this product.
+In 2011,       Guidance Monitoring       division was bought by G4S (a global security company) for over &#163;10m due       to the outstanding       performance and profitability of the well developed tagging system [5.1].
+Around 2005, Guidance was developing a new product, "RadaScan", a       microwave-based range       and bearing measuring system for the marine and offshore dynamic       positioning market.
+One of the       main challenges was the antenna which should be small (&lt; 0.5 m x 0.5 m)       and have a narrow       radiation beam-width (&lt; 2 degrees) in the horizontal plane, but a broad       one (&gt; 15 degrees) in the       vertical plane.
+Guidance approached Liverpool where an in-depth study was       conducted and an       innovative antenna was successfully designed using the Liverpool research,       developed and       implemented by Guidance: "All the major specifications were           achieved.
+This product was a           great success and has now become the best selling product for Guidance           Navigation Ltd           and generated the major income stream for the Company The company size           has grown           from about 40 people in 2005 to more than 100 people in 2012"       The income stream generated       was "...about &#163;6m in 2011" [5.1].
+Collaboration with Zetica Ltd has been going on for over 10 years.
+A       feasibility study for       unexploded ordinance started in 2005 which resulted in a KTP award in Feb.       2008 (KTP006540 for       &#163;217,220) for 2.5 years to develop this idea into a product.
+Zetica is a       UK leader in environmental       geophysics with a reputation for cost effective surveys.
+Redevelopment of       previous used land is a       key element of national planning policy.
+When a construction project       starts, it normally begins with       a survey to ensure the safety and suitability for the project.
+Common       practice is to drill many holes       to identify subsurface features.
+However, this process was slow and       sometimes dangerous due to       occasional unexploded subsurface ordnance (UXO), e.g.
+from WWII.
+This can       be a significant       problem for development for dense urban areas (e.g.
+London), where bombing       was of high       frequency.
+The research work on intelligent drilling systems at Liverpool       [3.4-3.5] provided an       excellent solution to this problem.
+The system comprises a new       magnetometer and wireless       communication unit, enabling the ground information near the borehole to       be obtained.
+The       unexploded subsurface ordnance can be located and identified with greatly       improved efficiency       and personnel safety.
+"This unique product has enabled Zetica to           provide far more economic           and flexible service".
+Liverpool's expertise in antennas: "...has           enabled [Zetica] to explore new           business opportunities around the world... related services are now a           significant part of the           company's portfolio" [5.2].
+The impact achieved has arisen directly from the underpinning research       undertaken solely at       Liverpool.
+Our contribution has not only directly helped the companies to       produce new products,       improve performance and win contracts, but an additional benefit is that       both the working       environment and company personnel safety have been improved.

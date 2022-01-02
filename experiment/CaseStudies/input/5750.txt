@@ -1,0 +1,49 @@
+     The Highways Agency (the UK's largest bridge owning authority) and       Network Rail are responsible for maintaining almost 12,000 concrete       bridges, constructed as far back as the 1920s.
+The underpinning research       has directly fed into various design and maintenance guidance documents       which have allowed the aging stock of bridges and structures to remain in       service throughout the UK and worldwide during the REF period and into the       future.
+Design Guides and Standards     Bath's research on strengthening structures using FRPs established the       team's credentials to lead the writing of the UK's guidance on       strengthening concrete structures using advanced composites, the Concrete       Society's TR55 (2nd ed.
+2004).
+The findings of Bath's       strengthening research are incorporated into the document, forming       essential clauses associated with maintaining structural integrity, which       must be complied with when considering any FRP strengthening scheme.
+This       edition is recognised as a leading document in the field and its reach has       been Worldwide.
+The Technical Advisor of the Concrete Society comments with regard to         TR55: "We have had enquiries about it from Australia, New Zealand,       Hong Kong and Singapore.
+Clearly it is highly thought of in Singapore.
+Material supplier, Fyfe Asia, specifically asked to be involved with both       the Second Edition and the present project [the third edition of TR55].
+It       is used in preference to the ACI documents in regions of the world where       the design codes are based on British Standards rather than American       Concrete Institute.
+In the UK, it is of course the document of choice for       Highways Agency, Network Rail and London Underground."
+[1]     For example, TR55 was consulted when designing the strengthening of the       West Gate Bridge cantilevers in Australia (completed in 2011), as part of       a $240M upgrading scheme [2].
+It has also informed key design clauses in       the American Design Standard (2008), ACI 440.2R-08 [3] as evidenced by       direct reference to TR55.
+The success and significance of this document       has been recognised by both the Concrete Society and industry, leading to       commissioning of a third edition, again led by the Bath team [4].
+This       third edition (2012) contains additions based on Bath's more recent       research (deep embedment shear strengthening and column strengthening).
+This allowed the first use of Bath's deep embedded bar technique to       increase the load capacity of a coffered floor slab in a data storage       centre in London in 2012 (a &#163;315k contract), the only feasible method to       carry out the strengthening [5].
+Additionally, the Highways Agency (HA) requires designers using FRP to       strengthen HA infrastructure to comply with their document, BD85/08, which       was revised in 2008 to incorporate the approaches that Bath had developed       for TR55 in 2004 (http://www.dft.gov.uk/ha/standards/dmrb/vol1/section3/bd8508.pdf).
+The techniques developed by Bath for dealing with inadequately anchored       reinforcement were also incorporated into a recent revision of the       Highways Agency bridge assessment document, BD44, to be published in 2014.
+This document too must be complied with by designers when dealing with HA       structures.
+Engineering Consultants     The research on assessment of inadequately anchored reinforcement       was carried out in collaboration with the HA and Parsons Brinckerhoff, a       leading engineering consultant.
+One of the Bath researchers involved in       the work (Shave) is now employed by Parsons Brinckerhoff and he exploits       the technique for the benefit of their clients.
+During structural       assessment, they regularly encounter situations where anchorage of       reinforcement is short/unknown.
+The techniques developed by Bath allow       them to assess the adequacy of these structures.
+The Regional Associate of Parsons Brinckerhoff states: "The       research carried out at Bath University on the shear assessment of       concrete bridges with short anchorage details has resulted in significant       economic and operational benefits related to the management of concrete       bridges.
+The particular issue identified in the research has cropped up in       around 5 of the bridges that Parsons Brinckerhoff has assessed since 2008       for Local Authority clients responsible for maintaining the local road       network.
+Without the findings of Bath's research, these structures would       have needed very expensive replacement or strengthening works amounting to       hundreds of thousands of pounds.
+However, we were able to advise the       clients on suitable management strategies including refined assessment       methodologies based on the direct application of the research, and this       has allowed these structures to remain in service.
+In addition, through       effective dissemination of the research, the benefits have been realised       to a greater extent across the industry, including the incorporation of       the methodology into the standard for assessment of concrete highway       structures, BD44."
+[6]     The Concrete Society's TR55 document allows consultants to propose       efficient, cost effective FRP strengthening schemes where,       otherwise, strengthening would be unfeasible or prohibitively expensive.
+For example, consultants Tony Gee and Partners, in the last two years       alone, have carried out approximately 16 FRP strengthening schemes,       designed according to TR55.
+The Executive Director, Tony Gee and Partners comments: "The       publication of TR55 and subsequent update, have given clients the       confidence to specify the use of FRP materials.
+The research carried out       at Bath and elsewhere, together with contributions made by many respected       designers, provides evidence that the procedures in the document are       robust, efficient and safe.
+We no longer have to justify the robustness of       the technique to clients, who are delighted that we are able to preserve       structures that would otherwise need to be replaced at major additional       costs.
+We have even used the document to promote the technique overseas,       building a portfolio of over 200 FRP strengthened structures."
+[7]     Apart from preventing needless demolition of structures, whose       replacement cost would run into &#163;millions (replacement of a two lane       concrete motorway bridge costs &#163;1.5M-&#163;2M), large savings (hundreds of       &#163;thousands) are made, compared to conventional strengthening methods, due       to improved construction speed, site safety, and reduced road closure       costs.
+Another example of the impact of this work is a &#163;160,000       strengthening scheme in 2010 by engineering consultants Mouchel for       Minsterley Bridge, a Grade II listed concrete arch bridge which provides       the primary means of access to Minsterley.
+Research carried out at Bath on       curved soffit strengthening was used directly in the scheme, as too was       TR55 [8].
+This allowed removal of a 7.5 tonne load restriction, providing       full lorry access for the benefit of local business.
+Bath's FRP strengthening research has also been disseminated since 2003       through our undergraduate `Advanced Composites in Construction' taught       unit.
+Graduates have used these techniques in practice.
+For example, in       2009, Graduate Engineers at Integral Structural Design designed extensive       FRP strengthening as part of the refurbishment of Temple Circus in       Bristol, providing floor slab cut-outs for stairs and services, extending       the usable life of the building [9].
+Infrastructure owners     Bath's research, via TR55 and BD85/08, has fed into five major composite       strengthening schemes on HA owned concrete bridges since 2008, costing       between &#163;100,000 and &#163;600,000 each.
+The Bath research incorporated into       TR55 has also benefited Network Rail, who state that they make savings       well in excess of 30% (typically saving &#163;200,000 per bridge) by adopting       FRP strengthening schemes, compared to conventional techniques.
+They       estimate that, over the last 5 years, the savings have totalled in excess       of &#163;5 million [10].
+While not all are concrete structures, this indicates       the scale of economic savings on bridges that have been made possible       using the techniques developed and disseminated by the Bath team.
+Network Rail was closely involved in the project on assessment and       strengthening of laterally prestressed beam bridges.
+The work reassured       Network Rail that the affected bridges were not in danger and they have       therefore not been prioritised for further investigation, allowing       financial and manpower resources to be directed towards more critical       structures.
+Society and the economy     The economic cost associated with lane closures due to bridge       maintenance, as calculated according to Highways Agency BA 28/92, is       usually the highest cost associated with such works (typically       &#163;10,000-&#163;50,000 per lane, per day).
+Although difficult to quantify,       considering the number of bridges strengthened or assessed by the HA,       Local Authorities and Network Rail since 2008, the economic savings as a       result of Bath's research is clearly several &#163;million.

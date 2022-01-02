@@ -1,0 +1,40 @@
+     This research has had major commercial impact realised through the       establishment of PathXL Ltd., a highly successful company that has       translated the initial technology and its subsequent developments into       products with international appeal that impacts significantly on pathology       education, research and diagnostic practice.
+This is a genuine example of       technology transfer from an initial impact in cancer education       subsequently extending, through continued collaboration with university       researchers, to impact in pharmaceutical research and clinical practice.
+The company's growth and operations have an important economic impact in       the UK.
+Impacts are therefore evidenced in each of these areas:     Successful commercialisation of IP and impact on pathology education       PathXL sold its technology to high profile customers such as Royal College       of Pathologists of Australasia (RCPA) to support digital educational       requirements and so generated significant revenue1.
+The       educational products InView&#8482;/Simulator&#8482; were so unique in their approach       that accreditation was granted by both RCPA (2004) for training resident       pathologists and the Royal College of Pathologists UK (2006) for continual       professional development.
+The RCPA2 said "InView has proven         to be a cutting edge training tool that can be utilised within large and         small training laboratories".
+Installation into private and       publically funded research laboratories in Australia (2004-5) was to       follow.
+In the UK, a number of pathology training schools adopted the       novel approach to pathology training including the Thames Histopathology       Training School (2006).
+Professor Simon Herrington, Secretary of the       Pathological Society3 said "PathXL Simulator is an excellent         additional learning resource which complements the traditional methods         of teaching".
+"PathXL is an excellent development and provides a         very useful educational resource, particularly for pathologists in         training".
+Professor Hazan Rizvi4 said "Our main         problem was being able to share this programme with collaborators and         users.
+Having a web-based, easy to use interface makes this possible &#8212;         PathXL Tutor is the perfect solution" giving the company credibility       in a professional marketplace.
+Queen's developed technology for web-based viewing of large gigapixel       medical images transferred across to the company and resulted in       subsequent development of a sophisticated web-based image management       system for digital pathology &#8212; now called PathXL Tutor&#8482;.
+PathXL Tutor&#8482;,       became a general purpose platform for web based delivery, viewing and       reporting of digital slides for educational and research purposes and was       subsequently used to underpin undergraduate courses in several UK and       European Universities and to support professional organisations such as       the RCPA and Pathological Society of Great Britain and Ireland       (2006-2007).
+In addition, since 2008, the company supports the largest       pan-European competency test system for pathologists (2008-11) via the       European Association of Pathology Chairs.
+In total, over 6,000 trainee       pathologists have used and benefitted from PathXL software over the last       five years.
+Olympus are now distributing the PathXL educational solutions.
+Expansion of market impact into pharmaceutical research, biomarker         imaging and clinical practice       In 2011, PathXL focussed increasingly on developing digital pathology       software for the R&amp;D Biobank sector.
+Together with the Queen's       Northern Ireland Biobank, a new information management system was       developed to support donor recruitment, sample tracking, clinical       information handling and digital imaging to support high quality biosample       collections.
+PathXL Biobank software now supports other national       biobanking initiatives such as the Mesobank &#8212; a UK national multicentre       collection of mesothelioma samples.
+PathXL is also establishing a contract       for digital pathology services with a multinational contract research       organisation servicing some of the largest biopharmaceutical organisations       in the world.
+Most excitingly during 2008-10, the Queen's group developed new methods       for the automated identification of cancer tissue from digital microscope       slides, using novel computer vision and image analysis techniques.
+This IP       was subsequently transferred to PathXL in 2011.
+Now in 2013, PathXL has       established a revolutionary new product called TissueMark&#8482; aimed at       supporting modern tissue research and molecular pathology laboratories.
+The methodology involves the automated identification of tumour based on       patent pending pattern recognition algorithms for macro-dissection and       tumour cell enrichment.
+This technology underpins the identification of       new molecular markers in cancer and can alleviate the current bottleneck       that inhibits high throughput molecular analysis of cancer tissue samples.
+TissueMark&#8482; is now being used by AstraZenica (UK) and Novataris (Boston,       USA).
+Finally, PathXL has developed a Digital Pathology Management System for       small hospital laboratories to support increased adoption of digital       pathology for frozen section analysis, remote consultations and primary       diagnostics.
+This is now being used pathology laboratories in USA, UK and       Ireland.
+Digital pathology adoption is following the same trend as digital       radiology, but is about 10 years behind.
+They are implementing solutions       for a number of clinical laboratories and also partnering with CSC (major       provider of IT systems to hospitals) to provide digital pathology software       solutions for diagnostic pathology networks in UK.
+PathXL continues to       deliver new solutions to this expanding market.
+Impact on local economy and international markets       PathXL Ltd is now seen as a leader in digital pathology solutions by       providing sophisticated web-based digital pathology solutions and Biobank       software that support workflows in research and diagnostic laboratories.
+Unlike other vendors it is independent of scanner and image format and can       integrate easily with other third party platforms.
+PathXL has raised in       excess of &#163;1.7m venture capital to grow its business and now employs a       strong team of 30 people, a majority of which are based in PathXL's head       office in Belfast.
+It is currently raising further capital to expand its       operations globally.
+The company has just appointed distributors on       Australia, Germany and Italy.
+In 2013, it opened an office in USA and       appointed a Head of Sales and Business development for North America.
+It       is selling its digital pathology solutions globally with over 30 key       account customers worldwide.
+Since venture-backed funding, its sales have       doubled year on year with expected turn-over in 2015 in excess of &#163;4       million.

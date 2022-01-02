@@ -1,0 +1,68 @@
+     The projects upon which this case study is based arose out of contacts       between the Birmingham       researchers and senior research staff at the Statoil Research Centre,       Porsgrunn and were reported       to Statoil beginning in 2008, leading to subsequent benefits for the       company.
+Statoil AS is a fully       integrated international petrochemical company (the Norwegian government       being a 67%       shareholder) with significant operations in 36 countries worldwide.
+By       revenue, Statoil was ranked       as the world's 13th largest oil and gas company in 2010.
+Flow Assurance is an accepted terminology in the oil industry; it defines       the technology area that       seeks to ensure uninterrupted flow from the oil/gas reservoir to the       control platform.
+Since the production from an oil/gas reservoir almost always includes gas,       oil and water, ensuring       uninterrupted flow requires having control of multiphase transport       (oil+water+gas) in potentially       very long pipelines (140km is the current limit.
+However, Statoil are       working on a pipeline that is       600km long).
+Control of multiphase transport means: understanding pressure       drop, understanding       the presence of flow instabilities and being able to predict the amount of       liquid/gas that a       processing unit (platform) may receive an any one time (in order to be       able to dimension the       separators etc properly).
+A theoretical approach to nonlinear waves in such pipe flows forms a       fundamental part of the long-term       aim to understand details of the flow structure better so that models can       be significantly       improved.
+These improved models can then be used to give better       predictions of the flow       behaviour so that the whole field (pipelines + processing units) can be       dimensioned with more       precision.
+Success with this achieves the following: 1) preventing       over-dimensioning of systems       (which is very expensive and may render a project uneconomical), 2)       preventing unexpected bottle       necks (it is very expensive to make modifications on an existing platform       since production has to       cease).
+Improving flow models is very much a brick-by-brick building       process &#8212; since flow       simulators contain many different sub models (eg for slug flow, stratified       flow, dispersed flow etc)       and all these models interact in a highly nonlinear way, it is not always       evident how an       improvement in one sub model may increase the overall predictive quality       of the flow simulator.
+The work reported in this case study on nonlinear waves is one of those       bricks &#8212; it enables       fundamental understanding which supports the long-term aim of developing       better and more robust       flow models.
+The impact of having access to such models is enormous.
+As       reported by [text removed       for Publication] (Leader, Multiphase Flow Research and Development Statoil       AS) `In the North Sea         context this is rapidly approaching an economic value of many billions         of NOK's'.
+Multiphase flow is one main branch of the Flow Assurance tree.
+The other       main branch is related       to control of pipe line deposits.
+Deposits come in many different forms,       for example, sand, wax,       hydrates, scale and asphaltenes.
+Some deposits (like sand) are governed       only by the flow.
+Other       deposits (like hydrates and wax) are dependent on the flow as well as       thermal effects.
+It is       generally accepted that wax formation is one of the most practically       difficult deposits to deal with.
+The reason is that there is only one reliable way to remove wax, and that       is by means of pigging       (sending scraping devices through the pipeline that mechanically remove       the wax).
+The problem       with wax is that it grows slowly and by the time it is noticed that wax       formation is occurring       (pressure drop in the pipeline increases), it is almost always a problem       that is too big to handle.
+This means that a lot of preventative pigging occurs, simply to avoid the       situation where wax gets       an opportunity to build up.
+Statoil report that the situation is made more       complicated by the fact       that wax formation is not fully understood and many current models are       simply incorrect.
+As Statoil       report `This means that models can rarely be used to determine the         pigging frequency, again         leading to a large amount of (probably unnecessary) preventative         pigging.
+These pigging         operations are time consuming and expensive which can lead to a         situation where production is no         longer economical'.
+The work reported in this case study on the       rational model development and       analysis of wax deposition on the interior walls of heated oil pipe lines       has made significant impact       on the understanding, and hence the potential resolution, of this       significant issue.
+The programme of research has involved two fundamental themes, namely:     Multiphase Pipe Line Flow: A rational mathematical model, based on       fundamental hydraulic       principles, has been developed to describe the two-layer hydraulic flow of       gas and liquid in pipe       lines.
+The co-current flow of gas and liquid in a circular pipe is of       tremendous importance in the oil       and nuclear industries.
+One significant feature which makes multiphase       gas/liquid flow systems       special is the presence of different flow regimes.
+Transport of the two       phases can occur in the form       of stratified flow, slug flow or dispersed flow depending upon the       upstream inlet flow rates of each       fluid phase.
+Statoil report that `despite a large quantity of both       experimental and theoretical       research, focused on understanding and predicting the flow rate transition       boundaries between       these distinct flow regimes, there remain large holes in our       understanding.'
+In particular,       understanding and predicting the flow regime transition from uniform       two-layer flow to two-layer       slug flow is crucial to the efficient operation of gas/liquid transporting       pipe lines in the oil and gas       industries.
+Such pipe lines may operate over hundreds of kilometres,       transporting gas and an       associated thin liquid layer, from the source gas field to controlled       distribution centres.
+The efficient       operation of the pipe line flow over such large distances is of       fundamental importance for the       effectiveness, both economically and environmentally, of gas/oil       transport.
+This project has been successful in providing a rational theoretical       framework to enable the       prediction and control of slugging behaviour in gas/liquid pipe line       flows, and the interpretation of       experimental measurements and observational phenomena.
+The theory       developed now forms an       integrated part of the programme at the Statoil Research Centre, as a       source of fundamental       mechanistic understanding, to inform rational software model development       and to assist in       resolving practical issues relating to particular Statoil gas/oil pipeline       networks in the field.
+The theory has also enabled informed decisions to be made in relation to       designing future       experimental programmes relating to gas/oil pipe line transport.
+On a       broader front, the theory has       resolved the fundamental issues surrounding the origin of the transition       phenomena for slug flow.
+It       is now broadly accepted, as a consequence of this programme of work, that       the transition       phenomena is dissipative and hydraulic in origin, rather than of       Kelvin-Helmholtz type.
+This       understanding has been fundamental in shifting the focus of research in       this area at Statoil, and       has had a consequent fundamental impact on advances in this area, in terms       of the design of more       economically, energetically and environmentally favourable strategies for       gas/oil pipeline delivery.
+The work has led to a detailed report for Statoil (Nonlinear waves in       two-layer hydraulic pipeline       flows' Contract Report for the Statoil Research Centre (D J Needham, J       Billingham, A C King) and       a workshop (`Gas-Liquid Pipe-Line Flows' held at the Statoil Research       Centre, Porsgrunn, Norway       in March 2008, and supported fully by Statoil.
+Co-Chairmen &#8212; R M S M       Schulkes*, D J Needham..
+Attended by approximately 50 people, mainly from UK and Norway, including       scientists from Statoil       and University of Oslo) to discuss its implications, implementation and       future development.
+This work has contributed to the development by Statoil of an active slug       control system in their       Heidrum field in the Norwegian Sea, which has produced a more stable well       stream flow into the       first stage flow separator, leading to significant economic benefits.
+It       is anticipated that the       success of this active slug control system will lead to its implementation       at other Statoil fields.
+Pipe Line Deposit Control: A rational mathematical model, based on       fundamental thermal transfer       principles, has been developed to describe the formation and evolution of       wax layers on the interior       of pipes transporting heated oil.
+Up to the present, attempts at modelling       these phenomena have       had very little success, and have failed to predict even the basic       qualitative features identified by       carefully controlled experiments at Statoil Research Centre.
+This lack of       success, together with the       very significant implications of these phenomena to the petrochemical       industry, motivated the       establishment of this project with Statoil.
+There is consensus in the oil       industry that wax deposition       is governed by molecular diffusion whereby dissolved wax diffuses toward       the pipe wall.
+Other       deposition mechanisms have been suggested such as Brownian diffusion,       gravity settling and       shear dispersion.
+None of these mechanisms can be entirely discarded while       at the same time       there is still controversy about the mechanisms governing wax deposition       since the diffusion-based       model yields predictions that are qualitatively incorrect for certain       important cases.
+We have proposed an entirely different approach: that wax deposition is a       phase change problem.
+The crystallisation of wax is an exothermic process, meaning that wax will       only be formed there       when heat, as a result of the crystallization process, can be removed.
+The       growth of the wax layer       will thus be governed by the balance of heat supplied by means of       convection to the wax layer       from the oil phase and heat removed from the wax layer by means of       conduction.
+The problem that       is obtained is a moving boundary problem of a generalised Stefan type.
+The analysis of the model has led to predictions that are now       qualitatively, and to a good degree       quantitatively, in accord with the results of the experimental programme       in place at the Statoil       Research Centre.
+This agreement is very encouraging and had led Statoil to       design further       experimental programmes which are now informed by the predictions of this       model.
+It is emerging       from this that the model established in this case study will be       developable by Statoil into a       predictive tool which will considerably reduce the significant economic       burden of the systematic       pigging operations, which are currently in use as the only effective       measure.
+This work has been       documented in a report to Statoil (`The development of a wax layer on the       interior wall of a circular       pipe transporting heated oil' Contract report to Statoil AS (D J Needham,       B T Johansson, T       Reeve)).
+In relation to both of the above projects, D J Needham has presented four       research seminars on       this work at the Statoil Research Centre.
+R M S M Schulkes* presented a       research seminar on       related problems of significance for Statoil, to the School of       Mathematics, University of       Birmingham.
+D J Needham has given an instructional workshop on       implementation at the Statoil       Research Centre.
+As an overview, [text removed for Publication] has commented: `Flow         assurance is a vital area of technology in which a         step by step approach is taken to achieve, improve and implement         technology elements.
+Each step         taken which contributes to our ability to extend the range of subsea         transported solutions is of         significant value.
+The reason is that more and more marginal reserves         can be produced.
+This flow         related and wax depositional work is thus an important contribution         towards revitalising and         extending oil production in the North Sea.
+`

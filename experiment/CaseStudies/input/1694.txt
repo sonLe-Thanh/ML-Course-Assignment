@@ -1,0 +1,21 @@
+     Due to the nature of AWE's work, focused on nuclear weapons, national         security makes it impossible to provide accessible published evidence of         the impact of Cranfield's research.
+What we can provide, detailed below,         is an explanation of the context in which the work has been applied, and         quotes from senior individuals at AWE, attesting to the impact of this         research on their work.
+Accurate computer modelling is needed to underwrite the safety and       performance of nuclear weapons.
+Instabilities and turbulent mixing at       material interfaces is one area where better understanding is essential       [C1].
+A decade ago, the type of "Large Eddy Simulation" used at AWE to       gain a fundamental understanding of the mixing processes was much       criticised by the academic community with respect to its ability to       capture accurately the correct turbulent-flow physics.
+The numerical methods developed at Cranfield University have been used by       AWE to investigate the influence of initial conditions of mixing due to       Richtmyer-Meshkov instability.
+Turbulence modelling simulations often       ignore the influence of initial conditions on turbulent mixing, so       Cranfield's work has a substantial impact in reducing computational       uncertainty in turbulent mixing predictions and is now taken into account       in AWE's modelling.
+"The collaboration between AWE and Cranfield University, which has         involved simulation methods at both institutions and experiments at AWE,         has led to a high degree of confidence in the computer modelling we now         use to understand turbulent mixing."
+[C2, C4]     The methods developed at Cranfield have also been used for 3D simulation       of complex flows where mixing is on average two-dimensional.
+These results       have led to a substantial advance with respect to validation and       verification of computational models by improving the accuracy of       engineering turbulence models (Reynolds-Averaged Navier-Stokes models)       used in ICF applications at AWE.
+During the course of this research, a key improvement was made by       Cranfield to the Godunov methods used at Cranfield to simulate       compressible turbulent flow, in particular the behaviour at low Mach       number.
+This improvement significantly increases the accuracy of       computational fluid dynamics (CFD) codes in turbulent flow simulations.
+Furthermore, it enhances the efficiency of CFD codes because high accuracy       can be attained even with low numerical grid resolution, thus leading to       shorter computing times.
+Low-Mach corrections developed at Cranfield &#8212; as well as variants of       Cranfield's work produced by other research groups &#8212; are now employed in       CFD codes in the German Aerospace Agency DLR [C5], Pennsylvania State       University [C6] and the French Commissariat a l'Energie Atomique [C7].
+These organisations use these CFD codes for flows ranging from turbulence       mixing through to scramjets.
+Cranfield's work has inspired further developments in the international       research community, eg, the French nuclear hydraulics code FLICA-OVAP and       at Tsinghua (China) in relation to turbine blades A related area of       physics that is also of concern to AWE is dynamic friction at material       interfaces under extreme conditions of velocity and normal stress.
+AWE's       previous modelling using continuum hydrocodes, and work at the US Los       Alamos National Laboratory (LANL) using molecular dynamics simulations,       had produced conflicting predictions of behaviours in this regime.
+AWE       resolved this by adopting Cranfield's approach and has incorporated this       in model development.
+"Research performed by Professor Drikakis' group led to the         development of a hybrid method in which continuum and molecular dynamics         codes were directly coupled.
+This approach has helped to reconcile         apparent contradictions in the earlier work, and has provided new         insights that will inform future model development at AWE."
+[C3]

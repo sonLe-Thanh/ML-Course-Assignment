@@ -1,0 +1,28 @@
+     In this section we present evidence that our research, as cited in s2 and       s3, has led to the following major impact: a commercial product to prevent       Hand Arm Vibration Syndrome (HAVS), working with JCB, a leading       manufacturer of hand tools in the UK and which has both economic and       health benefits.
+A profound understanding of the mechanics of VIS, as shown in our       research in s2 and 3 [3.1-3.6], led Prof. Babitsky's group to       their important breakthrough, enabling a significant reduction of       vibration in the handles of heavy breakers &#8212; a tool used all over the       world.
+It was the main focus of collaboration with the global tool       manufacturer JCB that culminated in a mutual project on a breaker in 2001,       with LU developing both the theoretical backgrounds and principal design       ideas that were implemented in a specific design at JCB.
+As a result, in 2008 JCB launched its new, safer yet more powerful       commercial breaker HMLV25, which it continues to sell in its markets       around the world.
+More than 1,800 units had been sold by 2013 with export       markets including Australia, Azerbaijan, North America, Oman and Russia [5.1].
+Operators can use it for longer without incurring the risks of       irreversible and significant harm to their health.
+The design solution was       patented worldwide by JCB in 2008 under the names of its inventors from       Loughborough University, viz.
+Prof Babitsky and Dr Sokolov and JCB, Mr       Malkin [5.2].
+In 2008 JCB stated that "the unique system dispenses with the traditional       design" and that "vibration levels on competing machines start at more       than double" the level for HM25LV.
+As a result, "operators can now safely       use the machine for a full eight-hour working day without risk of       exceeding recommended Hand Arm Vibration levels".
+It added that "the       HM25LV marks the start of a new generation of handheld breaker design."
+[5.3]     When purchasing the product in 2009, one of the end-users, Tarmac       National Contracting, stated: "Within Tarmac, the health of our staff is       of paramount importance particularly with regard to HAVS... the vibration       level of the breakers was the main driver in our decision-making process.
+Tests were carried out on the HM25LV, confirming JCB's claims that they       are the lowest available."
+[5.4]     For an understanding of the scale of the problem addressed by the JCB       breaker and its underpinning research, the Health and Safety Executive       estimates two million people in the UK alone are at risk of HAVS.
+The       estimated annual cost of HAVS to the British economy is about &#163;447M [5.5].
+There is no effective treatment available for the vascular symptoms and       neurological component of HAVS.
+The best way to deal with HAVS is to       prevent it, by reducing the levels of vibration operators are exposed to.
+Before the 2000s global research into the mechanics of vibro-impact       systems, elucidating beneficial and detrimental effects of multiple       impacting, was undertaken by separate research groups in a few countries.
+Loughborough University decided to increase awareness of, and foster       collaboration between, researchers in this field and end-users.
+In 2004 it       established the International Centre of Vibro-Impact Systems (ICoVIS),       supported by the EPSRC.
+The Centre unites more than 25 main research       groups from more than 20 countries working in this area.
+Its international       events serve to disseminate research to academic and industrial audiences.
+To date, these events have been held in the UK, USA, Japan, China, Italy,       Morocco and Germany (see e.g.
+[5.6, 5.7]).
+A series of special       issues of major journals have been published, as have several books.
+ICoVIS has become a first contact point for industry on various aspects of       VIS; among its members are also industrial companies, in particular, JCB.
+These activities allowed the establishment of the new scientific sub-area       &#8212; mechanics of vibro-impact systems.
+This increased awareness of academic       and industrial researchers about new ideas, methods and tools that can be       used for design of new structures and processes increasing productivity,       improving an environmental footprint and preventing catastrophic       engineering failures.

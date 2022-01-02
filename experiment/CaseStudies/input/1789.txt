@@ -1,0 +1,52 @@
+       [A], [B] etc are references to corroborating sources listed in           section 5.
+Public engagement in accelerator science         Accelerate!
+is an outreach show that has been delivered in the UK         and Germany to over 7,700         schoolchildren, in most cases aged 11-18.
+The ideas were developed by         Sheehy and Foster with         advice from Emmanuel Tsesmelis (CERN and Visiting Professor at Oxford)         and supported by an         STFC Small Award for &#163;7,898 (ST/G502047/1, 2008-10).
+Its aim is to         engage children in the         excitement of accelerator science, and to build on the public interest         in the LHC to explain more         everyday applications.
+The show is structured around the principal elements of a particle         accelerator: particles, energy,         control, collision and detection.
+The show also emphasises that the         minority of accelerators are         designed for particle physics (e.g.
+the Large Hadron Collider and         International Linear Collider)         while the majority are for medicine, industry or research in other         disciplines (e.g.
+Diamond).
+It thus         not only relies on a fundamental understanding of challenges in         accelerator science, but also         draws on current projects in the JAI for both existing and future         accelerators across a range of         potential applications.
+For example, a real prototype of a 30 GHz RF         cavity from the Compact         Linear Collider project based at CERN is shown to illustrate continuing         development in the field.
+The show gives demonstrations that provide specific insights into         accelerator science.
+For         example, an interactive map of accelerators in UK (excluding industry)         is used to locate the accelerator         nearest to the venue, which is often found to be in a hospital; and a         `Mexican wave' transporting beach         balls through audience participation (original to this project)         illustrates the acceleration of charged         particles by a radiofrequency wave.
+Primary audiences: attendees and benefits received         The first performances of Accelerate!
+were in December 2008.
+So         far it has been performed by         teams from Oxford Physics 76 times, in schools and elsewhere around the         UK, to a total of over         5300 students, 280 teachers and 995 members of the public [A].
+This includes sixteen         performances at the British Science Festival in September 2010 to over         1000 students aged 11-14.
+Respondents to surveys held in some of the early shows (from 487         feedback forms from         schoolchildren), agreed or strongly agreed with the following opinions [A]:                78% `understood the science'         91% thought `the presenters did a good job'         43% were `interested in physics' and 33% `not interested' before           they saw the show         62% were `more interested in physics now they've seen the show' and           only 7.6% not              Wider uptake and sustainability         From the beginning, Accelerate!
+was designed to be presented         predominantly by graduate student         volunteers who pass on their expertise to more junior colleagues,         thereby ensuring the         continuation of the project and that the age difference to the audience         is minimised.
+In 2012,         Andrew Steele, also an Oxford Physics graduate student, developed some         resources and training         for new participants outside Oxford, supported by an award of &#163;9,629         from STFC (ST/J501827/1)         and &#163;10,000 (including in-kind support) from the South East Physics         Network, SEPnet.
+As a         result, a `toolkit' to allow others to put on their own versions was         made available online, under a         Creative Commons licence.
+One of the demonstrations used in the show is a simple cloud chamber,         adapted from a teachers'         workshop at CERN.
+To enable others to include this in their own         presentations, Sheehy and         Steele made a video of its construction and demonstration that has had         over 25,000 views on         YouTube [B].
+A podcast of an entire performance in         Oxford has been downloaded approximately         200 times since February 2012.
+The SEPnet group of universities now delivers Accelerate!
+under         licence [C] and by February 2013         they had given 20 additional shows to over 1880 attendees.
+Foster         founded a team at the DESY         laboratory in Hamburg, Germany, to adapt the concepts of Accelerate!
+for their own show in         German, known as Rennmaschinen [D], which         attracted 560 children and 166 adults over its first         seven performances (April 2012 - June 2013).
+Benefits to teachers         Accelerate!
+has been performed specifically for teachers twice at         a conference in York and once in         Oxford, with a total audience of 130.
+Of the 103 survey responses         received, 92 indicated they         would recommend the show to other teachers and 87 considered it to be a         good way to help         students understand concepts in physics.
+A training session for teachers by Sheehy, drawing on experience and         demonstrations from         Accelerate!, formed part of the annual Accelerator and Particle         Physics Education at A-Level         (APPEAL) one-day course in Oxford (2010-2013) in collaboration with         CERN.
+Approximately 20         teachers attended each year.
+Comments received from participants in 2010         included,         "You have all inspired me to do some background reading and learn a           little more."
+"I have been inspired to try to increase the prestige and attainment in         Physics in my         school through a trip to CERN."
+The 16 teachers who responded to online evaluation surveys in 2010 and         2012 considered they         had gained a better understanding of particle physics and accelerators         and that it would help their         teaching at AS/A level [E].
+Eleven teachers from 2010         and 2011 responded to a follow-up         questionnaire in 2012: all reported that it had informed their teaching         `a great deal' or `quite a lot',         identifying `up to date information' as one of the most useful aspects,         and all but one had         undertaken some other follow-up activity [E].
+The         APPEAL course is now well established:         APPEAL-4 was delivered in June 2013 and included a presentation by         Sheehy on applications of         particle accelerators.
+Sheehy's session was also incorporated in CERN's         High School Teachers         programme in 2010 (60 participants) [F].
+External recognition and invitations         The John Adams Institute led a team, with a number of collaborative         partners and sponsors, that         successfully proposed and developed an exhibit for the prestigious Royal         Society Summer Science         Exhibition in 2009 [G].
+This exhibit, `Accelerators           Everywhere: From the Big Bang to curing cancer',         emphasised the practical applications of accelerators and included         hands-on activities informed by         the experiences of Accelerate!.
+The exhibition as a whole was         visited by over 4000 members of         the public [H].
+At the 2010 British Science Festival, Sheehy gave the 2010 Lord Kelvin         Physical Sciences Award         Lecture discussing the funding of international accelerator experiments         and wrote a guest blog         describing the Accelerate!
+show.
+Andrew Steele was invited to         co-present for an episode of the         `How Do' series on ITV Meridian in 2010, answering the question "How do         you make science fun?"
+using a number of Accelerate!
+demonstrations.
+The four annual         finalists for the Institute of Physics'         Very Early Career Physics Communicators Award have included both Sheehy         in 2011 [I] and         Steele in 2012.
+Coverage on BBC Radio Oxford has widened the reach further.
+An         interview about Accelerate!
+at         the Cooper School, Bicester, for the Oxford Science Roadshow, was         featured on `Daytime with         Danny and Lou' on 11th March 2009.
+In January 2010, the Breakfast show         with Malcolm Boyden         featured a 5 minute demonstration with explanations by Suzie Sheehy,         Andrew Steele and         Rosalind West (4 - 8th January 2010).

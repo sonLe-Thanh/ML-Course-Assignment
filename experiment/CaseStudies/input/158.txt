@@ -1,0 +1,31 @@
+     When a sea wave hits a structure such as a seawall, a series of violent       fluid flows occur, as vividly illustrated at any harbour during high       winds.
+These impacts may damage the structure and cause hazardous splashes       and overtopping.
+These flows are complex, and demand sophisticated       mathematical tools to analyse and predict their movements, forces and       outcomes.
+Better understanding of violent flows leads to improved design,       engineering and repair of such coastal structures, and also allows       time-dependent safety advice for users of harbour walls to be provided       with greater confidence.
+Engineers need to interpret the damage made by waves.
+For example, how do       storm waves withdraw blocks from a seawall?
+Violent flows due to       breaking-wave impacts can damage a structure by over-straining materials,       fragmenting components and undermining foundations.
+Violent flows are       inherently difficult to compute, particularly in domains with complicated       shapes of boundary.
+The International Conference on Coastal Engineering       (see [1] above) is a forum of industrial research, at which there is       recurring impetus from the designers to the theorists to improve design       methods, by developing accurate and efficient mathematical models that       predict wave impact forces.
+The work ultimately has many benefits.
+For       example, wave splashes are hazardous to persons and vehicles on top of a       harbour wall, and the harbour master's safety advice may depend on a       confident knowledge of the risks from the waves in that setting.
+Below we provide three specific examples of the use of Cooker's models of       the effects of wave impact in this REF period:     Charles Scott and Partners: In 2006, Cooker began a collaboration       with Charles Scott and Partners, Glasgow (consulting engineers,       providing services in civil engineering) who wanted to understand how and       why a gantry had been knocked down by storm-waves in Shetland in November       2005.
+The gantry was a 5.5 metre high free-standing steel structure with       angled struts, designed to allow a person to work safely at an elevated       viewpoint, on a beach with high wave exposure.
+The unexpected failure of       the original design presented a safety problem.
+The company was at a loss       to explain the failure, and needed to design a safe replacement.
+The       company had no method to predict the forces on the gantry, so they       approached Cooker on the strength of his publications and expertise in       predicting wave forces.
+Drawing on his research, ([2], [4]) Cooker       described how and why the gantry was knocked down onto the beach.
+He       showed that the failure was due to the sudden huge loads (and moments       about the base) that were exerted on the cylindrical support when struck       by waves.
+The model was crucial to the company's understanding and their       subsequent design-work on the new gantry, to obtain the right number of       struts and their angles of inclination.
+Cooker was also able to dispel a       false notion that the two front struts of the structure could in some way       shelter the two rear struts from wave impact.
+Using these ideas, a       replacement gantry was built to a new design and successfully installed.
+The company stated "we would like to take this opportunity to offer our     sincere thanks for your invaluable help during the design period"     (corroborating source [A]).
+Thus, Cooker's theoretical work has provided Charles       Scott and Partners with a successful predictive method to model, and     hence design, all future structures exposed to wave impact.
+HRWallingford Ltd: In the coastal wave-impact context, Cooker was a     partner in the EPSRC-funded ViFSNet group (2001-2004).
+This network     identified critical research problems that needed to be addressed post-2004,     as judged by professional engineers involved in the design and construction     of seawalls and harbours.
+This led to several collaborations, including with     HR Wallingford Ltd., who are a leading centre for (i)     coastal-engineering consultancy advice around the world, and (ii) the     modelling and computation of waves in the presence of coastal structures     (corroborating source [B]).
+This on-going commercial link ensures that     Cooker's research on wave impacts is used by industry.
+Atkins UK: In addition, Cooker's expertise on wave impacts is       widely sought.
+For example, his expertise on offshore structures and       violent wave-structure interactions, has been applied to estimate the wave       impact forces on wave energy extraction devices.
+He has provided outcomes       of his research on wave impacts on several occasions in the past five       years to Atkins, global engineering and design consultants.
+The       interest by Atkins is in the need to account for the potentially       damaging and destructive wave forces, as well as the useful energy       available for extraction from steep and breaking waves, using devices of       novel design (corroborating source [C]).

@@ -1,0 +1,34 @@
+     The impact came about via an existing collaboration between Dr Doran and       two colleagues in the       Radiation Physics Group, Dr. Walter Gilboy (Senior Lecturer, now retired)       and Dr. Paul Jenneson       (Lecturer), both of whom were long-standing supporters of the optical CT       programme.
+Both had       industrial contacts through previous collaborations with Nexia Solutions       (which later became the       NNL).
+The team envisaged the application of gel dosimetry in the area of       remote monitoring of       radiation levels in hazardous environments, rather than its original       application in medical physics.
+Encouraging research results at Surrey were the basis for a patent       application for a radiation       detector [Corroboration reference C1], with Stanley at NNL and Doran and       Jenneson at Surrey       being the named inventors.
+The initial shape of the dosimeter was cylindrical, and Nexia wished to       optimise this       configuration.
+To achieve the optimisation, in 2007 Doran carried out       computer simulations and       explained the implications of using different materials and collimator       thicknesses on the contrast       achieved in the detector gel.
+Encouraged by developments, Nexia developed       a revised polymer       shape and surrounding collimator, in collaboration with dosimeter       manufacturer Heuris Pharma       LLC.
+In collaboration with NNL in 2009, Doran evaluated the first       incarnation of the new RadBall&#174;       design [C2].
+The green spherical sample created by Dr Doran in this phase       of development has       proved iconic: it was used widely by NNL in its publicity (e.g., slides 13       and 14 of reference [C3])       and on the polymer manufacturer's homepage (www.presage3d.com),       where the Surrey laboratory       and key researchers also feature prominently.
+The results from this phase       supplemented the       original Surrey research and resulted in a second patent application [C4].
+The research undertaken at Surrey has led to NNL's development of a       commercial dosimeter,       known as RadBall&#174;, which has a clear advantage in being portable,       non-electrical, simple to use,       and able to be remotely operated.
+Prior to radiation exposure, the ball of       polymer initially is       translucent, and it becomes increasingly opaque upon exposure to       radiation, in proportion to the       dose.
+The direction of the opaque tracks in the ball shows the position of       the source, and the       change in the tracks' opacity indicates the source's activity.
+The polymer       sphere is then imaged in       an optical-CT scanner to relate the opacity to the received radiation       dose.
+A key impact of the research is the change in practice in nuclear       decommissioning brought       about by adoption of the RadBall&#174; technology.
+RadBall&#174; is being used by       NNL at Sellafield in the       former reprocessing building, where radioactive waste is contained in       cells, which are small solidly-constructed       rooms.
+Decommissioners are clearing out the so-called "legacy waste"       accumulated       from years of nuclear energy and weapons production.
+The RadBall&#174;       dosimeters are placed within       radioactive cells either directly by workers or remotely through robots       and cranes.
+The radiation       levels can be mapped out, and sources of radiation can be identified, so       as to facilitate the       decommissioning process.
+The technology thus has an impact on the safety of radiation workers, and       it provides protection       to the general public in the decommissioning of nuclear facilities.
+A       nuclear engineer at Sellafield       explains the benefits of RadBall's portability [C5]: "You can use it         in hard-to-reach areas in the         plant and in areas where electric devices struggle with high radiation         levels.
+It tells us where the         hazards are and how severe they are."
+Linking the impact of RadBall&#174; to the Surrey research, a Business Manager       (Instrumentation       and In-situ Analysis) and Intellectual Property Manager from NNL [C6]       says: "Working with the         University of Surrey provided the National Nuclear Laboratory with         access to valuable and         essential expertise which proved to be a critical factor with regards to         the development of the         technology."
+From 2010 onwards, impact from the research continued when NNL       established a strategic       collaboration with the USA Department of Energy.
+They tested RadBall first       at the Savannah River       National Laboratory and then at the Oak Ridge National Laboratory.
+A large       team, supported       through significant investment, has been developing a robotic solution for       deployment of the       device.
+A first set of tests at Savannah River's Health Physics Instrument       Calibration Laboratory       used gamma-ray and X-ray sources to identify the optimal dose and       collimator thickness.
+Then,       tests at the Shielded Cells facility employed RadBall&#174; to       characterise cells containing       contamination from unknown radiation sources.
+In this milestone       development, a 3D visualisation       of the radiation within the cell was obtained.
+Numerous reports on the outcomes that have flowed from this research at       Savannah River       have appeared, and plans have been articulated for testing a robot for       remote RadBall&#174;       deployment into highly contaminated facilities [C7].
+The University of       Surrey's vital research       contribution to the origin of the RadBall&#174; technology is       spelled out in a recently-published history in       an NNL technical report [C8].
+In the past few years, there has been an increasingly high public profile       for the project, with       stories run in both the popular press (e.g.
+the BBC) [C5] and in       U.S. governmental reports [C9].
+As       a testimony to the significance of the technology, it has been awarded the       IChemE Award for       Innovation and Excellence in Health and Safety.

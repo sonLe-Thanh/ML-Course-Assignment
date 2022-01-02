@@ -1,0 +1,28 @@
+     The research underpinning the impact described in this case study was       developed within various programmes in which relevant stakeholders, such       as Halcrow, DEFRA, and/or the Environment Agency, were closely involved.
+Methods such as stakeholder and end-user meetings ensured full knowledge       exchange to relevant parties.
+The methodologies developed resulted from       the combination of different projects and underpinned different impacts,       the development of the Est Sim Tool [Source 5.1], the application of the       same methods to the Exe Estuary and the inputs to the National Coastal       Erosion Risk Mapping (NCERM) tool are described in this case.
+The Boolean method used in the systems description of estuaries, led to       the estuarine simulator "EstSim" [5.1], and was developed under contract       from Halcrow [5.2] during a ERP/DEFRA/EA project FD2117.
+EstSim was fully       developed by Plymouth University and is detailed on the joint EA/DEFRA       website http://www.estuary-guide.net/,       it remains available via Discovery Software Ltd's website.
+Unfortunately       usage statistics were not specified as a requirement of the conversion of       the tool to a web based application (conducted by specialist firm       Discovery Software Ltd, not Plymouth) and thus, are not available.
+Whilst       the tool is publicly available Halcrow remains the predominant user [5.2]       and their Principal Coastal Scientist states that "the Est Sim model         was very innovative".
+One of DEFRA's 2005 high level targets required local authorities to       assess coastal erosion risks and reflect these in their development plans.
+However, at the time, no robust and consistent probabilistic approach to       assessing coastal erosion risk existed.
+Therefore, in 2005, DEFRA and the       EA commissioned (Research &amp; Development project (FD2324)) Halcrow to       develop such methods and in conjunction with Dominic Reeve's group at       Plymouth the RACE (Risk Assessment of Coastal Erosion) project enabled       knowledge built up in the Reeve group and new discovery to feed into a       jointly developed methodology.
+This methodology was subsequently built       into an online tool through the National Coastal Erosion Risk Mapping       (NCERM) project [5.3].
+Coastal mapping commenced in 2006 and in 2007 the       prototype of a sophisticated online GIS tool was unveiled.
+By December       2008/early 2009 the first batch of National Coastal Erosion Risk Maps were       published [5.4].
+From then on, the online tool continued to be developed       and the, by then, robust and stable current version (v4.6) of the tool       went live on the NCERM website [5.5] on 14th July 2011.
+During the REF       assessment period the coastal erosion maps were published, the final tool       development has been completed and continues to provide coastal erosion       risk mapping facilities to local authorities and similar bodies.
+Coastal erosion is a major problem for the UK; DEFRA's National       Assessment of Assets at Risk Study (Halcrow, 2001) suggested that       &#163;7.7Billion of capital value assets were at risk from coastal erosion.
+Subsequent broad-brush estimates suggest that this figure is closer to       &#163;21.5Billion (Halcrow, 2007).
+Halcrow's NCERM project final funding report       to DEFRA/EA concluded: "The National Coastal Erosion Risk Mapping         project is a highly ambitious, national-scale undertaking which aims to         combine the best science with the best local information.
+It represents         the new collaborative approach between the Environment Agency and Local         Authorities who together will provide the public with the best available         information on the coast".
+[5.6]     Halcrow's Principal Engineer [5.7] states: "Plymouth made a         fundamental contribution to the research in producing a statistical         model to pull various datasets together in order that coastal erosion         predictions for the next 100 years could be made.
+Sufficient records for         coastal areas were not comprehensive, as you would expect (why keep         records if erosion isn't an issue) but in many areas the model could be         tested and validated, which it was.
+The Environment Agency took the         research on to produce erosion maps.
+There are two versions - One in the         `In My Backyard' part of the EA website, which is for use by the public         (and others, of course) which provides simplistic information and         another more sophisticated site which can be interrogated for use by         Local Authorities, the EA and one or two other stakeholders, like         English Nature.
+This site is used to inform coastal protection spending,         planning decisions and so on.
+It is run and maintained by Halcrow."
+In addition to the public facility all 108 maritime authorities around       England and Wales have engaged with NCERM (the more sophisticated version       of the erosion mapping technique).
+The majority have had hands-on       experience of utilising the NCERM web-portal which is underpinned by the       RACE methodologies developed jointly by Halcrow and Plymouth.
+For example       Wyre BC's Head of Engineering Services [5.8] says "NCERM is a useful         planning tool, which now enables coastal erosion to be accounted for and         thereby helps to justify investment and in debating spending priorities".

@@ -1,0 +1,38 @@
+     The results of the research of the maintenance team have had impact in       several companies with whom we have collaborated and demonstrates       international reach.
+DYNAMITE project: Industrial impact has been on-going throughout       and beyond the project.
+The project has produced an industrial tool: DynaWeb.
+(Evidence 1).
+Validation activities of the tool were carried out at four       different sites: Fiat; Volvo; Goratu; and Martintech.
+FIAT tested and       demonstrated the integration of 25 Dynamite-inspired hardware and software       components/services.
+VOLVO tested an oil sensor system developed within       the project (which measures the oil oxidation/degradation level by means       of visible light spectroscopy).
+This was performed in a real industrial       hydraulic system within a production line in the foundry.
+GORATU provided       a global demonstration by testing several Dynamite components and their       communication with the Mimosa database.
+MARTINTECH conducted a trial       consisting of a simulated application of a stern tube bearing/tail end       shaft assembly from an 8000TEU container ship.
+Cycled lube oil was       progressively contaminated with water and particulate matter.
+The exercise       "clearly demonstrated considerable benefits from applying the Dynamite       concepts" (Evidence 2).
+DYNAMITE was selected as one of the top three EU       research projects at its conclusion, and has "influenced VTT's strategic       research related, to e-engineering and ICT future research directions"       (Evidence 2).
+The Sunderland team and the VTT team have worked together on       many EU funded projects and have complementary strengths.
+In DYNAMITE       Sunderland provided research expertise in the use of artificial       intelligence technique for condition monitoring.
+The E-Maintenance book       (Holmberg, Adgar et al, 2010) which resulted from the work of the DYNAMITE       project is one of the top 25% most downloaded ebooks by Springer in this       category (Evidence 3).
+The project has also resulted in eMDSS http://www.e-maintenance.se/       "A unique decision- making system for profitable maintenance decisions       within manufacturing companies such as paper, shipping, energy and       automotive industries, that can estimate future life such as a warehouse       and also link the cost of maintenance, with revenue for fewer       interruptions and less downtime in production."
+(Evidence 4).
+Lube sensor development within the DYNAMITE project has helped to create       a new spin-off company (www.atten2.com)       (Evidence 5) which has its first product available for the market, an       on-line optical sensor which measures the degree of degradation of       lubricating oils.
+OPTFEST and impact at Glenmorangie: The research undertaken in the       OPTFEST project and that which underpins it (Evidence 6) has had       significant impact upon the maintenance strategy now pursued by       Glenmorangie (Evidence 7).
+Maintenance has been identified as an integral       part of the business, and they now use a web based maintenance system       Emaint to control the maintenance of their three sites.
+The approach taken       is based on the AIMMS model developed by Sunderland.
+Glenmorangie have two       distilleries and three production sites.
+The AIMMS model underlies the       approach taken across the sites and has also influenced the design of the       production line and the new factory environment.
+Glenmorangie used the       results of the OPTFEST project to implement a new maintenance strategy and       embed it within their functional and management structure.
+During 2012       almost 5000 preventative maintenance tasks were completed, over 650       reactive tasks were recorded and 80 corrective tasks were completed.
+The       impact of this work has been wide ranging, producing a culture change       across the three sites.
+Maintenance is now recognised as key to the       business at all levels, including management, engineers and production       operatives (Evidence 6).
+Seminars and conference       Research from the group has also fed into industry seminars (Evidence 8).
+Comments from delegates include: "This was a useful opportunity to         benchmark and understand current best practices in the industry.
+The         presenters were very knowledgeable and their enthusiasm for the subject         was very evident."
+Siemens Industrial Turbomachinery Ltd; "Excellent         event giving a broad taster into the realm of reliability engineering."
+Busch GVT Ltd; "An enjoyable presentation on what can         be a complicated time/cost consuming subject.
+Very enjoyable and         accessible."
+Sellafield Ltd; "M's presentation was well         put together, he offered a good range and gave enough information to         satisfy."
+Alstom Power Ltd.
+In 2012 the University hosted MPMM12, the second international       conference of Maintenance, Performance, Measurement and Management, which       followed on from the very successful first edition held in Lule&#229;,       Sweden in 2011.
+This highly successful event was attended by 65 delegates       from around the world (Evidence 9).

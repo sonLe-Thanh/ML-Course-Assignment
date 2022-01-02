@@ -1,0 +1,30 @@
+     The Catalogue of Life is endorsed by the international UN Convention on       Biodiversity (CBD).
+Funding for its establishment and continuing operation       was provided by multiple EU framework projects [5.10] and the Global       Biodiversity Information Facility, GBIF ($565,000) [5.3].
+It is the       world's most authoritative source of peer-reviewed information about the       names (Latin scientific names and common names) of the world's species of       plants, animals, fungi and micro-organisms.
+It currently holds entries for       more than 1.4 million (out of an estimated 1.9 million) species.
+The       existence of the catalogue, stemming from an early prototype in 1997 to       its current state in 2013, is a direct consequence of Cardiff University's       research.
+Dr Peter H Schalk, ETI BioInformatics and current Chairman of       the Board of Directors of Species 2000 (a not-for-profit organisation set       up for the delivery of the catalogue) commented that "the extended       coverage of the CoL (from 600,000 in the late 90s to 1,400,000 species       now) was made possible because of software developments which underpin the       complicated data management process.
+Cardiff played a crucial role in       advising how to approach the problems of up-scaling (from less than 30       providing databases to over 100) enhancing efficiency (one update per year       to 4-6 updates at present) and professionalisation (developing proper       software tools streamlining the CoL production process).
+The current CoL       data management architecture is largely based on innovations and prototype       developments carried out by Cardiff.
+... without the work carried out by       the Cardiff team the CoL would not have developed into the global resource       it is today" [5.1].
+Since 2008 the catalogue has had 30% new users.
+In 2011 unique visitors       to the website generated 70-90 million page hits.
+In 2012, there were       3,777,000 hits from people in 212 countries, the top five being United       States - 60589, France - 38649, UK - 22273, Spain - 18447 and Germany -       15341.
+Each year, in addition to web usage, 3,500 physical CD/DVD copies       of the Catalogue are distributed to 80 countries [5.2].
+Specific examples of usage of the catalogue during the REF period,       encompassing environmental, societal and economic benefits, are as follows       (note that access data is given for 2012, the most recent year for which       complete data and breakdowns are available):            Use in the preparation of the Red List to check the information about         species being added to the endangered species list, to identify all of         the synonyms.
+This resulted, for example, in 80,000 hits in 2012 [5.1].
+Use as a "taxonomic backbone" (via web services and data download) to         a variety of international scientific data sharing initiatives [5.4; see         "Minutes of Evidence" para 40 (page 62)].
+Two significant users of CoL         are GenBank (a database administered by NCBI, a centre under the US         Government's National Institute of Health) and the European         Bioinformatics Institute (EBI) which use the Catalogue as a source of         authoritative species and organism data in DNA sequence searches.
+In         2012 hits from these sources reached 63,000 [5.1].
+Use in underpinning the Encyclopedia of Life, by checking that names         are valid before being added to the online encyclopedia, led to 20,000         accesses to CoL in 2012.
+Other organisations that use the CoL in a         similar respect are the International Union for the Conservation of         Nature (IUCN: www.iucn.org), and the         Consortium for the Barcode of Life (CBOL: www.barcoding.si.edu)         - each, in turn, have substantial worldwide usage [5.1, 5.6].
+Multi-national trading companies like IKEA need documentation systems         for the provenance of their raw materials, arising from recently enacted         American law - the Lacey Act (2009)          www.eia-global.org/lacey.
+CoL was the basis of IKEA's first set of data for the first         properly declared list of furniture species and the data is used in 800         IKEA factories around world for preparation of data for importation to         the USA.
+IKEA paid Species 2000 $50,000 for this access [5.7].
+Academic publishers including Taylor and Francis and Reed Elsevier use         CoL content in their e-library products.
+CoL provides them with         authoritative sets of categorised controlled terms and phrases for         species and organisms for search and browsing.
+Annual contracts exist         with these companies which have brought in &#163;31,000 since 2008 [5.8].
+Use in Europe to clean up the Natural History Collections in Museums         to identify naming problems in collections and correct them - 260,000         zoological objects have been checked in the first three months of 2013         [5.9].
+Use by BGCI (which organises information on plants conserved in         botanic gardens around the world), by the Institute of Zoology in London         (which works on conservation status analyses using national Red Lists         and the Sampled Red List Index), and by European partners in the         Biodiversity Heritage Library (BHL) project [5.1].
+In sum the Catalogue of Life is regarded as a highly valuable resource,       used on a global basis, for a variety of purposes.
+The initial and ongoing       availability of the CoL is due to Cardiff University's research.

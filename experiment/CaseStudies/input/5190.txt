@@ -1,0 +1,39 @@
+     ICR research into the RAS signalling pathway has led to significant       benefits for patients, especially for the approximately 50% of melanoma       patients with tumours harbouring BRAF mutations.
+It has also had a major       commercial impact in the pharmaceutical industry through the       identification of new targets for therapeutic development.
+Many       international pharmaceutical companies have added considerable shareholder       value by adding MEK or BRAF inhibitor products to their cancer therapeutic       pipeline; this commercial benefit has been enabled and facilitated by the       ICR's ongoing underpinning research.
+Plexxikon, the biotech company which       developed vemurafenib, the first BRAF inhibitor to reach the market, was       acquired in 2011 by Daiichi Sankyo with an investment of over $800 million       upfront.
+In this acquisition, vemurafenib was a major factor in the       Plexxikon valuation [1].
+BRAF Inhibitors       Malignant melanoma is the fifth most common cancer in the UK.
+Unlike many       other malignancies, its incidence continues to rise on a yearly basis at a       rate of 5-7%; this rising incidence is a global phenomenon, with the rate       of increase being higher than for any other malignancy.
+Age demographics       for the disease are also unusual, with over a quarter of new cases       diagnosed in patients under 50.
+Whilst early detection of localised disease allows complete surgical       resection and a potential cure, the historical lack of effective treatment       options for advanced (metastatic) disease means that melanoma accounts for       a significant number of lives lost to cancer.
+Median survival with       metastatic disease is approximately 6-9 months.
+Given the young patient       population affected, this represents a significant burden of potential       life years lost and thus melanoma is a malignancy of increasing       epidemiological significance.
+The development of targeted therapies on the       basis of ICR research (such as vemurafenib) have, for the first time in       the history of metastatic malignant melanoma treatments, resulted in       improved survival outcomes for patients.
+In 2013, over 20 novel selective BRAF inhibitors are being developed       commercially and two of these, vemurafenib (Roche) and dabrafenib (GSK),       are now on the market.
+Vemurafenib received FDA marketing approval in 2011       [2] and Canadian and European [3] marketing approval in 2012; it is also       NICE approved (NICE guidance TA269) [4].
+Dabrafenib received FDA [5] and       European [6] marketing approval in 2013 and is under review by NICE.
+It is       estimated that globally over 12,000 patients were treated with vemurafenib       in the period from launch to 31st July 2013 [7].
+As evidenced by the       approval by NICE of vemurafenib these new drugs represent a major       improvement in treatment prospects for melanoma patients.
+The ICR, in partnership with the Wellcome Trust, patented mutant BRAF as       a target for drug screens and patient testing in 2001 [8].
+The patent has       five inventors of which four were ICR Faculty at that time (Marshall,       Marais, Stratton, Wooster), which demonstrates the pivotal role that ICR       scientists played in the discovery.
+The ICR and the Wellcome Trust made       the strategic decision to file a patent early, well before the publication       came out, so that they would have a dominant patent position.
+The patent       has enabled us to out-license widely on a non-exclusive basis to       facilitate worldwide drug discovery.
+Currently there are 12 licensees of       this patent and, since 2008, &#163;221,000 of licensing income has been       received, indicating the investment of commercial resources into projects       that relate directly to the ICR's underpinning research.
+The discovery by the ICR that mutant BRAF is an oncogene has led to the       clinical stratification of certain cancers such as melanoma.
+The       development by pharmaceutical companies of inhibitors that specifically       target mutant BRAF driven tumours means that patients have to be screened       first before treatment to identify if they are suitable for these new       therapies.
+A number of diagnostic companies have developed tests for       mutant BRAF and have had these tests approved by the FDA and other       regulatory authorities.
+The marketing of these tests has added commercial       value to these companies and this is all a direct result of the ICR's       fundamental research.
+The publication of the molecular structure of mutant BRAF by ICR       researchers was another key step in enabling companies worldwide to       develop their own inhibitor design programmes based on the protein       structural information.
+Over 70 commercial companies have cited the ICR       structural biology work (Research Ref 4 above) (over 60 since 2008),       including Plexxikon and GSK (Web of Science data).
+The published ICR research on the paradoxical activation of MAPK through       CRAF following BRAF inhibition demonstrated the mechanism by which       selective BRAF inhibitors can induce squamous cell carcinomas (Research       Refs 5 and 6 above).
+The elucidation of this mechanism has enabled       companies developing selective inhibitors to invest in strategies to       compensate for the side effects, for example by developing combination       therapies with MEK inhibitors.
+Such a combination of dabrafenib (BRAF       inhibitor) and trametinib (MEK inhibitor), developed by GSK, has shown       significantly improved progression-free survival in patients [9].
+MEK Inhibitors       ICR research on the oncogenic RAS signalling pathway and its key protein       components has led to worldwide commercial impact through the development       of novel cancer drugs.
+Following the publication of the pioneering work       demonstrating activation of MEK and ERK by oncogenic RAS, and the finding       that constitutively activated MEK leads to the neoplastic transformation       of cells (Research Ref 1 above), over 20 international pharmaceutical       companies have used and cited this research (Web of Science data).
+Although the impact began to be realised before 2008, it is only since       that date that international pharmaceutical companies have commenced       large-scale clinical trials of MEK inhibitors with the investment of major       resources into their clinical development (ClinicalTrials.gov lists 112       clinical trials worldwide of MEK inhibitors, 104 of these commenced from       2008 onwards).
+Since 2008, over 12,000 patients have participated in MEK       inhibitor clinical trials worldwide and 10 different products are in       development (ClinicalTrials.gov).
+One product, trametinib, developed by       GSK, was approved by the FDA in May 2013 for use in patients with       unresectable or metastatic melanoma with BRAF V600E or V600K mutation [6]       and is currently under review by the EMA's Committee for Medicinal       Products for Human Use.
+It is now generating revenue in the international       market with projected sales figures for 2013 of $26M (Thomson Reuters       database).
+The ICR, together with its partner the Royal Marsden NHS Foundation Trust       (RM), has played a key role in the clinical studies of MEK inhibitors [10]       (for example CinicalTrials.gov listed trials NCT01682083, NCT01584648,       NCT00773526, NCT01245062 and NCT01449058) and has pioneered studies into       combinations of MEK inhibitors with other drugs: as an example, being the       first UK site to investigate the AKT/MEK combination, specifically MK2206       and AZD 6244.
+The combination studies point to improved patient outcomes       over single therapy [11].

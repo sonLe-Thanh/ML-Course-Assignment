@@ -1,0 +1,50 @@
+     History of impact generation:     Engineers from BAE Systems (Warton and Brough) were first exposed to the       Durham research in interactive stress analysis in 1999.
+This was timely,       since the company was actively seeking tools that would allow rapid and       simple assessment of the stress concentrations that arise in aircraft       structures.
+They undertook a six-month trial period (value &#163;20k) of the       Concept Analyst software in-house, and found that it offered a solution       that was sufficiently intuitive that it could easily be used by their       large number of stress engineers who were not regular finite element       users.
+Usage of the system expanded, ultimately becoming part of the       standard toolbox for about 100 structural engineers across multiple BAE       sites (Warton, Brough, Samlesbury, Prestwick and Farnborough).
+Seven       half-day training courses have been provided by Durham University staff at       BAE sites, at each of which staff were present who worked at multiple       sites (value &#163;10.5k).
+In 2001, the level of interaction with BAE Systems had developed to the       extent that the Durham University spinout company Concept Analyst, Ltd.       was formed with Prof. Trevelyan as Managing Director.
+While research       projects are undertaken at Durham University, the spinout company handles       software licensing, contracts and documentation, and also funds       implementation of the algorithmic research outputs into the core Concept       Analyst software that is made available commercially.
+The company has       traded continuously to the present day.
+The key contacts in BAE Systems       became enthusiastically engaged in the project and funded further       developments from 2001 to 2005.
+Further links have been obtained with other industrial beneficiaries.
+Jesmond Engineering, a structural analysis consultancy in Brough, East       Yorkshire, has become a regular user of the Concept Analyst software,       undertaking fatigue analysis for a wide range of major aerospace companies       in the UK and Europe.
+Since the signing of a reseller agreement in 2006,       Jesmond Engineering has acted as an agent representing and reselling the       Concept Analyst software throughout the UK and European aerospace sector.
+Through this arrangement the research outputs have been used in the REF       period at Agusta Westland Helicopters (Italy), Assystem (UK) and Pilatus       Aircraft (Switzerland), and trials are in progress at Airbus (UK) and       Bombardier (Canada).
+A training course was held at Agusta Westland in       Milan (value &#163;1.5k).
+BAE Systems and Jesmond Engineering continue to be committed to       involvement in Concept Analyst, providing letters of support for EPSRC       grant proposals, acting as beta sites for new feature releases and       participating in steering groups for new developments.
+In an email dated 17th September 2013 (hereafter referred to       as email 1), the F-35 DaDT Lead, Aft Fuse and Empennage, BAE Systems,       Samlesbury, Lancashire, describes the impact these Durham research outputs       have had within BAE Systems:     An accurate determination of fatigue life is of paramount importance         to the design, manufacture and support of military aircraft ... in order         to provide efficiency and performance whilst maintaining structural         integrity throughout their service life.
+Accurate determination of the         stress concentration values associated with many unavoidable geometric         features, such as fastener holes and changes in section and width of         components, is a key element of this analysis.
+Concept Analyst has been         employed for this purpose for over a decade now and the capability         provided has expanded over this time to enhance the benefits that we see         from this capability...
+Throughout the lifecycle of the aircraft (initial design, through         manufacture to in-service support) fatigue life calculations are         required and these often need to be generated rapidly.
+Whilst there are         various proven stress analysis tools available (both Finite Element and         Boundary Element based) that are capable of the level of accuracy         required, it is the speed and ease of use that set Concept Analyst apart         and deliver key cost benefits...
+The first F-35 aircraft was rolled out by Lockheed Martin at Fort         Worth, Texas, at the end of 2008.
+Wikipedia reports a unit cost for         Typhoon aircraft as approximately &#163;65m and upwards of $150m, dependent         on variant, for a single F-35.
+Whilst we do not manufacture and assemble         all components of either of these aircraft, with such high values, it is         easy to see how significant cost savings can be made through increased         efficiency of analysis.
+Some individual parts are worth well in excess         of $10,000.
+Production rate for the F-35 is currently of the order of 40         aircraft a year but this is set to increase to 1 aircraft per day.
+Concept Analyst allows completion of a fatigue analysis in a matter of         minutes to hours whereas using other commercial FEM and BEM applications         could take a day or two.
+In many instances, a delay to analytical         results can, itself, cause increased costs through delayed production or         lack of availability.
+The faster turn around that can now be provided         also increases quality and customer relations providing longer term         benefits to the company.
+During the period 2008 to present, increased benefits have been enjoyed         as a result of improved capability of the application including areas         such as: Increased model size capability; improvements to the interface,         increases in speed resulting in true real time re-analysis and; part         zoning.
+Concept Analyst has been, and will remain, a key analysis tool for         airframe structures engineers within the company, continuing to yield         cost benefits.
+In a letter dated 20th May 2013 (hereafter referred to as       Letter 1), the MD of Jesmond Engineering, East Yorkshire, lists the key       impact-generating features as:            The level of interactivity in the system has meant that it is           very easy and intuitive to use.
+It is perfectly possible for the many           stress engineers to make effective use of the code without recourse to           the comparatively very limited number of expert structural modelling           analysts, and this has had positive impacts on productivity.
+The simplified and intuitive user interface has meant that           occasional users can return to the software after an extended period           without detriment to their productivity in using it.
+Engineers are able to evaluate stress concentration factors           rapidly and with confidence to inform fatigue analysis.
+In benchmark tests the accuracy is of at least the same order as           major commercial finite element tools.
+This is of crucial importance           in fatigue analysis, since errors in stress solutions can be greatly           magnified in calculations for life estimation.
+Increases in accuracy are also brought about by the fact that           (unlike textbook solutions) the software can closely model the           non-standard geometries typical of real aircraft structures.
+Aircraft on which the software has been used:     The Durham generated Concept Analyst software has been used to inform       design, analysis and fatigue life estimation for aircraft structural       components.
+In email 1, the F-35 DaDT Lead, BAE Systems, states that the:     Concept Analyst software is currently employed against design and         production of the aft fuselage and empennage of the F-35 Lightning II         (CTOL, STOVL and CV variants), Eurofighter Typhoon and Hawk aircraft.
+Concept Analyst is also employed to support older aircraft such as         Tornado, Harrier.
+Concept Analyst has been employed during the         production of some 150 or so F-35 aircraft aft fuselages, vertical tail         pairs and horizontal tail pairs here at Samlesbury during the period         2008 to present.
+In Letter 1, the MD, Jesmond Engineering, states that the code has also       been used on "Airbus A350 (preliminary analysis)" and lists some       further categories of software usage:     Our customers at AgustaWestland have used the software during fatigue         testing rig design to help avoid unexpected failures of rig parts which         may cause unacceptable delays and expensive damage to the helicopter         parts under test.
+We have found that Concept Analyst software is not only of use in the         design stages of an aircraft, but throughout its lifecycle, including         for maintenance, modifications and repairs.
+In my opinion the efficiency         of its use can be considered to help bring safety and cost advantages to         passengers and operators.
+The speed and ease of Concept Analyst has lent         itself to use in production concessions, specifically undertaking rapid         assessments to decide on the structural adequacy of parts (manufactured         out of specification), each of which can cost hundreds to tens of         thousands of pounds, and to verify whether a repair is acceptable.
+It is estimated that the total orders of Eurofighter Typhoon are over 500       aircraft.
+The value of each aircraft is estimated to be $100 to 150       million.
+Total Hawk orders number over 1000, with the value of each       aircraft currently estimated to be $30 million.
+The Airbus A350 is a family of long-range wide-body aircraft.
+As of 17th       September 2013, a total of 682 orders have been placed (http://www.airbus.com/presscentre/corporate-information/orders-deliveries/)       at list price $254 to 288 million (http://www.airbus.com/presscentre/corporate-information/key-documents/?eID=dam_frontend_push&amp;docID=14849).

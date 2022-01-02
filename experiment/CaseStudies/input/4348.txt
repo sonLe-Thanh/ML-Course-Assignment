@@ -1,0 +1,41 @@
+     Significant new drug discoveries for cancer in general and for       haematological malignancies have been sporadic.
+Acute myeloid         leukaemia (AML) is an aggressive cancer that mostly affects       individuals over the age of 60.
+The outlook for the majority of patients       with acute myeloid leukaemia has remained unchanged for more than twenty       years with significant numbers dying within six months of diagnosis and       overall survival remaining dismal.
+Burkitt's Lymphoma (BL) is       endemic in sub-Saharan Africa.
+The geography of this endemic form of the       disease (eBL) coincides with some of the poorest countries in the world.
+Similarly new curative measures for lymphoma and multiple myeloma have       been seriously lacking.
+In addition, the situation in poorer countries is       significantly worse, where those drugs that have been recently derived       (such as imatinib for chronic myeloid leukaemia and rituximab for B-cell       lymphoid malignancies), are prohibitively expensive.
+Even in Europe and       the USA many new drugs are not widely available because of their expense.
+Hence, Bunce and colleagues have adopted a novel strategic approach to       address these issues by exploiting combinations of existing drugs not       originally developed as anticancer agents.
+As result they have improved       survival and the quality of life for patients with haematological       malignancies and revealed the benefits of this approach for less developed       regions such as sub-Saharan Africa.
+Initial confirmation of the efficacy of the drug repurposing strategy to       treat Acute Myeloid Leukaemia and Burkitt's Lymphoma came with the       analysis and publication in 2010 of an AML patient trial conducted by Prof       Bunce and Prof Drayson (Medical School, University of Birmingham) (www.controlled-trials.com/ISRCTN50635541).
+As it is not ethical to deny AML patients who are likely to benefit from       conventional chemotherapy access to those treatments, radically novel AML       treatments have to be first tested in those end stage patients for whom       only palliative care is available.
+Consequently, the patients represented       an elderly group with an extremely poor prognosis whose disease would be       expected to be progressive and in none of whom would an improvement in       haemopoiesis or reduction in disease activity be expected without       effective anti- AML therapy.
+Five patients took BaP for &lt;4 weeks because of complicating       co-morbidities and 4 more received other concomitant therapies.
+For these       patients it was not possible to assess the anti-AML activity of BaP.
+Nonetheless, 15 patients took BaP as the sole therapy for between       4.5-&gt;200 weeks without toxicity (1 patient stopped BaP therapy because       of depression, athough a possible side effect of the treatment this       patient had had a torrid disease history).
+Amongst these 15 patients,         4 achieved stable disease for 5-39 weeks and a further 4 showed improved         haemopoiesis for 22-&gt;200wks.
+Only 2/15 patients had progressive         disease whilst on BaP therapy.
+Thus the importance of this study is       that it demonstrated the safety of BaP in elderly patients with AML       combined with strong evidence of both anti-AML activity and improved       haemopoiesis.
+In stark contrast to cytotoxic chemotherapy, BaP had no       haematological toxicity and can be administered continuously.
+The       innovation in this approach was the introduction of the concept that       complete ablation of the leukaemia cells (complete remission) by BaP may       not be necessary to allow haemopoiesis to recover towards normal,       improving both quality and duration of life.
+Based on this successful outcome a further trial using this strategy is       underway focussing on not only AML, but also B cell Chronic Lymphocytic       Leukaemia (CLL) and B cell Non Hodgkins Lymphoma (BNHL) (http://www.controlled-trials.com/ISRCTN99131400).
+The trial started in December 2011 and is being led by Prof Drayson.
+Endemic Burkitt's lymphoma is the most common childhood malignancy in         malaria-endemic areas of sub-Saharan Africa where it is 50 fold more       common than elsewhere.
+It accounts for about half the cancers that present       to the Queen Elizabeth Central Hospital (QECH), Blantyre in Malawi.
+The       treatment of BL at QECH is limited by several factors including cost.
+Malawi is one of the poorest nations in the world, the resultant lack of       supportive medical care and poor nutritional status of patients mean that       conventional chemotherapy would lead to unacceptable toxicity.
+Despite       this, current low grade, chemotherapy available at QECH cures around 50%       of children and rescue therapy salvages approximately one third of those       patients who relapse or present with primary resistant disease.
+The       preclinical studies identified BaP to have anti-BL activity (2003).
+In       collaboration with Prof, Elizabeth Molyneux, these agents have been added       to the rescue protocol for relapsed and primary resistant patients at QECH       since 2006.
+The trial (www.controlled-trials.com/ISRCTN34303497)       which ran from 2007-2012 was conducted in a total of 96 patients (median       age of 9 years old) and tested three escalating doses of BaP in a total of       96 patients.
+The trial treated patients for a week on BaP alone and then       in combination with rescue therapy.
+In those patients that showed       progression on BaP alone, rescue therapy was started immediately.
+The       trial clearly identified that the higher doses of BaP ceased lymphoma         progression in all patients and furthermore reduced tumour size in       almost a third of patients.
+At the end of all therapy, complete remissions       were present in 41%, 43% and 66% (p=0.04) of low, intermediate and full       dose BaP.
+The analysis of the trial data has been accepted for publication       in the British Journal of Haematology.
+Impact from the phase 1 &amp; 2 trial in relapsed and primary resistant       eBL in Malawi demonstrated:            BaP has significant activity against eBL in vivo        The absence of toxicity       At the maximum dose tested BaP alone halted disease progression and or         diminished disease load in all patients       When combined with standard local low grade rescue chemotherapy this         same dose of BaP significantly increased complete remissions from 41% to         66%.
+The cost of BaP adjunctive therapy alongside standard rescue therapy         is just &#163;72 as compared to ~&#163;10-20K in the UK, EU and USA.
+The cost of the quality adjusted life years (QALY) for a Malawi         patient who is cured after BaP therapy is &lt;&#163;2 (given life expectancy         is 52 years).
+Following this outcome a new drug combination currently in phase I/II, if       safe, will be combined with BaP to determine the best treatment to take to       phase III trials in relapsed and primary resistant BL.
+Longer term, there       are also plans for a randomised trial of BL at first diagnosis and to set       up a national centre for drug redeployment across all diseases.

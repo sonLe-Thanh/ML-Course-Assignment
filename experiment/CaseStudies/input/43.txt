@@ -1,0 +1,36 @@
+     Cycle Racing Model     The Cycle Racing Model is a comprehensive mathematical model of cycling       and is the first in the world to include cycle and rider together.
+British       Cycling and British Triathlon scientists used the model to formulate       pacing strategies and inform equipment selection when Britain's elite       athletes race on technically challenging courses.
+For example, the basis       of this model was used to formulate the pacing strategies and race       equipment selection for Britain's elite cyclists in the time- trial at the       2008 Beijing Olympics (at which Emma Pooley won a silver medal).
+The model       was used to calculate specific scenarios of the impact on final race time       of varying power output for different sections of major championship       courses over the recent Olympic cycle.
+In 2010 the Australian Institute of Sport (AIS) and in 2011 the British       Paralympic Association both used this model to assist with the preparation       of Australian cyclists and British Paralympic riders respectively.
+The AIS       awarded Patrick Cangley (PhD student co-supervised by Passfield) a       "Visiting Scholarship" to fund his travel to Australia and his       accommodation whilst working with their scientists in Canberra.
+As this       model provided a significant advance on their own previous (published)       models the AIS scientists wanted to examine a number of what-if scenarios.
+The Cycle Racing Model enabled sport scientists at the AIS to explore many       aspects of cycling performance and help their coaches and athletes in both       track and road cycling disciplines.
+For example, joint torque was       calculated with the model using inverse dynamics to better understand and       inform specific Australian cycling team race and training practices.
+The       British Paralympic Cycling team used the model to quantify the demands of       the London 2012 Paralympic cycling course at Brands Hatch.
+This data was       then used to fine tune the final preparation of British riders for this       event and derive optimal race scenarios.
+The British Paralympic road       cycling team won three gold, two silver and two bronze medals at the       London Games.
+It is the exceptional mechanical detail of this model that       has made it so valuable to scientists at the English Institute of Sport       supporting British Cycling and British Triathlon's elite athletes.
+Indeed       the model continues to be used to evaluate novel "what if" scenarios for       various aspects of cycling competition and training and Passfield       continues to use the model to assist British Cycling scientists with new       novel applications of the model.
+The Wattbike is a successful commercial cycle ergometer that is sold       around the world.
+It is endorsed by British Cycling and used by them and       Cycling Australia as part of their elite and talent development       programmes.
+British Cycling uses the Wattbike to help identify talented       cyclists for the future.
+The Cycle Racing Model was used to develop the       algorithm incorporated into the Wattbike software to simulate a rider's       cycling speed from the ergometer power output.
+This algorithm is       fundamental to the use of the ergometer as it provides the basis of the       distance and speed covered when riding on the ergometer.
+It also enables       the rider to monitor performance over set distances and to race against       another rider on a different ergometer.
+Sprint Cycling Model     Scientists working with the British Cycling sprint team that included       Olympic Champions Sir Chris Hoy and Victoria Pendleton CBE used the sprint       cycling model to help devise the sprint race tactics of this team.
+In       order to maintain a competitive advantage, publications from this work       were embargoed until after the London 2012 Olympic Games and are only now       being fully published.
+Cycle Training Model     The Cycle Training Model was motivated by the need to better understand       the wealth of data (e.g.
+power output, heart rate, cadence) that it is now       possible to obtain from cyclists and their bicycles when training and       racing.
+Several studies from the Endurance Research Group have led to a       change in understanding training practices for elite endurance cyclists.
+For example, the findings of Hopker et al.
+(2010) informed this model       which was used by Sir Bradley Wiggins in his preparation for his Tour de       France and Olympic time trial victories in 2012.
+Specifically, his science team identified the need to develop Wiggins'       cycling efficiency as a key target and focus of his preparation.
+As       described above, the findings from our laboratory have changed the way       scientists and coaches think about efficiency and the training necessary       to improve it.
+Indeed, a world leading sports scientist at the AIS has       noted that this work provides a fresh perspective on important issues and       that it has had a substantial impact on the way many nations prepare their       elite cyclists (see sources to corroborate impact).
+Wider impact     The cycle racing and training models are having impact far beyond       professional cycling.
+Many people in gyms, health clubs and schools around       the world use the Wattbike ergometer for exercise and training.
+Furthermore, aspects of the Cycle Training Model are being incorporated       into the "Map My Tracks" website which has over 450,000 users worldwide.
+Map My Tracks provides GPS tracking on the web for people with GPS       tracking embedded in their mobile phones or other GPS-enabled devices.
+The       service is focused on sports enthusiasts who want to keep track of their       running, cycling, kayaking, and other such pursuits.
+Map My Tracks is a       product of Tinderhouse, a UK company based at the Innovation Centre,       University Road, Canterbury.

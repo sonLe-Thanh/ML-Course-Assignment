@@ -1,0 +1,43 @@
+     The NIST Digital Library of Mathematical Functions makes the properties       of transcendental functions freely available to the general public.
+The       online, interactive format of the Digital Library is a new feature, with       its print companion, the new Handbook, providing further detailed       information for practitioners such as industrial scientists.
+This has a       commercial impact, in particular on the US economy and on the publisher of       the Handbook (Cambridge University Press).
+It also informs the practice of       teachers and researchers outside mathematics, and engineers and       professionals outside academia.
+Professionals in all fields of science and engineering need reliable and       detailed technical information to be readily available, in order to       develop specific industrial applications and carry out research.
+In the       past, such information was collected into handbooks, which would be       revised and reprinted according to demand.
+Arguably the most successful       mathematical handbook of all time is the National Bureau of Standards       Handbook of Mathematical Functions (Abramowitz &amp; Stegun), first       published in 1964 [5.7].
+Although still a classic, it has       gradually become outdated, as important new properties of special       functions, and new families of such functions, have been discovered over       the last fifty years.
+Nevertheless, it has served as a template for a new       project, the Digital Library of Mathematical Functions, led by NIST.
+The aim of the NIST Digital Library is to make carefully selected and       accurate data on the elementary and higher mathematical functions       available to the public, with experienced professionals being the target       audience.
+The primary criterion for inclusion of information is usefulness       in disciplines outside mathematics.
+As well as the online hypertext       version, which includes interactive graphics and search tools, there is a       more traditional print version, the NIST Handbook of Mathematical       Functions, published by Cambridge University Press (2010).
+According to       the General Editor, Daniel Lozier at NIST, "The Handbook will be used by       anyone who is doing a project in mathematics, science or engineering" [5.7].
+The fact that the Digital Library of Mathematical Functions is funded by       NIST, a US government agency, which is part of the US Department of       Commerce, clearly indicates the importance of this information to       scientific professionals.
+As well as their immediate uses in mathematics       and physics (for example, in describing the pattern of waves in the wake       of a moving ship [5.7]), mathematical functions are applied in       manufacturing technology, civil engineering, bioscience, electronics, and       computer networks.
+The impact of the NIST Digital Library on these areas       has so far been measured indirectly, in two different ways.
+Since the site       http://dlmf.nist.gov/ was opened, NIST estimates that more than half         of the downloads were by non-academic users [5.1].
+The web usage       data analysis of NIST [5.2] shows in particular that Chapter 32       written by Clarkson was downloaded more than 2000 times per year,       so that NIST estimates that more than 1000 non-academic users are       downloading Clarkson's chapter each year.
+At the request of NIST,       a citation analysis was performed to compare usage of the old NBS Handbook       (Abramowitz &amp; Stegun) and the new NIST Handbook [5.1].
+The       latter analysis shows that while the NBS Handbook is still very widely       used, the amount of usage has gradually started to decline since the       appearance of the NIST Handbook: citations to the old Handbook increased       by 5% from 2007-2009, but decreased by 12% from 2010-2012; while citations       to the new Handbook more than doubled from 2011-2012.
+According to NIST,       15 of the top 20 journals that cite the new NIST Handbook of Mathematical       Functions are not Mathematical journals, confirming the role of       the NIST Handbook of Mathematical Functions as a tool for scientists         and engineers.
+The new Handbook has already gained more than 600 citations (according to       Google Scholar on 31st July 2013 [5.8]), including in       the following disciplines: Chemistry, Forest Research, Optics, Water       Resources.
+According to Cambridge University Press (CUP), the NIST       Handbook is expected to become a bestseller just like the old Handbook,       and CUP receives considerable economic benefit and prestige by       publishing the Handbook.
+This is confirmed by the Editorial Director of       CUP: "Since publication in 2010, the Handbook has seen strong sales       throughout the world, especially in North America and Europe, has       attracted much praise for quality and breadth of content, and for its high       production values.
+It is not just the print version of the book that users       appreciate; it is also available as a browsable CD that comes packaged       with the book and as an addressable database online.
+These features have       extended the usability of the Handbook over its predecessor and made it a       resource that can be readily used worldwide, not just by       mathematicians, but in fundamental science, applied science and       engineering."
+[5.10] This is backed up by several reviews in       industrial and engineering publications.
+For instance, the US Society for       Industrial and Applied Mathematics (SIAM) wrote that "The NIST Handbook is       indeed a monumental achievement, and the many, many individuals who       participated in its creation and dissemination are to be congratulated and       thanked" [5.11].
+And Optics and Photonics News recognized that       "The National Institute of Standards and Technology (NIST) and Cambridge       University Press are to be congratulated for publishing a treasury.
+It is       eminently readable with clear, sharp, high-contrast text, mathematical       notation and colored graphs and figures.
+People who work with functions       will delight in this handbook" [5.11].
+According to statements from a report to the US House of Representatives,       "NIST carries out in a superb fashion an absolutely vital role in       supporting as well as facilitating the further development of the       technological base of the U.S. economy" and, in particular, "The Digital       Library of Mathematical Functions is without peer in the broader       community" [5.9].
+This acknowledges the significant economic       impact of the DLMF.
+The innovative nature of the Digital Library, in the way that it makes       the properties of transcendental functions available online, has already       been acknowledged in US Government circles.
+The DLMF was one of only 10       projects (out of 200 nominated) to win a 2011 Government Computer News       (GCN) Award for Outstanding Information Technology Achievement in       Government [5.3].
+This acknowledges the high quality and easy       accessibility of the information provided and further recognition by US       Government.
+The Digital Library is now used not only to enhance academic knowledge       but also as a resource which informs the teaching practice of many       disciplines outside mathematics, hence changing practice in the HE sector       internationally.
+For instance, in the Department of Astronomy of the       University of Tokyo the Digital Library is used to teach Celestial       Mechanics [5.4]; and in the School of Engineering of the Catholic       University of America it is used to teach Acoustic Metrology [5.5].
+(These examples are indicative of the immediate impact of the Handbook on       teaching practice in higher education; other examples include teaching at       Princeton [Astronomy, Observing and Modeling the Universe], and at       Colorado State University [Mechanical Engineering Problem Solving].)
+The       Digital Library is also used as a standard reference by the US army [5.6].
+Summary: The research on Painlev&#233; equations at Kent has       contributed to the wealth of the US and other economies, and CUP, via the       DLMF and the new Handbook.
+The DLMF is used widely by scientists and       practitioners, and has attracted much praise contributing to the prestige       of CUP.
+It has also influenced teaching practice in disciplines other than       mathematics across the globe.

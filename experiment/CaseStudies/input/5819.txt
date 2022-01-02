@@ -1,0 +1,34 @@
+     (numbering refers to Section 5 unless specified)     Research by Fairhurst and his group has directly benefitted industry, who       have taken up and used       the new standards created from it.
+Although the commercial gain yielded by       open standards is not       measurable, these standards are hotly contested in competitive markets and       achieve very wide       reach &#8212; as in the case of mobile phone or TV standards, which ultimately       affect millions of users.
+Other beneficiaries of the research have been the principal Internet       standards authority, as well as       end users of web and mobile technology.
+Internet Engineering Task Force       Throughout the impact assessment period, as a direct result of his       research expertise, Fairhurst       has been an active member of the Internet Engineering Task Force (IETF)       [1, 2], the principal       Internet standards organisation.
+This specifies protocols and current best       practice for Internet       operators in the Request for Comments (RFC) series.
+These standards ensure       the inter-working of       hardware and software produced by different manufacturers.
+Throughout the       impact assessment       period, Fairhurst served as Chair of the IP over Digital Video Broadcast       (IPDVB), Datagram       Congestion Control (DCCP) and Transport and Services (TSVWG) working       groups.
+He became a       member of the Transport directorate, which advises the IETF on transport       standards, in 2009 [3].
+Internet Transport Protocols       Since 2008, Fairhurst co-authored a series of ten published IETF standards       documents [1], cited       by 29 other standards documents [1-3].
+This work directly benefited       industry: UDP-Lite, RFC5097,       co-authored by Fairhurst, is used in third-generation mobile phone (3GPP       UMTS) equipment       enabling operators such as Ericsson AB [2] to transition to an       internet-based voice service.
+This       has been implemented in the Linux operating system since release 2.6.20.
+Work has also made       significant contributions to UDP (e.g.
+Section 3 [1, 3]), TCP (e.g.,       Section 3 [2]) and the       development of DCCP (2, 3)).
+Satellite IP Networking       Research by Fairhurst and his group directly benefitted the satellite       terminal industry.
+Techniques       for IP transmission [Section 3 [4]] were applied by leading European space       companies Astrium,       Portsmouth (for a mesh satellite network [4] and Thales (cross-layer       transport optimisation).
+Fairhurst was an invited technical expert to the European       Telecommunications Standards Institute       (ETSI) between 2001-2009, where he contributed to the BSM series of       satellite system       specifications [e].
+Building on this, Fairhurst et al [Section 3 [4]]       designed the Generic Stream       Encapsulation (GSE) for efficient transport of network packets over second       generation Digital       Video Broadcast (DVB) standards [6, 7].
+This was standardized [8], with       work continuing by the       Universities of Aberdeen and Salzburg to specify Extension Formats (RFC       5163, 2008) and       Implementation Guidelines (TS 102 771, 2009).
+GSE has been implemented in       commercial       broadcast products in Europe [9] and America since 2009, (Newtec's EL470,       EL970; Work       Microwave's SK-IP; GCS's ODG200 and BSR200; Advantec Wireless's AMT75e;       Comtech CDM-840;       KS Transpleneta dpi4502; and Computer Module's DVB Rocket).
+GSE has       reduced       operational cost for companies delivering satellite IP services [e, f].
+Current work within DVB is       adapting GSE to become a standard for all second generation transmission       technologies [9].
+In 2009, again on the basis of his research, Fairhurst was co-opted onto       the TM-RCS standards       group on behalf of ESA, the largest standardization initiative for open       satellite communications.
+He       provided expertise on protocol design and contributed to defining the QoS       [Section 3 [6]] and       network-layer architectures [Section 3 [5]] for the Higher Layers,       published in the DVB Return       Channel via Satellite (DVB-RCS2) specification in 2011 [5, 6].
+DVB-RCS2       was successfully       demonstrated by STM, one of the largest privately-held satellite       engineering companies, in their       SatLink platform in June 2011.
+It has since been implemented by iDirect,       Virginia, USA.
+Thales-Alenia       Space is currently developing commercial DVB-RCS2 gateway products [6].
+Next Generation Access       Fairhurst and his group contributed to design of the Digital Advanced       Rural Testbed (DART, 2012)       and the evaluation of user-experience (2013).
+This pre-commercial platform       allowed SMEs to       explore technology and economic impacts (ranging from on-demand TV to       wireless access for       government services) with results disseminated to stakeholders and network       operators (e.g.
+Avanti, BT).
+Avanti PLC is using the technology enablers developed in DART       to build new user       services for commercial launch in 2013 [7].
+Public engagement       Fairhurst and his team have increased awareness and understanding of       satellite broadband       research through public engagement activities [7[.
+These included       presentations at the major       annual science and technology festival in Aberdeen "TechFest" (2011) on       the evolution of satellite       broadband, "Satellites in Space", attracting an audience of 150.
+Presentations to business and       government representatives at Technology Strategy Board events, including       Innovate (2011,       2013), and the International Telecommunication Union Geneva Conference       (2011) presenting       DART to network operators and government policy makers.
+Public awareness       was also promoted       through schools visits in 2012 and 2013, and through national radio (e.g.,       interviews with       Townsend, Research Fellow working with Fairhurst, on BBC Radio Scotland's       Out of Doors, 2011).

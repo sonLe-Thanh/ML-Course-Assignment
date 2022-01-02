@@ -1,0 +1,31 @@
+     Catalytic processes underpin production in the chemicals and       pharmaceuticals industries; as such, the value of the goods and products       manufactured by catalysts is estimated at $15 trillion worldwide1.
+It is well recognised that improvements in the efficiency of catalytic       processes &#8212; resulting in added value of the products manufactured and       minimisation of environmental impact &#8212; require a science-led approach.
+The       UCL/RI team has made significant contributions to development processes       and products globally, fostered through deep and long-standing       interactions with UK and international industry.
+These relationships have       enabled the translation of the pioneered techniques and their subsequent       application in product and process optimisation.
+Contribution to commercial software development: The translation       to industry of QM/MM techniques has been realised through commercial       software development.
+Professor Catlow was one of the lead scientific       advisors to the Catalysis and Sorption Consortium and subsequently,       between 2008 and 2011, advisor to the Nanotechnology Consortium.
+This       latter consortium, in collaboration with the STFC, developed a QM/MM       module (QMERA) for Accelrys' Materials Studio&#174; modelling and simulation       environment software [A].
+Materials Studio enables investigators to relate       product performance with material properties and behaviour at the       molecular, atomic, and meso scales.
+QMERA was first included in Materials       Studio 4.3 in 2008 [A].
+In 2011, Accelrys released a new version of this       software &#8212; Materials Studio&#174; 6.0 [B] &#8212; that included a significantly       enhanced QMERA module [A].
+[text removed for publication]     Knowledge transfer of techniques and highly skilled specialists:       At Johnson Matthey (JM), adoption of new techniques developed by UCL/RI       and integration of UCL/RI-trained scientists has shortened research         projects, aided understanding and improved the company's competitiveness       [C].
+Transfer of synchrotron radiation-based techniques to industry has       been facilitated through Royal Society industrial fellowships, such as the       secondment of Professor Sankar from UCL to JM between 2007 and 2011.
+During this period, Sankar shared his significant experimental know-how of       diffraction and synchrotron radiation (SR) techniques with JM research and       development (R&amp;D), enabling the implementation of these techniques       across a range of catalysts, from zeolite-based systems to supported oxide       materials.
+The introduction of SR techniques at JM has been invaluable         to the company's catalytic technology and materials processing [C].
+Furthermore, a range of in situ methodologies has been designed       and developed for JM, which has helped make its analytical science and       technology highly competitive with other similar chemical companies       around the world [text removed for publication] [C].
+The relationship with       Sankar has continued through a consultancy arrangement.
+Alongside this, JM       has recruited seven UCL/RI-trained scientists over the last 10       years; one is now in a senior management role and three were hired in         the REF impact period.
+Of the latter group, one is now managing       projects incorporating modelling, while the other two are full-time       practitioners [D].
+New product development: Collaborative projects with JM &#8212; for       example, those described in outputs [3] and [6], above &#8212; have led to       commercial benefits for the company.
+Here, work has primarily focused on       applying the techniques developed by the UCL/RI team to the field of bulk       industrial chemical production, particularly in the development of       inorganic oxides.
+These are important industrial catalysts used in the       annual worldwide production of 130 million tonnes of ammonia, 50 million       tonnes of hydrogen, 60 million tonnes of nitric acid and 100 million       tonnes of methanol [E].
+Catalyst development is a continuous process aimed       at enhancing operational efficiency and in turn resulting in major       financial benefits for the end users.
+Historically, the approach was       mainly empirical, but new computational and experimental tools have       provided major opportunities to enhance understanding and suggest new       avenues for research.
+Computational modelling, backed by access to       advanced X-ray techniques such as X-ray absorption spectroscopy (XAS) at       SR sources, has been applied to a range of doped and defect-containing       catalytic inorganic oxide materials of relevance to the bulk chemical       interests of JM (including the former ICI Katalco) [E].
+In turn, this work       has contributed to novel materials design, cost-effective synthesis of         catalysts and understanding of their application under aggressive       chemical process conditions [E].
+[text removed for publication]     [text removed for publication]     Impact on environmental policy: In 2011, in collaboration with JM       and other international organisations, the application of XAS techniques       (e.g.
+output [5] above) provided essential learning for members of the       International Platinum Group Metals Association (IPA) who were seeking       evidence to retain the use of platinum as the active component in vehicle       emission catalysts.
+[text removed for publication] the global emission       control catalyst market reached $6.7 billion in 2012 [C].
+These catalysts,       and platinum-containing systems in particular, were under scrutiny by the       United States Environmental Protection Agency (EPA) as a potential source       of chloroplatinates in the environment [G].
+The work was used in 2012 as       part of the science case that demonstrated that the major industrial use       of platinum in the catalysts was not a direct source of chloroplatinates;       in turn, the work recommended a prospective, evidence-based approach to       both occupational and public exposure assessment to legislators in Europe       and North America [C].
+Topics in Catalysis 52(8), 924-934 (2009) http://doi.org/cd2hgx

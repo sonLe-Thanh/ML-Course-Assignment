@@ -1,0 +1,40 @@
+     More than 1.38 million new cases of breast cancer are diagnosed around       the world each year, a figure that is currently increasing by 20,000 year       on year.
+In almost all cases, surgery is required to remove the tumour.
+To       determine whether the disease has spread to other sites, the European       Organisation for Research and Treatment of Cancer currently recommends       sentinel lymph node biopsy (SLNB), wherein the sentinel lymph nodes are       removed and inspected under a microscope.
+This minimally invasive       procedure is the preferred standard of care in breast cancer operations;       in the UK, around 80% of all operations for that cancer include SLNB.
+Despite this, current methods of sentinel node detection are not easy to       use, involving the injection of radioactive isotopes, along with a blue       dye as a tracer.
+A surgeon then uses a hand-held Geiger counter to locate       the node or nodes closest to the tumour.
+Because the isotopes are       potentially hazardous they must be injected in the nuclear medicine       department, rather than by surgeons.
+The injection itself is painful and       distressing, and the isotopes' six-hour half-life presents challenges and       limitations for theatre scheduling.
+Mandatory handling and waste disposal       regulations add to the overheads for this procedure, as does the training       and licensing of operating theatre staff in the handling of these       radioactive materials.
+Furthermore, patients themselves may have       reservations about the use of nuclear medicine.
+Together, these factors       present a significant barrier to the widespread adoption of SLNB.
+For       hospitals or clinics without ready access to radioisotopes, SLNB is not       performed at all.
+As a result, 40% of all breast cancer procedures       performed in the West and almost 85% of operations in the rest of the       world simply do not include SLNB.
+The research described above has had direct and significant impacts on       this particular healthcare problem through the commercial production of       the award-winning SentiMag device and the Sienna+ tracer [a], which have       been used to treat more than 850 breast cancer patients since 2008.
+Together, these new technologies make SLNB available to more patients and       at a lower cost than the limited availability radioisotope-based method.
+The magnetic approach to SLNB is straightforward, and minimal clinician       training is required for its administration.
+Sienna+, a fluid containing a       solution of coated iron oxide particles, each around 60 nanometres in       diameter, is injected near the tumour to provide a trackable signal, as       lymph capillaries easily absorb particles of this size.
+Surgeons then use       the SentiMag to locate the lymph node or nodes closest to the tumour in       order to determine whether or how far the cancer has spread.
+In contrast       to the radioactive tracer, the Sienna+ device has a shelf life of several       years, enabling its use much more widely than just at centres with access       to nuclear medicine.
+The new technology poses no staff safety issues, and       therefore no regulatory burden.
+[text removed for publication]     These benefits derived principally from the success of the clinical work       in 2006-07, which led to the decision to take the SentiMag all the way       `from bench to clinic'.
+With seed investment from UCL Business plc, the       Bloomsbury Bioseed Fund and the Central London Universities Challenge       Fund, Endomagnetics Ltd. was formed as a spin-out company in April 2007.
+After the initial patent filing in 2006, a portfolio of five further       patents was generated, currently at different stages of prosecution in       Europe, the USA, Canada, Japan and Australia.
+Between 2008 and 2010, the       Technology Strategy Board supported a collaborative research project       linking Endomagnetics with Integrated Technologies Ltd, a medical devices       manufacturer; this resulted in a prototype SentiMag trialled on 50       subjects [outputs 6, 7, above].
+The pilot model differed from the original       prototype in its incorporation of the new room temperature sensor and an       optimised control circuit designed by Hattersley.
+With a fully validated       technical file for the hardware, firmware and software components of the       SentiMag system resulting from the trial, in December 2010 Endomagnetics       was able to secure CE marking for the SentiMag as a Class IIa medical       device, as required for its use throughout Europe [e].
+Growth followed in August 2011 with the completion of an additional round       of private investment, and the appointment of three full-time company       employees &#8212; a CEO, and technical and operational staff.
+In November 2011 a       second CE mark was issued to the company for the production of its own       tracer, Sienna+, for on-label use as an interstitial injectable marker for       lymph node detection [f].
+The two products were launched in the European       market in 2012, and in February 2013 a distribution agreement was signed       between Endomagnetics Ltd and Sysmex Europe GmbH to supply the products       into the Europe, Middle East and Asia region [g].
+Endomagnetics Ltd is currently working with the FDA and with American       regulatory consultants to establish its entry into the United States       market.
+Here, despite the extremely high quality of major city-based       cancer centres, the more rural, outlying hospitals are almost entirely cut       off from a source of radioisotopes, so for them, there is a definite       clinical need to be addressed.
+Clinical trials: The technology has been tested with patients in a       number of clinical trials [h].
+The cryogen-free SentiMag was first tested       in clinical studies on 43 patients in 2009-10 by Mr Douek (who by then had       moved to Guy's Hospital London), using Endorem.
+This was designed to       assess safety and to be a prima facie measurement of efficacy.
+The       study found no adverse reactions, and the observed detection rate was       high: 87% in patients that were injected less than an hour before the       operation, and 93% for those that were operated on after an hour or more       [output 7].
+This difference was taken as an indication that the 150 nm       diameter of the Endorem particles was inhibiting their lymphatic flow, and       led to the development of the 60 nm Sienna+ particles [output 7].
+An added       benefit was also noted: that the presence of magnetic particles in the       excised nodes gave them a brown/black colouration that aided       intraoperative identification [i].
+In 2012-13 Mr Douek led a 160-patient clinical evaluation that involved       six UK hospitals and one Dutch hospital.
+This was designed to be a       statistically significant comparative study of the radioisotope and       magnetic methods.
+The result was conclusive: a Sienna+ identification rate       of 94% was recorded, compared to 95% with the radioisotopes, so that at       the statistical power of 80% it was concluded that the magnetic technique       was non-inferior to the radioactive technique [j].

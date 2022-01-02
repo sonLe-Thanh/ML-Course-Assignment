@@ -1,0 +1,43 @@
+     Renishaw PLC: Our most established and commercially       significant impact is the SEM Raman       system originally designed by Dr Day's team and currently marketed by       Renishaw PLC.
+The first       instrument sold by Renishaw was built by Dr Day in 2002 and installed in       Kochi University, Japan       by Dr Day and Renishaw staff under his instruction.
+The patents [4,5] that       resulted from the original       work by the IAC helped Renishaw to protect this strategically important       technology and it remains       the only manufacturer of such an instrument.
+These instruments provide       researchers with the       means of combining two complimentary analytical techniques simultaneously       at the same       microscopic point on a sample.
+Conventional EDX analysis performed in an       SEM gives the simple       elemental makeup of a sample however Raman spectra acquired at the same       point can identify the       chemical bonds present and allow the researcher to positively identify       chemical compounds or       distinguish between allotropes such as Graphite and Diamond.
+Uses include       the identification of       contaminants in semiconductor fabrication lines and the investigation of       oxidation in reactor steel.
+Renishaw does not wish to disclose commercial sales figures but sales are       of the order of       &#163;1,000,000 per year.
+Renishaw states* that "Dr Day has made a         significant contribution to our         business that has enabled us to produce a novel combined technology.
+The         interface remains a         unique offering that is a capital item with complete systems selling for         upwards of &#163;200,000.
+In the         period 2008 to present we have made and continue to make regular sales         of these systems, the         majority of which have gone for export.
+This product has assisted the         Spectroscopy Division of         Renishaw PLC commercially and in maintaining Renishaw's position as a         world leading supplier of         Raman spectrometers" [A].
+Rolls-Royce PLC: Rolls-Royce states* "Our ability to         understand and manage gas turbine         products throughout the product lifecycle is a key capability which         enables us to maintain our         competitive advantage and exceed customer expectations.
+The work         undertaken at the University         of Bristol has been strategically supported to allow us to look at         manufacturing and material         processing.
+Furthermore, we are able to identify and analyse chemical         species during component         manufacture and in-service by deploying techniques in-situ.
+The ability         to identify and analyse         components using this technique allows feedback to enable operating         lives, product integrity and         through-life performance."[B].
+Within the REF period, Rolls-Royce       has placed contracts to the       value of &#163;350,000 with the IAC to research and develop the application of       spectroscopic       techniques.
+Miniature Raman probes designed and built at the IAC have been       purchased and used       to detect and analyse contaminates within engines in situ, reducing the       need for dismantling of the       engines, which can cost &#163;300,000 per engine.
+In situ analyses have been       performed at the trial       stages of the Trent 900 and Trent 1000 engines.
+Rolls-Royce is now       commissioning a Raman       system to be included in its standard collection of inspection instruments       for field use.
+The work at       Bristol to analyse Thermal Paints in situ with Raman probes has resulted       in Rolls-Royce investing       in the development of paints with optimised Raman response to increase the       reliability and       sensitivity of the method.
+An imaging system developed at Bristol to       replace the visual tests used       to detect alumina coatings on turbine blades has resulted in a Rolls-Royce       patent application [6].
+Healthcare: NISW, the NHS regional innovation hub, have       identified our miniature Raman probes       as the most promising medical device innovations from the region.
+NISW       states* "These projects         form part of a small portfolio that is managed by NISW and that were         brought to the attention of         senior figures within the NHS and the MP John Glen as being flagship         examples of projects that         could yield great benefit, but were being delayed through lack of         investment and support from         within the NHS.
+This led to a mention in a parliamentary debate on         innovation within the NHS         (Hansard 12th October 2011: Column 98WH) and         subsequently resulted in a unique Innovation         Development Fund being provided to NISW to support the key projects (a         first within the NHS).
+Subsequently, the recognition of the need to improve the support for         innovation and adoption         processes within the NHS to realise the benefits from projects such as         the Raman Probe helped to         inform the review conducted by Sir Ian Carruthers whose outcome was         enshrined in the Report `         Innovation, Health and Wealth' produced by Sir David Nicholson in         December 2011.
+This led to far-reaching         change and improved support at a local level within the NHS for         innovation projects.
+Sir         Ian Carruthers, as Chief Executive of NHS South, was the key         decision-maker in the creation of         the Innovation Development Fund and undoubtedly his awareness and         understanding of the         Raman projects helped to inform and shape some of the thinking that has         changed the approach         towards support of innovation in the NHS."[C].
+The EPSRC KTS award       resulted in a patent       application jointly submitted by the University and NHS and provided Dr       Hutchings with the       expertise to apply for and win the 2012 industrial design fellowship from       the Royal Commission for       the Exhibition of 1851, mentored by Dr Day.
+New Companies: Dr Meaden's company BLG Productions ltd       develop and sell "CrossCourt 3"       software that uniquely allows the determination of strain and rotation       tensors to 1 part in 104       precision.
+It is used for the analysis of metals, semiconductor, strained       silicon devices, solar power,       3D chip design and mineralogical samples as well as academic research.
+Typical users include       power generation companies and semiconductor manufacturers.
+Dr Meaden       states* "Much of our         expertise in EBSD and instrumentation originates from the original         research done by Prof David         Dingley in the Department of Physics at Bristol and my own experience of         working in the Interface         Analysis Centre.
+Between 1998 and 2003 I worked with Dr John Day at the         IAC on optical         interfaces to Auger spectrometers, the design of miniature Raman probes         for cancer detection and         applications of EBSD.
+The impact of that research inspired the formation         of BLG Productions in         2004; which would not have happened without the experience and expertise         acquired working for         John Day.
+We continue to collaborate closely with Dr Day and the IAC.
+BLG Productions Ltd. is         now expanding from its original core members.
+We have recently taken on         our first new directly         funded staff member and now have 10 associates across the world involved         in marketing and         technical support.
+We have achieved sales of over 30 units to a value         exceeding &#163;400,000 in the         last 5 years, almost entirely exports."[D].
+The demand for the software and control systems developed for analytical       instruments led Dr Day       to form Dayta Systems ltd in 1999, which he has run while working       part time at the University.
+These systems have been supplied to approximately 50 companies and       universities with total       sales exceeding &#163;500,000, predominantly exports [E].
+In the REF period       2008-2013, sales       included exports to the Universities of: Princeton, California Irvine, New       Mexico, and Connecticut.
+Domestic customers included Renishaw, BAE Systems and the Universities of       Loughborough and       York.
+*All statements quoted above are taken from letters provided by those       named in section 5.

@@ -1,0 +1,40 @@
+     Linking Research to Impact     The impact delivered in this case study has been generated through the       following mechanisms:     (i) A sustained programme of engagement with key beneficiaries       has led to relationship development.
+Evidence of the success of       this is provided by our long-standing Framework Agreement with National       Grid (NG); we are one of just four UK universities to benefit from a       strategic alliance with this major engineering organisation.
+The value of       this is based upon a process whereby dialogue helps to address NG's       existing issues, while also informing us of future challenges.
+The cable       ratings element of this impact case study shows how sustained engagement       with system operators (NG and EDF Energy Networks &#8212; now UK Power Networks)       highlighted shortcomings with established procedures and, subsequently,       led to novel solutions.
+(ii) The dielectrics element of this impact case study provides evidence       of our agile approach to opportunity.
+This began as a PhD project       with NG, which subsequently developed through EPSRC and TSB projects.
+The       latter involved NG and also benefitted from Dr Simon Sutton [5.1] moving       from NG to Dow Chemicals, which enabled us, then, to access this       multinational polymer supplier.
+Subsequently, by exploiting other relationships         developed with leading cable manufacturers (e.g.
+ABB and General       Cables [5.2]) we have generated follow-through in terms of       acceptance of our technology.
+Much of the above research has been reliant upon the Ofgem's Innovation       Funding Initiative, a requirement of which is that it can "enhance the       technical development of distribution networks and can embrace asset       management from design through to construction, commissioning, operation,       maintenance and decommissioning" [5.3].
+Impacts during the REF Period     1.
+Economic Impact on Business     The application of finite element tools to cable ratings problems,       coupled with experimental validation, has led to improved techniques that       greatly enhanced accuracy, thereby improving the performance of       electricity network businesses through the minimisation of both risk and       constraint costs, while maximising asset utilisation.
+NG has made savings       of &#163;1.2m per annum as a result of employing improved cable ratings       methodologies [5.4].
+Potential future losses have been mitigated by       improved methods of risk assessment for critical plant.
+Translating our       knowledge across to the offshore wind sector has informed future design       choices on wind farm export cables at Centrica Renewable Energy Ltd [5.5].
+Shifts in expenditure profiles within corporate budgets are evinced by the       substantial and sustained industrial funding into novel dielectric systems       won within the REF period: SUSCABLE project (NG, Dow Chemicals), &#163;467k       (total value including EPSRC/TSB contribution &#163;659k) (2008-2010);       Polymeric Materials Development for high voltage direct current Cable       Applications projects (ABB Switzerland), total value &#163;305k (2011-2013);       SUSCABLE II project (Nexans, Silec, Scottish Power, ORE-Catapult): total       value &#163;480k (2013-2016) [5.1, 5.2].
+2.
+Environmental Impact     Improved modelling of ventilated tunnels is having a traceable impact on       particular projects in terms of reduced environmental impact &#8212; reductions       in cooling system running using our new control scheme has been estimated       to deliver electricity cost savings of around 60% [5.4].
+Our development       of high performance thermoplastic cable dielectrics is affecting       international cable manufacturers and polymer suppliers; the technologies       we have developed are less energy intensive in production, are fully       recyclable at end of life and have been shown to offer network businesses       enhanced operational flexibility by allowing greater power transfer       capabilities than existing products [5.6].
+3.
+Knowledge Transfer &amp; Increased Business Capability     Documented changes in the knowledge and capability of NG have occurred as       evinced by their adoption of methods we developed.
+Specifically, NG now       have enhanced thermal modelling capability within the business, with the       methods developed under [G2] now part of their standard circuit rating       tool.
+We have also partnered with members of the NG supply chain, for       example Balfour Beatty Utility Solutions Limited (BBUSL) requested a build       of the cable tunnel modelling software for their engineers.
+This broadens       the impact beyond the UK, with BBUSL using the tools in their design work       for other countries [5.7].
+We have also been invited to attend design       meetings to provide additional design verification services where our new       methods can provide solutions for problems which the present international       standards cannot.
+Our novel dielectric materials have been patented in       conjunction with our industry partners &#8212; WO 2012/044523A1 and US       provisional patent application 61/617,347 (subsequently granted as       WO/2013/148028).
+4.
+Change in Business Practice     We have developed a track record for implementation of our research work       within companies such as National Grid.
+The methods developed in [3.2] for       modelling water cooled cable circuits and [3.3] for cable tunnels have       been used to evaluate required levels of refurbishment on cable circuits       in London, allowing the necessity of capital expenditure to be challenged       in a more robust way than previously possible.
+Our tools permitted Balfour       Beatty Utility Solutions Limited (BBUSL) to engage in a more detailed       thermal analysis of cable circuits under refurbishment than had ever been       achieved before, influencing the design processes used and reducing system       risk [5.7].
+5.
+Impact on Practitioners     Industrial acceptance of radical technological change can be difficult to       achieve, especially where reliability and long deployment times breed       conservative approaches.
+Effective communication is then essential so, in       parallel with our research, we continue to engage with a broad range of       potential stakeholders, outside our research funders.
+Examples of this       include our involvement with the International Council on Large Electronic       Systems (CIGRE) working groups (e.g.
+B1.35 and D1.40), the production of       industry-facing documents ranging from the "Nanocomposites and other         Advanced Materials for Cable Networks" review for EA Technology's       Strategic Technology Programme [5.8].
+The forthcoming CIGRE B1.35 guide on       current rating calculations [5.9] draws on our research and references our       research, as does the forthcoming CIGRE D1.40 brochure on functional       materials [5.10].
+6.
+Impact on Society     We have sought to engage the public with our work on maximising the       capability of cable networks through the Caf&#233; Scientifique programme       [5.11].
+By focusing on a potentially disruptive future technology       (Electric Vehicles), and using our work to demonstrate the impact of       shifts in consumer behaviour on our energy networks, we have sparked       debate among our audiences as to the most suitable policy responses, along       with the true cost implications of such changes.
+Further prominence among       the wider technical public was gained through our viewpoint article in The       Engineer [5.12].

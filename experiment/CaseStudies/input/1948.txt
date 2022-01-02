@@ -1,0 +1,56 @@
+     The primary impact is that the UoA's underpinning research enabled large-scale         public engagement with science by improving the security and       usability of BOINC: allowing users to be confident of BOINC's ability to       harvest compute cycles without compromising the security of their PCs, and       making modellers able to develop more complex codes to run out in the       community and return timely results.
+It enabled the public to engage in       science in a way that had not been achieved before with thousands of users       observing a changing globe graphic on their machines, showing the results       of their own models running on behalf of the climate scientists [A].
+CPDN       was, and still is, producing climate modelling results which are used by       the Met Office.
+BOINC [B] is managed as a community developed open-source tool from       Berkeley University.
+The UoA's contribution is acknowledged by the current       head of this group [C].
+BOINC is now widely used by scientific communities       across the world.
+According to www.boincstats.com,       2,599,338 volunteers have installed the BOINC software on their machines       and there are currently 272,459 active users.
+The global reach of the CPDN project using BOINC is significant.
+CPDN has       20,000 active users contribute approximately 27,000 active hosts, with a       combined power of 35 TFlops.
+Of the 82 BOINC projects, in May 2012       climateprediction.net was the 4th most popular by work-units in progress       and 5th in attracting new users [B].
+Over 129 million simulation-years       have been performed since the project's inception and registered users are       located in 221 countries.
+Although the project has been running since       September 2003, 9 of the 10 busiest days have been since January 2008, and       currently around 30-40 new users join each day.
+Since 2008, over 100,000       users have joined and over 60% of the total computational cycles in the       project have been donated [A]; 40,702 distinct individual users have       successfully completed one or more model simulations.
+The computing time       required for all the model simulations run successfully since 2008 is       equivalent to a 32,220 core machine running full time for one year and       producing 100% successful results.
+An estimate of the value of this CPU       time is $22.5M, based on the rate of the Amazon Elastic Compute Cloud       Standard Spot instance ($0.08/hour default).
+The following quote [C] from David Anderson, Director of the BOINC       Project, indicates his belief in the impact of CPDN:     `I'd like to congratulate and thank all the people at Oxford who made         it happen, and all the volunteers who courageously ran huge climate         models on their PCs.
+CPDN has been a huge success.
+There's no more         worthwhile scientific goal than investigating the fate of Earth, and         CPDN has made critical contributions to this investigation.
+CPDN         inspired BOINC; when I read Myles Allen's original (1999) paper it got         me very excited, and I immediately contacted him, wanting to get         involved.
+CPDN's unique requirements had a big impact on BOINC's design.
+Carl Christensen, who for several years did the heavy lifting of getting         CPDN working and keeping [it] going, has also contributed greatly to         BOINC, and more recently so has Tolu Aina.
+I'm extremely proud to have         worked with these guys and the rest of the CPDN group.
+Congratulations         all around!!'
+BOINC has enabled industry to utilise a technology to create huge       computing resources (exemplified by the World Community Grid) without the       high cost of procuring conventional supercomputing facilities.
+It has also       enabled the public to play a crucial role in solving challenging       scientific problems by allowing them to sign up as volunteers to run       models on their machines with results often viewable through graphical       interfaces and by joining communities of volunteers through the use of       portals and websites.
+The BOINC website details uses of the technology for       an international array of projects, of which the following are examples:     GPUgrid.net is a distributed computing infrastructure devoted to       biomedical research.
+Thanks to the contribution of volunteers, GPUGRID       scientists can perform molecular simulations to understand the function of       proteins in health and disease.
+In 2012, a team of scientists using       GPUGRID announced that they had made crucial steps in simulating the AIDS       virus maturation for the first time.
+Using computational techniques,       researchers have shown how a protein responsible for the maturation of the       virus releases itself to initiate infection.
+This event is at the root of       the whole maturation process and if HIV protease can be stopped while it       is still becoming mature, then the virus particle as a whole cannot become       mature.
+Accessing the nascent structures of HIV protease provides a novel       and critical target for the development of ARVs in the fight against       HIV/AIDS [F].
+GPUGrid currently has 1,994 active users with BOINC       installed on their machines providing compute cycles to simulate cancer,       AIDS and neural disorders.
+LHC@home is a platform for volunteers to help physicists develop       and exploit particle accelerators such as CERN's Large Hadron Collider,       and to compare theory with experiment in the search for new fundamental       particles.
+By contributing spare processing capacity on their home and       laptop computers, volunteers may run simulations of beam dynamics and       particle collisions in the LHC's giant detectors [D].
+This project       currently has 13,794 active users with BOINC installed on their machines       providing compute cycles.
+The Quake Catcher Network (QCN) is a project that uses       Internet-connected computers to do research and outreach in seismology.
+Users can participate by downloading and running a simulation program on       their computers, and this project currently has 1,199 active users with       BOINC installed on their machines providing compute cycles [D].
+Laptops       connect to the QCN over the Internet.
+The laptop monitors the data locally       for new high-energy signals and only sends a single time and a single       significance measurement for strong new signals.
+If the QCN server       receives a series of these times and significance measurements all at       once, then it is likely that an earthquake is happening.
+The website for       this project shows the location and triggered results from seismic       activity, including recent activity on the west coast of America.
+This       real time monitoring of activity using PCs as the base for detecting       movement enables the public to be engaged in the detection of earthquakes       [G].
+A version of QCN is currently being used in Taiwan to enable them to       benefit from volunteer computing to detect seismic activity as       conventional earthquake monitoring techniques are known to be expensive.
+Rosetta@home determines the 3-dimensional shapes of proteins in       research that may ultimately lead to finding cures for some major human       diseases.
+By running the Rosetta program on home computers, it speeds up       and extends the research in ways that wouldn't be possible otherwise.
+It       is also used to design new proteins to fight diseases such as HIV,       Malaria, Cancer, and Alzheimer's.
+This project currently has 27,471 active       users with BOINC installed on their machines providing compute cycles.
+The       findings allow the Rosetta lab, run by David Baker at the University of       Washington, to design proteins that do not exist in nature.
+Some new       proteins could deactivate viruses such as the flu&#8212;as Dr. Baker's lab is       trying to do for this year's H1N1 strain&#8212;by attaching to and smothering       the sections of the pathogens that harm human cells.
+Dr. Baker has stated       that the project's biggest recent breakthroughs have been in creating       catalysts, which selectively speed up chemical reactions and which       regulate almost every biological process.
+One catalyst in development, for       instance, is an enzyme that could slice apart genes in female mosquitoes,       potentially preventing malaria transmission without using toxic chemicals.
+It is estimated that the total CPU time donated to run models using BOINC       is 1,016,099,474,571 seconds.
+This is equal to 32,220 years of CPU time       (equivalent to running a 32,220 core machine full-time for one year).
+The       examples above are indicative of how BOINC and `citizen science' have       enabled the public to engage with science and to assist with the       scientific breakthroughs achievable by using knowledge and modelling to       drive experimental activity, thus reducing experimental costs.
+Such is the definition of REF impact that while some of the scientific       results of BOINC projects are admissible, such as the contribution of CPDN       to the global warming debate, others might be classed as being purely of       academic interest.
+It is, however, clear that public engagement with         science, the thing most directly enabled by the UoA's research, is       covered by the definition.

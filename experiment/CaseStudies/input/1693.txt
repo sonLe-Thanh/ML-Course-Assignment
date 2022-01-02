@@ -1,0 +1,24 @@
+     Composites are now widely used in aircraft &#8212; the Boeing 787 Dreamliner       uses 50% composites [C1].
+The tufted composite braces, based on       technologies developed at Cranfield, are the first use of structural       composites in the landing gear of a commercial aircraft (figure 2).
+The       use of Cranfield's tufting technology to assemble and reinforce the       sub-components of the 3D woven preform has enabled Aircelle and MBD to       achieve their goals in terms of material performance [C2, 7].
+Figure 2: Detail of the landing gear of the Boeing 787 (the composite         braces are shown in black).
+The advantages of composites over the traditional steel components are:       weight saving due to improved strength-to-weight ratio of the constituent       material, which become significant considering that each Boeing 787 is       equipped with eight such braces; higher resistance to corrosion, reducing       maintenance work and servicing costs; higher resistance to fatigue;       greater in-service reliability; and longer service time between overhauls.
+Ultimately the weight saving gives benefits in reduced fuel burn and CO2       emissions, and better competitiveness for the manufacturer.
+A traditional laminated composite could not bear the complex axial and       shear loading pattern expected in such a critical structure, or withstand       impact from potential bird strikes or debris flying from a runway.
+The       adoption of a composite structure with a 3D fibre architecture was,       therefore, an essential requirement in the material selection for the       composite brace.
+Three-dimensional weaving technologies allow the production of preforms       with fibres arranged along three main directions, however, complex shapes       are difficult to produce in a single step.
+The preform for the brace had       to be manufactured as two subcomponents, subsequently tufted together.
+The       option of using tufting within such an innovative manufacturing process       had never been attempted before.
+Cranfield had to conduct several       preliminary trials and tests on simple preforms to assess the tufting unit       ability to produce the required result.
+(Figure 3 shows an example of the       use of tufting in a complex aerospace component.)
+Figure 3: Tufting robot at Cranfield inserting tufts in a         double-curvature surface.
+The preformed part was manufactured at Aircelle as two subsections of 3D       woven carbon-fibre tows around a core of aluminium honeycomb.
+However, the       designers required extra fibre reinforcement to be inserted       through-the-thickness of the preform to join the two subsections and to       enhance its damage tolerance.
+Cranfield's research showed that it could       meet these requirements, demonstrating the improvement in terms of       delamination resistance provided by tufting.
+This was established with the       investigation of the influence of tufting incorporation on interlaminar       behaviour, showing improvements in delamination toughness in the range of       60%-400%, whilst preserving in-plane properties, and the development of       validated predictive models enabling consideration of property       modification to be integrated within the design phase [C6].
+The prototypes have gone into full production by Messier-Bugatti-Dowty       and are currently flying on the world's fleet of Boeing 787s [C7].
+The       value to business can be appreciated by considering that landing gear       typically comprises 2% of the cost of wide body jets.
+The price of the 787       is estimated at $200M and the current (2013) cumulative orders are circa       930 aircraft.
+The contract to supply Boeing Commercial aircraft was a       first for Safran / Messier-Bugatti-Dowty and secures workshare for up to       20 years.
+The extensive use of composite materials for the airframe of       this the new aircraft has brought benefits of weight reduction and       consequent fuel economy.
+The Cranfield work has now extended the use of       these materials into critical landing gear systems giving Messier-       Bugatti-Dowty access to similar weight reducing advantages to their       products [C3-5, 7].

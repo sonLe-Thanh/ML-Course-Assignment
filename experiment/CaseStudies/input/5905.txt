@@ -1,0 +1,27 @@
+     The impact of the York Model of Exchange Bias has been significant in       that every magnetic       recording read head in the world is now designed based on the underpinning       physical insight that       was developed.
+In 2011 alone this involved about one billion components,       400 million of which       were manufactured by Seagate Technology in Northern Ireland.
+The total       revenue from these       products is approximately $6 billion based on an output of 2.5 million       heads/day each with a unit       value of circa $6.
+Following a series of mergers Seagate and Western       Digital now command over       90% of the world-wide hard drive industry with a turnover of $34 billion       per annum.
+.
+In a letter of       support from Dr Mahendra Pakela (former Director Western Digital Fremont)       to Professor O'Grady,       the commercial value of this impact is confirmed: "I am happy to confirm       that your work, which is       now broadly accepted as the correct interpretation of exchange bias in       granular antiferromagnetic       layers, has enabled my company to design and develop improved layers which       we incorporate in       all the read heads we currently manufacture.
+This amounts to hundreds of       millions of components       each year."
+Using the work it was possible to design an antiferromagnetic       layer in terms of its       crystal orientation, grain size, size distribution and layer thickness,       tailored to the       equipment/process used to achieve exchange bias.
+This in turn allowed for       the development of       layers with up to two times greater alignment and thermal stability.
+In       consequence thinner layers       could be used for increasing resolution.
+The close relationship between O'Grady's group and the major magnetic       recording companies       ensured that the work was disseminated, not only via publications, but via       regular visits to the three       major hard drive manufacturers, i.e.
+Seagate, Western Digital and Hitachi       GST.
+Hitachi GST and       Western Digital are in the process of merging which means that all hard       drive manufacturers are       involved in utilising this work.
+Additionally Seagate Northern Ireland,       have sponsored students in       O'Grady's group continuously for the last six years and Seagate Media       Research in Fremont       sponsored students prior to that.
+Subsequently Western Digital provided       financial support for       contract measurements which supported post docs in York and Seagate       Technology, Northern       Ireland, are now doing the same.
+Further support for another PhD student       for 3 years has been       secured from Seagate from January 2012.
+A further contract with Seagate       with a value of $400K       has been secured which includes 50% support for a new lectureship (taken       up Vallejo-Fernandez).
+All the major manufacturers of read heads in the world have modified both       the growth processes       for antiferromagnetic layers and their setting processes based on the new       physical insights into       exchange bias that we developed.
+All work associated with the development of the York Model of Exchange       Bias was undertaken       here in York.
+The York Model has now displaced all other models of       exchange bias based on       computer simulations of complex AF domain structures.
+Working in       collaboration with Western       Digital in 2009, an increase in the maximum reported value of exchange       bias of more than a factor       2 to 3.6 kOe was reported.
+This system was designed using the York Model       and remains the       world record value [4].
+The new insight into exchange bias materials that has been established       has improved the thermal       stability of the AF layers in certain designs of read heads by up to a       factor 2.
+The new       understanding has also enabled AF materials to be designed for purpose.
+For example, for       perpendicular recording the overall thickness of the read head stack       determines the linear data       density along the track.
+In collaboration with Seagate in Northern       Ireland, studies have been       undertaken that allowed for the stack thickness to be reduced from 12nm to       6nm for certain       applications.
+This allows for a potential doubling of the linear density       along track although in       practice the increased resolution was used to improve signal to noise.

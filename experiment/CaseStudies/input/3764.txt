@@ -1,0 +1,11 @@
+     The above research changed the development of OLED materials by showing       that highly efficient solution-processed materials could be made.
+Several       patents were filed, and the materials were licensed to Cambridge Display       Technology (CDT), the leading developed of light-emitting polymers.
+In       2007, CDT was purchased by Sumitomo Chemical of Japan for $285M [S1, S2].
+This allowed Sumitomo to take a major stake in the OLED business.
+The materials have been developed for commercialisation via three       channels: (i) a CDT-funded research programme at St Andrews and Oxford       (ii) an internal research programme at CDT (iii) a joint development       programme with Sumitomo Chemical.
+The link to Sumitomo Chemical is       extremely important both because of their skills in scaling up materials       production and because of their credibility and proximity to major display       manufacturers.
+The last point is very important as display manufacture is       capital intensive and the major electronics companies need to be certain       of the reliability of materials supply in order to build the factories to       make the displays.
+In 2005 the CEO of CDT explained [S3] "the work on phosphorescent         emission from dendrimers opens up new possibilities for the application         of OLEDs to practical applications and this work complements our work on         fluorescent polymer OLEDs, especially as the technologies potentially         can be combined in one device without any increase in complexity of the         structure."
+Innovations in display technology are commercially       sensitive and so there is very limited publicly available information       about the subsequent development of the dendrimers and the impact of the       research.
+Our primary source of information is therefore a       recent letter from [text removed for publication].
+Hence the light-emitting dendrimers have had a major influence on one of       the world's largest chemical companies, and its customers who are some of       the world's largest electronics companies.

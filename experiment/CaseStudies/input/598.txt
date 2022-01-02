@@ -1,0 +1,29 @@
+ The introduction of dose banding has improved care for patients by reducing waiting times between authorisation of their prescription and provision of their chemotherapy, reduced pharmacy time in preparation, provided the opportunity for prospective QC, and reduced drug wastage.
+This has resulted in a safer, more efficient, patient focused service for patients needing chemotherapy.
+It is being used in the UK and now increasingly across Europe and beyond.
+In the UK, Cancer Networks bring together the providers and commissioners of cancer care to plan and deliver high quality cancer services.
+The benefits of dose banding have been recognised by many of the Cancer Networks that have recommended adoption of this approach to Trusts.
+Dose banding has been taken up across the UK and is at present being used in over 48 hospitals within the UK (Welsh Cancer Research Networks 2011).
+The Cancer Network Pharmacists Network produced a toolkit in 2008 to facilitate the introduction of dose banding in England and Wales and which draws upon best practice.
+The North of England Cancer Network recommends that all Trusts in their region consider introducing a system of standardised dose banding and proposed a scheme to harmonise dose banding across the Network.
+This is now being taken up across the North of England Trusts.
+The central South Coast Cancer Network states `It is our Network policy to dose band many of the chemotherapy agents.
+Dose banding minimises the number of individual doses that are requires while ensuring that the doses administered are within 5% of the calculated dose.
+This results in greater efficiency in the preparation and supply of the drugs while minimising wastage'.
+Belfast City Hospital has already introduced dose-banded chemotherapy to streamline the dispensing process and minimize patient waiting times.
+They report the main benefits as being a rapid delivery of chemotherapy, saving approximately two hours in the prescribing process which they see as particularly significant given that the patients are often frail and ill, aseptic compounding capacity freed up within the department and treatments being completed within the outpatient department opening hours rather than running late.
+The All Wales Medicines Strategy Group (2011) has accepted dose banding as a strategy to improve efficiency and reduce cost across Wales.
+The group has developed an action plan, an interim list of Systematic Anti-cancer Treatments which could be dose banded and has agreed dose bands for them.
+Dose banding has been included in software solutions to streamline medical oncology care delivery such as Aria by Varian Medical Systems.
+ARIA complements clinical judgement with electronic checks and safeguards, including checking for dose limits and dose banding.
+This software is used across the UK: for example the Central South Coast Cancer Network has implemented it and developed local policies for using dose banding within its six Trusts.
+It has impacted upon the pharmaceutical industry as well.
+The Senior Vice-President of Fresenius Kabi, the leading European company for infusion therapy, stated that dose banding has `tremendously improved efficiencies both in time as well as costs.
+This has brought very prompt services to customers thereby enabling quicker high quality cancer care'.
+He also states that dose banding, as invented by Professor Sewell, has "increased quality control (and hence patient safety) of chemotherapy infusions and reduced drug wastage'.
+Dose banding is being used outside the UK and has been taken up in France, where it is gaining acceptance through its integration into the National Diploma for Pharmacists and is being used in major French hospitals.
+The Head Pharmacist at Saint Germain-en-Laye Hospital stated that `this implementation was very crucial to be able to face the continuous increasing workload for cancer chemotherapy.
+It gave us a sensible and rational answer to economic pressure and constraints'.
+They went onto to say that there has been an uptake of dose-banding at several major hospitals in France and that interest is growing across Europe.
+They stated that the impact has been `reduced patient waiting times, control of pharmacy workload, allowing implementation of automation in the process, increased quality control of chemotherapy infusions, reduced drug wastage and giving the possibility for the commercial preparation of standardised chemotherapy infusions'.
+Hospital pharmacists use software called `CHIMIO' for the prescription, preparation and administration of anticancer drugs and the developers have recently included a module for dose banding to support its wide spread use in French hospitals.

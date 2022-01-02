@@ -1,0 +1,40 @@
+     Traditional metal processing techniques involve strong mineral acids and       bases.
+These processes evolve large volumes of aqueous effluent which must       be treated before emission and this can be a significant environmental       hazard.
+The processes also have inherently poor power inefficiency due to       the electrochemical instability of water.
+Scionix Ltd was formed as a       University spin-out (1999) to commercialise ionic liquid technology as an       alternative and currently holds 4 key patents [1].
+Scionix Ltd. is now one       of the world's major producers and innovators in the field of ionic       liquids [2], disseminating technologies and techniques which       simultaneously benefit industries such as electronics manufacturing,       aerospace engineering, metal finishing and surface coatings.
+These       benefits include reduced energy costs, reduced environmental emissions and       reduced user hazard.
+Each process is underpinned by recycling protocols       and economic evaluations.
+Typically the company produces 1000 to 3000 kg       of ionic liquids p.a.
+which is significant for such a nascent technology.
+The company has developed several commercial scale processes in       collaboration with UoL and the end users.
+These include chromium plating       [text removed for publication] electropolishing (Rolls Royce, Anopol and       Northbridge Motorsport) and silver plating (P W Circuits) and each process       delivers environmental and efficiency improvements over the aqueous       process.
+Rolls Royce, PWCircuits and [text removed for publication] were engaged       through industry briefing events organised by national/international trade       associations (Institute of Material Finishers/ European Institute of       Printed Circuit Boards).
+The technology was showcased through the Ionic       Liquid Demonstrator which is an industry facing showcase based at UoL       containing six pilot plants each using &gt; 50 kg of ionic liquids [3].
+Since its opening in June 2009 more than 25 businesses have used the Ionic       Liquids Demonstrator Unit including Dow, MacDermid, HydroQuebec and       Silberline.
+All have trialled new processing techniques with their       products including printed circuit boards, batteries and colloidal       dispersions.
+Prototype materials, devices and processes have been       produced.
+A European consortium POLYZION used the facilities and was       successful in developing rechargeable zinc batteries with a specific       current density of 1000 W kg-1, excellent cycleability       (&gt;1000 cycles) and a large open circuit potential (~1.9V) [4].
+Chromium Plating: Chromium is the industry standard for hard metal       coatings and is currently solely carried out using highly carcinogenic       chromic acid.
+The establishment of the first Cr(III) route to hard chrome       is a significant development.
+The process developed with [text removed for       publication] is coating steel tubes with hard chromium using a novel       rotating electrode arrangement to decrease the volume of ionic liquid       needed and further improve the safety of the plating process.
+The       exclusive license signed between [text removed for publication] and       Scionix sees private sector investment of &gt;2M Euro.
+The original work       in this area led to Abbott being awarded the Industry and Green Medals by       the Royal Society of Chemistry [5, 6].
+Electropolishing: Rolls-Royce Aerospace was assisted by Ryder       working at their Derby site (originally under the auspices of the Royal       Society Industry Fellowship scheme (2010-2012) and then under a HEIF       funded Fellowship).
+He developed a new approach to superalloy processing       using electrochemical etching.
+To deliver the impact it was necessary to       understand the role of ionic liquids in electrolytic removal of oxide       films and dissolution of metals from Ni super alloy castings.
+The       mechanism of scale formation was elucidated in collaboration with Rolls       Royce.
+The surface chemistries, morphologies and mathematical modelling of       the cooling process were also studied in high temperature melts.
+The scale removal is greatly simplified using ionic liquids and is not       possible from conventional aqueous acid electrolytes.
+Typically these       parts are deployed in the Trent series of engines that power Boeing and       Airbus passenger aircraft.
+The project succeeded in streamlining       production of the blade components by scale removal (using ionic liquids)       prior to the expensive heat-treatment and annealing processes.
+This cannot       currently be achieved because alternative techniques for scale removal,       before heat-treatment, cause solid state recrystallisation in the alloys       producing grain boundaries that lead to stress fractures.
+Rolls Royce       Aerospace has now embarked on a technology readiness pathway leading to       the use of Leicester's ionic liquids technology.
+The company is now       collaborating with Ryder to solve specific production problems associated       with surface scale in engine production parts, with a view to fully       implementing ionic liquids technology in its production processes.
+Silver Plating: Since October 2009, PW Circuits of Leicester has       operated a full coating process developed by the Leicester Ionic Liquids       Group based on an 8 tank line using c.a.
+1 tonne of ionic liquid.
+Simple       immersion of a copper coated printed circuit board in a mixture of       ethylene glycol and choline chloride with silver chloride produces boards       which not only meet all industry requirements but actually improve over       existing techniques in functions such as solderability.
+The liquid       developed significantly reduced the cost of immersion coating as it used a       less expensive silver salt than the current industry standard.
+The quality       of the product in terms of its solderability and resistance to tarnishing       was independently verified by the European Institute of Printed Circuits       [7].
+The processes commercialised to date and their key impacts are listed       below and many of the impacts have been independently verified.
+[8]                                Process               (Users)           Current               Technology Issues           Impact               of New Technology                             Chromium plating [text removed for publication]           chromic acid (carcinogenic)           Three-fold decrease in power consumption             Uses CrCl3                             Electropolishing (Rolls               Royce, Anopol, Northbridge Motorsport)           H2SO4, H3PO4, HF, chromic acid           Safe in contact with skin             Four-fold decrease in power consumption             Metal recoverable             Greatly decreased failure rate (superalloys)                             Silver Plating (PWCircuits)           Acid based &#8211; leads to board failure through track             etching             Silver cyanide complexes           Reduced cost (uses silver nitrate)             Reduced light sensitivity             Non-acidic &#8211; no track etching             Improved solderability

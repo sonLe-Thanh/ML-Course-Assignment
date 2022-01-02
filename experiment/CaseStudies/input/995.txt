@@ -1,0 +1,57 @@
+     Economic prosperity: SentiStrength enabled Yahoo!
+to       develop an improved question answering service.
+Yahoo!
+incorporates a       question and answer forum (Yahoo!
+Answers) in which users ask questions       and other users suggest answers.
+Yahoo!
+then presents these suggested       answers back to the original questioner and anyone else interested in the       question.
+Questions often elicit many suggested answers, some of which are       useful and others are unhelpful, inaccurate or spam.
+In response, Yahoo!
+ranks the answers and returns them in order, with the most promising       answers being returned first.
+Unfortunately, promising answers can be very       difficult to detect automatically so answer-ranking is a difficult       problem.
+Using SentiStrength, Yahoo!
+has improved the ranking of the       suggested answers to questions by detecting sentiment in the answers and       also by detecting sentiment in feedback sent to the answerers (e.g.,       gratitude or criticism).
+The reasons why SentiStrength rather than any       other sentiment analysis software has made this possible are its speed,       its ability to process informal text, and its capability to effectively       process general web text.
+The improved performance of Yahoo!
+Answers is an       economic benefit to Yahoo!
+Evidence: see cited articles.
+[refs 1-3]     Public services: The improved performance of Yahoo!
+Answers       incorporates a significant public services benefit of an information       seeking type relevant to the library and information science discipline of       the research group.
+According to Alexa.com, Yahoo.com was the fourth most       visited website in the world and Yahoo!
+has claimed 200 million users for       the Yahoo!
+Answers service [ref 11] and so the potential number of       beneficiaries of an improved Yahoo!
+Answers is 200 million per year.
+More       specifically, these 200 million persons are more likely to find good       answers to questions that they think are important enough to pose to       Yahoo!
+Answers.
+These questions are likely to cover a wide variety of       issues from work-related to relationship advice.
+The improvement of a       service to satisfy a wide variety of information needs for hundreds of       millions of people generates a huge benefit to society.
+Evidence:       see cited articles.
+[refs 1-3]     Economic prosperity and public services: SentiStrength       enabled the New Cities Foundation to develop a system to automatically       detect traffic congestion by monitoring the location and sentiment of       Tweets and predicting that congestion might be occurring in areas with       negative tweets.
+Evidence: see cited article.
+[ref 4]     Economic prosperity (sales): The SentiStrength software has       been sold to 7 businesses for &#163;1000 each (including CompanyBook, Norway;       sosolimited, USA) and has been given free to partner organisations (Yahoo!
+Barcelona, Inbenta, Barcelona and Gemius SA, Warsaw) and start- up       companies (Tweetsport, Edinburgh, Sam and Jo, Australia; ComplaintLink,       USA) to be paid for once profitable.
+These businesses have used it for       marketing, customer relations management and search portal development.
+Evidence:       sales and sales agreements.
+[ref 5]     Cultural life: SentiStrength was used to detect sentiment       in Tweets related to the London Olympics, with the results illustrated       with a light display on the London Eye every evening during the Olympics.
+Twitter was monitored for Olympic-related tweets from the start of the       torch relay until the end of the Olympics and Paralympics.
+Each tweet was       classified for sentiment by SentiStrength and the proportion of positive       and negative tweets on each day was highlighted on the London Eye, turning       it into a huge pie chart by lighting up bulbs on the outside of the wheel       and then continuing into a light show for 30 minutes.
+This entertaining       use funded by EDF Energy was accompanied by a control room open to the       public at the base of the London Eye to explain how the technology worked.
+Evidence: see cited articles/web pages.
+This initiative reached an       audience of millions via major UK and world news outlets (e.g., BBC News,       Time Magazine, The Telegraph, The Mirror, plus Olympics attendees), web       pages and a Twitter App.
+Evidence: see a sample of cited articles.
+[refs 6-9] N.B.
+SentiStrength is part of an additional similar       project that is secret but will be described on the SentiStrength website       in February 2014.
+Economic prosperity (improved customer relations and marketing):       SentiStrength has improved marketing and customer relations management for       businesses and their clients from 2010 onwards.
+These businesses are in       the online market intelligence sector and have their own text gathering       and analysis software that they offer as a service to their clients (e.g.,       Inbenta's multilingual Social Media Monitoring and Social Media Management       tools).
+SentiStrength is superior to traditional sentiment analysis       programs for (a) its generic ability to give good performance across a       range of texts, (b) its capability to process the informal text typical of       the social web, (c) its speed, and (d) its transparency and ease of       customisation for particular customer requirements, including language.
+SentiStrength is used to provide sentiment analysis for their clients for       the text that they gather, which is typically free text customer feedback       about their products (e.g., tweets, forum posts).
+Businesses using this       sentiment-enhanced customer relations management services can quickly       identify when their products or brands are starting to attract negative or       positive comments in the social web and can react accordingly, such as by       making product modifications or by emailing individual unhappy customers       to offer advice.
+This impact has been realised in the users of customer       relations and marketing services that incorporate SentiStrength.
+Services       like CompanyBook extend this capability to sentiment analysis of other       businesses with social media data.
+Some users have also developed       SentiStrength for different languages (Atbrox: Finnish, Inbenta: Spanish,       French, Portuguese), extending its scope of impact.
+Evidence:       sales and sales agreements.
+Public discourse: SentiStrength aided public understanding       of social phenomena in 2012.
+SentiStrength was used to analyse tweets       relevant to political and other events to give insights to the public       about these events.
+For example, analyses of tweets relating to the UK       riots were published in The Guardian newspaper as part of a wider       investigation of the Riots led by the University of Manchester.
+Evidence: see cited Guardian article.
+[ref 10]

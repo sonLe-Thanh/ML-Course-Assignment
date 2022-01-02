@@ -1,0 +1,36 @@
+     Asset Management       For companies with large infrastructure such as UK water companies, the       development of an asset management plan is an expensive and time-consuming       task.
+O'Hagan described how to combine a few high-quality studies with       many lower-level expert judgements, thus realising great reductions in the       number, and hence costs, of detailed studies required [A4].
+Convincing the       water companies to change their approach based in classical statistics for       an approach using subjective Bayesian methods (O'Hagan's ABLE methodology)       represented a major success for Bayesian statistics at this time (mid to       late 1990s).
+From 2007 to 2011, Metronet Rail and then London Underground ran the       Engineering Strategy for Economic and Efficient Management (ESTEEM)       project to optimise and manage the investment in their engineering assets       over a 100-year period.
+O'Hagan was employed as the statistical consultant       for the project, and worked with ESTEEM to develop a new approach, based       on ABLE [A4], for asset management on the railways by estimating asset       degradation, costs, risks and their probabilities for each maintainable       item.
+Uncertainty was carefully characterized throughout the rail system,       so that credible ranges could be placed on estimates for individual assets       through to the company-wide asset management plan.
+The project won the       prestigious international Institute of Engineering and Technology award       for best asset management innovation in 2010 [B1] and an       independent audit [B2] has concluded that ESTEEM represented a "world best       practice" approach to asset management for long-lived assets.
+Following a re-organisation in September 2009, aspects of the project       continued such as the Least Whole Life Cost (WLC) predictions, and these       have led to significant benefits, as noted by John Darbyshire, project       manager for ESTEEM at both Metronet and Transport for London [B3]:     "The ESTEEM Civil Assets least WLC predictions substantiated a basis         for long term investment in the asset base and justified inclusion of         preventative maintenance in a new performance contract for maintaining         those assets.
+A particular example of the benefits reaped from this         project is in the waterproofing of structures.
+Prior to ESTEEM, this was         thought to be too expensive to justify.
+However, ESTEEM predictions         anticipated a 20% savings in maintenance costs over a 30-year period, a         saving of &#163;5m p.a.
+The water-proofing was thus implemented at the end of         2009 for all concrete and masonry structures and continues to this day."
+Darbyshire goes on to note that: "A further example is the         information systems used in London Underground stations.
+ESTEEM has         become a critical operational system used to maintain and update these         systems, and was fully implemented by summer 2011."
+Evidence-Based Policy       In 2009, the Food and Environment Research Agency (FERA) conducted a       consultation into the formation of a new body to manage livestock diseases       in the UK [B4].
+The impact assessment for the consultation required       estimates of the cost and frequency of various exotic infectious disease       outbreaks, such as bluetongue and avian influenza.
+The government's       timetable for the publication of a draft bill meant that there was no time       for a large-scale project to assess these costs, so instead expert       elicitation techniques were used to capture government veterinarians' and       economists' knowledge and uncertainty about these quantities.
+Because the       estimates from the experts were highly uncertain, it was decided that this       uncertainty should be accounted for in order to make an informed decision       about the value of the new body.
+The FERA consultation [B4, B5] used the methodology developed by O'Hagan       [A2, A3] to elicit 90% credible intervals for each of the unknown values       (i.e.
+an estimate of uncertainty).
+They used O'Hagan's approach for       fitting parametric distributions to the experts' opinions [A4], and       followed his advice for avoiding under-estimation and for suggested       feedback to the experts to ensure their satisfaction with the final       results [A3].
+The consultation formed a key part of the Draft Animal       Health Bill [B5] presented to parliament by the Secretary of State for       Environment, Food and Rural Affairs in January 2010.
+Although the bill       never passed into law due to the change of government in June 2010, it       demonstrated the increasing acceptance of the need for the quantification       of uncertainty when using expert opinion, and the use of elicitation       methodology to quantify this uncertainty, in government policy [B6].
+Emulators       One example of the use of O'Hagan's fundamental research on emulators and       the analysis of simulators is UKCP09, an &#163;11M DEFRA and DECC funded       project, developed at the Met Office for predicting climate change and its       effects in the UK.
+The climate projections in UKCP09 are based upon       simulators such as the HadCM3 simulator, which contains over one million       lines of code and takes several days to run at a single combination of       parameter values.
+A key aspect of UKCP09 is that users are provided with       the uncertainties associated with future climate information, something       that would not be possible without the use of emulators.
+Emulators are used by the Met Office as statistical surrogates of HadCM3       to assess the uncertainty associated with the simulator prediction [B7],       because it would be too costly to run the simulator enough times to       quantify the uncertainty in any predictions.
+The statistical methodology       used in UKCP09 is based on methodology developed directly from O'Hagan's       research at UoN.
+For example, UKCP09 uses the emulator methodology       described in Rougier [B8], which draws extensively upon O'Hagan's work       [A1, A8].
+UKCP09 is used by a wide range of organisations, government departments,       and programmes (http://ukclimateprojections.defra.gov.uk/23081).
+For example, Hampshire County Council (HCC)'s Emergency Planning Unit used       UKCP09 to undertake comprehensive mapping of Hampshire [B9].
+This enabled       them, in conjunction with other tools, to anticipate future emergency       planning service demands and determine if existing provisions were       adequate (e.g.
+in heatwave events the frequency of events was used to       estimate the number of deaths).
+Meanwhile, South West Tourism (SWT) used       UKCP09 to explore the potential impact of climate change to their region       [B10], results of which were included in a report that was used to inform       regional tourism strategy, which notes e.g.
+that "The UKCP09 regional         projections and the results from this study also show that extreme         weather events are likely to increase for the SW, so the likelihood of         erratic and extreme weather also needs to be investigated and         considered."
+(Page 37 of report to be found at [B10].)

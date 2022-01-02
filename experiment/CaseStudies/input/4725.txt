@@ -1,0 +1,21 @@
+     Development of models that engage and help policy makers make informed       decisions remains a       significant problem for complexity science research.
+The current case       study based on the Humber       region is a step in this direction.
+Managing the development of a new       bio-based economy in the       Humber region requires the understanding and modelling of complex,       interacting, socio-economic       factors.
+The impact of the research is twofold.
+Firstly, the participants and       policy makers were introduced to       systems level and complexity-science based thinking about the key factors       influencing the start-up       of a bio-based economy, how these factors interact with each other, and       how to turn the       information into a mathematical model.
+The response of the HEM group and       other stakeholders to       this approach has been enthusiastic with over half the participants of the       original workshop sending       long responses suggesting improvements to the model highlighting their       important engagement in       the process.
+For example, the CEO of Global Biotechnology Transfer       Foundation, a not-for-profit       United Nations partner organisation, wrote "I found the interaction         with the FCM workshop both         useful and enlightening and in particular the mathematical modelling         aspect.
+The FCM exercise         significantly affected my thinking ...."     The Programme Manager for Humber Chemical Focus Ltd) wrote: "The FCM         workshop was useful         and informative.
+This interaction between multiple organisations on the         same topic is useful and         cannot easily be replicated in normal business-public sector         interactions.
+The FCM modelling         approach had a clear impact on this interaction."
+While the model is becoming progressively more complex, it is also       becoming easier for the       managers to use.
+The model explores the consequences of several scenarios       that might influence       the start-up of a new business sector.
+This output has flagged up key       points for the HEM group       and the South Humber gateway delivery board when discussing strategy       related to a bio-based       economy.
+Since several industries, NGOs and local authorities have taken       part in the modelling       process and are carrying out R&amp;D in various bio-based technologies or       are involved in regional       planning, the model automatically has engagement with the decision makers       &#8212; in particular the       SHGB and Local Authorities who carry out strategic planning for the       region.
+They do not make       policy, but make highly influential decisions about the region's future,       and therefore indirectly       impact public policy.
+Secondly, a tool for investigating various policy/strategy decisions       based on network-flows was       created.
+The main aim of the model is to generate a set of questions for       decision makers to think       about when designing policies or making strategic decisions.
+The ERIE       project now has an       established engagement with HEM and SHGB with additional evolution       expected to develop over       the next three years.
+At present the principal target audience is the team in the Humber       region.
+As the methodology       develops and becomes more generic, it is planned to roll it out to other       regions.
+Preliminary       discussions with DEFRA (Department for Environment, Food and Rural       Affairs) have taken place.

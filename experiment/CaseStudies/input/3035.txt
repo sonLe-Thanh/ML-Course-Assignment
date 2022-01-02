@@ -1,0 +1,31 @@
+     Context     In contemporary high-bypass aero engine designs (such as the Rolls-Royce       TrentTM engines) the fan forms the first compression stage and       can provide as much as 80% of total thrust.
+Fan blades are attached to a       disc by mechanical `dovetail' joints; these joints are subject to large       centripetal loads and high-frequency vibrations resulting in the root of       the blade experiencing a combination of high and low cycle fatigue       loading.
+Failure of a fan blade can be catastrophic to an engine, and can       endanger the aircraft if the resulting fragments are uncontained.
+The       initiation and growth of fatigue cracks in aerospace materials can be       halted by the introduction of compressive residual stresses.
+The       traditional and most commonly used method is to fire "shot" at the       surface.
+However, the depth of the compressive residual stress is only       around 250 &#181;m, and provides poor resistance to fretting fatigue.
+Following       two TrentTM 800 fan blade-off events in the early 2000's [B],       RR decided to explore laser shock peening (LSP) as an alternative       treatment, working in partnership with The Metal Improvement Company       (MIC).
+LSP involves the plastic deformation of surface layers through a       plasma created by a pulsed high power laser beam.
+Numerous LSP trials were       performed during the early 2000s to optimise the peening process but,       prior to our research, the mechanism and outcomes of compressive residual       stress generation were determined by RR to be insufficiently well       understood for production use.
+Pathways to Impact     The research was carried out in close collaboration with Rolls-Royce and       MIC, using MIC treated fan blade root samples, thus providing a direct       route to implementation.
+As well as providing the academic basis to       underpin engineering practice, the Unit also established a Materials       Testing &amp; Analysis (MTA) Lab, able to test manufactured fan blade       components on a commercial basis for RR, so as to provide routine       documented assurance of the treatment.
+The MTA Lab is the only XRD       Residual Stress Measurement laboratory in the UK to be accredited to ISO       17025:2005, and residual stress measurements are performed to BS EN       15305_2008: Non-destructive testing.
+Test method for residual stress       analysis by X-ray diffraction [A].
+Our neutron measurements conform to the       TWA20 VAMAS methodology.
+In addition, Prof Withers has given lectures to       MIC staff to explain the LSP process in detail, and at workshops organised       by MIC in the UK, Germany and Sweden, to explain the science, potential       benefits and possible pitfalls of LSP to over 100 companies in the       aerospace, nuclear and automotive sectors.
+Reach and Significance     Wide chord fan blade technology is critical to RR's &#163;8.6bn pa, 1500       employee aero-engine business.
+Following high-profile adverse incidents       with the Trent&#8482; 800 engine, eliminating fan blade-off events, was critical       to re-establishing airline and consumer confidence.
+RR had already       identified LSP as a potential means of prolonging the life of fan blades,       prior to our collaboration, but the science to support this choice was       limited.
+By quantifying the efficacy of the LSP process in generating deep       compressive stresses, and demonstrating their stability in the harsh       service environment, the research gave the company the confidence to       transition LSP from a laboratory research and development activity, to a       reliable and production-qualified technology [C &amp; D].
+As a result, RR       were able not only to solve the problem with the Trent&#8482; 800 engine, but       have since introduced the method more widely across its range of       aero-engines &#8212; extending LSP treatment to cover Trent&#8482; 500, 800, 1000 and       XWB engines in the REF period.
+The role of the MTA Lab is critical to the on-going quality assurance of       fan blade production, confirming the integrity of the LSP-based       manufacturing process on a monthly schedule, assessing the likely       performance of newly designed components, and analysing component failures       &#8212; generating a turnover of around &#163;100,000 pa from RR alone.
+Its       world-class stress measurements performed on blade roots and disk posts       ensure the LSP process is applied consistently, and forms an integral part       of Rolls-Royce's QA procedure, contributing to Civil Aviation Authority       accreditation of Trent&#8482; aero-engines.
+The Trent&#8482; XWB was custom-designed for the A350 Airbus and relies on       LSP-treated fan blades.
+More than 1,200 of these engines, with a total       value of over &#163;60 billion, have been ordered so far [E].
+For example, it       was announced in September 2013 that Lufthansa had selected Rolls-Royce       Trent&#8482; XWB engines to power 25 Airbus A350-900 aircraft, an order worth       $1.5 billion.
+The airline also has options for a further 30 of the same       aircraft and engines &#8212; which would bring the total number to 55 aircraft       [F].
+MIC are contracted by Rolls-Royce to carry out LSP of fan blades, and       have, as a result, established a dedicated facility employing 30 staff at       Earby, close to the RR Barnoldswick fan blade production facility.
+Recently they won a contract to set up a similar facility within RR's       Singapore plant.
+At full capacity the Singapore site will produce over       6,000 blades per year.
+Finally, the impact of this research has been recognised with the award       of the 2013 Queen's Anniversary Prize for Higher and Further Education for       developing "New Imaging Techniques to Support Advanced Materials and       Manufacturing".
+The work undertaken during the assessment period upon       laser peening in support of MIC and Rolls-Royce was featured as a major       case study in the application, highlighting the socio-economic impact of       the research.

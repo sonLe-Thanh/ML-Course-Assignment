@@ -1,0 +1,30 @@
+     Research at Bangor on ultra-fast DSC co-sensitization has directly       influenced the commercial sector.
+Since 2006, Holliman's group has focused       on large scale, low cost PV working with TATA, Dyesol and G24i on       roll-to-roll PV manufacturing with the aim of becoming market competitive       (cost, efficiency and lifetime) versus the market-leading       crystalline silicon.
+Line trials have been carried out with TATA and       Dyesol (Shotton) using their &#163;1.5M roll-to-roll pilot line.
+[5.1-5.4]       Holliman's group are scaling ultra-fast DSC sensitization, increasing DSC       efficiencies (by 30-40%) by improving spectral response using four dyes in       minutes.
+This avoids longer processing and large dye baths containing       100's g of expensive dye (ca.
+&#163;500/g).
+Following the launch of the       SPECIFIC IKC (2011) Bangor has linked with Swansea partners to develop       building-integrated modules (roof mounted, windows etc.).
+[5.4-5.6] This       is important because roll-to-roll lines run at the speed of the slowest       process, so doubling dyeing time halves productivity making ultra-fast       sensitization essential for roll-to-roll DSC manufacture.
+Since 2008, in addition to the six industry-facing PDRAs at Bangor, three       new jobs were created at the joint TATA/Dyesol PV Accelerator in Shotton,       employing ex-Bangor researchers Rugen- Hankey, Vaca Velasco and       Ketipearachchi.
+Holliman is Bangor PI on an Industry/Welsh       Government/TSB/EPSRC funded Innovation Knowledge Centre opened at Swansea       University in 2011 (SPECIFIC).
+[5.5-5.6] SPECIFIC works at       Technology Readiness Levels (TRL) 3-7 on "Buildings as Power Stations" to       functionalise the building envelope.
+Hence, SPECIFIC is an exploitation       vehicle between invention (TRL1-3) and commercialisation (TRL 6-9).
+Scaling and line trials of Bangor-generated IP (working with TATA, Dyesol,       G24i and/or SPECIFIC) have taken the sintering and dyeing inventions from       TRL1-3 to TRL 4-5 using large substrates (A4 size) which are larger than       that required for fully scaling this technology into modules (see       Technology Roadmap below).
+Another example of an impact of Bangor's research is WG-supported STRIP       initiative (Steel Training Research and Innovation Partnership) to deliver       high quality University research to industry to improve industry       competitiveness.
+[5.8]     Holliman has undertaken two funded secondments (Oct-Dec 2011 and July       2012-Jan 2013) to work with senior TATA and SPECIFIC management and       economists (Mr. Kevin Bygate and Mr. Kian Woodward, TATA and Prof. Dave       Worsley, SPECIFIC) on a PV Technology Roadmap (TRM).
+[5.1]       These were based at TATA (Shotton) and SPECIFIC (Swansea) and involved       visits to TATA sites in the UK and India and SPECIFIC partners (e.g.
+NSG).
+The roadmap is a strategy for PV commercialisation which compares PV       technologies in terms of feasibility, manufacturing, processing and       lifetime issues as well as current/predicted markets and product form.
+It       has been developed through SPECIFIC and its industrial partners (e.g.
+TATA, NSG, BASF who have staff seconded into the centre) and the recently       Welsh Government-funded Ser Cymru Solar project (&#163;6M, 2013-2018) working       between Swansea, Imperial College and Bangor.
+Thus, the research carried out at the School of Chemistry in Bangor has       been contributing to the evolving global PV sector through the development       of scaled PV manufacturing by accelerating dye sensitization by ca.
+2000 times (24h becoming 1 min) and reducing processing temperatures (from       450-550&#176;C to room temperature).
+We have scaled these inventions to A4 size       and carried out feasibility and lifetime testing with G24i, Dyesol and       TATA and line trials with Tata/Dyesol proving low temperature processes       can also take place much faster (30 min becoming 4 min).
+These process are       now being utilised by our industrial partners.
+[5.1]     Holliman has established a strong partnership with TATA Steel (scaling,       route to market) and Prof Worsley (SPECIFIC- rapid processing, lifetime       testing) working on PV commercialisation particularly that based on the       results of his research on DSC.
+Holliman has developed a Technology       Roadmap for PV[5.1] which sets the strategy/targets to develop       scaled building integrated PV (BIPV) to replace bolt-on crystalline       silicon modules.
+TATA have already produced BIPV roofs based on this       strategy which are undergoing outdoor testing.
+[5.8]     Associated with this research, using EPSRC support (Holliman, 2008-2010),       the bilingual English- Welsh language schools lecture Chemistry Show-Sioe       Cemeg was presented to over 2000 children annually by Dr Robyn       Wheldon-Williams.
+[5.9] In 2013, Dr Matthew Davies (SPECIFIC       PDRA in Dr Holliman's group) led a 15 strong team to South Africa showing       how to make dye- sensitized solar cells from natural dyes to over 1300       school children over a 2-week visit.
+[5.9]

@@ -1,0 +1,31 @@
+     Background     The forestry and timber processing sector as a whole contributes about       &#163;2,000M per year to the UK economy and supports about 40,000 jobs.
+Of the       2.5 million tonnes of UK timber harvested annually, approximately       one-third is of suitable quality for transformation into       construction-grade sawn products.
+The remainder is used for paper,       chipboard, and biofuel, commanding a price about half that of timber for       construction [1].
+The carbon in these other products is returned to the       atmosphere within 1-10 years, compared to 50-100 years for timber used to       build houses [2].
+Consequently, there are both financial and environmental       reasons to channel the maximum possible percentage of UK timber into the       construction industry.
+To satisfy the UK Building Regulations, timber has       to meet the C16 quality specification.
+In practice the limiting C16       requirement for Sitka spruce, the prevalent conifer species in the UK, is       its stiffness: hence the relevance of the WestCHEM research.
+Path to impact     From the outset of the SIRT Project in 2004, its research and KE goals       were planned together by a management board with majority industrial       representation.
+KE was implemented through industry workshops and the       Forestry Commission's simple but efficient system of Information Notes for       forest managers.
+Since 2004, four Glasgow PhDs have been co-funded by the       Forestry Commission and one part-time PhD student, a professional timber       buyer, is fully funded by Egger Forestry Ltd.
+Nature of the Impact     Acoustic tools for measuring timber quality in the forest     Acoustic technology based on the WestCHEM research described above and       adapted for commercial use [Sources 3 and 4] was adopted in 2011 by James       Jones Ltd for measuring stiffness in standing trees [Source 5].
+James       Jones Ltd is the second largest sawmilling company in the UK.
+Sawmillers       purchase standing timber, which is then felled, transported, and processed       prior to machine grading.
+Normally about 10% of sawn products fail to meet       the C16 grading standard and must be diverted to pulping or biomass fuel       [Source 3].
+The costs (and embodied energy) of transporting, sawing, and       kiln-drying these outgrades are then wasted, amounting to about &#163;6M/year       UK-wide [Sources 1and 6].
+Selecting parcels of standing trees that will       give a low outgrade percentage is a crucial skill of timber buyers.
+James       Jones Ltd is now using acoustic measurements as a decision support tool       alongside the traditional, empirical skills of their buyers [Source 5].
+In       these circumstances it is difficult to quantify the gain, but a realistic       estimate is a 1% reduction in outgrades, leading to a saving of about       &#163;0.4M since the adoption of the technology.
+A further advance in profitability would be possible if individual logs       of high or low stiffness, rather than stands of trees, could be identified       at felling and consigned directly to the sawmill or elsewhere.
+Acoustic       devices attached to the harvesting machinery are under development by the       spin-out company Timber Sonics, started up in 2011 by Shaun Mochan, a       Forestry Commission researcher who was on sabbatical in WestCHEM in 2007.
+Genetically improved Sitka spruce     Before the study of P. McLean under Jarvis's supervision, it was assumed       that the stiffness of Sitka spruce wood was controlled mainly by density,       and that fast growing tree genotypes would produce low-density timber of       poor stiffness that would not meet the C16 specification for construction       purposes.
+The WestCHEM research showed that, although low density is       indeed connected with fast growth, stiffness need not be.
+Cellulose       orientation is much more important than density in determining the       stiffness of the wood [Source 7].
+It is, therefore, possible to combine       fast growth, straight stems (giving improved out-turn at the sawmill), and       stiff timber (due to good cellulose orientation).
+These findings were       disseminated informally to the forest industry in 2006-2007 [Source 8] and       a Forestry Commission Information Note followed in 2008 [Source 9].
+The       private forestry sector has enthusiastically adopted improved planting       stock and the large forestry company UPM Tilhill is planting improved       material almost exclusively.
+Across both public and private sectors,       improved stock now accounts for over 80% of new planting [Source 10] and       around 50M improved trees have been planted since 2008.
+The change has       been driven by the predicted increase in total wood volume as well as       increased sawlog output, but it would have been inhibited if the       perception that improved trees would fail to produce construction-grade       timber had persisted [Source 10].
+The economic benefits are difficult to estimate when trees take typically       40 years to mature and when there are uncertainties concerning the       influence of the biomass energy market and the restructuring of UK       forests.
+However, at harvest the improved trees planted between 2008 and       2013 are expected to yield 15M m3 of additional sawlogs [Source       9], leading to an increase of &#163;75M in the market value of these trees at       harvest if calculated at today's prices [Source 1].
+The increase in total       yield at harvest is predicted to be 12M m3 [Sources 9,10],       equivalent to 7M tonnes of fixed CO2, while about 8M tonnes of       CO2 equivalent will be locked up for the lifetime of the       buildings incorporating the additional sawn timber [Source 2].

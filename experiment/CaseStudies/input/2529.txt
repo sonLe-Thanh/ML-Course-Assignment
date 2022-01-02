@@ -1,0 +1,42 @@
+     This body of research has brought the social, urban and digital       environments together in a way that is meaningful to both industry and       consumers.
+It has demonstrated that new technologies can be a mechanism       for storytelling, in the traditional sense, and a force for positive       social and behavioural change.
+It has allowed retailers, gallerists and       museum curators to address the toxic mix of factors which, in recent       years, have led to the noticeable decline of the retail and cultural core       of many urban areas.
+By incentivising physical presence in a shop or       museum with virtual rewards, it has facilitated the return of footfall       back to the heart of towns and cities.
+In an article entitled Digital World Now Coaxing Shoppers Back to         Stores (June 2012), Women's Wear Daily featured Mobile       Acuity's work with New York digital agency, King &amp; Partners.
+The       article carried a quote from King saying "It's time to run back to         brick-and-mortar, make it smart and really give smart tools to sales         associates to focus on the real physical store" (see 5.1 below).
+In       September that year, King &amp; Partners launched the mobile application       `Agent 3.1' for fashion label Phillip Lim.
+Using Mobile Acuity's On-Device       MVS, developed from Spellbinder, Phillip Lim customers could scan       brochures, print advertisements and billboards to reveal additional       content about the label and its offer, including its first graphic novel       (promoting its Fall 2012 collection).
+In an article in InsideFFM (October 2012), a spokesperson for Phillip Lim       said "Agent 3.1 the app will certainly feature in future campaigns and         initiatives - we are really excited about its applications.
+The         possibilities are really changing the way we can look at overall         communications and engagement.
+We have had over 1000 downloads of the         app and the number of shares of content on social media networks really         surpassed our expectations - it has really been a lesson in... keeping         your followers excited about what you are providing them".
+(See       5.1).
+The Agent 3.1 application was well received within the industry for the       power and choice it gave to the consumer.
+One expert, a Mobile and       Emerging Technologies Strategist for [text removed for publication], is       quoted as saying it succeeded in "entirely flipping the script on what         we have come to believe are proper app interfaces.
+[Using the Mobile       Acuity MVS] the brand and its agency chose to put ownership and         control of the user experience in the hands of the actual user... As         simplistic as this sounds, fundamentally, it is actually pretty         revolutionary in digital fashion; the new model of marketing mobility."
+(See 5.1).
+Agent 3.1 used Mobile Acuity's On-Device MVS technology.
+The company also       licenses its platform to clients, enabling them to add visual search       capabilities to their own products via Cloud MVS, its `point and click'       solution for large-scale campaigns.
+This solution has been taken up by       leading digital media delivery company, 7digital, which, in 2011,       integrated Mobile Acuity Cloud's MVS Application Programming Interface       (API) with its own API to develop a Visual Music Discovery (VMD) service.
+With existing retail partner, HMV, it created the first licensed VMD       application; the HMV `listening post'.
+The `listening post' app is one of range of HMV initiatives designed to       help the business adapt to the new retail environment.
+The app is a       contemporary reinterpretation of the physical `listening post' that used       to be characteristic of HMV high street stores before floor and shelf       space was compromised by the need to expand the company's offer beyond       music.
+The technology enables consumers to listen to music previews by       simply taking a photo of a CD cover.
+7Digital has praised the "speed         and accuracy" of Mobile Acuity's product and said "This         functionality is a great addition to our leading API, allowing         developers and service providers to further integrate innovative music         exploration and purchasing into their applications.
+Being able to         immediately see, hear and even purchase the music that you are reading         about in a flyer or see on a fly poster is a really engaging proposition         for music lovers" (see 5.2).
+The success of the MVS solutions developed from Spellbinder is reflected       in the diversity of their applications.
+They have been used by Tesco in a       Grocery app for the mass market and by high-end brands, such as Nike, to       reward niche audiences.
+The former contract was awarded by competitive       tender in 2011, with Tesco rating the Mobility Acuity solution better than       any offered by a range of international competitors, demonstrating, as it       did, extra capabilities beyond those called for in the brief.
+In the case       of Nike, the MVS was used to increase brand awareness by allowing users to       create a Limited Edition version of a trainer inspired by a photograph       they took: an application for which the agency client, AKQA, won The       Revolution Award for Innovation in 2009 and a D&amp;AD Yellow Pencil Award       in the same year.
+TOTeM, too, has been particularly diverse in its impact.
+In May 2010, the       tagging of donated goods was piloted in an Oxfam shop in Manchester as       part of Future Everything, an award-winning new media festival and       showcase.
+Over the course of the week-long pilot (called Remember Me),       sales in the store increased by 53%, by 47% over the following two weeks       and by 19% the week after.
+The event, which involved patrons recording       downloadable audio `stories' about their donations, was covered by the New         York Times and the BBC (there have now been over 80 print, broadcast       and on-line articles published on the research).
+(See 5.3).
+On the strength of Remember Me, Oxfam's Board of Directors       invited the researchers to develop the Shelflife iPhone       application and website (http://shelflife.oxfam.org.uk/).
+Over 1,600 objects were donated and tagged across ten pilot stores in the       Manchester area.
+Feedback suggested that adding stories to secondhand       items increased their worth and longevity and reduced disposability.
+The       pilot's success led to Oxfam partnering further research, The Internet of       Secondhand Things project, funded by the Engineering and Physical Sciences       Research Council (EP/K012819/1).
+In February 2011, TOTeM was awarded the Best Internet of Things       Application at the BE2 Awards for Social Media in the Built Environment.
+In April the same year, the researchers co-created Tales of a Changing         Nation, tagging 81 objects in the National Museum of Scotland (NMS)       and allowing visitors to add their own stories using smart phone       applications.
+Transforming the way in which used NMS `handling objects'       and engaged with the public about communities and nationhood, Tales of         a Changing Nation was showcased at the international MuseumNext       conference in Barcelona (May 2012, see 5.4), at the British Museum,       Science Museum and National Media Museum and published in the Museums       Association Journal.
+The [text removed for publication] NMS described the       work as "a great example of how museums can not only give visitors more         information about objects and stories, but also involve our visitors in         adding their own responses to the objects, whether personal reflections         or additional resources " (see 5.5).

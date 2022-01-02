@@ -1,0 +1,36 @@
+     Context       The life sciences are fast becoming data-rich but knowledge-poor.
+High-throughput biology is generating data and articles at a rate that       makes it virtually impossible for individuals to keep up and remain expert       in their fields.
+This problem has become particularly acute in large       organisations such as pharmaceutical companies.
+Top pharma companies have       noted that significant numbers (possibly as many as ~25%) of late-stage       failures could be eliminated years earlier by making all internal       information in documents more widely available.
+The ability to recover       in-house data efficiently therefore provides an opportunity to reduce the       risk of late-stage failures and the costs of drug discovery and       development.
+Pathways to impact       The research was presented to major EU consortia, leading bioinformatics       institutes (EBI, SIB), conferences, EMBO- and FEBS-funded training       schools, and workshops organised by the publishing and drug-discovery       industries (SGUK12, ALPSP, EuroQSAR, APE2012).
+The Utopia software has also been featured and promoted in a variety of       online formats: these have included an `Elevator Pitch' in The         Guardian (6/10/10), and blogs by David Worlock (12/10/11), Jodi       Schneider (14/11/10), Duncan Hull (11/12/09), Richard Kid (21/06/11) and       others; videos about Utopia have been viewed &gt;5,000 times on SkipTV       (uploaded 20/12/09), YouTube (16/12/09) and SciVee (27/04/10).
+The basic       PDF reader is free to download for academic and commercial users under a       software licence agreement.
+Reach and significance of the impact       Utopia Documents makes a unique contribution to scholarly publishing on a       global scale.
+Combining advantages of PDF files (i.e., readability,       portability, archivability) with web-style interactivity, the software       allows readers to interact with and annotate article PDFs, and to share       their commentaries and annotations with others.
+&#8226; [text removed for publication] [A].
+The software offers publishers a way of enriching their vast, inert PDF       back-catalogues, and driving more traffic to their online content.
+Utopia       thus provides new commercial perspectives to publishers who are revisiting       business models in view of open access initiatives.
+Utopia Documents enables pharmaceutical companies to recover and exploit       in-house knowledge that is otherwise lost during the drug-discovery       process.
+&#8226; [text removed for publication] [B].
+Providing efficiency and cost saving in the global drug discovery           industry:       The software is in the process of being rolled-out across AstraZeneca (AZ)       and Roche's global infrastructures, and discussions are ongoing with       British Telecom to provide Utopia Documents as a cloud-based service for       the wider pharmaceutical industry.
+&#8226; [text removed for publication] [C].
+The software is now also fully integrated with the commercial 3D-molecule       databases marketed by Bio-Prodict [D].
+Changing the publishing platforms of UK-based publishers:             Portland Press Ltd (PPL): A collaborative project resulted in         the launch of the Semantic Biochemical Journal (BJ) in 2009, a         `publishing first' [E].
+This has transformed the publishing pipeline at         PPL, and all BJ content since 2009 (&gt;1,600 publications) has         been integrated with Utopia Documents [F].
+[text removed for         publication].
+During contract negotiations with Elsevier, Portland Press's           decision to fund the Semantic BJ project was described by           Elsevier as "heroic and visionary" for a small publisher.
+The Semantic BJ (powered by Utopia Documents) was a finalist           for the ALPSP Charlesworth prize for publishing innovation in 2010           [G].
+Royal Society of Chemistry: the Utopia team provided PDF access         to ChemSpider (the 2010 ALPSP Charlesworth award winner for Publishing         Innovation) via Utopia Documents, rolling this new functionality out         across the Royal Society of Chemistry's entire publishing platform.
+Leading a change in business strategy of international publishing           houses:       Version 2.2 of the Utopia Documents Web-enabled PDF-reader for scientific       content is now integrated with a variety of publishing platforms including       Springer, learned societies (the Royal Society of Chemistry, American       Society of Plant Biologists), and open access formats (eLife, PLoS, PeerJ,       BioMedCentral, and open access articles in PubMed Central).
+Other on-going projects include:             Elsevier/SciVerse-Science Direct, AQnowledge, SiBite Ltd.:         Technology from Utopia (licenced via AQnowledge, and in collaboration         with SciBite Ltd.) is being used to provide Elsevier with `business         intelligence', linking scientific articles to commercially available lab         supplies.
+A successful 50-journal pilot on Science Direct averaged ~100         reader-supplier interactions per day &#8212; subsequent projections across the         full coverage of life science journals in Science Direct suggest ~150         million displays per year of the Utopia-driven AQnowledge link `box'.
+To         date, the software has been used to analyse &gt;300,000 full-text         articles from Elsevier's catalogue.
+It is also being implemented at         CiteULike (a scientific reference managing and discovery site) [B].
+CrossRef: In collaboration with CrossRef (a not-for-profit         organisation representing over 4,500 scholarly publishers), Attwood's         research group is providing software for converting legacy PDF articles         into semantically rich, computer-readable documents and improving their         citation analysis.
+[text removed for publication] [H].
+Wiley-Blackwell: A project is ongoing (2010-2014) to create the         first `Utopian' text-book.
+Formation of a spin-out company, Lost Island Labs:       In 2012, Utopia IP was transferred into a start-up company (Lost Island       Labs.
+), to manage the interface between Utopia and its industrial       partners, to create a more sustainable environment for its development,       and to share revenues with UoM.
+Within its first year of business, Lost       Island Labs expects a profit [text removed for publication].
+A revenue-sharing agreement between Lost Island Labs, AQnowledge and       various scientific, medicine and technology publishers (including       Elsevier, BioMed Central, Cold Spring Harbor and ~25 lab-product       suppliers) has been set up.

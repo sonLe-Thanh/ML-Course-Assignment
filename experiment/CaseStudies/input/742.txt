@@ -1,0 +1,41 @@
+     Our research and datasets were used to improve the two leading weather       forecasting models for Europe, which are run by the UK Met Office and the       ECMWF.
+The involvement of these agencies as research collaborators has       undoubtedly enhanced the effectiveness and speed of uptake of this       research.
+Advances in weather forecasting allow improved planning by the       public, agriculture, commerce, utility suppliers and transport sectors, as       well as preparation for extreme weather events such as floods, heat waves       and droughts.
+The UK Met Office model is also used to provide projected       future climate information to the UK government and the IPCC, to inform       policy on climate change and energy, and to plan mitigation strategies for       likely future climate scenarios.
+Improved land albedo in the UK Met Office weather and climate models:       The UK Met Office provides daily weather forecasts for the UK.
+The       forecasts are published on the Met Office website, broadcast on most TV       channels, including the BBC, and folded into many derived (internet)       weather predictions and apps.
+The forecasts are used directly for maritime       and aviation safety and routing, agricultural planning, and flood       forecasting (in collaboration with the UK Environment Agency).
+The       estimated benefit to the UK economy of Met Office forecasts is more than       &#163;300m.
+Swansea has worked with the Met Office to directly improve the surface       albedo component of its forecast models, and their improvements have been       implemented in all versions of the Met Office models since changes made       during 2008-9.
+Swansea researchers have also collaborated with NASA to       develop satellite mapping of albedo with the MODIS instrument [C1],       resulting in one of the most widely used datasets by weather forecast       agencies worldwide, including the USA.
+Following a multi-year analysis of       the MODIS dataset, Swansea, in conjunction with the UK Met Office, led       development of a new, seasonally varying climatology of soil background       and vegetation albedo (referred to as `CLASSIC' albedo [R5]).
+This       permitted accurate temporally and spatially varying albedo to be       incorporated within the UK Met Office Unified Model.
+The UK Met Office       uses a single set of models, referred to as the Unified Model, to       calculate their day-to-day weather forecasts, and to build scenarios of       future climate change.
+The CLASSIC albedo data were initially tested in the Met Office       experimental model High-Resolution Global Environment Model (HiGEM), and       officially became part of this model from 2008 onwards.
+The impact of the       CLASSIC albedo in HiGEM is documented [C2], which notes (pp 1866,       and1871-1872): "...the new albedo [data] significantly improved         forecast temperatures, especially over desert regions, with additional         improvements in wider circulation."
+Following this, the CLASSIC       albedo was included in the main Unified Model in November 2008.
+The       implementation of the CLASSIC albedo is documented and its impact       evaluated by the Met Office [C3] "This change ... uses MODIS data to         derive a much more accurate specification of the albedo of the Met         Office Surface Exchange Scheme (MOSES)...
+It is likely that the CLASSIC         albedos are the best albedos that can be produced.
+Tests in the NAE         [North Atlantic European] showed [that] the CLASSIC albedo improved         forecasts of near surface temperature, cloud and visibility" (pp.13-14).
+"Overall, the package of changes [including albedo] provided a         significant improvement to the Met Office capability for Numerical         Weather Prediction" (p35).
+The Swansea albedo was also included by the Met Office for climate       simulations within the model HadGEM2, which is a coarse resolution version       of the Unified Model suitable for decadal to century predictions.
+This       model was used by the UK Met Office Hadley Centre from 2009 to 2013 to       advise the UK government regarding climate policy and for contributions to       the Fifth Assessment Report of the IPCC, which informs governments       worldwide of the current status of climate change and summarises the       latest knowledge.
+The impact of the Swansea albedo improvements for       climate change discussed in the IPCC report is documented in [C4], which       reports: "the more realistic surface albedo leads to significant         improvements over HadGEM1 (used for the Fourth Assessment Report of the         IPCC) in predictions of surface temperature, moisture, vegetation         distribution, and global carbon cycle."
+Swansea's collaboration with the Met Office is ongoing under the       ESA-funded GlobAlbedo project [G4], which aims to further refine global       estimates of surface albedo, using a longer time series and more accurate       correction for atmospheric effects in the measurements.
+Improved vegetation modelling in the ECMWF Integrated Forecasting         System: The ECMWF provides global weather forecasts for up to 15       days to most national weather services in Europe.
+The model used for this       is referred to as the Integrated Forecasting System.
+As a result of       analysis of the satellite datasets of vegetation cover and seasonal change       developed by Los [R3, R6, C5], Swansea research has led to improvements in       the model's treatment of the global land surface.
+In 2011, ECMWF       implemented a new land-surface model into their forecasting system.
+An       important component of this new model is the introduction of a seasonal       cycle of leaf area index that was pioneered [R6] in collaboration with       Los.
+In this study, Los used satellite data developed at Swansea to       implement a more realistic dynamic, seasonal cycle of vegetation; the       previous ECMWF model had only a static vegetation cover that did not       reflect seasonal changes.
+The implementation of the new land-surface model       has improved the representation of weather, in particular placing better       constraints on the evaporation of water from soil and transpiration of       water by plants.
+Transpiration estimates correspond to water use by       vegetation, are so also directly useful to agriculture and hydrological       planning.
+The changes have resulted in significantly better precipitation       forecasts.
+Discussion of the implementation is given in the written       submission by ECMWF [C6]: "The study found that incorporation of an         improved seasonal vegetation cycle in the model led to a systematic and         relevant alteration of the hydrological cycle and energy budget, and had         the potential to improve the overall forecasting skill of the model...
+The success of this study eventually led to the incorporation of a much         advanced land surface model in the Integrated Forecasting System."
+The implementation of seasonal changes in vegetation has resulted in       significant improvements in the Integrated Forecasting System.
+For       example, the previous model, which employed constant vegetation, displayed       unrealistically low seasonal variation in evapotranspiration.
+In the       updated model, the variation in evapotranspiration has approximately       doubled in the tropics and mid latitudes during the boreal summer.
+This       provided justification for further improvements, such as the       implementation of a new photosynthesis model, allowing better prediction       of long-term trends in heat-trapping atmospheric carbon dioxide       concentrations and associated global warming.
+The set of improvements in       the Integrated Forecasting System are documented in [C7].
+Implementation       in the ECMWF model of the seasonal leaf area index cycle improved rainfall       forecast, which was too low, increasing forecast rainfall on average by 7%       in the Northern Hemisphere during summer, and increased precipitation       variability (needed for flood and drought forecasting) by up to 30%.

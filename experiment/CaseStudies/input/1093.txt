@@ -1,0 +1,50 @@
+     Zuckerman's research in civil procedure has had impact in three distinct       ways:     (1) Zuckerman's argument was taken up and applied by the court in       relation to service of the claim       form in both City &amp; General (Holborn) Ltd v Structure Tone Ltd       [2009] [C3] and Imperial Cancer         Research Fund v Ove Arup &amp; Partners Ltd [2009] [C4].
+In       these cases, the Court of Appeal       accepted the principle, advocated by Zuckerman, that even where an       application for extension of       time for service of the claim form has been made before the expiry of the       deadline, permission       should be granted only where there was good reason for not serving in       time.
+These cases built on       an earlier line of decisions relying on Zuckerman's research: (Hashtroodi         v Hancock [2004] EWCA       Civil 652, [17]; Maggs v Marshall [2005] EWHC 200 (QB); Collier         v Williams [2006] EWCA Civ 20,       [2007] 1 All ER 991, [85].
+(2) Zuckerman's approach to applications for extension of time made after       the expiry of the       limitation period [R2] was adopted by the Court of Appeal in Cecil         v Bayat [2011] [C5].
+The court       relies very extensively on Zuckerman's research at [77]-[78], and       at [94].
+The matter is       determined to be not only one of formalities or expectations, but of       fundamental reasonableness:     `The matter goes further than that, because, whatever the expectations of       a defendant who       bears any relevant limitation period in mind, the fact is that an       extension of time for service       does effectively extend the period (primarily a matter of limitation)       during which a claimant       can do nothing to bring his litigation formally to the notice of his       defendant.
+That larger point       was the subject matter of another observation of Professor Zuckerman (at       para 4.134): "The       need for placing a time limit on service of the claim form is dictated by       the need for finality in       litigation and by the very existence of limitation periods.
+The period       allowed for service seeks       to ensure that the uncertainty of litigation is not unreasonably extended.
+(...)" [C5, at 78]     (3) The Civil Procedure Rules Committee revised the CPR in accordance       with Zuckerman's       argument in [R1].
+The proposal that the court should give higher       priority to the need to enforce       rules and court orders was accepted in the Jackson Review of Civil       Litigation Costs, Final Report,       2010 [C1], and has been implemented in the revised CPR 3.9 with       effect from 1 April 2013 [C2].
+Lord Justice Jackson's Review commented as follows on Zuckerman's       criticism of the       flawed enforcement of case management timetables [C1, pp.386-387]:     "2.1 ...
+Professor Adrian Zuckerman presented a paper on litigation       management.
+Professor Zuckerman argued that the courts must deliver judgments within a       reasonable       time and at reasonable cost.
+The courts, like the National Health Service,       are a public       service.
+Their function is to adjudicate disputes with available       resources.
+Court users are       only entitled to their fair share of court resources.
+At the moment       judges, following the       precept of CPR 3.8, 3.9 and 3.10 are far too indulgent to litigants in       default.
+This causes not       only delay but also unproductive waste of court resources in dealing with       the effects of       litigant failure to meet deadlines.
+It is only in truly extreme       circumstances that the courts will       strike out a party which is in default.
+Such extreme circumstances are       exemplified by       Marine Rescue Technologies Ltd v Burchill [2007] EWHC 1976 (Ch).
+After       reviewing the       tortuous history of that case Professor Zuckerman stated:     "By no stretch of the imagination can this be considered an efficient use       of court resources,       nor was it fair to other litigants waiting in the queue, nor did it       provide effective protection to       the defendant from being unnecessarily subjected to 6 years of futile       litigation...
+The main       responsibility for this state of affairs must be accepted by the Court of       Appeal.
+The Court of       Appeal has steadfastly declined to develop a coherent policy for enforcing       compliance with       rules and case management directions.
+Its refusal to provide leadership in       this regard is       nowhere more apparent than in relation to its interpretation of CPR 3.9."
+2.2 A little later Professor Zuckerman stated:       "Even more corrosive of good management practice is the Court of Appeal's       inability to       speak with one voice.
+The understanding of the overriding objective varies       greatly amongst       its judges, with some judges still holding the view that their only duty       is to decide cases       according to the facts and the law, no matter how long it takes and how       much it costs.
+Management standards will not improve unless the Court of Appeal is       willing to provide       leadership.
+To do so it would have to revise its approach to the       enforcement of compliance       with case management directions and therefore to the operation of CPR 3.9.
+It would have       to adopt a policy that gives practical expression to the need to ensure       that court resources       are properly utilised.
+This means, amongst others, that a litigant who has       failed to take       advantage of the opportunity of prosecuting his case will not get another       opportunity, unless       he has been prevented from doing so by circumstances beyond his control."
+2.3 Professor Zuckerman in his oral address (though he did not touch on       this in his paper)       commended the approach which is canvassed as one possible way forward in       PR       paragraph 43.4.21.
+He concluded by arguing that the civil justice system       like all other public       services must be adequately managed, so as to deliver a satisfactory       service.
+He added:       "The management task that the court is expected to discharge is relatively       uncomplicated:       to ensure that case management directions are implemented as laid down,       unless a       change of circumstances demands otherwise.
+But this simple task requires       the court to       abandon its almost religious attachment to the one dimensional       understanding of justice       and accept that doing justice means more than delivering a judgment on the       merits; that       time and the use of resources are just as significant imperatives of       justice."
+2.4 Unsurprisingly Professor Zuckerman's presentation provoked a measure       of       disagreement and lively discussion.
+One speaker made the point that if the       court sets an       unrealistic timetable, as sometimes happens, that encourages a culture of       noncompliance.
+In a vote at the end of this discussion 32 people agreed with Professor       Zuckerman's thesis,       14 disagreed and there were 22 abstentions."
+[C1]     Zuckerman's argument, summarized above by Lord Justice Jackson,       ultimately persuaded the       Rules Committee that "courts at all levels have become too tolerant of       delays and non-compliance       with orders.
+In so doing, they have lost sight of the damage which the       culture of delay and non-       compliance is inflicting upon the civil justice system.
+The balance       therefore needs to be redressed."
+[C1, p.397].
+Relying expressly and directly on Zuckerman's work,       the Review therefore       recommended:     "86 The courts should be less tolerant than hitherto of unjustified       delays and breaches of       orders.
+This change of emphasis should be signalled by amendment of CPR       rule 3.9."
+[C1,         p.469].
+This recommendation was soon taken up in practice.
+The 2010 Report,       accepting and relying on       the evidence in Zuckerman's research, persuaded the Rules Committee to       revise CPR 3.9 with       effect from 1 April 2013.
+The revised CPR [C2] now states:     "(1) On an application for relief from any sanction imposed for a failure       to comply with any       rule, practice direction or court order, the court will consider all the       circumstances of the       case, so as to enable it to deal justly with the application, including       the need-     (a) for litigation to be conducted efficiently and at proportionate cost;       and     (b) to enforce compliance with rules, practice directions and orders."
+This amendment gave legal authority to the argument of Zuckerman's       research, and restored the       binding force of case management rules and court orders.
+The result was to       reduce a litigant's       opportunity to inflict delay and cost on another party and on the system.
+The impact of the research       means significantly improved access to judgment for civil litigants       throughout England and Wales.

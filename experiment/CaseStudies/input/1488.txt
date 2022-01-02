@@ -1,0 +1,25 @@
+     As described above (section 2), the OMI provides a fruitful co-creative       collaborative environment for researchers and their counterparts in the       commercial world via co-location within the Man Research Laboratory (MRL)       and a series of collaborative seminars, workshops and conferences.
+It was       through the research seminars that AHL researchers became aware of       Professor Shephard's research on volatility, and, in particular, of the       predictive model that he had developed with Dr. Kevin Sheppard [R6].
+The predictive research methodology of Shephard and Sheppard provided the       basis for a decision rule developed by AHL researchers to generate what       they termed the `spike detection strategy'.
+This tool was then used by AHL       to attempt to statistically hedge significant `tail events'.
+Shephard and       Sheppard were consulted over the subsequent development of the spike       detection strategy, providing feedback on the approach adopted and       pointing to some fruitful directions for subsequent work [Section 5:         C1].
+Shephard and Sheppard's research was particularly pertinent because, for       some time before AHL became aware of the work [R6], Man Group had       identified the need to build an investment fund that protected a hedge       fund portfolio against so-called `tail events' [C1] .
+These `tail       events' (very bad monthly equity portfolio returns) are difficult to       predict and can lead to challenging periods both for institutional       investors (e.g.
+pension companies) or fund managers.
+Various asset classes       have traditionally been used to provide some insurance against severe       equity losses.
+The most famous are bonds, although, in recent years, bond       and equity returns have been positively correlated.
+AHL researchers recognised that volatility contracts are a class of       investable assets which do perform well during periods of financial stress       [C1].
+(A simple version of such a contract has a payoff related to       the square root of the sum of squares of daily returns of the underlying       measured over a pre-specified period).
+Realised volatility has nearly       always been very high during periods where equity indexes have fallen       significantly.
+There are various economic theories as to why this may be       the case.
+Overall, however, it means that buying volatility contracts       provides a form of statistical insurance on equity positions.
+If equities       rally, the contract will tend to pay off little; if equities fall       dramatically, it will tend to pay off very substantially.
+This suggests       that an equity portfolio could have some of its `left hand tail' risk       reduced by holding a small amount of volatility contracts.
+The difficulty       with this conclusion, and the resulting action, is that the expected       long-run payoff of variance contracts is substantially negative.
+The size       of expected loss is called the volatility risk premium, and it rewards       sellers of volatility contracts for being exposed to the risk of       substantial losses at the same time as equities are losing.
+The critical value of the predictive model developed by Shephard and       Sheppard [R6] is that it provided the methodological basis for a       strategy to predict periods of stress in the financial markets, and so       reduce the costs of holding volatility contracts [C1].
+Man Group's       `spike detection' strategy, derived from Shephard and Sheppard's       predictive model [R6] "looks at noise in the markets and tries to       translate that noise into when a crisis is likely to take place" [C2].
+When a challenging period is detected, exposure to volatility is increased       to provide greater protection.
+The spike detection strategy is a key       component of the Man group's TailProtect Fund.
+In a 2012 interview, Sandy       Rattray (CEO of AHL) described the strategy as the "more creative and       innovative part" of the Man Group's TailProtect Fund (Dickinson, 2012) [C2].
+The TailProtect fund opened to external investors in January 2011, and in       2012 won the annual European award for most innovative hedge fund [C3].

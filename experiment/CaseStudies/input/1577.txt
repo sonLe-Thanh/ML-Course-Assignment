@@ -1,0 +1,40 @@
+     Dasher is a fast and easy to learn text-entry interface using natural       continuous pointing gestures,       so taking advantage of humans' natural ability to make high-speed analogue       movements.
+It can       also use button presses, clicking and tapping gestures as input.
+As well       as being faster, it is       simpler to use than conventional writing systems and produces considerably       fewer errors.
+In       contrast to most writing systems, the Dasher approach enables efficient       communication in almost       all languages, regardless of alphabet.
+All that is required is an alphabet       file that defines the       alphabetical order, and a training text in the target language.
+Alphabet       files have been created for       136 languages, and training texts have been produced in 20 European, 4       Asian, 15 Indian, 12       African, and 3 Middle-Eastern Languages.
+Special prototypes of Dasher were       developed in 2011       for writing in Japanese and Chinese, making Dasher's transformational       impact on users global.
+Dasher is an open source product &#8212; the source code was released under the       GNU public licence       (GPL) in 2002 and all subsequent versions have been issued similarly.
+This       guarantees free       access to the Dasher source code, and allows it to be stored in the       publicly accessible GNOME       repository.
+Dasher was included in the GNOME 2 desktop in January 2004,       and agreement was       reached in November 2011 to include it in GNOME 3.
+The GNOME desktop is       the default desktop       environment for the Sun MicroSystems (now Oracle) Solaris operating system       and most Linux       distributions.
+Since its release, Dasher has been downloaded from the Inference Group       website over 120,000       times of which 71,000 times since 2008.
+It has also been included in       software packages distributed       by others, including Ubuntu, Solaris, and Tobii (who sell gaze-tracking       systems).
+Dasher was designed to use hardware that may be much smaller than       conventional keyboards and       is therefore particularly useful for smart phones and tablet computers.
+As       a result of the Inference       Group's continued research into porting Dasher to mobile devices [Ref 5],       Dasher was made       available for the Android market and the iPhone, iPod touch and iPad in       2010.
+It has been       downloaded to Android devices over 5000 times with a user-review rating of       4.2/5 and from the       Apple Store over 400 times since October 2012.
+Dasher has transformed computing for those unable to use a conventional       keyboard because it       can be driven using any pointing device, such as a mouse, rollerball,       touchpad, joystick or gaze-tracker.
+Since 2008, significant advances have been made in the usability of Dasher       with pointing       devices, particularly with gaze-trackers and joysticks.
+Dasher has proven       to be ideally suited to be       used with a gaze-tracker as it is mode free: you look at what you are       writing, and do not need to       escape into an error-correction mode, nor an "accept-model-predictions"       mode as in systems       which offer word-completions.
+Unlike other systems it is also robust to       blinks and can infer and       correct poor calibration.
+Dasher adapts to an individual's writing style       to such an extent that it is       sometimes possible to write several words using a single glance.
+One issue which Dasher faced was that commercial gaze-trackers are       expensive, and typically use       special-purpose high resolution, high frame rate infra-red cameras.
+The       significant cost of       commercial gaze-trackers motivated research into gaze-tracking and       head-tracking using ordinary       cheap web-cams.
+So far, a gesture switch &#8212; an algorithm which learns and       detects facial gestures       such as "look up" or "smile" &#8212; and a head tracker suitable for hands-free       writing with Dasher have       been developed [Ref 6].
+Dasher can also write text using discrete button presses as input, either       by selecting a screen       region, or using precise timing information.
+This feature prompted       collaboration with IDRC       (Toronto) who developed Tecla, a hardware device which converts wheelchair       joystick controls       into bluetooth keypresses with an on-screen keyboard to be able to use an       Android smart phone       using the joystick.
+As a result of the Inference Group's research [Ref 5],       it is now possible to       switch between the Tecla on-screen keyboard and Dasher so that writing a       text message on a       mobile phone using a single wheelchair button and Dasher in a new       one-button mode became       easy.
+Tecla was commercialised by Komodo OpenLab Inc. in 2012.
+The Dasher development team receives positive feedback from users on a       weekly basis confirming       the transformative impact Dasher has made on their lifestyle quality and       well-being.
+Examples of       user testimony include:       "I am an occupational therapist in London who has been using Dasher for       many years with children       and adults with significant physical disabilities that prevent them from       using a standard keyboard or       mouse."
+(20 September 2012)       "I found your software on the web and think it is wonderful!
+My mother has       ALS and although she       can still use her hands typing is a one finger time consuming tiring       effort, yet she has a lot to say.
+In addition she writes to many who live in Turkey in Turkish as she and       her husband lived there for       25 years.
+Having that language available was a very happy surprise.
+I live       in another state and       your software will allow her to communicate with me and others via email       and in the future using       speech and eye gaze programs as needed.
+For that I say thank you."
+(18       September 2012)       "I have a personal example &#8212; an acquaintance of mine who had ALS.
+I       installed Dasher on his       computer, and in short order he was able to communicate with his wife and       family much more       rapidly, was able to compose documents and e-mails, etc.
+Made a very       significant improvement in       the quality of his life."
+(Accessibility Principal at Oracle &#8212; 5 April       2013).

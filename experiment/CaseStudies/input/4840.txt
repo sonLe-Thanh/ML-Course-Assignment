@@ -1,0 +1,24 @@
+     Since the introduction of the GSM system as the global mobile       communication standard; communication security has been a major topic of       research by many organizations around the world.
+The GSM standard required       that all of the mobile phone functions were to be reversed at the edge of       the core network, which means that in order to have the encrypted speech       coming out of the mobile phone it must be decrypted at the edge of the       code network allowing eavesdropping on the conversation at the core       network.
+Therefore although the wireless link of the GSM (and the 3G)       system is fairly well protected, the end-to-end security is not       satisfactory due to the problems within the core network.
+The only way to       provide an end-to-end secure link is by enabling speech encryption before       the speech signal is input to the GSM network (or in the phone).
+However       if speech is encrypted before it enters the GSM phone, it will be treated       as random noise (assuming a good encryption system) and the GSM voice       activity detector will recognize it as noise and stop its transmission.
+The technology developed in the I-Lab of University of Surrey converts       the encrypted speech into speech like waveforms which have nothing to do       with the original speech signal waveform, in such a way that it is able to       pass through the end-to-end GSM network with sufficient diversity.
+This       allows an end-to-end security which has never been possible before.
+This       technology is the first and the only one available in the world.
+In order       to improve the speech quality in multiple speaker and/or noisy environment       a blind source separation preprocessing block has been added to the final       system which not only provides security but also works robustly under       varying ambient conditions.
+Based on the Secure Voice Communications (SVC) technology, a University       of Surrey spin-off company, MulSys Limited, has been set-up which develops       the technology based on Surrey's research.
+The technology is being licensed world-wide by MulSys both in software       and hardware form.
+This is the only available technology in the world       which uses the voice channel of the GSM and the 3G mobile communication       systems.
+The impact has been created since the company demonstrated the       system in the field with security agencies.
+MulSys has already licensed the SVC technology to many government       security agencies (confidential information available on request)       receiving more than &#163;2.5M revenues to cover more than 5000 thousand units       and it is expected to reach 100k units in the next 3-5 years.
+The       licensing deals and the income generated from these sales have allowed       MulSys to grow into a multi-media communication systems company with no       need for additional venture capital support.
+The phones developed are specialised/customised and high cost.
+Due to       high demand from commercial and other sectors, MulSys is now producing its       own secure GSM/3G phone to market worldwide.
+This phone is cheaper than       the customised security phones (by a factor of 4) operating over the data       channel currently on the market.
+MulSys is expected to capture &#163;15-20M       share of the total &#163;50-100M market value of secure GSM/3G phones.
+As there was no means of communicating securely over the GSM/3G systems       especially where there is no data service, the MulSys SVC technology,       based on Surrey's research has offered the security organisations the       opportunity to conduct their daily activities with simple and effective       use of the SVC application to either lap-tops (for off-line messaging) and       mobile phones instantaneous secure communication anywhere in the world       where there is GSM/3G coverage.
+Due its exposure in the security market MulSys has grown its signal       processing coverage into various multimedia areas and has been invited       into several EU FP 7 projects which are used to develop new products in       the 3D content delivery area to fixed and mobile terminals.
+In 2013 MulSys       has become a partner in the BATS project which is integrating broadband       satellite and terrestrial networks and ROMEO to develop 3D content       delivery.
+MulSys is growing and currently employs 11 people including 6       consultants.
+There is good transition from the University of Surrey's       research group with 2 permanent employees as well as 4 Surrey researchers       working as contracted consultants.

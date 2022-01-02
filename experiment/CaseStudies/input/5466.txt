@@ -1,0 +1,54 @@
+     Process leading to impact:     The modelling team has enjoyed a long-term relationship with the       economists in the Scottish Government through e.g.
+the provision of short       courses; periodic seminars; membership of advisory groups.
+However, there       has been a step-change impact during the current REF period that it is not       "one-off" in nature &#8212; linked to a particular policy initiative &#8212; but       rather continuing through the policy development and evaluation process       itself.
+As a direct consequence of our research, OCEA has become committed       to routine use of CGE models to analyse policy options for Scotland under       alternative constitutional arrangements.
+The Scottish Government have       established a CGE modelling team with a commitment to further developing       this activity, in part through pro-active engagement with Strathclyde.
+There are a number of dimensions to this engagement.
+Nature of the Impact:     Impact on Office of the Chief Economic Advisor (OCEA).
+The       process began in the summer of 2011 when the Economics Department ran a       short CGE modelling course for members of OCEA.
+This course was to       familiarise members of the Government Economic Service working for OCEA on       the operation of CGE models in general.
+The aim of the Scottish Government       was to build modelling capacity in order to evaluate more effectively the       impact of policy initiatives and possible external shocks to the economy.
+The motivation was to improve decision making over key economic policies       and increase the quality of policy discussion in Scotland, thereby       benefitting the performance of the devolved government in Scotland.
+Specifically, the Scottish Government wanted to operate a CGE model as       part of a suite of modelling techniques, including forecasting and tax       modelling, to improve the advice it gives to Scottish Ministers.
+The Department subsequently worked with OCEA, on modelling the impact of       a differential reduction in Corporation Tax in Scotland on the Scottish       economy.
+This work is explicitly cited in the Scottish Government's       submission to the Scotland Bill (Scottish Government, 2011) and is the       subject of a report from the Scottish Parliament Information Centre (Marsh       and Nicol, 2013).
+The research has subsequently been presented at a       Scottish Institute for Research in Economics (SIRE) Conference on       International Business Taxation, July 2012, and the Urban and Regional       Economics Seminar Group, January 2012.
+Further collaboration on developing       a CGE modelling capacity within OCEA involved the Scottish Government       purchasing a version of the Strathclyde model and establishing a formal       contract for Strathclyde to provide on-going technical support to help       them further customise the model and run model simulations.
+Two members of       the OCEA staff, Leila Akhoundova and Angela Nolte, have been assigned to       develop the CGE modelling and Kim Swales has been a visiting advisor to       OCEA.
+Model simulations by the Scottish Government have been used to identify       the impact of the present fiscal consolidation experienced by the Scottish       Government.
+Simulation results are also currently a key input into       internal evaluation within the Scottish Government on the impact of       changes in current and capital expenditure on the Scottish economy and       variations in employers' national insurance contributions.
+This research       has also been used to inform the Council of Economic Advisers.
+OCEA       reports (Source 2) that the relationship with the University of       Strathclyde has led to significant increases to the quality advice       provided to the Scottish Government.
+"As a result of our relationship with the team at the University of         Strathclyde, the breadth and quality of analytical advice that we have         been able to provide has increased significantly."
+(Source 2)     In particular, the modelling frameworks designed by Strathclyde are       shaping policy development at the highest levels within government.
+"We have also been better able to inform the evaluation of past-policy         initiatives.
+Recent examples of this work includes research to inform         publication of major external consultation documents &#8212; e.g.
+on         corporation tax &#8212; and internal policy advice to Ministers - e.g.
+capital         investment, export promotion and labour market participation.
+The         research has also been used to inform the deliberations of the Council         of Economic Advisers....
+Feedback from senior Ministers, include the         First Minister and the Cabinet Secretary for Finance, Employment and         Sustainable Growth, has been excellent."
+(Source 2)     The Strathclyde research has also yielded significant cost savings.
+According to OCEA, these are recurring and expected to save around 10% of       OCEA's annual research budget (Source 2).
+Impact on ClimateXChange.
+The Scottish Government initiated       an interaction with academics in Scotland through a new body,       ClimateXChange.
+Professors McGregor and Swales successfully competed for       funding under this initiative and were founder members of the body, their       inclusion depending primarily on their prior research in regional       Environment-Energy-Economy CGE modelling.
+ClimateXChange is a unique       collaboration in which research on areas of key policy interest to the       Scottish Government are funded across academic groups in Scotland.
+The       Strathclyde models developed and applied to policy issues in this context       share the same basic multi-sectoral framework as those being developed by       OCEA, though extended to include detailed links to energy demands and       carbon emissions.
+It therefore becomes straightforward to track the impact       of any energy or economic policy on energy use and emissions.
+The support       for this capacity building is motivated by a conviction of the value of       CGE modelling of the type developed at Strathclyde as a tool for the       policy formation process.
+The way in which annual objectives are agreed and delivered ensures that       priorities reflect the research needs of the Scottish Government.
+In April       2012, mid-way through the first year of the project, we reported to the       ClimateXChange policy workshop on the changes in efficiency and/or       subsidies for renewables required for the Scottish Government to meet its       renewables targets.
+We also reported simulation results for the       introduction of a carbon tax in Scotland, clearly a possibility under       independence.
+We have also recently (Summer 2013) discussed with the       Scottish Government on-going work on the wider economic and energy use       impacts of improved energy efficiency in household consumption.
+In the       second year of the project we are undertaking analysis of the potential       economic impacts for Scotland of developments in "Community Renewables".
+We have also provided an analysis of the likely economic impact of the       recent licensing for marine energy developments.
+This research will feed       directly into the Scottish Government's deliberations on the current       renewable energy targets in this area (Source 3 can corroborate).
+Overall, increased capacity in economic modelling enhances the process       of, and outcomes from, policy formation and evaluation.
+This allows for       better decision making in the Scottish Government, improved advice to       Scottish Ministers and a more informed public debate on policy decisions.
+These are central issues in the move towards greater devolved fiscal       powers embodied in the Scotland Act (2012) and the discussions surrounding       the independence referendum.
+Continuing model innovation and sustainable impact.
+Furthermore, the Scottish Government is part-funding (with the ESRC) two       PhD studentships within the Economics Department to expand the variant of       the AMOS model that it has adopted, and continues to fund advice and       technical assistance from the modelling team.
+The specific areas of       improvement are the treatment of the Government sector, further labour       market developments and greater household disaggregation.
+These are       particular areas chosen by the Scottish Government where an enhanced       understanding would improve their policy analysis.
+Continuing model       innovation is also a feature of a very recent award to Strathclyde under       the ESRC's Future of the UK and Scotland pre and post referendum       initiative, which will explore alternative fiscal futures under a range of       model developments, including: a separate North Sea Oil sector; the       incorporation of public attitudes towards taxation and government       expenditure (building on explicit monitoring of these attitudes in juries       and panels run by multidisciplinary colleagues); and the completion of a       "behavioural" single-region and a "New Economic Geography" inter-regional       variant of the model.
+Sustained policy impact is virtually assured as a       consequence of the current embeddedness of CGE modelling within the       Scottish Government's policy formation and assessment process (Sources 1       and 2 can corroborate).
